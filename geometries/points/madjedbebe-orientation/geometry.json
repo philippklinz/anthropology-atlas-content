@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:madjedbebe-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 (location), 116–128 (assemblage), 176–188 (Phase 2 boundary; 95.4% including systematic uncertainty)"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Redaktionelle Lagegenauigkeit; kein statistisches Konfidenzintervall.",
+      "en": "Editorial positional accuracy, not a statistical confidence interval."
+    }
+  },
+  "processingNote": {
+    "de": "Aus 12°30′S, 132°53′E gerundet. Keine Position einzelner Funde.",
+    "en": "Rounded from 12°30′S, 132°53′E. Not an individual find position."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored illustration based on cited geographical facts, not digitized or traced from a third-party map. Not a measured coast, a population boundary or a precisely known travel path."
+  }
+}

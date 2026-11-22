@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:early-migrations",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Über Meere und Landbrücken",
+    "en": "Across Seas and Land Bridges"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:madjedbebe-early-assemblage",
+    "assertion:bering-land-connection-25ka",
+    "assertion:sahul-land-connection-65ka",
+    "asset:wallacea-65ka-model",
+    "asset:white-sands-footprints",
+    "chapter:seas-and-land-bridges",
+    "community:early-north-american-populations",
+    "community:early-sahul-populations",
+    "concept:ice-age-land-and-sea",
+    "concept:migration-evidence-and-models",
+    "event:madjedbebe-early-evidence",
+    "event:north-pacific-route-opportunity",
+    "event:sahul-northern-route",
+    "event:sahul-southern-route",
+    "event:white-sands-footprint-evidence",
+    "geometry:bering-connection-schematic",
+    "geometry:madjedbebe-orientation",
+    "geometry:north-pacific-coastal-route-model",
+    "geometry:sahul-northern-route-model",
+    "geometry:sahul-southern-route-model",
+    "geometry:sahul-torres-connection-schematic",
+    "geometry:white-sands-orientation",
+    "interpretation:sahul-entry-routes",
+    "place:madjedbebe",
+    "place:white-sands",
+    "region:bering-land-connection",
+    "region:beringia",
+    "region:north-pacific-coast",
+    "region:sahul",
+    "region:sahul-torres-connection",
+    "region:sunda",
+    "region:wallacea",
+    "source:borreggine-sahul-currents-2026",
+    "source:clarkson-madjedbebe-2017",
+    "source:farmer-bering-strait-2023",
+    "source:kealy-wallacea-2017",
+    "source:nps-beringia-overview",
+    "source:nps-white-sands-location",
+    "source:oconnell-sahul-2018",
+    "source:pigati-white-sands-2023",
+    "source:praetorius-pacific-coast-2023",
+    "source:springer-white-sands-2026",
+    "source:usgs-white-sands-footprints-image",
+    "specimen:white-sands-human-tracks"
+  ],
+  "entryChapterIds": [
+    "chapter:seas-and-land-bridges"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

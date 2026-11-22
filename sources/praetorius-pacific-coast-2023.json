@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:praetorius-pacific-coast-2023",
+  "sourceRefs": [],
+  "title": "Ice and ocean constraints on early human migrations into North America along the Pacific coast",
+  "sourceType": "article",
+  "creators": [
+    "Summer K. Praetorius et al."
+  ],
+  "published": "2023",
+  "containerTitle": "PNAS 120(7), e2208738120",
+  "identifiers": {
+    "doi": "10.1073/pnas.2208738120"
+  },
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9963817/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Full main article consulted. Environmental opportunities do not demonstrate a travelled route. CC BY-NC-ND paper is linked only; no map is copied or traced."
+}

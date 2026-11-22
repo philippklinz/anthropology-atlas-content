@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:sahul-southern-route-model",
+  "sourceRefs": [
+    {
+      "sourceId": "source:kealy-wallacea-2017",
+      "role": "supports",
+      "locator": "Introduction and Discussion, pp. 259–260 and 266: Sunda/Sahul, required crossings, Birdsell routes 1B and 2B; Fig. 3: 65 ka model"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "LineString",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Handgezeichnete Verbindung regionaler Anker. Eckpunkte sind keine nachgewiesenen oder datierten Zwischenstopps; Richtung ist eine Modellannahme.",
+    "en": "Manually drawn connection of regional anchors. Vertices are not attested or dated stops; direction is a model assumption."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored illustration based on cited geographical facts, not digitized or traced from a third-party map. Not a measured coast, a population boundary or a precisely known travel path."
+  }
+}

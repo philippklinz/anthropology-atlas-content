@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:bering-land-connection-25ka",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nps-beringia-overview",
+      "role": "supports",
+      "locator": "About Beringia, paragraphs 2–3: exposed land connection at 25 ka; broad landscape rather than narrow isthmus"
+    },
+    {
+      "sourceId": "source:farmer-bering-strait-2023",
+      "role": "supports",
+      "locator": "Abstract and Results: land-bridge formation around 35.7 ka; corrected Fig. 3 and correction DOI 10.1073/pnas.2300684120"
+    }
+  ],
+  "predicate": "extent-of",
+  "subjectId": "region:bering-land-connection",
+  "objectId": "region:beringia",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 25000,
+      "younger": 25000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Ein datierter Landschaftsstand mit schematischer Teilfläche. Zwischen den Ständen wird keine Küste interpoliert.",
+      "en": "A dated landscape snapshot with a schematic partial area. No coastline is interpolated between snapshots."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:bering-connection-schematic",
+      "role": "land-reconstruction"
+    }
+  ],
+  "note": {
+    "de": "Ocker markiert nur einen ausgewählten Teil der damaligen Landverbindung. Die heutige Grundkarte bleibt als Orientierung sichtbar. Die Grenze ist keine vermessene Paläoküste.",
+    "en": "Ochre marks only a selected part of the former land connection. The modern basemap remains as orientation. The boundary is not a surveyed palaeocoastline."
+  }
+}

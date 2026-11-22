@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:usgs-white-sands-footprints-image",
+  "sourceRefs": [],
+  "title": "Footprints found in White Sands National Park",
+  "sourceType": "website",
+  "creators": [
+    "U.S. Geological Survey"
+  ],
+  "url": "https://www.usgs.gov/media/images/footprints-found-white-sands-national-park",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "USGS credits the National Park Service and explicitly labels the photograph Public Domain."
+}

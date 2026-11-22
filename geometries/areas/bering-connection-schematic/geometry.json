@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:bering-connection-schematic",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nps-beringia-overview",
+      "role": "supports",
+      "locator": "About Beringia, paragraphs 2–3: exposed land connection at 25 ka; broad landscape rather than narrow isthmus"
+    },
+    {
+      "sourceId": "source:farmer-bering-strait-2023",
+      "role": "supports",
+      "locator": "Abstract and Results: land-bridge formation around 35.7 ka; corrected Fig. 3 and correction DOI 10.1073/pnas.2300684120"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiPolygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Originale Teilmarkierung des Landverbindungsraums um 25.000 BP; keine exakte Küstenlinie und nicht ganz Beringia. An ±180° in zwei Polygone geteilt.",
+    "en": "Original partial marker of the land connection around 25,000 BP; not an exact coastline or all of Beringia. Split into two polygons at ±180°."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored illustration based on cited geographical facts, not digitized or traced from a third-party map. Not a measured coast, a population boundary or a precisely known travel path."
+  }
+}

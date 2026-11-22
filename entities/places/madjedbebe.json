@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:madjedbebe",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 (location), 116–128 (assemblage), 176–188 (Phase 2 boundary; 95.4% including systematic uncertainty)"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Madjedbebe · Nordaustralien",
+    "en": "Madjedbebe · northern Australia"
+  },
+  "summary": {
+    "de": "Felsüberhang im heutigen Northern Territory. Der Fundplatz belegt frühe menschliche Aktivitäten; er bezeichnet keinen nachgewiesenen ersten Landungsort.",
+    "en": "Rock shelter in today’s Northern Territory. The site records early human activities, not a demonstrated first landing place."
+  }
+}

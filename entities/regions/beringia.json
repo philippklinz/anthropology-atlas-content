@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "region:beringia",
+  "sourceRefs": [
+    {
+      "sourceId": "source:farmer-bering-strait-2023",
+      "role": "supports",
+      "locator": "Abstract and Results: land-bridge formation around 35.7 ka; corrected Fig. 3 and correction DOI 10.1073/pnas.2300684120"
+    },
+    {
+      "sourceId": "source:nps-beringia-overview",
+      "role": "supports",
+      "locator": "About Beringia, paragraphs 2–3: exposed land connection at 25 ka; broad landscape rather than narrow isthmus"
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Beringia · zwischen Asien und Nordamerika",
+    "en": "Beringia · between Asia and North America"
+  },
+  "summary": {
+    "de": "Großraum um die heutige Beringstraße. Niedriger Meeresspiegel legte eine weite Landschaft frei, in der sich Menschen, Tiere und Pflanzen ausbreiten konnten.",
+    "en": "Region around the present Bering Strait. Low sea level exposed a broad landscape across which people, animals and plants could spread."
+  }
+}

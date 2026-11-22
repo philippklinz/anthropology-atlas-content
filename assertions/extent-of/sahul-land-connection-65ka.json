@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:sahul-land-connection-65ka",
+  "sourceRefs": [
+    {
+      "sourceId": "source:kealy-wallacea-2017",
+      "role": "supports",
+      "locator": "Introduction and Discussion, pp. 259–260 and 266: Sunda/Sahul, required crossings, Birdsell routes 1B and 2B; Fig. 3: 65 ka model"
+    }
+  ],
+  "predicate": "extent-of",
+  "subjectId": "region:sahul-torres-connection",
+  "objectId": "region:sahul",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 65000,
+      "younger": 65000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Ein datierter Landschaftsstand mit schematischer Teilfläche. Zwischen den Ständen wird keine Küste interpoliert.",
+      "en": "A dated landscape snapshot with a schematic partial area. No coastline is interpolated between snapshots."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:sahul-torres-connection-schematic",
+      "role": "land-reconstruction"
+    }
+  ],
+  "note": {
+    "de": "Ocker markiert nur einen ausgewählten Teil der damaligen Landverbindung. Die heutige Grundkarte bleibt als Orientierung sichtbar. Die Grenze ist keine vermessene Paläoküste.",
+    "en": "Ochre marks only a selected part of the former land connection. The modern basemap remains as orientation. The boundary is not a surveyed palaeocoastline."
+  }
+}

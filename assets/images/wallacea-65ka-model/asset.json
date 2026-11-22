@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:wallacea-65ka-model",
+  "sourceRefs": [
+    {
+      "sourceId": "source:kealy-wallacea-2017",
+      "role": "supports",
+      "locator": "Introduction and Discussion, pp. 259–260 and 266: Sunda/Sahul, required crossings, Birdsell routes 1B and 2B; Fig. 3: 65 ka model"
+    }
+  ],
+  "assetType": "image",
+  "file": "wallacea-65ka.jpeg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Wallacea vor 65.000 Jahren · Forschungsmodell",
+    "en": "Wallacea 65,000 years ago · research model"
+  },
+  "alt": {
+    "de": "Abbildung 3 von Kealy et al. (2017), unverändert. Die blauen Säume zeigen Sichtverbindungen zwischen Inseln, nicht Wassertiefe oder belegte Wanderungskorridore.",
+    "en": "Unchanged Figure 3 from Kealy et al. (2017). Blue buffers show inter-island visibility, not water depth or attested migration corridors."
+  },
+  "entityIds": [
+    "region:wallacea",
+    "region:sahul"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Shimona Kealy",
+      "Julien Louys",
+      "Sue O’Connor"
+    ],
+    "attribution": "Kealy, Louys & O’Connor (2017), Fig. 3 · CC BY 4.0",
+    "sourceUrl": "https://research-repository.griffith.edu.au/bitstreams/b5b6a5f3-f583-54bb-8f87-c104b9b8f313/download",
+    "originNote": "Embedded 1267 × 887 JPEG extracted unchanged from Figure 3. License stated on institutional PDF cover: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

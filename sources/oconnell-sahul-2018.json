@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:oconnell-sahul-2018",
+  "sourceRefs": [],
+  "title": "When did Homo sapiens first reach Southeast Asia and Sahul?",
+  "sourceType": "article",
+  "creators": [
+    "James F. O’Connell et al."
+  ],
+  "published": "2018",
+  "containerTitle": "PNAS 115, 8482–8490",
+  "identifiers": {
+    "doi": "10.1073/pnas.1808385115"
+  },
+  "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/e91eebff-05c0-4c71-9222-70a5be009301/content",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Full text consulted. Cited as a published challenge to the 65 ka interpretation, not a current universal consensus. Link only."
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:white-sands-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nps-white-sands-location",
+      "role": "derivation",
+      "locator": "Asset metadata, Locations: White Sands National Park, 32.7751007080078, −106.316200256348; regional orientation only"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 20000,
+    "note": {
+      "de": "Redaktionelle Lagegenauigkeit; kein statistisches Konfidenzintervall.",
+      "en": "Editorial positional accuracy, not a statistical confidence interval."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundete Nationalpark-Orientierung, keine Vermessung von Locality 2 oder eines konkreten Abdrucks.",
+    "en": "Rounded national-park orientation, not a survey position of Locality 2 or an individual footprint."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored illustration based on cited geographical facts, not digitized or traced from a third-party map. Not a measured coast, a population boundary or a precisely known travel path."
+  }
+}

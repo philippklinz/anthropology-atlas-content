@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:north-pacific-route-opportunity",
+  "sourceRefs": [
+    {
+      "sourceId": "source:praetorius-pacific-coast-2023",
+      "role": "supports",
+      "locator": "Introduction; Discussion, Favorable Times for Migration, pp. 8–9; 24.5–22 ka environmental window, not a dated journey"
+    }
+  ],
+  "eventType": "migration",
+  "labels": {
+    "de": "Pazifikküste · mögliches Wanderungsfenster",
+    "en": "Pacific coast · possible migration window"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 24500,
+      "younger": 24500,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 22000,
+      "younger": 22000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "community:early-north-american-populations",
+      "role": "moving-community"
+    }
+  ],
+  "placeIds": [],
+  "spatial": [
+    {
+      "geometryId": "geometry:north-pacific-coastal-route-model",
+      "role": "route",
+      "direction": "forward"
+    }
+  ],
+  "note": {
+    "de": "24.500–22.000 BP ist ein im Umweltmodell günstigeres Zeitfenster, keine datierte Wanderung und keine Reisedauer. Die Linie ist eine großräumige Küstenhypothese. Sie beweist weder den Weg nach White Sands noch bestimmte Boote oder Eiswege.",
+    "en": "24,500–22,000 BP is an environmentally favourable model window, not a dated migration or travel duration. The line is a broad coastal hypothesis. It proves neither the route to White Sands nor particular boats or sea-ice travel."
+  },
+  "epistemic": {
+    "status": "hypothetical",
+    "note": {
+      "de": "Aus Eis- und Ozeanbedingungen abgeleitete Möglichkeit; archäologisch nicht als durchgehende Reise belegt.",
+      "en": "A possibility inferred from ice and ocean conditions, not an archaeologically documented continuous journey."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:white-sands",
+  "sourceRefs": [
+    {
+      "sourceId": "source:springer-white-sands-2026",
+      "role": "supports",
+      "locator": "Official USGS abstract: 20 footprint-bearing horizons and refined sequence chronology of 23.5–21.7 ka"
+    },
+    {
+      "sourceId": "source:nps-white-sands-location",
+      "role": "derivation",
+      "locator": "Asset metadata, Locations: White Sands National Park, 32.7751007080078, −106.316200256348; regional orientation only"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "White Sands · New Mexico",
+    "en": "White Sands · New Mexico"
+  },
+  "summary": {
+    "de": "Spuren am einstigen Lake Otero, heute im Südwesten der USA. Die Kartenposition dient der Orientierung im Nationalpark.",
+    "en": "Traces near former Lake Otero, now in the southwestern United States. The map point is regional park orientation."
+  }
+}

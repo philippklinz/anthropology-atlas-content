@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:white-sands-footprint-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:springer-white-sands-2026",
+      "role": "supports",
+      "locator": "Official USGS abstract: 20 footprint-bearing horizons and refined sequence chronology of 23.5–21.7 ka"
+    },
+    {
+      "sourceId": "source:pigati-white-sands-2023",
+      "role": "supports",
+      "locator": "Official USGS abstract: independent terrestrial conifer-pollen radiocarbon and OSL age checks"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "White Sands · Spuren in 20 Horizonten",
+    "en": "White Sands · footprints in 20 horizons"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 23500,
+      "younger": 21700,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:white-sands-human-tracks",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:white-sands"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:white-sands-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Datierungsrahmen einer Folge von Fundhorizonten nach der 2026 veröffentlichten Chronologie. Er bedeutet weder einen einzelnen 1.800 Jahre dauernden Fußweg noch durchgehende Besiedlung.",
+    "en": "Dating envelope of a sequence of archaeological horizons in the chronology published in 2026. It describes neither one 1,800-year walk nor continuous occupation."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Abdrücke sind Fundbelege; die zeitliche Einordnung entsteht aus der untersuchten Schichtenfolge und mehreren Datierungsverfahren.",
+      "en": "The impressions are physical evidence; the chronology derives from their stratigraphic sequence and multiple dating methods."
+    }
+  }
+}
