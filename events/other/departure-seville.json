@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:departure-seville",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pigafetta-stanley",
+      "role": "supports",
+      "locator": "Departure paragraph: 10 August 1519"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Aufbruch aus Sevilla",
+    "en": "Departure from Seville"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1519,
+        "month": 8,
+        "day": 20
+      },
+      "latest": {
+        "year": 1519,
+        "month": 8,
+        "day": 20
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "10.8.1519",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Beginn der Reise auf dem Guadalquivir.",
+    "en": "Start of the voyage on the Guadalquivir."
+  },
+  "placeIds": [
+    "place:seville"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:seville-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

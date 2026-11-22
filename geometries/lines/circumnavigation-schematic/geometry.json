@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:circumnavigation-schematic",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:elkano-route",
+      "role": "derivation",
+      "locator": "Ordered itinerary: The Expedition"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiLineString",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Kein gemessener Kurs. Zwischenstationen sind bewusst ausgelassen.",
+      "en": "Not a measured track. Intermediate stops are deliberately omitted."
+    }
+  },
+  "processingNote": {
+    "de": "Eigene schematische Verbindung ausgewählter Stationen. Zusätzliche Linienpunkte formen die Ozeanquerungen, sind aber keine belegten Aufenthalte. Am 180. Längengrad geteilt.",
+    "en": "Original schematic connection of selected stations. Extra vertices shape ocean crossings but are not attested stops. Split at the antimeridian."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic orientation geometry",
+    "originNote": "Original manually authored orientation coordinates and line work; no third-party map geometry copied."
+  }
+}

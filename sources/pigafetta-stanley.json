@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:pigafetta-stanley",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pigafetta’s Account of Magellan’s Voyage, translated by Lord Stanley of Alderley",
+  "sourceType": "book",
+  "creators": [
+    "Antonio Pigafetta",
+    "Henry Edward John Stanley (translator)"
+  ],
+  "url": "https://en.wikisource.org/wiki/The_First_Voyage_Round_the_World/Pigafetta%27s_Account_of_Magellan%27s_Voyage",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "1874 Hakluyt Society edition, online transcription. Read departure, Mactan and return passages. A participant’s situated account, mediated by a later translation; no claim of consulting the original manuscript.",
+  "published": "1874"
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:magellan-strait-passage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:elkano-route",
+      "role": "supports",
+      "locator": "The Expedition: 21 October and 28 November 1520"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Durchfahrt durch die Magellanstraße",
+    "en": "Passage through the Strait of Magellan"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1520,
+        "month": 10,
+        "day": 31
+      },
+      "latest": {
+        "year": 1520,
+        "month": 10,
+        "day": 31
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "21.10.1520",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    },
+    "end": {
+      "earliest": {
+        "year": 1520,
+        "month": 12,
+        "day": 8
+      },
+      "latest": {
+        "year": 1520,
+        "month": 12,
+        "day": 8
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "28.11.1520",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Verbindung zwischen Atlantik und Pazifik. Der Punkt markiert nur die Region der Passage.",
+    "en": "Passage from the Atlantic to the Pacific. The point only locates the region of the passage."
+  },
+  "placeIds": [
+    "place:magellan-strait"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:magellan-strait-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

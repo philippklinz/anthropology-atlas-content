@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:battle-mactan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nqc-mactan",
+      "role": "supports",
+      "locator": "The Showdown in Mactan"
+    },
+    {
+      "sourceId": "source:nhcp-lapulapu",
+      "role": "supports",
+      "locator": "Marker text, 27 April 1521"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "battle",
+  "labels": {
+    "de": "Kampf auf Mactan",
+    "en": "Battle of Mactan"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1521,
+        "month": 5,
+        "day": 7
+      },
+      "latest": {
+        "year": 1521,
+        "month": 5,
+        "day": 7
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "27.4.1521",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:ferdinand-magellan",
+      "role": "attacker",
+      "sourceRefs": [
+        {
+          "sourceId": "source:nqc-mactan",
+          "role": "supports",
+          "locator": "The Showdown in Mactan"
+        }
+      ]
+    },
+    {
+      "entityId": "person:lapulapu",
+      "role": "commander",
+      "sourceRefs": [
+        {
+          "sourceId": "source:nqc-mactan",
+          "role": "supports",
+          "locator": "The Showdown in Mactan; presence explicitly uncertain"
+        }
+      ]
+    },
+    {
+      "entityId": "community:mactan-defenders-1521",
+      "role": "defender",
+      "sourceRefs": [
+        {
+          "sourceId": "source:nqc-mactan",
+          "role": "supports",
+          "locator": "The Showdown in Mactan"
+        }
+      ]
+    },
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "combatant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:nqc-mactan",
+          "role": "supports",
+          "locator": "The Showdown in Mactan"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Magellans Angriff wurde abgewehrt; er kam dabei ums Leben. Lapulapu ist als Führungsfigur zugeordnet, nicht als sicher persönlich anwesender Kämpfer.",
+    "en": "Magellan’s attack was repelled and he was killed. Lapulapu is associated as a leader, not asserted to have personally fought."
+  },
+  "placeIds": [
+    "place:mactan"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:mactan-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

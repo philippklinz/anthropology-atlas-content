@@ -1,0 +1,549 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:first-circumnavigation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-circumnavigation",
+      "role": "supports",
+      "locator": "Title and introductory paragraph"
+    },
+    {
+      "sourceId": "source:elkano-route",
+      "role": "supports",
+      "locator": "The Expedition"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "journey",
+  "labels": {
+    "de": "Erste Weltumsegelung · 1519–1522",
+    "en": "First circumnavigation · 1519–1522"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1519,
+        "month": 8,
+        "day": 20
+      },
+      "latest": {
+        "year": 1519,
+        "month": 8,
+        "day": 20
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "10.8.1519",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    },
+    "end": {
+      "earliest": {
+        "year": 1522,
+        "month": 9,
+        "day": 18
+      },
+      "latest": {
+        "year": 1522,
+        "month": 9,
+        "day": 18
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "8.9.1522",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "person:ferdinand-magellan",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:naval-museum-voyage",
+          "role": "supports",
+          "locator": "Magellan’s Death"
+        }
+      ]
+    },
+    {
+      "entityId": "person:juan-sebastian-elcano",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:unesco-circumnavigation",
+          "role": "supports",
+          "locator": "Opening paragraph"
+        }
+      ]
+    },
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Opening and closing passages"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Linie zeigt den gesamten Reiseverlauf schematisch. Magellan nahm nur bis zu seinem Tod 1521 teil. Sie zeigt keine Schiffsposition zum gewählten Datum.",
+    "en": "The line shows the entire voyage schematically. Magellan participated only until his death in 1521. It does not show a ship’s position on the selected date."
+  },
+  "waypoints": [
+    {
+      "placeId": "place:seville",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1519,
+            "month": 8,
+            "day": 20
+          },
+          "latest": {
+            "year": 1519,
+            "month": 8,
+            "day": 20
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "10.8.1519",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Departure, 10 August 1519"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:sanlucar",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1519,
+            "month": 9,
+            "day": 30
+          },
+          "latest": {
+            "year": 1519,
+            "month": 9,
+            "day": 30
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "20.9.1519",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Departure, 20 September 1519"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:rio-bay",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1519,
+            "month": 12,
+            "day": 23
+          },
+          "latest": {
+            "year": 1519,
+            "month": 12,
+            "day": 23
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "13.12.1519",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:naval-museum-voyage",
+          "role": "supports",
+          "locator": "The Familiar: From Seville to Río de Solís"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:magellan-strait",
+      "time": {
+        "kind": "interval",
+        "start": {
+          "earliest": {
+            "year": 1520,
+            "month": 10,
+            "day": 31
+          },
+          "latest": {
+            "year": 1520,
+            "month": 10,
+            "day": 31
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "21.10.1520",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        },
+        "end": {
+          "earliest": {
+            "year": 1520,
+            "month": 12,
+            "day": 8
+          },
+          "latest": {
+            "year": 1520,
+            "month": 12,
+            "day": 8
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "28.11.1520",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        },
+        "endMeaning": "ended"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:elkano-route",
+          "role": "supports",
+          "locator": "Strait passage"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:guam",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1521,
+            "month": 3,
+            "day": 16
+          },
+          "latest": {
+            "year": 1521,
+            "month": 3,
+            "day": 16
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "6.3.1521",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:elkano-route",
+          "role": "supports",
+          "locator": "Mariana Islands, 6 March 1521"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:mactan",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1521,
+            "month": 5,
+            "day": 7
+          },
+          "latest": {
+            "year": 1521,
+            "month": 5,
+            "day": 7
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "27.4.1521",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:nqc-mactan",
+          "role": "supports",
+          "locator": "The Showdown in Mactan"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:tidore",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1521,
+            "month": 11,
+            "day": 18
+          },
+          "latest": {
+            "year": 1521,
+            "month": 11,
+            "day": 18
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "8.11.1521",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:naval-museum-voyage",
+          "role": "supports",
+          "locator": "Elcano and the Arrival at the Moluccas"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:timor",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1522,
+            "month": 2,
+            "day": 4
+          },
+          "latest": {
+            "year": 1522,
+            "month": 2,
+            "day": 4
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "25.1.1522",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:elkano-route",
+          "role": "supports",
+          "locator": "Timor, 25 January 1522"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:cape-good-hope",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1522,
+            "month": 5,
+            "day": 29
+          },
+          "latest": {
+            "year": 1522,
+            "month": 5,
+            "day": 29
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "19.5.1522",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:elkano-route",
+          "role": "supports",
+          "locator": "Cape of Good Hope, 19 May 1522"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:sanlucar",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1522,
+            "month": 9,
+            "day": 16
+          },
+          "latest": {
+            "year": 1522,
+            "month": 9,
+            "day": 16
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "6.9.1522",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:agi-elcano-letter",
+          "role": "supports",
+          "locator": "Letter date and arrival at Sanlúcar"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    },
+    {
+      "placeId": "place:seville",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1522,
+            "month": 9,
+            "day": 18
+          },
+          "latest": {
+            "year": 1522,
+            "month": 9,
+            "day": 18
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "8.9.1522",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Closing paragraphs: return to Seville"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+        }
+      ]
+    }
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:circumnavigation-schematic",
+      "role": "route"
+    }
+  ]
+}

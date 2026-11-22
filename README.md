@@ -2,7 +2,9 @@
 
 Independent historical content for the [Anthropology Atlas engine](https://github.com/philippklinz/anthropology-atlas-engine).
 
-This repository starts with an **empty draft**. It contains no researched historical chapter and no synthetic demo history. `published/catalog.json` is a valid empty catalogue so an installed atlas can connect immediately.
+The first historical sample covers **the first circumnavigation, 1519–1522**: 4 people, 9 places, 12 events, the Victoria, the defenders of Mactan, and 8 sources. The chapter is available in German and English. All records are honestly marked as a **research draft**, with cited sources and explicitly schematic geography. See [research scope and limits](docs/research/first-circumnavigation.md).
+
+`published/catalog.json` serves this sample to the atlas. Synthetic fixtures remain in the engine’s test area and are not part of this historical package.
 
 ## Use as a content source
 

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:tidore-arrival",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:naval-museum-voyage",
+      "role": "supports",
+      "locator": "Elcano and the Arrival at the Moluccas"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Ankunft auf Tidore",
+    "en": "Arrival at Tidore"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1521,
+        "month": 11,
+        "day": 18
+      },
+      "latest": {
+        "year": 1521,
+        "month": 11,
+        "day": 18
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "8.11.1521",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Expedition erreicht eines ihrer Ziele in den Molukken.",
+    "en": "The expedition reaches one of its destinations in the Moluccas."
+  },
+  "placeIds": [
+    "place:tidore"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tidore-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

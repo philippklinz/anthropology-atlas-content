@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cape-passage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:elkano-route",
+      "role": "supports",
+      "locator": "The Expedition: Cape of Good Hope, 19 May 1522"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Passage am Kap",
+    "en": "Passage around the cape"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1522,
+        "month": 5,
+        "day": 29
+      },
+      "latest": {
+        "year": 1522,
+        "month": 5,
+        "day": 29
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "19.5.1522",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Victoria umrundet die Südspitze Afrikas; kein hier behaupteter Landgang.",
+    "en": "Victoria rounds southern Africa; no landing is asserted here."
+  },
+  "placeIds": [
+    "place:cape-good-hope"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:cape-good-hope-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

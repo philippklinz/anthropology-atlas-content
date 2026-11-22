@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:magellan-strait-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.3,
+      -53.6
+    ]
+  }
+}

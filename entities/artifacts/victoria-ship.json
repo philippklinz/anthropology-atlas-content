@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:victoria-ship",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:naval-museum-voyage",
+      "role": "supports",
+      "locator": "The Voyage Around the World; The Return of the Victoria"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Victoria (Schiff)",
+    "en": "Victoria (ship)"
+  },
+  "summary": {
+    "de": "Das Schiff, mit dem Elcano und seine Besatzung 1522 zurückkehrten. Von den fünf Ausgangsschiffen vollendete es als einziges die Weltumsegelung.",
+    "en": "The ship in which Elcano and his crew returned in 1522. Of the five original vessels, it alone completed the circumnavigation."
+  }
+}

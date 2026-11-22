@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nhcp-lapulapu",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Lapulapu — historical marker registry",
+  "sourceType": "catalog",
+  "creators": [
+    "National Historical Commission of the Philippines"
+  ],
+  "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/lapulapu/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Registry record of the 1951 commemorative marker. Used alongside other accounts, not as an eyewitness source or an exact survey of the battlefield.",
+  "published": "1951 (marker)"
+}

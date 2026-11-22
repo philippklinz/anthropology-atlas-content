@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:mactan-defenders-1521",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nqc-mactan",
+      "role": "supports",
+      "locator": "The Showdown in Mactan"
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Verteidiger Mactans (1521)",
+    "en": "Defenders of Mactan (1521)"
+  },
+  "summary": {
+    "de": "Die im Konflikt Lapulapu zugeordneten Verteidiger. Diese Bezeichnung meint eine konkrete Gruppe im Jahr 1521, kein zeitloses „Volk“.",
+    "en": "Defenders associated with Lapulapu in this conflict. This label identifies a specific group in 1521, not a timeless ethnic category."
+  }
+}

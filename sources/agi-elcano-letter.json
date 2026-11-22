@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:agi-elcano-letter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Nuevo documento de Elcano en el Archivo General de Indias",
+  "sourceType": "archive",
+  "creators": [
+    "Archivo General de Indias"
+  ],
+  "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/agi/destacados/documento-elcano.html",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the indexed full-text institutional description after HTTP 429 on direct access. It identifies a contemporary copy of Elcano’s letter, not the original; no facsimile was consulted."
+}
