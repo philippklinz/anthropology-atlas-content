@@ -1,7 +1,7 @@
 {
   "schemaVersion": "0.1.0",
   "engineRepository": "https://github.com/philippklinz/anthropology-atlas-engine",
-  "engineCommit": "b11dd4a60a6884aa43deee6de144fd6eeef3891f",
+  "engineCommit": "c2f02195e1b9f550f598e39b9b12a03d5458cc6c",
   "compilerVersion": "0.1.0-dev.7",
   "entrypoint": "tooling/index.html",
   "format": "native-browser-toolkit",

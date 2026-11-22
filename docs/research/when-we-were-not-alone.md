@@ -55,4 +55,4 @@ Media retain their own rights independently of the repository's GPL license. No 
 
 ## Publication and review
 
-All 40 new records remain research drafts. Structural validation is not independent historical peer review. The toolkit is deliberately pinned to engine commit `b11dd4a60a6884aa43deee6de144fd6eeef3891f`, compiler `0.1.0-dev.7`, adding typed genetic relationships without an npm/Node toolchain. Browser export and verification results are recorded after source commit and compilation.
+All 40 new records remain research drafts. Structural validation is not independent historical peer review. The toolkit is deliberately pinned to engine commit `c2f02195e1b9f550f598e39b9b12a03d5458cc6c`, compiler `0.1.0-dev.7`, adding typed genetic relationships without an npm/Node toolchain. Browser export and verification results are recorded after source commit and compilation.
