@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:bacho-kiro-cave-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tsanova-bacho-kiro-2024",
+      "role": "derivation",
+      "locator": "Background to Bacho Kiro Cave, first paragraph and Fig. 1: site coordinates"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktionelle Genauigkeit einer gerundeten Lagehilfe; kein statistischer Messfehler.",
+      "en": "Editorial accuracy of a rounded orientation point; not a statistical measurement error."
+    }
+  },
+  "processingNote": {
+    "de": "Manuell gerundeter Punkt aus der zitierten Ortsangabe. Heutige Fundortlage, keine Grabungskoordinate oder Wanderroute.",
+    "en": "Manually rounded point from the cited location. Present-day findsite location, not an excavation coordinate or migration route."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original manually authored point derived from cited factual coordinates. No third-party map geometry copied."
+  }
+}

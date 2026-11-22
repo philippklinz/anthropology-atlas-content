@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:zlaty-kun-neanderthal-ancestry",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    },
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Dating Zlatý kůň, manuscript lines 225–234: adhesive contamination, shared IBD age comparison around 45 ka and molecular estimates around 47–48 ka with large uncertainty"
+    },
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Abstract; Shared Neanderthal admixture: ancestry segments in Ranis and Zlatý kůň and estimated earlier admixture interval"
+    }
+  ],
+  "subjectId": "specimen:zlaty-kun",
+  "predicate": "has-genetic-ancestry-from",
+  "objectId": "taxon:neanderthals",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 45000,
+      "younger": 45000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Neandertaler-Anteile im Genom stammen von früheren Vorfahren. Sie unterscheiden sich von der unmittelbaren Elternschaft bei Denisova 11. Der hier gezeigte Zeitpunkt ordnet die Frau von Zlatý kůň ein, nicht die frühere Vermischung von Populationen.",
+      "en": "Neanderthal segments in the genome derive from earlier ancestors. This differs from the immediate parentage inferred for Denisova 11. The displayed date locates the woman from Zlatý kůň, not the earlier admixture between populations."
+    }
+  },
+  "note": {
+    "de": "Neandertaler-Anteile im Genom stammen von früheren Vorfahren. Sie unterscheiden sich von der unmittelbaren Elternschaft bei Denisova 11. Der hier gezeigte Zeitpunkt ordnet die Frau von Zlatý kůň ein, nicht die frühere Vermischung von Populationen.",
+    "en": "Neanderthal segments in the genome derive from earlier ancestors. This differs from the immediate parentage inferred for Denisova 11. The displayed date locates the woman from Zlatý kůň, not the earlier admixture between populations."
+  }
+}

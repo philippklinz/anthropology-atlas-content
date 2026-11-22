@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:commons-denisova-entrance",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "File:Таинственная пещера.jpg",
+  "sourceType": "website",
+  "creators": [
+    "Xenochka"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0.jpg",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "published": "2013-08-14",
+  "bibliographicNote": "File description, author, date and CC BY-SA 4.0 license checked. The 1280-pixel Wikimedia derivative shows the modern entrance, not an ancient reconstruction."
+}

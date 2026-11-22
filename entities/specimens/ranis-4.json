@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:ranis-4",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Ranis4",
+    "en": "Ranis4"
+  },
+  "summary": {
+    "de": "Ein durch Knochen-DNA erschlossenes weibliches Individuum aus der Ilsenhöhle. Die Studie von 2024 erkennt gemeinsame ererbte DNA-Abschnitte mit der Frau von Zlatý kůň. Daraus wird eine Verwandtschaft geschätzt; ein konkreter vollständiger Stammbaum ist nicht erhalten.",
+    "en": "A female individual identified through bone DNA from Ilsenhöhle. The 2024 study identifies shared inherited DNA segments with the woman from Zlatý kůň. These support a kinship estimate; no complete, uniquely reconstructed family tree survives."
+  }
+}

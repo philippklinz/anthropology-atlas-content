@@ -1,8 +1,8 @@
 {
   "schemaVersion": "0.1.0",
   "engineRepository": "https://github.com/philippklinz/anthropology-atlas-engine",
-  "engineCommit": "d957e6a4178f4310aa0dc6fe1774464e9c35d32c",
-  "compilerVersion": "0.1.0-dev.6",
+  "engineCommit": "c2f02195e1b9f550f598e39b9b12a03d5458cc6c",
+  "compilerVersion": "0.1.0-dev.7",
   "entrypoint": "tooling/index.html",
   "format": "native-browser-toolkit",
   "adaptations": [
@@ -18,7 +18,7 @@
     {
       "path": "tooling/index.html",
       "bytes": 2590,
-      "sha256": "08dd9018d7f592cac78bc22007753175d9d78357de35e3d44c33fdab3f408973"
+      "sha256": "f44ba8280a83f883f9e61edc1b5f60e455fc9505eb2d4a632b81eb171779ce7e"
     },
     {
       "path": "tooling/licenses/THIRD_PARTY_NOTICES.md",
@@ -82,13 +82,13 @@
     },
     {
       "path": "tooling/schemas/0.1.0/README.md",
-      "bytes": 3263,
-      "sha256": "f58642e75daa334643f5f328c6e8701779d9e9b83e99852ef3819df057d90489"
+      "bytes": 3595,
+      "sha256": "1b6bae7d74a3a03a2d3e9712526aa714a3b723e032f491a331b59ecd304c88b9"
     },
     {
       "path": "tooling/schemas/0.1.0/catalog.schema.json",
-      "bytes": 4702,
-      "sha256": "8d342265673e9127f41c8ab5d697c7b25c92fba3c678941e571156b7c193ea4b"
+      "bytes": 4737,
+      "sha256": "a690fa8995a877d877a3fed2f8bd2c23f03d7bf83fce7e8a1dedceec7f1f61e6"
     },
     {
       "path": "tooling/schemas/0.1.0/config.schema.json",
@@ -102,13 +102,13 @@
     },
     {
       "path": "tooling/schemas/0.1.0/record.schema.json",
-      "bytes": 56856,
-      "sha256": "4723d38244753e13faeba3f26c87fe860336fc3da8aa578cc94cdd8f3c3be0a9"
+      "bytes": 56974,
+      "sha256": "c1ca2b96f4b082d1ac6b41e08c1b8c40b531fd0db597e1f31931a397e9fb33ed"
     },
     {
       "path": "tooling/schemas/0.1.0/vocabulary.json",
-      "bytes": 8143,
-      "sha256": "444dfa2a3666fccea0488af3fb655f974df97b767997a04bb60d5ccc6c213cab"
+      "bytes": 8789,
+      "sha256": "fddb9beaa367b780bb393d80729a70da392d94c238d592c2e4ccc5465a156300"
     },
     {
       "path": "tooling/src/domain/hash.js",
@@ -152,8 +152,8 @@
     },
     {
       "path": "tooling/tools/build.js",
-      "bytes": 9820,
-      "sha256": "e2397b5f4df784debf1aa1b11e84af01d6a18d99e8de428c88b8781d121cf159"
+      "bytes": 9985,
+      "sha256": "c092acce6939eb010107e2a3cc7b6f73b5ed3bb515fa6550fc5aa8a1da082a37"
     },
     {
       "path": "tooling/tools/geometry.js",
@@ -167,8 +167,8 @@
     },
     {
       "path": "tooling/tools/validate.js",
-      "bytes": 15096,
-      "sha256": "6bd9a5e62a059d9a7437090efe63cf766c8e1b2f6e97fbb87578ffaddc365900"
+      "bytes": 15670,
+      "sha256": "e04b387b02d353fe43bb3c42a17b9e212059fc12d10be0129dc743b5dfdfe65c"
     },
     {
       "path": "tooling/tools/workspace.js",

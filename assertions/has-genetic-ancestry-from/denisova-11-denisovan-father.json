@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:denisova-11-denisovan-father",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:slon-denisova-11-2018",
+      "role": "supports",
+      "locator": "pp. 113–116; Figs. 1–3: Denisova 11, mitochondrial lineage and nuclear-genome parental inference"
+    },
+    {
+      "sourceId": "source:brown-denisova-chronology-2021",
+      "role": "supports",
+      "locator": "Fig. 3b and caption: modelled Denisova 11 age, 79.3–118.1 ka; chronology attributed to Douka et al. (2019)"
+    }
+  ],
+  "subjectId": "specimen:denisova-11",
+  "predicate": "has-genetic-ancestry-from",
+  "objectId": "taxon:denisovans",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 118100,
+      "younger": 79300,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Unmittelbare väterliche Abstammung: Die nukleare DNA stützt einen Denisova-Vater. Der Name des Vaters ist unbekannt. Denisova 11 wird dadurch nicht als Homo sapiens eingeordnet.",
+      "en": "Immediate paternal ancestry: nuclear DNA supports a Denisovan father. His name is unknown. This does not classify Denisova 11 as Homo sapiens."
+    }
+  },
+  "note": {
+    "de": "Unmittelbare väterliche Abstammung: Die nukleare DNA stützt einen Denisova-Vater. Der Name des Vaters ist unbekannt. Denisova 11 wird dadurch nicht als Homo sapiens eingeordnet.",
+    "en": "Immediate paternal ancestry: nuclear DNA supports a Denisovan father. His name is unknown. This does not classify Denisova 11 as Homo sapiens."
+  }
+}

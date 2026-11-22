@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iaet-denisova-station",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Денисова пещера — научно-исследовательский стационар",
+  "sourceType": "website",
+  "creators": [
+    "Institute of Archaeology and Ethnography, Siberian Branch of the Russian Academy of Sciences"
+  ],
+  "url": "https://archaeology.nsc.ru/institut/structure/n-vp/denisova_cave/",
+  "accessedAt": "2026-11-22",
+  "language": "ru",
+  "bibliographicNote": "Institutional description and location of the Denisova Cave research station consulted. Station coordinates are used only for a rounded site-orientation point, not an exact excavation position."
+}

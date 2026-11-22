@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ranis-ilsenhoehle-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.565,
+      50.663
+    ]
+  }
+}

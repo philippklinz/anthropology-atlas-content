@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:zlaty-kun-genetic-kinship",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    },
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Dating Zlatý kůň, manuscript lines 225–234: adhesive contamination, shared IBD age comparison around 45 ka and molecular estimates around 47–48 ka with large uncertainty"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Zlatý kůň · Verwandte im heutigen Thüringen",
+    "en": "Zlatý kůň · relatives in present-day Thuringia"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 45000,
+      "younger": 45000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:zlaty-kun",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+        },
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Dating Zlatý kůň, manuscript lines 225–234: adhesive contamination, shared IBD age comparison around 45 ka and molecular estimates around 47–48 ka with large uncertainty"
+        }
+      ]
+    },
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+        },
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Dating Zlatý kůň, manuscript lines 225–234: adhesive contamination, shared IBD age comparison around 45 ka and molecular estimates around 47–48 ka with large uncertainty"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:zlaty-kun-koneprusy"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:zlaty-kun-koneprusy-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Genetische Zuordnung und Datierung beruhen auf den angegebenen Forschungsmodellen.",
+      "en": "Genetic identification and dating rely on the cited research models."
+    }
+  },
+  "note": {
+    "de": "Nur ein ungefährer Orientierungspunkt um 45.000 Jahre, erschlossen über den DNA-Vergleich mit Ranis. Die direkte Radiokohlenstoff-Datierung ist durch alten tierischen Klebstoff beeinträchtigt. Molekulare Modelle ergeben auch etwa 47.000–48.000 Jahre mit großer Unsicherheit. Der Punkt behauptet keine jahrgenaue oder widerspruchsfreie Datierung.",
+    "en": "An approximate orientation point around 45,000 years, inferred through DNA comparison with Ranis. Direct radiocarbon dating is affected by old animal-derived glue. Molecular models also yield roughly 47,000–48,000 years with large uncertainty. The point does not claim an exact or uniquely resolved date."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:ranis-ilsenhoehle",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    },
+    {
+      "sourceId": "source:smith-ranis-ecology-2024",
+      "role": "supports",
+      "locator": "Abstract; Discussion; reporting summary, research location: cold open environment, brief human occupations and site coordinates"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Ilsenhöhle bei Ranis · Deutschland",
+    "en": "Ilsenhöhle at Ranis · Germany"
+  },
+  "summary": {
+    "de": "Fundort unter der Burg Ranis in Thüringen. Unscheinbare Knochenfragmente wurden durch Protein- und DNA-Untersuchungen Menschen zugeordnet. Die Forschung verbindet einzelne davon mit der Frau von Zlatý kůň.",
+    "en": "A site beneath Ranis Castle in Thuringia. Protein and DNA analyses identified inconspicuous bone fragments as human. Research connects some of these individuals to the woman from Zlatý kůň."
+  }
+}

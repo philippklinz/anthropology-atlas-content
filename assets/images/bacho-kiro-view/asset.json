@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:bacho-kiro-view",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-bacho-kiro-view",
+      "role": "derivation",
+      "locator": "File description, author, license and current file history"
+    }
+  ],
+  "assetType": "image",
+  "file": "bacho-kiro-view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Bacho Kiro · ein Blick in die Höhle",
+    "en": "Bacho Kiro · a view inside the cave"
+  },
+  "alt": {
+    "de": "Großer Felsraum in der heute beleuchteten Bacho-Kiro-Höhle mit Besuchern im Hintergrund. Heutige Ansicht, keine prähistorische Wohnszene.",
+    "en": "Large rock chamber inside the now illuminated Bacho Kiro Cave, with visitors in the background. A modern view, not a prehistoric occupation scene."
+  },
+  "entityIds": [
+    "place:bacho-kiro-cave"
+  ],
+  "rights": {
+    "license": "CC-BY-2.5",
+    "creators": [
+      "Nenko Lazarov"
+    ],
+    "attribution": "Nenko Lazarov · CC-BY-2.5 · Wikimedia Commons",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bacho_Kiro_Cave.jpg",
+    "originNote": "Current Wikimedia original, 1024 × 768 pixels, copied unchanged; existing image credit retained. License: https://creativecommons.org/licenses/by/2.5/ A modern site view."
+  }
+}

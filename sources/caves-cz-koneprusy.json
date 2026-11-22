@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:caves-cz-koneprusy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Koněpruské jeskyně",
+  "sourceType": "website",
+  "creators": [
+    "Správa jeskyní České republiky"
+  ],
+  "url": "https://konepruske.caves.cz/",
+  "accessedAt": "2026-11-22",
+  "language": "cs",
+  "bibliographicNote": "Official cave-administration visitor page consulted for the modern site location, GPS 49°54′58″N, 14°04′08″E. This is a site orientation point, not the coordinate of the fossil within the cave."
+}

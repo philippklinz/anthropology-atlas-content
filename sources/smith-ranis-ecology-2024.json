@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:smith-ranis-ecology-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The ecology, subsistence and diet of ~45,000-year-old Homo sapiens at Ilsenhöhle in Ranis, Germany",
+  "sourceType": "article",
+  "creators": [
+    "Geoff M. Smith",
+    "Karen Ruebens",
+    "Elena Irene Zavala",
+    "et al."
+  ],
+  "url": "https://centaur.reading.ac.uk/116058/1/s41559-023-02303-6.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "published": "2024-01-31",
+  "identifiers": {
+    "doi": "10.1038/s41559-023-02303-6"
+  },
+  "bibliographicNote": "Nature Ecology & Evolution 8, 564–577. Published article consulted, including reporting-summary research location 50°39′45.3″N 11°33′53.5″E. Short human visits and the mixed cave assemblage must not be turned into a permanent settlement."
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:bacho-kiro-ancestry",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hajdinjak-bacho-kiro-2021",
+      "role": "supports",
+      "locator": "Main text, sampled individuals and Neanderthal ancestry; Fig. 3: recent ancestry in the early Bacho Kiro individuals, including F6-620"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Bacho Kiro · Neandertaler unter den Vorfahren",
+    "en": "Bacho Kiro · Neanderthals among the ancestors"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 45930,
+      "younger": 42580,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:bacho-kiro-f6-620",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:hajdinjak-bacho-kiro-2021",
+          "role": "supports",
+          "locator": "Main text, sampled individuals and Neanderthal ancestry; Fig. 3: recent ancestry in the early Bacho Kiro individuals, including F6-620"
+        }
+      ]
+    },
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:hajdinjak-bacho-kiro-2021",
+          "role": "supports",
+          "locator": "Main text, sampled individuals and Neanderthal ancestry; Fig. 3: recent ancestry in the early Bacho Kiro individuals, including F6-620"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:bacho-kiro-cave"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:bacho-kiro-cave-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Genetische Zuordnung und Datierung beruhen auf den angegebenen Forschungsmodellen.",
+      "en": "Genetic identification and dating rely on the cited research models."
+    }
+  },
+  "note": {
+    "de": "Etwa 45.930–42.580 kalibrierte Jahre BP ist der gemeinsame Datierungsrahmen der frühen untersuchten Individuen in Hajdinjak et al. (2021). Er ist hier eine konservative zeitliche Einordnung für F6-620, kein individuelles Messintervall und keine durchgehende Besiedlung. Die Neandertaler-Vorfahren lebten früher.",
+    "en": "Approximately 45,930–42,580 calibrated years BP is the collective dating envelope for the early individuals studied by Hajdinjak et al. (2021). Here it conservatively locates F6-620 in time; it is not an individual measurement interval or continuous occupation. The Neanderthal ancestors lived earlier."
+  }
+}

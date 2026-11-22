@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:ranis-4-zlaty-kun-kinship",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    },
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Introduction, manuscript lines 81–85: eleven Ranis bones collectively directly dated to 42,200–49,540 cal BP at 95.4% probability"
+    },
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Dating Zlatý kůň, manuscript lines 225–234: adhesive contamination, shared IBD age comparison around 45 ka and molecular estimates around 47–48 ka with large uncertainty"
+    }
+  ],
+  "subjectId": "specimen:ranis-4",
+  "predicate": "genetically-related-to",
+  "objectId": "specimen:zlaty-kun",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 49540,
+      "younger": 42200,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Gemeinsame ererbte DNA-Abschnitte stützen laut Studie eine Verwandtschaft fünften oder sechsten genetischen Grades. Diese Schätzung lässt mehrere Stammbäume zu und ist nicht mit juristischen Verwandtschaftsgraden gleichzusetzen. Etwa 230 km trennen die Fundorte; eine persönliche Begegnung oder konkrete Wanderroute ist damit nicht belegt.",
+      "en": "Shared inherited DNA segments support fifth- or sixth-degree genetic relatedness in the study. Several family trees can produce this estimate; it is not a legal kinship category. The findsites are about 230 km apart; this does not establish a personal meeting or a particular migration route."
+    }
+  },
+  "note": {
+    "de": "Gemeinsame ererbte DNA-Abschnitte stützen laut Studie eine Verwandtschaft fünften oder sechsten genetischen Grades. Diese Schätzung lässt mehrere Stammbäume zu und ist nicht mit juristischen Verwandtschaftsgraden gleichzusetzen. Etwa 230 km trennen die Fundorte; eine persönliche Begegnung oder konkrete Wanderroute ist damit nicht belegt.",
+    "en": "Shared inherited DNA segments support fifth- or sixth-degree genetic relatedness in the study. Several family trees can produce this estimate; it is not a legal kinship category. The findsites are about 230 km apart; this does not establish a personal meeting or a particular migration route."
+  }
+}
