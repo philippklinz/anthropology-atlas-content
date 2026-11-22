@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-rio",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "5 April 1832"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Darwin in Rio de Janeiro",
+    "en": "Darwin in Rio de Janeiro"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1832,
+        "month": 4,
+        "day": 5
+      },
+      "latest": {
+        "year": 1832,
+        "month": 4,
+        "day": 5
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "5 April 1832"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:rio-bay"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:rio-bay-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Derselbe Ort wie im Kapitel zur Weltumsegelung, mehr als drei Jahrhunderte später.",
+    "en": "The same place used in the circumnavigation chapter, more than three centuries later."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

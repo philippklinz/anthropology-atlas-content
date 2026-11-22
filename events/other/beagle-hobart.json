@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-hobart",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "5 February 1836"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Station Hobart",
+    "en": "Hobart station"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1836,
+        "month": 2,
+        "day": 5
+      },
+      "latest": {
+        "year": 1836,
+        "month": 2,
+        "day": 5
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "5 February 1836"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:hobart"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hobart-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Station auf Tasmanien.",
+    "en": "Station in Tasmania."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

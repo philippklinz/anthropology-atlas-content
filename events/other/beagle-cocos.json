@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-cocos",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "2 April 1836"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Station auf den Kokosinseln",
+    "en": "Cocos Islands station"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1836,
+        "month": 4,
+        "day": 2
+      },
+      "latest": {
+        "year": 1836,
+        "month": 4,
+        "day": 2
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "2 April 1836"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:cocos-keeling"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:cocos-keeling-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ausgewählte Station im Indischen Ozean.",
+    "en": "Selected Indian Ocean station."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

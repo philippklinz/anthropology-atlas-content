@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:cocos-keeling",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "2–12 April 1836"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Kokosinseln / Keelinginseln",
+    "en": "Cocos (Keeling) Islands"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Australisches Außengebiet im Indischen Ozean. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Australian external territory in the Indian Ocean. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

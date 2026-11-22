@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:isabela",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-galapagos-geology",
+      "role": "supports",
+      "locator": "A Synopsis of Darwin’s Galápagos itinerary: 1 October 1835"
+    },
+    {
+      "sourceId": "source:darwin-galapagos-diary",
+      "role": "supports",
+      "locator": "1 October 1835"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Isabela (Albemarle)",
+    "en": "Isabela (Albemarle)"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Galápagos, Ecuador. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Galápagos, Ecuador. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

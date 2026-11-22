@@ -3,6 +3,8 @@
   "defaultLanguage": "de",
   "defaultRecordLicense": "GPL-2.0",
   "packageIds": [
+    "package:columbus-first-voyage",
+    "package:darwin-beagle",
     "package:first-circumnavigation"
   ]
 }

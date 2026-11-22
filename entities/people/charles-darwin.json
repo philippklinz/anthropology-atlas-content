@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:charles-darwin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-correspondence-voyage",
+      "role": "supports",
+      "locator": "Introductory account"
+    },
+    {
+      "sourceId": "source:nhm-beagle-birds",
+      "role": "supports",
+      "locator": "Darwin’s bird collections"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Charles Darwin",
+    "en": "Charles Darwin"
+  },
+  "summary": {
+    "de": "Naturforscher auf der zweiten Beagle-Reise. Er sammelte und verglich Tiere, Pflanzen, Fossilien und Gesteine.",
+    "en": "Naturalist on the second Beagle voyage, collecting and comparing organisms, fossils and rocks."
+  }
+}

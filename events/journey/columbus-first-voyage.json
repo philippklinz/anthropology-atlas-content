@@ -1,0 +1,527 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:columbus-first-voyage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "3 August 1492–15 March 1493"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+    }
+  ],
+  "eventType": "journey",
+  "labels": {
+    "de": "Kolumbus’ erste Atlantikreise",
+    "en": "Columbus’s first Atlantic voyage"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1492,
+        "month": 8,
+        "day": 12
+      },
+      "latest": {
+        "year": 1492,
+        "month": 8,
+        "day": 12
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "3.8.1492",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+      }
+    },
+    "end": {
+      "earliest": {
+        "year": 1493,
+        "month": 3,
+        "day": 24
+      },
+      "latest": {
+        "year": 1493,
+        "month": 3,
+        "day": 24
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "15.3.1493",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+      }
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "person:christopher-columbus",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "3 August 1492–15 March 1493"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "entityId": "person:martin-alonso-pinzon",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "3 August 1492–15 March 1493"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "entityId": "person:vicente-yanez-pinzon",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "3 August 1492–15 March 1493"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Schematische Übersicht der Hin- und Rückreise. Die Schiffe trennten sich zeitweise; die Linie ist kein gemeinsamer Kurs aller drei Schiffe. Guanahani bleibt räumlich unsicher.",
+    "en": "Schematic outward and return itinerary. The ships separated at times; this is not a common track of all three ships. Guanahani’s location remains uncertain."
+  },
+  "waypoints": [
+    {
+      "placeId": "place:palos",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1492,
+            "month": 8,
+            "day": 12
+          },
+          "latest": {
+            "year": 1492,
+            "month": 8,
+            "day": 12
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "3.8.1492",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "3 August 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:la-gomera",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1492,
+            "month": 9,
+            "day": 15
+          },
+          "latest": {
+            "year": 1492,
+            "month": 9,
+            "day": 15
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "6.9.1492",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "6 September 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:guanahani",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1492,
+            "month": 10,
+            "day": 21
+          },
+          "latest": {
+            "year": 1492,
+            "month": 10,
+            "day": 21
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "12.10.1492",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "11–12 October 1492"
+        },
+        {
+          "sourceId": "source:florida-guanahani",
+          "role": "background",
+          "locator": "One Small Step for a Man: landfall uncertainty"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:cuba-north-coast",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1492,
+            "month": 11,
+            "day": 6
+          },
+          "latest": {
+            "year": 1492,
+            "month": 11,
+            "day": 6
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "28.10.1492",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "28 October 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:hispaniola-north-coast",
+      "time": {
+        "kind": "interval",
+        "start": {
+          "earliest": {
+            "year": 1492,
+            "month": 12,
+            "day": 14
+          },
+          "latest": {
+            "year": 1492,
+            "month": 12,
+            "day": 14
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "5.12.1492",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        },
+        "end": {
+          "earliest": {
+            "year": 1492,
+            "month": 12,
+            "day": 15
+          },
+          "latest": {
+            "year": 1492,
+            "month": 12,
+            "day": 15
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "6.12.1492",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        },
+        "endMeaning": "ended"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "5–6 December 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:hispaniola-north-coast",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1493,
+            "month": 1,
+            "day": 3
+          },
+          "latest": {
+            "year": 1493,
+            "month": 1,
+            "day": 3
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "25.12.1492",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "25 December 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:samana-vicinity",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1493,
+            "month": 1,
+            "day": 25
+          },
+          "latest": {
+            "year": 1493,
+            "month": 1,
+            "day": 25
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "16.1.1493",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "16 January 1493"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:santa-maria-azores",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1493,
+            "month": 2,
+            "day": 27
+          },
+          "latest": {
+            "year": 1493,
+            "month": 2,
+            "day": 27
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "18.2.1493",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "18 February 1493"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:lisbon",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1493,
+            "month": 3,
+            "day": 13
+          },
+          "latest": {
+            "year": 1493,
+            "month": 3,
+            "day": 13
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "4.3.1493",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "4 March 1493"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "placeId": "place:palos",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1493,
+            "month": 3,
+            "day": 24
+          },
+          "latest": {
+            "year": 1493,
+            "month": 3,
+            "day": 24
+          },
+          "precision": "day",
+          "qualifier": "exact",
+          "original": {
+            "text": "15.3.1493",
+            "calendar": "julian",
+            "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+          }
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "15 March 1493"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    }
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:columbus-first-voyage-schematic",
+      "role": "route"
+    }
+  ]
+}

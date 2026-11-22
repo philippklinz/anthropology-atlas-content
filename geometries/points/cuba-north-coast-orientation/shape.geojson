@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:cuba-north-coast-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.7,
+      21.1
+    ]
+  }
+}

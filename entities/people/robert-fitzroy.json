@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:robert-fitzroy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-correspondence-voyage",
+      "role": "supports",
+      "locator": "Introductory account"
+    },
+    {
+      "sourceId": "source:nhm-beagle-birds",
+      "role": "supports",
+      "locator": "FitzRoy’s collection"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Robert FitzRoy",
+    "en": "Robert FitzRoy"
+  },
+  "summary": {
+    "de": "Kapitän der Beagle. Die Vermessungsreise und seine eigenen Sammlungen bildeten einen wichtigen Rahmen für Darwins Arbeit.",
+    "en": "Captain of the Beagle. The survey voyage and his own collections formed an important setting for Darwin’s work."
+  }
+}

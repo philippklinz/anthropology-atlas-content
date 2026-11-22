@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:floreana-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.5,
+      -1.3
+    ]
+  }
+}

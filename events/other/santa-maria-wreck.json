@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:santa-maria-wreck",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "25 December 1492"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Verlust der Santa María",
+    "en": "Loss of the Santa María"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1493,
+        "month": 1,
+        "day": 3
+      },
+      "latest": {
+        "year": 1493,
+        "month": 1,
+        "day": 3
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "25.12.1492",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:christopher-columbus",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "25 December 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "entityId": "person:guacanagari",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "25 December 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:santa-maria",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "25 December 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:hispaniola-north-coast"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hispaniola-north-coast-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Nach der Strandung helfen Menschen des lokalen Herrschers bei der Bergung. Die genaue Wracklage wird hier nicht behauptet.",
+    "en": "After the grounding, people of the local ruler help salvage the ship. No exact wreck location is claimed here."
+  },
+  "parentEventId": "event:columbus-first-voyage"
+}

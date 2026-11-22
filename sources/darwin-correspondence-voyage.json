@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:darwin-correspondence-voyage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Voyage of the Beagle",
+  "sourceType": "website",
+  "creators": [
+    "Darwin Correspondence Project, University of Cambridge"
+  ],
+  "url": "https://www.darwinproject.ac.uk/voyage-beagle",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read introductory account and correspondence context. Scholarly editorial introduction; not a ship log."
+}

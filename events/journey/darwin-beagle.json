@@ -1,0 +1,684 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:darwin-beagle",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-correspondence-voyage",
+      "role": "supports",
+      "locator": "Voyage overview"
+    },
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "1831–1836"
+    },
+    {
+      "sourceId": "source:darwin-galapagos-geology",
+      "role": "supports",
+      "locator": "A Synopsis of Darwin’s Galápagos itinerary"
+    }
+  ],
+  "eventType": "journey",
+  "labels": {
+    "de": "Darwins Reise mit der Beagle",
+    "en": "Darwin’s Beagle voyage"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1831,
+        "month": 12,
+        "day": 27
+      },
+      "latest": {
+        "year": 1831,
+        "month": 12,
+        "day": 27
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 1836,
+        "month": 10,
+        "day": 2
+      },
+      "latest": {
+        "year": 1836,
+        "month": 10,
+        "day": 2
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-correspondence-voyage",
+          "role": "supports",
+          "locator": "Voyage overview"
+        },
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "1831–1836"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary"
+        }
+      ]
+    },
+    {
+      "entityId": "person:robert-fitzroy",
+      "role": "traveller",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-correspondence-voyage",
+          "role": "supports",
+          "locator": "Voyage overview"
+        },
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "1831–1836"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ausgewählte Stationen der Reise 1831–1836, mit Schwerpunkt Galápagos. Die Linie verbindet Stationen schematisch; sie folgt weder jedem Schiffskurs noch Darwins sämtlichen Landwegen.",
+    "en": "Selected stations of the 1831–1836 voyage, focusing on Galápagos. The schematic line follows neither every ship movement nor all Darwin’s overland trips."
+  },
+  "waypoints": [
+    {
+      "placeId": "place:plymouth",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1831,
+            "month": 12,
+            "day": 27
+          },
+          "latest": {
+            "year": 1831,
+            "month": 12,
+            "day": 27
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "27 December 1831"
+        }
+      ]
+    },
+    {
+      "placeId": "place:praia",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1832,
+            "month": 1,
+            "day": 16
+          },
+          "latest": {
+            "year": 1832,
+            "month": 1,
+            "day": 16
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "16 January 1832"
+        }
+      ]
+    },
+    {
+      "placeId": "place:rio-bay",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1832,
+            "month": 4,
+            "day": 5
+          },
+          "latest": {
+            "year": 1832,
+            "month": 4,
+            "day": 5
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "5 April 1832"
+        }
+      ]
+    },
+    {
+      "placeId": "place:tierra-del-fuego",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1832,
+            "month": 12,
+            "day": 16
+          },
+          "latest": {
+            "year": 1832,
+            "month": 12,
+            "day": 16
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "16 December 1832"
+        }
+      ]
+    },
+    {
+      "placeId": "place:valparaiso",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1834,
+            "month": 7,
+            "day": 23
+          },
+          "latest": {
+            "year": 1834,
+            "month": 7,
+            "day": 23
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "23 July 1834"
+        }
+      ]
+    },
+    {
+      "placeId": "place:callao",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1835,
+            "month": 7,
+            "day": 19
+          },
+          "latest": {
+            "year": 1835,
+            "month": 7,
+            "day": 19
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "19 July 1835"
+        }
+      ]
+    },
+    {
+      "placeId": "place:san-cristobal-galapagos",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1835,
+            "month": 9,
+            "day": 16
+          },
+          "latest": {
+            "year": 1835,
+            "month": 9,
+            "day": 16
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 16 September 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "16 September 1835"
+        }
+      ]
+    },
+    {
+      "placeId": "place:floreana",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1835,
+            "month": 9,
+            "day": 25
+          },
+          "latest": {
+            "year": 1835,
+            "month": 9,
+            "day": 25
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 25 September 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "25 September 1835"
+        }
+      ]
+    },
+    {
+      "placeId": "place:isabela",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1835,
+            "month": 10,
+            "day": 1
+          },
+          "latest": {
+            "year": 1835,
+            "month": 10,
+            "day": 1
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 1 October 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "1 October 1835"
+        }
+      ]
+    },
+    {
+      "placeId": "place:santiago-galapagos",
+      "time": {
+        "kind": "interval",
+        "start": {
+          "earliest": {
+            "year": 1835,
+            "month": 10,
+            "day": 8
+          },
+          "latest": {
+            "year": 1835,
+            "month": 10,
+            "day": 8
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        },
+        "end": {
+          "earliest": {
+            "year": 1835,
+            "month": 10,
+            "day": 17
+          },
+          "latest": {
+            "year": 1835,
+            "month": 10,
+            "day": 17
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        },
+        "endMeaning": "ended"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 8–17 October 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "8–17 October 1835"
+        }
+      ]
+    },
+    {
+      "placeId": "place:tahiti",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1835,
+            "month": 11,
+            "day": 15
+          },
+          "latest": {
+            "year": 1835,
+            "month": 11,
+            "day": 15
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "15 November 1835"
+        }
+      ]
+    },
+    {
+      "placeId": "place:bay-of-islands",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1835,
+            "month": 12,
+            "day": 21
+          },
+          "latest": {
+            "year": 1835,
+            "month": 12,
+            "day": 21
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "21 December 1835"
+        }
+      ]
+    },
+    {
+      "placeId": "place:sydney",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1836,
+            "month": 1,
+            "day": 12
+          },
+          "latest": {
+            "year": 1836,
+            "month": 1,
+            "day": 12
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "12 January 1836"
+        }
+      ]
+    },
+    {
+      "placeId": "place:hobart",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1836,
+            "month": 2,
+            "day": 5
+          },
+          "latest": {
+            "year": 1836,
+            "month": 2,
+            "day": 5
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "5 February 1836"
+        }
+      ]
+    },
+    {
+      "placeId": "place:cocos-keeling",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1836,
+            "month": 4,
+            "day": 2
+          },
+          "latest": {
+            "year": 1836,
+            "month": 4,
+            "day": 2
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "2 April 1836"
+        }
+      ]
+    },
+    {
+      "placeId": "place:mauritius",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1836,
+            "month": 4,
+            "day": 29
+          },
+          "latest": {
+            "year": 1836,
+            "month": 4,
+            "day": 29
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "29 April 1836"
+        }
+      ]
+    },
+    {
+      "placeId": "place:cape-good-hope",
+      "time": {
+        "kind": "interval",
+        "start": {
+          "earliest": {
+            "year": 1836,
+            "month": 5,
+            "day": 31
+          },
+          "latest": {
+            "year": 1836,
+            "month": 5,
+            "day": 31
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        },
+        "end": {
+          "earliest": {
+            "year": 1836,
+            "month": 6,
+            "day": 18
+          },
+          "latest": {
+            "year": 1836,
+            "month": 6,
+            "day": 18
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        },
+        "endMeaning": "ended"
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "31 May–18 June 1836"
+        }
+      ]
+    },
+    {
+      "placeId": "place:recife",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1836,
+            "month": 8,
+            "day": 12
+          },
+          "latest": {
+            "year": 1836,
+            "month": 8,
+            "day": 12
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "12 August 1836"
+        }
+      ]
+    },
+    {
+      "placeId": "place:falmouth",
+      "time": {
+        "kind": "instant",
+        "at": {
+          "earliest": {
+            "year": 1836,
+            "month": 10,
+            "day": 2
+          },
+          "latest": {
+            "year": 1836,
+            "month": 10,
+            "day": 2
+          },
+          "precision": "day",
+          "qualifier": "exact"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "2 October 1836"
+        }
+      ]
+    }
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:darwin-beagle-schematic",
+      "role": "route"
+    }
+  ]
+}

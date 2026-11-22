@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:florida-guanahani",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Christopher Columbus: Where did Columbus really set foot on the New World?",
+  "sourceType": "article",
+  "creators": [
+    "William F. Keegan",
+    "Florida Museum of Natural History, Caribbean Archaeology Program"
+  ],
+  "url": "https://www.floridamuseum.ufl.edu/caribarch/education/columbus/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read “One Small Step for a Man”, particularly the landfall candidates and transmission of the diario. Originally published 6 October 1991. Used for uncertainty, not to endorse one island identification.",
+  "published": "1991"
+}

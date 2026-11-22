@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:columbus-guanahani",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "11–12 October 1492"
+    },
+    {
+      "sourceId": "source:florida-guanahani",
+      "role": "background",
+      "locator": "One Small Step for a Man: landfall uncertainty"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Landung auf Guanahani",
+    "en": "Landing on Guanahani"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1492,
+        "month": 10,
+        "day": 21
+      },
+      "latest": {
+        "year": 1492,
+        "month": 10,
+        "day": 21
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "12.10.1492",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:christopher-columbus",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "11–12 October 1492"
+        },
+        {
+          "sourceId": "source:florida-guanahani",
+          "role": "background",
+          "locator": "One Small Step for a Man: landfall uncertainty"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    },
+    {
+      "entityId": "community:lucayans-guanahani-1492",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "11–12 October 1492"
+        },
+        {
+          "sourceId": "source:florida-guanahani",
+          "role": "background",
+          "locator": "One Small Step for a Man: landfall uncertainty"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:guanahani"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:guanahani-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Guanahani liegt im Bahamasraum; die genaue Insel ist umstritten. Der Kartenpunkt ist ein regionaler Platzhalter und bezeichnet ausdrücklich keinen gesicherten Landeplatz.",
+    "en": "Guanahani is in the Bahamas region; its exact island identification is disputed. The map point is a regional placeholder, explicitly not a secure landing site."
+  },
+  "parentEventId": "event:columbus-first-voyage"
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:cuba-north-coast",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "28 October 1492"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Nordostküste Kubas",
+    "en": "Northeastern coast of Cuba"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Kuba. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Cuba. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

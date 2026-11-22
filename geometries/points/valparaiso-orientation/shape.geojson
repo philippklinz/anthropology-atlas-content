@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:valparaiso-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.6,
+      -33
+    ]
+  }
+}

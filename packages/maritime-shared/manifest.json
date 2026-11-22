@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:maritime-shared",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Geteilte Orte und Quellen der Seefahrtskapitel",
+    "en": "Shared maritime places and sources"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "geometry:cape-good-hope-orientation",
+    "geometry:rio-bay-orientation",
+    "place:cape-good-hope",
+    "place:rio-bay",
+    "source:elkano-route",
+    "source:usno-calendars"
+  ],
+  "entryChapterIds": [],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic"
+  ]
+}

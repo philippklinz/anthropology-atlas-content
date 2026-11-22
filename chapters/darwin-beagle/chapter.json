@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:darwin-beagle",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-correspondence-voyage",
+      "role": "supports",
+      "locator": "Voyage overview"
+    },
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "1831–1836"
+    },
+    {
+      "sourceId": "source:darwin-galapagos-geology",
+      "role": "supports",
+      "locator": "A Synopsis of Darwin’s Galápagos itinerary"
+    },
+    {
+      "sourceId": "source:nhm-beagle-birds",
+      "role": "supports",
+      "locator": "Galápagos finches, mockingbirds and Gould"
+    }
+  ],
+  "labels": {
+    "de": "Darwin und die Beagle · 1831–1836",
+    "en": "Darwin and the Beagle · 1831–1836"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:darwin-beagle",
+    "person:charles-darwin",
+    "person:robert-fitzroy",
+    "event:darwin-san-cristobal",
+    "event:darwin-santiago",
+    "person:syms-covington",
+    "artifact:hms-beagle"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -55,
+      "latitude": -9,
+      "metersPerPixel": 26000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1831,
+          "month": 12,
+          "day": 27
+        },
+        "latest": {
+          "year": 1831,
+          "month": 12,
+          "day": 27
+        },
+        "precision": "day",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1836,
+          "month": 10,
+          "day": 2
+        },
+        "latest": {
+          "year": 1836,
+          "month": 10,
+          "day": 2
+        },
+        "precision": "day",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  }
+}

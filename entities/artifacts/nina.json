@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:nina",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "25 December 1492; 4–15 March 1493"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Niña",
+    "en": "Niña"
+  },
+  "summary": {
+    "de": "Karavelle, auf der Kolumbus nach dem Verlust seines Schiffes zurückkehrte.",
+    "en": "Caravel in which Columbus returned after the loss of his ship."
+  }
+}

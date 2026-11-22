@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:darwin-san-cristobal",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-galapagos-geology",
+      "role": "supports",
+      "locator": "A Synopsis of Darwin’s Galápagos itinerary: 16 September 1835"
+    },
+    {
+      "sourceId": "source:darwin-galapagos-diary",
+      "role": "supports",
+      "locator": "16 September 1835"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Darwin betritt San Cristóbal",
+    "en": "Darwin lands on San Cristóbal"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1835,
+        "month": 9,
+        "day": 16
+      },
+      "latest": {
+        "year": 1835,
+        "month": 9,
+        "day": 16
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 16 September 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "16 September 1835"
+        }
+      ]
+    },
+    {
+      "entityId": "person:robert-fitzroy",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 16 September 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "16 September 1835"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:san-cristobal-galapagos"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:san-cristobal-galapagos-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Erster Landgang auf Galápagos; die Beagle hatte die Inseln schon am Vortag erreicht.",
+    "en": "First Galápagos landing; the Beagle had reached the islands the previous day."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

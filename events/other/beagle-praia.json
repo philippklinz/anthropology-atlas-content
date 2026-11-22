@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-praia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "16 January 1832"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Station auf Cabo Verde",
+    "en": "Cape Verde stop"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1832,
+        "month": 1,
+        "day": 16
+      },
+      "latest": {
+        "year": 1832,
+        "month": 1,
+        "day": 16
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "16 January 1832"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:praia"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:praia-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ausgewählte frühe Station im Atlantik.",
+    "en": "Selected early Atlantic station."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

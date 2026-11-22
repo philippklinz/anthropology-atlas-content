@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:darwin-galapagos-diary",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Charles Darwin’s Diary of the Voyage of H.M.S. Beagle: Galápagos sections",
+  "sourceType": "book",
+  "creators": [
+    "Charles Darwin",
+    "Nora Barlow (editor)"
+  ],
+  "url": "https://www.galapagos.to/TEXTS/DIARY.HTM",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Online transcription of September–October 1835 entries, edited from the manuscript by Nora Barlow. Read selected dated entries; manuscript images were not consulted."
+}

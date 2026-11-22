@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:santiago-galapagos-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.8,
+      -0.2
+    ]
+  }
+}

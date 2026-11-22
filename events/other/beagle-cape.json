@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-cape",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "31 May–18 June 1836"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Aufenthalt in der Kapregion",
+    "en": "Stay in the Cape region"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1836,
+        "month": 5,
+        "day": 31
+      },
+      "latest": {
+        "year": 1836,
+        "month": 5,
+        "day": 31
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 1836,
+        "month": 6,
+        "day": 18
+      },
+      "latest": {
+        "year": 1836,
+        "month": 6,
+        "day": 18
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "31 May–18 June 1836"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:cape-good-hope"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:cape-good-hope-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Der Kap-Punkt dient nur zur regionalen Orientierung; er markiert keinen Hafenaufenthalt direkt am Kap.",
+    "en": "The cape point is a regional orientation aid, not an anchorage at the cape itself."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

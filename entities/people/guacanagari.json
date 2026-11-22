@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:guacanagari",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "2 January 1493; assistance after the wreck, 25 December 1492"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Guacanagarí",
+    "en": "Guacanagarí"
+  },
+  "summary": {
+    "de": "Lokaler Taíno-Herrscher auf Hispaniola, mit dem Kolumbus verhandelte. Die Darstellung hier beruht auf dem europäischen Reisebericht.",
+    "en": "Local Taíno ruler on Hispaniola who dealt with Columbus. This account is mediated by the European voyage narrative."
+  }
+}

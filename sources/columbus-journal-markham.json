@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:columbus-journal-markham",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Journals of Christopher Columbus (During his First Voyage, 1492–1493)",
+  "sourceType": "book",
+  "creators": [
+    "Christopher Columbus",
+    "Bartolomé de las Casas (transmission)",
+    "Clements R. Markham (translator)"
+  ],
+  "url": "https://pressbooks.nvcc.edu/eng255/chapter/the-journals-of-christopher-columbus-during-his-first-voyage-1492-1493/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read selected dated entries in the educational transcription of the 1893 translation. Columbus’s original log is lost; the surviving account is mediated by Las Casas and later translation. It records the expedition’s perspective, not Indigenous testimony.",
+  "published": "1893 translation; online educational edition"
+}

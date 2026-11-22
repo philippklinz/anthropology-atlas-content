@@ -2,9 +2,15 @@
 
 Independent historical content for the [Anthropology Atlas engine](https://github.com/philippklinz/anthropology-atlas-engine).
 
-The first historical sample covers **the first circumnavigation, 1519–1522**: 4 people, 9 places, 12 events, the Victoria, the defenders of Mactan, and 8 sources. The chapter is available in German and English. All records are honestly marked as a **research draft**, with cited sources and explicitly schematic geography. See [research scope and limits](docs/research/first-circumnavigation.md).
+Three bounded historical chapters are available in German and English:
 
-`published/catalog.json` serves this sample to the atlas. Synthetic fixtures remain in the engine’s test area and are not part of this historical package.
+- [Columbus's first Atlantic voyage, 1492–1493](docs/research/columbus-first-voyage.md), including inhabited Caribbean societies and the disputed identification of Guanahani.
+- [The first circumnavigation, 1519–1522](docs/research/first-circumnavigation.md).
+- [Darwin and the second Beagle voyage, 1831–1836](docs/research/darwin-beagle.md), including his four Galápagos island stays.
+
+The dataset contains 157 records: 52 entities, 43 events, one assertion, 37 geometries, 17 sources, three chapters and four packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
+
+`published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it.
 
 ## Use as a content source
 

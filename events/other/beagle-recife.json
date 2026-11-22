@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-recife",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-daily-itinerary",
+      "role": "supports",
+      "locator": "1836 Pernambuco; day 1689, 12 August 1836"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Rückweg über Pernambuco",
+    "en": "Return via Pernambuco"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1836,
+        "month": 8,
+        "day": 12
+      },
+      "latest": {
+        "year": 1836,
+        "month": 8,
+        "day": 12
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-daily-itinerary",
+          "role": "supports",
+          "locator": "1836 Pernambuco; day 1689, 12 August 1836"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:recife"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:recife-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Rückreise führt nochmals über Brasilien.",
+    "en": "The return voyage visits Brazil again."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

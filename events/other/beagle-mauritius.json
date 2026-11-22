@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-mauritius",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "29 April 1836"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Station Mauritius",
+    "en": "Mauritius station"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1836,
+        "month": 4,
+        "day": 29
+      },
+      "latest": {
+        "year": 1836,
+        "month": 4,
+        "day": 29
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "29 April 1836"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:mauritius"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:mauritius-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Station auf dem westlichen Teil der Rückreise.",
+    "en": "Station on the western part of the return voyage."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

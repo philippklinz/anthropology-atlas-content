@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:hobart-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "derivation",
+      "locator": "5–17 February 1836"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Schematische Orientierung, keine gemessene historische Position.",
+      "en": "Schematic orientation, not a measured historical position."
+    }
+  },
+  "processingNote": {
+    "de": "Eigene Lagehilfe. Quellen belegen die Stationen, nicht diese Koordinaten. Zusätzliche Linienpunkte formen nur die Verbindung; Zwischenstopps fehlen.",
+    "en": "Original orientation aid. Sources attest stations, not these coordinates. Extra vertices only shape the connection; intermediate stops are omitted."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic orientation geometry",
+    "originNote": "Original manually authored orientation points and line work; no third-party map geometry copied."
+  }
+}
