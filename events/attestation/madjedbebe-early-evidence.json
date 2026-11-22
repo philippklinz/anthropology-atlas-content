@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:madjedbebe-early-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 (location), 116–128 (assemblage), 176–188 (Phase 2 boundary; 95.4% including systematic uncertainty)"
+    },
+    {
+      "sourceId": "source:oconnell-sahul-2018",
+      "role": "challenges",
+      "locator": "pp. 8486–8487, Madjedbebe and Discussion: sediment–artifact association and chronology"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Madjedbebe · früher Besiedlungsbeleg",
+    "en": "Madjedbebe · early occupation evidence"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 70700,
+      "younger": 59300,
+      "precision": "year",
+      "qualifier": "approximate",
+      "central": 65000
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:madjedbebe-early-assemblage",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:madjedbebe"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:madjedbebe-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Modellierter Beginn der dichten Fundphase 2: 65.000 ± 5.700 Jahre, 95,4 % einschließlich systematischer Unsicherheit. OSL misst das umgebende Sediment. Dies ist keine Datierung der ersten Landung in Sahul.",
+    "en": "Modelled start of dense artifact Phase 2: 65,000 ± 5,700 years, 95.4% including systematic uncertainty. OSL dates surrounding sediment. This does not date the first landing in Sahul."
+  },
+  "epistemic": {
+    "status": "disputed",
+    "note": {
+      "de": "Die frühe Datierung wird publiziert vertreten; die Verbindung von Sedimentalter und Artefakten wurde ebenfalls publiziert kritisiert.",
+      "en": "The early date has been published and defended; the association between sediment age and artifacts has also faced published criticism."
+    }
+  }
+}

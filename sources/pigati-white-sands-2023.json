@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:pigati-white-sands-2023",
+  "sourceRefs": [],
+  "title": "Independent age estimates resolve the controversy of ancient human footprints at White Sands",
+  "sourceType": "article",
+  "creators": [
+    "Jeffrey S. Pigati et al."
+  ],
+  "published": "2023",
+  "containerTitle": "Science 382, 73–75",
+  "identifiers": {
+    "doi": "10.1126/science.adh5007"
+  },
+  "url": "https://pubs.usgs.gov/publication/70249447",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Official institutional abstract and metadata consulted. The 2026 source supplies the refined range shown in this chapter."
+}

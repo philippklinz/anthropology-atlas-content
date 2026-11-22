@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "region:bering-land-connection",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nps-beringia-overview",
+      "role": "supports",
+      "locator": "About Beringia, paragraphs 2–3: exposed land connection at 25 ka; broad landscape rather than narrow isthmus"
+    },
+    {
+      "sourceId": "source:farmer-bering-strait-2023",
+      "role": "supports",
+      "locator": "Abstract and Results: land-bridge formation around 35.7 ka; corrected Fig. 3 and correction DOI 10.1073/pnas.2300684120"
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Beringia · ausgewählte Landverbindung",
+    "en": "Beringia · selected land connection"
+  },
+  "summary": {
+    "de": "Die ockerfarbene Fläche markiert einen Ausschnitt des damals trockenen Verbindungsraums. Ihre Außenlinie ist redaktionell schematisiert.",
+    "en": "The ochre area marks a portion of the then-exposed connection. Its outline is editorial and schematic."
+  }
+}

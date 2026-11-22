@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:nps-white-sands-location",
+  "sourceRefs": [],
+  "title": "Sandy Footprints · NPGallery asset metadata",
+  "sourceType": "website",
+  "creators": [
+    "National Park Service"
+  ],
+  "url": "https://npgallery.nps.gov/AssetDetail/7ca78f86-8c1d-4762-9f32-f14c176a544b",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Coordinates locate the park region. This is a different photograph from the vendored USGS image; no exact excavation position is inferred."
+}

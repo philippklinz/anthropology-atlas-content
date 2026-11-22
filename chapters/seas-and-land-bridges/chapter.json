@@ -1,0 +1,360 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:seas-and-land-bridges",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 (location), 116–128 (assemblage), 176–188 (Phase 2 boundary; 95.4% including systematic uncertainty)"
+    },
+    {
+      "sourceId": "source:oconnell-sahul-2018",
+      "role": "challenges",
+      "locator": "pp. 8486–8487, Madjedbebe and Discussion: sediment–artifact association and chronology"
+    },
+    {
+      "sourceId": "source:kealy-wallacea-2017",
+      "role": "supports",
+      "locator": "Introduction and Discussion, pp. 259–260 and 266: Sunda/Sahul, required crossings, Birdsell routes 1B and 2B; Fig. 3: 65 ka model"
+    },
+    {
+      "sourceId": "source:farmer-bering-strait-2023",
+      "role": "supports",
+      "locator": "Abstract and Results: land-bridge formation around 35.7 ka; corrected Fig. 3 and correction DOI 10.1073/pnas.2300684120"
+    },
+    {
+      "sourceId": "source:praetorius-pacific-coast-2023",
+      "role": "supports",
+      "locator": "Introduction; Discussion, Favorable Times for Migration, pp. 8–9; 24.5–22 ka environmental window, not a dated journey"
+    },
+    {
+      "sourceId": "source:springer-white-sands-2026",
+      "role": "supports",
+      "locator": "Official USGS abstract: 20 footprint-bearing horizons and refined sequence chronology of 23.5–21.7 ka"
+    },
+    {
+      "sourceId": "source:pigati-white-sands-2023",
+      "role": "supports",
+      "locator": "Official USGS abstract: independent terrestrial conifer-pollen radiocarbon and OSL age checks"
+    }
+  ],
+  "labels": {
+    "de": "Über Meere und Landbrücken",
+    "en": "Across Seas and Land Bridges"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:madjedbebe-early-evidence",
+    "event:sahul-northern-route",
+    "event:sahul-southern-route",
+    "event:north-pacific-route-opportunity",
+    "event:white-sands-footprint-evidence",
+    "concept:migration-evidence-and-models",
+    "concept:ice-age-land-and-sea",
+    "asset:wallacea-65ka-model",
+    "asset:white-sands-footprints"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 180,
+      "latitude": 22,
+      "metersPerPixel": 35000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 71000,
+        "younger": 71000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 20000,
+        "younger": 20000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "migrations",
+      "landscapes"
+    ]
+  },
+  "steps": [
+    {
+      "id": "sahul",
+      "textAnchor": "sahul",
+      "labels": {
+        "de": "1 · Über das Meer nach Sahul",
+        "en": "1 · Across the sea to Sahul"
+      },
+      "summary": {
+        "de": "Wähle A, B oder den Vergleich der Inselwege. Madjedbebe bleibt ein unabhängiger Fundbeleg. Die Landmarkierung zeigt nur einen Ausschnitt im 65.000-BP-Szenario.",
+        "en": "Choose A, B or compare the island routes. Madjedbebe remains independent evidence. The land overlay shows only a selected area in the 65,000 BP scenario."
+      },
+      "state": {
+        "camera": {
+          "longitude": 129,
+          "latitude": -6,
+          "metersPerPixel": 6500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 71000,
+            "younger": 71000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 50000,
+            "younger": 50000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "landscapes"
+        ]
+      },
+      "assetId": "asset:wallacea-65ka-model"
+    },
+    {
+      "id": "beringia",
+      "textAnchor": "beringia",
+      "labels": {
+        "de": "2 · Beringia und die Pazifikküste",
+        "en": "2 · Beringia and the Pacific coast"
+      },
+      "summary": {
+        "de": "Die Landfläche gehört zum Stand 25.000 BP. Der Küstenpfeil zeigt eine Hypothese für das Umweltfenster 24.500–22.000 BP. Die beiden Datierungen erfüllen unterschiedliche Aufgaben.",
+        "en": "The land area belongs to the 25,000 BP snapshot. The coastal arrow shows a hypothesis for the environmental window 24,500–22,000 BP. These dates serve different purposes."
+      },
+      "state": {
+        "camera": {
+          "longitude": -159,
+          "latitude": 52,
+          "metersPerPixel": 12000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 26000,
+            "younger": 26000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 21000,
+            "younger": 21000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "landscapes"
+        ]
+      }
+    },
+    {
+      "id": "white-sands",
+      "textAnchor": "white-sands",
+      "labels": {
+        "de": "3 · Fußspuren in White Sands",
+        "en": "3 · Footprints at White Sands"
+      },
+      "summary": {
+        "de": "Ein konkreter Fundbeleg: Spuren in 20 Horizonten, eingeordnet zwischen 23.500 und 21.700 BP. Der Punkt verrät uns keinen gesicherten Anreiseweg.",
+        "en": "Concrete evidence: tracks in 20 horizons, dated between 23,500 and 21,700 BP. The point does not tell us a proven arrival route."
+      },
+      "state": {
+        "camera": {
+          "longitude": -106.32,
+          "latitude": 32.78,
+          "metersPerPixel": 3000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 23500,
+            "younger": 23500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 21700,
+            "younger": 21700,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "landscapes"
+        ]
+      },
+      "assetId": "asset:white-sands-footprints"
+    }
+  ],
+  "interpretationChoices": [
+    {
+      "interpretationId": "interpretation:sahul-entry-routes",
+      "recordId": "event:sahul-northern-route",
+      "reason": {
+        "de": "Einstieg mit der im Sichtweitenmodell stärker gestützten nördlichen Variante. Alternativen bleiben ausdrücklich auswählbar.",
+        "en": "Start with the northern alternative favoured by the intervisibility model. Alternatives remain explicitly selectable."
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Wie erreichen Menschen neue Landräume? Sahul, Beringia und White Sands verbinden Fundbelege mit auswählbaren Wegmodellen und datierten Landverbindungen. Ansichtsfenster 71.000–20.000 Jahre BP.",
+      "en": "How do people reach new landmasses? Sahul, Beringia and White Sands combine findsites, selectable route models and dated land connections. Viewing window 71,000–20,000 years BP."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "southeast-asia",
+        "labels": {
+          "de": "Südostasien",
+          "en": "Southeast Asia"
+        }
+      },
+      {
+        "id": "oceania",
+        "labels": {
+          "de": "Ozeanien",
+          "en": "Oceania"
+        }
+      },
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "human-origins",
+        "labels": {
+          "de": "Menschwerdung",
+          "en": "Human origins"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "migrations",
+        "labels": {
+          "de": "Wanderungen",
+          "en": "Migrations"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:madjedbebe-early-assemblage",
+    "assertion:bering-land-connection-25ka",
+    "assertion:sahul-land-connection-65ka",
+    "asset:wallacea-65ka-model",
+    "asset:white-sands-footprints",
+    "community:early-north-american-populations",
+    "community:early-sahul-populations",
+    "concept:ice-age-land-and-sea",
+    "concept:migration-evidence-and-models",
+    "event:madjedbebe-early-evidence",
+    "event:north-pacific-route-opportunity",
+    "event:sahul-northern-route",
+    "event:sahul-southern-route",
+    "event:white-sands-footprint-evidence",
+    "geometry:bering-connection-schematic",
+    "geometry:madjedbebe-orientation",
+    "geometry:north-pacific-coastal-route-model",
+    "geometry:sahul-northern-route-model",
+    "geometry:sahul-southern-route-model",
+    "geometry:sahul-torres-connection-schematic",
+    "geometry:white-sands-orientation",
+    "interpretation:sahul-entry-routes",
+    "place:madjedbebe",
+    "place:white-sands",
+    "region:bering-land-connection",
+    "region:beringia",
+    "region:north-pacific-coast",
+    "region:sahul",
+    "region:sahul-torres-connection",
+    "region:sunda",
+    "region:wallacea",
+    "source:borreggine-sahul-currents-2026",
+    "source:clarkson-madjedbebe-2017",
+    "source:farmer-bering-strait-2023",
+    "source:kealy-wallacea-2017",
+    "source:nps-beringia-overview",
+    "source:nps-white-sands-location",
+    "source:oconnell-sahul-2018",
+    "source:pigati-white-sands-2023",
+    "source:praetorius-pacific-coast-2023",
+    "source:springer-white-sands-2026",
+    "source:usgs-white-sands-footprints-image",
+    "specimen:white-sands-human-tracks"
+  ]
+}

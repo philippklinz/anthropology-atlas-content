@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "interpretation",
+  "id": "interpretation:sahul-entry-routes",
+  "sourceRefs": [
+    {
+      "sourceId": "source:kealy-wallacea-2017",
+      "role": "supports",
+      "locator": "Introduction and Discussion, pp. 259–260 and 266: Sunda/Sahul, required crossings, Birdsell routes 1B and 2B; Fig. 3: 65 ka model"
+    },
+    {
+      "sourceId": "source:borreggine-sahul-currents-2026",
+      "role": "supports",
+      "locator": "Publisher abstract and introduction excerpt only: currents and sea level in models at 65–45 ka; full text not reviewed"
+    }
+  ],
+  "question": {
+    "de": "Über welche Inseln könnte Sahul erreicht worden sein?",
+    "en": "Via which islands might Sahul have been reached?"
+  },
+  "memberIds": [
+    "event:sahul-northern-route",
+    "event:sahul-southern-route"
+  ],
+  "explanation": {
+    "de": "Verglichen werden zwei Möglichkeiten aus dem 2017 diskutierten 65-ka-Szenario. Sichtweite stützt dort eher die nördliche Variante. Das belegt keine tatsächlich gegangene Strecke; spätere Modelle berücksichtigen weitere Faktoren.",
+    "en": "Two possibilities from the 65 ka scenario discussed in 2017 are compared. Intervisibility there favours the northern alternative. This does not demonstrate an actual travelled route; later models consider further factors."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:nps-beringia-overview",
+  "sourceRefs": [],
+  "title": "About Beringia",
+  "sourceType": "website",
+  "creators": [
+    "National Park Service"
+  ],
+  "url": "https://www.nps.gov/subjects/beringia/about.htm",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "National Park Service overview. Used only for a schematic selected area of the land connection at 25 ka, not exact palaeocoastlines or migration dates."
+}

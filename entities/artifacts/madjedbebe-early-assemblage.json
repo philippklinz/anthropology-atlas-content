@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:madjedbebe-early-assemblage",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 (location), 116–128 (assemblage), 176–188 (Phase 2 boundary; 95.4% including systematic uncertainty)"
+    },
+    {
+      "sourceId": "source:oconnell-sahul-2018",
+      "role": "challenges",
+      "locator": "pp. 8486–8487, Madjedbebe and Discussion: sediment–artifact association and chronology"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Madjedbebe · frühes Fundensemble",
+    "en": "Madjedbebe · early assemblage"
+  },
+  "summary": {
+    "de": "Steingeräte, Mahlsteine und bearbeitete Farbstoffe gehören zum untersuchten Fundmaterial. Datierung und Schichtzuordnung werden wissenschaftlich diskutiert.",
+    "en": "Stone tools, grinding stones and worked pigments occur in the studied material. Dating and stratigraphic association are debated."
+  }
+}

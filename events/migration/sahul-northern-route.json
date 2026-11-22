@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:sahul-northern-route",
+  "sourceRefs": [
+    {
+      "sourceId": "source:kealy-wallacea-2017",
+      "role": "supports",
+      "locator": "Introduction and Discussion, pp. 259–260 and 266: Sunda/Sahul, required crossings, Birdsell routes 1B and 2B; Fig. 3: 65 ka model"
+    }
+  ],
+  "eventType": "migration",
+  "labels": {
+    "de": "Sahul · nördliche Wegvariante",
+    "en": "Sahul · northern route alternative"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 65000,
+      "younger": 65000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:early-sahul-populations",
+      "role": "moving-community"
+    }
+  ],
+  "placeIds": [],
+  "spatial": [
+    {
+      "geometryId": "geometry:sahul-northern-route-model",
+      "role": "route",
+      "direction": "forward"
+    }
+  ],
+  "note": {
+    "de": "Richtungshypothese im 65.000-BP-Szenario von Kealy et al. (2017). Die Datierung bezeichnet den betrachteten Modellstand, nicht eine gemessene Reise. Die Linie endet im hypothetischen Zugangsraum und wird nicht zum Fundpunkt Madjedbebe fortgesetzt.",
+    "en": "Directional hypothesis in the 65,000 BP scenario discussed by Kealy et al. (2017). The date identifies the model scenario, not a measured journey. The line ends in a proposed access region and does not continue to Madjedbebe."
+  },
+  "epistemic": {
+    "status": "hypothetical",
+    "note": {
+      "de": "Modellierte Möglichkeit; weder genaue Strecke noch tatsächlicher Zeitpunkt sind damit nachgewiesen.",
+      "en": "A modelled possibility; neither the exact route nor its actual travel date is demonstrated."
+    }
+  }
+}

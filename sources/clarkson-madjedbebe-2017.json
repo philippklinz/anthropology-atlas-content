@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:clarkson-madjedbebe-2017",
+  "sourceRefs": [],
+  "title": "Human occupation of northern Australia by 65,000 years ago",
+  "sourceType": "article",
+  "creators": [
+    "Chris Clarkson et al."
+  ],
+  "published": "2017",
+  "containerTitle": "Nature 547, 306–310",
+  "identifiers": {
+    "doi": "10.1038/nature22968"
+  },
+  "url": "https://digital.library.adelaide.edu.au/server/api/core/bitstreams/cc073119-2f9f-4379-854d-13ea614fd415/content",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Full accepted manuscript and supplementary material consulted. Bibliographic link only; no paper images redistributed."
+}

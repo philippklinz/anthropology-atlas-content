@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:white-sands-footprints",
+  "sourceRefs": [
+    {
+      "sourceId": "source:usgs-white-sands-footprints-image",
+      "role": "derivation",
+      "locator": "Detailed Description and Sources/Usage: National Park Service photograph; Public Domain"
+    }
+  ],
+  "assetType": "image",
+  "file": "white-sands-footprints.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "White Sands · erhaltene Fußspuren",
+    "en": "White Sands · preserved footprints"
+  },
+  "alt": {
+    "de": "Menschliche Fußabdrücke, die im Sediment von White Sands freigelegt wurden. Die Fotografie dokumentiert Spuren, keine rekonstruierte Anreiseroute.",
+    "en": "Human footprints exposed in White Sands sediment. The photograph documents traces, not a reconstructed arrival route."
+  },
+  "entityIds": [
+    "specimen:white-sands-human-tracks"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "National Park Service"
+    ],
+    "attribution": "National Park Service photo / USGS · Public Domain",
+    "sourceUrl": "https://www.usgs.gov/media/images/footprints-found-white-sands-national-park",
+    "originNote": "Original USGS-distributed JPEG copied unchanged. Sources/Usage explicitly states Public Domain."
+  }
+}

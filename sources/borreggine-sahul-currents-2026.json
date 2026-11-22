@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:borreggine-sahul-currents-2026",
+  "sourceRefs": [],
+  "title": "Combining paleocurrents and sea level in a least-cost pathway model of human dispersal from Sunda to Sahul, 65–45,000 years ago",
+  "sourceType": "article",
+  "creators": [
+    "Marisa Borreggine et al."
+  ],
+  "published": "2026",
+  "containerTitle": "Quaternary Science Reviews 381, 109950",
+  "identifiers": {
+    "doi": "10.1016/j.quascirev.2026.109950"
+  },
+  "url": "https://www.sciencedirect.com/science/article/pii/S0277379126001599",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Publisher abstract and introduction excerpt consulted; full text unavailable. Further research context only; the atlas routes illustrate the explicitly cited 2017 scenario."
+}

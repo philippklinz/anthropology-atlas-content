@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "community:early-sahul-populations",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 (location), 116–128 (assemblage), 176–188 (Phase 2 boundary; 95.4% including systematic uncertainty)"
+    },
+    {
+      "sourceId": "source:kealy-wallacea-2017",
+      "role": "supports",
+      "locator": "Introduction and Discussion, pp. 259–260 and 266: Sunda/Sahul, required crossings, Birdsell routes 1B and 2B; Fig. 3: 65 ka model"
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Frühe Bevölkerungen Sahuls",
+    "en": "Early populations of Sahul"
+  },
+  "summary": {
+    "de": "Analytische Sammelbezeichnung für frühe Bewohnerinnen und Bewohner; kein behauptetes einheitliches Volk und kein überlieferter Eigenname.",
+    "en": "An analytical collective label for early inhabitants; not a claim of one homogeneous people or a recorded self-name."
+  }
+}

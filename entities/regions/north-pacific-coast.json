@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "region:north-pacific-coast",
+  "sourceRefs": [
+    {
+      "sourceId": "source:praetorius-pacific-coast-2023",
+      "role": "supports",
+      "locator": "Introduction; Discussion, Favorable Times for Migration, pp. 8–9; 24.5–22 ka environmental window, not a dated journey"
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Nordpazifische Küste",
+    "en": "North Pacific coast"
+  },
+  "summary": {
+    "de": "Ein untersuchter möglicher Zugangsraum nach Nordamerika. Eisschilde, Meereis und Strömungen veränderten die Bedingungen.",
+    "en": "A studied possible access region into North America. Ice sheets, sea ice and currents changed the conditions."
+  }
+}

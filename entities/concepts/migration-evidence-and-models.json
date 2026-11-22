@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:migration-evidence-and-models",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 (location), 116–128 (assemblage), 176–188 (Phase 2 boundary; 95.4% including systematic uncertainty)"
+    },
+    {
+      "sourceId": "source:praetorius-pacific-coast-2023",
+      "role": "supports",
+      "locator": "Introduction; Discussion, Favorable Times for Migration, pp. 8–9; 24.5–22 ka environmental window, not a dated journey"
+    },
+    {
+      "sourceId": "source:springer-white-sands-2026",
+      "role": "supports",
+      "locator": "Official USGS abstract: 20 footprint-bearing horizons and refined sequence chronology of 23.5–21.7 ka"
+    },
+    {
+      "sourceId": "source:borreggine-sahul-currents-2026",
+      "role": "supports",
+      "locator": "Publisher abstract and introduction excerpt only: currents and sea level in models at 65–45 ka; full text not reviewed"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Fundbeleg und Wanderungsmodell",
+    "en": "Evidence and a migration model"
+  },
+  "summary": {
+    "de": "Ein Fund belegt Menschen an einem Ort. Eine Linie verbindet Annahmen über einen möglichen Weg. Zwischen diesen Aussagen bleibt ein eigener Forschungsschritt.",
+    "en": "A find locates people at a place. A line connects assumptions about a possible route. Establishing that connection is a separate research problem."
+  }
+}

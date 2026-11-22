@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:springer-white-sands-2026",
+  "sourceRefs": [],
+  "title": "Humans experienced abrupt environmental changes at White Sands during the Last Glacial Maximum",
+  "sourceType": "article",
+  "creators": [
+    "Kathleen B. Springer et al."
+  ],
+  "published": "2026-10-14",
+  "containerTitle": "Science Advances 12(42), eaeh0707",
+  "identifiers": {
+    "doi": "10.1126/sciadv.aeh0707"
+  },
+  "url": "https://www.usgs.gov/publications/humans-experienced-abrupt-environmental-changes-white-sands-during-last-glacial",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Official institutional abstract and bibliographic metadata consulted, not the full article. Uses the revised sequence interval, not the age of a single footprint."
+}

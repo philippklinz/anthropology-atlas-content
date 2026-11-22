@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:north-pacific-coastal-route-model",
+  "sourceRefs": [
+    {
+      "sourceId": "source:praetorius-pacific-coast-2023",
+      "role": "supports",
+      "locator": "Introduction; Discussion, Favorable Times for Migration, pp. 8–9; 24.5–22 ka environmental window, not a dated journey"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiLineString",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Schematische großräumige Richtungshypothese, keine rekonstruierte Küstenlinie oder Eisstraße. Vertices tragen keine lokalen Datierungen. Keine Verbindung nach White Sands. An der Datumsgrenze geteilt.",
+    "en": "Schematic broad directional hypothesis, not a reconstructed shoreline or sea-ice road. Vertices carry no local dates. No connection to White Sands. Split at the dateline."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored illustration based on cited geographical facts, not digitized or traced from a third-party map. Not a measured coast, a population boundary or a precisely known travel path."
+  }
+}
