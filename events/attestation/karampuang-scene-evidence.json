@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:karampuang-scene-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "supports",
+      "locator": "Dating results for Leang Karampuang rock art, pp. 816–817; Fig. 3: H1–H3, pig, and LK1 minimum age"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Sulawesi · Figuren um ein Schwein",
+    "en": "Sulawesi · figures around a pig"
+  },
+  "time": {
+    "kind": "before",
+    "bound": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 51200,
+      "younger": 51200,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:karampuang-pig-scene",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:oktaviana-karampuang-art-2024",
+          "role": "supports",
+          "locator": "Dating results for Leang Karampuang rock art, pp. 816–817; Fig. 3: H1–H3, pig, and LK1 minimum age"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:leang-karampuang"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:leang-karampuang-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Datierung und Deutung beruhen auf den zitierten archäologischen Untersuchungen.",
+      "en": "Dating and interpretation rely on the cited archaeological studies."
+    }
+  },
+  "note": {
+    "de": "Kalkprobe LK1 über Figur H2: 53.500 ± 2.300 Jahre; konservatives Mindestalter 51.200 Jahre. Die Übertragung auf die gesamte Szene folgt der kompositorischen Interpretation der Autoren. Andere Figuren haben eigene, jüngere Mindestwerte. Diese Werte sind keine verschiedenen exakten Entstehungsdaten.",
+    "en": "Calcite sample LK1 above H2: 53,500 ± 2,300 years; conservative minimum 51,200 years. Extending this constraint to the scene follows the authors’ compositional interpretation. Other figures have their own younger minima. Those values are not different exact creation dates."
+  }
+}

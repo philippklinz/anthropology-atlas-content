@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:metanduno-hand-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-muna-rock-art-2026",
+      "role": "supports",
+      "locator": "Rock art dating results, p. 653; Figs. 2–3: LMET2 hand stencil and minimum-age constraint of 67.8 ka"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Muna · ein Handnegativ, mindestens 67.800 Jahre alt",
+    "en": "Muna · a hand stencil at least 67,800 years old"
+  },
+  "time": {
+    "kind": "before",
+    "bound": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 67800,
+      "younger": 67800,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:metanduno-hand-lmet2",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:oktaviana-muna-rock-art-2026",
+          "role": "supports",
+          "locator": "Rock art dating results, p. 653; Figs. 2–3: LMET2 hand stencil and minimum-age constraint of 67.8 ka"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:liang-metanduno"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:liang-metanduno-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Datierung und Deutung beruhen auf den zitierten archäologischen Untersuchungen.",
+      "en": "Dating and interpretation rely on the cited archaeological studies."
+    }
+  },
+  "note": {
+    "de": "Datierter Kalk über dem Bild: 71.600 ± 3.800 Jahre. Die Studie verwendet daraus 67.800 Jahre als konservative Untergrenze des Alters. Ein älteres Entstehungsdatum ist möglich; ein ältester Beginn ist nicht bekannt. Die Grenze darf nicht nochmals um 3.800 Jahre vermindert werden.",
+    "en": "Dated calcite above the image: 71,600 ± 3,800 years. The study uses 67,800 years as a conservative minimum age. Creation may be earlier; no oldest limit is known. The bound must not be reduced by another 3,800 years."
+  }
+}

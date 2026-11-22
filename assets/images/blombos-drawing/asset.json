@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:blombos-drawing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-blombos-drawing",
+      "role": "derivation",
+      "locator": "File description and Licensing: cropped two-dimensional reproduction, PD-Art / Public Domain Mark"
+    }
+  ],
+  "assetType": "image",
+  "file": "blombos-drawing.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Blombos · die erhaltene Zeichnung",
+    "en": "Blombos · the surviving drawing"
+  },
+  "alt": {
+    "de": "Ausschnitt der Oberfläche von L13 mit roten, sich kreuzenden Linien. Die Commons-Reproduktion zeigt die Zeichnung, nicht die vollständige Form des Steins.",
+    "en": "A crop of the L13 surface with crossing red lines. The Commons reproduction shows the drawing, not the complete shape of the stone."
+  },
+  "entityIds": [
+    "artifact:blombos-l13-drawing"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Christopher S. Henshilwood et al."
+    ],
+    "attribution": "Henshilwood et al. / Wikimedia Commons · PD-Art",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Claimed_Oldest_Known_Drawing_by_Human_Hands_Discovered_in_South_African_Cave.jpg",
+    "originNote": "Existing Commons crop copied unchanged, 600 × 288 pixels. Public Domain Mark: https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

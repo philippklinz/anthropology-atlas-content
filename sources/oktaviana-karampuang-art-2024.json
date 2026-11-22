@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oktaviana-karampuang-art-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Narrative cave art in Indonesia by 51,200 years ago",
+  "sourceType": "article",
+  "creators": [
+    "Adhi Agus Oktaviana",
+    "Renaud Joannes-Boyau",
+    "Budianto Hakim",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1038/s41586-024-07541-7",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Nature 631, 814–818. Full publisher PDF, Methods and reporting summary read. Fig. 3 and pp. 816–817: LK1 overlies human-like figure H2, yielding 53.5 ± 2.3 ka and the conservative 51.2 ka minimum. Other figures have separate, younger minimum constraints. A shared composition is the authors’ interpretation; explicit hunting is not established. Location paragraph withholds exact coordinates; the atlas uses a broad orientation point from Fig. 1 only. Fig. 3c tracing redistributed under the article’s CC BY 4.0 license.",
+  "published": "2024-07-03",
+  "identifiers": {
+    "doi": "10.1038/s41586-024-07541-7"
+  }
+}

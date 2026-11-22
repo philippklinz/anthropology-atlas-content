@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:leang-karampuang-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "derivation",
+      "locator": "Fig. 1b, site 2; reporting summary, Location: exact coordinates withheld by the authors"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 20000,
+    "note": {
+      "de": "Redaktionelle räumliche Genauigkeit, kein statistisches Konfidenzintervall.",
+      "en": "Editorial spatial accuracy, not a statistical confidence interval."
+    }
+  },
+  "processingNote": {
+    "de": "Aus der Übersichtskarte abgeleitete, bewusst grobe Lagehilfe. Sie zeigt das Fundgebiet und eignet sich nicht zur Navigation zur Höhle.",
+    "en": "A deliberately broad orientation point derived from the overview map. It shows the findsite area and is not suitable for navigating to the cave."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original manually authored orientation point derived from cited factual geography. No third-party map geometry copied."
+  }
+}

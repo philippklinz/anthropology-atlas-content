@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tuebingen-geissenkloesterle-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Das Geißenklösterle",
+  "sourceType": "website",
+  "creators": [
+    "Universität Tübingen, Ältere Urgeschichte und Quartärökologie"
+  ],
+  "url": "https://uni-tuebingen.de/de/107751",
+  "accessedAt": "2026-11-22",
+  "language": "de",
+  "bibliographicNote": "Excavators’ site account consulted: cave in the Ach valley near Blaubeuren, Aurignacian finds, two bird-bone flutes and one ivory flute. Its bibliography also identifies the swan-bone flute. No preserved melody or particular social function is claimed."
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:karampuang-pig-scene",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "supports",
+      "locator": "Dating results for Leang Karampuang rock art, pp. 816–817; Fig. 3: H1–H3, pig, and LK1 minimum age"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Leang Karampuang · Schwein und menschenähnliche Figuren",
+    "en": "Leang Karampuang · a pig and human-like figures"
+  },
+  "summary": {
+    "de": "Die Forschenden erkennen ein Schwein und mindestens drei menschenähnliche Figuren und deuten ihre Anordnung als zusammengehörige Szene. Die älteste Kalkprobe liegt über Figur H2. Eine Jagd oder eine bestimmte erzählte Geschichte lässt sich daraus nicht sicher ablesen.",
+    "en": "Researchers identify a pig and at least three human-like figures, interpreting their arrangement as a composed scene. The oldest calcite sample lies above figure H2. Neither hunting nor a particular story can be read from it with certainty."
+  },
+  "assetIds": [
+    "asset:karampuang-tracing"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:minimum-age-of-rock-art",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-muna-rock-art-2026",
+      "role": "supports",
+      "locator": "Rock art dating results, p. 653; Figs. 2–3: LMET2 hand stencil and minimum-age constraint of 67.8 ka"
+    },
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "supports",
+      "locator": "Dating results for Leang Karampuang rock art, pp. 816–817; Fig. 3: H1–H3, pig, and LK1 minimum age"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Warum „mindestens“? · Kalk über Farbe",
+    "en": "Why “at least”? · calcite above pigment"
+  },
+  "summary": {
+    "de": "Erst wurde gemalt, später wuchs Kalk darüber. Die Uranreihen-Datierung untersucht diesen Kalk. Das Bild muss älter sein als die datierte Überlagerung. Ein Mindestalter legt daher keinen genauen Entstehungszeitpunkt fest. Bei LMET2 ergibt 71.600 ± 3.800 Jahre die konservative Grenze von 67.800 Jahren.",
+    "en": "Painting came first; calcite grew over it later. Uranium-series analysis dates that calcite. The image must be older than its dated overgrowth. A minimum age therefore does not give an exact creation date. For LMET2, 71,600 ± 3,800 years yields the conservative 67,800-year bound."
+  }
+}

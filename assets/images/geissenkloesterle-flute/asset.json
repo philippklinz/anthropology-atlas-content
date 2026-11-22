@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:geissenkloesterle-flute",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-geissenkloesterle-flute",
+      "role": "derivation",
+      "locator": "Summary, author and CC BY-SA 3.0 license"
+    }
+  ],
+  "assetType": "image",
+  "file": "geissenkloesterle-flute.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Geißenklösterle · die Schwanenknochenflöte",
+    "en": "Geißenklösterle · the swan-bone flute"
+  },
+  "alt": {
+    "de": "Museumsaufnahme der Schwanenknochenflöte aus dem Geißenklösterle mit erhaltenen Öffnungen und Bruchstellen. Ein einzelnes Instrument aus dem hier beschriebenen Fundensemble.",
+    "en": "Museum photograph of the swan-bone flute from Geißenklösterle, with surviving openings and breaks. One instrument from the assemblage described here."
+  },
+  "entityIds": [
+    "artifact:geissenkloesterle-flutes"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-3.0",
+    "creators": [
+      "Thilo Parg"
+    ],
+    "attribution": "Thilo Parg / Wikimedia Commons · CC BY-SA 3.0",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Floete_Schwanenknochen_Geissenkloesterle_Blaubeuren.jpg",
+    "originNote": "Original JPEG copied unchanged, 1688 × 3000 pixels. License: https://creativecommons.org/licenses/by-sa/3.0/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:leang-karampuang",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "supports",
+      "locator": "Dating results for Leang Karampuang rock art, pp. 816–817; Fig. 3: H1–H3, pig, and LK1 minimum age"
+    },
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "supports",
+      "locator": "Fig. 1b, site 2; reporting summary, Location: exact coordinates withheld by the authors"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Leang Karampuang · Sulawesi, Indonesien",
+    "en": "Leang Karampuang · Sulawesi, Indonesia"
+  },
+  "summary": {
+    "de": "Höhle in der Karstlandschaft von Maros-Pangkep. An der Decke sind unter anderem ein Schwein und menschenähnliche Figuren erhalten. Der Kartenpunkt bezeichnet nur das weitere Fundgebiet.",
+    "en": "A cave in the Maros-Pangkep karst. Preserved ceiling images include a pig and human-like figures. The map point indicates only the wider site area."
+  }
+}

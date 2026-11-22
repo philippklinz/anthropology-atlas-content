@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:metanduno-hand-lmet2",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-muna-rock-art-2026",
+      "role": "supports",
+      "locator": "Rock art dating results, p. 653; Figs. 2–3: LMET2 hand stencil and minimum-age constraint of 67.8 ka"
+    },
+    {
+      "sourceId": "source:oktaviana-muna-rock-art-2026",
+      "role": "supports",
+      "locator": "Implications for early human migration, pp. 654–655: limits of taxonomic attribution"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Liang Metanduno · das Handnegativ bei LMET2",
+    "en": "Liang Metanduno · the hand stencil beneath LMET2"
+  },
+  "summary": {
+    "de": "Nur ein etwa 14 × 10 cm großer Rest mit Teilen von Fingern und Handfläche ist erhalten. LMET2 bezeichnet die darüber entnommene Kalkprobe. Die Studie erschließt ein Mindestalter von 67.800 Jahren; die Zuordnung der Urheber zu Homo sapiens bleibt eine begründete Interpretation.",
+    "en": "Only a roughly 14 × 10 cm patch with portions of fingers and palm survives. LMET2 names the calcite sample taken above it. The study infers a minimum age of 67,800 years; attributing its makers to Homo sapiens remains a reasoned interpretation."
+  }
+}

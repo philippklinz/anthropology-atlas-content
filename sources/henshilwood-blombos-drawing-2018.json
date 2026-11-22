@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:henshilwood-blombos-drawing-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "An abstract drawing from the 73,000-year-old levels at Blombos Cave, South Africa",
+  "sourceType": "article",
+  "creators": [
+    "Christopher S. Henshilwood",
+    "Francesco d’Errico",
+    "Karen L. van Niekerk",
+    "Laure Dayet",
+    "Alain Queffelec",
+    "Luca Pollarolo"
+  ],
+  "url": "https://doi.org/10.1038/s41586-018-0514-3",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Nature 562, 115–118. Abstract and original Supplementary Information consulted, especially microscopic and chemical analyses of L13 and experimental marking. The CNRS research-team release supplies a readable account of the dated layer and nine drawn lines; it is separately cited. Drawing on silcrete is distinguished from engraved ochre.",
+  "published": "2018-09-12",
+  "identifiers": {
+    "doi": "10.1038/s41586-018-0514-3"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:henshilwood-blombos-excavation-2001",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Blombos Cave, Southern Cape, South Africa: Preliminary Report on the 1992–1999 Excavations of the Middle Stone Age Levels",
+  "sourceType": "article",
+  "creators": [
+    "Christopher S. Henshilwood",
+    "Judith C. Sealy",
+    "Royden Yates",
+    "et al."
+  ],
+  "url": "https://in-africa.org/wp-content/uploads/2012/12/Henshilwood-et-al-2001-JAS-Blombos.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Journal of Archaeological Science 28, 421–448. Site Background, p. 423, consulted for geography only: 34°25′S, 21°13′E. Its earlier chronology is not substituted for the 2018 drawing study.",
+  "published": "2001",
+  "identifiers": {
+    "doi": "10.1006/jasc.2000.0638"
+  }
+}
