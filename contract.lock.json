@@ -1,7 +1,7 @@
 {
   "schemaVersion": "0.1.0",
   "engineRepository": "https://github.com/philippklinz/anthropology-atlas-engine",
-  "engineCommit": "e4bb74a5f7c647167421d00126edc91352935f7d",
+  "engineCommit": "6f6474c22132c1a4eac1f1ad48587e8aaba554e5",
   "compilerVersion": "0.1.0-dev.8",
   "entrypoint": "tooling/index.html",
   "format": "native-browser-toolkit",
@@ -102,8 +102,8 @@
     },
     {
       "path": "tooling/schemas/0.1.0/record.schema.json",
-      "bytes": 58610,
-      "sha256": "7632207e5127fa8e77a2a92401694dc1ab3513b6b3e7386b53fa526db524098b"
+      "bytes": 58754,
+      "sha256": "fd49f23a8b9d6c0c837bab4a380c7e528f1c9da38e86108d00959d4251ec951e"
     },
     {
       "path": "tooling/schemas/0.1.0/vocabulary.json",
@@ -172,8 +172,8 @@
     },
     {
       "path": "tooling/tools/validate.js",
-      "bytes": 17119,
-      "sha256": "ff6448616d75fbd2de5c87660387111bbc9ca36719100ed567f22e193a5c0886"
+      "bytes": 17305,
+      "sha256": "b1f4b258c1ccf9b3ceb946597d311cb0c273c436b2ba436d783936ee7d541d97"
     },
     {
       "path": "tooling/tools/workspace.js",

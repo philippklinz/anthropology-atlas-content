@@ -140,7 +140,8 @@
           "migrations",
           "landscapes"
         ]
-      }
+      },
+      "assetId": "asset:wallacea-65ka-model"
     },
     {
       "id": "beringia",
@@ -232,7 +233,8 @@
           "migrations",
           "landscapes"
         ]
-      }
+      },
+      "assetId": "asset:white-sands-footprints"
     }
   ],
   "interpretationChoices": [
