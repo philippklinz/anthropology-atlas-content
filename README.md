@@ -41,3 +41,7 @@ All processing runs in the browser; selected files are not uploaded. The tool ca
 - `published/`: browser-consumable output; source remains authoritative.
 
 `contract.lock.json` and `tooling.sha256` identify and verify the delivered toolkit. Toolkit updates are deliberate maintainer commits. The repository retains its existing GNU GPL v2 LICENSE; distributed media and third-party components retain their separately documented rights.
+
+## Chapter discovery
+
+The three voyage chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership; shared places retain one canonical ID. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. See `docs/research/chapter-discovery.md` for the periodization source and editorial choices.

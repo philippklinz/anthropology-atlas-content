@@ -87,5 +87,142 @@
     "layers": [
       "events"
     ]
-  }
+  },
+  "discovery": {
+    "summary": {
+      "de": "Mit Darwin auf der zweiten Reise der HMS Beagle. Landgänge auf Galápagos, Beobachtungen und Sammlungen auf dem Weg zu neuem Wissen.",
+      "en": "With Darwin on the second voyage of HMS Beagle. Galápagos landings, observations and collections on the way to new knowledge."
+    },
+    "periods": [
+      {
+        "id": "nineteenth-century",
+        "labels": {
+          "de": "19. Jahrhundert",
+          "en": "19th century"
+        },
+        "description": {
+          "de": "1801–1900. Ein kalendarischer Zeitbereich; regionale Epochen können ihn unterschiedlich gliedern.",
+          "en": "1801–1900. A calendar grouping; regional periods may divide it differently."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "atlantic",
+        "labels": {
+          "de": "Atlantik",
+          "en": "Atlantic"
+        }
+      },
+      {
+        "id": "galapagos",
+        "labels": {
+          "de": "Galápagos",
+          "en": "Galápagos"
+        }
+      },
+      {
+        "id": "pacific",
+        "labels": {
+          "de": "Pazifik",
+          "en": "Pacific"
+        }
+      },
+      {
+        "id": "indian-ocean",
+        "labels": {
+          "de": "Indischer Ozean",
+          "en": "Indian Ocean"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "seafaring",
+        "labels": {
+          "de": "Seefahrt",
+          "en": "Seafaring"
+        }
+      },
+      {
+        "id": "natural-history",
+        "labels": {
+          "de": "Naturforschung",
+          "en": "Natural history"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:hms-beagle",
+    "event:beagle-callao",
+    "event:beagle-cape",
+    "event:beagle-cocos",
+    "event:beagle-departure",
+    "event:beagle-fuegia",
+    "event:beagle-hobart",
+    "event:beagle-mauritius",
+    "event:beagle-new-zealand",
+    "event:beagle-praia",
+    "event:beagle-recife",
+    "event:beagle-return",
+    "event:beagle-rio",
+    "event:beagle-sydney",
+    "event:beagle-tahiti",
+    "event:beagle-valparaiso",
+    "event:darwin-beagle",
+    "event:darwin-floreana",
+    "event:darwin-isabela",
+    "event:darwin-san-cristobal",
+    "event:darwin-santiago",
+    "geometry:bay-of-islands-orientation",
+    "geometry:callao-orientation",
+    "geometry:cape-good-hope-orientation",
+    "geometry:cocos-keeling-orientation",
+    "geometry:darwin-beagle-schematic",
+    "geometry:falmouth-orientation",
+    "geometry:floreana-orientation",
+    "geometry:hobart-orientation",
+    "geometry:isabela-orientation",
+    "geometry:mauritius-orientation",
+    "geometry:plymouth-orientation",
+    "geometry:praia-orientation",
+    "geometry:recife-orientation",
+    "geometry:rio-bay-orientation",
+    "geometry:san-cristobal-galapagos-orientation",
+    "geometry:santiago-galapagos-orientation",
+    "geometry:sydney-orientation",
+    "geometry:tahiti-orientation",
+    "geometry:tierra-del-fuego-orientation",
+    "geometry:valparaiso-orientation",
+    "person:charles-darwin",
+    "person:robert-fitzroy",
+    "person:syms-covington",
+    "place:bay-of-islands",
+    "place:callao",
+    "place:cape-good-hope",
+    "place:cocos-keeling",
+    "place:falmouth",
+    "place:floreana",
+    "place:hobart",
+    "place:isabela",
+    "place:mauritius",
+    "place:plymouth",
+    "place:praia",
+    "place:recife",
+    "place:rio-bay",
+    "place:san-cristobal-galapagos",
+    "place:santiago-galapagos",
+    "place:sydney",
+    "place:tahiti",
+    "place:tierra-del-fuego",
+    "place:valparaiso",
+    "source:darwin-correspondence-voyage",
+    "source:darwin-daily-itinerary",
+    "source:darwin-galapagos-diary",
+    "source:darwin-galapagos-geology",
+    "source:darwin-itinerary",
+    "source:elkano-route",
+    "source:nhm-beagle-birds"
+  ]
 }

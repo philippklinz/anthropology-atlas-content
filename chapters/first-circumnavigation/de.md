@@ -4,7 +4,7 @@ Magellan leitete den Aufbruch. Nach seinem Tod 1521 führte Elcano die Victoria 
 
 ## Erkunden
 
-Öffne die Reise für die geordnete Stationsliste oder wähle links Personen, Orte und Ereignisse. Der Zeitraum 1519–1522 zeigt zunächst alle erfassten Stationen; mit dem Jahresfeld kannst du die Kartenbelege eingrenzen. „Kapitelansicht“ stellt die gesamte Reise wieder her.
+Öffne die Reise für die geordnete Stationsliste oder wähle links Personen, Orte und Ereignisse. Der Zeitraum 1519–1522 zeigt zunächst alle erfassten Stationen; mit dem Jahresfeld kannst du die Kartenbelege eingrenzen. „Auswahlansicht“ stellt die gesamte Reise wieder her.
 
 ## Was die Karte zeigt
 
