@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:khs-volcanic-ash",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vidal-omo-2022",
+      "role": "supports",
+      "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "KHS-Asche · eine Schicht als Zeitmarke",
+    "en": "KHS ash · a layer as a time marker"
+  },
+  "summary": {
+    "de": "Die Kamoya’s Hominid Site Tuff genannte Ascheschicht überlagert den Fundhorizont von Omo I. Ihre chemische Zusammensetzung wurde mit Ablagerungen des Shala-Vulkans verglichen. Diese Zuordnung verbindet die Schichtenfolge am Fossilfundort mit einer andernorts datierbaren Eruption.",
+    "en": "The Kamoya’s Hominid Site Tuff overlies the Omo I fossil horizon. Its chemical composition was compared with deposits from Shala volcano. This correlation connects the fossil-site stratigraphy to an eruption that can be dated elsewhere."
+  }
+}

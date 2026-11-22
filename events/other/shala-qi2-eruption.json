@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:shala-qi2-eruption",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vidal-omo-2022",
+      "role": "supports",
+      "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)",
+      "appliesTo": [
+        "/time",
+        "/note"
+      ]
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Shala-Qi2-Eruption · die datierte Zeitmarke",
+    "en": "Shala Qi2 eruption · the dated time marker"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 255000,
+      "younger": 211000,
+      "precision": "year",
+      "qualifier": "approximate",
+      "central": 233000,
+      "uncertaintySigma": 2
+    }
+  },
+  "participants": [
+    {
+      "entityId": "place:shala-volcano",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:vidal-omo-2022",
+          "role": "supports",
+          "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)",
+          "appliesTo": [
+            "/time",
+            "/note"
+          ]
+        }
+      ]
+    },
+    {
+      "entityId": "specimen:khs-volcanic-ash",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:vidal-omo-2022",
+          "role": "supports",
+          "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)",
+          "appliesTo": [
+            "/time",
+            "/note"
+          ]
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:shala-volcano"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:shala-volcano-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Für die korrelierte Eruption wurde ein Alter von 233.000 ± 22.000 Jahren (2σ) bestimmt. Der schraffierte Zeitbereich ist eine Datierungsunsicherheit, keine Dauer des Ausbruchs. Der Atlas zeigt keine rekonstruierte Ausbreitungsfläche der Asche.",
+    "en": "The correlated eruption was dated to 233,000 ± 22,000 years (2σ). The hatched range represents dating uncertainty, not the eruption’s duration. The atlas does not reconstruct the ash-fall extent."
+  }
+}

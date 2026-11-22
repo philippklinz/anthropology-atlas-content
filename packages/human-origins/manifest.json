@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:human-origins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Frühe Homo sapiens in Afrika",
+    "en": "Early Homo sapiens in Africa"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:irhoud-stone-tools",
+    "assertion:levallois-at-irhoud",
+    "asset:irhoud-skull-reconstruction",
+    "asset:irhoud-stone-tool-plate",
+    "chapter:cradle-of-humankind",
+    "concept:african-population-origins",
+    "event:irhoud-early-sapiens",
+    "event:omo-i-age-constraint",
+    "event:shala-qi2-eruption",
+    "geometry:jebel-irhoud-orientation",
+    "geometry:omo-kibish-orientation",
+    "geometry:shala-volcano-orientation",
+    "place:jebel-irhoud",
+    "place:omo-kibish",
+    "place:shala-volcano",
+    "source:geraads-irhoud-location-2013",
+    "source:hublin-irhoud-2017",
+    "source:mcdougall-kibish-2005",
+    "source:mpi-irhoud-media-2017",
+    "source:ragsdale-african-origins-2023",
+    "source:richter-irhoud-2017",
+    "source:vidal-omo-2022",
+    "specimen:jebel-irhoud-fossils",
+    "specimen:khs-volcanic-ash",
+    "specimen:omo-i",
+    "taxon:homo-sapiens",
+    "technology:argon-argon-dating",
+    "technology:levallois-technique",
+    "technology:thermoluminescence-dating"
+  ],
+  "entryChapterIds": [
+    "chapter:cradle-of-humankind"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "natural-history",
+    "image-viewer"
+  ]
+}

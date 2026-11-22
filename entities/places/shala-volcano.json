@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:shala-volcano",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vidal-omo-2022",
+      "role": "derivation",
+      "locator": "Fig. 2a–b: Shala volcanic system; approximate map position"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Shala-Vulkan · heutiges Äthiopien",
+    "en": "Shala volcano · present-day Ethiopia"
+  },
+  "summary": {
+    "de": "Vulkansystem im äthiopischen Rift. Die Qi2-Eruption ist die Zeitmarke, mit der die KHS-Asche oberhalb von Omo I korreliert wurde. Der Punkt markiert die Gegend der Caldera und keinen sicher rekonstruierten Ausbruchsschlot.",
+    "en": "A volcanic system in the Ethiopian Rift. The Qi2 eruption is the time marker correlated with the KHS ash above Omo I. The point marks the caldera vicinity, not a securely reconstructed eruption vent."
+  }
+}

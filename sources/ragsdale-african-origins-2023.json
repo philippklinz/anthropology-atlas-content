@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ragsdale-african-origins-2023",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A weakly structured stem for human origins in Africa",
+  "sourceType": "article",
+  "creators": [
+    "Aaron P. Ragsdale",
+    "Timothy D. Weaver",
+    "Elizabeth G. Atkinson",
+    "et al."
+  ],
+  "published": "2023",
+  "containerTitle": "Nature 617, 755–763",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10208968/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read abstract and discussion of the genomic demographic models. A model supporting ancestral population connections, not direct evidence for a particular mapped route or a contemporary ethnic group at a fossil site.",
+  "identifiers": {
+    "doi": "10.1038/s41586-023-06055-y"
+  }
+}

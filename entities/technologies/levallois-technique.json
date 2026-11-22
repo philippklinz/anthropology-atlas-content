@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "technology:levallois-technique",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-irhoud-2017",
+      "role": "supports",
+      "locator": "pp. 293–296; Methods, thermoluminescence dating: layer 7, 315 ± 34 ka (1σ)"
+    }
+  ],
+  "entityType": "technology",
+  "labels": {
+    "de": "Levallois-Technik · den Abschlag vorbereiten",
+    "en": "Levallois technique · preparing a flake"
+  },
+  "summary": {
+    "de": "Ein Steinkern wird zunächst gezielt geformt. Dadurch lässt sich beeinflussen, welche Form ein anschließend abgetrennter Abschlag hat. Solche vorbereiteten Kerne und Abschläge sind in Jebel Irhoud belegt. Daraus folgt weder, dass die Technik dort erfunden wurde, noch dass sie ausschließlich Homo sapiens verwendete.",
+    "en": "A stone core is deliberately shaped before a flake is struck from it, influencing the flake’s form. Prepared cores and flakes are documented at Jebel Irhoud. This does not establish that the technique was invented there or used exclusively by Homo sapiens."
+  }
+}

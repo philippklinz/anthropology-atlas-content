@@ -2,13 +2,14 @@
 
 Independent historical content for the [Anthropology Atlas engine](https://github.com/philippklinz/anthropology-atlas-engine).
 
-Three bounded historical chapters are available in German and English:
+Four bounded historical chapters are available in German and English:
 
+- [The Cradle of Humankind: early Homo sapiens in Africa](docs/research/cradle-of-humankind.md), including fossil evidence, stone tools and explicit dating uncertainty.
 - [Columbus's first Atlantic voyage, 1492–1493](docs/research/columbus-first-voyage.md), including inhabited Caribbean societies and the disputed identification of Guanahani.
 - [The first circumnavigation, 1519–1522](docs/research/first-circumnavigation.md).
 - [Darwin and the second Beagle voyage, 1831–1836](docs/research/darwin-beagle.md), including his four Galápagos island stays.
 
-The dataset contains 158 records: 52 entities, 43 events, one assertion, 37 geometries, 18 sources, three chapters and four packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
+The dataset contains 188 records: 64 entities, 46 events, two assertions, 40 geometries, 25 sources, two images, four chapters and five packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
 
 `published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it.
 
@@ -44,4 +45,4 @@ All processing runs in the browser; selected files are not uploaded. The tool ca
 
 ## Chapter discovery
 
-The three voyage chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership; shared places retain one canonical ID. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. See `docs/research/chapter-discovery.md` for the periodization source and editorial choices.
+All four chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership; shared places retain one canonical ID. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. See `docs/research/chapter-discovery.md` for the periodization source and editorial choices.

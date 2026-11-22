@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:omo-kibish-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.9,
+      5.4
+    ]
+  }
+}

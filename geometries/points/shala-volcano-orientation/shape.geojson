@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:shala-volcano-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.5,
+      7.5
+    ]
+  }
+}

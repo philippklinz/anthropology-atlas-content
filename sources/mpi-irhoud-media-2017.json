@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mpi-irhoud-media-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The first of our kind — original articles and media",
+  "sourceType": "website",
+  "creators": [
+    "Max Planck Institute for Evolutionary Anthropology"
+  ],
+  "published": "2017-06-07",
+  "url": "https://www.eva.mpg.de/press/news/2017/2017-06-07-the-first-of-our-kind/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Image captions and explicit CC-BY-SA 2.0 notices checked for Figures 9 and 11. Only those two image files are redistributed unchanged. Scientific claims cite the original papers separately."
+}

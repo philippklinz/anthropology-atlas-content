@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:irhoud-skull-reconstruction",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mpi-irhoud-media-2017",
+      "role": "derivation",
+      "locator": "Figure 11, two-view composite reconstruction; credit and CC-BY-SA 2.0 notice"
+    }
+  ],
+  "assetType": "image",
+  "file": "irhoud-reconstruction.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Schädelrekonstruktion · Jebel Irhoud",
+    "en": "Skull reconstruction · Jebel Irhoud"
+  },
+  "alt": {
+    "de": "Zusammengesetzte Rekonstruktion aus CT-Daten mehrerer Fossilien. Links der Schädel, rechts der virtuelle Innenraum des Hirnschädels in Blau. Kein vollständig erhaltener Einzelschädel.",
+    "en": "Composite reconstruction from CT data of multiple fossils. Skull at left; virtual braincase cavity in blue at right. Not one complete individual skull."
+  },
+  "entityIds": [
+    "specimen:jebel-irhoud-fossils"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-2.0",
+    "creators": [
+      "Philipp Gunz"
+    ],
+    "attribution": "Philipp Gunz / MPI EVA Leipzig · CC BY-SA 2.0 · unchanged image",
+    "sourceUrl": "https://www.eva.mpg.de/fileadmin/_processed_/6/6/csm_Figure_11_416164fe6e.jpg",
+    "originNote": "Unmodified image from MPI EVA 2017 press kit. License: https://creativecommons.org/licenses/by-sa/2.0/ . Reconstruction is identified in the caption; it is not an intact fossil."
+  }
+}

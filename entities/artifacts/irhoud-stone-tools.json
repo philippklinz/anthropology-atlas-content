@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:irhoud-stone-tools",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-irhoud-2017",
+      "role": "supports",
+      "locator": "pp. 293–296; Methods, thermoluminescence dating: layer 7, 315 ± 34 ka (1σ)"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Steinwerkzeuge von Jebel Irhoud",
+    "en": "Stone tools from Jebel Irhoud"
+  },
+  "summary": {
+    "de": "Spitzen und Abschläge gehören zum Fundkomplex. Ein Teil der Abschläge entstand an vorbereiteten Steinkernen in Levallois-Technik. Einige Feuersteine wurden in der Vergangenheit erhitzt; gerade dies ermöglicht ihre Thermolumineszenz-Datierung. Werkzeugfunde belegen hier eine Technik, nicht deren erstmalige Erfindung.",
+    "en": "Points and flakes form part of the assemblage. Some flakes were produced from prepared cores using Levallois technology. Some flints were heated in the past, making thermoluminescence dating possible. These finds attest a technique here, not its first invention."
+  },
+  "assetIds": [
+    "asset:irhoud-stone-tool-plate"
+  ]
+}

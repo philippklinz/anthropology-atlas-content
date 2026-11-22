@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:omo-i-age-constraint",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vidal-omo-2022",
+      "role": "supports",
+      "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)",
+      "appliesTo": [
+        "/time",
+        "/note"
+      ]
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Omo I · älter als die Asche darüber",
+    "en": "Omo I · older than the ash above"
+  },
+  "time": {
+    "kind": "before",
+    "bound": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 255000,
+      "younger": 211000,
+      "precision": "year",
+      "qualifier": "approximate",
+      "central": 233000,
+      "uncertaintySigma": 2
+    }
+  },
+  "participants": [
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:vidal-omo-2022",
+          "role": "supports",
+          "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)",
+          "appliesTo": [
+            "/time",
+            "/note"
+          ]
+        }
+      ]
+    },
+    {
+      "entityId": "specimen:omo-i",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:vidal-omo-2022",
+          "role": "supports",
+          "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)",
+          "appliesTo": [
+            "/time",
+            "/note"
+          ]
+        }
+      ]
+    },
+    {
+      "entityId": "specimen:khs-volcanic-ash",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:vidal-omo-2022",
+          "role": "supports",
+          "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)",
+          "appliesTo": [
+            "/time",
+            "/note"
+          ]
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:omo-kibish"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:omo-kibish-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Omo I liegt unter einer Ascheschicht, die mit der Shala-Qi2-Eruption korreliert wurde. Deren Alter beträgt 233.000 ± 22.000 Jahre (2σ). Wie viel älter die Fossilien sind, ist damit nicht bestimmt. Der nach links offene Balken kennzeichnet diese fehlende ältere Grenze; sein Anfang am Kartenrand ist kein behauptetes Alter.",
+    "en": "Omo I lies below an ash layer correlated with the Shala Qi2 eruption, dated to 233,000 ± 22,000 years (2σ). This does not determine how much older the fossils are. The left-open bar indicates the missing older limit; its start at the chart edge is not an asserted age."
+  }
+}
