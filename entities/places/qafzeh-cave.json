@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:qafzeh-cave",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:schwarcz-qafzeh-1988",
+      "role": "supports",
+      "locator": "pp. 733–737, abstract and Table 1: animal tooth enamel, uranium-uptake models; TL and ESR comparison"
+    },
+    {
+      "sourceId": "source:vandermeersch-qafzeh-2019",
+      "role": "supports",
+      "locator": "Authors’ abstract: excavated human remains, field observations and interpretations of funerary practices"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Qafzeh · heutiges Israel",
+    "en": "Qafzeh · present-day Israel"
+  },
+  "summary": {
+    "de": "Fundstelle bei Nazareth in Galiläa. Die Höhle und ihr Vorplatz enthalten Schichten verschiedener Zeiten. Dieses Kapitel betrachtet die frühen Homo-sapiens-Funde aus dem Mittelpaläolithikum.",
+    "en": "A site near Nazareth in Galilee. The cave and terrace contain layers of different ages. This chapter focuses on the early Homo sapiens evidence from the Middle Palaeolithic."
+  }
+}

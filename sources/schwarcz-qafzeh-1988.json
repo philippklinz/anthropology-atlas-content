@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schwarcz-qafzeh-1988",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "ESR dates for the hominid burial site of Qafzeh in Israel",
+  "creators": [
+    "Henry P. Schwarcz",
+    "Rainer Grün",
+    "Bernard Vandermeersch",
+    "Ofer Bar-Yosef",
+    "Hélène Valladas",
+    "Eitan Tchernov"
+  ],
+  "url": "https://in-africa.org/wp-content/uploads/2012/12/Schwarcz-HP-et-al-1988-ESR-dates-Qafzeh.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the original article, abstract, Table 1 and discussion. ESR on animal tooth enamel depends on uranium-uptake assumptions; the reported linear-uptake result is 115 ± 15 ka, compared with the cited TL mean of 92 ± 5 ka. The chapter does not assign all Qafzeh remains one exact date.",
+  "published": "1988",
+  "containerTitle": "Journal of Human Evolution 17, 733–737",
+  "identifiers": {
+    "doi": "10.1016/0047-2484(88)90063-2"
+  }
+}

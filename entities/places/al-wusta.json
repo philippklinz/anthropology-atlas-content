@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:al-wusta",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results, Figs. 1–4 and SI 4: AW-1 identification, context and combined approximately 95–86 ka site chronology"
+    },
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results (manuscript pp. 10–12), Discussion and SI 5: lake sediments, fauna and humid-phase interpretation"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Al Wusta · heutiges Saudi-Arabien",
+    "en": "Al Wusta · present-day Saudi Arabia"
+  },
+  "summary": {
+    "de": "Fundstelle in der Nefud-Wüste. Seeablagerungen, Tierfossilien, Steinwerkzeuge und ein menschlicher Fingerknochen erschließen eine frühere, feuchtere Landschaft.",
+    "en": "A site in the Nefud Desert. Lake deposits, animal fossils, stone tools and a human finger bone reveal a formerly wetter landscape."
+  }
+}

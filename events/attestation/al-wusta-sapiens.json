@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:al-wusta-sapiens",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results, Figs. 1–4 and SI 4: AW-1 identification, context and combined approximately 95–86 ka site chronology"
+    },
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results (manuscript pp. 10–12), Discussion and SI 5: lake sediments, fauna and humid-phase interpretation"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Homo sapiens am See von Al Wusta",
+    "en": "Homo sapiens by the Al Wusta lake"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 95000,
+      "younger": 86000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Results, Figs. 1–4 and SI 4: AW-1 identification, context and combined approximately 95–86 ka site chronology"
+        },
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Results (manuscript pp. 10–12), Discussion and SI 5: lake sediments, fauna and humid-phase interpretation"
+        }
+      ]
+    },
+    {
+      "entityId": "specimen:al-wusta-1",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Results, Figs. 1–4 and SI 4: AW-1 identification, context and combined approximately 95–86 ka site chronology"
+        },
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Results (manuscript pp. 10–12), Discussion and SI 5: lake sediments, fauna and humid-phase interpretation"
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:al-wusta-stone-tools",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Results, Figs. 1–4 and SI 4: AW-1 identification, context and combined approximately 95–86 ka site chronology"
+        },
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Results (manuscript pp. 10–12), Discussion and SI 5: lake sediments, fauna and humid-phase interpretation"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:al-wusta"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:al-wusta-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Der Bereich von etwa 95.000–86.000 Jahren stammt aus der kombinierten Chronologie von Fossilien, Sedimenten und Schichtenfolge. AW-1 wurde an einer freiliegenden Oberfläche der Einheit 3b gefunden. Die direkte Uranreihen-Datierung von 87.600 ± 2.500 Jahren (2σ) liefert für sich nur ein Mindestalter. Der schraffierte Bereich ist weder eine Lebensdauer noch eine sicher durchgehend bewohnte Zeitspanne.",
+    "en": "Approximately 95,000–86,000 years comes from the combined chronology of fossils, sediments and stratigraphy. AW-1 was found on an exposed surface of Unit 3b. Its direct uranium-series date of 87,600 ± 2,500 years (2σ) alone provides only a minimum age. The hatched range is neither a lifespan nor a securely continuous occupation."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:valladas-qafzeh-1988",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Thermoluminescence dating of Mousterian “Proto-Cro-Magnon” remains from Israel and the origin of modern man",
+  "creators": [
+    "Hélène Valladas",
+    "Jean-Louis Reyss",
+    "Jean-Louis Joron",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1038/331614a0",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the publisher abstract: 20 burnt flints from the hominin-bearing layers, approximately 90–100 ka. The mean of 92 ± 5 ka is also reported in the accessible original ESR paper by Schwarcz et al. (1988). Terminology in this historical paper title is retained bibliographically, not adopted as an atlas taxon.",
+  "published": "1988",
+  "containerTitle": "Nature 331, 614–616",
+  "identifiers": {
+    "doi": "10.1038/331614a0"
+  }
+}

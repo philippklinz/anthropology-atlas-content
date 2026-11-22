@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:skhul-v-skull-view",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-skhul-v-image",
+      "role": "derivation",
+      "locator": "File description, creator, license and file history"
+    }
+  ],
+  "assetType": "image",
+  "file": "skhul-v.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Skhul V · Schädelansicht",
+    "en": "Skhul V · skull view"
+  },
+  "alt": {
+    "de": "Seitliche Ansicht der als Skhul V bezeichneten Schädeldarstellung. Ob das fotografierte Exponat Original oder Abguss ist, geht aus der Bildquelle nicht hervor.",
+    "en": "Side view of the skull display identified as Skhul V. The image source does not specify whether the photographed exhibit is an original or cast."
+  },
+  "entityIds": [
+    "specimen:skhul-v"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-3.0",
+    "creators": [
+      "Wapondaponda",
+      "UtaUtaNapishtim"
+    ],
+    "attribution": "Wapondaponda; background/rotation by UtaUtaNapishtim · CC BY-SA 3.0",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Skhul.JPG",
+    "originNote": "Current Wikimedia file copied unchanged. Earlier Wikimedia edits include cropping, background removal and rotation. Original/cast status is not specified by the source. License: https://creativecommons.org/licenses/by-sa/3.0/ ."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:vandermeersch-qafzeh-2019",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "The Paleolithic Burials at Qafzeh Cave, Israel",
+  "creators": [
+    "Bernard Vandermeersch",
+    "Ofer Bar-Yosef"
+  ],
+  "url": "https://digitalcommons.usf.edu/kip_articles/7234/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the authors’ abstract, republished by the USF research repository. It summarizes excavators’ observations and possible interpretations of funerary practices. Full text at OpenEdition was unavailable. No specific grave, grave good, belief, or earliest-burial superlative is inferred from the abstract.",
+  "published": "2019",
+  "containerTitle": "PALEO 30(1)",
+  "identifiers": {
+    "doi": "10.4000/paleo.4848"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:humid-arabia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results (manuscript pp. 10–12), Discussion and SI 5: lake sediments, fauna and humid-phase interpretation"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Als Arabien feuchter war",
+    "en": "When Arabia was wetter"
+  },
+  "summary": {
+    "de": "Al Wusta lag zeitweise an einem Süßwassersee in einer Graslandschaft. Seesedimente, Kieselalgen und Tierfossilien stützen diese Rekonstruktion. Mehr Niederschlag konnte bisher trockene Räume leichter bewohnbar machen. Das war regional und zeitlich wechselhaft.",
+    "en": "Al Wusta once lay beside a freshwater lake in grassland. Lake sediments, diatoms and animal fossils support that reconstruction. Increased rainfall could make arid areas more habitable. These conditions varied across regions and time."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:skhul-v",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:grun-skhul-2005",
+      "role": "supports",
+      "locator": "Abstract: Skhul II, V and IX; conditional 100–135 ka range and possible differences between burials"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Skhul V · menschliches Fossil",
+    "en": "Skhul V · human fossil"
+  },
+  "summary": {
+    "de": "Einer der menschlichen Skelettfunde von Skhul. Die Datierung hängt auch davon ab, ob die verschiedenen Bestattungen zeitlich nahe beieinander lagen. Skhul V und andere Funde sind deshalb nicht mit einem einzigen sicheren Todesjahr verbunden.",
+    "en": "One of the human skeletal finds at Skhul. Dating also depends on whether the different burials were close together in time. Skhul V and the other finds therefore have no single secure year of death."
+  },
+  "assetIds": [
+    "asset:skhul-v-skull-view"
+  ]
+}

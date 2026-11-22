@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-nahal-mearot",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "website",
+  "title": "Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/1393/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the description identifying Skhul within the cave group and the property coordinate N32 40 07 E34 58 05. The rounded atlas point is a regional location aid for Skhul, not a surveyed excavation or a copied UNESCO boundary."
+}

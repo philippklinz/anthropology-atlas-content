@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:misliya-1",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hershkovitz-misliya-2018",
+      "role": "supports",
+      "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Misliya-1 · Oberkiefer und Zähne",
+    "en": "Misliya-1 · maxilla and teeth"
+  },
+  "summary": {
+    "de": "Erhaltener Teil des linken Oberkiefers eines erwachsenen Menschen mit Zähnen. Anatomische Vergleiche führten zur Zuordnung zu Homo sapiens. Verschiedene Datierungen begrenzen sein geschätztes Alter auf 194.000–177.000 Jahre.",
+    "en": "Part of an adult’s left upper jaw with teeth. Anatomical comparisons supported attribution to Homo sapiens. Several dating methods constrain its estimated age to 194,000–177,000 years."
+  }
+}

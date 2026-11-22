@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:al-wusta-stone-tools",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results and SI 7: Middle Palaeolithic lithic assemblage, centripetal Levallois reduction"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Al Wusta · Steinwerkzeuge",
+    "en": "Al Wusta · stone tools"
+  },
+  "summary": {
+    "de": "Steingeräte aus dem Fundareal, darunter Produkte der Levallois-Technik. Vorbereitete Steinkerne ermöglichten gezielte Abschläge. Die Ähnlichkeit von Werkzeugen allein bestimmt weder eine Menschenart noch eine genaue Wanderroute.",
+    "en": "Stone artifacts from the site, including products of Levallois reduction. Prepared stone cores allowed controlled flakes. Tool similarities alone establish neither a human species nor a precise migration route."
+  }
+}

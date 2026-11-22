@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:skhul-cave-view",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-skhul-cave-2016",
+      "role": "derivation",
+      "locator": "File description, creator, license and file history"
+    }
+  ],
+  "assetType": "image",
+  "file": "skhul-cave.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Skhul · der Höhleneingang heute",
+    "en": "Skhul · the cave entrance today"
+  },
+  "alt": {
+    "de": "Heutiger Eingang der Skhul-Höhle im Fels. Fotografie vom 18. Oktober 2016, keine Rekonstruktion der damaligen Landschaft.",
+    "en": "The present-day entrance of Skhul Cave in rock. Photograph from 18 October 2016, not a reconstruction of the ancient landscape."
+  },
+  "entityIds": [
+    "place:skhul-cave"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Avishai Teicher (Avi1111)"
+    ],
+    "attribution": "Avishai Teicher (Avi1111) · CC BY-SA 4.0 · Wikimedia 1280 px derivative",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Skhul_Cave_%282%29.jpg/1280px-Skhul_Cave_%282%29.jpg",
+    "originNote": "Wikimedia-generated 1280 px derivative of the 2016 photograph, unchanged after download. License: https://creativecommons.org/licenses/by-sa/4.0/ . A present-day site view."
+  }
+}

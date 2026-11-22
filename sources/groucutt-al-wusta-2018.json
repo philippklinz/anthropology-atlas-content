@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:groucutt-al-wusta-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Homo sapiens in Arabia by 85,000 years ago",
+  "creators": [
+    "Huw S. Groucutt",
+    "Rainer Grün",
+    "Iyad S. A. Zalmout",
+    "et al."
+  ],
+  "url": "https://researchonline.ljmu.ac.uk/id/eprint/8452/1/Groucutt%20et%20al%20Al%20Wusta%20accepted%20version.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the accepted manuscript, Results, Discussion, Fig. 1, and Supplementary Information 2–4 and 5. The file includes the supplement: main text pp. 9–13; SI 3 gives site coordinates 27.4° N, 39.4° E; SI 4 distinguishes a direct 87.6 ± 2.5 ka (2σ) minimum age from the combined site chronology. The abstract reports approximately 95–86 ka; the discussion rounds this to 95–85 ka. No PDF or figure is redistributed.",
+  "published": "2018",
+  "containerTitle": "Nature Ecology & Evolution 2, 800–809",
+  "identifiers": {
+    "doi": "10.1038/s41559-018-0518-2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:al-wusta-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.4,
+      27.4
+    ]
+  }
+}

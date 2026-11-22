@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:commons-skhul-v-image",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "website",
+  "title": "Skhul.JPG",
+  "creators": [
+    "Wapondaponda",
+    "UtaUtaNapishtim"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Skhul.JPG",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read description, CC BY-SA 3.0 license and file history. Wapondaponda supplied the photograph; UtaUtaNapishtim removed background, rotated and optimized it in 2017. The source identifies Skhul V but does not state whether the photographed display is an original or cast. The downloaded current file is supplied unchanged."
+}

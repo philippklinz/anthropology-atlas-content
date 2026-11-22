@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:misliya-cave",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hershkovitz-misliya-2018",
+      "role": "supports",
+      "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Misliya · heutiges Israel",
+    "en": "Misliya · present-day Israel"
+  },
+  "summary": {
+    "de": "Höhlenfundstelle am Westhang des Karmelgebirges. Hier lag der Oberkiefer Misliya-1 in einer Schicht mit Steinwerkzeugen. Der heutige Landesname dient der Orientierung.",
+    "en": "A cave site on the western slopes of Mount Carmel. The Misliya-1 maxilla was found in a layer with stone tools. The present-day country name is an orientation aid."
+  }
+}

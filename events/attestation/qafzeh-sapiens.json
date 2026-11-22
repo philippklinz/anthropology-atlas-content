@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:qafzeh-sapiens",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:valladas-qafzeh-1988",
+      "role": "supports",
+      "locator": "Published abstract: burnt flints from hominin-bearing Qafzeh layers, approximately 90–100 ka"
+    },
+    {
+      "sourceId": "source:schwarcz-qafzeh-1988",
+      "role": "supports",
+      "locator": "pp. 733–737, abstract and Table 1: animal tooth enamel, uranium-uptake models; TL and ESR comparison"
+    },
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Background and Discussion (manuscript pp. 3–4, 13): approximate Skhul 130–100 ka and Qafzeh 100–90 ka synthesis ranges"
+    },
+    {
+      "sourceId": "source:vandermeersch-qafzeh-2019",
+      "role": "supports",
+      "locator": "Authors’ abstract: excavated human remains, field observations and interpretations of funerary practices"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Homo sapiens in Qafzeh",
+    "en": "Homo sapiens at Qafzeh"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 100000,
+      "younger": 90000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:valladas-qafzeh-1988",
+          "role": "supports",
+          "locator": "Published abstract: burnt flints from hominin-bearing Qafzeh layers, approximately 90–100 ka"
+        },
+        {
+          "sourceId": "source:schwarcz-qafzeh-1988",
+          "role": "supports",
+          "locator": "pp. 733–737, abstract and Table 1: animal tooth enamel, uranium-uptake models; TL and ESR comparison"
+        },
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Background and Discussion (manuscript pp. 3–4, 13): approximate Skhul 130–100 ka and Qafzeh 100–90 ka synthesis ranges"
+        },
+        {
+          "sourceId": "source:vandermeersch-qafzeh-2019",
+          "role": "supports",
+          "locator": "Authors’ abstract: excavated human remains, field observations and interpretations of funerary practices"
+        }
+      ]
+    },
+    {
+      "entityId": "specimen:qafzeh-human-remains",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:valladas-qafzeh-1988",
+          "role": "supports",
+          "locator": "Published abstract: burnt flints from hominin-bearing Qafzeh layers, approximately 90–100 ka"
+        },
+        {
+          "sourceId": "source:schwarcz-qafzeh-1988",
+          "role": "supports",
+          "locator": "pp. 733–737, abstract and Table 1: animal tooth enamel, uranium-uptake models; TL and ESR comparison"
+        },
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Background and Discussion (manuscript pp. 3–4, 13): approximate Skhul 130–100 ka and Qafzeh 100–90 ka synthesis ranges"
+        },
+        {
+          "sourceId": "source:vandermeersch-qafzeh-2019",
+          "role": "supports",
+          "locator": "Authors’ abstract: excavated human remains, field observations and interpretations of funerary practices"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:qafzeh-cave"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:qafzeh-cave-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ausgewählter, gerundeter Zeithorizont der frühen Menschenfunde, nach der Zusammenfassung von 2018. Er ist keine vollständige Spanne aller Qafzeh-Schichten. Die ältere Literatur berichtet einen TL-Mittelwert von 92.000 ± 5.000 Jahren und modellabhängige ESR-Ergebnisse, darunter 115.000 ± 15.000 Jahre. Diese Angaben sind nicht identische Unsicherheitsintervalle.",
+    "en": "A selected rounded horizon for early human evidence, following the 2018 synthesis; not the complete span of all Qafzeh layers. Earlier literature reports a TL mean of 92,000 ± 5,000 years and model-dependent ESR results including 115,000 ± 15,000 years. These are not identical uncertainty intervals."
+  }
+}
