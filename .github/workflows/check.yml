@@ -1,0 +1,11 @@
+name: Check content files
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  integrity:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - run: sha256sum -c tooling.sha256
+      - run: python3 scripts/check-published.py

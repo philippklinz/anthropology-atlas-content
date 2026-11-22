@@ -1,0 +1,199 @@
+{
+  "schemaVersion": "0.1.0",
+  "engineRepository": "https://github.com/philippklinz/anthropology-atlas-engine",
+  "engineCommit": "3ae8f3b531aa338b870a0a8e26ba741d02cf886c",
+  "compilerVersion": "0.1.0-dev.2",
+  "entrypoint": "tooling/index.html",
+  "format": "native-browser-toolkit",
+  "adaptations": [
+    "Engine authoring.html is tooling/index.html with navigation to the content README.",
+    "Only authoring dependencies and the used font are included; the vendor/license inventory is reduced accordingly."
+  ],
+  "files": [
+    {
+      "path": "tooling/fonts/LiberationSans-Regular.ttf",
+      "bytes": 410820,
+      "sha256": "bade59d822652f76e6941aa87b40a87c13d1cc70db98ededb5011127efafd1d3"
+    },
+    {
+      "path": "tooling/index.html",
+      "bytes": 2590,
+      "sha256": "fdfc54fe3bb630088db04427f65bb28b05394ec7d4f94d7ad660b8fadf5b98ce"
+    },
+    {
+      "path": "tooling/licenses/THIRD_PARTY_NOTICES.md",
+      "bytes": 1524,
+      "sha256": "d0f5b1bf9cc1269caf0c2646e82d9c7f3b32ab1b6bb4836374135f2d82e40498"
+    },
+    {
+      "path": "tooling/licenses/liberation.txt",
+      "bytes": 5756,
+      "sha256": "f32df582a2aab128c07b2f7e36e7b928dc5f6bd82657b905c04f91459f9e5cf9"
+    },
+    {
+      "path": "tooling/licenses/project.txt",
+      "bytes": 18093,
+      "sha256": "640d90f6ee401241ff62834d0d1b33f83049e99b8bfdfa04ed1b0a1635dde3e7"
+    },
+    {
+      "path": "tooling/licenses/third-party/ajv-LICENSE",
+      "bytes": 1090,
+      "sha256": "a05350a88e318e4f5f2c2a1ff1e2e88daa4dd38e6e78b71cccae422bdc762cc3"
+    },
+    {
+      "path": "tooling/licenses/third-party/ajv-formats-LICENSE",
+      "bytes": 1074,
+      "sha256": "9df3bb69929a3b650ed73b3bfa1756725aaff0ac296461605753547004eafeaf"
+    },
+    {
+      "path": "tooling/licenses/third-party/fast-deep-equal-LICENSE",
+      "bytes": 1074,
+      "sha256": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a"
+    },
+    {
+      "path": "tooling/licenses/third-party/fast-uri-LICENSE",
+      "bytes": 1813,
+      "sha256": "b010b0dfdfdb23d7396e03b82cd4621fc9bb8f95d6b0aea70b9c24e12074c786"
+    },
+    {
+      "path": "tooling/licenses/third-party/fastpriorityqueue-LICENSE",
+      "bytes": 11358,
+      "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+    },
+    {
+      "path": "tooling/licenses/third-party/fflate-LICENSE",
+      "bytes": 1069,
+      "sha256": "0a1df3a083d0c010560aa342e87959c8c1070e6fd54545741f083f22d0c8b551"
+    },
+    {
+      "path": "tooling/licenses/third-party/json-schema-traverse-LICENSE",
+      "bytes": 1074,
+      "sha256": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a"
+    },
+    {
+      "path": "tooling/licenses/third-party/jsts-EDL.txt",
+      "bytes": 1567,
+      "sha256": "e67a91b5489cd78292d2654f1b587fe68296e28df7c766b9b675614fbdce4fd1"
+    },
+    {
+      "path": "tooling/licenses/third-party/require-from-string-license",
+      "bytes": 1128,
+      "sha256": "6ee0feb1f6ef996ff5a68600f8cf98909cf412d39ef3cdceaefd87d636fa1b7f"
+    },
+    {
+      "path": "tooling/schemas/0.1.0/README.md",
+      "bytes": 1823,
+      "sha256": "200dfbbdbe85666953b50189ba0f93ea714b77b4e29ba95a0c098075fffc073e"
+    },
+    {
+      "path": "tooling/schemas/0.1.0/catalog.schema.json",
+      "bytes": 4436,
+      "sha256": "8ed602096d655fb4efef055d649ae4c087ace20ba8e91d41c083413d3dd71b3b"
+    },
+    {
+      "path": "tooling/schemas/0.1.0/config.schema.json",
+      "bytes": 5815,
+      "sha256": "41e4b2ff485c892aebae266b58ed30cedbefd232ab6d201129801f1fa492fd69"
+    },
+    {
+      "path": "tooling/schemas/0.1.0/dataset.schema.json",
+      "bytes": 739,
+      "sha256": "6967ae84d9c3bd1b25c647db760edb76031957a10f64e955ac5ff56bd35a7418"
+    },
+    {
+      "path": "tooling/schemas/0.1.0/record.schema.json",
+      "bytes": 51729,
+      "sha256": "fd58ce37331325c1aec2ed1e2d91ede7579d5cba3749939d52f1088a7cee852c"
+    },
+    {
+      "path": "tooling/schemas/0.1.0/vocabulary.json",
+      "bytes": 7976,
+      "sha256": "91b3c4267ea3137b66d2bc32eff10058b2b3887f866f364b79851af63994d529"
+    },
+    {
+      "path": "tooling/src/domain/hash.js",
+      "bytes": 2552,
+      "sha256": "c16ded8e01d61c84085ad7d36311a84b79d47331658c33320d2881b238414f6c"
+    },
+    {
+      "path": "tooling/src/domain/paths.js",
+      "bytes": 504,
+      "sha256": "859be4fdc4b6fe0a2d98bbfcf4e0de95de3fb10c235a87d84730493137299ede"
+    },
+    {
+      "path": "tooling/src/domain/records.js",
+      "bytes": 11,
+      "sha256": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+    },
+    {
+      "path": "tooling/src/domain/references.js",
+      "bytes": 1643,
+      "sha256": "d727cc279ba39dbce59b9667426a93f80128dd63427d1a9b473793054edec9fe"
+    },
+    {
+      "path": "tooling/src/domain/time.js",
+      "bytes": 4613,
+      "sha256": "9fa25363a84bc3564e5b295c9e707193adb6c2d753ed136d6f32d70b449ea127"
+    },
+    {
+      "path": "tooling/tools/assets.js",
+      "bytes": 1820,
+      "sha256": "cd638e5b16e323e799594d5f1a3c9700e0937879cb7250cf2f44a619788f0e21"
+    },
+    {
+      "path": "tooling/tools/authoring.css",
+      "bytes": 1149,
+      "sha256": "4e6a5ce4ffc7481a4246eafd8c0e170cda7b1ba79ee4a53a1784f25316faa846"
+    },
+    {
+      "path": "tooling/tools/authoring.js",
+      "bytes": 4674,
+      "sha256": "a3e0cb394e48d9147c383f99d8e7d523094ef33dc0296860cccef1404463721f"
+    },
+    {
+      "path": "tooling/tools/build.js",
+      "bytes": 8314,
+      "sha256": "6370660bb3ed6dceaeabe041b4dbbf60a4f126e61563e26e02d99467b4d48844"
+    },
+    {
+      "path": "tooling/tools/geometry.js",
+      "bytes": 2943,
+      "sha256": "00e15b45bdb3a66e74a9675c6fef14670ef91b5d0b69c7661b6d7a2f925639a7"
+    },
+    {
+      "path": "tooling/tools/paths.js",
+      "bytes": 1197,
+      "sha256": "ece0a93acbf2147524c18de1b050adbb88dae0b4ca114819218c48db2dacbd6b"
+    },
+    {
+      "path": "tooling/tools/validate.js",
+      "bytes": 13925,
+      "sha256": "2b6fbfa51fdbaa77b7014d63919e660315e51acc22d2e354a290fb3df42f7c0a"
+    },
+    {
+      "path": "tooling/tools/workspace.js",
+      "bytes": 2853,
+      "sha256": "5de0ba6f7a0195d3170be09dcd3471b1e918aff11840dfb4f3b2457199ea5732"
+    },
+    {
+      "path": "tooling/vendor/fflate/fflate.js",
+      "bytes": 90922,
+      "sha256": "b7ca4450b19559a1d50eb381adcee94b82449674be4cd17789d9beba7e6122a1"
+    },
+    {
+      "path": "tooling/vendor/manifest.json",
+      "bytes": 4113,
+      "sha256": "05256aa77004e27c804c398e4d022b4889730c9f1e33b2811745ca4393ced677"
+    },
+    {
+      "path": "tooling/vendor/topology/topology.js",
+      "bytes": 360481,
+      "sha256": "471955f325dd4d8011c09ebe890859109a6120b56fc2e62db9ce0218ec023d3e"
+    },
+    {
+      "path": "tooling/vendor/validation/validation.js",
+      "bytes": 278764,
+      "sha256": "265b0611ecb9200f8a5e6a542846e2bb4e158c5e05e59c80df2a4b8a33d9690c"
+    }
+  ]
+}
