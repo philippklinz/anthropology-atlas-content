@@ -1,0 +1,11 @@
+{
+  "name": "anthropology-atlas-authoring",
+  "version": "0.1.0-dev.1",
+  "type": "module",
+  "bin": {
+    "atlas": "tools/cli.js"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

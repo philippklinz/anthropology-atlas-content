@@ -1,0 +1,16 @@
+name: Validate historical content
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24.22.3'
+      - run: sha256sum --check tooling.sha256
+      - run: node tooling/tools/cli.js validate . --profile draft
