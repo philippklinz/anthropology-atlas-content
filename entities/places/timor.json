@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:timor",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:elkano-route",
+      "role": "supports",
+      "locator": "The Expedition: Timor, 25 January 1522"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Timor",
+    "en": "Timor"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Indonesien / Timor-Leste. Der Kartenpunkt zeigt die ungefähre Lage, keinen nachgewiesenen historischen Ankerplatz.",
+    "en": "Modern orientation: Indonesia / Timor-Leste. The map point indicates an approximate location, not a documented historical anchorage."
+  }
+}

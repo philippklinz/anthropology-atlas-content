@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:ferdinand-magellan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:naval-museum-voyage",
+      "role": "supports",
+      "locator": "Ferdinand Magellan; Magellan’s Death"
+    },
+    {
+      "sourceId": "source:nhcp-lapulapu",
+      "role": "supports",
+      "locator": "Marker text, 27 April 1521"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Ferdinand Magellan",
+    "en": "Ferdinand Magellan"
+  },
+  "summary": {
+    "de": "Leitete den Beginn der Expedition. Er starb 1521 auf Mactan und vollendete die Weltumsegelung nicht.",
+    "en": "Led the expedition at its outset. He died on Mactan in 1521 and did not complete the circumnavigation."
+  },
+  "names": [
+    {
+      "text": "Fernão de Magalhães",
+      "languageTag": "pt",
+      "nameType": "alternative",
+      "sourceRefs": [
+        {
+          "sourceId": "source:unesco-circumnavigation",
+          "role": "supports",
+          "locator": "Title: Fernãõ de Magalhães"
+        }
+      ]
+    }
+  ]
+}

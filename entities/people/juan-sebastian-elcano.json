@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:juan-sebastian-elcano",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-circumnavigation",
+      "role": "supports",
+      "locator": "Opening paragraph"
+    },
+    {
+      "sourceId": "source:naval-museum-voyage",
+      "role": "supports",
+      "locator": "Elcano and the Arrival at the Moluccas; The Return of the Victoria"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Juan Sebastián Elcano",
+    "en": "Juan Sebastián Elcano"
+  },
+  "summary": {
+    "de": "Führte die Victoria auf der Rückfahrt. Er und die zurückgekehrte Besatzung vollendeten die Weltumsegelung 1522.",
+    "en": "Commanded Victoria on the return voyage. He and the returning crew completed the circumnavigation in 1522."
+  }
+}

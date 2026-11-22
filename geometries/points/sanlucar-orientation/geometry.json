@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:sanlucar-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pigafetta-stanley",
+      "role": "derivation",
+      "locator": "Departure, 20 September 1519; return, 6 September 1522"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Auf 0,1° gerundeter Orientierungspunkt. Historische Lagegenauigkeit unbekannt.",
+      "en": "Orientation point rounded to 0.1°. Historical positional accuracy unknown."
+    }
+  },
+  "processingNote": {
+    "de": "Manuell gesetzte Lagehilfe. Die Quelle belegt den Ort im Zusammenhang der Reise, nicht diese Koordinate.",
+    "en": "Manually placed orientation aid. The source identifies the place in the voyage, not this coordinate."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic orientation geometry",
+    "originNote": "Original manually authored orientation coordinates and line work; no third-party map geometry copied."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:timor-stop",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:elkano-route",
+      "role": "supports",
+      "locator": "The Expedition: Timor, 25 January 1522"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Aufenthalt bei Timor",
+    "en": "Stop at Timor"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1522,
+        "month": 2,
+        "day": 4
+      },
+      "latest": {
+        "year": 1522,
+        "month": 2,
+        "day": 4
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "25.1.1522",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ausgewählte Station der Rückreise.",
+    "en": "A selected station of the return voyage."
+  },
+  "placeIds": [
+    "place:timor"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:timor-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

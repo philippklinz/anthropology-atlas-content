@@ -2,67 +2,173 @@
   "catalogVersion": "1",
   "schemaVersion": "0.1.0",
   "indexVersion": "1",
-  "dataReleaseId": "draft-de20d532e248648d36bf",
-  "sourceRevision": "a88bd23bd844bc488eaf262dab80e3e4810e1b16",
+  "dataReleaseId": "draft-912feca6745a8f341943",
+  "sourceRevision": "3814f2f7d39f4c646e301bef4a3a2d5b15fb98ad",
   "compilerVersion": "0.1.0-dev.2",
-  "packages": [],
-  "languages": [
-    "de"
+  "packages": [
+    "package:first-circumnavigation"
   ],
-  "requiredCapabilities": [],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic"
+  ],
   "files": [
     {
-      "path": "files/licenses-7c96bb3d373e54c8240daf58.json",
+      "path": "files/first-circumnavigation-722c6617024a5aadb182a77b.json",
+      "role": "records",
+      "bytes": 57207,
+      "mediaType": "application/json",
+      "sha256": "722c6617024a5aadb182a77bad9833f2ad8e50d9bc2ea97dbe775e7a785767ff"
+    },
+    {
+      "path": "files/geometry-06752d69651b7fba231c1730.geojson",
+      "role": "geometry",
+      "bytes": 123,
+      "mediaType": "application/geo+json",
+      "sha256": "06752d69651b7fba231c1730952ded797bd1f5a604b62c87cb329ecfb0020373"
+    },
+    {
+      "path": "files/geometry-29437dbb6b754457fa9a842a.geojson",
+      "role": "geometry",
+      "bytes": 124,
+      "mediaType": "application/geo+json",
+      "sha256": "29437dbb6b754457fa9a842aa48e62ce0eca5a668d7062a2054befc617713e46"
+    },
+    {
+      "path": "files/geometry-3f395851004b7c5d4c0394e8.geojson",
+      "role": "geometry",
+      "bytes": 124,
+      "mediaType": "application/geo+json",
+      "sha256": "3f395851004b7c5d4c0394e8ef1e7215d9f3db8defe16418b8c8d0fb0c98d749"
+    },
+    {
+      "path": "files/geometry-662807694cde3df884b9ae29.geojson",
+      "role": "geometry",
+      "bytes": 135,
+      "mediaType": "application/geo+json",
+      "sha256": "662807694cde3df884b9ae29712da6e00c1960a5807c1b892f228f920c44bb8c"
+    },
+    {
+      "path": "files/geometry-6f5e118b087ca0266dea3043.geojson",
+      "role": "geometry",
+      "bytes": 561,
+      "mediaType": "application/geo+json",
+      "sha256": "6f5e118b087ca0266dea3043d80ba04db96c7b8fcf79086ec80c01c54d6665d8"
+    },
+    {
+      "path": "files/geometry-9d4ad2b619e5fc233e16a787.geojson",
+      "role": "geometry",
+      "bytes": 123,
+      "mediaType": "application/geo+json",
+      "sha256": "9d4ad2b619e5fc233e16a787fdc0d032a85923e10865b7c07cb13a7ebf1f6e25"
+    },
+    {
+      "path": "files/geometry-ac7d40433168b736f678ed5d.geojson",
+      "role": "geometry",
+      "bytes": 126,
+      "mediaType": "application/geo+json",
+      "sha256": "ac7d40433168b736f678ed5d8d76070370547a8d87c6b1a9b952592b7ffe630e"
+    },
+    {
+      "path": "files/geometry-d247b8fcc726d54180c7cbe1.geojson",
+      "role": "geometry",
+      "bytes": 123,
+      "mediaType": "application/geo+json",
+      "sha256": "d247b8fcc726d54180c7cbe1746a9324cdc01aba6e55ab253d386156b5079d73"
+    },
+    {
+      "path": "files/geometry-e6b4247eaf5a2fc59ca74c30.geojson",
+      "role": "geometry",
+      "bytes": 127,
+      "mediaType": "application/geo+json",
+      "sha256": "e6b4247eaf5a2fc59ca74c30f5b7ce2de726d9c40a39b1fc66fb16b8f273ecf0"
+    },
+    {
+      "path": "files/geometry-fbb306a8311958facc56adee.geojson",
+      "role": "geometry",
+      "bytes": 133,
+      "mediaType": "application/geo+json",
+      "sha256": "fbb306a8311958facc56adeeb3576e48367209f268c150232485dc1776e41847"
+    },
+    {
+      "path": "files/licenses-6f41e8a1852772e3c5b6c977.json",
       "role": "licenses",
-      "bytes": 77,
+      "bytes": 3132,
       "mediaType": "application/json",
-      "sha256": "7c96bb3d373e54c8240daf58c9ef49f906ee3869736479657bc5d9b8980a4509"
+      "sha256": "6f41e8a1852772e3c5b6c9776941526786bf97cf58ab20cd8ccda0e2ea3f9444"
     },
     {
-      "path": "files/record-index-3867abb80c238529f94fe719.json",
+      "path": "files/record-index-148d0321ceefe698c4d67b50.json",
       "role": "record-index",
-      "bytes": 93,
+      "bytes": 12946,
       "mediaType": "application/json",
-      "sha256": "3867abb80c238529f94fe7195d223e3fe8dbc194dcf8b8dff738d81504c596e1"
+      "sha256": "148d0321ceefe698c4d67b50957051834101e0500af9f0e1503be48cad01da4d"
     },
     {
-      "path": "files/relations-d53111e6634a2bae0dc36424.json",
+      "path": "files/relations-610a03c6849a212d2779f1f9.json",
       "role": "relations",
-      "bytes": 77,
+      "bytes": 5998,
       "mediaType": "application/json",
-      "sha256": "d53111e6634a2bae0dc364247deec7fb5424be981f4cf857d03b8dfe92de9620"
+      "sha256": "610a03c6849a212d2779f1f9a8213ebbd2c52c2a1678a1c3d7c48dcb3d1e9c5b"
     },
     {
-      "path": "files/search-de-7c96bb3d373e54c8240daf58.json",
+      "path": "files/search-de-a404f23ffaa27f1210511d34.json",
       "role": "search",
-      "bytes": 77,
+      "bytes": 10325,
       "mediaType": "application/json",
-      "sha256": "7c96bb3d373e54c8240daf58c9ef49f906ee3869736479657bc5d9b8980a4509"
+      "sha256": "a404f23ffaa27f1210511d34a95a9969d5b278e28fbb0bc9433e4323caf86ea0"
     },
     {
-      "path": "files/spatial-7c96bb3d373e54c8240daf58.json",
+      "path": "files/search-en-a404f23ffaa27f1210511d34.json",
+      "role": "search",
+      "bytes": 10325,
+      "mediaType": "application/json",
+      "sha256": "a404f23ffaa27f1210511d34a95a9969d5b278e28fbb0bc9433e4323caf86ea0"
+    },
+    {
+      "path": "files/spatial-955878820bd73a6d615f0e4d.json",
       "role": "spatial",
-      "bytes": 77,
+      "bytes": 2511,
       "mediaType": "application/json",
-      "sha256": "7c96bb3d373e54c8240daf58c9ef49f906ee3869736479657bc5d9b8980a4509"
+      "sha256": "955878820bd73a6d615f0e4d2d8a739927bc915c82afeef5e1f6f4bb84aa55df"
     },
     {
-      "path": "files/time-d53111e6634a2bae0dc36424.json",
+      "path": "files/text-02d2c49d2445b9812f67cc07.md",
+      "role": "text",
+      "bytes": 1285,
+      "mediaType": "text/markdown",
+      "sha256": "02d2c49d2445b9812f67cc0792f601b180e86be26b58686c5843c0a7d80ada1a"
+    },
+    {
+      "path": "files/text-45215380b7172e7118d3bd23.md",
+      "role": "text",
+      "bytes": 1411,
+      "mediaType": "text/markdown",
+      "sha256": "45215380b7172e7118d3bd23b0dce2ef305435692b6ad7820d09445547327b37"
+    },
+    {
+      "path": "files/time-7a033847f0e91f68ae5a3e7e.json",
       "role": "time",
-      "bytes": 77,
+      "bytes": 1909,
       "mediaType": "application/json",
-      "sha256": "d53111e6634a2bae0dc364247deec7fb5424be981f4cf857d03b8dfe92de9620"
+      "sha256": "7a033847f0e91f68ae5a3e7eb5150e04168d4ca5827f0558b5e23f3b4f560366"
     }
   ],
   "entrypoints": {
-    "recordIndex": "files/record-index-3867abb80c238529f94fe719.json",
+    "recordIndex": "files/record-index-148d0321ceefe698c4d67b50.json",
     "search": {
-      "de": "files/search-de-7c96bb3d373e54c8240daf58.json"
+      "de": "files/search-de-a404f23ffaa27f1210511d34.json",
+      "en": "files/search-en-a404f23ffaa27f1210511d34.json"
     },
-    "time": "files/time-d53111e6634a2bae0dc36424.json",
-    "relations": "files/relations-d53111e6634a2bae0dc36424.json",
-    "spatial": "files/spatial-7c96bb3d373e54c8240daf58.json",
-    "defaultChapterId": null
+    "time": "files/time-7a033847f0e91f68ae5a3e7e.json",
+    "relations": "files/relations-610a03c6849a212d2779f1f9.json",
+    "spatial": "files/spatial-955878820bd73a6d615f0e4d.json",
+    "defaultChapterId": "chapter:first-circumnavigation"
   },
-  "licenseInventory": "files/licenses-7c96bb3d373e54c8240daf58.json"
+  "licenseInventory": "files/licenses-6f41e8a1852772e3c5b6c977.json"
 }

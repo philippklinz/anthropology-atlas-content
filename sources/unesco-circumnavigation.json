@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-circumnavigation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "First Voyage of Circumnavigation (1519–1522) — Memory of the World",
+  "sourceType": "website",
+  "creators": [
+    "UNESCO"
+  ],
+  "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Register entry introducing the documentary collection. Read the introductory account; no manuscript images are redistributed."
+}

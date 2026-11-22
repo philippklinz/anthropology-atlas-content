@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:naval-museum-voyage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Magellan, Elcano and Their Voyage Around the World",
+  "sourceType": "website",
+  "creators": [
+    "Museo Naval, Madrid"
+  ],
+  "url": "https://artsandculture.google.com/story/nQWBBSjjybWKIA?hl=en",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Online exhibition curated by Enrique Martínez Ruiz, Susana García Ramírez and José María Moreno Martín. The Cape Verde date conflicts with the Elkano chronology; that date is not used here."
+}

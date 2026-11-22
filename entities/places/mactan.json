@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:mactan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nhcp-lapulapu",
+      "role": "supports",
+      "locator": "Location: Mactan, Lapu-Lapu City"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Mactan",
+    "en": "Mactan"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Philippinen. Der Kartenpunkt zeigt die ungefähre Lage, keinen nachgewiesenen historischen Ankerplatz.",
+    "en": "Modern orientation: Philippines. The map point indicates an approximate location, not a documented historical anchorage."
+  }
+}

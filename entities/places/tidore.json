@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tidore",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:naval-museum-voyage",
+      "role": "supports",
+      "locator": "Elcano and the Arrival at the Moluccas: Tidore, 8 November 1521"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tidore",
+    "en": "Tidore"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Indonesien. Der Kartenpunkt zeigt die ungefähre Lage, keinen nachgewiesenen historischen Ankerplatz.",
+    "en": "Modern orientation: Indonesia. The map point indicates an approximate location, not a documented historical anchorage."
+  }
+}

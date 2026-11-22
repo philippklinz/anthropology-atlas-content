@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:rio-stop",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:naval-museum-voyage",
+      "role": "supports",
+      "locator": "The Familiar: From Seville to Río de Solís"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Ankunft in der Bucht von Rio",
+    "en": "Arrival in the bay of Rio"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1519,
+        "month": 12,
+        "day": 23
+      },
+      "latest": {
+        "year": 1519,
+        "month": 12,
+        "day": 23
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "13.12.1519",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Eine Station zur Versorgung auf der Atlantikfahrt.",
+    "en": "A provisioning stop on the Atlantic voyage."
+  },
+  "placeIds": [
+    "place:rio-bay"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:rio-bay-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

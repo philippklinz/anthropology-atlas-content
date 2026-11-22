@@ -2,5 +2,7 @@
   "schemaVersion": "0.1.0",
   "defaultLanguage": "de",
   "defaultRecordLicense": "GPL-2.0",
-  "packageIds": []
+  "packageIds": [
+    "package:first-circumnavigation"
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nqc-mactan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Battle of Mactan Beyond Textbooks",
+  "sourceType": "article",
+  "creators": [
+    "Van Ybiernas",
+    "Xiao Chua"
+  ],
+  "url": "https://www.nqc.gov.ph/en/resources/battle-of-mactan-beyond-textbooks/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the indexed full-text article after the direct page returned HTTP 403. Relevant sections: The Showdown in Mactan and Lapulapu, a Filipino Hero. Some interpretations elsewhere in the article are not adopted.",
+  "published": "2021-04-27"
+}

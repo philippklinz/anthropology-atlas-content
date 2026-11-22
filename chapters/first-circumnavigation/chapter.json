@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:first-circumnavigation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-circumnavigation",
+      "role": "supports",
+      "locator": "Opening paragraph"
+    },
+    {
+      "sourceId": "source:naval-museum-voyage",
+      "role": "supports",
+      "locator": "The Voyage (1519–22)"
+    },
+    {
+      "sourceId": "source:nqc-mactan",
+      "role": "supports",
+      "locator": "The Showdown in Mactan"
+    },
+    {
+      "sourceId": "source:pigafetta-stanley",
+      "role": "supports",
+      "locator": "Opening and closing passages"
+    }
+  ],
+  "labels": {
+    "de": "Eine Reise um die Erde · 1519–1522",
+    "en": "A voyage around the Earth · 1519–1522"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:first-circumnavigation",
+    "event:battle-mactan",
+    "person:ferdinand-magellan",
+    "person:juan-sebastian-elcano",
+    "person:antonio-pigafetta",
+    "person:lapulapu",
+    "artifact:victoria-ship"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -28,
+      "latitude": 4,
+      "metersPerPixel": 30000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1519,
+          "month": 8,
+          "day": 20
+        },
+        "latest": {
+          "year": 1519,
+          "month": 8,
+          "day": 20
+        },
+        "precision": "day",
+        "qualifier": "exact",
+        "original": {
+          "text": "10.8.1519",
+          "calendar": "julian",
+          "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+        }
+      },
+      "end": {
+        "earliest": {
+          "year": 1522,
+          "month": 9,
+          "day": 18
+        },
+        "latest": {
+          "year": 1522,
+          "month": 9,
+          "day": 18
+        },
+        "precision": "day",
+        "qualifier": "exact",
+        "original": {
+          "text": "8.9.1522",
+          "calendar": "julian",
+          "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+        }
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at"
+    ]
+  }
+}

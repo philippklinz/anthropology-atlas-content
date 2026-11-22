@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:departure-sanlucar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pigafetta-stanley",
+      "role": "supports",
+      "locator": "Departure paragraph: 20 September 1519"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Ausfahrt in den Atlantik",
+    "en": "Departure into the Atlantic"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1519,
+        "month": 9,
+        "day": 30
+      },
+      "latest": {
+        "year": 1519,
+        "month": 9,
+        "day": 30
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "20.9.1519",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Flotte verlässt Sanlúcar.",
+    "en": "The fleet leaves Sanlúcar."
+  },
+  "placeIds": [
+    "place:sanlucar"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sanlucar-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

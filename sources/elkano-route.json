@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:elkano-route",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Magellan’s Expedition and Elcano’s First Circumnavigation of the Globe",
+  "sourceType": "website",
+  "creators": [
+    "Fundación Elkano"
+  ],
+  "url": "https://artsandculture.google.com/story/-gVBFYTKUG3YLg?hl=en",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Institutional online exhibition. Used for the ordered itinerary and conventional dates, not as a surveyed track. Its rhetoric of discovery and proof of a round Earth is not adopted."
+}

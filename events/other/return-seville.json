@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:return-seville",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pigafetta-stanley",
+      "role": "supports",
+      "locator": "Closing paragraphs: Monday, 8 September; anchoring near Seville"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Rückkehr nach Sevilla",
+    "en": "Return to Seville"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1522,
+        "month": 9,
+        "day": 18
+      },
+      "latest": {
+        "year": 1522,
+        "month": 9,
+        "day": 18
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "8.9.1522",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Endpunkt des hier betrachteten Reiseabschnitts.",
+    "en": "End of the voyage interval covered here."
+  },
+  "placeIds": [
+    "place:seville"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:seville-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}

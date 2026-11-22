@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:return-sanlucar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:agi-elcano-letter",
+      "role": "supports",
+      "locator": "Paragraph identifying Elcano’s letter from Sanlúcar, 6 September 1522"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes: Julian/Gregorian leap-year rules and the 1582 changeover"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Rückkehr nach Sanlúcar",
+    "en": "Return to Sanlúcar"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1522,
+        "month": 9,
+        "day": 16
+      },
+      "latest": {
+        "year": 1522,
+        "month": 9,
+        "day": 16
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "6.9.1522",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian chronology; +10 days to the proleptic Gregorian calculation calendar for 1519–1522. Voyage day-count/local-date questions are not resolved by this conversion."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:antonio-pigafetta",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:pigafetta-stanley",
+          "role": "supports",
+          "locator": "Participant’s account of the voyage"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Victoria kehrt unter Elcano zurück.",
+    "en": "Victoria returns under Elcano."
+  },
+  "placeIds": [
+    "place:sanlucar"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sanlucar-orientation",
+      "role": "location"
+    }
+  ],
+  "parentEventId": "event:first-circumnavigation"
+}
