@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:blombos-l13-drawing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:henshilwood-blombos-drawing-2018",
+      "role": "supports",
+      "locator": "Abstract; Supplementary Discussion pp. 2–6: L13, ochre composition, smoothed silcrete and experimental marking"
+    },
+    {
+      "sourceId": "source:cnrs-blombos-drawing-2018",
+      "role": "supports",
+      "locator": "p. 1, paragraphs 3–5: archaeological stratum around 73 ka, nine deliberately drawn lines; p. 2 distinguishes drawing and engraving"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "L13 · neun Ockerlinien auf Stein",
+    "en": "L13 · nine ochre lines on stone"
+  },
+  "summary": {
+    "de": "Auf einem geglätteten Silcretstück kreuzen sich neun rote Linien. Mikroskopie und Versuche sprechen für einen gespitzten Ockerstift. Es ist eine Zeichnung auf Stein; eingeritzte Ockerstücke aus Blombos sind andere Funde. Die Bedeutung des Musters ist unbekannt.",
+    "en": "Nine red lines cross on a smoothed silcrete fragment. Microscopy and experiments support drawing with a pointed ochre implement. This is a drawing on stone; engraved ochre pieces from Blombos are different finds. The pattern’s meaning is unknown."
+  },
+  "assetIds": [
+    "asset:blombos-drawing"
+  ]
+}

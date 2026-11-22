@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:survival-of-creative-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-site",
+      "role": "supports",
+      "locator": "Site account, paragraph beginning “Das Geißenklösterle ist eine der vier Fundstellen”: two bird-bone flutes and one ivory flute; bibliography on the swan-bone flute"
+    },
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "supports",
+      "locator": "Implications for the early history of art, pp. 817–818: surviving imagery and narrative interpretation"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Was erhalten bleibt – und was fehlt",
+    "en": "What survives — and what is missing"
+  },
+  "summary": {
+    "de": "Eine erhaltene Flöte liefert einen greifbaren Beleg für ein Instrument. Gesang, Geschichten und viele vergängliche Materialien hinterlassen andere oder gar keine erkennbaren Spuren. Deshalb ist das älteste bekannte Fundstück kein Geburtstermin für Musik, Vorstellungskraft oder Denken.",
+    "en": "A surviving flute provides tangible evidence of an instrument. Singing, stories and many perishable materials leave different traces or none we can recognize. The oldest known object therefore does not date the birth of music, imagination or thought."
+  }
+}

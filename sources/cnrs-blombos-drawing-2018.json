@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cnrs-blombos-drawing-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Discovery of the earliest drawing",
+  "sourceType": "website",
+  "creators": [
+    "CNRS"
+  ],
+  "url": "https://www.cnrs.fr/sites/default/files/press_info/2018-12/CP_DessinsBlombos_VFin_ENGWEB.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Research-team press release, pp. 1–2, consulted for the 73,000-year-old stratum, nine ochre lines, experimental comparison and distinction from engraving. The historical superlative in the original title is not adopted as a current global ranking.",
+  "published": "2018-09-12"
+}

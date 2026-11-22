@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tuebingen-geissenkloesterle-dating-2012",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Älteste Kunst noch älter",
+  "sourceType": "website",
+  "creators": [
+    "Universität Tübingen"
+  ],
+  "url": "https://uni-tuebingen.de/uploads/media/12-05-24Geissenkloesterle.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "de",
+  "bibliographicNote": "Research-team release, pp. 1–2: Early Aurignacian context around 42,000–43,000 years, full local innovation spectrum by 40,000 years. P. 4 identifies bone and ivory flutes. Used as contextual dating, not an individual measurement or a worldwide beginning of art or music.",
+  "published": "2012-05-24"
+}

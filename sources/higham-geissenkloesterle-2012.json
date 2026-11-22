@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:higham-geissenkloesterle-2012",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Testing models for the beginnings of the Aurignacian and the advent of figurative art and music: The radiocarbon chronology of Geißenklösterle",
+  "sourceType": "article",
+  "creators": [
+    "Thomas Higham",
+    "Laura Basell",
+    "Roger Jacobi",
+    "Rachel Wood",
+    "Christopher Bronk Ramsey",
+    "Nicholas J. Conard"
+  ],
+  "url": "https://researchportalplus.anu.edu.au/en/publications/testing-models-for-the-beginnings-of-the-aurignacian-and-the-adve/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Journal of Human Evolution 62(6), 664–676. Institutional abstract consulted, not the full article. It describes improved decontamination of dated bone collagen. Dates used here also rely on the separately cited Tübingen research-team release and excavation page; no individual direct flute date is claimed.",
+  "published": "2012",
+  "identifiers": {
+    "doi": "10.1016/j.jhevol.2012.03.003"
+  }
+}

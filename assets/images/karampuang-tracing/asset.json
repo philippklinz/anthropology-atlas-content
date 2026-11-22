@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:karampuang-tracing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "derivation",
+      "locator": "Fig. 3c, tracing of the painted scene; article CC BY 4.0 notice on p. 818"
+    }
+  ],
+  "assetType": "image",
+  "file": "karampuang-panel.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Leang Karampuang · Umzeichnung der Forschenden",
+    "en": "Leang Karampuang · the researchers’ tracing"
+  },
+  "alt": {
+    "de": "Umzeichnung aus Abbildung 3c der Studie: Schweinefigur rechts, kleinere menschenähnliche Figuren links und darüber. Dies ist eine analytische Umzeichnung, kein unverändertes Foto der Höhlenwand.",
+    "en": "Tracing from study Fig. 3c: pig on the right, smaller human-like figures to its left and above. This is an analytical tracing, not an unaltered photograph of the cave wall."
+  },
+  "entityIds": [
+    "artifact:karampuang-pig-scene"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Adhi Agus Oktaviana et al."
+    ],
+    "attribution": "Oktaviana et al. (2024), Fig. 3c · CC BY 4.0",
+    "sourceUrl": "https://www.nature.com/articles/s41586-024-07541-7.pdf",
+    "originNote": "Embedded JPEG of the Fig. 3c tracing extracted unchanged from the publisher PDF; surrounding figure panels, labels and scale bar are not included. 904 × 350 pixels; no further image enhancement. License: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:traces-of-our-thoughts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:henshilwood-blombos-drawing-2018",
+      "role": "supports",
+      "locator": "Abstract; Supplementary Discussion pp. 2–6: L13, ochre composition, smoothed silcrete and experimental marking"
+    },
+    {
+      "sourceId": "source:cnrs-blombos-drawing-2018",
+      "role": "supports",
+      "locator": "p. 1, paragraphs 3–5: archaeological stratum around 73 ka, nine deliberately drawn lines; p. 2 distinguishes drawing and engraving"
+    },
+    {
+      "sourceId": "source:oktaviana-muna-rock-art-2026",
+      "role": "supports",
+      "locator": "Rock art dating results, p. 653; Figs. 2–3: LMET2 hand stencil and minimum-age constraint of 67.8 ka"
+    },
+    {
+      "sourceId": "source:oktaviana-karampuang-art-2024",
+      "role": "supports",
+      "locator": "Dating results for Leang Karampuang rock art, pp. 816–817; Fig. 3: H1–H3, pig, and LK1 minimum age"
+    },
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-site",
+      "role": "supports",
+      "locator": "Site account, paragraph beginning “Das Geißenklösterle ist eine der vier Fundstellen”: two bird-bone flutes and one ivory flute; bibliography on the swan-bone flute"
+    },
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-dating-2012",
+      "role": "supports",
+      "locator": "pp. 1–2: radiocarbon chronology of the Aurignacian context; p. 4: bone and ivory flutes"
+    },
+    {
+      "sourceId": "source:higham-geissenkloesterle-2012",
+      "role": "supports",
+      "locator": "Institutional abstract: ultrafiltration of bone collagen and revised site chronology"
+    }
+  ],
+  "labels": {
+    "de": "Spuren unserer Gedanken · Zeichen, Bilder und Musik",
+    "en": "Traces of Our Thoughts · Signs, Images and Music"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:blombos-drawing-evidence",
+    "event:metanduno-hand-evidence",
+    "event:karampuang-scene-evidence",
+    "event:geissenkloesterle-music-evidence",
+    "artifact:blombos-l13-drawing",
+    "artifact:karampuang-pig-scene",
+    "artifact:geissenkloesterle-flutes",
+    "concept:minimum-age-of-rock-art",
+    "concept:traces-and-meanings",
+    "concept:survival-of-creative-evidence",
+    "asset:blombos-drawing",
+    "asset:karampuang-tracing",
+    "asset:geissenkloesterle-flute"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 67,
+      "latitude": 8,
+      "metersPerPixel": 25000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 80000,
+        "younger": 80000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 35000,
+        "younger": 35000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "attested-at",
+      "events"
+    ]
+  },
+  "discovery": {
+    "summary": {
+      "de": "Ockerlinien, ein Handnegativ, Figuren und Flöten: vier Fundorte öffnen den Blick auf frühe Ausdrucksformen. Ansichtsfenster 80.000–35.000 Jahre BP; einzelne Bilder haben nur ein Mindestalter.",
+      "en": "Ochre lines, a hand stencil, figures and flutes: four findsites reveal early forms of expression. Viewing window 80,000–35,000 years BP; some images have only minimum ages."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "africa",
+        "labels": {
+          "de": "Afrika",
+          "en": "Africa"
+        }
+      },
+      {
+        "id": "southeast-asia",
+        "labels": {
+          "de": "Südostasien",
+          "en": "Southeast Asia"
+        }
+      },
+      {
+        "id": "europe",
+        "labels": {
+          "de": "Europa",
+          "en": "Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "human-origins",
+        "labels": {
+          "de": "Menschwerdung",
+          "en": "Human origins"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "art-and-music",
+        "labels": {
+          "de": "Kunst und Musik",
+          "en": "Art and music"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:blombos-l13-drawing",
+    "artifact:geissenkloesterle-flutes",
+    "artifact:karampuang-pig-scene",
+    "artifact:metanduno-hand-lmet2",
+    "assertion:blombos-l13-drawing-at-site",
+    "assertion:geissenkloesterle-flutes-at-site",
+    "assertion:karampuang-pig-scene-at-site",
+    "assertion:metanduno-hand-lmet2-at-site",
+    "asset:blombos-drawing",
+    "asset:geissenkloesterle-flute",
+    "asset:karampuang-tracing",
+    "concept:minimum-age-of-rock-art",
+    "concept:survival-of-creative-evidence",
+    "concept:traces-and-meanings",
+    "event:blombos-drawing-evidence",
+    "event:geissenkloesterle-music-evidence",
+    "event:karampuang-scene-evidence",
+    "event:metanduno-hand-evidence",
+    "geometry:blombos-cave-orientation",
+    "geometry:geissenkloesterle-orientation",
+    "geometry:leang-karampuang-orientation",
+    "geometry:liang-metanduno-orientation",
+    "place:blombos-cave",
+    "place:geissenkloesterle",
+    "place:leang-karampuang",
+    "place:liang-metanduno",
+    "source:cnrs-blombos-drawing-2018",
+    "source:commons-blombos-drawing",
+    "source:commons-geissenkloesterle-flute",
+    "source:henshilwood-blombos-drawing-2018",
+    "source:henshilwood-blombos-excavation-2001",
+    "source:higham-geissenkloesterle-2012",
+    "source:oktaviana-karampuang-art-2024",
+    "source:oktaviana-muna-rock-art-2026",
+    "source:swabian-caves-nomination-coordinates",
+    "source:tuebingen-geissenkloesterle-dating-2012",
+    "source:tuebingen-geissenkloesterle-site"
+  ]
+}

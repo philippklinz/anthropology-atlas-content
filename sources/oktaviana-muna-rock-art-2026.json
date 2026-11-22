@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oktaviana-muna-rock-art-2026",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Rock art from at least 67,800 years ago in Sulawesi",
+  "sourceType": "article",
+  "creators": [
+    "Adhi Agus Oktaviana",
+    "Renaud Joannes-Boyau",
+    "Budianto Hakim",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1038/s41586-025-09968-y",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Nature 650, 652–656. Full publisher PDF read. Rock art dating results and Figs. 2–3: LMET2 calcite 71.6 ± 3.8 ka, conservative minimum for the stencil 67.8 ka. The uncertainty is not subtracted twice. Implications section explicitly states that the maker’s taxon cannot be directly established; Homo sapiens attribution is an inference. Fig. 1 supports only the broad site-orientation point. Article figures are CC BY-NC-ND 4.0 and are linked, not redistributed.",
+  "published": "2026-01-21",
+  "identifiers": {
+    "doi": "10.1038/s41586-025-09968-y"
+  }
+}

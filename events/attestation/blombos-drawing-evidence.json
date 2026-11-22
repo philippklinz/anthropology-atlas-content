@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:blombos-drawing-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:henshilwood-blombos-drawing-2018",
+      "role": "supports",
+      "locator": "Abstract; Supplementary Discussion pp. 2–6: L13, ochre composition, smoothed silcrete and experimental marking"
+    },
+    {
+      "sourceId": "source:cnrs-blombos-drawing-2018",
+      "role": "supports",
+      "locator": "p. 1, paragraphs 3–5: archaeological stratum around 73 ka, nine deliberately drawn lines; p. 2 distinguishes drawing and engraving"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Blombos · Zeichnen mit Ocker",
+    "en": "Blombos · drawing with ochre"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 73000,
+      "younger": 73000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:blombos-l13-drawing",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:henshilwood-blombos-drawing-2018",
+          "role": "supports",
+          "locator": "Abstract; Supplementary Discussion pp. 2–6: L13, ochre composition, smoothed silcrete and experimental marking"
+        },
+        {
+          "sourceId": "source:cnrs-blombos-drawing-2018",
+          "role": "supports",
+          "locator": "p. 1, paragraphs 3–5: archaeological stratum around 73 ka, nine deliberately drawn lines; p. 2 distinguishes drawing and engraving"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:blombos-cave"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:blombos-cave-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Datierung und Deutung beruhen auf den zitierten archäologischen Untersuchungen.",
+      "en": "Dating and interpretation rely on the cited archaeological studies."
+    }
+  },
+  "note": {
+    "de": "Die etwa 73.000 Jahre beziehen sich auf die Fundschicht, nicht auf eine direkte Messung der Farbe. Das kartierte Ereignis bezeichnet den archäologischen Beleg; der genaue Tag des Zeichnens ist unbekannt.",
+    "en": "Approximately 73,000 years dates the archaeological layer, not a direct measurement of the pigment. The mapped event represents archaeological evidence; the exact day of drawing is unknown."
+  }
+}

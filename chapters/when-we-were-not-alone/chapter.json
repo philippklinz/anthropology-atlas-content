@@ -96,14 +96,14 @@
     },
     "periods": [
       {
-        "id": "late-pleistocene-encounters",
+        "id": "palaeolithic",
         "labels": {
-          "de": "Begegnungen im späten Pleistozän",
-          "en": "Encounters in the Late Pleistocene"
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
         },
         "description": {
-          "de": "Redaktionelles Zeitfenster 120.000–40.000 Jahre BP für ausgewählte genetische Befunde; keine einheitliche Epoche oder gemeinsame Reise.",
-          "en": "Editorial 120,000–40,000 BP viewing window for selected genetic evidence; not a uniform historical period or shared journey."
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
         }
       }
     ],

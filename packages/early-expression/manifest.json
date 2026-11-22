@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-expression",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Spuren unserer Gedanken · Zeichen, Bilder und Musik",
+    "en": "Traces of Our Thoughts · Signs, Images and Music"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:blombos-l13-drawing",
+    "artifact:geissenkloesterle-flutes",
+    "artifact:karampuang-pig-scene",
+    "artifact:metanduno-hand-lmet2",
+    "assertion:blombos-l13-drawing-at-site",
+    "assertion:geissenkloesterle-flutes-at-site",
+    "assertion:karampuang-pig-scene-at-site",
+    "assertion:metanduno-hand-lmet2-at-site",
+    "asset:blombos-drawing",
+    "asset:geissenkloesterle-flute",
+    "asset:karampuang-tracing",
+    "chapter:traces-of-our-thoughts",
+    "concept:minimum-age-of-rock-art",
+    "concept:survival-of-creative-evidence",
+    "concept:traces-and-meanings",
+    "event:blombos-drawing-evidence",
+    "event:geissenkloesterle-music-evidence",
+    "event:karampuang-scene-evidence",
+    "event:metanduno-hand-evidence",
+    "geometry:blombos-cave-orientation",
+    "geometry:geissenkloesterle-orientation",
+    "geometry:leang-karampuang-orientation",
+    "geometry:liang-metanduno-orientation",
+    "place:blombos-cave",
+    "place:geissenkloesterle",
+    "place:leang-karampuang",
+    "place:liang-metanduno",
+    "source:cnrs-blombos-drawing-2018",
+    "source:commons-blombos-drawing",
+    "source:commons-geissenkloesterle-flute",
+    "source:henshilwood-blombos-drawing-2018",
+    "source:henshilwood-blombos-excavation-2001",
+    "source:higham-geissenkloesterle-2012",
+    "source:oktaviana-karampuang-art-2024",
+    "source:oktaviana-muna-rock-art-2026",
+    "source:swabian-caves-nomination-coordinates",
+    "source:tuebingen-geissenkloesterle-dating-2012",
+    "source:tuebingen-geissenkloesterle-site"
+  ],
+  "entryChapterIds": [
+    "chapter:traces-of-our-thoughts"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

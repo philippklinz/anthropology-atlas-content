@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:geissenkloesterle-flutes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-site",
+      "role": "supports",
+      "locator": "Site account, paragraph beginning “Das Geißenklösterle ist eine der vier Fundstellen”: two bird-bone flutes and one ivory flute; bibliography on the swan-bone flute"
+    },
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-dating-2012",
+      "role": "supports",
+      "locator": "pp. 1–2: radiocarbon chronology of the Aurignacian context; p. 4: bone and ivory flutes"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Geißenklösterle · Flöten aus Knochen und Elfenbein",
+    "en": "Geißenklösterle · bone and ivory flutes"
+  },
+  "summary": {
+    "de": "Erhalten sind Reste zweier Vogelknochenflöten und einer Elfenbeinflöte. Die Abbildung zeigt die Schwanenknochenflöte. Diese Instrumente belegen gezielte Klangerzeugung; welche Melodien gespielt wurden und zu welchen Anlässen, ist nicht überliefert.",
+    "en": "Remains of two bird-bone flutes and one ivory flute survive. The image shows the swan-bone flute. These instruments document intentional sound production; their melodies and the occasions on which they were played have not survived."
+  },
+  "assetIds": [
+    "asset:geissenkloesterle-flute"
+  ]
+}

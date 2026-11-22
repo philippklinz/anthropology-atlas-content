@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:geissenkloesterle",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-site",
+      "role": "supports",
+      "locator": "Site account, paragraph beginning “Das Geißenklösterle ist eine der vier Fundstellen”: two bird-bone flutes and one ivory flute; bibliography on the swan-bone flute"
+    },
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-dating-2012",
+      "role": "supports",
+      "locator": "pp. 1–2: radiocarbon chronology of the Aurignacian context; p. 4: bone and ivory flutes"
+    },
+    {
+      "sourceId": "source:swabian-caves-nomination-coordinates",
+      "role": "supports",
+      "locator": "Executive Summary p. 3, component 1-1: N 48°23′53″ / E 009°46′17″"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Geißenklösterle · Deutschland",
+    "en": "Geißenklösterle · Germany"
+  },
+  "summary": {
+    "de": "Höhle im Achtal bei Blaubeuren auf der Schwäbischen Alb. Ihre Aurignacien-Schichten enthalten figürliche Gegenstände, Schmuck und Reste mehrerer Flöten.",
+    "en": "A cave in the Ach valley near Blaubeuren in the Swabian Jura. Its Aurignacian layers contain figurines, ornaments and remains of several flutes."
+  }
+}

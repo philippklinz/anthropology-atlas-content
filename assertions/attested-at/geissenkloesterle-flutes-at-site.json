@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:geissenkloesterle-flutes-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-site",
+      "role": "supports",
+      "locator": "Site account, paragraph beginning “Das Geißenklösterle ist eine der vier Fundstellen”: two bird-bone flutes and one ivory flute; bibliography on the swan-bone flute"
+    },
+    {
+      "sourceId": "source:tuebingen-geissenkloesterle-dating-2012",
+      "role": "supports",
+      "locator": "pp. 1–2: radiocarbon chronology of the Aurignacian context; p. 4: bone and ivory flutes"
+    },
+    {
+      "sourceId": "source:higham-geissenkloesterle-2012",
+      "role": "supports",
+      "locator": "Institutional abstract: ultrafiltration of bone collagen and revised site chronology"
+    }
+  ],
+  "subjectId": "artifact:geissenkloesterle-flutes",
+  "predicate": "attested-at",
+  "objectId": "place:geissenkloesterle",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 40000,
+      "younger": 40000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Ungefährer Orientierungspunkt um 40.000 Jahre BP für den Aurignacien-Fundkontext. Die Studie von 2012 setzt den Beginn dieser Fundfolge um 42.000–43.000 Jahre an. Das ist keine direkte Einzelmessung jeder Flöte, keine jahrgenaue Erfindung und keine Rekonstruktion einer Melodie.",
+      "en": "Approximate orientation around 40,000 years BP for the Aurignacian find context. The 2012 study places the start of this sequence around 42,000–43,000 years. This is not a direct individual measurement of every flute, an exact invention date or a reconstructed melody."
+    }
+  },
+  "note": {
+    "de": "Ungefährer Orientierungspunkt um 40.000 Jahre BP für den Aurignacien-Fundkontext. Die Studie von 2012 setzt den Beginn dieser Fundfolge um 42.000–43.000 Jahre an. Das ist keine direkte Einzelmessung jeder Flöte, keine jahrgenaue Erfindung und keine Rekonstruktion einer Melodie.",
+    "en": "Approximate orientation around 40,000 years BP for the Aurignacian find context. The 2012 study places the start of this sequence around 42,000–43,000 years. This is not a direct individual measurement of every flute, an exact invention date or a reconstructed melody."
+  }
+}

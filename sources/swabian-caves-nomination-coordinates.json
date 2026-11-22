@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:swabian-caves-nomination-coordinates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Caves with the oldest Ice Age art: Executive Summary",
+  "sourceType": "website",
+  "creators": [
+    "State of Baden-Württemberg"
+  ],
+  "url": "https://whc.unesco.org/document/155786",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "UNESCO nomination dossier, Executive Summary p. 3, component 1-1: Geißenklösterle N 48°23′53″ / E 009°46′17″. Consulted for coordinates only; broad origin claims in the older nomination narrative are not used."
+}
