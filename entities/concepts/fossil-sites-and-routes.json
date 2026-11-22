@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:fossil-sites-and-routes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Discussion: multiple early dispersals versus a long MIS 5 occupation remain unresolved"
+    },
+    {
+      "sourceId": "source:hershkovitz-misliya-2018",
+      "role": "supports",
+      "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Ein Fundort ist noch keine Route",
+    "en": "A findspot is not a route"
+  },
+  "summary": {
+    "de": "Ein datiertes Fossil belegt eine Anwesenheit an einem Ort. Vier Fundpunkte ergeben noch keine durchgehende Reise derselben Gruppe. Ob einzelne frühe Ausbreitungen oder längere Besiedlung dahinterstehen, bleibt für diese Funde offen.",
+    "en": "A dated fossil attests presence at a location. Four findspots do not establish one continuous journey by the same group. These finds leave open whether separate early dispersals or longer occupation were involved."
+  }
+}

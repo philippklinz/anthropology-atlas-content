@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-dispersals",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Frühe Wege aus Afrika",
+    "en": "Early Routes out of Africa"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:human-origins"
+  ],
+  "recordIds": [
+    "artifact:al-wusta-stone-tools",
+    "assertion:levallois-at-al-wusta",
+    "assertion:levallois-at-misliya",
+    "asset:skhul-cave-view",
+    "asset:skhul-v-skull-view",
+    "chapter:early-routes-out-of-africa",
+    "concept:fossil-sites-and-routes",
+    "concept:humid-arabia",
+    "event:al-wusta-sapiens",
+    "event:misliya-sapiens",
+    "event:qafzeh-sapiens",
+    "event:skhul-sapiens",
+    "geometry:al-wusta-orientation",
+    "geometry:misliya-cave-orientation",
+    "geometry:qafzeh-cave-orientation",
+    "geometry:skhul-cave-orientation",
+    "place:al-wusta",
+    "place:misliya-cave",
+    "place:qafzeh-cave",
+    "place:skhul-cave",
+    "source:commons-skhul-cave-2016",
+    "source:commons-skhul-v-image",
+    "source:groucutt-al-wusta-2018",
+    "source:grun-skhul-2005",
+    "source:hershkovitz-misliya-2018",
+    "source:schwarcz-qafzeh-1988",
+    "source:unesco-nahal-mearot",
+    "source:valladas-qafzeh-1988",
+    "source:vandermeersch-qafzeh-2019",
+    "source:weinstein-misliya-2012",
+    "specimen:al-wusta-1",
+    "specimen:misliya-1",
+    "specimen:qafzeh-human-remains",
+    "specimen:skhul-v",
+    "technology:uranium-series-fossil-dating"
+  ],
+  "entryChapterIds": [
+    "chapter:early-routes-out-of-africa"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "natural-history",
+    "image-viewer"
+  ]
+}

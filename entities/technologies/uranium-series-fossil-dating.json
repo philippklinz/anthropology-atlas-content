@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "technology:uranium-series-fossil-dating",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "SI 2, U-series dating of the human phalanx; SI 4, site chronology and Bayesian model"
+    }
+  ],
+  "entityType": "technology",
+  "labels": {
+    "de": "Uranreihen · ein Mindestalter verstehen",
+    "en": "Uranium series · understanding a minimum age"
+  },
+  "summary": {
+    "de": "Bei AW-1 wurden Uran und seine Zerfallsprodukte im Knochen gemessen. Uran kann erst nach dem Tod in den Knochen gelangen. Ein solches Ergebnis muss daher nicht das Todesalter datieren. Für Al Wusta wurden weitere Fossilien, Sedimente und die Schichtenfolge gemeinsam ausgewertet.",
+    "en": "AW-1 was analysed for uranium and its decay products. Uranium can enter bone after death, so the result need not date the death itself. At Al Wusta, other fossils, sediments and their stratigraphic sequence were assessed together."
+  }
+}

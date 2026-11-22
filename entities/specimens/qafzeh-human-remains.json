@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:qafzeh-human-remains",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vandermeersch-qafzeh-2019",
+      "role": "supports",
+      "locator": "Authors’ abstract: excavated human remains, field observations and interpretations of funerary practices"
+    },
+    {
+      "sourceId": "source:schwarcz-qafzeh-1988",
+      "role": "supports",
+      "locator": "pp. 733–737, abstract and Table 1: animal tooth enamel, uranium-uptake models; TL and ESR comparison"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Qafzeh · menschliche Überreste",
+    "en": "Qafzeh · human remains"
+  },
+  "summary": {
+    "de": "Menschliche Überreste aus mehreren Fundzusammenhängen. Ein Teil wird als absichtliche Bestattung interpretiert. Die Lage der Knochen und die Schichten sind dafür wichtige Beobachtungen; eine bestimmte Religion oder einheitliche Bestattungssitte lässt sich daraus nicht einfach ablesen.",
+    "en": "Human remains from several contexts. Some are interpreted as intentional burials. Bone positions and stratigraphy matter to that interpretation; they do not directly identify a particular religion or uniform funerary custom."
+  }
+}

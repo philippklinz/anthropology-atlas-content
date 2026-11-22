@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:skhul-cave",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:grun-skhul-2005",
+      "role": "supports",
+      "locator": "Abstract: Skhul II, V and IX; conditional 100–135 ka range and possible differences between burials"
+    },
+    {
+      "sourceId": "source:unesco-nahal-mearot",
+      "role": "supports",
+      "locator": "Description: the four caves, including Skhul, on the western slopes of Mount Carmel"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Skhul · heutiges Israel",
+    "en": "Skhul · present-day Israel"
+  },
+  "summary": {
+    "de": "Höhle im Karmelgebirge mit frühen menschlichen Skelettfunden. Sie gehört zur Höhlengruppe Nahal Me’arot / Wadi el-Mughara. Das Foto zeigt den heutigen Eingang.",
+    "en": "A Mount Carmel cave with early human skeletal remains, within the Nahal Me’arot / Wadi el-Mughara cave group. The photograph shows its present-day entrance."
+  },
+  "assetIds": [
+    "asset:skhul-cave-view"
+  ]
+}

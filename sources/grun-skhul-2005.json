@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:grun-skhul-2005",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "U-series and ESR analyses of bones and teeth relating to the human burials from Skhul",
+  "creators": [
+    "Rainer Grün",
+    "Chris Stringer",
+    "Frank McDermott",
+    "et al."
+  ],
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15970310/",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the published abstract. It gives 100–135 ka under a short-burial-span assumption and does not exclude an older age for Skhul IX. The chapter uses the approximate 130–100 ka summary in Groucutt et al. (2018), explicitly as a synthesis range rather than an exhaustive confidence interval.",
+  "published": "2005",
+  "containerTitle": "Journal of Human Evolution 49, 316–334",
+  "identifiers": {
+    "doi": "10.1016/j.jhevol.2005.04.006"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:skhul-sapiens",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:grun-skhul-2005",
+      "role": "supports",
+      "locator": "Abstract: Skhul II, V and IX; conditional 100–135 ka range and possible differences between burials"
+    },
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Background and Discussion (manuscript pp. 3–4, 13): approximate Skhul 130–100 ka and Qafzeh 100–90 ka synthesis ranges"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Homo sapiens in Skhul",
+    "en": "Homo sapiens at Skhul"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 130000,
+      "younger": 100000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:grun-skhul-2005",
+          "role": "supports",
+          "locator": "Abstract: Skhul II, V and IX; conditional 100–135 ka range and possible differences between burials"
+        },
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Background and Discussion (manuscript pp. 3–4, 13): approximate Skhul 130–100 ka and Qafzeh 100–90 ka synthesis ranges"
+        }
+      ]
+    },
+    {
+      "entityId": "specimen:skhul-v",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:grun-skhul-2005",
+          "role": "supports",
+          "locator": "Abstract: Skhul II, V and IX; conditional 100–135 ka range and possible differences between burials"
+        },
+        {
+          "sourceId": "source:groucutt-al-wusta-2018",
+          "role": "supports",
+          "locator": "Background and Discussion (manuscript pp. 3–4, 13): approximate Skhul 130–100 ka and Qafzeh 100–90 ka synthesis ranges"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:skhul-cave"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:skhul-cave-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Gerundeter Datierungsrahmen nach der Zusammenfassung von 2018. Grün et al. (2005) nennen unter einer Annahme zeitnaher Bestattungen 100.000–135.000 Jahre und lassen unterschiedliche Alter einzelner Funde offen. Die Schraffur ist keine belegte Dauerbesiedlung.",
+    "en": "Rounded dating frame following the 2018 synthesis. Grün et al. (2005) give 100,000–135,000 years under a short-burial-span assumption and leave different ages for individual finds possible. Hatching does not establish continuous occupation."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:al-wusta-1",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results, Figs. 1–4 and SI 4: AW-1 identification, context and combined approximately 95–86 ka site chronology"
+    },
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results; SI 2 and SI 4 (supplement pp. 8–10 and 20–22): anatomy, uranium uptake, 87.6 ± 2.5 ka minimum age at 2σ"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Al Wusta-1 · ein Fingerknochen",
+    "en": "Al Wusta-1 · a finger bone"
+  },
+  "summary": {
+    "de": "AW-1 ist ein 32,3 Millimeter langes mittleres Fingerglied, wahrscheinlich vom Mittelfinger. Formvergleiche sprechen für Homo sapiens. Die direkte Uranreihen-Datierung von 87.600 ± 2.500 Jahren (2σ) ist ein Mindestalter; der Knochen kann älter sein.",
+    "en": "AW-1 is a 32.3-millimetre intermediate finger bone, probably from a middle finger. Shape comparisons support Homo sapiens attribution. Its direct uranium-series result of 87,600 ± 2,500 years (2σ) is a minimum age; the bone may be older."
+  }
+}

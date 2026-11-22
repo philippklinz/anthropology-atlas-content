@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:early-routes-out-of-africa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hershkovitz-misliya-2018",
+      "role": "supports",
+      "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+    },
+    {
+      "sourceId": "source:grun-skhul-2005",
+      "role": "supports",
+      "locator": "Abstract: Skhul II, V and IX; conditional 100–135 ka range and possible differences between burials"
+    },
+    {
+      "sourceId": "source:valladas-qafzeh-1988",
+      "role": "supports",
+      "locator": "Published abstract: burnt flints from hominin-bearing Qafzeh layers, approximately 90–100 ka"
+    },
+    {
+      "sourceId": "source:schwarcz-qafzeh-1988",
+      "role": "supports",
+      "locator": "pp. 733–737, abstract and Table 1: animal tooth enamel, uranium-uptake models; TL and ESR comparison"
+    },
+    {
+      "sourceId": "source:vandermeersch-qafzeh-2019",
+      "role": "supports",
+      "locator": "Authors’ abstract: excavated human remains, field observations and interpretations of funerary practices"
+    },
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results, Figs. 1–4 and SI 4: AW-1 identification, context and combined approximately 95–86 ka site chronology"
+    },
+    {
+      "sourceId": "source:groucutt-al-wusta-2018",
+      "role": "supports",
+      "locator": "Results (manuscript pp. 10–12), Discussion and SI 5: lake sediments, fauna and humid-phase interpretation"
+    }
+  ],
+  "labels": {
+    "de": "Frühe Wege aus Afrika",
+    "en": "Early Routes out of Africa"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:misliya-sapiens",
+    "event:skhul-sapiens",
+    "event:qafzeh-sapiens",
+    "event:al-wusta-sapiens",
+    "specimen:al-wusta-1",
+    "concept:humid-arabia",
+    "concept:fossil-sites-and-routes",
+    "asset:skhul-cave-view",
+    "asset:skhul-v-skull-view"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 36.5,
+      "latitude": 29.7,
+      "metersPerPixel": 2200,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 200000,
+        "younger": 200000,
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 80000,
+        "younger": 80000,
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "discovery": {
+    "summary": {
+      "de": "Homo sapiens im östlichen Mittelmeerraum und in Arabien: vier Fundorte, unterschiedliche Datierungen und ein See in der heutigen Wüste. Etwa 200.000–80.000 Jahre vor 1950.",
+      "en": "Homo sapiens in the eastern Mediterranean and Arabia: four findspots, different dating methods, and a lake in today’s desert. Approximately 200,000–80,000 years before 1950."
+    },
+    "periods": [
+      {
+        "id": "early-dispersals",
+        "labels": {
+          "de": "Frühe Ausbreitungen des Homo sapiens",
+          "en": "Early Homo sapiens dispersals"
+        },
+        "description": {
+          "de": "Redaktioneller Ausschnitt: 200.000–80.000 Jahre BP. Kein weltweit einheitlicher Epochenbeginn und keine einzelne zusammenhängende Wanderung.",
+          "en": "Editorial scope: 200,000–80,000 years BP. Not a globally uniform period boundary or one continuous migration."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      },
+      {
+        "id": "arabian-peninsula",
+        "labels": {
+          "de": "Arabische Halbinsel",
+          "en": "Arabian Peninsula"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "human-origins",
+        "labels": {
+          "de": "Menschwerdung",
+          "en": "Human origins"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "natural-history",
+        "labels": {
+          "de": "Naturforschung",
+          "en": "Natural history"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:al-wusta-stone-tools",
+    "assertion:levallois-at-al-wusta",
+    "assertion:levallois-at-misliya",
+    "asset:skhul-cave-view",
+    "asset:skhul-v-skull-view",
+    "concept:fossil-sites-and-routes",
+    "concept:humid-arabia",
+    "event:al-wusta-sapiens",
+    "event:misliya-sapiens",
+    "event:qafzeh-sapiens",
+    "event:skhul-sapiens",
+    "geometry:al-wusta-orientation",
+    "geometry:misliya-cave-orientation",
+    "geometry:qafzeh-cave-orientation",
+    "geometry:skhul-cave-orientation",
+    "place:al-wusta",
+    "place:misliya-cave",
+    "place:qafzeh-cave",
+    "place:skhul-cave",
+    "source:commons-skhul-cave-2016",
+    "source:commons-skhul-v-image",
+    "source:groucutt-al-wusta-2018",
+    "source:grun-skhul-2005",
+    "source:hershkovitz-misliya-2018",
+    "source:hublin-irhoud-2017",
+    "source:ragsdale-african-origins-2023",
+    "source:richter-irhoud-2017",
+    "source:schwarcz-qafzeh-1988",
+    "source:unesco-nahal-mearot",
+    "source:valladas-qafzeh-1988",
+    "source:vandermeersch-qafzeh-2019",
+    "source:weinstein-misliya-2012",
+    "specimen:al-wusta-1",
+    "specimen:misliya-1",
+    "specimen:qafzeh-human-remains",
+    "specimen:skhul-v",
+    "taxon:homo-sapiens",
+    "technology:levallois-technique",
+    "technology:uranium-series-fossil-dating"
+  ]
+}

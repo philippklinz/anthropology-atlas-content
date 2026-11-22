@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hershkovitz-misliya-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "The earliest modern humans outside Africa",
+  "creators": [
+    "Israel Hershkovitz",
+    "Gerhard W. Weber",
+    "Rolf Quam",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1126/science.aap8369",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the original four-page article, especially pp. 456–457 and Fig. 2. An accessible copy is at https://edisciplinas.usp.br/pluginfile.php/8744644/mod_resource/content/1/The%20earliest%20modern%20humans%20outside%20of%20Africa%20%28Hershkovits%20et%20al%202019%29.pdf . The file name says 2019; the paper was published on 26 January 2018. Its historical title is not adopted as a current claim that Misliya is the absolute earliest Eurasian sapiens fossil.",
+  "published": "2018",
+  "containerTitle": "Science 359, 456–459",
+  "identifiers": {
+    "doi": "10.1126/science.aap8369"
+  }
+}

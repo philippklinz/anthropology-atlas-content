@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:skhul-cave-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.97,
+      32.67
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:weinstein-misliya-2012",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "A Window into Early Middle Paleolithic Human Occupational Layers: Misliya Cave, Mount Carmel, Israel",
+  "creators": [
+    "Mina Weinstein-Evron",
+    "et al."
+  ],
+  "url": "https://paleoanthro.org/static/journal/content/PA20120202.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the Background and Fig. 1 on p. 203 for location (32°45′ N, 34°58′ E). Used for geography, not as the dating source for Misliya-1.",
+  "published": "2012",
+  "containerTitle": "PaleoAnthropology 2012, 202–228"
+}

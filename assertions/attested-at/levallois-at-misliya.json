@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:levallois-at-misliya",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hershkovitz-misliya-2018",
+      "role": "supports",
+      "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+    }
+  ],
+  "subjectId": "technology:levallois-technique",
+  "predicate": "attested-at",
+  "objectId": "place:misliya-cave",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 194000,
+      "younger": 177000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Nachweis im datierten Fundzusammenhang. Kein Erfindungsdatum und kein Beweis einer direkten Wanderung von einem anderen Fundort.",
+    "en": "Attestation within the dated assemblage. Not an invention date or proof of direct migration from another site."
+  }
+}

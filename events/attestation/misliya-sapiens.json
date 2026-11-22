@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:misliya-sapiens",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hershkovitz-misliya-2018",
+      "role": "supports",
+      "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Homo sapiens in Misliya",
+    "en": "Homo sapiens at Misliya"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 194000,
+      "younger": 177000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:hershkovitz-misliya-2018",
+          "role": "supports",
+          "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+        }
+      ]
+    },
+    {
+      "entityId": "specimen:misliya-1",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:hershkovitz-misliya-2018",
+          "role": "supports",
+          "locator": "pp. 456–457, Fig. 2: Misliya-1 morphology and combined 194–177 ka age limits"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:misliya-cave"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:misliya-cave-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Der Bereich kombiniert Altersgrenzen aus mehreren Messungen am Fossil und seinem Fundzusammenhang. Er ist keine 17.000 Jahre dauernde Begebenheit und datiert keine Abreise aus Afrika. Die zugehörigen Werkzeuge umfassen Levallois-Technik.",
+    "en": "The range combines age limits from several measurements on the fossil and its context. It is not an event lasting 17,000 years and does not date a departure from Africa. Associated tools include Levallois technology."
+  }
+}
