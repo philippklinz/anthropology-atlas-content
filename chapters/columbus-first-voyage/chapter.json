@@ -25,6 +25,14 @@
       "sourceId": "source:loc-columbus-taino",
       "role": "supports",
       "locator": "Columbus’s Account of 1492 Voyage"
+    },
+    {
+      "sourceId": "source:fnz-periodization",
+      "role": "supports",
+      "locator": "First two paragraphs; periodization and transition around 1500",
+      "appliesTo": [
+        "/discovery/periods"
+      ]
     }
   ],
   "labels": {
@@ -97,5 +105,99 @@
     "layers": [
       "events"
     ]
-  }
+  },
+  "discovery": {
+    "summary": {
+      "de": "Kolumbus’ erste Atlantikreise: von Palos in die bereits bewohnte Karibik und zurück. Begegnungen, Machtansprüche und die Frage nach Guanahani.",
+      "en": "Columbus’s first Atlantic voyage: from Palos to the already inhabited Caribbean and back. Encounters, claims to power and the question of Guanahani."
+    },
+    "periods": [
+      {
+        "id": "early-modern-europe",
+        "labels": {
+          "de": "Frühe Neuzeit · europäische Einteilung",
+          "en": "Early modern period · European convention"
+        },
+        "description": {
+          "de": "Ca. 1500–1800, einschließlich der Übergänge um 1500. Diese europäische Periodisierung ist keine weltweit einheitliche Epoche.",
+          "en": "Approximately 1500–1800, including transitions around 1500. This European periodization is not a universal world period."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "atlantic",
+        "labels": {
+          "de": "Atlantik",
+          "en": "Atlantic"
+        }
+      },
+      {
+        "id": "caribbean",
+        "labels": {
+          "de": "Karibik",
+          "en": "Caribbean"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "seafaring",
+        "labels": {
+          "de": "Seefahrt",
+          "en": "Seafaring"
+        }
+      },
+      {
+        "id": "colonial-encounters",
+        "labels": {
+          "de": "Koloniale Begegnungen",
+          "en": "Colonial encounters"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:nina",
+    "artifact:pinta",
+    "artifact:santa-maria",
+    "community:lucayans-guanahani-1492",
+    "event:columbus-azores",
+    "event:columbus-cuba",
+    "event:columbus-departure",
+    "event:columbus-first-voyage",
+    "event:columbus-gomera",
+    "event:columbus-guanahani",
+    "event:columbus-hispaniola",
+    "event:columbus-homeward",
+    "event:columbus-lisbon",
+    "event:columbus-return",
+    "event:santa-maria-wreck",
+    "geometry:columbus-first-voyage-schematic",
+    "geometry:cuba-north-coast-orientation",
+    "geometry:guanahani-orientation",
+    "geometry:hispaniola-north-coast-orientation",
+    "geometry:la-gomera-orientation",
+    "geometry:lisbon-orientation",
+    "geometry:palos-orientation",
+    "geometry:samana-vicinity-orientation",
+    "geometry:santa-maria-azores-orientation",
+    "person:christopher-columbus",
+    "person:guacanagari",
+    "person:martin-alonso-pinzon",
+    "person:vicente-yanez-pinzon",
+    "place:cuba-north-coast",
+    "place:guanahani",
+    "place:hispaniola-north-coast",
+    "place:la-gomera",
+    "place:lisbon",
+    "place:palos",
+    "place:samana-vicinity",
+    "place:santa-maria-azores",
+    "source:columbus-journal-markham",
+    "source:florida-guanahani",
+    "source:fnz-periodization",
+    "source:loc-columbus-taino",
+    "source:usno-calendars"
+  ]
 }

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:fnz-periodization",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "1. Was heißt Frühe Neuzeit?",
+  "sourceType": "website",
+  "creators": [
+    "FNZ-Online · Barbara Stollberg-Rilinger (Herausgabe)"
+  ],
+  "url": "https://fnz-online.univie.ac.at/index.php?L=0&id=167191",
+  "accessedAt": "2026-11-22",
+  "language": "de",
+  "bibliographicNote": "Supports the approximate European periodization ca. 1500–1800 and transitions around 1500. Used for discovery classification, not evidence for voyages or their stations."
+}

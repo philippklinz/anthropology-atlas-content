@@ -25,6 +25,14 @@
       "sourceId": "source:pigafetta-stanley",
       "role": "supports",
       "locator": "Opening and closing passages"
+    },
+    {
+      "sourceId": "source:fnz-periodization",
+      "role": "supports",
+      "locator": "First two paragraphs; periodization and transition around 1500",
+      "appliesTo": [
+        "/discovery/periods"
+      ]
     }
   ],
   "labels": {
@@ -98,5 +106,112 @@
       "events",
       "attested-at"
     ]
-  }
+  },
+  "discovery": {
+    "summary": {
+      "de": "Von der Fahrt zu den Gewürzinseln zur ersten Weltumsegelung. Magellan, Elcano und die vielen Beteiligten einer von Gewalt geprägten Expedition.",
+      "en": "From a voyage to the Spice Islands to the first circumnavigation. Magellan, Elcano and the many participants in an expedition marked by violence."
+    },
+    "periods": [
+      {
+        "id": "early-modern-europe",
+        "labels": {
+          "de": "Frühe Neuzeit · europäische Einteilung",
+          "en": "Early modern period · European convention"
+        },
+        "description": {
+          "de": "Ca. 1500–1800, einschließlich der Übergänge um 1500. Diese europäische Periodisierung ist keine weltweit einheitliche Epoche.",
+          "en": "Approximately 1500–1800, including transitions around 1500. This European periodization is not a universal world period."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "atlantic",
+        "labels": {
+          "de": "Atlantik",
+          "en": "Atlantic"
+        }
+      },
+      {
+        "id": "pacific",
+        "labels": {
+          "de": "Pazifik",
+          "en": "Pacific"
+        }
+      },
+      {
+        "id": "indian-ocean",
+        "labels": {
+          "de": "Indischer Ozean",
+          "en": "Indian Ocean"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "seafaring",
+        "labels": {
+          "de": "Seefahrt",
+          "en": "Seafaring"
+        }
+      },
+      {
+        "id": "colonial-encounters",
+        "labels": {
+          "de": "Koloniale Begegnungen",
+          "en": "Colonial encounters"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:victoria-ship",
+    "assertion:victoria-sanlucar-return",
+    "community:mactan-defenders-1521",
+    "event:battle-mactan",
+    "event:cape-passage",
+    "event:departure-sanlucar",
+    "event:departure-seville",
+    "event:first-circumnavigation",
+    "event:guam-arrival",
+    "event:magellan-strait-passage",
+    "event:return-sanlucar",
+    "event:return-seville",
+    "event:rio-stop",
+    "event:tidore-arrival",
+    "event:timor-stop",
+    "geometry:cape-good-hope-orientation",
+    "geometry:circumnavigation-schematic",
+    "geometry:guam-orientation",
+    "geometry:mactan-orientation",
+    "geometry:magellan-strait-orientation",
+    "geometry:rio-bay-orientation",
+    "geometry:sanlucar-orientation",
+    "geometry:seville-orientation",
+    "geometry:tidore-orientation",
+    "geometry:timor-orientation",
+    "person:antonio-pigafetta",
+    "person:ferdinand-magellan",
+    "person:juan-sebastian-elcano",
+    "person:lapulapu",
+    "place:cape-good-hope",
+    "place:guam",
+    "place:mactan",
+    "place:magellan-strait",
+    "place:rio-bay",
+    "place:sanlucar",
+    "place:seville",
+    "place:tidore",
+    "place:timor",
+    "source:agi-elcano-letter",
+    "source:elkano-route",
+    "source:fnz-periodization",
+    "source:naval-museum-voyage",
+    "source:nhcp-lapulapu",
+    "source:nqc-mactan",
+    "source:pigafetta-stanley",
+    "source:unesco-circumnavigation",
+    "source:usno-calendars"
+  ]
 }

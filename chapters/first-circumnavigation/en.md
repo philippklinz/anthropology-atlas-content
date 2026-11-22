@@ -4,7 +4,7 @@ Magellan led the departure. After his death in 1521, Elcano brought Victoria bac
 
 ## Explore
 
-Open the voyage for an ordered list of stations, or browse people, places and events on the left. The initial 1519–1522 range shows all recorded stations. Use the year field to filter map evidence; “Chapter view” restores the whole voyage.
+Open the voyage for an ordered list of stations, or browse people, places and events on the left. The initial 1519–1522 range shows all recorded stations. Use the year field to filter map evidence; “Selection view” restores the whole voyage.
 
 ## Reading the map
 

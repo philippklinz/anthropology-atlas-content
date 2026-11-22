@@ -8,7 +8,7 @@ Three bounded historical chapters are available in German and English:
 - [The first circumnavigation, 1519–1522](docs/research/first-circumnavigation.md).
 - [Darwin and the second Beagle voyage, 1831–1836](docs/research/darwin-beagle.md), including his four Galápagos island stays.
 
-The dataset contains 157 records: 52 entities, 43 events, one assertion, 37 geometries, 17 sources, three chapters and four packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
+The dataset contains 158 records: 52 entities, 43 events, one assertion, 37 geometries, 18 sources, three chapters and four packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
 
 `published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it.
 
@@ -41,3 +41,7 @@ All processing runs in the browser; selected files are not uploaded. The tool ca
 - `published/`: browser-consumable output; source remains authoritative.
 
 `contract.lock.json` and `tooling.sha256` identify and verify the delivered toolkit. Toolkit updates are deliberate maintainer commits. The repository retains its existing GNU GPL v2 LICENSE; distributed media and third-party components retain their separately documented rights.
+
+## Chapter discovery
+
+The three voyage chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership; shared places retain one canonical ID. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. See `docs/research/chapter-discovery.md` for the periodization source and editorial choices.
