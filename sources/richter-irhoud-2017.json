@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:richter-irhoud-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age",
+  "sourceType": "article",
+  "creators": [
+    "Daniel Richter",
+    "Rainer Grün",
+    "Renaud Joannes-Boyau",
+    "et al."
+  ],
+  "published": "2017",
+  "containerTitle": "Nature 546, 293–296",
+  "url": "https://www.eva.mpg.de/fileadmin/content_files/human_evolution/Homo_Sapiens_presskit/nature22335_McPherron.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read original paper and Methods. Layer 7 TL estimate 315 ± 34 ka is 1σ, not 2σ. It dates the last heating of flints and is associated with the fossil-bearing layer.",
+  "identifiers": {
+    "doi": "10.1038/nature22335"
+  }
+}

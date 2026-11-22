@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:jebel-irhoud-fossils",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hublin-irhoud-2017",
+      "role": "supports",
+      "locator": "pp. 289–292; Figs. 1–3: fossil association and cranial morphology"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Die Fossilien von Jebel Irhoud",
+    "en": "The Jebel Irhoud fossils"
+  },
+  "summary": {
+    "de": "Der Fundkomplex enthält Überreste mehrerer Menschen. Das Gesicht und die Zähne zeigen Merkmale früher Homo sapiens; der Hirnschädel ist länglicher als bei heutigen Menschen. Die abgebildete Rekonstruktion kombiniert mehrere Fossilien. Sie zeigt keinen vollständig erhaltenen Schädel eines einzelnen Menschen.",
+    "en": "The assemblage contains remains of several individuals. Face and teeth show early Homo sapiens features, while the braincase is more elongated than in living humans. The illustrated reconstruction combines multiple fossils; it is not one intact individual skull."
+  },
+  "assetIds": [
+    "asset:irhoud-skull-reconstruction"
+  ]
+}

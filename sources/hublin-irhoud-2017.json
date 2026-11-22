@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hublin-irhoud-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens",
+  "sourceType": "article",
+  "creators": [
+    "Jean-Jacques Hublin",
+    "Abdelouahed Ben-Ncer",
+    "Shara E. Bailey",
+    "et al."
+  ],
+  "published": "2017",
+  "containerTitle": "Nature 546, 289–292",
+  "url": "https://www.eva.mpg.de/fileadmin/content_files/human_evolution/Homo_Sapiens_presskit/nature22336_Hublin.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the original paper, especially fossil association, morphology and the pan-African interpretation. No claim of a single birthplace or first individual.",
+  "identifiers": {
+    "doi": "10.1038/nature22336"
+  }
+}

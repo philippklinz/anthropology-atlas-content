@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:omo-kibish-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vidal-omo-2022",
+      "role": "supports",
+      "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)"
+    },
+    {
+      "sourceId": "source:mcdougall-kibish-2005",
+      "role": "derivation",
+      "locator": "p. 734: KHS (Omo I), 5°24.15′ N, 35°55.81′ E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 5000,
+    "note": {
+      "de": "Redaktionell geschätzte Genauigkeit der gerundeten Lagehilfe; kein statistischer Messfehler.",
+      "en": "Editorial estimate for the rounded orientation point; not a statistical survey error."
+    }
+  },
+  "processingNote": {
+    "de": "Eigener, grob gerundeter Orientierungspunkt aus der zitierten Ortsangabe bzw. Übersichtskarte. Keine historischen Grenzen oder Siedlungsflächen abgeleitet.",
+    "en": "Original coarsely rounded orientation point derived from the cited location statement or overview map. No ancient borders or settlement extents inferred."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original manually authored point from a cited factual location; no third-party map geometry copied."
+  }
+}

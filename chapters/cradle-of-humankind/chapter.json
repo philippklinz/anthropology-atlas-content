@@ -1,0 +1,175 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:cradle-of-humankind",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hublin-irhoud-2017",
+      "role": "supports",
+      "locator": "pp. 289–292; Figs. 1–3: fossil association and cranial morphology"
+    },
+    {
+      "sourceId": "source:richter-irhoud-2017",
+      "role": "supports",
+      "locator": "pp. 293–296; Methods, thermoluminescence dating: layer 7, 315 ± 34 ka (1σ)"
+    },
+    {
+      "sourceId": "source:vidal-omo-2022",
+      "role": "supports",
+      "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)"
+    },
+    {
+      "sourceId": "source:ragsdale-african-origins-2023",
+      "role": "supports",
+      "locator": "Abstract; Discussion: recurrent gene flow among weakly differentiated ancestral populations"
+    }
+  ],
+  "labels": {
+    "de": "Die Wiege der Menschheit",
+    "en": "The Cradle of Humankind"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:irhoud-early-sapiens",
+    "specimen:jebel-irhoud-fossils",
+    "artifact:irhoud-stone-tools",
+    "event:omo-i-age-constraint",
+    "event:shala-qi2-eruption",
+    "technology:levallois-technique",
+    "concept:african-population-origins",
+    "asset:irhoud-skull-reconstruction"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 17,
+      "latitude": 15,
+      "metersPerPixel": 18000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 350000,
+        "younger": 350000,
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 200000,
+        "younger": 200000,
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "discovery": {
+    "summary": {
+      "de": "Die frühen Homo sapiens in Afrika: Fossilien aus Jebel Irhoud und Omo Kibish, Steinwerkzeuge und die Frage, wie wir ihr Alter kennen. Etwa 350.000–200.000 Jahre vor 1950.",
+      "en": "Early Homo sapiens in Africa: fossils from Jebel Irhoud and Omo Kibish, stone tools, and how their ages are established. Approximately 350,000–200,000 years before 1950."
+    },
+    "periods": [
+      {
+        "id": "early-homo-sapiens",
+        "labels": {
+          "de": "Früher Homo sapiens",
+          "en": "Early Homo sapiens"
+        },
+        "description": {
+          "de": "Redaktioneller Einstieg: 350.000–200.000 Jahre BP. Kein exakt begrenzter Entstehungszeitraum unserer Art und keine weltweit einheitliche Kulturperiode.",
+          "en": "Editorial introduction: 350,000–200,000 years BP. Not an exact interval for the emergence of our species or a globally uniform cultural period."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "africa",
+        "labels": {
+          "de": "Afrika",
+          "en": "Africa"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      },
+      {
+        "id": "east-africa",
+        "labels": {
+          "de": "Ostafrika",
+          "en": "East Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "human-origins",
+        "labels": {
+          "de": "Menschwerdung",
+          "en": "Human origins"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "natural-history",
+        "labels": {
+          "de": "Naturforschung",
+          "en": "Natural history"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:irhoud-stone-tools",
+    "assertion:levallois-at-irhoud",
+    "asset:irhoud-skull-reconstruction",
+    "asset:irhoud-stone-tool-plate",
+    "concept:african-population-origins",
+    "event:irhoud-early-sapiens",
+    "event:omo-i-age-constraint",
+    "event:shala-qi2-eruption",
+    "geometry:jebel-irhoud-orientation",
+    "geometry:omo-kibish-orientation",
+    "geometry:shala-volcano-orientation",
+    "place:jebel-irhoud",
+    "place:omo-kibish",
+    "place:shala-volcano",
+    "source:geraads-irhoud-location-2013",
+    "source:hublin-irhoud-2017",
+    "source:mcdougall-kibish-2005",
+    "source:mpi-irhoud-media-2017",
+    "source:ragsdale-african-origins-2023",
+    "source:richter-irhoud-2017",
+    "source:vidal-omo-2022",
+    "specimen:jebel-irhoud-fossils",
+    "specimen:khs-volcanic-ash",
+    "specimen:omo-i",
+    "taxon:homo-sapiens",
+    "technology:argon-argon-dating",
+    "technology:levallois-technique",
+    "technology:thermoluminescence-dating"
+  ]
+}

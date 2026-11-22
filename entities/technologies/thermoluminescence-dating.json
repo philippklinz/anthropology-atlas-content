@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "technology:thermoluminescence-dating",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-irhoud-2017",
+      "role": "supports",
+      "locator": "pp. 293–296; Methods, thermoluminescence dating: layer 7, 315 ± 34 ka (1σ)"
+    }
+  ],
+  "entityType": "technology",
+  "labels": {
+    "de": "Thermolumineszenz · erhitzte Steine datieren",
+    "en": "Thermoluminescence · dating heated stones"
+  },
+  "summary": {
+    "de": "Ein heutiges Forschungsverfahren: Nach einer starken Erhitzung sammeln Minerale durch natürliche Strahlung erneut gespeicherte Ladung an. Beim Erhitzen im Labor wird Licht frei. Aus dem Signal und der Strahlungsdosis lässt sich abschätzen, wie lange die letzte Erhitzung zurückliegt. Für Schicht 7 in Jebel Irhoud ergab die Untersuchung 315.000 ± 34.000 Jahre (1σ).",
+    "en": "A modern research method: after strong heating, minerals again accumulate trapped charge through natural radiation. Laboratory heating releases light. The signal and radiation dose help estimate the time since the last heating. The study obtained 315,000 ± 34,000 years (1σ) for layer 7 at Jebel Irhoud."
+  }
+}

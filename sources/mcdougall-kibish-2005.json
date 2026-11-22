@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mcdougall-kibish-2005",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Stratigraphic placement and age of modern humans from Kibish, Ethiopia",
+  "sourceType": "article",
+  "creators": [
+    "Ian McDougall",
+    "Francis H. Brown",
+    "John G. Fleagle"
+  ],
+  "published": "2005",
+  "containerTitle": "Nature 433, 733–736",
+  "url": "https://afanporsaber.com/wp-content/uploads/2017/11/Stratigraphic-placement-and-age-of-modern-humans-from-Kibish-Ethiopia.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Used ONLY for the Omo I KHS site coordinates on p. 734: 5°24.15′ N, 35°55.81′ E. Its older age interpretation is not used; see Vidal et al. (2022) for the revised minimum-age constraint.",
+  "identifiers": {
+    "doi": "10.1038/nature03258"
+  }
+}

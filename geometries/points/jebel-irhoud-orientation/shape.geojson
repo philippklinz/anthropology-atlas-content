@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:jebel-irhoud-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.9,
+      31.9
+    ]
+  }
+}

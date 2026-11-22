@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:geraads-irhoud-location-2013",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The rodents from the late middle Pleistocene hominid-bearing site of J’bel Irhoud, Morocco, and their chronological and paleoenvironmental implications",
+  "sourceType": "article",
+  "creators": [
+    "Denis Geraads",
+    "et al."
+  ],
+  "published": "2013",
+  "containerTitle": "Quaternary Research 80(3), 552–561",
+  "url": "https://www.sciencedirect.com/science/article/pii/S0033589413000884",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Used only for the Introduction location statement visible in the publisher excerpt: 31°53.93′ N, 8°51.88′ W. Full text was not accessible in this review; no age or palaeoenvironment claims are derived from it."
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:omo-kibish",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vidal-omo-2022",
+      "role": "supports",
+      "locator": "pp. 579–583; Figs. 1–2; KHS correlation with the Shala Qi2 eruption, 233 ± 22 ka (2σ)"
+    },
+    {
+      "sourceId": "source:mcdougall-kibish-2005",
+      "role": "derivation",
+      "locator": "p. 734: KHS (Omo I), 5°24.15′ N, 35°55.81′ E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Omo Kibish · heutiges Äthiopien",
+    "en": "Omo Kibish · present-day Ethiopia"
+  },
+  "summary": {
+    "de": "Der Punkt orientiert sich am Omo-I-Fundort KHS in der Kibish-Formation. Er ist bewusst auf Zehntelgrad gerundet, keine Vermessung der Ausgrabung.",
+    "en": "The point locates the vicinity of the Omo I KHS site in the Kibish Formation. It is deliberately rounded to tenths of a degree, not an excavation survey."
+  }
+}
