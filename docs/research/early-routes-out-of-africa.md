@@ -48,4 +48,14 @@ Per-image rights and source URLs are recorded in asset metadata. Scientific pape
 
 ## Review and validation
 
-This is a cited editorial draft, not an independently peer-reviewed historical release. Browser validation checks the pinned contract, ownership, reference closure, dates, geometry and media. Historical uncertainty is retained rather than inferred away by passing structural checks. Export and UI verification details are appended after the committed source is compiled by the browser toolkit.
+This is a cited editorial draft, not an independently peer-reviewed historical release. Browser validation checks the pinned contract, ownership, reference closure, dates, geometry and media. Historical uncertainty is retained rather than inferred away by passing structural checks. The committed source was compiled by the pinned browser toolkit; verification details follow.
+
+## Export and browser verification
+
+- Committed canonical source: `29342fc085085df37f015012b3092922cbdb265f`; 292 selected source and payload files.
+- Browser export: `draft-20c8446c81c384ca3f12`, 224 records, **0 errors and 0 warnings**.
+- Catalogue SHA-256: `d5e10e6c23e0b0982a0c20c229be0b549832e9e8669b364513c22df7ce00ede8`. Previous hash-named files retained.
+- Published-file hashes and all pinned-toolkit checksums verified. No engine/toolkit update or package installation was required.
+- Browser checks: direct chapter opening; four mapped findspots; uncertainty ranges on the BP timeline; timeline selection opens Al Wusta; DE/EN event and fossil details; local cave photograph; full skull image viewer (549 × 570) with credit; fossil-to-attestation graph; Back/Forward; chapter search by `Misliya`; scoped fossil list has exactly four new-chapter specimens.
+- Combined selection with The Cradle of Humankind: chapters ordered chronologically, seven fossil/specimen entries, seven events and **one** shared Homo sapiens identity.
+- Browser rendering used the engine's SVG fallback because WebGL2 is unavailable in the test environment. GPU globe rendering was not verified here.
