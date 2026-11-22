@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:vicente-yanez-pinzon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "11–12 October 1492; 8 January 1493"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Vicente Yáñez Pinzón",
+    "en": "Vicente Yáñez Pinzón"
+  },
+  "summary": {
+    "de": "Führte die Niña zu Beginn der Reise; in der englischen Überlieferung auch „Vicente Anes“.",
+    "en": "Commanded the Niña at the beginning of the voyage; also rendered “Vicente Anes” in the English account."
+  }
+}

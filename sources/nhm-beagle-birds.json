@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nhm-beagle-birds",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Voyage of HMS Beagle (1831–1836)",
+  "sourceType": "website",
+  "creators": [
+    "Natural History Museum, London"
+  ],
+  "url": "https://www.nhm.ac.uk/our-science/services/collections/zoology/birds/skins/hms-beagle.html",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read bird-collection account, mockingbirds, Gould’s identification and FitzRoy’s collections. Museum interpretation; linked images are not redistributed."
+}

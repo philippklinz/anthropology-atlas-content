@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:columbus-cuba",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "28 October 1492"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Ankunft an Kubas Küste",
+    "en": "Arrival on Cuba’s coast"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1492,
+        "month": 11,
+        "day": 6
+      },
+      "latest": {
+        "year": 1492,
+        "month": 11,
+        "day": 6
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "28.10.1492",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:christopher-columbus",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "28 October 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:cuba-north-coast"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:cuba-north-coast-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Küstenstation; der Punkt ist keine Festlegung des genauen Hafens.",
+    "en": "Coastal station; the point does not identify an exact harbour."
+  },
+  "parentEventId": "event:columbus-first-voyage"
+}

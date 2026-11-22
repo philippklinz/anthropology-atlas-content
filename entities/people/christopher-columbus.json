@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:christopher-columbus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "Prologue and 3 August 1492"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Christoph Kolumbus",
+    "en": "Christopher Columbus"
+  },
+  "summary": {
+    "de": "Leitete die Atlantikreise von 1492–1493 auf der Suche nach einem westlichen Seeweg nach Asien.",
+    "en": "Led the Atlantic voyage of 1492–1493 in search of a western sea route to Asia."
+  }
+}

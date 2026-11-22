@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:recife-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -34.9,
+      -8.1
+    ]
+  }
+}

@@ -4,7 +4,7 @@ Research scope: one voyage, with selected stations and the conflict on Mactan. T
 
 ## What is included
 
-48 records: 15 entities (4 people, 9 places, one ship and one historically bounded community), 12 events, one dated assertion, 10 geometries, 8 sources, one chapter and one package. German and English chapter text and entity descriptions are maintained separately. IDs have no demo prefix. No synthetic record is selected by dataset.json.
+The original sample had 48 records: 15 entities (4 people, 9 places, one ship and one historically bounded community), 12 events, one dated assertion, 10 geometries, 8 sources, one chapter and one package. The voyage still uses those historical identities. Rio Bay, the Cape of Good Hope, their two geometries, the Elkano itinerary and USNO calendar source now have a single owner in `package:maritime-shared`, reused by the additional voyage packages without changing their IDs. German and English chapter text and entity descriptions are maintained separately. No synthetic record is selected by dataset.json.
 
 The chapter starts with the entire voyage period. The main route is a schematic itinerary, not the location of one ship on the selected date. Events supply dated points; setting a single year filters those points. Participation in an event does not imply participation for its entire duration: Magellan died during the expedition. Lapulapu's personal presence in the fighting is expressly uncertain.
 

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:darwin-floreana",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-galapagos-geology",
+      "role": "supports",
+      "locator": "A Synopsis of Darwin’s Galápagos itinerary: 25 September 1835"
+    },
+    {
+      "sourceId": "source:darwin-galapagos-diary",
+      "role": "supports",
+      "locator": "25 September 1835"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Landgang auf Floreana",
+    "en": "Shore visit on Floreana"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1835,
+        "month": 9,
+        "day": 25
+      },
+      "latest": {
+        "year": 1835,
+        "month": 9,
+        "day": 25
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 25 September 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "25 September 1835"
+        }
+      ]
+    },
+    {
+      "entityId": "person:robert-fitzroy",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 25 September 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "25 September 1835"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:floreana"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:floreana-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Darwin und FitzRoy wandern ins Hochland.",
+    "en": "Darwin and FitzRoy walk into the highlands."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

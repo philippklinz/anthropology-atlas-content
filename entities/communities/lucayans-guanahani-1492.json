@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:lucayans-guanahani-1492",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:florida-guanahani",
+      "role": "supports",
+      "locator": "One Small Step for a Man: Lucayans and Guanahani"
+    },
+    {
+      "sourceId": "source:loc-columbus-taino",
+      "role": "supports",
+      "locator": "Introductory paragraphs"
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Lucayanische Bewohner Guanahanis · 1492",
+    "en": "Lucayan inhabitants of Guanahani · 1492"
+  },
+  "summary": {
+    "de": "Die Menschen, denen die Expedition bei ihrer ersten Landung begegnete. Der Gruppenbezug ist auf diese Begegnung begrenzt.",
+    "en": "The people encountered at the expedition’s first landing. This group reference is limited to that encounter."
+  }
+}

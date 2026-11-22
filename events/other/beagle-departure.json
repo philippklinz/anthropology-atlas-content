@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-departure",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "27 December 1831"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Aufbruch der Beagle",
+    "en": "Beagle departs"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1831,
+        "month": 12,
+        "day": 27
+      },
+      "latest": {
+        "year": 1831,
+        "month": 12,
+        "day": 27
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "27 December 1831"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:plymouth"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:plymouth-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Beginn der zweiten Beagle-Reise.",
+    "en": "Beginning of the second Beagle voyage."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

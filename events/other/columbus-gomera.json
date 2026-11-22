@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:columbus-gomera",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "6 September 1492"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Abfahrt von La Gomera",
+    "en": "Departure from La Gomera"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1492,
+        "month": 9,
+        "day": 15
+      },
+      "latest": {
+        "year": 1492,
+        "month": 9,
+        "day": 15
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "6.9.1492",
+        "calendar": "julian",
+        "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:christopher-columbus",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:columbus-journal-markham",
+          "role": "supports",
+          "locator": "6 September 1492"
+        },
+        {
+          "sourceId": "source:usno-calendars",
+          "role": "derivation",
+          "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:la-gomera"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:la-gomera-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Beginn der langen Atlantikquerung.",
+    "en": "Beginning of the long Atlantic crossing."
+  },
+  "parentEventId": "event:columbus-first-voyage"
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:darwin-santiago",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-galapagos-geology",
+      "role": "supports",
+      "locator": "A Synopsis of Darwin’s Galápagos itinerary: 8–17 October 1835"
+    },
+    {
+      "sourceId": "source:darwin-galapagos-diary",
+      "role": "supports",
+      "locator": "8–17 October 1835"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Darwins Lager auf Santiago",
+    "en": "Darwin’s camp on Santiago"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1835,
+        "month": 10,
+        "day": 8
+      },
+      "latest": {
+        "year": 1835,
+        "month": 10,
+        "day": 8
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 1835,
+        "month": 10,
+        "day": 17
+      },
+      "latest": {
+        "year": 1835,
+        "month": 10,
+        "day": 17
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 8–17 October 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "8–17 October 1835"
+        }
+      ]
+    },
+    {
+      "entityId": "person:syms-covington",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-galapagos-geology",
+          "role": "supports",
+          "locator": "A Synopsis of Darwin’s Galápagos itinerary: 8–17 October 1835"
+        },
+        {
+          "sourceId": "source:darwin-galapagos-diary",
+          "role": "supports",
+          "locator": "8–17 October 1835"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:santiago-galapagos"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:santiago-galapagos-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Landaufenthalt mit Covington und weiteren Begleitern. Die Beagle fährt währenddessen zur Wasserversorgung nach San Cristóbal.",
+    "en": "Shore stay with Covington and others; meanwhile the Beagle returns to San Cristóbal for water."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:columbus-first-voyage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Kolumbus’ erste Atlantikreise",
+    "en": "Columbus’s first Atlantic voyage"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:maritime-shared"
+  ],
+  "recordIds": [
+    "artifact:nina",
+    "artifact:pinta",
+    "artifact:santa-maria",
+    "chapter:columbus-first-voyage",
+    "community:lucayans-guanahani-1492",
+    "event:columbus-azores",
+    "event:columbus-cuba",
+    "event:columbus-departure",
+    "event:columbus-first-voyage",
+    "event:columbus-gomera",
+    "event:columbus-guanahani",
+    "event:columbus-hispaniola",
+    "event:columbus-homeward",
+    "event:columbus-lisbon",
+    "event:columbus-return",
+    "event:santa-maria-wreck",
+    "geometry:columbus-first-voyage-schematic",
+    "geometry:cuba-north-coast-orientation",
+    "geometry:guanahani-orientation",
+    "geometry:hispaniola-north-coast-orientation",
+    "geometry:la-gomera-orientation",
+    "geometry:lisbon-orientation",
+    "geometry:palos-orientation",
+    "geometry:samana-vicinity-orientation",
+    "geometry:santa-maria-azores-orientation",
+    "person:christopher-columbus",
+    "person:guacanagari",
+    "person:martin-alonso-pinzon",
+    "person:vicente-yanez-pinzon",
+    "place:cuba-north-coast",
+    "place:guanahani",
+    "place:hispaniola-north-coast",
+    "place:la-gomera",
+    "place:lisbon",
+    "place:palos",
+    "place:samana-vicinity",
+    "place:santa-maria-azores",
+    "source:columbus-journal-markham",
+    "source:florida-guanahani",
+    "source:loc-columbus-taino"
+  ],
+  "entryChapterIds": [
+    "chapter:columbus-first-voyage"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic"
+  ]
+}

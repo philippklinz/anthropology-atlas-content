@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-new-zealand",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "21 December 1835"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Bay of Islands erreicht",
+    "en": "Reaching the Bay of Islands"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1835,
+        "month": 12,
+        "day": 21
+      },
+      "latest": {
+        "year": 1835,
+        "month": 12,
+        "day": 21
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "21 December 1835"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:bay-of-islands"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:bay-of-islands-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ausgewählte Station in Neuseeland.",
+    "en": "Selected station in New Zealand."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

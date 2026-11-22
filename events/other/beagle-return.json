@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-return",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "2 October 1836"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Rückkehr nach Falmouth",
+    "en": "Return to Falmouth"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1836,
+        "month": 10,
+        "day": 2
+      },
+      "latest": {
+        "year": 1836,
+        "month": 10,
+        "day": 2
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "2 October 1836"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:falmouth"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:falmouth-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ende der Reise für Darwin.",
+    "en": "End of Darwin’s voyage."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

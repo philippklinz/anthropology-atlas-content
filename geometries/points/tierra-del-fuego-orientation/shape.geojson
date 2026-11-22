@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tierra-del-fuego-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68,
+      -55
+    ]
+  }
+}

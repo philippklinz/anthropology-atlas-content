@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:hms-beagle",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-correspondence-voyage",
+      "role": "supports",
+      "locator": "Introductory account"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "HMS Beagle",
+    "en": "HMS Beagle"
+  },
+  "summary": {
+    "de": "Britisches Vermessungsschiff. Dieses Kapitel behandelt seine zweite Reise, 1831–1836, mit Darwin an Bord.",
+    "en": "British surveying ship. This chapter covers its second voyage, 1831–1836, with Darwin aboard."
+  }
+}

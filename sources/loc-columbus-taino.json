@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:loc-columbus-taino",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Columbus and the Taíno",
+  "sourceType": "website",
+  "creators": [
+    "Library of Congress"
+  ],
+  "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino.html",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read the introductory account and “Columbus’s Account of 1492 Voyage”. Used for Indigenous societies and the colonial claims in the letter. Its simplified identification of Guanahani is not treated as resolving the disputed landfall."
+}

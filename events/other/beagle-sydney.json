@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-sydney",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "12 January 1836"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Ankunft in Sydney",
+    "en": "Arrival in Sydney"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1836,
+        "month": 1,
+        "day": 12
+      },
+      "latest": {
+        "year": 1836,
+        "month": 1,
+        "day": 12
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "12 January 1836"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:sydney"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sydney-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Station an Australiens Ostküste.",
+    "en": "Station on Australia’s east coast."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

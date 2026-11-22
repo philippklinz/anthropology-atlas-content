@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:samana-vicinity",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "16 January 1493: departure from Puerto de las Flechas"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Östliches Hispaniola / Samaná",
+    "en": "Eastern Hispaniola / Samaná"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Dominikanische Republik. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Dominican Republic. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

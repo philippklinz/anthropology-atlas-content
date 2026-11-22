@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:columbus-first-voyage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "Entries 3 August 1492–15 March 1493; especially 11–15 October (landfall, claims and captivity), 25 December (wreck and salvage), 2 January (La Navidad and Guacanagarí)"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian leap-year rules; nine-day offset in 1492–1493"
+    },
+    {
+      "sourceId": "source:florida-guanahani",
+      "role": "supports",
+      "locator": "Landfall debate and source transmission"
+    },
+    {
+      "sourceId": "source:loc-columbus-taino",
+      "role": "supports",
+      "locator": "Columbus’s Account of 1492 Voyage"
+    }
+  ],
+  "labels": {
+    "de": "Kolumbus im Atlantik · 1492–1493",
+    "en": "Columbus in the Atlantic · 1492–1493"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:columbus-first-voyage",
+    "event:columbus-guanahani",
+    "person:christopher-columbus",
+    "community:lucayans-guanahani-1492",
+    "event:santa-maria-wreck",
+    "person:guacanagari",
+    "artifact:nina"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -40,
+      "latitude": 27,
+      "metersPerPixel": 15000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1492,
+          "month": 8,
+          "day": 12
+        },
+        "latest": {
+          "year": 1492,
+          "month": 8,
+          "day": 12
+        },
+        "precision": "day",
+        "qualifier": "exact",
+        "original": {
+          "text": "3.8.1492",
+          "calendar": "julian",
+          "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+        }
+      },
+      "end": {
+        "earliest": {
+          "year": 1493,
+          "month": 3,
+          "day": 24
+        },
+        "latest": {
+          "year": 1493,
+          "month": 3,
+          "day": 24
+        },
+        "precision": "day",
+        "qualifier": "exact",
+        "original": {
+          "text": "15.3.1493",
+          "calendar": "julian",
+          "conversionNote": "Conventional Julian voyage chronology; +9 days in 1492–1493 for the proleptic Gregorian calculation calendar. This does not resolve local shipboard day-count questions."
+        }
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  }
+}

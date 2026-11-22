@@ -15,7 +15,9 @@
     "de",
     "en"
   ],
-  "dependencies": [],
+  "dependencies": [
+    "package:maritime-shared"
+  ],
   "recordIds": [
     "artifact:victoria-ship",
     "assertion:victoria-sanlucar-return",
@@ -33,12 +35,10 @@
     "event:rio-stop",
     "event:tidore-arrival",
     "event:timor-stop",
-    "geometry:cape-good-hope-orientation",
     "geometry:circumnavigation-schematic",
     "geometry:guam-orientation",
     "geometry:mactan-orientation",
     "geometry:magellan-strait-orientation",
-    "geometry:rio-bay-orientation",
     "geometry:sanlucar-orientation",
     "geometry:seville-orientation",
     "geometry:tidore-orientation",
@@ -47,23 +47,19 @@
     "person:ferdinand-magellan",
     "person:juan-sebastian-elcano",
     "person:lapulapu",
-    "place:cape-good-hope",
     "place:guam",
     "place:mactan",
     "place:magellan-strait",
-    "place:rio-bay",
     "place:sanlucar",
     "place:seville",
     "place:tidore",
     "place:timor",
     "source:agi-elcano-letter",
-    "source:elkano-route",
     "source:naval-museum-voyage",
     "source:nhcp-lapulapu",
     "source:nqc-mactan",
     "source:pigafetta-stanley",
-    "source:unesco-circumnavigation",
-    "source:usno-calendars"
+    "source:unesco-circumnavigation"
   ],
   "entryChapterIds": [
     "chapter:first-circumnavigation"

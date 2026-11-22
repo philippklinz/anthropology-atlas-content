@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:mauritius",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "29 April–9 May 1836"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Mauritius",
+    "en": "Mauritius"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Mauritius. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Mauritius. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

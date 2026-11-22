@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:recife",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-daily-itinerary",
+      "role": "supports",
+      "locator": "1836 Pernambuco; day 1689, 12 August 1836"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Recife / Pernambuco",
+    "en": "Recife / Pernambuco"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Brasilien. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Brazil. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

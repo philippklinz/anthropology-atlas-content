@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:darwin-daily-itinerary",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Darwin’s itinerary on the voyage of the Beagle",
+  "sourceType": "website",
+  "creators": [
+    "Kees Rookmaaker",
+    "John van Wyhe (editor)"
+  ],
+  "url": "https://darwin-online.org.uk/converted/Ancillary/Rookmaaker_Beagle_Itinerary_A575.html",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read introduction and selected voyage entries. Distinguishes nights on land, at anchor and at sea. The introduction contains inconsistent statements about date-line adjustments; this sample does not derive sailing durations or UTC positions from it.",
+  "published": "2009; revisions 2020–2025"
+}

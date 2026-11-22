@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-tahiti",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "15 November 1835"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Station Tahiti",
+    "en": "Tahiti station"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1835,
+        "month": 11,
+        "day": 15
+      },
+      "latest": {
+        "year": 1835,
+        "month": 11,
+        "day": 15
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "15 November 1835"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:tahiti"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tahiti-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Weiterreise durch den Pazifik.",
+    "en": "Continuing across the Pacific."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tahiti-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.5,
+      -17.5
+    ]
+  }
+}

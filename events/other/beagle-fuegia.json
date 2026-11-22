@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-fuegia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "16 December 1832"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Feuerland erreicht",
+    "en": "Reaching Tierra del Fuego"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1832,
+        "month": 12,
+        "day": 16
+      },
+      "latest": {
+        "year": 1832,
+        "month": 12,
+        "day": 16
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "16 December 1832"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:tierra-del-fuego"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tierra-del-fuego-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Regionale Lagehilfe; mehrere spätere Besuche fehlen in diesem Ausschnitt.",
+    "en": "Regional orientation; several later visits are omitted here."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

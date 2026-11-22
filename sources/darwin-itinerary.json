@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:darwin-itinerary",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Itinerary of Charles Darwin",
+  "sourceType": "website",
+  "creators": [
+    "John van Wyhe (editor)"
+  ],
+  "url": "https://darwin-online.org.uk/EditorialIntroductions/vanWyhe_Itinerary_of_Charles_Darwin.html",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read 1831–1836 entries. Uses conventional diary dates. Some entries differ from the daily itinerary; conflicting or ambiguous dates are not silently resolved."
+}

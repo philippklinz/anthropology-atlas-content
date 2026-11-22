@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:praia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "16 January–8 February 1832; 4–8 September 1836"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Praia auf Santiago",
+    "en": "Praia, Santiago"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Cabo Verde. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Cabo Verde. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

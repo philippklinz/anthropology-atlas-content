@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-valparaiso",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "23 July 1834"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Station Valparaíso",
+    "en": "Valparaíso station"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1834,
+        "month": 7,
+        "day": 23
+      },
+      "latest": {
+        "year": 1834,
+        "month": 7,
+        "day": 23
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "23 July 1834"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:valparaiso"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:valparaiso-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Ausgewählte Station an der Pazifikküste.",
+    "en": "Selected Pacific-coast station."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:beagle-callao",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "19 July 1835"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Callao und Lima",
+    "en": "Callao and Lima"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1835,
+        "month": 7,
+        "day": 19
+      },
+      "latest": {
+        "year": 1835,
+        "month": 7,
+        "day": 19
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charles-darwin",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:darwin-itinerary",
+          "role": "supports",
+          "locator": "19 July 1835"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:callao"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:callao-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Station vor der Fahrt nach Galápagos.",
+    "en": "Station before the passage to Galápagos."
+  },
+  "parentEventId": "event:darwin-beagle"
+}

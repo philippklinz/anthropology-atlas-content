@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:hobart",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "supports",
+      "locator": "5–17 February 1836"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hobart",
+    "en": "Hobart"
+  },
+  "summary": {
+    "de": "Heutige Orientierung: Tasmanien, Australien. Der Punkt kennzeichnet die Gegend, keinen genauen historischen Ankerplatz.",
+    "en": "Modern orientation: Tasmania, Australia. The point marks the vicinity, not a precise historical anchorage."
+  }
+}

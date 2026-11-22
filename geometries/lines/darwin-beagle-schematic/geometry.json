@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:darwin-beagle-schematic",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:darwin-correspondence-voyage",
+      "role": "derivation",
+      "locator": "Voyage overview"
+    },
+    {
+      "sourceId": "source:darwin-itinerary",
+      "role": "derivation",
+      "locator": "1831–1836"
+    },
+    {
+      "sourceId": "source:darwin-galapagos-geology",
+      "role": "derivation",
+      "locator": "A Synopsis of Darwin’s Galápagos itinerary"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiLineString",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Schematische Orientierung, keine gemessene historische Position.",
+      "en": "Schematic orientation, not a measured historical position."
+    }
+  },
+  "processingNote": {
+    "de": "Eigene Lagehilfe. Quellen belegen die Stationen, nicht diese Koordinaten. Zusätzliche Linienpunkte formen nur die Verbindung; Zwischenstopps fehlen.",
+    "en": "Original orientation aid. Sources attest stations, not these coordinates. Extra vertices only shape the connection; intermediate stops are omitted."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic orientation geometry",
+    "originNote": "Original manually authored orientation points and line work; no third-party map geometry copied."
+  }
+}

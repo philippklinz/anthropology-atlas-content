@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:santa-maria-azores-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -25.1,
+      37
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:darwin-galapagos-geology",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Darwin’s notes on the geology of Galápagos",
+  "sourceType": "website",
+  "creators": [
+    "K. Thalia Grant",
+    "Gregory B. Estes"
+  ],
+  "url": "https://darwin-online.org.uk/EditorialIntroductions/Grant_Estes_GeologicalDiaryGalapagos.html",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "bibliographicNote": "Read “A Synopsis of Darwin’s Galápagos itinerary” and manuscript context. Scholarly reconstruction distinguishes Darwin’s shore work from the Beagle’s movements."
+}
