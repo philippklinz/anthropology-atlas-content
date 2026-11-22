@@ -28,3 +28,7 @@ All four early-human chapters now reuse the `palaeolithic` discovery group. It i
 ## Validation
 
 Publication and UI results are recorded after the browser export below. Schema checks do not constitute independent historical peer review.
+
+The pinned browser toolkit imported 388 canonical/payload files from source commit `77fb9ef78c101cfa2c63b6679592c23db4933c58`. Browser export: `draft-46f05e9c064fc97d934f`, 303 records, zero errors and zero warnings. Catalogue SHA-256: `c698844b6b0114e4f879c90ecfdfdf6cd90cef16bcf35d893d73fd947f901c9c`. The published-file checker and toolkit checksums pass; prior hash-named payloads are retained.
+
+Observed in Chromium through the actual static app: no period tiles; Palaeolithic dropdown yields four chapters in chronological order; accent-insensitive `flote` search finds the new chapter; Back/Forward and reload retain filters. Four-chapter selection preserves chronological sidebar order. The new chapter alone has four events, four places, four artifacts plus three exhibits, three concepts, four assertions and eleven sources. All four map points are visible in the SVG globe fallback. The Muna event shows its open older bound and dating note. The tracing and flute load at their original dimensions with linked CC licenses; DE/EN image captions and chapter navigation work. WebGL2 is unavailable in this test environment.
