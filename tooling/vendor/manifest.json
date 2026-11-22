@@ -1,0 +1,114 @@
+{
+  "formatVersion": 1,
+  "distribution": "native-browser-esm",
+  "note": "No package manager or build is required. Archive URLs record provenance only. Upstream standalone bundles may carry transitive versions different from the recorded source package inventory; their exact bytes and embedded notices are authoritative.",
+  "packages": [
+    {
+      "name": "ajv",
+      "version": "8.20.0",
+      "source": "https://registry.npmjs.org/ajv/-/ajv-8.20.0.tgz",
+      "license": "MIT",
+      "sourceArchiveSha256": "b2f0b3a893bbb8cc5efb6814f08b1499e19e31d5dd73683f5893382f48f6e7b3",
+      "licenseFiles": [
+        "licenses/third-party/ajv-LICENSE"
+      ]
+    },
+    {
+      "name": "ajv-formats",
+      "version": "3.0.1",
+      "source": "https://registry.npmjs.org/ajv-formats/-/ajv-formats-3.0.1.tgz",
+      "license": "MIT",
+      "sourceArchiveSha256": "f4d6980fd367381fd29199066911e863db8d97496613b6c2c5b91563a150acc5",
+      "licenseFiles": [
+        "licenses/third-party/ajv-formats-LICENSE"
+      ]
+    },
+    {
+      "name": "fast-deep-equal",
+      "version": "3.1.3",
+      "source": "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz",
+      "license": "MIT",
+      "sourceArchiveSha256": "b019a0980f27638dc3f85836b0e478f188e00d7a6e5852c0819fa86f56e47b8f",
+      "licenseFiles": [
+        "licenses/third-party/fast-deep-equal-LICENSE"
+      ]
+    },
+    {
+      "name": "fast-uri",
+      "version": "3.1.9",
+      "source": "https://registry.npmjs.org/fast-uri/-/fast-uri-3.1.9.tgz",
+      "license": "BSD-3-Clause",
+      "sourceArchiveSha256": "4f5a67f7b61110aae7b3ad38e806627f5712f4c150bd38eb804a562e69a9ee5e",
+      "licenseFiles": [
+        "licenses/third-party/fast-uri-LICENSE"
+      ]
+    },
+    {
+      "name": "fastpriorityqueue",
+      "version": "0.7.5",
+      "source": "https://registry.npmjs.org/fastpriorityqueue/-/fastpriorityqueue-0.7.5.tgz",
+      "license": "Apache-2.0",
+      "sourceArchiveSha256": "21ec278f1b4aec976abc86c88f4a9254258c1b32f044825368b6cde21167c164",
+      "licenseFiles": [
+        "licenses/third-party/fastpriorityqueue-LICENSE"
+      ]
+    },
+    {
+      "name": "fflate",
+      "version": "0.8.3",
+      "source": "https://registry.npmjs.org/fflate/-/fflate-0.8.3.tgz",
+      "license": "MIT",
+      "sourceArchiveSha256": "38c2cd824402407b43153c782274aec2ea83ea688e4aa0b743c5f2c305857d92",
+      "licenseFiles": [
+        "licenses/third-party/fflate-LICENSE"
+      ]
+    },
+    {
+      "name": "json-schema-traverse",
+      "version": "1.0.0",
+      "source": "https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-1.0.0.tgz",
+      "license": "MIT",
+      "sourceArchiveSha256": "023222622df29fc274bde5d3590e47aa1d4a8e3c1d6e2aba029948ed79799b21",
+      "licenseFiles": [
+        "licenses/third-party/json-schema-traverse-LICENSE"
+      ]
+    },
+    {
+      "name": "jsts",
+      "version": "2.12.1",
+      "source": "https://registry.npmjs.org/jsts/-/jsts-2.12.1.tgz",
+      "license": "EDL-1.0 (chosen from EDL-1.0 OR EPL-1.0)",
+      "sourceArchiveSha256": "fcc6848a74b52a07225cf4dbc987a0dcb9db18fe3a76507a98b3030de60c8710",
+      "licenseFiles": [
+        "licenses/third-party/jsts-EDL.txt"
+      ]
+    },
+    {
+      "name": "require-from-string",
+      "version": "2.0.2",
+      "source": "https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.2.tgz",
+      "license": "MIT",
+      "sourceArchiveSha256": "cb694a4965908f7775a0c757f00cf4e624d193cd71d77988fbcca0f597b88d82",
+      "licenseFiles": [
+        "licenses/third-party/require-from-string-license"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "vendor/fflate/fflate.js",
+      "bytes": 90922,
+      "sha256": "b7ca4450b19559a1d50eb381adcee94b82449674be4cd17789d9beba7e6122a1"
+    },
+    {
+      "path": "vendor/topology/topology.js",
+      "bytes": 360481,
+      "sha256": "471955f325dd4d8011c09ebe890859109a6120b56fc2e62db9ce0218ec023d3e"
+    },
+    {
+      "path": "vendor/validation/validation.js",
+      "bytes": 278764,
+      "sha256": "265b0611ecb9200f8a5e6a542846e2bb4e158c5e05e59c80df2a4b8a33d9690c"
+    }
+  ]
+}

@@ -13,3 +13,7 @@ This repository holds canonical historical research. The engine repository owns 
 - Keep synthetic fixtures and templates out of historical releases.
 - Edit source records, not generated `published/` output. A database projection is not a second canonical history store.
 - Report the validation and historical review actually performed. Never imply that schema validation establishes historical truth.
+
+- Open tooling/index.html through HTTP to validate/export in the browser. No Node, npm or package installation is required. The toolchain is pinned by contract.lock.json and tooling.sha256.
+- The default published catalogue may be an empty draft. Historical release validation still rejects an empty dataset.
+- Generate published/ using the browser tool from a committed source revision. Retain prior hash-named payload files when updating a mutable branch.
