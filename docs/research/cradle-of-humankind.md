@@ -46,3 +46,7 @@ Their [CC BY-SA 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/) is
 ## Review status
 
 This is a sourced authoring draft, not an independently reviewed historical release. Dating inferences and omitted coverage are explicit. See the committed browser export's `published/validation.json` for structural validation, and the engine's browser check report for runtime verification. Schema checks cannot establish that a palaeoanthropological interpretation is true.
+
+## Export verification
+
+The pinned browser toolkit imported 248 canonical source/payload files from commit `da30cd8bd3a42294905ed50b3d983558ad11ee6c` and exported `draft-8288a1394df57630badf`. The draft report contains 188 records, zero errors and zero warnings. Catalogue SHA-256: `8cc3dac0c4b5c37765ddc348a8abbf6e5b3f0bc20c3cef7d0a2ea0fd86f4b718`. Existing hash-named payloads were retained. The published-file hash checker and pinned-toolkit hash verification pass. The engine browser report documents DE/EN, images, navigation, BP filtering and mixed chronology checks; WebGL2 is unavailable in that environment.

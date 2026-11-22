@@ -2,13 +2,14 @@
   "catalogVersion": "1",
   "schemaVersion": "0.1.0",
   "indexVersion": "1",
-  "dataReleaseId": "draft-d758afe3685c558ed816",
-  "sourceRevision": "2ee19d3f3701af9b401febf2824adbd4d886e706",
-  "compilerVersion": "0.1.0-dev.5",
+  "dataReleaseId": "draft-8288a1394df57630badf",
+  "sourceRevision": "da30cd8bd3a42294905ed50b3d983558ad11ee6c",
+  "compilerVersion": "0.1.0-dev.6",
   "packages": [
     "package:columbus-first-voyage",
     "package:darwin-beagle",
     "package:first-circumnavigation",
+    "package:human-origins",
     "package:maritime-shared"
   ],
   "languages": [
@@ -16,38 +17,55 @@
     "en"
   ],
   "requiredCapabilities": [
+    "deep-time",
     "geo-basic",
     "historical-time",
+    "image-viewer",
+    "natural-history",
     "network-basic"
   ],
   "files": [
     {
-      "path": "files/columbus-first-voyage-f2935ad21eda743aa56c868f.json",
+      "path": "files/asset-315a3e4192820db0db85d82b.png",
+      "role": "asset",
+      "bytes": 493223,
+      "mediaType": "image/png",
+      "sha256": "315a3e4192820db0db85d82b2dcdeb7a2b9a1f9cad26e6944be1e867f8569a4e"
+    },
+    {
+      "path": "files/asset-ff6816804364167f8a7e6d03.jpg",
+      "role": "asset",
+      "bytes": 43682,
+      "mediaType": "image/jpeg",
+      "sha256": "ff6816804364167f8a7e6d03afbdd96a484ae55f861c6a14cdaa76999edaca8e"
+    },
+    {
+      "path": "files/columbus-first-voyage-7c92c5a287d1b73491464be7.json",
       "role": "records",
       "bytes": 57076,
       "mediaType": "application/json",
-      "sha256": "f2935ad21eda743aa56c868f5848b644be5f51a9cfdd713f4a235e360e49b807"
+      "sha256": "7c92c5a287d1b73491464be794a164161c77b95de183dc0843e95706e73e4328"
     },
     {
-      "path": "files/darwin-beagle-1611716144f8a80a8632a938.json",
+      "path": "files/darwin-beagle-42a4c5a30c4be7ec21e77137.json",
       "role": "records",
       "bytes": 72919,
       "mediaType": "application/json",
-      "sha256": "1611716144f8a80a8632a938d268b8d27cf1279b42eb33215d031b229e167be4"
+      "sha256": "42a4c5a30c4be7ec21e77137d284ddb94eea18ce14e1865573163c475695c613"
     },
     {
-      "path": "files/discovery-110905f125f216ca1696613f.json",
+      "path": "files/discovery-3805c177c6b7cfa37ac26ddc.json",
       "role": "discovery",
-      "bytes": 9881,
+      "bytes": 12879,
       "mediaType": "application/json",
-      "sha256": "110905f125f216ca1696613f045f83a199e5c0368488cf067b2845bad1e21699"
+      "sha256": "3805c177c6b7cfa37ac26ddc54b54bfce3304447d2390b7c7ed79b50cc542911"
     },
     {
-      "path": "files/first-circumnavigation-dbefb4ba06e72cfce844c604.json",
+      "path": "files/first-circumnavigation-45682e0ac410900ba5ab277a.json",
       "role": "records",
       "bytes": 55015,
       "mediaType": "application/json",
-      "sha256": "dbefb4ba06e72cfce844c6042db178d02b81b5fe23d48a3b4ed92023774c09e8"
+      "sha256": "45682e0ac410900ba5ab277a296614a810776764e7a6c6f15ac409f2b72b7793"
     },
     {
       "path": "files/geometry-06752d69651b7fba231c1730.geojson",
@@ -148,6 +166,13 @@
       "sha256": "6f5e118b087ca0266dea3043d80ba04db96c7b8fcf79086ec80c01c54d6665d8"
     },
     {
+      "path": "files/geometry-72aae7584a6d4aa377f730ac.geojson",
+      "role": "geometry",
+      "bytes": 130,
+      "mediaType": "application/geo+json",
+      "sha256": "72aae7584a6d4aa377f730acfcb2db7d69cf2d664773667fbdef8241d6330530"
+    },
+    {
       "path": "files/geometry-732c60d38d588ba36c7d5b66.geojson",
       "role": "geometry",
       "bytes": 135,
@@ -188,6 +213,13 @@
       "bytes": 123,
       "mediaType": "application/geo+json",
       "sha256": "9d4ad2b619e5fc233e16a787fdc0d032a85923e10865b7c07cb13a7ebf1f6e25"
+    },
+    {
+      "path": "files/geometry-a9c37a75f99ea96dec2181a4.geojson",
+      "role": "geometry",
+      "bytes": 130,
+      "mediaType": "application/geo+json",
+      "sha256": "a9c37a75f99ea96dec2181a4c937b32825b28864e0c041fec66934b4482a3951"
     },
     {
       "path": "files/geometry-ac7d40433168b736f678ed5d.geojson",
@@ -260,6 +292,13 @@
       "sha256": "d247b8fcc726d54180c7cbe1746a9324cdc01aba6e55ab253d386156b5079d73"
     },
     {
+      "path": "files/geometry-d94642b1c76bf4bb09a9f0c0.geojson",
+      "role": "geometry",
+      "bytes": 127,
+      "mediaType": "application/geo+json",
+      "sha256": "d94642b1c76bf4bb09a9f0c0ed2663d185bd1c5079ed32226417a28f10985c80"
+    },
+    {
       "path": "files/geometry-e459145ff99e125d1794300a.geojson",
       "role": "geometry",
       "bytes": 124,
@@ -309,53 +348,67 @@
       "sha256": "fbb306a8311958facc56adeeb3576e48367209f268c150232485dc1776e41847"
     },
     {
-      "path": "files/licenses-2ca5c28c93e588f8c9262405.json",
-      "role": "licenses",
-      "bytes": 11315,
+      "path": "files/human-origins-f93b388131804fb627267713.json",
+      "role": "records",
+      "bytes": 37921,
       "mediaType": "application/json",
-      "sha256": "2ca5c28c93e588f8c9262405fb3ab3a660b5a3b3c94fc60264c6c076961bed0b"
+      "sha256": "f93b388131804fb627267713c4a5d35b768370b7cf01a016de9b43b9b7663d8a"
     },
     {
-      "path": "files/maritime-shared-15e577c365cd58a4ac2efd49.json",
+      "path": "files/licenses-702b2e7bc09611b8c372e9a1.json",
+      "role": "licenses",
+      "bytes": 13048,
+      "mediaType": "application/json",
+      "sha256": "702b2e7bc09611b8c372e9a180f8578708e7c869534f0b8b6489e7aca204b262"
+    },
+    {
+      "path": "files/maritime-shared-d60c10f235848cdc9d9860c1.json",
       "role": "records",
       "bytes": 5851,
       "mediaType": "application/json",
-      "sha256": "15e577c365cd58a4ac2efd490a0dad1b8db5da556685467d8e7ea2bfac84aa19"
+      "sha256": "d60c10f235848cdc9d9860c1a6390a2bd4f351b59c39f3b36027098a6a6a1d7b"
     },
     {
-      "path": "files/record-index-8e41ad625dc9eb271406d7e7.json",
+      "path": "files/record-index-bb9d8f500fab7e97b5a6b361.json",
       "role": "record-index",
-      "bytes": 54716,
+      "bytes": 67208,
       "mediaType": "application/json",
-      "sha256": "8e41ad625dc9eb271406d7e7ad80ea79a509b4f8281a8cd45928a6e45997fdce"
+      "sha256": "bb9d8f500fab7e97b5a6b361fa3d915e1a9df59c1997c332c183982ce0696b45"
     },
     {
-      "path": "files/relations-902067377fab2ea1945ee482.json",
+      "path": "files/relations-5ab3c6b2183ec60bcfe1e377.json",
       "role": "relations",
-      "bytes": 20632,
+      "bytes": 23815,
       "mediaType": "application/json",
-      "sha256": "902067377fab2ea1945ee482e942edc256ced60a42fa9b0a5809d78042cee79d"
+      "sha256": "5ab3c6b2183ec60bcfe1e377ef9cbac71e86024ee9e85bde97e4a70be59efabd"
     },
     {
-      "path": "files/search-de-60dedb5e030e4d6f5251380e.json",
+      "path": "files/search-de-6db56329b33f7f7bf03441e7.json",
       "role": "search",
-      "bytes": 32397,
+      "bytes": 44589,
       "mediaType": "application/json",
-      "sha256": "60dedb5e030e4d6f5251380e5773c5cf3b2f3667e6f74bc4caca9fe10d9000d9"
+      "sha256": "6db56329b33f7f7bf03441e725c5187b1cd94ba91ad9b93aa14e3f8ae41ebbee"
     },
     {
-      "path": "files/search-en-60dedb5e030e4d6f5251380e.json",
+      "path": "files/search-en-6db56329b33f7f7bf03441e7.json",
       "role": "search",
-      "bytes": 32397,
+      "bytes": 44589,
       "mediaType": "application/json",
-      "sha256": "60dedb5e030e4d6f5251380e5773c5cf3b2f3667e6f74bc4caca9fe10d9000d9"
+      "sha256": "6db56329b33f7f7bf03441e725c5187b1cd94ba91ad9b93aa14e3f8ae41ebbee"
     },
     {
-      "path": "files/spatial-46bf468c87cffd29c45f43ba.json",
+      "path": "files/spatial-0582e896294aac499d809445.json",
       "role": "spatial",
-      "bytes": 8401,
+      "bytes": 8979,
       "mediaType": "application/json",
-      "sha256": "46bf468c87cffd29c45f43baad1f4c13e074444bb9199763fa94b9aa4532be4c"
+      "sha256": "0582e896294aac499d80944597c06959eae89fe664aaddb0c7f82f3e0f17331f"
+    },
+    {
+      "path": "files/text-01035e62fe576d242e6a1ed5.md",
+      "role": "text",
+      "bytes": 3409,
+      "mediaType": "text/markdown",
+      "sha256": "01035e62fe576d242e6a1ed5dbe906bb8027fa00d698dae5a1678bb2efa754cc"
     },
     {
       "path": "files/text-2801a73a09b230fa9e493d1a.md",
@@ -379,6 +432,13 @@
       "sha256": "6e4d54dece786b1c4ff5f359c448cb2247f185f30906ae4879c0a57eb86bffd2"
     },
     {
+      "path": "files/text-7781ef0eb96141e84a075d94.md",
+      "role": "text",
+      "bytes": 2944,
+      "mediaType": "text/markdown",
+      "sha256": "7781ef0eb96141e84a075d94de2f0c45c0f31ca1899f99da69f0b86a8bbfa0e1"
+    },
+    {
       "path": "files/text-7da869499631dcbc9b869139.md",
       "role": "text",
       "bytes": 1416,
@@ -400,24 +460,24 @@
       "sha256": "e91e4f6a74e5636065217da44776def7d1de5f83ee11e724d20e9b84295f2687"
     },
     {
-      "path": "files/time-c0198b1dd08999748946caaa.json",
+      "path": "files/time-dc27117987398fe51c3807e1.json",
       "role": "time",
-      "bytes": 6172,
+      "bytes": 22587,
       "mediaType": "application/json",
-      "sha256": "c0198b1dd08999748946caaa81467d762c50751884e35a2dc2a0e5d11c138593"
+      "sha256": "dc27117987398fe51c3807e1df4d6066633296c7d9b03471c03c7f061e80b480"
     }
   ],
   "entrypoints": {
-    "discovery": "files/discovery-110905f125f216ca1696613f.json",
-    "recordIndex": "files/record-index-8e41ad625dc9eb271406d7e7.json",
+    "discovery": "files/discovery-3805c177c6b7cfa37ac26ddc.json",
+    "recordIndex": "files/record-index-bb9d8f500fab7e97b5a6b361.json",
     "search": {
-      "de": "files/search-de-60dedb5e030e4d6f5251380e.json",
-      "en": "files/search-en-60dedb5e030e4d6f5251380e.json"
+      "de": "files/search-de-6db56329b33f7f7bf03441e7.json",
+      "en": "files/search-en-6db56329b33f7f7bf03441e7.json"
     },
-    "time": "files/time-c0198b1dd08999748946caaa.json",
-    "relations": "files/relations-902067377fab2ea1945ee482.json",
-    "spatial": "files/spatial-46bf468c87cffd29c45f43ba.json",
+    "time": "files/time-dc27117987398fe51c3807e1.json",
+    "relations": "files/relations-5ab3c6b2183ec60bcfe1e377.json",
+    "spatial": "files/spatial-0582e896294aac499d809445.json",
     "defaultChapterId": "chapter:columbus-first-voyage"
   },
-  "licenseInventory": "files/licenses-2ca5c28c93e588f8c9262405.json"
+  "licenseInventory": "files/licenses-702b2e7bc09611b8c372e9a1.json"
 }
