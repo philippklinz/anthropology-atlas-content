@@ -56,3 +56,13 @@ Media retain their own rights independently of the repository's GPL license. No 
 ## Publication and review
 
 All 40 new records remain research drafts. Structural validation is not independent historical peer review. The toolkit is deliberately pinned to engine commit `c2f02195e1b9f550f598e39b9b12a03d5458cc6c`, compiler `0.1.0-dev.7`, adding typed genetic relationships without an npm/Node toolchain. Browser export and verification results are recorded after source commit and compilation.
+
+## Export and browser verification
+
+- Committed canonical source: `e82c3993418d6d73be7efa7bb4c702457c1d2685`; ZIP made with `git archive` from that commit (340 selected source and payload files).
+- Browser export: `draft-bf7cd701bf7265e53458`, 264 records, **0 errors and 0 warnings**; compiler `0.1.0-dev.7`.
+- Catalogue SHA-256: `680677cef9b39b463c8d307be917902170575ae7704cf0267f3dbad5852383dc`. All catalogued file sizes and hashes verified; previously committed hashed payloads retained.
+- Browser checks: direct chapter opening; four visible findsite markers; selected Denisova event highlighted; BP uncertainty ranges; the Denisova ancestry graph; cited Ranis4–Zlatý kůň relationship; visible relationship explanations in DE and EN; chapter overview text in both languages; local full-image viewer (Bacho Kiro, 1024 × 768); working image license links; Back/Forward; discovery search for `Ranis` returns this chapter.
+- Scoped navigation: four fossil individuals, four events and four places in this chapter. Combined with the two previous human-origins chapters: chronological menu order, eleven fossils and eleven events, and exactly one shared Homo sapiens identity carrying all three chapter badges.
+- Engine browser regression suite: 39/39 passed for the genetics extension. The reader's assertion-note display and CC license links were additionally checked in-browser; static checks passed. No Node/npm installation or build step was introduced.
+- Browser rendering used the SVG fallback because WebGL2 is unavailable in the test environment. GPU globe rendering was not verified here.
