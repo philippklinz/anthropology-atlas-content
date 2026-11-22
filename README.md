@@ -8,7 +8,7 @@ Three bounded historical chapters are available in German and English:
 - [The first circumnavigation, 1519–1522](docs/research/first-circumnavigation.md).
 - [Darwin and the second Beagle voyage, 1831–1836](docs/research/darwin-beagle.md), including his four Galápagos island stays.
 
-The dataset contains 157 records: 52 entities, 43 events, one assertion, 37 geometries, 17 sources, three chapters and four packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
+The dataset contains 158 records: 52 entities, 43 events, one assertion, 37 geometries, 18 sources, three chapters and four packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
 
 `published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it.
 
