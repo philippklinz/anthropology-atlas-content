@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:zlaty-kun-koneprusy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    },
+    {
+      "sourceId": "source:caves-cz-koneprusy",
+      "role": "supports",
+      "locator": "Official site description and GPS 49°54′58″N, 14°04′08″E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Zlatý kůň · Koněprusy, Tschechien",
+    "en": "Zlatý kůň · Koněprusy, Czechia"
+  },
+  "summary": {
+    "de": "Die Koněpruské-Höhlen beim Hügel Zlatý kůň lieferten einen frühen Homo-sapiens-Schädel. Die Fundbezeichnung ist kein überlieferter Personenname.",
+    "en": "The Koněprusy caves near Zlatý kůň hill yielded an early Homo sapiens skull. The find designation is not a preserved personal name."
+  }
+}

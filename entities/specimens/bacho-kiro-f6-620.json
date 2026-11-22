@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:bacho-kiro-f6-620",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hajdinjak-bacho-kiro-2021",
+      "role": "supports",
+      "locator": "Main text, sampled individuals and Neanderthal ancestry; Fig. 3: recent ancestry in the early Bacho Kiro individuals, including F6-620"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "F6-620 · ein Mensch aus Bacho Kiro",
+    "en": "F6-620 · an individual from Bacho Kiro"
+  },
+  "summary": {
+    "de": "Unterer Backenzahn eines männlichen Homo sapiens. Die DNA enthält lange Abschnitte von Neandertaler-Abstammung; die Studie von 2021 erschließt daraus Vorfahren wenige Generationen zuvor. Ein Neandertaler-Elternteil wird damit nicht behauptet. F6-620 und Knochenfragment AA7-738 stammen der Genomanalyse zufolge wahrscheinlich vom selben Menschen.",
+    "en": "A lower molar of a male Homo sapiens. Its DNA contains long segments of Neanderthal ancestry; the 2021 study infers ancestors a few generations earlier. This does not establish a Neanderthal parent. Genome analysis suggests F6-620 and bone fragment AA7-738 most likely belonged to the same individual."
+  }
+}

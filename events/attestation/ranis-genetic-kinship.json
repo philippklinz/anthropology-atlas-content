@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ranis-genetic-kinship",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    },
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Introduction, manuscript lines 43–49: eleven Ranis bones collectively directly dated to 42,200–49,540 cal BP at 95.4% probability"
+    },
+    {
+      "sourceId": "source:smith-ranis-ecology-2024",
+      "role": "supports",
+      "locator": "Abstract; Discussion; reporting summary, research location: cold open environment, brief human occupations and site coordinates"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ranis · eine Verbindung zu Zlatý kůň",
+    "en": "Ranis · a connection to Zlatý kůň"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 49540,
+      "younger": 42200,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:ranis-4",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+        },
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Introduction, manuscript lines 43–49: eleven Ranis bones collectively directly dated to 42,200–49,540 cal BP at 95.4% probability"
+        },
+        {
+          "sourceId": "source:smith-ranis-ecology-2024",
+          "role": "supports",
+          "locator": "Abstract; Discussion; reporting summary, research location: cold open environment, brief human occupations and site coordinates"
+        }
+      ]
+    },
+    {
+      "entityId": "taxon:homo-sapiens",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+        },
+        {
+          "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+          "role": "supports",
+          "locator": "Introduction, manuscript lines 43–49: eleven Ranis bones collectively directly dated to 42,200–49,540 cal BP at 95.4% probability"
+        },
+        {
+          "sourceId": "source:smith-ranis-ecology-2024",
+          "role": "supports",
+          "locator": "Abstract; Discussion; reporting summary, research location: cold open environment, brief human occupations and site coordinates"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:ranis-ilsenhoehle"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ranis-ilsenhoehle-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Genetische Zuordnung und Datierung beruhen auf den angegebenen Forschungsmodellen.",
+      "en": "Genetic identification and dating rely on the cited research models."
+    }
+  },
+  "note": {
+    "de": "Die 11 datierten menschlichen Knochen aus Ranis umfassen zusammen etwa 49.540–42.200 kalibrierte Jahre BP (95,4 % in der zitierten Studie). Der Atlas verwendet diese Hülle als Fundkontext von Ranis4, nicht als dessen individuelle Messung oder Lebensdauer.",
+    "en": "The 11 dated human bones from Ranis collectively span approximately 49,540–42,200 calibrated years BP (95.4% in the cited study). The atlas uses this envelope as the context of Ranis4, not as that individual’s own measurement or lifespan."
+  }
+}

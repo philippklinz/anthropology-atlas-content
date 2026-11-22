@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:brown-denisova-chronology-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The earliest Denisovans and their cultural adaptation",
+  "sourceType": "article",
+  "creators": [
+    "Samantha Brown",
+    "Diyendo Massilani",
+    "Maxim B. Kozlikin",
+    "et al."
+  ],
+  "url": "https://massilani-lab.com/wp-content/uploads/2022/12/BrownMassilani_NatEcoEvo2021.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "published": "2021",
+  "identifiers": {
+    "doi": "10.1038/s41559-021-01581-2"
+  },
+  "bibliographicNote": "Published online in 2021; Nature Ecology & Evolution 6 (2022), 28–35. Author-hosted full article consulted, especially Fig. 3b and caption: Denisova 11, 79.3–118.1 ka, from the Bayesian chronology of Douka et al. (2019). The chapter does not treat this range as a lifespan or occupation duration."
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tsanova-bacho-kiro-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Curated character of the Initial Upper Palaeolithic lithic artefact assemblages in Bacho Kiro Cave (Bulgaria)",
+  "sourceType": "article",
+  "creators": [
+    "Tsenka Tsanova",
+    "Vincent Delvigne",
+    "Svoboda Sirakova",
+    "et al."
+  ],
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0307435",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "published": "2024-09-04",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0307435"
+  },
+  "bibliographicNote": "PLOS ONE 19(9), e0307435. Background and Fig. 1 consulted for site geography; location 42°56′48″N, 25°25′49″E. Lithic distributions are not used here as genetic or migration evidence."
+}

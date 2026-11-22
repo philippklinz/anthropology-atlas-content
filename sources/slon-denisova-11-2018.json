@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:slon-denisova-11-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The genome of the offspring of a Neanderthal mother and a Denisovan father",
+  "sourceType": "article",
+  "creators": [
+    "Viviane Slon",
+    "Fabrizio Mafessoni",
+    "Benjamin Vernot",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1038/s41586-018-0455-x",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "published": "2018",
+  "identifiers": {
+    "doi": "10.1038/s41586-018-0455-x"
+  },
+  "bibliographicNote": "Nature 561, 113–116. Original article and figures consulted in the public author PDF hosted by Universidade de São Paulo. Nuclear and mitochondrial DNA support the parental-lineage inference; the cortical-thickness estimate is at least 13 years, not an exact age."
+}

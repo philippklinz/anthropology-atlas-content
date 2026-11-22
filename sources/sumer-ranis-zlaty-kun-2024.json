@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:sumer-ranis-zlaty-kun-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Earliest modern human genomes constrain timing of Neanderthal admixture",
+  "sourceType": "article",
+  "creators": [
+    "Arev P. Sümer",
+    "Hélène Rougier",
+    "Vanessa Villalba-Mouco",
+    "et al."
+  ],
+  "url": "https://discovery.ucl.ac.uk/id/eprint/10203056/1/s41586-024-08420-x_reference.pdf",
+  "accessedAt": "2026-11-22",
+  "language": "en",
+  "published": "2024-12-12",
+  "identifiers": {
+    "doi": "10.1038/s41586-024-08420-x"
+  },
+  "bibliographicNote": "Nature, online publication 12 December 2024. UCL-hosted Accelerated Article Preview consulted. Locators below use its section headings and numbered manuscript lines. Ranis4 and Ranis12, rather than Ranis13, are the individuals inferred to be fifth- or sixth-degree relatives of Zlatý kůň. Genetic dates and direct radiocarbon ages are distinguished."
+}

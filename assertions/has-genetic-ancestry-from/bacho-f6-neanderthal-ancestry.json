@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:bacho-f6-neanderthal-ancestry",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hajdinjak-bacho-kiro-2021",
+      "role": "supports",
+      "locator": "Main text, sampled individuals and Neanderthal ancestry; Fig. 3: recent ancestry in the early Bacho Kiro individuals, including F6-620"
+    }
+  ],
+  "subjectId": "specimen:bacho-kiro-f6-620",
+  "predicate": "has-genetic-ancestry-from",
+  "objectId": "taxon:neanderthals",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 45930,
+      "younger": 42580,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Lange ererbte DNA-Abschnitte stützen vergleichsweise nahe Neandertaler-Vorfahren. Das Modell von 2021 schätzt für F6-620 weniger als sechs Generationen; die Schätzung ist modellabhängig, kein überlieferter Stammbaum. Die Zeit markiert den Fundkontext, nicht das frühere Abstammungsereignis.",
+      "en": "Long inherited DNA segments support comparatively recent Neanderthal ancestors. The 2021 model estimates fewer than six generations for F6-620; this is model-dependent, not a preserved family tree. The date marks the specimen’s context, not the earlier ancestry event."
+    }
+  },
+  "note": {
+    "de": "Lange ererbte DNA-Abschnitte stützen vergleichsweise nahe Neandertaler-Vorfahren. Das Modell von 2021 schätzt für F6-620 weniger als sechs Generationen; die Schätzung ist modellabhängig, kein überlieferter Stammbaum. Die Zeit markiert den Fundkontext, nicht das frühere Abstammungsereignis.",
+    "en": "Long inherited DNA segments support comparatively recent Neanderthal ancestors. The 2021 model estimates fewer than six generations for F6-620; this is model-dependent, not a preserved family tree. The date marks the specimen’s context, not the earlier ancestry event."
+  }
+}

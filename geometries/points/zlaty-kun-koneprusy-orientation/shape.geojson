@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:zlaty-kun-koneprusy-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.069,
+      49.916
+    ]
+  }
+}

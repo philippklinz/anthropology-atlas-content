@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:zlaty-kun",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Sections Genetic identification of human remains / Genetic relationships; Fig. 2: Ranis individuals and Zlatý kůň, including fifth- or sixth-degree kinship with Ranis4"
+    },
+    {
+      "sourceId": "source:sumer-ranis-zlaty-kun-2024",
+      "role": "supports",
+      "locator": "Dating Zlatý kůň, manuscript lines 225–234: adhesive contamination, shared IBD age comparison around 45 ka and molecular estimates around 47–48 ka with large uncertainty"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Die Frau von Zlatý kůň",
+    "en": "The woman from Zlatý kůň"
+  },
+  "summary": {
+    "de": "Ein früher Homo-sapiens-Schädel aus den Koněpruské-Höhlen. Alte Konservierungsmittel erschweren die direkte Radiokohlenstoff-Datierung. DNA-Vergleiche verbinden die Frau mit Menschen aus Ranis und stützen eine zeitliche Einordnung um 45.000 Jahre; andere molekulare Modelle ergeben etwa 47.000–48.000 Jahre mit großer Unsicherheit.",
+    "en": "An early Homo sapiens skull from the Koněprusy caves. Old conservation adhesives complicate direct radiocarbon dating. DNA comparisons connect this woman to people from Ranis and support an age around 45,000 years; other molecular models yield about 47,000–48,000 years with substantial uncertainty."
+  }
+}

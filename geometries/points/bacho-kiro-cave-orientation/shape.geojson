@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:bacho-kiro-cave-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.43,
+      42.947
+    ]
+  }
+}
