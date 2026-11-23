@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:eynan-shelters-131-51",
+  "sourceRefs": [
+    {
+      "sourceId": "source:haklay-gopher-eynan-2015",
+      "role": "supports",
+      "locator": "pp. 1–3, The site of Eynan and Shelter 131/51; pp. 10–13, proposed regrouping and Fig. 9"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Eynan · übereinanderliegende Bauten",
+    "en": "Eynan · buildings in successive layers"
+  },
+  "summary": {
+    "de": "Böden, Steinmauern, Feuerstellen und Pfostenlöcher geben Hinweise auf mehrere Bauphasen. Die Zuordnung einzelner Pfosten ist Gegenstand der Rekonstruktion.",
+    "en": "Floors, stone walls, hearths and postholes point to several building phases. Assigning individual posts is part of the reconstruction."
+  }
+}

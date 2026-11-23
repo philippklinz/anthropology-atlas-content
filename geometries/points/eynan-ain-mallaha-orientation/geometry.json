@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:eynan-ain-mallaha-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:khalaily-eynan-field-report-2016",
+      "role": "supports",
+      "locator": "Opening paragraphs, excavation map reference 253848–975/776237–374; Hula Valley setting"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktionelle Toleranz der Fundortlage.",
+      "en": "Editorial site-location allowance."
+    }
+  },
+  "processingNote": {
+    "de": "Mittelpunkt der angegebenen Koordinatenspanne. Israel Transverse Mercator als Quellgitter interpretiert, nach WGS84 umgerechnet und gerundet.",
+    "en": "Midpoint of reported grid range. Interpreted as Israel Transverse Mercator, transformed to WGS84 and rounded."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors",
+    "originNote": "Site orientation point from published grid coordinates."
+  }
+}

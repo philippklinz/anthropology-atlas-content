@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:shubayqa-hearth-food-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:arranz-otaegui-shubayqa-bread-2018",
+      "role": "supports",
+      "locator": "pp. 7925–7928, introduction following Fig. 2, the seven dates and successive hearths; Identification of Bread-Like Remains, Fig. 3 and ingredients"
+    },
+    {
+      "sourceId": "source:richter-shubayqa-2017",
+      "role": "supports",
+      "locator": "pp. 2–4, Structure 1, site setting and model of early phases"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Shubayqa 1 · Feuerstellen und brotartige Speisen",
+    "en": "Shubayqa 1 · hearths and bread-like foods"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14400,
+      "younger": 14200,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Datierter Kontext der aufeinanderfolgenden Feuerstellen von Struktur 1. Die Zahl der Tage oder Jahre, in denen Menschen solche Speisen zubereiteten, bleibt offen.",
+    "en": "Date context of the successive hearths in Structure 1. The number of days or years in which people prepared these foods remains open."
+  },
+  "participants": [
+    {
+      "entityId": "specimen:shubayqa-charred-food",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:shubayqa-structure-1",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:shubayqa-1"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:shubayqa-1-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Verkohlte Speisen sind erhalten. Mikroskopische Struktur und Einschlüsse stützen die Deutung als brotartig.",
+      "en": "Charred food survives. Microscopic structure and inclusions support its interpretation as bread-like."
+    }
+  }
+}

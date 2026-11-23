@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:postglacial-dwellings",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Wiederkommen und bleiben",
+    "en": "Places to Return To"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:deglaciation"
+  ],
+  "recordIds": [
+    "artifact:eynan-shelters-131-51",
+    "artifact:wf16-structure-o75",
+    "asset:eynan-shelter-51-plan",
+    "asset:wf16-o75-excavation",
+    "chapter:places-to-return-to",
+    "event:eynan-repeated-building-evidence",
+    "event:shubayqa-hearth-food-evidence",
+    "event:wf16-o75-architecture-evidence",
+    "geometry:eynan-ain-mallaha-orientation",
+    "geometry:wadi-faynan-16-orientation",
+    "place:eynan-ain-mallaha",
+    "place:wadi-faynan-16",
+    "source:arranz-otaegui-shubayqa-bread-2018",
+    "source:finlayson-wf16-field-report-2009",
+    "source:haklay-gopher-eynan-2015",
+    "source:khalaily-eynan-field-report-2016",
+    "source:mithen-wf16-birds-2022",
+    "source:wicks-wf16-chronology-2016",
+    "specimen:shubayqa-charred-food"
+  ],
+  "entryChapterIds": [
+    "chapter:places-to-return-to"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

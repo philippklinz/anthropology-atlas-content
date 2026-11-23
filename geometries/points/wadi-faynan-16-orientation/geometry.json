@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:wadi-faynan-16-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:finlayson-wf16-field-report-2009",
+      "role": "supports",
+      "locator": "Introduction, Fig. 1 and grid reference 36R 3390442N 0739824E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktionelle Toleranz der Fundortlage.",
+      "en": "Editorial site-location allowance."
+    }
+  },
+  "processingNote": {
+    "de": "Aus 36R 739824 E, 3390442 N. Als UTM Zone 36N (WGS84) interpretiert, umgerechnet und gerundet.",
+    "en": "From 36R 739824 E, 3390442 N. Interpreted as WGS84 UTM zone 36N, transformed and rounded."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors",
+    "originNote": "Site orientation point from published grid coordinates."
+  }
+}

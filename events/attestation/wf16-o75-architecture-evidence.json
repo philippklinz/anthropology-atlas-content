@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:wf16-o75-architecture-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:wicks-wf16-chronology-2016",
+      "role": "supports",
+      "locator": "Structure O75, Fig. 4, Fig. 21, and Table 2: row O75 strat. model, 68.2% estimates on the lower and upper boundaries"
+    },
+    {
+      "sourceId": "source:mithen-wf16-birds-2022",
+      "role": "supports",
+      "locator": "Abstract and Discussion, seasonality of bird taxa and proposed annual pattern of human activity at WF16"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Wadi Faynan 16 · eingetiefter Bau O75",
+    "en": "Wadi Faynan 16 · sunken Structure O75"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 11740,
+      "younger": 11280,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 10680,
+      "younger": 10260,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Die Grenzen aus Wicks et al., Tabelle 2, beziehen sich auf modellierte Aktivität im Bereich O75 (je 68,2 %). Sie ergeben kein genaues Baujahr. Vogelknochen stammen aus verschiedenen Kontexten des Fundplatzes.",
+    "en": "The boundaries from Wicks et al., Table 2, model activity in the area of O75 (68.2% each). They do not give an exact construction year. Bird bones come from several contexts at the site."
+  },
+  "participants": [
+    {
+      "entityId": "artifact:wf16-structure-o75",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:wadi-faynan-16"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:wadi-faynan-16-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Bau ist ausgegraben. Gemeinschaftliche Nutzung und der jährliche Wechsel der Anwesenden sind Deutungen.",
+      "en": "The building has been excavated. Communal use and annual variation in attendance are interpretations."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:shubayqa-charred-food",
+  "sourceRefs": [
+    {
+      "sourceId": "source:arranz-otaegui-shubayqa-bread-2018",
+      "role": "supports",
+      "locator": "pp. 7925–7928, introduction following Fig. 2, the seven dates and successive hearths; Identification of Bread-Like Remains, Fig. 3 and ingredients"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Shubayqa 1 · verkohlte Speisereste",
+    "en": "Shubayqa 1 · charred food remains"
+  },
+  "summary": {
+    "de": "Poröse Klümpchen aus den Feuerstellen enthalten unter anderem Getreidegewebe. Die Forschenden ordnen sie als brotartige Speisen ein.",
+    "en": "Porous lumps from the hearths contain cereal tissue among other plant remains. Researchers interpret them as bread-like foods."
+  }
+}

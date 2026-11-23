@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:khalaily-eynan-field-report-2016",
+  "sourceRefs": [],
+  "title": "‘Enot ‘Eynan",
+  "creators": [
+    "Hamoudi Khalaily"
+  ],
+  "sourceType": "article",
+  "published": "2016",
+  "containerTitle": "Hadashot Arkheologiyot 128, Israel Antiquities Authority",
+  "url": "https://hadashot.iaa.org.il/report_detail_eng.aspx?id=24927&mag_id=124",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavator report consulted for site setting and grid reference."
+}

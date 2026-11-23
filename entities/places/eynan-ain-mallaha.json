@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:eynan-ain-mallaha",
+  "sourceRefs": [
+    {
+      "sourceId": "source:haklay-gopher-eynan-2015",
+      "role": "supports",
+      "locator": "pp. 1–3, The site of Eynan and Shelter 131/51; pp. 10–13, proposed regrouping and Fig. 9"
+    },
+    {
+      "sourceId": "source:khalaily-eynan-field-report-2016",
+      "role": "supports",
+      "locator": "Opening paragraphs, excavation map reference 253848–975/776237–374; Hula Valley setting"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Eynan · Ain Mallaha",
+    "en": "Eynan · Ain Mallaha"
+  },
+  "summary": {
+    "de": "Fundplatz im Hula-Tal nahe einer Quelle. Böden und Mauern zeigen mehrere natufische Nutzungsphasen.",
+    "en": "Site in the Hula Valley close to a spring. Floors and walls show several Natufian phases of use."
+  }
+}

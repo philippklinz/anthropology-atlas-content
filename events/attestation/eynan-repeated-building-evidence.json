@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:eynan-repeated-building-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:haklay-gopher-eynan-2015",
+      "role": "supports",
+      "locator": "pp. 1–3, The site of Eynan and Shelter 131/51; pp. 10–13, proposed regrouping and Fig. 9"
+    },
+    {
+      "sourceId": "source:khalaily-eynan-field-report-2016",
+      "role": "supports",
+      "locator": "Opening paragraphs, excavation map reference 253848–975/776237–374; Hula Valley setting"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eynan · Böden, Mauern und mehrere Bauphasen",
+    "en": "Eynan · floors, walls and successive building phases"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 15000,
+      "younger": 15000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 12000,
+      "younger": 12000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Gerundeter Rahmen der natufischen Fundplatzphasen nach Haklay und Gopher. Die hier behandelten Bauten 131/51 und 62 gehören in den frühen Teil der Abfolge.",
+    "en": "Rounded envelope of Natufian site phases after Haklay and Gopher. Structures 131/51 and 62 belong to the early part of the sequence."
+  },
+  "participants": [
+    {
+      "entityId": "artifact:eynan-shelters-131-51",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:eynan-ain-mallaha"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:eynan-ain-mallaha-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Abfolge der Baureste belegt. Dachform und Zuordnung einzelner Pfosten bleiben Gegenstand der Rekonstruktion.",
+      "en": "The sequence of structures is attested. Roof form and the assignment of individual posts remain matters of reconstruction."
+    }
+  }
+}

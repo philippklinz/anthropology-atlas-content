@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:arranz-otaegui-shubayqa-bread-2018",
+  "sourceRefs": [],
+  "title": "Archaeobotanical evidence reveals the origins of bread 14,400 years ago in northeastern Jordan",
+  "creators": [
+    "Amaia Arranz-Otaegui",
+    "Lara Gonzalez Carretero",
+    "Monica N. Ramsey",
+    "Dorian Q. Fuller",
+    "Tobias Richter"
+  ],
+  "sourceType": "article",
+  "published": "2018",
+  "containerTitle": "PNAS 115(31), 7925–7930",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6077754/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Published main paper consulted. The contextual radiocarbon dates concern the two hearths. The figures have CC BY-NC-ND terms and are linked bibliographically.",
+  "identifiers": {
+    "doi": "10.1073/pnas.1801071115"
+  }
+}
