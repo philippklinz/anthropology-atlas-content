@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:page-ladson-biface",
+  "sourceRefs": [
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "supports",
+      "locator": "Results, Archaeology and extinctions, pp. 4–5, and Fig. 2C, F, H: biface 12080-1, Unit 3c, and seven adjacent dates"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Page-Ladson · beidseitig bearbeitetes Steingerät",
+    "en": "Page-Ladson · bifacial stone tool"
+  },
+  "summary": {
+    "de": "Steingerät 12080-1 aus Schicht 3c. Die Forschenden beschreiben es als überarbeitetes Messerfragment. Sein Alter folgt aus datiertem Material aus der Umgebung.",
+    "en": "Stone artefact 12080-1 from Unit 3c. Its excavators describe it as a reworked knife fragment. Its dating comes from adjacent material."
+  }
+}

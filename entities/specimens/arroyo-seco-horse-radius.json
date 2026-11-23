@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:arroyo-seco-horse-radius",
+  "sourceRefs": [
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "supports",
+      "locator": "Introduction, p. 2; Table 1, UCIAMS-142842; Fig. 8 and Taphonomy, pp. 15–17: age and opposing notches on the Equus neogeus radius"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Arroyo Seco 2 · Pferdespeiche",
+    "en": "Arroyo Seco 2 · horse radius"
+  },
+  "summary": {
+    "de": "Direkt datierter Knochen der ausgestorbenen Pferdeart Equus neogeus mit Kerben und Absplitterungen an gegenüberliegenden Seiten.",
+    "en": "Directly dated radius of the extinct horse Equus neogeus with opposing notches and flake scars."
+  }
+}

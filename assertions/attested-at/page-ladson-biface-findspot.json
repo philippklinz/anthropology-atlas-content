@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:page-ladson-biface-findspot",
+  "sourceRefs": [
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "supports",
+      "locator": "Results, Archaeology and extinctions, pp. 4–5, and Fig. 2C, F, H: biface 12080-1, Unit 3c, and seven adjacent dates"
+    }
+  ],
+  "subjectId": "artifact:page-ladson-biface",
+  "predicate": "attested-at",
+  "objectId": "place:page-ladson",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14550,
+      "younger": 14550,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Objekt ist an diesem Fundort dokumentiert. Die Datierung ist eine Alters- oder Fundkontextschätzung.",
+      "en": "The object is documented at this findsite. The date is an age or contextual estimate."
+    }
+  }
+}

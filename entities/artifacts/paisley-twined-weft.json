@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:paisley-twined-weft",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "supports",
+      "locator": "Results, pp. 3–4: S-twist bulrush basket or mat weft and direct AMS result 12,273 ± 56 radiocarbon BP"
+    },
+    {
+      "sourceId": "source:kallenbach-paisley-textiles-2024",
+      "role": "supports",
+      "locator": "Printed p. 75: OxCal 4.4 and IntCal20. Table 1, p. 79, D-AMS 035352 / 1294-PC5-7C-25-1: 14,660–14,080 cal BP, column labelled 1σ"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Paisley · Geflecht aus Pflanzenfasern",
+    "en": "Paisley · twined plant fibres"
+  },
+  "summary": {
+    "de": "Fragment 1294-PC5-7C-25-1, wahrscheinlich aus Teichbinse. S-Drehung und Eindruckspuren sprechen für ein Geflecht. Korb und Matte bleiben mögliche Deutungen.",
+    "en": "Fragment 1294-PC5-7C-25-1, probably bulrush. S-twist and impressions support a twined structure. A basket or mat are possible interpretations."
+  }
+}

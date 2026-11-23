@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:arroyo-seco-horse-radius-findspot",
+  "sourceRefs": [
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "supports",
+      "locator": "Introduction, p. 2; Table 1, UCIAMS-142842; Fig. 8 and Taphonomy, pp. 15–17: age and opposing notches on the Equus neogeus radius"
+    }
+  ],
+  "subjectId": "specimen:arroyo-seco-horse-radius",
+  "predicate": "attested-at",
+  "objectId": "place:arroyo-seco-2",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14147,
+      "younger": 13814,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Objekt ist an diesem Fundort dokumentiert. Die Datierung ist eine Alters- oder Fundkontextschätzung.",
+      "en": "The object is documented at this findsite. The date is an age or contextual estimate."
+    }
+  }
+}

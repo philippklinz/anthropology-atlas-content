@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:page-ladson",
+  "sourceRefs": [
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "supports",
+      "locator": "Results, Archaeology and extinctions, pp. 4–5, and Fig. 2C, F, H: biface 12080-1, Unit 3c, and seven adjacent dates"
+    },
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "derivation",
+      "locator": "Site setting and Fig. 1A: lower Aucilla River and sinkhole about 11.5 km inland from the modern Gulf. Rounded orientation"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Page-Ladson · Florida",
+    "en": "Page-Ladson · Florida"
+  },
+  "summary": {
+    "de": "Heute überfluteter Fundplatz am unteren Aucilla River. Die frühen Funde lagen an einem zeitweise zugänglichen Teichrand.",
+    "en": "A submerged site on the lower Aucilla River. The early finds lay on a periodically accessible pond margin."
+  }
+}

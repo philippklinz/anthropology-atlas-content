@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:many-american-landscapes",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "supports",
+      "locator": "Results, pp. 3–4: S-twist bulrush basket or mat weft and direct AMS result 12,273 ± 56 radiocarbon BP"
+    },
+    {
+      "sourceId": "source:kallenbach-paisley-textiles-2024",
+      "role": "supports",
+      "locator": "Printed p. 75: OxCal 4.4 and IntCal20. Table 1, p. 79, D-AMS 035352 / 1294-PC5-7C-25-1: 14,660–14,080 cal BP, column labelled 1σ"
+    },
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "supports",
+      "locator": "Results, Table 1 and Discussion: faecal lipid biomarkers and human assignments"
+    },
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "supports",
+      "locator": "Results, Archaeology and extinctions, pp. 4–5, and Fig. 2C, F, H: biface 12080-1, Unit 3c, and seven adjacent dates"
+    },
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "supports",
+      "locator": "Results, Archaeology and extinctions, tusk discussion, and Conclusions: tusk marks and unresolved hunting or scavenging"
+    },
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "supports",
+      "locator": "Introduction, p. 2; Table 1, UCIAMS-142842; Fig. 8 and Taphonomy, pp. 15–17: age and opposing notches on the Equus neogeus radius"
+    }
+  ],
+  "labels": {
+    "de": "Amerika: viele Wege, viele Lebensräume",
+    "en": "The Americas: Many Paths, Many Environments"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:paisley-plant-fibre-evidence",
+    "event:page-ladson-biface-evidence",
+    "event:arroyo-seco-horse-radius-evidence",
+    "artifact:paisley-twined-weft",
+    "artifact:page-ladson-biface",
+    "specimen:arroyo-seco-horse-radius"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -93,
+      "latitude": 7,
+      "metersPerPixel": 27500,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 14700,
+        "younger": 14700,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 13800,
+        "younger": 13800,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "paisley",
+      "textAnchor": "paisley",
+      "labels": {
+        "de": "1 · Paisley: Pflanzenfasern",
+        "en": "1 · Paisley: plant fibres"
+      },
+      "summary": {
+        "de": "Ein Geflechtfragment bewahrt Drehungen und Eindrücke. Hier wurde das organische Material selbst datiert.",
+        "en": "A twined fragment preserves twists and impressions. Here the organic object itself was dated."
+      },
+      "state": {
+        "camera": {
+          "longitude": -120.6,
+          "latitude": 42.8,
+          "metersPerPixel": 2300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14700,
+            "younger": 14700,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14000,
+            "younger": 14000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:paisley-cave-blm"
+    },
+    {
+      "id": "page-ladson",
+      "textAnchor": "page-ladson",
+      "labels": {
+        "de": "2 · Page-Ladson: der Teichrand",
+        "en": "2 · Page-Ladson: the pond margin"
+      },
+      "summary": {
+        "de": "Der damalige Teichrand liegt heute unter Wasser. Die Zeitstellung des Steingeräts folgt aus Proben direkt am Fund.",
+        "en": "The former pond margin is submerged today. Samples right next to the stone tool establish its date."
+      },
+      "state": {
+        "camera": {
+          "longitude": -84.0,
+          "latitude": 30.2,
+          "metersPerPixel": 2300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14600,
+            "younger": 14600,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14500,
+            "younger": 14500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "arroyo-seco-2",
+      "textAnchor": "arroyo-seco-2",
+      "labels": {
+        "de": "3 · Arroyo Seco 2: ein gebrochener Knochen",
+        "en": "3 · Arroyo Seco 2: a fractured bone"
+      },
+      "summary": {
+        "de": "Vergleiche die Kerben in den vergrößerten Ausschnitten. Der Bruch und sein Fundzusammenhang helfen bei der Deutung.",
+        "en": "Compare the notches in the enlarged details. The fracture and its archaeological context inform the interpretation."
+      },
+      "state": {
+        "camera": {
+          "longitude": -60.2442,
+          "latitude": -38.3606,
+          "metersPerPixel": 2300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14200,
+            "younger": 14200,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 13800,
+            "younger": 13800,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:arroyo-horse-radius"
+    }
+  ],
+  "recordIds": [
+    "artifact:page-ladson-biface",
+    "artifact:paisley-twined-weft",
+    "assertion:arroyo-seco-horse-radius-findspot",
+    "assertion:page-ladson-biface-findspot",
+    "assertion:paisley-twined-weft-findspot",
+    "asset:arroyo-horse-radius",
+    "asset:paisley-cave-blm",
+    "event:arroyo-seco-horse-radius-evidence",
+    "event:page-ladson-biface-evidence",
+    "event:paisley-plant-fibre-evidence",
+    "geometry:arroyo-seco-2-orientation",
+    "geometry:page-ladson-orientation",
+    "geometry:paisley-caves-orientation",
+    "place:arroyo-seco-2",
+    "place:page-ladson",
+    "place:paisley-caves",
+    "source:blm-paisley-cave-photo-2002",
+    "source:halligan-page-ladson-2016",
+    "source:kallenbach-paisley-textiles-2024",
+    "source:politis-arroyo-seco-2016",
+    "source:shillito-paisley-biomarkers-2020",
+    "specimen:arroyo-seco-horse-radius"
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Drei Fundorte zeigen erhaltene Pflanzenfasern, einen Teichrand unter Wasser und Spuren an einem Pferdeknochen. Ansichtsfenster 14.700–13.800 BP.",
+      "en": "Three sites preserve plant fibres, a submerged pond margin and marks on a horse bone. Viewing window 14,700–13,800 BP."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
+      },
+      {
+        "id": "south-america",
+        "labels": {
+          "de": "Südamerika",
+          "en": "South America"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  }
+}

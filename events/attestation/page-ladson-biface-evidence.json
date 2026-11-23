@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:page-ladson-biface-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "supports",
+      "locator": "Results, Archaeology and extinctions, pp. 4–5, and Fig. 2C, F, H: biface 12080-1, Unit 3c, and seven adjacent dates"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Page-Ladson · Steingerät am Teichrand",
+    "en": "Page-Ladson · stone tool at a pond edge"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14550,
+      "younger": 14550,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:page-ladson-biface",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:page-ladson"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:page-ladson-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Sieben Radiokarbondaten aus der direkten Umgebung ordnen Schicht 3c beim Fund auf ungefähr 14.550 cal BP ein. Das Steingerät wurde in dieser Fundschicht geborgen.",
+    "en": "Seven radiocarbon determinations immediately around the find place Unit 3c here at about 14,550 cal BP. The stone artefact was recovered in that layer."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Das Alter erschließt sich aus datiertem organischem Material und der Schichtfolge.",
+      "en": "The age is inferred from dated organic material and stratigraphy."
+    }
+  }
+}

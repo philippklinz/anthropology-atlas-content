@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:halligan-page-ladson-2016",
+  "sourceRefs": [],
+  "title": "Pre-Clovis occupation 14,550 years ago at the Page-Ladson site, Florida, and the peopling of the Americas",
+  "sourceType": "article",
+  "creators": [
+    "Jessi J. Halligan et al."
+  ],
+  "published": "2016",
+  "url": "https://doi.org/10.1126/sciadv.1600375",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Includes the stratigraphic position of the biface, dates on adjacent samples, and the authors' assessment of mastodon tusk marks. No images from this article are distributed.",
+  "containerTitle": "Science Advances 2(5), e1600375",
+  "identifiers": {
+    "doi": "10.1126/sciadv.1600375"
+  }
+}

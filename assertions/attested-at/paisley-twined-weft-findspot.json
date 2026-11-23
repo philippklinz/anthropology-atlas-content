@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:paisley-twined-weft-findspot",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "supports",
+      "locator": "Results, pp. 3–4: S-twist bulrush basket or mat weft and direct AMS result 12,273 ± 56 radiocarbon BP"
+    },
+    {
+      "sourceId": "source:kallenbach-paisley-textiles-2024",
+      "role": "supports",
+      "locator": "Printed p. 75: OxCal 4.4 and IntCal20. Table 1, p. 79, D-AMS 035352 / 1294-PC5-7C-25-1: 14,660–14,080 cal BP, column labelled 1σ"
+    }
+  ],
+  "subjectId": "artifact:paisley-twined-weft",
+  "predicate": "attested-at",
+  "objectId": "place:paisley-caves",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14660,
+      "younger": 14080,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Objekt ist an diesem Fundort dokumentiert. Die Datierung ist eine Alters- oder Fundkontextschätzung.",
+      "en": "The object is documented at this findsite. The date is an age or contextual estimate."
+    }
+  }
+}

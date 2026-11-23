@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:page-ladson-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.0,
+      30.2
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:shillito-paisley-biomarkers-2020",
+  "sourceRefs": [],
+  "title": "Pre-Clovis occupation of the Americas identified by human fecal biomarkers in coprolites from Paisley Caves, Oregon",
+  "sourceType": "article",
+  "creators": [
+    "Lisa-Marie Shillito",
+    "Helen L. Whelton",
+    "John C. Blong",
+    "Dennis L. Jenkins",
+    "Thomas J. Connolly",
+    "Ian D. Bull"
+  ],
+  "published": "2020",
+  "url": "https://eprints.ncl.ac.uk/265737",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Results identify the S-twist bulrush basket or mat weft and report a direct radiocarbon determination. The calendar range displayed in the atlas follows Kallenbach's 2024 tabulation.",
+  "containerTitle": "Science Advances 6(29), eaba6404",
+  "identifiers": {
+    "doi": "10.1126/sciadv.aba6404"
+  }
+}

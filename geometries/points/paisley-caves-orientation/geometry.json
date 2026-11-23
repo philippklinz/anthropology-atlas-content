@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:paisley-caves-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "derivation",
+      "locator": "Site description and Fig. 2A: Paisley Caves and the Summer Lake basin. Rounded orientation for this atlas"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 10000,
+    "note": {
+      "de": "Grob gerundete Orientierung im Summer-Lake-Becken. Die Lage einzelner Höhlen oder Grabungseinheiten wird hier nicht angegeben.",
+      "en": "Coarse orientation in the Summer Lake basin. The point does not locate individual caves or excavation units."
+    }
+  },
+  "processingNote": {
+    "de": "Grob gerundete Orientierung im Summer-Lake-Becken. Die Lage einzelner Höhlen oder Grabungseinheiten wird hier nicht angegeben.",
+    "en": "Coarse orientation in the Summer Lake basin. The point does not locate individual caves or excavation units."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored orientation point based on cited geographical information. The accuracy allowance is editorial."
+  }
+}
