@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:shanidar-1-survival-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:trinkaus-villotte-shanidar-2017",
+      "role": "supports",
+      "locator": "Materials and methods, last paragraph: contextual age of approximately 50 ka BP and adult age at death"
+    },
+    {
+      "sourceId": "source:trinkaus-villotte-shanidar-2017",
+      "role": "supports",
+      "locator": "Shanidar 1 external auditory exostoses, Fig. 1; Discussion, Pleistocene human social support"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Shanidar 1 · Überleben mit Einschränkungen",
+    "en": "Shanidar 1 · living with impairments"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 50000,
+      "younger": 50000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:shanidar-1",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:trinkaus-villotte-shanidar-2017",
+          "role": "supports",
+          "locator": "Materials and methods, last paragraph: contextual age of approximately 50 ka BP and adult age at death"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:shanidar-cave"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:shanidar-cave-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Mögliche soziale Unterstützung ist eine Deutung der Kombination körperlicher Befunde.",
+      "en": "Possible social support is inferred from the combination of physical evidence."
+    }
+  },
+  "note": {
+    "de": "Die ungefähre Zeitlage folgt Trinkaus und Villotte. Diese deuten die Kombination körperlicher Einschränkungen und das Überleben bis ins Erwachsenenalter als Hinweis auf Unterstützung. Die Knochen erlauben Aussagen über Verletzungen und Einschränkungen. Wer half und wie die Unterstützung aussah, bleibt offen.",
+    "en": "The approximate context age follows Trinkaus and Villotte. The researchers see survival with combined impairments as evidence of possible support. The bones reveal injuries and impairments. Who helped and what support involved remain open questions."
+  }
+}

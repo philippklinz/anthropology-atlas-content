@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:davies-el-sidron-chronology-2015",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Evaluating the transitional mosaic: Frameworks of change from Neanderthals to Homo sapiens in eastern Europe",
+  "sourceType": "article",
+  "creators": [
+    "William Davies",
+    "Dustin White",
+    "Mark Lewis",
+    "Chris Stringer"
+  ],
+  "url": "https://doi.org/10.1016/j.quascirev.2014.12.003",
+  "published": "2015",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1016/j.quascirev.2014.12.003"
+  },
+  "bibliographicNote": "Quaternary Science Reviews 118, pp. 211–242. Table 6a and caption in the author-posted article: alternative calibrations for contextual sample OxA-21776. These limits inform the atlas's outer viewing envelope for the J1 find context."
+}

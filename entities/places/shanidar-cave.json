@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:shanidar-cave",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:trinkaus-villotte-shanidar-2017",
+      "role": "supports",
+      "locator": "Materials and methods, last paragraph: contextual age of approximately 50 ka BP and adult age at death"
+    },
+    {
+      "sourceId": "source:tilby-shanidar-location-2022",
+      "role": "supports",
+      "locator": "Section 1.1, first paragraph: 36°50′N, 44°13′E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Shanidar-Höhle · Irakisch-Kurdistan",
+    "en": "Shanidar Cave · Iraqi Kurdistan"
+  },
+  "summary": {
+    "de": "Karsthöhle in den Vorbergen des Zagros. Grabungen haben hier die Überreste mehrerer Neandertaler freigelegt.",
+    "en": "A karst cave in the Zagros foothills. Excavations have uncovered the remains of several Neanderthals here."
+  },
+  "assetIds": [
+    "asset:shanidar-cave-overview"
+  ]
+}

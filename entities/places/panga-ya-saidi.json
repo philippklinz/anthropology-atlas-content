@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:panga-ya-saidi",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:martinon-torres-panga-burial-2021",
+      "role": "supports",
+      "locator": "Published pp. 95–98; Accepted manuscript, Context and chronology; Primary and intentional deposit, lines 163–225"
+    },
+    {
+      "sourceId": "source:miller-panga-ya-saidi-location-2026",
+      "role": "supports",
+      "locator": "Materials and methods, Previous fieldwork, first paragraph: 3°40′41.4″S, 39°44′09.4″E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Panga ya Saidi · Kenia",
+    "en": "Panga ya Saidi · Kenya"
+  },
+  "summary": {
+    "de": "Höhle im Hinterland der kenianischen Küste. Aus den Schichten der Middle Stone Age stammt eine Grube mit dem Kind Mtoto.",
+    "en": "Cave in the uplands near the Kenyan coast. A pit from Middle Stone Age layers contained the child known as Mtoto."
+  },
+  "assetIds": [
+    "asset:panga-ya-saidi-site"
+  ]
+}

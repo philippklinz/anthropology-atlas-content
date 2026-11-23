@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:commons-panga-ya-saidi-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "File:Panga ya Saidi archaeological site.jpg",
+  "sourceType": "website",
+  "creators": [
+    "Ceri Shipton"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Panga_ya_Saidi_archaeological_site.jpg",
+  "language": "en",
+  "published": "2012-06-26",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "File description and license credit the photograph to Ceri Shipton under CC BY-SA 4.0. The atlas includes the 500-pixel-wide Wikimedia thumbnail."
+}

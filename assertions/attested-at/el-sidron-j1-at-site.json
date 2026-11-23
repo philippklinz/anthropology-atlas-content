@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:el-sidron-j1-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rosas-el-sidron-growth-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript pp. 4–5, Dental histology and skeletal maturation; Figs. 2 and S1–S2; Table S3"
+    },
+    {
+      "sourceId": "source:davies-el-sidron-chronology-2015",
+      "role": "supports",
+      "locator": "Table 6a caption and El Sidrón sample OxA-21776. The calibrated alternatives are 59,730–44,570 and 63,282–43,489 calendar BP."
+    }
+  ],
+  "subjectId": "specimen:el-sidron-j1",
+  "predicate": "attested-at",
+  "objectId": "place:el-sidron-cave",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 63300,
+      "younger": 43400,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Fundzuordnung zum angegebenen Ort. Die Zeitangabe beschreibt den datierten Fundzusammenhang.",
+    "en": "Find attributed to the indicated site. The date describes the archaeological context."
+  }
+}

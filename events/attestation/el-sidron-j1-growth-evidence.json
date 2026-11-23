@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:el-sidron-j1-growth-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rosas-el-sidron-growth-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript pp. 4–5, Dental histology and skeletal maturation; Figs. 2 and S1–S2; Table S3"
+    },
+    {
+      "sourceId": "source:davies-el-sidron-chronology-2015",
+      "role": "supports",
+      "locator": "Table 6a caption and El Sidrón sample OxA-21776. The calibrated alternatives are 59,730–44,570 and 63,282–43,489 calendar BP."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "El Sidrón J1 · wie ein Kind wuchs",
+    "en": "El Sidrón J1 · how a child grew"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 63300,
+      "younger": 43400,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:el-sidron-j1",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:rosas-el-sidron-growth-2017",
+          "role": "supports",
+          "locator": "Accepted manuscript pp. 4–5, Dental histology and skeletal maturation; Figs. 2 and S1–S2; Table S3"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:el-sidron-cave"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:el-sidron-cave-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Zahnhistologie schätzt das Lebensalter. Die Zeitlage des Fundes wird über den Kontext eingeordnet.",
+      "en": "Tooth histology estimates the child's age at death. The find's position on the timeline is estimated from its context."
+    }
+  },
+  "note": {
+    "de": "Die Zeitleiste zeigt einen gerundeten Rahmen für den Fundkontext aus zwei Kalibrierungen des Knochens OxA-21776. Das Lebensalter von 7,69 Jahren stammt aus J1s Zahn. Die meisten untersuchten Entwicklungsmerkmale liegen im Vergleichsbereich heutiger Kinder. Einige Wirbel waren weniger weit gereift.",
+    "en": "The timeline shows a rounded context envelope from two calibrations of bone sample OxA-21776. The age at death of 7.69 years comes from J1's tooth. Most of the developmental features studied fall within the range of modern children. Some vertebrae were less mature."
+  }
+}

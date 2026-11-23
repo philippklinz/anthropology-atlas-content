@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:martinon-torres-panga-burial-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Earliest known human burial in Africa",
+  "sourceType": "article",
+  "creators": [
+    "María Martinón-Torres",
+    "Francesco d’Errico",
+    "Elena Santos",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1038/s41586-021-03457-8",
+  "published": "2021",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1038/s41586-021-03457-8"
+  },
+  "bibliographicNote": "Nature 593, pp. 95–100. Published chronology and the UCL accepted manuscript support the approximate age at death, OSL age estimate of the pit infill and evidence for deliberate burial."
+}

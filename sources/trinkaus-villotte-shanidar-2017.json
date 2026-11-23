@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:trinkaus-villotte-shanidar-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "External auditory exostoses and hearing loss in the Shanidar 1 Neandertal",
+  "sourceType": "article",
+  "creators": [
+    "Erik Trinkaus",
+    "Sébastien Villotte"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0186684",
+  "published": "2017",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0186684"
+  },
+  "bibliographicNote": "PLOS ONE 12(10), e0186684. Materials and methods gives an approximate context age of 50 ka BP. Observations and Discussion distinguish ear canal bone growth, inferred hearing loss and possible human support."
+}

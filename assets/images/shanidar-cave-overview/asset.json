@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:shanidar-cave-overview",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-shanidar-cave-overview",
+      "role": "derivation",
+      "locator": "Summary, Licensing and the thumbnail link under File"
+    }
+  ],
+  "assetType": "image",
+  "file": "shanidar-cave-overview.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Shanidar · Blick aus der Höhle",
+    "en": "Shanidar · view out from the cave"
+  },
+  "alt": {
+    "de": "Blick vom Felsdach der Höhle über die heutige Grabungsfläche auf die Berghänge im irakischen Kurdistan.",
+    "en": "View from beneath the cave roof across the modern excavation area towards hillsides in Iraqi Kurdistan."
+  },
+  "entityIds": [
+    "place:shanidar-cave"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Hardscarf"
+    ],
+    "attribution": "Hardscarf · CC BY-SA 4.0 · Wikimedia Commons",
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Shanidar_Cave_-_overview.jpg/960px-Shanidar_Cave_-_overview.jpg",
+    "originNote": "Wikimedia 960-pixel-wide thumbnail, copied unchanged. Photograph taken 2016-10-17. License: https://creativecommons.org/licenses/by-sa/4.0/ . File description: https://commons.wikimedia.org/wiki/File:Shanidar_Cave_-_overview.jpg"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rosas-el-sidron-growth-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The growth pattern of Neandertals, reconstructed from a juvenile skeleton from El Sidrón (Spain)",
+  "sourceType": "article",
+  "creators": [
+    "Antonio Rosas",
+    "Luis Ríos",
+    "Almudena Estalrrich",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1126/science.aan6463",
+  "published": "2017",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1126/science.aan6463"
+  },
+  "bibliographicNote": "Science 357(6357), pp. 1282–1287. UCL accepted manuscript pp. 3–8, especially pp. 4–5: dental growth marks and comparison of skeletal maturation."
+}

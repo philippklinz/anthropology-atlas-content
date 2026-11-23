@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:shanidar-cave-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.217,
+      36.833
+    ]
+  }
+}

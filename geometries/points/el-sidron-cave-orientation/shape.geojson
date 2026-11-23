@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:el-sidron-cave-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.329,
+      43.384
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:panga-ya-saidi-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-panga-ya-saidi-site",
+      "role": "derivation",
+      "locator": "Summary, Licensing and the thumbnail link under File"
+    }
+  ],
+  "assetType": "image",
+  "file": "panga-ya-saidi-site.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Panga ya Saidi · Grabung 2012",
+    "en": "Panga ya Saidi · excavation in 2012"
+  },
+  "alt": {
+    "de": "Felswände, Bäume und eine Grabungsfläche mit Forschenden in Panga ya Saidi, Kenia.",
+    "en": "Rock walls, trees and an excavation area with researchers at Panga ya Saidi, Kenya."
+  },
+  "entityIds": [
+    "place:panga-ya-saidi"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Ceri Shipton"
+    ],
+    "attribution": "Ceri Shipton · CC BY-SA 4.0 · Wikimedia Commons",
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Panga_ya_Saidi_archaeological_site.jpg/500px-Panga_ya_Saidi_archaeological_site.jpg",
+    "originNote": "Wikimedia 500-pixel-wide thumbnail, copied unchanged. Photograph taken 2012-06-26. License: https://creativecommons.org/licenses/by-sa/4.0/ . File description: https://commons.wikimedia.org/wiki/File:Panga_ya_Saidi_archaeological_site.jpg"
+  }
+}
