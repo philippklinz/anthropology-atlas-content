@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:border-cave-eggshell-beads",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Supplementary Table 1 and released measurement CSV, BC R24 LEVEL 30″ – 1WA (1BS LR): 42,538 calibrated/approximate BP; Fig. 1c and Discussion, Stylistic connection at 50–33 ka"
+    },
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Regional and chronological bead metrics; Discussion, Stylistic connection at 50–33 ka; Fig. 1"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Eierschalenperlen aus Border Cave",
+    "en": "Eggshell beads from Border Cave"
+  },
+  "summary": {
+    "de": "Straußeneierschalenperlen mit unterschiedlichen äußeren Durchmessern und Lochgrößen. Dieser Fundort stellt zwölf der vierzehn südlichen Perlen aus der ältesten Vergleichsphase.",
+    "en": "Ostrich eggshell beads with different outer diameters and aperture sizes. This site supplies twelve of the fourteen southern beads in the earliest comparative phase."
+  },
+  "assetIds": [
+    "asset:eggshell-beads-africa-comparison"
+  ]
+}

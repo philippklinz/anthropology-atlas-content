@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:sehonghong-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:veall-mitchell-sehonghong-2023",
+      "role": "derivation",
+      "locator": "Archaeological and historical context, first paragraph: 28°47′E, 29°46′S"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Redaktioneller Näherungswert zur Orientierung am Fundort.",
+      "en": "Editorial estimate for locating the site."
+    }
+  },
+  "processingNote": {
+    "de": "Aus der publizierten Ortsangabe abgeleiteter Punkt in Dezimalgrad. Die Lage einzelner Funde innerhalb des Fundorts bleibt offen.",
+    "en": "Point in decimal degrees derived from the published locality. Individual objects' positions within the site are unspecified."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Manually authored orientation point derived from published factual coordinates."
+  }
+}

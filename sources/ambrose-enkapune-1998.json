@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ambrose-enkapune-1998",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Chronology of the Later Stone Age and Food Production in East Africa",
+  "sourceType": "article",
+  "creators": [
+    "Stanley H. Ambrose"
+  ],
+  "identifiers": {
+    "doi": "10.1006/jasc.1997.0277"
+  },
+  "url": "https://doi.org/10.1006/jasc.1997.0277",
+  "published": "1998",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Journal of Archaeological Science 25(4), 377–392. The location description provides the Enkapune Ya Muto orientation point. The chapter's chosen bead context age follows Miller and Wang, not Ambrose's uncalibrated dates."
+}

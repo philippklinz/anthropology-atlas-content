@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:strontium-and-material-origins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stewart-eggshell-strontium-2020",
+      "role": "supports",
+      "locator": "Results, Geological Geometry and baseline samples; Discussion and Fig. 6"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Strontium und Materialherkunft",
+    "en": "Strontium and material origins"
+  },
+  "summary": {
+    "de": "Strontium aus Nahrung und Wasser gelangt in die Eierschale. Sein Isotopenverhältnis lässt sich mit Vergleichsproben verschiedener Landschaften abgleichen. Die Eingrenzung hängt von der Geologie, den Vergleichsdaten und dem Lebensraum des Straußes ab.",
+    "en": "Strontium reaches eggshell through food and water. Its isotope ratio can be compared with baseline samples from different landscapes. The result depends on geology, the baseline and viable ostrich habitat."
+  }
+}

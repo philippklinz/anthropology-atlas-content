@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:stewart-eggshell-strontium-2020",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ostrich eggshell bead strontium isotopes reveal persistent macroscale social networking across late Quaternary southern Africa",
+  "sourceType": "article",
+  "creators": [
+    "Brian A. Stewart",
+    "Yuchao Zhao",
+    "Peter J. Mitchell",
+    "Genevieve Dewar",
+    "James D. Gleason",
+    "Joel D. Blum"
+  ],
+  "identifiers": {
+    "doi": "10.1073/pnas.1921037117"
+  },
+  "url": "https://doi.org/10.1073/pnas.1921037117",
+  "published": "2020",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "PNAS 117(12), 6453–6462. Full author-hosted paper. The oldest sampled bead I13-170 is from Sehonghong. Table 1 separates archaeological age and isotope measurement uncertainty. Minimum distances in Fig. 6 and Discussion are measured from the midpoint between both shelters under geological and ecological assumptions."
+}

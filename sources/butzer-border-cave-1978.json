@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:butzer-border-cave-1978",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Lithostratigraphy of Border Cave, KwaZulu, South Africa: a Middle Stone Age sequence beginning c. 195,000 b.p.",
+  "sourceType": "article",
+  "creators": [
+    "Karl W. Butzer",
+    "Peter B. Beaumont",
+    "John C. Vogel"
+  ],
+  "identifiers": {
+    "doi": "10.1016/0305-4403(78)90052-3"
+  },
+  "url": "https://doi.org/10.1016/0305-4403(78)90052-3",
+  "published": "1978",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Journal of Archaeological Science 5(4), 317–341. The Regional Setting, p. 318, provides the coordinate used in the atlas. The literature's older chronological interpretations are outside the scope of this citation."
+}

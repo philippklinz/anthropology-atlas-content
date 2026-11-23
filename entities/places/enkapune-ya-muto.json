@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:enkapune-ya-muto",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ambrose-enkapune-1998",
+      "role": "supports",
+      "locator": "Stratigraphy and Chronology of Enkapune Ya Muto, first paragraph: 36°09′E, 0°50′S"
+    },
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Supplementary Table 1 and released measurement CSV, selected EYM DBL1.4 entries including #5 and #9: 43,448 calibrated/approximate BP"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Enkapune ya Muto · Kenia",
+    "en": "Enkapune ya Muto · Kenya"
+  },
+  "summary": {
+    "de": "Der Felsunterstand liegt am Mau-Steilhang westlich des Naivashasees. Mehrere seiner Straußeneierschalenperlen gingen in den regionalen Vergleich ein.",
+    "en": "The rockshelter stands on the Mau Escarpment west of Lake Naivasha. Several of its ostrich eggshell beads were included in the regional comparison."
+  }
+}

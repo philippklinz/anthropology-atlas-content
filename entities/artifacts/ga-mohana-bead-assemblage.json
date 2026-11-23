@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ga-mohana-bead-assemblage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "supports",
+      "locator": "Ga-Mohana Hill North Rockshelter, DBGS sediment chronology; Results, Technological analysis; Fig. 2 and Table 2"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Ga-Mohana · Perlen und Vorformen",
+    "en": "Ga-Mohana · beads and preforms"
+  },
+  "summary": {
+    "de": "Zum untersuchten Bestand gehören 19 Perlen, neun Vorformen und 21 Eierschalenfragmente. Fast alle Arbeitsstadien sind vertreten. Das spricht dafür, dass die Menschen dort Perlen herstellten.",
+    "en": "The analysed assemblage contains 19 beads, nine preforms and 21 eggshell fragments. Almost every manufacturing stage is represented, supporting bead manufacture at the shelter."
+  },
+  "assetIds": [
+    "asset:ga-mohana-beads-and-preforms"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:eggshell-beads-africa-comparison",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "derivation",
+      "locator": "Fig. 1a–c, study locations and bead photographs; CC BY 4.0 article license"
+    }
+  ],
+  "assetType": "image",
+  "file": "eggshell-beads-africa-comparison.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Perlen aus verschiedenen Fundorten und Zeiten",
+    "en": "Beads from different sites and periods"
+  },
+  "alt": {
+    "de": "Links eine Karte der 31 Fundorte der Studie, daneben fotografierte Perlen aus Ostafrika und dem südlichen Afrika mit 5-mm-Maßstäben. Die Karte umfasst Funde unterschiedlichen Alters. Border Cave erscheint rechts in der zweiten Reihe.",
+    "en": "Map of the 31 study sites on the left, with photographs of eastern and southern African beads and 5 mm scales alongside. The map spans finds of different ages. Border Cave is in the second row on the right."
+  },
+  "entityIds": [
+    "artifact:border-cave-eggshell-beads"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Jennifer M. Miller",
+      "Yiming V. Wang"
+    ],
+    "attribution": "Jennifer M. Miller & Yiming V. Wang · Nature, Fig. 1 · CC BY 4.0",
+    "sourceUrl": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-04227-2/MediaObjects/41586_2021_4227_Fig1_HTML.png",
+    "originNote": "Full figure, proportionally resized and encoded as WebP. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wilkins-kalahari-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Homo sapiens origins and evolution in the Kalahari Basin, southern Africa",
+  "sourceType": "article",
+  "creators": [
+    "Jayne Wilkins"
+  ],
+  "identifiers": {
+    "doi": "10.1002/evan.21914"
+  },
+  "url": "https://doi.org/10.1002/evan.21914",
+  "published": "2021",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Evolutionary Anthropology 30(5), 327–344. Ga-Mohana Hill North coordinate from the site entry in Table 1. The chapter's DBGS date and assemblage follow Hatton et al."
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:ga-mohana-beads-and-preforms",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "derivation",
+      "locator": "Fig. 2, DBGS beads and preforms; article copyright and CC BY 4.0 license"
+    }
+  ],
+  "assetType": "image",
+  "file": "ga-mohana-beads-and-preforms.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Bearbeitungsstadien in Ga-Mohana",
+    "en": "Stages of manufacture at Ga-Mohana"
+  },
+  "alt": {
+    "de": "Beschriftete Aufnahmen der Vorder- und Rückseiten fertiger und unfertiger Eierschalenperlen. Unten ist das noch nicht durchbohrte Stück 4082 abgebildet, daneben Stück 4146 und ein Maßstab mit Abschnitten von je 5 mm.",
+    "en": "Labelled front and back views of finished and unfinished eggshell beads. At the bottom are sample 4082, with a depression instead of a through-hole, sample 4146, and a scale with 5 mm divisions."
+  },
+  "entityIds": [
+    "artifact:ga-mohana-bead-assemblage"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Amy Hatton",
+      "Benjamin Collins",
+      "Benjamin J. Schoville",
+      "Jayne Wilkins"
+    ],
+    "attribution": "Amy Hatton, Benjamin Collins, Benjamin J. Schoville & Jayne Wilkins · PLOS ONE, Fig. 2 · CC BY 4.0",
+    "sourceUrl": "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0268943.g002",
+    "originNote": "Full figure, proportionally resized and encoded as WebP. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:enkapune-eggshell-beads",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Supplementary Table 1 and released measurement CSV, selected EYM DBL1.4 entries including #5 and #9: 43,448 calibrated/approximate BP"
+    },
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Regional and chronological bead metrics; Discussion, Stylistic connection at 50–33 ka; Fig. 1"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Eierschalenperlen aus Enkapune ya Muto",
+    "en": "Eggshell beads from Enkapune ya Muto"
+  },
+  "summary": {
+    "de": "Vermessene, durchbohrte Scheiben aus Straußeneierschale. Mehrere stammen aus dem Fundzusammenhang DBL1.4, den der Datensatz bei rund 43.400 BP einordnet.",
+    "en": "Measured perforated ostrich eggshell discs. Several come from context DBL1.4, placed at about 43,400 BP in the dataset."
+  }
+}

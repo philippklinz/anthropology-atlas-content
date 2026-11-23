@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:sehonghong-bead-i13-170",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stewart-eggshell-strontium-2020",
+      "role": "supports",
+      "locator": "Table 1, Sehonghong sample I13-170, 33.7–31.9 kcal BP; Discussion and Fig. 6, model-based minimum distances"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Sehonghong · Perle I13-170",
+    "en": "Sehonghong · bead I13-170"
+  },
+  "summary": {
+    "de": "Das Stück ist die älteste Perle in der Isotopenstichprobe der Studie von Stewart und Team. Gemessen wurde ein Strontiumverhältnis von 0,718649 ± 0,000013 (zweifacher Standardfehler). Das Verhältnis hilft, mögliche Herkunftsregionen der Eierschale einzugrenzen.",
+    "en": "This is the oldest bead in Stewart and colleagues' isotope sample. The measured strontium ratio is 0.718649 ± 0.000013 (twice the standard error). The ratio helps constrain possible regions of origin for the eggshell."
+  }
+}

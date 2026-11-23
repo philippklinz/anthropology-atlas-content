@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:border-cave",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:butzer-border-cave-1978",
+      "role": "supports",
+      "locator": "p. 318, The Regional Setting: 31°59′24″E, 27°1′19″S"
+    },
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Supplementary Table 1 and released measurement CSV, BC R24 LEVEL 30″ – 1WA (1BS LR): 42,538 calibrated/approximate BP; Fig. 1c and Discussion, Stylistic connection at 50–33 ka"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Border Cave · Südafrika",
+    "en": "Border Cave · South Africa"
+  },
+  "summary": {
+    "de": "Die Höhle liegt an der westlichen Flanke der Lebomboberge nahe dem heutigen Eswatini. Zwölf der vierzehn untersuchten südlichen Perlen der ältesten Vergleichsphase stammen von hier.",
+    "en": "The cave lies on the western flank of the Lebombo Mountains close to present-day Eswatini. It accounts for twelve of the fourteen southern beads in the study's earliest comparison phase."
+  }
+}
