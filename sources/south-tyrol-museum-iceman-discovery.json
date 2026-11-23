@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:south-tyrol-museum-iceman-discovery",
+  "sourceRefs": [],
+  "title": "The Discovery",
+  "sourceType": "website",
+  "creators": [
+    "South Tyrol Museum of Archaeology"
+  ],
+  "url": "https://www.iceman.it/en/oetzi/the-discovery",
+  "language": "en",
+  "accessedAt": "2026-11-23"
+}

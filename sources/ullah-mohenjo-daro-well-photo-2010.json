@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:ullah-mohenjo-daro-well-photo-2010",
+  "sourceRefs": [],
+  "title": "A Tall well – Mohenjo-daro.jpg",
+  "sourceType": "website",
+  "creators": [
+    "M.Bastle Ullah"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:A_Tall_well_-_Mohenjo-daro.jpg",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Photograph of a well at the site. The file description identifies the archaeological property rather than an excavation room."
+}

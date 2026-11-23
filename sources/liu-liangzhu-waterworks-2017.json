@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:liu-liangzhu-waterworks-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Earliest hydraulic enterprise in China, 5,100 years ago",
+  "sourceType": "article",
+  "creators": [
+    "Bin Liu",
+    "Ningyuan Wang",
+    "Minghui Chen",
+    "Xiaohong Wu",
+    "Duowen Mo",
+    "Jianguo Liu",
+    "Shijin Xu",
+    "Yijie Zhuang"
+  ],
+  "url": "https://doi.org/10.1073/pnas.1710516114",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PNAS 114(52), 13637–13642. Open full text and calibrated-date figure read via PubMed Central (PMC5748178). Reports fieldwork and radiocarbon dates from the earthen hydraulic features and compares these with the building phases of the city.",
+  "language": "en",
+  "published": "2017-12-04",
+  "identifiers": {
+    "doi": "10.1073/pnas.1710516114"
+  }
+}

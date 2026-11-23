@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:sechin-bajo-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:peru-sechin-bajo-site-coordinates-2010",
+      "role": "supports",
+      "locator": "Art. 3, p. 16, Sechín Bajo row, 800050.7841 E / 8952876.0216 N in WGS84 / UTM 17S"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 600,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung am Fundort.",
+      "en": "Editorial allowance for site orientation."
+    }
+  },
+  "processingNote": {
+    "de": "Der amtliche Referenzpunkt wurde aus WGS84 / UTM-Zone 17 Süd umgerechnet und gerundet. Er dient der Orientierung am Fundort.",
+    "en": "The official WGS84 / UTM zone 17 south reference point was converted and rounded for site orientation."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors",
+    "originNote": "Orientation point from the published site reference coordinate."
+  }
+}

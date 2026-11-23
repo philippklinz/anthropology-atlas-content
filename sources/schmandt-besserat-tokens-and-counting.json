@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schmandt-besserat-tokens-and-counting",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tokens: their Significance for the Origin of Counting and Writing",
+  "sourceType": "website",
+  "url": "https://sites.utexas.edu/dsb/tokens/tokens/",
+  "creators": [
+    "Denise Schmandt-Besserat"
+  ],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "publisher": "The University of Texas at Austin",
+  "bibliographicNote": "The author discusses clay tokens and envelopes and proposes an interpretation of their use for keeping accounts."
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:shady-haas-creamer-dating-caral-2001",
+  "sourceRefs": [],
+  "title": "Dating Caral, a Preceramic Site in the Supe Valley on the Central Coast of Peru",
+  "creators": [
+    "Ruth Shady Solis",
+    "Jonathan Haas",
+    "Winifred Creamer"
+  ],
+  "sourceType": "article",
+  "url": "https://doi.org/10.1126/science.1059519",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "published": "2001",
+  "containerTitle": "Science 292 (5517), 723–726",
+  "identifiers": {
+    "doi": "10.1126/science.1059519"
+  },
+  "bibliographicNote": "Full published version consulted via CiteSeerX. Table 1 gives weighted average calibrated midpoints for samples. Figure 5 displays their radiocarbon calibration ranges."
+}

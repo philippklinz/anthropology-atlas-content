@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:mohenjo-daro",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-mohenjo-daro-location",
+      "role": "supports",
+      "locator": "Geographical data, Property 138, N27°19′45″ E68°8′20″."
+    },
+    {
+      "sourceId": "source:jansen-mohenjo-daro-water-1989",
+      "role": "supports",
+      "locator": "pp. 177–180, domestic drainage, street drains and wedge-shaped bricks used in round wells."
+    },
+    {
+      "sourceId": "source:green-mohenjo-daro-public-structures-2018",
+      "role": "supports",
+      "locator": "Abstract, broad Indus urban phase around 2600–1900 BCE and discussion of collective action and political organization."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Mohenjo-daro",
+    "en": "Mohenjo-daro"
+  },
+  "summary": {
+    "de": "Stadtruine im heutigen Sindh in Pakistan. In den ausgegrabenen Vierteln sind viele Brunnen und gemauerte Abflüsse erhalten.",
+    "en": "Urban ruins in present-day Sindh, Pakistan. Many wells and brick drains survive in the excavated districts."
+  }
+}

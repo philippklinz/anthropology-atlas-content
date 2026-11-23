@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:yseki-aspero-starch-2023",
+  "sourceRefs": [],
+  "title": "Analysis of starch grains trapped in human dental calculus in Áspero, Peru during the Initial Formative Period (3000–1800 BCE)",
+  "creators": [
+    "Marco Yseki",
+    "Luis Pezo-Lanfranco",
+    "Marco Machacuay",
+    "Pedro Novoa",
+    "Ruth Shady"
+  ],
+  "sourceType": "article",
+  "url": "https://www.nature.com/articles/s41598-023-41015-6",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "published": "2023",
+  "containerTitle": "Scientific Reports 13, 14143",
+  "identifiers": {
+    "doi": "10.1038/s41598-023-41015-6"
+  },
+  "bibliographicNote": "Full publisher PDF consulted. The nine Áspero contexts combine direct calibrated dates and dates obtained by association. The dietary study also includes a tenth individual from Caral."
+}

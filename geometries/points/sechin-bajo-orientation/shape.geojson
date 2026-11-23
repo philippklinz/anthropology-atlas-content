@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:sechin-bajo-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -78.2676,
+      -9.4622
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:mohenjo-daro-block-8-well",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mackay-mohenjo-daro-dk-g-1936",
+      "role": "supports",
+      "locator": "Chapter 5, DK Area G Section, passages c5.15–c5.18, Block 8, room 42, Late II well and subsequent alterations, Plates XIX and XXIe."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Mohenjo-daro · Brunnen in Raum 42",
+    "en": "Mohenjo-daro · well in Room 42"
+  },
+  "summary": {
+    "de": "Brunnen in Block 8 im Grabungsbereich DK-G. Der Grabungsbericht beschreibt die gepflasterte Brunnenkammer und einen später hinzugefügten Treppenzugang.",
+    "en": "Well in Block 8, excavation area DK-G. The report describes a paved well chamber and steps added in a subsequent phase."
+  }
+}

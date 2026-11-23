@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:peru-sechin-bajo-site-coordinates-2010",
+  "sourceRefs": [],
+  "title": "Sechín Bajo, coordenadas del sitio (artículo 3)",
+  "creators": [
+    "Ministerio de Cultura del Perú"
+  ],
+  "sourceType": "archive",
+  "url": "https://spij.minjus.gob.pe/Normas/textos/221210T.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "published": "2010-12-22",
+  "containerTitle": "Sistema Peruano de Información Jurídica, Normas Legales, 22 de diciembre de 2010",
+  "bibliographicNote": "Article 3 in the official text gives a site reference point in WGS84 / UTM zone 17S."
+}

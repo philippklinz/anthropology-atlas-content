@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:arslantepe",
+  "sourceRefs": [
+    {
+      "sourceId": "source:turkiye-arslantepe-nomination-2019",
+      "role": "supports",
+      "locator": "Executive Summary and Section 1.d: geographical coordinates of the mound"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Arslantepe",
+    "en": "Arslantepe"
+  },
+  "summary": {
+    "de": "Siedlungshügel in der Ebene von Malatya im heutigen Osten der Türkei.",
+    "en": "Settlement mound in the Malatya plain of what is now eastern Türkiye."
+  }
+}

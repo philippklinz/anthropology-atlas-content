@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:early-urban-places",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Wie Städte wachsen",
+    "en": "How Cities Grow"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:arslantepe-via-complex",
+    "artifact:tell-brak-survey-sherds",
+    "artifact:uruk-stone-cone-building",
+    "asset:arslantepe-wall-painting",
+    "asset:tell-brak-site-view",
+    "asset:uruk-stone-cone-mosaic",
+    "chapter:how-cities-grow",
+    "event:arslantepe-via-storage-evidence",
+    "event:tell-brak-discrete-settlement-clusters",
+    "event:tell-brak-expanded-settlement",
+    "event:uruk-stone-cone-building-evidence",
+    "geometry:arslantepe-orientation",
+    "geometry:tell-brak-orientation",
+    "geometry:uruk-orientation",
+    "place:arslantepe",
+    "place:tell-brak",
+    "place:uruk",
+    "source:arslantepe-wall-painting-photograph",
+    "source:iraq-uruk-nomination-2014",
+    "source:soltysiak-tell-brak-field-report",
+    "source:tell-brak-site-view-photograph",
+    "source:turkiye-arslantepe-nomination-2019",
+    "source:ur-tell-brak-urban-form-2014",
+    "source:uruk-stone-cone-mosaic-photograph",
+    "source:van-ess-uruk-eanna-2015"
+  ],
+  "entryChapterIds": [
+    "chapter:how-cities-grow"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

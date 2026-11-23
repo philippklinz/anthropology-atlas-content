@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:caral",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shady-haas-creamer-dating-caral-2001",
+      "role": "supports",
+      "locator": "pp. 723–725, platform construction, Shicra fill, plants, marine remains and Figs. 3–4"
+    },
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Material and methods: Study area, WGS84 77°31′20″ W, 10°53′30″ S; Fig. 1"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Caral",
+    "en": "Caral"
+  },
+  "summary": {
+    "de": "Siedlung auf einer trockenen Terrasse im Supe-Tal im heutigen Peru. Zwischen den Wohnbereichen liegen große Plattformbauten und Plätze.",
+    "en": "Settlement on a dry terrace in the Supe Valley in present-day Peru. Large platforms and plazas stand among residential areas."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:tell-brak-expanded-settlement",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ur-tell-brak-urban-form-2014",
+      "role": "supports",
+      "locator": "pp. 52–54, Phase F and Fig. 3.3: c. 3800–3300 BCE, estimated extent, expanded clusters and reduced spaces"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tell Brak · Ausweitung der Siedlung",
+    "en": "Tell Brak · settlement expansion"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -3799,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3799,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -3299,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3299,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:tell-brak-survey-sherds",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "Die Fundverteilung der Phase F lässt auf mindestens rund 130 Hektar schließen. Die Schätzung zählt keine Bewohner.",
+    "en": "The Phase F distribution suggests at least about 130 hectares. The estimate does not count inhabitants."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Fundverteilung der Phase F lässt auf mindestens rund 130 Hektar schließen. Die Schätzung zählt keine Bewohner.",
+      "en": "The Phase F distribution suggests at least about 130 hectares. The estimate does not count inhabitants."
+    }
+  },
+  "placeIds": [
+    "place:tell-brak"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tell-brak-orientation",
+      "role": "findspot"
+    }
+  ]
+}

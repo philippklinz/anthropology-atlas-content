@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:liangzhu-city",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, chronological sequence preceding Fig. 5 and paragraph after Fig. 5, most city construction 4,900–4,600 cal BP and the approximately 300 ha earthen enclosure"
+    },
+    {
+      "sourceId": "source:unesco-liangzhu-city-location",
+      "role": "supports",
+      "locator": "Geographical data, 1592-004, N 30°23′43.97″ E 119°59′26.97″, Area of City Site"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Liangzhu · Stadtfundstelle, Zhejiang, China",
+    "en": "Liangzhu · city site, Zhejiang, China"
+  },
+  "summary": {
+    "de": "Frühes Stadtzentrum im unteren Jangtsegebiet mit einer Einfassung aus Erde und einem Netz aus Wasserläufen.",
+    "en": "An early urban centre in the lower Yangtze region with an earthen enclosure and a network of waterways."
+  }
+}

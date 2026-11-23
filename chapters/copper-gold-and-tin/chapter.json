@@ -1,0 +1,388 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:copper-gold-and-tin",
+  "sourceRefs": [
+    {
+      "sourceId": "source:slavchev-varna-necropolis-2025",
+      "role": "supports",
+      "locator": "pp. 122–123, Varna Necropolis: location of the cemetery, offerings in Grave 43 and graves without human remains"
+    },
+    {
+      "sourceId": "source:krauss-varna-chronology-2017",
+      "role": "supports",
+      "locator": "pp. 283–284, discussion of cemetery database and the uneven distribution of gold objects; p. 293, Grave 43 in the social network analysis"
+    },
+    {
+      "sourceId": "source:higham-varna-ams-2018",
+      "role": "supports",
+      "locator": "Published abstract, preferred model: start 4596–4516 and end 4427–4341 cal BCE (95.4% each); rounded outer envelope used for cemetery context"
+    },
+    {
+      "sourceId": "source:artioli-iceman-copper-2017",
+      "role": "supports",
+      "locator": "Introduction, Fig. 1 (axe components), and Discussion, Late Copper Age metallurgy in Central Italy: the cited 3350–3000 cal BCE shaft-date estimate (2 sigma)"
+    },
+    {
+      "sourceId": "source:artioli-iceman-copper-2017",
+      "role": "supports",
+      "locator": "Discussion, Provenance of the Iceman metal, Fig. 3, and Late Copper Age metallurgy in Central Italy: measured lead isotope ratios, closest southern Tuscan ore matches, production and transport uncertainties"
+    },
+    {
+      "sourceId": "source:south-tyrol-museum-iceman-discovery",
+      "role": "supports",
+      "locator": "Circumstances leading to the find and Discovery site: axe recovered with the body at Tisenjoch, 3,210 m, in 1991"
+    },
+    {
+      "sourceId": "source:met-66-245-10-caravan-account",
+      "role": "supports",
+      "locator": "Object no. 66.245.10, Overview: clay, ca. 20th–19th century BCE and probable Kültepe provenance; object description: caravan costs and Assyrian trade network"
+    },
+    {
+      "sourceId": "source:larsen-met-old-assyrian-texts-1988",
+      "role": "supports",
+      "locator": "text no. 75 (MMA 66.245.10), pp. 98–101, plates 72–73, translation lines 5–37 and Remarks: tin, textiles, seven donkeys, fodder, equipment, silver outlays and two shipments"
+    },
+    {
+      "sourceId": "source:unesco-tentative-kultepe-kanesh",
+      "role": "supports",
+      "locator": "Description, Lower Town-Karum and Assyrian Trading Colonies Period: trade quarter, housing and network context"
+    }
+  ],
+  "labels": {
+    "de": "Kupfer, Gold und Zinn",
+    "en": "Copper, Gold and Tin"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:varna-grave-43-gold-context",
+    "event:iceman-axe-at-tisenjoch",
+    "event:kanesh-caravan-account-context",
+    "asset:met-66-245-10-caravan-account"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 23,
+      "latitude": 44.5,
+      "metersPerPixel": 8500,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -4599,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -4599,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1799,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1799,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "varna",
+      "textAnchor": "varna",
+      "labels": {
+        "de": "1 · Varna: Gold in einem Grab",
+        "en": "1 · Varna: gold in a grave"
+      },
+      "summary": {
+        "de": "Ringe, Perlen und Zierbleche machen sichtbar, wie ungleich die Beigaben verteilt waren.",
+        "en": "Rings, beads and appliqués reveal how unevenly grave goods were distributed."
+      },
+      "state": {
+        "camera": {
+          "longitude": 27.869,
+          "latitude": 43.214,
+          "metersPerPixel": 700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -4599,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -4599,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -4339,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -4339,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "tisenjoch",
+      "textAnchor": "tisenjoch",
+      "labels": {
+        "de": "2 · Tisenjoch: Woher kam das Kupfer?",
+        "en": "2 · Tisenjoch: where did the copper come from?"
+      },
+      "summary": {
+        "de": "Die Axt lag in den Alpen. Der Vergleich von Bleiisotopen führt in die südliche Toskana.",
+        "en": "The axe lay in the Alps. Lead isotope comparisons point to southern Tuscany."
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.839,
+          "latitude": 46.779,
+          "metersPerPixel": 700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3349,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3349,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -2999,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2999,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:iceman-axe-reconstruction"
+    },
+    {
+      "id": "kanes",
+      "textAnchor": "kanes",
+      "labels": {
+        "de": "3 · Kaneš: Was eine Karawane kostete",
+        "en": "3 · Kaneš: what a caravan cost"
+      },
+      "summary": {
+        "de": "Eine Tontafel erfasst Zinn, Stoffe, Lasttiere und Ausgaben unterwegs.",
+        "en": "A clay tablet lists tin, textiles, pack animals and expenses along the way."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.638,
+          "latitude": 38.854,
+          "metersPerPixel": 700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1999,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1999,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1800,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1800,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:met-66-245-10-caravan-account"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Goldbeigaben, Ötzis Kupfer und die Zinnrechnung einer Karawane. Drei Funde zeigen, wie sich Wert und Handel erschließen lassen. Ansichtsfenster 4600–1800 v. Chr.",
+      "en": "Gold offerings, Ötzi's copper and a caravan's tin account. Three finds show how archaeologists learn about value and trade. Viewing window 4600–1800 BCE."
+    },
+    "periods": [
+      {
+        "id": "early-cities-networks",
+        "labels": {
+          "de": "Erste Städte, Handel und Schrift",
+          "en": "Early Cities, Trade and Writing"
+        },
+        "description": {
+          "de": "Frühe Städte, Fernhandel und Aufzeichnungen zwischen etwa 4600 und 1800 v. Chr. Die Kapitel vergleichen zeitlich und regional unterschiedliche Entwicklungen.",
+          "en": "Early cities, long-distance exchange and record-keeping from about 4600 to 1800 BCE. The chapters compare developments across different times and regions."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "europe",
+        "labels": {
+          "de": "Europa",
+          "en": "Europe"
+        }
+      },
+      {
+        "id": "balkans",
+        "labels": {
+          "de": "Balkan",
+          "en": "Balkans"
+        }
+      },
+      {
+        "id": "central-europe",
+        "labels": {
+          "de": "Mitteleuropa",
+          "en": "Central Europe"
+        }
+      },
+      {
+        "id": "southwest-asia",
+        "labels": {
+          "de": "Südwestasien",
+          "en": "Southwest Asia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "exchange",
+        "labels": {
+          "de": "Austausch",
+          "en": "Exchange"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:iceman-copper-axe",
+    "artifact:met-66-245-10-caravan-account",
+    "artifact:varna-i-grave-43-gold-objects",
+    "assertion:iceman-axe-at-tisenjoch-site-association",
+    "assertion:kanesh-caravan-account-context-site-association",
+    "assertion:varna-grave-43-gold-context-site-association",
+    "asset:iceman-axe-reconstruction",
+    "asset:met-66-245-10-caravan-account",
+    "event:iceman-axe-at-tisenjoch",
+    "event:kanesh-caravan-account-context",
+    "event:varna-grave-43-gold-context",
+    "geometry:kultepe-lower-town-orientation",
+    "geometry:tisenjoch-iceman-findspot-orientation",
+    "geometry:varna-i-necropolis-orientation",
+    "place:kultepe-kanesh",
+    "place:tisenjoch-iceman-findspot",
+    "place:varna-i-necropolis",
+    "source:archeoparc-iceman-findspot",
+    "source:artioli-iceman-copper-2017",
+    "source:ertepinar-kultepe-2020",
+    "source:franzkowiak-iceman-axe-reconstruction-2011",
+    "source:higham-varna-ams-2018",
+    "source:krauss-varna-chronology-2017",
+    "source:larsen-met-old-assyrian-texts-1988",
+    "source:mapcarta-varna-i-location",
+    "source:met-66-245-10-caravan-account",
+    "source:slavchev-varna-necropolis-2025",
+    "source:south-tyrol-museum-iceman-discovery",
+    "source:unesco-tentative-kultepe-kanesh"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:uruk-stone-cone-building-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:van-ess-uruk-eanna-2015",
+      "role": "supports",
+      "locator": "Uruk management plan, Section III, pp. 56–58, and Stone Cone Building and Plan 2.7: construction, walls and stone cones"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Uruk · Bau des Steinstiftgebäudes",
+    "en": "Uruk · construction of the Stone Cone Building"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -3499,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3399,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:uruk-stone-cone-building",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "Grabung und Bauabfolge datieren die Errichtung ungefähr in die Zeit von 3500 bis 3400 v. Chr.",
+    "en": "Excavation and building sequence place its construction around 3500 to 3400 BCE."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Grabung und Bauabfolge datieren die Errichtung ungefähr in die Zeit von 3500 bis 3400 v. Chr.",
+      "en": "Excavation and building sequence place its construction around 3500 to 3400 BCE."
+    }
+  },
+  "placeIds": [
+    "place:uruk"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:uruk-orientation",
+      "role": "findspot"
+    }
+  ]
+}

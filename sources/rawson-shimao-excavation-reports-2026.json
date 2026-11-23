@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rawson-shimao-excavation-reports-2026",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Excavations of the city of Shimao and its monuments",
+  "sourceType": "article",
+  "creators": [
+    "Jessica Rawson"
+  ],
+  "url": "https://doi.org/10.15184/aqy.2026.10458",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Antiquity, First View, pp. 1–8. Full text read. Review of the Shaanxi Academy of Archaeology survey, East Gate excavation and multidisciplinary reports, with plan and description of the two city walls and the cliff above the Tuwei River.",
+  "language": "en",
+  "published": "2026-10-21",
+  "identifiers": {
+    "doi": "10.15184/aqy.2026.10458"
+  }
+}

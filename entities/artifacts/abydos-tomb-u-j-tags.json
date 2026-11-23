@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:abydos-tomb-u-j-tags",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:baines-cao-early-writing-2024",
+      "role": "supports",
+      "locator": "Section 2, pp. 77–81, Figs. 2–4: Naqada IIIA, c. 3200 BCE, incised tags, painted pots and seal impressions, proposed readings and their limits"
+    },
+    {
+      "sourceId": "source:kahl-hieroglyphic-writing-2001",
+      "role": "supports",
+      "locator": "Sections 1–3, pp. 103–107: Tomb U-j, c. 3320 BCE, bone and ivory labels and alternatives to interpretation of certain sign groups as rulers’ names"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Beschriftete Täfelchen aus Grab U-j",
+    "en": "Inscribed tags from Tomb U-j"
+  },
+  "summary": {
+    "de": "Kleine, durchbohrte Täfelchen aus Knochen oder Elfenbein tragen eingeritzte Zeichen. Form und Loch passen zu Anhängeetiketten. Einige Zeichen ähneln späteren Hieroglyphen.",
+    "en": "Small, pierced bone or ivory tags carry incised signs. Their shape and holes suit attachment to other objects. Some signs resemble later hieroglyphs."
+  }
+}

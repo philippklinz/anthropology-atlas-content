@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:susa-clay-envelope-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:louvre-susa-sb1932",
+      "role": "supports",
+      "locator": "Inventory SB 1932, Description/Features, Physical characteristics and Places and dates: clay sphere, cylinder impressions, 5.1 cm, Susa and broad catalogue dating"
+    },
+    {
+      "sourceId": "source:schmandt-besserat-tokens-and-counting",
+      "role": "supports",
+      "locator": "Fig. 3 and the paragraph on tokens in hollow clay envelopes after 3500 BCE: interpretation of counters as accounting instruments"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Susa · versiegelte Tonkugel",
+    "en": "Susa · sealed clay envelope"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -3499,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2899,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:susa-clay-envelope-sb1932",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:susa"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:susa-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Louvre datiert die Kugel breit auf etwa 3500–2900 v. Chr. Die kleinen Marken wurden wahrscheinlich zur Buchführung genutzt. Die Art der damit erfassten Güter bleibt für dieses Stück offen.",
+      "en": "The Louvre broadly dates the envelope to c. 3500–2900 BCE. The small tokens were probably used for keeping accounts. The goods recorded by this particular object remain uncertain."
+    }
+  },
+  "note": {
+    "de": "Der Louvre datiert die Kugel breit auf etwa 3500–2900 v. Chr. Die kleinen Marken wurden wahrscheinlich zur Buchführung genutzt. Die Art der damit erfassten Güter bleibt für dieses Stück offen.",
+    "en": "The Louvre broadly dates the envelope to c. 3500–2900 BCE. The small tokens were probably used for keeping accounts. The goods recorded by this particular object remain uncertain."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:slavchev-varna-necropolis-2025",
+  "sourceRefs": [],
+  "title": "Varna Necropolis",
+  "sourceType": "article",
+  "creators": [
+    "Vladimir Slavchev"
+  ],
+  "url": "https://www.bta.bg/upload/11349391/2025_07-Unesko-EN.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2025",
+  "publisher": "Bulgarian News Agency",
+  "containerTitle": "LIK · Bulgaria in UNESCO, 121–125",
+  "bibliographicNote": "The Varna Regional Historical Museum archaeologist describes the excavation and burial inventories."
+}

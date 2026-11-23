@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:uruk-tablet-vat14674-at-uruk",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cdli-uruk-p001252",
+      "role": "supports",
+      "locator": "Text and Provenance: 4(N01) followed by three signs, language undetermined, Uruk IV attribution, findspot Qa XVI,2 and excavation no. W 09579,d"
+    },
+    {
+      "sourceId": "source:smb-uruk-vat14674",
+      "role": "supports",
+      "locator": "Expert details for VAT 14674: Late Uruk, findspot Uruk (Warka), clay and measurements"
+    }
+  ],
+  "subjectId": "artifact:uruk-tablet-vat14674",
+  "predicate": "attested-at",
+  "objectId": "place:uruk",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -3349,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3199,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "CDLI ordnet die Tafel der Schriftphase Uruk IV (etwa 3350–3200 v. Chr.) zu. Der Fundkontext und die Einordnung der Zeichenform sind verschiedene Angaben. Die Sprache ist im Katalog unbestimmt.",
+      "en": "CDLI assigns the tablet to the Uruk IV script phase (c. 3350–3200 BCE). Its excavated context and the dating of sign forms are separate observations. The catalogue leaves the language undetermined."
+    }
+  },
+  "note": {
+    "de": "CDLI ordnet die Tafel der Schriftphase Uruk IV (etwa 3350–3200 v. Chr.) zu. Der Fundkontext und die Einordnung der Zeichenform sind verschiedene Angaben. Die Sprache ist im Katalog unbestimmt.",
+    "en": "CDLI assigns the tablet to the Uruk IV script phase (c. 3350–3200 BCE). Its excavated context and the dating of sign forms are separate observations. The catalogue leaves the language undetermined."
+  }
+}

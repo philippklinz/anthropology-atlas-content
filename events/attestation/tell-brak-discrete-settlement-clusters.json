@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:tell-brak-discrete-settlement-clusters",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ur-tell-brak-urban-form-2014",
+      "role": "supports",
+      "locator": "pp. 51–53, Phase E and Fig. 3.2: c. 4100–3800 BCE, central mound and discrete pottery scatters"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tell Brak · Siedlungskerne um den Hügel",
+    "en": "Tell Brak · settlement clusters around the mound"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -4099,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -4099,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -3799,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3799,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:tell-brak-survey-sherds",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "Aus Grabungen und Scherbenstreuungen erschließt die Studie für Phase E rund 55 Hektar Siedlungsfläche mit Zwischenräumen.",
+    "en": "Excavations and pottery scatters indicate about 55 hectares of settlement in Phase E, with open spaces between clusters."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Aus Grabungen und Scherbenstreuungen erschließt die Studie für Phase E rund 55 Hektar Siedlungsfläche mit Zwischenräumen.",
+      "en": "Excavations and pottery scatters indicate about 55 hectares of settlement in Phase E, with open spaces between clusters."
+    }
+  },
+  "placeIds": [
+    "place:tell-brak"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tell-brak-orientation",
+      "role": "findspot"
+    }
+  ]
+}

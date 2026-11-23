@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:icomos-dholavira-2021",
+  "sourceRefs": [],
+  "title": "Dholavira: a Harappan City (India), No 1645",
+  "sourceType": "article",
+  "creators": [
+    "ICOMOS"
+  ],
+  "url": "https://whc.unesco.org/archive/2021/whc21-44com-inf8B1.Add-en.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Advisory body evaluation in the World Heritage nomination dossier with relative phases and approximate civil dates.",
+  "published": "2021",
+  "containerTitle": "ICOMOS Evaluations, WHC/21/44.COM/INF.8B1.Add"
+}

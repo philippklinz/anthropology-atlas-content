@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:shady-caceda-aspero-2008",
+  "sourceRefs": [],
+  "title": "Áspero, la Ciudad Pesquera de la Civilización Caral",
+  "creators": [
+    "Ruth Shady Solís",
+    "Daniel Cáceda Guillén"
+  ],
+  "sourceType": "book",
+  "url": "https://www.zonacaral.gob.pe/downloads/publicaciones/libro-aspero-ciudad-pesquera-de-la-civilizacion-caral-2008.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "published": "2008",
+  "publisher": "Proyecto Especial Arqueológico Caral-Supe / Instituto Nacional de Cultura",
+  "bibliographicNote": "Field project's site guide, consulted for coastal products, excavation contexts and superimposed plazas; cited bibliographically."
+}

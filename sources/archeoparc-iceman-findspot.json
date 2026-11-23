@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:archeoparc-iceman-findspot",
+  "sourceRefs": [],
+  "title": "Iceman Discovery Site",
+  "sourceType": "website",
+  "creators": [
+    "archeoParc Schnalstal"
+  ],
+  "url": "https://www.archeoparc.it/en/val-senales-archeology/iceman-discovery-site/",
+  "language": "en",
+  "accessedAt": "2026-11-23"
+}

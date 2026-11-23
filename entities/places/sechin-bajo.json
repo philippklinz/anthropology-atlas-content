@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:sechin-bajo",
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "supports",
+      "locator": "Section 4, platform and successive plazas, Fig. 12"
+    },
+    {
+      "sourceId": "source:peru-sechin-bajo-site-coordinates-2010",
+      "role": "supports",
+      "locator": "Art. 3, p. 16, Sechín Bajo row, 800050.7841 E / 8952876.0216 N in WGS84 / UTM 17S"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Sechín Bajo",
+    "en": "Sechín Bajo"
+  },
+  "summary": {
+    "de": "Fundort im Casma-Tal im heutigen Peru. Steinplattformen und ineinander gebaute Rundplätze zeigen wiederholte Umbauten.",
+    "en": "Archaeological site in the Casma Valley in present-day Peru. Stone platforms and nested circular courts show successive rebuilding."
+  }
+}

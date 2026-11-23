@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:sechin-bajo-first-building-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "supports",
+      "locator": "Section 4, platform and successive plazas, Fig. 12"
+    },
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "supports",
+      "locator": "Section 6.5 and Table 1, samples Hd 29110, Hd 28828, Hd 29045 and Hd 28970"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Sechín Bajo · Umbauten am Ersten Bau",
+    "en": "Sechín Bajo · rebuilding the First Building"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -3649,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3649,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -2849,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2849,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Die Zeitspanne rundet mehrere kalibrierte Holzkohledaten des Ersten Baus. Dazu gehören Proben aus der vierten Rundplaza und einer Feuerstelle auf der Plattform.",
+    "en": "The bracket rounds several calibrated charcoal dates from the First Building, including samples from the fourth circular plaza and a platform hearth."
+  },
+  "participants": [
+    {
+      "entityId": "artifact:sechin-bajo-first-building",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:sechin-bajo"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sechin-bajo-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Plattform, Treppen und Rundplätze wurden ausgegraben. Die Proben datieren bestimmte Schichten und Feuerstellen.",
+      "en": "Excavations exposed a platform, stairways and circular courts. The samples date specific layers and hearths."
+    }
+  }
+}

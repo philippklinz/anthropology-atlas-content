@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:harappa-courtyard-seal-h95-2491",
+  "sourceRefs": [
+    {
+      "sourceId": "source:meadow-kenoyer-harappa-1997",
+      "role": "supports",
+      "locator": "p. 150, Mound ET, Trench 10E, courtyard at east side of street 95 and ceramic attribution to 3B. Fig. 7.6, H95-2491/4690-01, floor/fill."
+    },
+    {
+      "sourceId": "source:beas-survey-harappa-chronology",
+      "role": "supports",
+      "locator": "Table 1, Harappa Phase B (Period 3B), c. 2450–2200 BCE."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Harappa · Specksteinsiegel H95-2491",
+    "en": "Harappa · steatite seal H95-2491"
+  },
+  "summary": {
+    "de": "Gebranntes Siegel mit Induszeichen und einem Tiermotiv mit einem sichtbaren Horn. Der Fund stammt aus dem Bereich des Hofbodens in Schnitt 10E.",
+    "en": "Fired seal with Indus signs and an animal motif showing one horn. It was recovered from the courtyard floor context of Trench 10E."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:pingliangtai-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "derivation",
+      "locator": "Fig. 2b and Nature Portfolio Reporting Summary, Field work, collection and transport, Profile 1 inside the site; N 33°42′29.148″ E 114°55′26.920″"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 400,
+    "note": {
+      "de": "Redaktionelle Orientierung am Fundort.",
+      "en": "Editorial allowance for locating the site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Fundort nach einem publizierten Profil in der Siedlung. Das Südtor und einzelne Rohre sind auf dieser Karte nur über den Fundort verortet.",
+    "en": "Rounded site point from a published profile within the settlement. The map locates the southern gate and individual pipes by the site as a whole."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from cited factual coordinates."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:caral-piramide-mayor-view",
+  "sourceRefs": [
+    {
+      "sourceId": "source:gudorf-caral-piramide-mayor-2016",
+      "role": "derivation",
+      "locator": "Wikimedia Commons: Summary, Licensing and Flickr license review"
+    }
+  ],
+  "assetType": "image",
+  "file": "piramide-mayor.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Caral · Pirámide Mayor mit Rundplatz",
+    "en": "Caral · Pirámide Mayor and circular plaza"
+  },
+  "alt": {
+    "de": "Vor den breiten Steinplattformen liegt ein runder, tiefer gelegener Platz. Treppen führen zum Platz und hinauf auf den Bau.",
+    "en": "A circular sunken plaza lies in front of broad stone platforms. Steps lead to the plaza and up the building."
+  },
+  "entityIds": [
+    "artifact:caral-piramide-mayor"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-2.0",
+    "creators": [
+      "Jon Gudorf Photography"
+    ],
+    "attribution": "Jon Gudorf Photography, Mayor Pyramid and circular enclosure. Caral, Peru (2016), via Wikimedia Commons.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mayor_Pyramid_and_circular_enclosure._Caral,_Peru.jpg",
+    "originNote": "Resized to 1120 × 614 and re-encoded as JPEG. CC BY-SA 2.0 Generic: https://creativecommons.org/licenses/by-sa/2.0/."
+  }
+}

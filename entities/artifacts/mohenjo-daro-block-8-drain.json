@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:mohenjo-daro-block-8-drain",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mackay-mohenjo-daro-dk-g-1936",
+      "role": "supports",
+      "locator": "Chapter 5, DK Area G Section, c5.22 and Plate XIX, Block 8, room 50, large brick covers in situ and provisional Late I assignment."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Mohenjo-daro · Abfluss in Raum 50",
+    "en": "Mohenjo-daro · drain in Room 50"
+  },
+  "summary": {
+    "de": "Kurzes Stück eines Abflusses in Block 8. Die großen Ziegel lagen noch als Abdeckung über der Rinne.",
+    "en": "Short section of a drain in Block 8. The large bricks were found covering the channel in place."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:sechin-bajo-first-building",
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "supports",
+      "locator": "Section 4, platform and successive plazas, Fig. 12"
+    },
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "supports",
+      "locator": "Section 6.5 and Table 1, samples Hd 29110, Hd 28828, Hd 29045 and Hd 28970"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Sechín Bajo · Erster Bau",
+    "en": "Sechín Bajo · First Building"
+  },
+  "summary": {
+    "de": "Rechteckige Plattform und mehrere eingetiefte Rundplätze. Neuere Mauern, Treppen und Auffüllungen überlagern frühere Bauteile.",
+    "en": "A rectangular platform and several sunken circular courts. Later walls, stairways and fills overlie older parts of the building."
+  }
+}

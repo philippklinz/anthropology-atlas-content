@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:uruk-stone-cone-mosaic",
+  "sourceRefs": [
+    {
+      "sourceId": "source:uruk-stone-cone-mosaic-photograph",
+      "role": "derivation",
+      "locator": "Summary and Licensing sections"
+    }
+  ],
+  "assetType": "image",
+  "file": "uruk.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Uruk · Steinkegelmosaik im Iraq Museum, Bagdad",
+    "en": "Uruk · stone-cone mosaic in the Iraq Museum, Baghdad"
+  },
+  "alt": {
+    "de": "Runde Enden roter, cremefarbener und schwarzer Steinkegel bilden ein Muster auf einem Fragment.",
+    "en": "The round ends of red, cream and black stone cones form a pattern on a fragment."
+  },
+  "entityIds": [
+    "place:uruk"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Osama Shukir Muhammed Amin FRCP(Glasg)"
+    ],
+    "attribution": "Osama Shukir Muhammed Amin FRCP(Glasg) / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mosaic_panel_(using_stone_cones)_decorating_a_wall_of_a_temple_at_the_city_of_Warka_(Uruk),_Iraq._2nd_half_of_the_4th_millennium_BCE._Iraq_Museum,_Baghdad.jpg",
+    "originNote": "Resized, re-encoded and stripped of camera metadata. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

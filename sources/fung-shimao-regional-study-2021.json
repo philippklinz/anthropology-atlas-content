@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:fung-shimao-regional-study-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The rise of Shimao 2800–1300 BC in the North Loess Plateau, China: An exploration of the climate, demographic, economic, material culture influences",
+  "sourceType": "book",
+  "creators": [
+    "Ying Tung Fung"
+  ],
+  "url": "https://ora.ox.ac.uk/objects/uuid:a0d4789c-e16a-4a0d-9c4e-cca17429f70b",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "DPhil thesis, University of Oxford. Cover dated Michaelmas 2021. Table 1.1 in Chapter 1 gives rounded coordinates and survey attributes for Shimao and surrounding sites.",
+  "language": "en",
+  "published": "2021"
+}

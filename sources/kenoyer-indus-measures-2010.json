@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:kenoyer-indus-measures-2010",
+  "sourceRefs": [],
+  "title": "Measuring the Harappan world: Insights into the Indus order and cosmology",
+  "sourceType": "article",
+  "creators": [
+    "Jonathan Mark Kenoyer"
+  ],
+  "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer%202010%20Measuring%20the%20Harappan%20World.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Research on standardization and variation among Indus measurement systems, with Harappa finds.",
+  "published": "2010",
+  "containerTitle": "The Archaeology of Measurement: Comprehending Heaven, Earth and Time in Ancient Societies"
+}

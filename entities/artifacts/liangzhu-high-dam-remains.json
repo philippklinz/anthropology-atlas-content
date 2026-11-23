@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:liangzhu-high-dam-remains",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, Figs. 2D and 3A, dam sections and grass-wrapped clay bundles; Fig. 1B, positions north and west of the city"
+    },
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, Fig. 5, calibrated dates from grassy material and charcoal in high dams, low dams and levees; most high-dam dates 5,200–4,800 cal BP"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Liangzhu · Reste der Hochdämme",
+    "en": "Liangzhu · remains of the high dams"
+  },
+  "summary": {
+    "de": "Erdbauten in den Tälern nordwestlich der Stadt. Im Profil des Laohuling-Damms liegen Bündel aus grasumwickeltem Lehm übereinander.",
+    "en": "Earthworks in the valleys northwest of the city. Layers of grass-wrapped clay bundles survive in the section of the Laohuling dam."
+  },
+  "assetIds": [
+    "asset:laohuling-exposed-dam-section"
+  ]
+}

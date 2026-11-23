@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:dholavira-eastern-reservoir",
+  "sourceRefs": [
+    {
+      "sourceId": "source:bisht-dholavira-waterworks-2007",
+      "role": "supports",
+      "locator": "pp. 86–87, diversion of seasonal runoff. pp. 91–93, eastern reservoir dimensions, steps, and proposed Stage III predecessor and Stage IV form."
+    },
+    {
+      "sourceId": "source:icomos-dholavira-2021",
+      "role": "supports",
+      "locator": "pp. 13–14, Description, Stage III c. 2800–2500 BCE and Stage IV c. 2500–2100 BCE."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Dholavira · östliches Wasserbecken",
+    "en": "Dholavira · eastern reservoir"
+  },
+  "summary": {
+    "de": "Großes Becken östlich des befestigten Stadtkerns, oben rund 73 Meter lang und 29 Meter breit. Mehrere Treppen führen hinunter.",
+    "en": "Large basin east of the fortified core, about 73 metres long and 29 metres wide at the top. Several flights of steps descend into it."
+  }
+}

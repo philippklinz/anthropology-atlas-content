@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:abydos-umm-el-qaab",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:intchron-abydos-cemetery-u",
+      "role": "supports",
+      "locator": "Egypt site table, Abydos Cemetery U, egyptdb: 31.90839958° E, 26.17740059° N"
+    },
+    {
+      "sourceId": "source:baines-cao-early-writing-2024",
+      "role": "supports",
+      "locator": "Section 2, pp. 77–81, Figs. 2–4: Naqada IIIA, c. 3200 BCE, incised tags, painted pots and seal impressions, proposed readings and their limits"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Abydos · Umm el-Qaab · Ägypten",
+    "en": "Abydos · Umm el-Qaab · Egypt"
+  },
+  "summary": {
+    "de": "Gräberfeld in Oberägypten. Im Friedhof U fanden sich im Grab U-j kleine Täfelchen mit eingeritzten Zeichen und Gefäße mit aufgemalten Zeichen.",
+    "en": "Cemetery in Upper Egypt. Tomb U-j in Cemetery U held small tags with incised signs and vessels marked with painted signs."
+  }
+}

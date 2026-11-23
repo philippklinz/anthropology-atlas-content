@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:varna-i-necropolis-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mapcarta-varna-i-location",
+      "role": "supports",
+      "locator": "Varna Chalcolithic Necropolis section: published site-area point based on OSM way 656506021 (43.21443° N, 27.86874° E)"
+    },
+    {
+      "sourceId": "source:slavchev-varna-necropolis-2025",
+      "role": "supports",
+      "locator": "pp. 122–123, Varna Necropolis: location of the cemetery, offerings in Grave 43 and graves without human remains"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 500,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung im Fundplatzgebiet.",
+      "en": "Editorial tolerance for orientation within the site area."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Punkt für das Gräberfeld. Die genaue Lage von Grab 43 ist hier nicht dargestellt.",
+    "en": "Rounded cemetery reference point. The individual position of Grave 43 is outside this map's level of detail."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual geographic references."
+  }
+}

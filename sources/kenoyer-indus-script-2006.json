@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:kenoyer-indus-script-2006",
+  "sourceRefs": [],
+  "title": "The Origin, Context and Function of the Indus Script: Recent Insights from Harappa",
+  "sourceType": "article",
+  "creators": [
+    "Jonathan Mark Kenoyer"
+  ],
+  "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer2006_The%20Origin%2C%20Context%20and%20Function%20of%20the%20Indus%20Sc.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Discussion of excavated signs, their contexts, and the difficulty of decipherment.",
+  "published": "2006",
+  "containerTitle": "Proceedings of the Pre-symposium of RIHN and 7th ESCA Harvard-Kyoto Roundtable"
+}

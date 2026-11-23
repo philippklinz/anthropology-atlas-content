@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:tell-brak-site-view",
+  "sourceRefs": [
+    {
+      "sourceId": "source:tell-brak-site-view-photograph",
+      "role": "derivation",
+      "locator": "Summary and Licensing sections"
+    }
+  ],
+  "assetType": "image",
+  "file": "tell-brak.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Tell Brak · Blick auf den heutigen Siedlungshügel",
+    "en": "Tell Brak · the settlement mound today"
+  },
+  "alt": {
+    "de": "Flache, trockene Ebene vor einem langgestreckten bräunlichen Hügel.",
+    "en": "Flat, dry ground in front of a long brown mound."
+  },
+  "entityIds": [
+    "place:tell-brak"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Zoeperkoe"
+    ],
+    "attribution": "Zoeperkoe / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tell_Brak_001.jpg",
+    "originNote": "Resized, re-encoded and stripped of camera metadata. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:abydos-cemetery-u-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:intchron-abydos-cemetery-u",
+      "role": "derivation",
+      "locator": "Egypt site table, Abydos Cemetery U, egyptdb: 31.90839958° E, 26.17740059° N"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 350,
+    "note": {
+      "de": "Der gerundete Punkt orientiert am Friedhof U. Die Genauigkeitsangabe bezieht sich auf die Darstellung im Atlas.",
+      "en": "The rounded point marks Cemetery U. The accuracy estimate describes the atlas illustration."
+    }
+  },
+  "processingNote": {
+    "de": "Der gerundete Punkt orientiert am Friedhof U. Die Genauigkeitsangabe bezieht sich auf die Darstellung im Atlas.",
+    "en": "The rounded point marks Cemetery U. The accuracy estimate describes the atlas illustration."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original atlas point based on the cited factual coordinate."
+  }
+}

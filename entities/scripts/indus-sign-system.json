@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "script:indus-sign-system",
+  "sourceRefs": [
+    {
+      "sourceId": "source:kenoyer-indus-script-2006",
+      "role": "supports",
+      "locator": "Introduction, pp. 9–10, undeciphered sign system and competing interpretations. pp. 10–12, Table 1 and contexts of use."
+    },
+    {
+      "sourceId": "source:meadow-kenoyer-harappa-1997",
+      "role": "supports",
+      "locator": "p. 150, Mound ET, Trench 10E, courtyard at east side of street 95 and ceramic attribution to 3B. Fig. 7.6, H95-2491/4690-01, floor/fill."
+    }
+  ],
+  "entityType": "script",
+  "labels": {
+    "de": "Induszeichen",
+    "en": "Indus sign system"
+  },
+  "summary": {
+    "de": "Zeichen auf Siegeln, Täfelchen und weiteren Funden, häufig Indusschrift genannt. Eine allgemein anerkannte Entzifferung fehlt. Wie die Zeichen gesprochene Sprache abbildeten, ist umstritten.",
+    "en": "Signs on seals, tablets and other finds, often called the Indus script. The signs have no generally accepted decipherment. How they represented spoken language is debated."
+  }
+}

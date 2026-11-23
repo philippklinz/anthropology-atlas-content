@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:aspero-huaca-alta-fishing-weight-at-site",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shady-caceda-aspero-2008",
+      "role": "supports",
+      "locator": "Generalidades: Ocupaciones tempranas; Huaca Alta, Hallazgos (fishing weight)"
+    }
+  ],
+  "subjectId": "artifact:aspero-huaca-alta-fishing-weight",
+  "predicate": "attested-at",
+  "objectId": "place:aspero",
+  "time": {
+    "kind": "unknown"
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Grabungsführer dokumentiert das Gewicht unter den Funden der Huaca Alta. Er gibt für das einzelne Stück keine Datierung an.",
+      "en": "The excavation guide lists the weight among the finds from Huaca Alta. It does not date the individual object."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:tell-brak-survey-sherds",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ur-tell-brak-urban-form-2014",
+      "role": "supports",
+      "locator": "pp. 51–53, Phase E and Fig. 3.2: c. 4100–3800 BCE, central mound and discrete pottery scatters"
+    },
+    {
+      "sourceId": "source:ur-tell-brak-urban-form-2014",
+      "role": "supports",
+      "locator": "pp. 52–54, Phase F and Fig. 3.3: c. 3800–3300 BCE, estimated extent, expanded clusters and reduced spaces"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Tell Brak · Scherben der Begehung",
+    "en": "Tell Brak · survey sherds"
+  },
+  "summary": {
+    "de": "Keramikbruchstücke, deren Typen und Funddichte die räumliche Ausdehnung verschiedener Phasen erschließen.",
+    "en": "Pottery fragments whose types and distribution help reconstruct the extent of different phases."
+  }
+}

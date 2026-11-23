@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:pingliangtai-south-gate-drains",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "derivation",
+      "locator": "Fig. 5b, photograph of the southern gate and drains in ditch G29; Rights and permissions (CC BY 4.0)"
+    }
+  ],
+  "assetType": "image",
+  "file": "pingliangtai-south-gate.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Pingliangtai · Abflussrohre am Südtor",
+    "en": "Pingliangtai · drainage pipes at the southern gate"
+  },
+  "alt": {
+    "de": "Grabungsfoto mit zwei Reihen tönerner Rohrstücke im Graben G29 zwischen den beiden Räumen am Südtor. Vorn liegt ein Maßstab am Rand der Grabungsfläche.",
+    "en": "Excavation photograph with two rows of ceramic pipe sections in ditch G29 between the two rooms flanking the southern gate. A scale bar lies at the edge of the excavation in the foreground."
+  },
+  "entityIds": [
+    "place:pingliangtai",
+    "artifact:pingliangtai-ceramic-drain-pipes"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Chunxia Li",
+      "Yanpeng Cao",
+      "Chi Zhang",
+      "Ling Qin",
+      "Zhenhua Deng",
+      "Yan Chen",
+      "Shuzheng Zhu",
+      "Wei Li",
+      "Junping Yuan",
+      "Hai Zhang",
+      "Yijie Zhuang"
+    ],
+    "attribution": "Chunxia Li et al. · Nature Water (2023), Fig. 5b · CC BY 4.0",
+    "sourceUrl": "https://doi.org/10.1038/s44221-023-00114-4",
+    "originNote": "Photograph from figure panel 5b extracted as JPEG from the published PDF. The surrounding panels and overlay labels are omitted. https://creativecommons.org/licenses/by/4.0/"
+  }
+}

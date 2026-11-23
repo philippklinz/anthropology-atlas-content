@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:mohenjo-daro-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-mohenjo-daro-location",
+      "role": "supports",
+      "locator": "Geographical data, Property 138, N27°19′45″ E68°8′20″."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1300,
+    "note": {
+      "de": "Redaktionelle Toleranz für den Orientierungspunkt des Fundplatzes.",
+      "en": "Editorial tolerance for the site orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Punkt des Welterbeareals. Die Räume 42 und 50 liegen im auf Tafel XIX gezeigten Grabungsblock 8.",
+    "en": "Rounded point for the World Heritage property. Rooms 42 and 50 are in excavation Block 8 on Plate XIX."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual coordinates."
+  }
+}

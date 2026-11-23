@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:uruk-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.6372,
+      31.3242
+    ]
+  }
+}

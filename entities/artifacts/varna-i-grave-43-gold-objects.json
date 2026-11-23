@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:varna-i-grave-43-gold-objects",
+  "sourceRefs": [
+    {
+      "sourceId": "source:slavchev-varna-necropolis-2025",
+      "role": "supports",
+      "locator": "pp. 122–123, Varna Necropolis: location of the cemetery, offerings in Grave 43 and graves without human remains"
+    },
+    {
+      "sourceId": "source:krauss-varna-chronology-2017",
+      "role": "supports",
+      "locator": "pp. 283–284, discussion of cemetery database and the uneven distribution of gold objects; p. 293, Grave 43 in the social network analysis"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Varna I · Goldbeigaben aus Grab 43",
+    "en": "Varna I · gold objects from Grave 43"
+  },
+  "summary": {
+    "de": "Zu den Beigaben zählen goldene Ringe, Perlen und Zierbleche. Die Objekte machen einen großen Teil der ausgegrabenen Goldstücke des Gräberfelds aus.",
+    "en": "Gold rings, beads and appliqués were among the grave goods. The objects make up a large share of the pieces of gold excavated at the cemetery."
+  }
+}

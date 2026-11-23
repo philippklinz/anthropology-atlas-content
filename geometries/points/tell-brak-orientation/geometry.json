@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:tell-brak-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:soltysiak-tell-brak-field-report",
+      "role": "supports",
+      "locator": "p. 36, opening paragraph: Tell Brak's coordinates and main mound"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1500,
+    "note": {
+      "de": "Redaktioneller Orientierungspunkt für den Fundplatz.",
+      "en": "Editorial orientation point for the archaeological site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundet aus 36°40′ N, 41°03′30″ E. Der Punkt markiert den Fundort im Überblick.",
+    "en": "Rounded from 36°40′ N, 41°03′30″ E. The point locates the site as a whole."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manual point derived from the cited geographic coordinates."
+  }
+}

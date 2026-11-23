@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:aspero-dental-starch-at-site",
+  "sourceRefs": [
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Results and Table 1, nine Áspero columns; Material and methods: Burial contexts and Table 2"
+    }
+  ],
+  "subjectId": "specimen:aspero-dental-starch-grains",
+  "predicate": "attested-at",
+  "objectId": "place:aspero",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -2999,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2999,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -1899,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1899,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Spanne deckt die direkt datierten und über den Fundzusammenhang eingeordneten Kontexte der neun Áspero-Proben ab.",
+      "en": "The bracket covers the directly dated and contextually assigned burials for the nine samples from Áspero."
+    }
+  }
+}

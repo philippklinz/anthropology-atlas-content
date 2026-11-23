@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:pingliangtai-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.924,
+      33.708
+    ]
+  }
+}

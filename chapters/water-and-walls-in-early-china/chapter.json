@@ -1,0 +1,334 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:water-and-walls-in-early-china",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, Fig. 5, calibrated dates from grassy material and charcoal in high dams, low dams and levees; most high-dam dates 5,200–4,800 cal BP"
+    },
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, Figs. 2D and 3A, dam sections and grass-wrapped clay bundles; Fig. 1B, positions north and west of the city"
+    },
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, chronological sequence preceding Fig. 5 and paragraph after Fig. 5, most city construction 4,900–4,600 cal BP and the approximately 300 ha earthen enclosure"
+    },
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Occupation, hydraulic technologies and landscape, Fig. 4 and Supplementary Table 7; 4,200–3,900 cal BP for occupation and mostly 4,100–3,900 cal BP for houses, deposits and drainage contexts"
+    },
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Occupation, hydraulic technologies and landscape, Figs. 3 and 5a–b, housing-side ditches and ceramic pipes at the southern gate; Fig. 6, typical segment sizes"
+    },
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Social governance and formation of hydro-sociality, first two paragraphs, interpretation of household maintenance and communal work"
+    },
+    {
+      "sourceId": "source:sun-shimao-urban-centre-2018",
+      "role": "supports",
+      "locator": "Abstract and §2, The discovery of Shimao; walled site dated approximately 2300–1800 cal BCE"
+    },
+    {
+      "sourceId": "source:rawson-shimao-excavation-reports-2026",
+      "role": "supports",
+      "locator": "The city, walls and the Imperial Terraces, Figs. 1–2, inner and outer walls, terrace retainers and cliff overlooking the Tuwei River"
+    }
+  ],
+  "labels": {
+    "de": "Wasserbau und Mauern in China",
+    "en": "Waterworks and Walls in Early China"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:liangzhu-high-dam-construction-evidence",
+    "event:liangzhu-city-building-phase",
+    "event:pingliangtai-drainage-contexts",
+    "event:shimao-walled-settlement-phase",
+    "asset:laohuling-exposed-dam-section",
+    "asset:pingliangtai-south-gate-drains"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 115.0,
+      "latitude": 34.2,
+      "metersPerPixel": 5300,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 5200,
+        "younger": 5200,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1799,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1799,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "liangzhu",
+      "textAnchor": "liangzhu",
+      "labels": {
+        "de": "Liangzhu · zwischen Hügeln und Ebene",
+        "en": "Liangzhu · between hills and plain"
+      },
+      "summary": {
+        "de": "Vergleiche die Hochdammzone mit der Stadtfundstelle und öffne das Foto des Laohuling-Dammprofils.",
+        "en": "Compare the high-dam zone with the city site and open the photo of the Laohuling dam section."
+      },
+      "state": {
+        "camera": {
+          "longitude": 119.948,
+          "latitude": 30.408,
+          "metersPerPixel": 95,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 5200,
+            "younger": 5200,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 4600,
+            "younger": 4600,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:laohuling-exposed-dam-section"
+    },
+    {
+      "id": "pingliangtai",
+      "textAnchor": "pingliangtai",
+      "labels": {
+        "de": "Pingliangtai · Regenwasser unter dem Weg",
+        "en": "Pingliangtai · rainwater beneath the path"
+      },
+      "summary": {
+        "de": "Folge dem Wasser von den Gräben bei den Häusern zu den gemeinsam genutzten Abflüssen am Südtor.",
+        "en": "Follow the water from ditches beside the houses to shared drains near the southern gate."
+      },
+      "state": {
+        "camera": {
+          "longitude": 114.924,
+          "latitude": 33.708,
+          "metersPerPixel": 120,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 4200,
+            "younger": 4200,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 3900,
+            "younger": 3900,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:pingliangtai-south-gate-drains"
+    },
+    {
+      "id": "shimao",
+      "textAnchor": "shimao",
+      "labels": {
+        "de": "Shimao · eine Stadt am Steilhang",
+        "en": "Shimao · a city by a cliff"
+      },
+      "summary": {
+        "de": "Lies, wie die Lage auf einem Hügel die Stadtmauern und Terrassen prägte.",
+        "en": "See how its hilltop location shaped the walls and terraces of Shimao."
+      },
+      "state": {
+        "camera": {
+          "longitude": 110.31,
+          "latitude": 38.56,
+          "metersPerPixel": 120,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -2299,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2299,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1799,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1799,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Grasumwickelter Lehm in Liangzhu, Tonrohre in Pingliangtai und steinerne Mauern in Shimao. Drei Fundorte zeigen, wie Menschen das Gelände nutzten und gemeinsam bauten.",
+      "en": "Grass-wrapped clay at Liangzhu, ceramic pipes at Pingliangtai and stone walls at Shimao. Three sites show how people used their terrain and organized construction."
+    },
+    "periods": [
+      {
+        "id": "early-cities-networks",
+        "labels": {
+          "de": "Erste Städte, Handel und Schrift",
+          "en": "Early Cities, Trade and Writing"
+        },
+        "description": {
+          "de": "Frühe Städte, Fernhandel und Aufzeichnungen zwischen etwa 4600 und 1800 v. Chr. Die Kapitel vergleichen zeitlich und regional unterschiedliche Entwicklungen.",
+          "en": "Early cities, long-distance exchange and record-keeping from about 4600 to 1800 BCE. The chapters compare developments across different times and regions."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "settlement",
+        "labels": {
+          "de": "Siedlungen",
+          "en": "Settlements"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:liangzhu-city-building-remains",
+    "artifact:liangzhu-high-dam-remains",
+    "artifact:pingliangtai-ceramic-drain-pipes",
+    "artifact:shimao-stone-enclosures",
+    "assertion:liangzhu-city-building-phase",
+    "assertion:liangzhu-high-dam-construction-evidence",
+    "assertion:pingliangtai-drainage-contexts",
+    "assertion:shimao-walled-settlement-phase",
+    "asset:laohuling-exposed-dam-section",
+    "asset:pingliangtai-south-gate-drains",
+    "event:liangzhu-city-building-phase",
+    "event:liangzhu-high-dam-construction-evidence",
+    "event:pingliangtai-drainage-contexts",
+    "event:shimao-walled-settlement-phase",
+    "geometry:liangzhu-city-orientation",
+    "geometry:liangzhu-high-dams-orientation",
+    "geometry:pingliangtai-orientation",
+    "geometry:shimao-orientation",
+    "place:liangzhu-city",
+    "place:liangzhu-high-dams",
+    "place:pingliangtai",
+    "place:shimao",
+    "source:commons-laohuling-dam-section-2022",
+    "source:fung-shimao-regional-study-2021",
+    "source:li-pingliangtai-ceramic-drainage-2023",
+    "source:liu-liangzhu-waterworks-2017",
+    "source:rawson-shimao-excavation-reports-2026",
+    "source:sun-shimao-urban-centre-2018",
+    "source:unesco-liangzhu-city-location"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:abydos-tomb-u-j-tags-at-abydos-umm-el-qaab",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:baines-cao-early-writing-2024",
+      "role": "supports",
+      "locator": "Section 2, pp. 77–81, Figs. 2–4: Naqada IIIA, c. 3200 BCE, incised tags, painted pots and seal impressions, proposed readings and their limits"
+    },
+    {
+      "sourceId": "source:kahl-hieroglyphic-writing-2001",
+      "role": "supports",
+      "locator": "Sections 1–3, pp. 103–107: Tomb U-j, c. 3320 BCE, bone and ivory labels and alternatives to interpretation of certain sign groups as rulers’ names"
+    }
+  ],
+  "subjectId": "artifact:abydos-tomb-u-j-tags",
+  "predicate": "attested-at",
+  "objectId": "place:abydos-umm-el-qaab",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -3319,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3199,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Zeichen tragenden Täfelchen sind in Grab U-j belegt. Das Fenster umfasst zwei publizierte ungefähre Datierungen des Grabkontexts, etwa 3320 und 3200 v. Chr. Mehrere Lesungen bleiben umstritten.",
+      "en": "The marked tags are attested in Tomb U-j. The window spans two published approximate dates for the burial context, about 3320 and 3200 BCE. Several readings remain disputed."
+    }
+  },
+  "note": {
+    "de": "Die Zeichen tragenden Täfelchen sind in Grab U-j belegt. Das Fenster umfasst zwei publizierte ungefähre Datierungen des Grabkontexts, etwa 3320 und 3200 v. Chr. Mehrere Lesungen bleiben umstritten.",
+    "en": "The marked tags are attested in Tomb U-j. The window spans two published approximate dates for the burial context, about 3320 and 3200 BCE. Several readings remain disputed."
+  }
+}

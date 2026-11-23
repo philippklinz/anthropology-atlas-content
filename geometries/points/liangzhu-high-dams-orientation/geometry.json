@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:liangzhu-high-dams-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-liangzhu-city-location",
+      "role": "derivation",
+      "locator": "Geographical data, 1592-002, N 30°25′13″ E 119°54′12.98″, the high-dam zone at the mouth of the valley"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2500,
+    "note": {
+      "de": "Redaktionelle Orientierung am Fundort.",
+      "en": "Editorial allowance for locating the site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für die Hochdammzone. Die einzelnen Dämme liegen verteilt in dieser Landschaft.",
+    "en": "Rounded orientation point for the high-dam zone. Individual dams are spread across this landscape."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from cited factual coordinates."
+  }
+}

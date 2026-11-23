@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:tisenjoch-iceman-findspot",
+  "sourceRefs": [
+    {
+      "sourceId": "source:south-tyrol-museum-iceman-discovery",
+      "role": "supports",
+      "locator": "Circumstances leading to the find and Discovery site: axe recovered with the body at Tisenjoch, 3,210 m, in 1991"
+    },
+    {
+      "sourceId": "source:archeoparc-iceman-findspot",
+      "role": "supports",
+      "locator": "Iceman Discovery Site, opening paragraph: N 46°46′44.004″, E 10°50′21.192″"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tisenjoch · Ötztaler Alpen",
+    "en": "Tisenjoch · Ötztal Alps"
+  },
+  "summary": {
+    "de": "In einer Mulde am Tisenjoch auf der heutigen italienischen Seite der Grenze wurden 1991 Ötzi und seine Ausrüstung geborgen.",
+    "en": "Ötzi and his equipment were recovered in 1991 from a hollow near Tisenjoch on the present-day Italian side of the border."
+  }
+}

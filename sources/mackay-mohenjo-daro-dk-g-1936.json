@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:mackay-mohenjo-daro-dk-g-1936",
+  "sourceRefs": [],
+  "title": "Excavations at Mohenjo-daro",
+  "sourceType": "article",
+  "creators": [
+    "Ernest J. H. Mackay"
+  ],
+  "url": "https://indike.org/pramana/inp.archaeology.asi-ar.1930-34.c5",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Digitized transcription of the excavation report. Mackay’s Late II and Late I are local relative phases.",
+  "published": "1936",
+  "containerTitle": "Annual Reports of the Archæological Survey of India for 1930–31 to 1933–34, part 1, section III, chapter 5"
+}

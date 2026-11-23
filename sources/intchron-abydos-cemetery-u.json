@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:intchron-abydos-cemetery-u",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "IntChron Egyptian Chronology · Abydos Cemetery U",
+  "sourceType": "dataset",
+  "url": "https://intchron.org/record/Egypt",
+  "creators": [
+    "IntChron"
+  ],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "identifiers": {
+    "site": "Abydos_Cemetery_U"
+  },
+  "bibliographicNote": "The egyptdb entry provides coordinates for Cemetery U, an orientation for the excavated area, with the cemetery and wider Abydos entries listed separately."
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:tell-brak",
+  "sourceRefs": [
+    {
+      "sourceId": "source:soltysiak-tell-brak-field-report",
+      "role": "supports",
+      "locator": "p. 36, opening paragraph: Tell Brak's coordinates and main mound"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tell Brak",
+    "en": "Tell Brak"
+  },
+  "summary": {
+    "de": "Siedlungshügel mit niedriger gelegenen Fundbereichen im heutigen Nordosten Syriens.",
+    "en": "Settlement mound with lower-lying find areas in what is now northeastern Syria."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:green-mohenjo-daro-public-structures-2018",
+  "sourceRefs": [],
+  "title": "Mohenjo-daro’s Small Public Structures: Heterarchy, Collective Action, and a Re-visitation of Old Interpretations with GIS and 3D Modelling",
+  "sourceType": "article",
+  "creators": [
+    "Adam S. Green"
+  ],
+  "url": "https://www.repository.cam.ac.uk/items/97ed7230-fc3a-4901-b976-1ca11b7a71fc",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The repository abstract outlines the city’s collective-action interpretation and broad Indus phase dates.",
+  "published": "2018",
+  "containerTitle": "Cambridge Archaeological Journal 28(2), 205–223",
+  "identifiers": {
+    "doi": "10.1017/S0959774317000774"
+  }
+}

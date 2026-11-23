@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:aspero-starch-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Results and Table 1, nine Áspero columns; Material and methods: Burial contexts and Table 2"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Áspero · Pflanzenreste im Zahnstein",
+    "en": "Áspero · plant remains in dental calculus"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -2999,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2999,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -1899,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1899,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Die Spanne deckt die direkt datierten und über den Fundzusammenhang eingeordneten Kontexte der neun Áspero-Proben ab.",
+    "en": "The bracket covers the directly dated and contextually assigned burials for the nine samples from Áspero."
+  },
+  "participants": [
+    {
+      "entityId": "specimen:aspero-dental-starch-grains",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:aspero"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:aspero-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Stärkekörner zeigen den Kontakt mit bestimmten Pflanzen. Aus dieser kleinen Stichprobe lassen sich keine Anteile der Mahlzeiten bestimmen.",
+      "en": "Starch grains show contact with specific plants. This small sample cannot establish the proportions of foods in meals."
+    }
+  }
+}

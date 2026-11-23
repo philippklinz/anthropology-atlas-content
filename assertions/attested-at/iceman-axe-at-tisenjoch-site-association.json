@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:iceman-axe-at-tisenjoch-site-association",
+  "sourceRefs": [
+    {
+      "sourceId": "source:south-tyrol-museum-iceman-discovery",
+      "role": "supports",
+      "locator": "Circumstances leading to the find and Discovery site: axe recovered with the body at Tisenjoch, 3,210 m, in 1991"
+    },
+    {
+      "sourceId": "source:artioli-iceman-copper-2017",
+      "role": "supports",
+      "locator": "Introduction, Fig. 1 (axe components), and Discussion, Late Copper Age metallurgy in Central Italy: the cited 3350–3000 cal BCE shaft-date estimate (2 sigma)"
+    }
+  ],
+  "subjectId": "artifact:iceman-copper-axe",
+  "predicate": "attested-at",
+  "objectId": "place:tisenjoch-iceman-findspot",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -3349,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2999,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Das Zeitfenster beruht auf publizierten Radiokarbondaten zum hölzernen Axtstiel. Die Axt wurde 1991 bei Ötzi geborgen.",
+    "en": "The range follows published radiocarbon dating of the wooden axe handle. The axe was recovered with Ötzi in 1991."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Zeitfenster beruht auf publizierten Radiokarbondaten zum hölzernen Axtstiel. Die Axt wurde 1991 bei Ötzi geborgen.",
+      "en": "The range follows published radiocarbon dating of the wooden axe handle. The axe was recovered with Ötzi in 1991."
+    }
+  }
+}

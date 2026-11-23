@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:uruk-tablet-vat14674",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:smb-uruk-vat14674",
+      "role": "supports",
+      "locator": "Expert details for VAT 14674: Late Uruk, findspot Uruk (Warka), clay and measurements"
+    },
+    {
+      "sourceId": "source:cdli-uruk-p001252",
+      "role": "supports",
+      "locator": "Text and Provenance: 4(N01) followed by three signs, language undetermined, Uruk IV attribution, findspot Qa XVI,2 and excavation no. W 09579,d"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Verwaltungstafel · VAT 14674",
+    "en": "Administrative tablet · VAT 14674"
+  },
+  "summary": {
+    "de": "Etwa vier Zentimeter hohe Tontafel aus Uruk mit einer Zahlenangabe und drei weiteren Zeichen. Sie wurde unter der Grabungsnummer W 09579,d erfasst.",
+    "en": "A clay tablet from Uruk about four centimetres high, with a number notation and three additional signs. Its excavation number is W 09579,d."
+  },
+  "externalIds": {
+    "cdli": "P001252",
+    "smb": "VAT 14674"
+  }
+}

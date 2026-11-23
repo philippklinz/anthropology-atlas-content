@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:dholavira-stepped-reservoir",
+  "sourceRefs": [
+    {
+      "sourceId": "source:bharathan-dholavira-reservoir-photo-2017",
+      "role": "supports",
+      "locator": "Summary and Licensing, reservoir description, photographer and CC BY-SA 4.0 declaration."
+    }
+  ],
+  "assetType": "image",
+  "file": "dholavira-stepped-reservoir.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Dholavira · ein Wasserbecken heute",
+    "en": "Dholavira · a reservoir today"
+  },
+  "alt": {
+    "de": "Ausgegrabenes Wasserbecken mit abgestuften Steinwänden. Oberhalb stehen Menschen zwischen den Ruinen.",
+    "en": "Excavated basin with stepped stone walls. People stand among the ruins above it."
+  },
+  "entityIds": [
+    "place:dholavira"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Bhajish Bharathan"
+    ],
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_reservoir_at_Dholavira_site.jpg",
+    "attribution": "Bhajish Bharathan, Water reservoir at Dholavira site.jpg, Wikimedia Commons · CC BY-SA 4.0",
+    "originNote": "Unchanged 960 × 638 Commons thumbnail. This is a site illustration. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

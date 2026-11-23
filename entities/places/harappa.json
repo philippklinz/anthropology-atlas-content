@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:harappa",
+  "sourceRefs": [
+    {
+      "sourceId": "source:doam-harappa-location",
+      "role": "supports",
+      "locator": "Harappa, Latitude 30.626363333 and Longitude 72.866035111."
+    },
+    {
+      "sourceId": "source:meadow-kenoyer-harappa-1997",
+      "role": "supports",
+      "locator": "p. 150, Mound ET, Trench 10E, courtyard at east side of street 95 and ceramic attribution to 3B. Fig. 7.6, H95-2491/4690-01, floor/fill."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Harappa",
+    "en": "Harappa"
+  },
+  "summary": {
+    "de": "Großer Siedlungsplatz im heutigen Punjab in Pakistan. Das Siegel stammt vom Nordwesthang des Siedlungshügels ET.",
+    "en": "Large settlement site in present-day Punjab, Pakistan. The seal comes from the northwestern slope of Mound ET."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:bisht-dholavira-waterworks-2007",
+  "sourceRefs": [],
+  "title": "Recently Excavated Harappan Site: Dholavira",
+  "sourceType": "article",
+  "creators": [
+    "Ravindra Singh Bisht"
+  ],
+  "url": "https://jnanapravaha.org/download/research/rsb01.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavation director’s structural description, site phasing and interpretation of capture and storage.",
+  "published": "2007",
+  "containerTitle": "Jñāna-Pravāha Annual Bulletin 10"
+}

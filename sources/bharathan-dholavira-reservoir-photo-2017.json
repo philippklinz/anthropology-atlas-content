@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:bharathan-dholavira-reservoir-photo-2017",
+  "sourceRefs": [],
+  "title": "Water reservoir at Dholavira site.jpg",
+  "sourceType": "website",
+  "creators": [
+    "Bhajish Bharathan"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Water_reservoir_at_Dholavira_site.jpg",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Photograph of a stepped reservoir at Dholavira. The file description identifies the site without naming a particular reservoir."
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:pingliangtai",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Occupation, hydraulic technologies and landscape, Figs. 3 and 5a–b, housing-side ditches and ceramic pipes at the southern gate; Fig. 6, typical segment sizes"
+    },
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Occupation, hydraulic technologies and landscape, Fig. 4 and Supplementary Table 7; 4,200–3,900 cal BP for occupation and mostly 4,100–3,900 cal BP for houses, deposits and drainage contexts"
+    },
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Fig. 2b and Nature Portfolio Reporting Summary, Field work, collection and transport, Profile 1 inside the site; N 33°42′29.148″ E 114°55′26.920″"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Pingliangtai · Henan, China",
+    "en": "Pingliangtai · Henan, China"
+  },
+  "summary": {
+    "de": "Ummauerte Siedlung auf einer leichten Erhebung in der Ebene bei Huaiyang. Gräben und Tonrohre leiteten Wasser aus dem Siedlungsbereich ab.",
+    "en": "A walled settlement on a slight rise in the plain near Huaiyang. Ditches and ceramic pipes drained water from the settlement."
+  }
+}

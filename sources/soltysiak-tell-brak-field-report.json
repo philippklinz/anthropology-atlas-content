@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:soltysiak-tell-brak-field-report",
+  "sourceRefs": [],
+  "title": "Tell Brak (Syria), seasons 1984–2009",
+  "sourceType": "article",
+  "creators": [
+    "Arkadiusz Sołtysiak"
+  ],
+  "published": "2011",
+  "url": "https://www.anthropology.uw.edu.pl/03/bne-03-05.pdf",
+  "containerTitle": "Bioarchaeology of the Near East 3, pp. 36–41 (vol. 2009, issued 16 July 2011)",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Fieldwork report used for site orientation, not a chronology of the surface assemblage."
+}

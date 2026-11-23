@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:fuchs-sechin-bajo-2009",
+  "sourceRefs": [],
+  "title": "Del Arcaico Tardío al Formativo Temprano: las investigaciones en Sechín bajo, valle de Casma",
+  "creators": [
+    "Peter R. Fuchs",
+    "Renate Patzschke",
+    "Germán Yenque",
+    "Jesús Briceño"
+  ],
+  "sourceType": "article",
+  "url": "https://revistas.pucp.edu.pe/index.php/boletindearqueologia/es/article/view/983",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "published": "2009",
+  "containerTitle": "Boletín de Arqueología PUCP 13, 55–86",
+  "identifiers": {
+    "doi": "10.18800/boletindearqueologiapucp.200901.002"
+  },
+  "bibliographicNote": "Full excavation report consulted through the Biblat mirror (https://biblat.unam.mx/hevila/BoletindearqueologiaPUCP/2009/no13/2.pdf). The publisher's article page declares CC BY 4.0."
+}

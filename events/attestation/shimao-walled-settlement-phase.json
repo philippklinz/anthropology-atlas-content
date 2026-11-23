@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:shimao-walled-settlement-phase",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sun-shimao-urban-centre-2018",
+      "role": "supports",
+      "locator": "Abstract and §2, The discovery of Shimao; walled site dated approximately 2300–1800 cal BCE"
+    },
+    {
+      "sourceId": "source:rawson-shimao-excavation-reports-2026",
+      "role": "supports",
+      "locator": "The city, walls and the Imperial Terraces, Figs. 1–2, inner and outer walls, terrace retainers and cliff overlooking the Tuwei River"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Shimao · die befestigte Siedlung",
+    "en": "Shimao · the walled settlement"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -2299,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2299,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -1799,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1799,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:shimao-stone-enclosures",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:shimao"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:shimao-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Das Fenster bezeichnet die Hauptphase der befestigten Siedlung. Für einzelne Mauerabschnitte und Terrassen sind eigene Bauphasen zu untersuchen.",
+    "en": "The window describes the main phase of the walled settlement. Individual wall sections and terraces have their own building phases to investigate."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Ausgegrabene Mauern und Terrassen stützen die Rekonstruktion der Anlage. Der Zeitrahmen stützt sich auf die Datierung der Fundstelle.",
+      "en": "Excavated walls and terraces support reconstruction of the layout. The date window follows the dating of the site."
+    }
+  }
+}

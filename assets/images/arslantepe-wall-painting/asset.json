@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:arslantepe-wall-painting",
+  "sourceRefs": [
+    {
+      "sourceId": "source:arslantepe-wall-painting-photograph",
+      "role": "derivation",
+      "locator": "Summary and Licensing sections"
+    }
+  ],
+  "assetType": "image",
+  "file": "arslantepe.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Arslantepe · Wandmalerei im Museum von Malatya",
+    "en": "Arslantepe · wall painting in the Malatya Museum"
+  },
+  "alt": {
+    "de": "Rote Figur mit erhobenen Händen und dunklen Akzenten auf hellem Putz.",
+    "en": "Red figure with raised hands and dark accents on pale plaster."
+  },
+  "entityIds": [
+    "artifact:arslantepe-via-complex"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Dosseman"
+    ],
+    "attribution": "Dosseman / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malatya_museum_Arslantepe_wall_paintings_2024.jpg",
+    "originNote": "Resized, re-encoded and stripped of camera metadata. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

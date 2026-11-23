@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:mohenjo-daro-block-8-drain-at-site",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mackay-mohenjo-daro-dk-g-1936",
+      "role": "supports",
+      "locator": "Chapter 5, DK Area G Section, c5.22 and Plate XIX, Block 8, room 50, large brick covers in situ and provisional Late I assignment."
+    },
+    {
+      "sourceId": "source:green-mohenjo-daro-public-structures-2018",
+      "role": "supports",
+      "locator": "Abstract, broad Indus urban phase around 2600–1900 BCE and discussion of collective action and political organization."
+    }
+  ],
+  "subjectId": "artifact:mohenjo-daro-block-8-drain",
+  "predicate": "attested-at",
+  "objectId": "place:mohenjo-daro",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -2599,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1899,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "In Block 8, Raum 50 fand die Grabung eine mit großen Ziegeln abgedeckte Rinne. Der Zahlenrahmen bezeichnet die Indus-Städtezeit.",
+    "en": "Excavators found a channel with large brick covers in Block 8, Room 50. The numeric range is the contextual period of Indus urbanism."
+  },
+  "epistemic": {
+    "status": "attested"
+  }
+}

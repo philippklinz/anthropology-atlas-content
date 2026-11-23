@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cdli-uruk-p001252",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "ATU 5, pl. 062, W 9579,d (P001252)",
+  "sourceType": "catalog",
+  "url": "https://cdli.earth/artifacts/1252",
+  "creators": [
+    "Cuneiform Digital Library Initiative"
+  ],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "identifiers": {
+    "cdli": "P001252",
+    "excavation": "W 09579,d",
+    "inventory": "VAT 14674"
+  },
+  "bibliographicNote": "Edition of the tablet in Robert K. Englund, Archaic Administrative Texts from Uruk: The Early Campaigns (1994), plate 62. CDLI tabulates the sign sequence, findspot and approximate Uruk IV script-phase range."
+}

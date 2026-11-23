@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:artioli-iceman-copper-2017",
+  "sourceRefs": [],
+  "title": "Long-distance connections in the Copper Age: New evidence from the Alpine Iceman’s copper axe",
+  "sourceType": "article",
+  "creators": [
+    "Gilberto Artioli",
+    "Ivana Angelini",
+    "Gerhard Kaufmann",
+    "Cinzia Canovaro",
+    "Giorgia Dal Sasso",
+    "Igor M. Villa"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0179263",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2017",
+  "containerTitle": "PLOS ONE 12(7), e0179263",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0179263",
+    "correction": "10.1371/journal.pone.0189561"
+  },
+  "bibliographicNote": "The published correction concerns the bibliography in the Figure 5 legend. The chapter uses Figure 3 and its discussion for comparison of the axe sample with ore deposits."
+}

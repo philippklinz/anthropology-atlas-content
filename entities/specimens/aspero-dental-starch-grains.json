@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:aspero-dental-starch-grains",
+  "sourceRefs": [
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Results and Table 1, nine Áspero columns; Material and methods: Burial contexts and Table 2"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Áspero · Stärke im Zahnstein",
+    "en": "Áspero · starch in dental calculus"
+  },
+  "summary": {
+    "de": "Mikroskopische Pflanzenreste im Zahnstein von neun Menschen aus Áspero. Das Team identifizierte unter anderem Süßkartoffel, Kürbis und Mais.",
+    "en": "Microscopic plant remains in the dental calculus of nine individuals from Áspero. The team identified sweet potato, squash and maize, among other foods."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:mapcarta-varna-i-location",
+  "sourceRefs": [],
+  "title": "Varna Chalcolithic Necropolis",
+  "sourceType": "website",
+  "creators": [
+    "Mapcarta",
+    "OpenStreetMap contributors"
+  ],
+  "url": "https://mapcarta.com/W656506021",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Public site-area pin for archaeological site W656506021. Used solely for map orientation."
+}

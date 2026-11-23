@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:liangzhu-high-dam-construction-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, Fig. 5, calibrated dates from grassy material and charcoal in high dams, low dams and levees; most high-dam dates 5,200–4,800 cal BP"
+    },
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, Figs. 2D and 3A, dam sections and grass-wrapped clay bundles; Fig. 1B, positions north and west of the city"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Liangzhu · datierte Schichten der Hochdämme",
+    "en": "Liangzhu · dated high-dam deposits"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 5200,
+      "younger": 5200,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 4800,
+      "younger": 4800,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:liangzhu-high-dam-remains",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:liangzhu-high-dams"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:liangzhu-high-dams-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Das Zeitfenster gibt den Schwerpunkt der Datierungen aus der Hochdammgruppe wieder. Der Laohuling-Querschnitt ist ein Beispiel für die Bauweise dieser Gruppe.",
+    "en": "The window gives the main cluster of dates for the high-dam group. The Laohuling section is one example of construction in this group."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Radiokarbondaten aus Pflanzenteilen und Holzkohle in Dammablagerungen. Die Dämme wurden in mehreren Projekten gebaut und teils erneuert.",
+      "en": "Radiocarbon dates on plants and charcoal in dam deposits. Dams were built in several projects, with some later rebuilding."
+    }
+  }
+}
