@@ -2,7 +2,7 @@
 
 Independent historical content for the [Anthropology Atlas engine](https://github.com/philippklinz/anthropology-atlas-engine).
 
-Twenty-seven historical chapters are available in German and English:
+Thirty-three historical chapters are available in German and English:
 
 - [The Cradle of Humankind: early Homo sapiens in Africa](docs/research/cradle-of-humankind.md), including fossil evidence, stone tools and explicit dating uncertainty.
 - [Early Routes out of Africa: Misliya, Skhul, Qafzeh and Al Wusta](docs/research/early-routes-out-of-africa.md), with fossil evidence, environmental context and explicit dating limits.
@@ -28,11 +28,17 @@ Twenty-seven historical chapters are available in German and English:
 - [Marks, Seals and Writing](chapters/marks-seals-and-writing/en.md), comparing a clay envelope from Susa, a tablet from Uruk and perforated tags at Abydos.
 - [Waterworks and Walls in Early China](chapters/water-and-walls-in-early-china/en.md), on Liangzhu dams, Pingliangtai drains and Shimao walls.
 - [Cities of the Indus](chapters/cities-of-the-indus/en.md), comparing a courtyard seal at Harappa, water use at Mohenjo-daro and a reservoir at Dholavira.
+- [Kerma and Egypt](chapters/kerma-and-egypt/en.md), on Kerma's Western Deffufa, cooking pots at Askut and a stela from Buhen.
+- [Letters Between Royal Courts](chapters/letters-between-royal-courts/en.md), on an Assyrian letter from Amarna and treaty records at Hattusa and Karnak.
+- [The Uluburun Shipwreck](docs/research/the-uluburun-shipwreck.md), on the wreck, copper from Cyprus and glass from Egypt.
+- [Ugarit Around 1200 BCE](chapters/ugarit-around-1200-bce/en.md), on Minet el-Beida, a late letter from Ras Shamra and rebuilding at Tell Tweini.
+- [Oracle Bones of Anyang](chapters/oracle-bones-of-anyang/en.md), on an oracle inscription, the named vessel in Fu Hao's tomb and the Xiaomintun foundry.
+- [The Stone Heads of San Lorenzo](chapters/stone-heads-of-san-lorenzo/en.md), comparing Colossal Head 1, the Los Tuxtlas basalt and the Llano del Jícaro workshop.
 - [Columbus's first Atlantic voyage, 1492–1493](docs/research/columbus-first-voyage.md), including inhabited Caribbean societies and the disputed identification of Guanahani.
 - [The first circumnavigation, 1519–1522](docs/research/first-circumnavigation.md).
 - [Darwin and the second Beagle voyage, 1831–1836](docs/research/darwin-beagle.md), including his four Galápagos island stays.
 
-The dataset contains 887 records, including 254 entities, 129 events, 67 assertions, 114 geometries, 220 sources, 47 images, one interpretation group, twenty-seven chapters and twenty-eight packages. All records remain **research drafts**. The source records and chapter notes document sources, map precision and outstanding interpretations.
+The dataset contains 1,082 records, including 304 entities, 149 events, 87 assertions, 131 geometries, 284 sources, 59 images, one interpretation group, thirty-three chapters and thirty-four packages. The records are **research drafts**. The source records and chapter notes document sources, map precision and outstanding interpretations.
 
 `published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it. The early-dispersal package reuses Homo sapiens and Levallois identities through its explicit dependency on `package:human-origins`. The human-encounters package depends on the same owner for Homo sapiens and introduces cited genetic relationships between individual specimens and biological lineages.
 
@@ -68,4 +74,4 @@ All processing runs in the browser; selected files are not uploaded. The tool ca
 
 ## Chapter discovery
 
-All twenty-seven chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. Ohalo II appears in the food and shelter chapters with a single canonical place record. Shubayqa 1 links the deglaciation chapter with the use of the hearths at the same site. The Palaeolithic and postglacial groups overlap in “As the Ice Retreats.” Uruk appears in the city and writing chapters through a single shared place and orientation point. See [chapter discovery](docs/research/chapter-discovery.md), [the Palaeolithic plan](docs/planning/palaeolithic.md), [the postglacial chapter plan](docs/planning/postglacial-lifeways.md) and [the early cities chapter plan](docs/planning/early-cities-networks.md).
+All thirty-three chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. Ohalo II appears in the food and shelter chapters with a single canonical place record. Shubayqa 1 links the deglaciation chapter with the use of the hearths at the same site. The Palaeolithic and postglacial groups overlap in “As the Ice Retreats.” Uruk appears in the city and writing chapters through a single shared place and orientation point. Amarna appears in the court letters and shipwreck chapters with separately dated evidence. See [chapter discovery](docs/research/chapter-discovery.md) and the plans for the [Palaeolithic](docs/planning/palaeolithic.md), [postglacial lifeways](docs/planning/postglacial-lifeways.md), [early cities](docs/planning/early-cities-networks.md) and [kingdoms and trade networks](docs/planning/kingdoms-and-trade-networks.md).
