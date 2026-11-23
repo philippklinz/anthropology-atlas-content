@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:stos-gale-cyprus-ores-1997",
+  "sourceRefs": [],
+  "title": "Lead isotope characteristics of the Cyprus copper ore deposits applied to provenance studies of copper oxhide ingots",
+  "creators": [
+    "Z. A. Stos-Gale",
+    "G. Maliotis",
+    "N. H. Gale",
+    "N. Annetts"
+  ],
+  "sourceType": "article",
+  "url": "https://doi.org/10.1111/j.1475-4754.1997.tb00792.x",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Publisher abstract provides ore sampling design and geographic grouping. The specific Uluburun interpretation follows the excavator's synthesis.",
+  "published": "1997",
+  "containerTitle": "Archaeometry 39(1), pp. 83–123",
+  "identifiers": {
+    "doi": "10.1111/j.1475-4754.1997.tb00792.x"
+  }
+}

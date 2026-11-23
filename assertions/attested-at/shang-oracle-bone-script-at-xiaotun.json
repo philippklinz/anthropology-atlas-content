@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:shang-oracle-bone-script-at-xiaotun",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ihp-ping-0247",
+      "role": "supports",
+      "locator": "Item R041287, description of the childbirth inquiry, Period, Excavated/Findspot, and Materials"
+    },
+    {
+      "sourceId": "source:ihp-wu-ding-divination-context",
+      "role": "supports",
+      "locator": "Description of item 117: conventional dates of Wu Ding's reign and interpretation of heat cracks on oracle bones"
+    },
+    {
+      "sourceId": "source:ihp-yh127-excavation-exhibition-2006",
+      "role": "supports",
+      "locator": "Opening description and The archaeological sensation in 1936, report of 17,096 inscribed pieces from Pit YH127"
+    }
+  ],
+  "subjectId": "script:shang-oracle-bone-script",
+  "predicate": "attested-at",
+  "objectId": "place:xiaotun-yh127",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1249,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1191,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Ein Exemplar der Orakelknochenschrift aus Grube YH127, Ping 0247, belegt die schriftliche Aufzeichnung einer Orakelfrage.",
+    "en": "Ping 0247 from Pit YH127 is an example of oracle bone writing used to record a divination inquiry."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Zeitangabe gehört zu diesem Beispiel aus der Regierungszeit Wu Dings.",
+      "en": "The dating applies to this example from the reign of Wu Ding."
+    }
+  }
+}

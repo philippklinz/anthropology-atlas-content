@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ras-shamra-ugarit-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.7858,
+      35.6017
+    ]
+  }
+}

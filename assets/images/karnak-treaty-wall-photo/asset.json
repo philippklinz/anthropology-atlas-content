@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:karnak-treaty-wall-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:karnak-treaty-wall-tausch-photo",
+      "role": "derivation",
+      "locator": "Summary and Permission: west exterior wall of the Cachette court, CC BY 3.0"
+    }
+  ],
+  "assetType": "image",
+  "file": "karnak-treaty-wall-photo.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Vertragsinschrift in Karnak",
+    "en": "Treaty inscription at Karnak"
+  },
+  "alt": {
+    "de": "Tempelwand aus Sandstein mit schmalen Hieroglyphenzeilen, breiten senkrechten Zeichenreihen am Rand und einer rechteckigen Aussparung.",
+    "en": "Sandstone temple wall with narrow lines of hieroglyphs, broader vertical signs at the edges and a rectangular recess."
+  },
+  "entityIds": [
+    "artifact:karnak-treaty-inscription-kiu32"
+  ],
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "Olaf Tausch · Wikimedia Commons"
+    ],
+    "attribution": "Olaf Tausch · Wikimedia Commons · CC-BY-3.0 · resized and converted to WebP",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg",
+    "originNote": "Complete source photograph resized to 825 × 1100 px and converted to WebP. Creative Commons Attribution 3.0 Unported: https://creativecommons.org/licenses/by/3.0/."
+  }
+}

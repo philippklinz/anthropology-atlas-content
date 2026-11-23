@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:xiaotun-ping-0247-oracle",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ihp-ping-0247",
+      "role": "supports",
+      "locator": "Item R041287, description of the childbirth inquiry, Period, Excavated/Findspot, and Materials"
+    },
+    {
+      "sourceId": "source:ihp-wu-ding-divination-context",
+      "role": "supports",
+      "locator": "Description of item 117: conventional dates of Wu Ding's reign and interpretation of heat cracks on oracle bones"
+    }
+  ],
+  "subjectId": "artifact:anyang-ping-0247-plastron",
+  "predicate": "attested-at",
+  "objectId": "place:xiaotun-yh127",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1249,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1191,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Auf dem Schildkrötenpanzer Ping 0247 wurde eine Befragung zur erwarteten Geburt eines Kindes Fu Haos festgehalten.",
+    "en": "The turtle plastron Ping 0247 records an inquiry about the expected birth of a child to Fu Hao."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Eintrag wird der Regierungszeit Wu Dings zugeordnet. Die Spanne folgt der ungefähren Regierungsdatierung.",
+      "en": "The inscription is attributed to Wu Ding’s reign. The range follows an approximate chronology for that reign."
+    }
+  }
+}

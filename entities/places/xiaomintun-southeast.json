@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:xiaomintun-southeast",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:li-kingly-crafts-2022",
+      "role": "supports",
+      "locator": "Chapter 2, Bronze Foundry at Xiaomintun Southeast, 2000–2001 and Fig. 2.4; chapter 4, Type II moulds and Yinxu phases III–IV"
+    },
+    {
+      "sourceId": "source:skrabal-casting-bronze-inscriptions-2021",
+      "role": "supports",
+      "locator": "Section 7, pp. 131–132 and notes 64–66: 2000–01 Xiaomintun block, dimensions, 11 graphs, traces of modelled strokes"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Xiaomintun Südost",
+    "en": "Xiaomintun Southeast"
+  },
+  "summary": {
+    "de": "Bereich einer Bronzegießerei im Westen von Yinxu. Die Grabungen 2000–2001 lieferten Fragmente von Gussformen und einen Tonblock mit Schriftzeichen.",
+    "en": "Bronze foundry area in western Yinxu. The 2000–2001 excavation yielded casting mould fragments and an inscribed clay block."
+  }
+}

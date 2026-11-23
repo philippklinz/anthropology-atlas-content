@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:xiaomintun-inscription-block-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skrabal-casting-bronze-inscriptions-2021",
+      "role": "supports",
+      "locator": "Section 7, pp. 131–132 and notes 64–66: 2000–01 Xiaomintun block, dimensions, 11 graphs, traces of modelled strokes"
+    },
+    {
+      "sourceId": "source:li-kingly-crafts-2022",
+      "role": "supports",
+      "locator": "Chapter 2, Bronze Foundry at Xiaomintun Southeast, 2000–2001 and Fig. 2.4; chapter 4, Type II moulds and Yinxu phases III–IV"
+    },
+    {
+      "sourceId": "source:zhang-yinxu-feeding-status-2022",
+      "role": "supports",
+      "locator": "§3.2, pp. 30–31, approximate dates for Anyang periods III–IV and traces of bronze production"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Xiaomintun · Tonblock aus der Bronzegießerei",
+    "en": "Xiaomintun · clay block from the bronze foundry"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1149,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1049,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:xiaomintun-clay-inscription-block",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:xiaomintun-southeast"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:xiaomintun-southeast-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Ein Tonblock mit elf Zeichen stammt aus den Gießereibefunden von Xiaomintun Südost. Er gibt Hinweise darauf, wie Werkstätten Schriftzüge für Bronzegüsse vorbereiteten.",
+    "en": "A clay block with eleven signs comes from the foundry contexts at Xiaomintun Southeast. It offers clues to how workshops prepared inscriptions for casting in bronze."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Spanne folgt der ungefähren Datierung des spätshangzeitlichen Gießereikontexts in die Phasen III–IV von Yinxu.",
+      "en": "The range follows the approximate date of the late Shang foundry context in Yinxu phases III–IV."
+    }
+  }
+}

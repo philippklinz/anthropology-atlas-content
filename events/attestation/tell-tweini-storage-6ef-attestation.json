@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:tell-tweini-storage-6ef-attestation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bretschneider-tweini-field-a-2011",
+      "role": "supports",
+      "locator": "pp. 82–83, Field A, level 6E–F, Figs. 11–13: storage vessels and sampled seeds"
+    },
+    {
+      "sourceId": "source:gil-orduna-tweini-chronology-2024",
+      "role": "supports",
+      "locator": "Table 4 and Tell Tweini discussion: modeled 6F–6E transition and 6E end"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tell Tweini · Gefäße im Vorratsraum",
+    "en": "Tell Tweini · jars in a storeroom"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1049,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -999,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Die Ausgräber legten eine Reihe großer Gefäße an der Wand eines Vorratsraums frei. Samen in den Gefäßen lieferten Radiokarbonproben.",
+    "en": "Excavators uncovered a row of large jars against a storeroom wall. Seeds in the jars supplied radiocarbon samples."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Grabungsteam setzte das Ende dieser Schicht ungefähr auf 1050–1000 v. Chr. Ein jüngeres Modell umfasst auch Daten im 10. Jahrhundert.",
+      "en": "The excavation team placed the end of this layer around 1050–1000 BCE. A newer model also allows dates in the tenth century."
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:tell-tweini-early-iron-age-storage-jars",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:tell-tweini"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tell-tweini-orientation",
+      "role": "findspot"
+    }
+  ]
+}

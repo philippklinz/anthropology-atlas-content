@@ -1,0 +1,380 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:kerma-and-egypt",
+  "sourceRefs": [
+    {
+      "sourceId": "source:bonnet-kerma-excavations-1992",
+      "role": "supports",
+      "locator": "Table 1 and pp. 614–615, Figs. 6–7: architectural phases of the Western Deffufa and its religious quarter."
+    },
+    {
+      "sourceId": "source:sudan-kerma-tentative-list-2022",
+      "role": "supports",
+      "locator": "Description, paragraphs on the capital of Kush and goods, pottery and seal impressions connected with exchange."
+    },
+    {
+      "sourceId": "source:schrader-buzon-smith-askut-2018",
+      "role": "supports",
+      "locator": "Table 1; pp. 12 and 15–16, Ceramic assemblage and Figs. 2, 4: fabrics, manufacturing styles and cooking sherd counts."
+    },
+    {
+      "sourceId": "source:randall-maciver-woolley-buhen-1911",
+      "role": "supports",
+      "locator": "p. 113, Stela of Sepedher 10984, room 13; surviving lines 6–9, office and temple building for ruler of Kush."
+    },
+    {
+      "sourceId": "source:tla-sepedher-stela-pum-10984",
+      "role": "supports",
+      "locator": "Finding place, Current location and Dating; late Second Intermediate Period and 17th Dynasty."
+    },
+    {
+      "sourceId": "source:cooper-kushite-kingship-2018",
+      "role": "supports",
+      "locator": "pp. 143–146, §1.1, the Buhen inscriptions and the debate over the word read as Nedjeh."
+    },
+    {
+      "sourceId": "source:getty-buhen-site",
+      "role": "supports",
+      "locator": "Note, location on the west bank and present submergence beneath the reservoir."
+    }
+  ],
+  "labels": {
+    "de": "Kerma und Ägypten",
+    "en": "Kerma and Egypt"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:kerma-deffufa-late-use",
+    "event:askut-second-intermediate-cooking-pottery",
+    "event:buhen-sepedher-inscription",
+    "assertion:kerma-kingdom-power-in-buhen"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 30.79,
+      "latitude": 20.8,
+      "metersPerPixel": 1600,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -1799,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1799,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1449,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1449,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "kerma",
+      "textAnchor": "kerma",
+      "labels": {
+        "de": "Kerma · Ein Tempel wächst",
+        "en": "Kerma · a temple grows"
+      },
+      "summary": {
+        "de": "Die Westliche Deffufa lag im religiösen Viertel einer nubischen Hauptstadt.",
+        "en": "The Western Deffufa stood in the religious quarter of a Nubian capital."
+      },
+      "state": {
+        "camera": {
+          "longitude": 30.4097,
+          "latitude": 19.6008,
+          "metersPerPixel": 525,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1799,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1799,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1449,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1449,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:kerma-western-deffufa"
+    },
+    {
+      "id": "askut",
+      "textAnchor": "askut",
+      "labels": {
+        "de": "Askut · Kochen nach verschiedenen Traditionen",
+        "en": "Askut · cooking in different traditions"
+      },
+      "summary": {
+        "de": "Ruß und Gefäßformen zeigen, welche Töpfe Menschen in der Festung zum Kochen verwendeten.",
+        "en": "Soot and vessel shapes show what kinds of pots people used to cook in the fortress."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.0934,
+          "latitude": 21.6168,
+          "metersPerPixel": 525,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1689,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1689,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1519,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1519,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "buhen",
+      "textAnchor": "buhen",
+      "labels": {
+        "de": "Buhen · Ein Amtsträger von Kusch",
+        "en": "Buhen · an official serving Kush"
+      },
+      "summary": {
+        "de": "Eine Stele verbindet ein lokales Amt mit dem Herrscher von Kusch.",
+        "en": "A stela connects a local office with the ruler of Kush."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.2876,
+          "latitude": 21.9034,
+          "metersPerPixel": 525,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1689,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1689,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1519,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1519,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:buhen-before-inundation"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Tempel, Kochscherben und eine Stele erzählen vom Königreich Kerma und seinen Nachbarn am Nil.",
+      "en": "A temple, cooking sherds and a stela tell the story of the Kingdom of Kerma and its neighbours along the Nile."
+    },
+    "periods": [
+      {
+        "id": "kingdoms-and-trade-networks",
+        "labels": {
+          "de": "Königreiche und Handelsnetze",
+          "en": "Kingdoms and Trade Networks"
+        },
+        "description": {
+          "de": "Handel, Diplomatie, Werkstätten und Herrschaft zwischen etwa 1800 und 1000 v. Chr. Die Kapitel folgen den jeweils regionalen Datierungen und vergleichen konkrete Funde.",
+          "en": "Trade, diplomacy, workshops and power from roughly 1800 to 1000 BCE. The chapters follow local chronologies and compare specific finds."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "africa",
+        "labels": {
+          "de": "Afrika",
+          "en": "Africa"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      },
+      {
+        "id": "nubia",
+        "labels": {
+          "de": "Nubien",
+          "en": "Nubia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "settlements",
+        "labels": {
+          "de": "Siedlungen",
+          "en": "Settlements"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:askut-cooking-sherds",
+    "artifact:kerma-western-deffufa",
+    "artifact:sepedher-stela-pum-10984",
+    "assertion:askut-cooking-sherds-at-askut",
+    "assertion:kerma-kingdom-power-in-buhen",
+    "assertion:sepedher-stela-at-buhen",
+    "assertion:western-deffufa-at-kerma",
+    "asset:buhen-before-inundation",
+    "asset:kerma-western-deffufa",
+    "event:askut-second-intermediate-cooking-pottery",
+    "event:buhen-sepedher-inscription",
+    "event:kerma-deffufa-late-use",
+    "geometry:askut-orientation",
+    "geometry:buhen-orientation",
+    "geometry:kerma-orientation",
+    "person:sepedher",
+    "place:askut",
+    "place:buhen",
+    "place:kerma",
+    "polity:kingdom-of-kerma",
+    "source:bonnet-kerma-excavations-1992",
+    "source:callens-western-deffufa-photograph-2009",
+    "source:cooper-kushite-kingship-2018",
+    "source:getty-buhen-site",
+    "source:randall-maciver-woolley-buhen-1911",
+    "source:salvoldi-geus-nubia-gazetteer-2017",
+    "source:schrader-buzon-smith-askut-2018",
+    "source:sudan-kerma-tentative-list-2022",
+    "source:tla-sepedher-stela-pum-10984",
+    "source:ucl-buhen-site",
+    "source:unesco-buhen-fortress-photograph-1960"
+  ]
+}

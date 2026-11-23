@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:callens-western-deffufa-photograph-2009",
+  "sourceRefs": [],
+  "title": "Western Deffufa - Kerma",
+  "sourceType": "website",
+  "creators": [
+    "Walter Callens"
+  ],
+  "containerTitle": "Wikimedia Commons",
+  "published": "2009",
+  "url": "https://commons.wikimedia.org/wiki/File:Western_Deffufa_-_Kerma.jpg",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The Commons file page and Flickr review identify Walter Callens and CC BY 2.0 Generic."
+}

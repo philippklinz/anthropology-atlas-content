@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "polity:kingdom-of-kerma",
+  "sourceRefs": [
+    {
+      "sourceId": "source:sudan-kerma-tentative-list-2022",
+      "role": "supports",
+      "locator": "Description, paragraphs on the capital of Kush and goods, pottery and seal impressions connected with exchange."
+    },
+    {
+      "sourceId": "source:cooper-kushite-kingship-2018",
+      "role": "supports",
+      "locator": "pp. 143–146, §1.1, the Buhen inscriptions and the debate over the word read as Nedjeh."
+    }
+  ],
+  "entityType": "polity",
+  "labels": {
+    "de": "Königreich von Kerma",
+    "en": "Kingdom of Kerma"
+  },
+  "summary": {
+    "de": "Nubisches Königreich mit Hauptstadt in Kerma. Ägyptische Inschriften bezeichnen sein Herrschaftsgebiet als Kusch.",
+    "en": "Nubian kingdom centred on Kerma. Egyptian inscriptions use the name Kush for its realm."
+  }
+}

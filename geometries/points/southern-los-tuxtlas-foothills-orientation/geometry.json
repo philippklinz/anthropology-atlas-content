@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:southern-los-tuxtlas-foothills-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 5–7: basalt boulders on the southern slopes near Cerro Cintepec, Soteapan and Huazuntlan. Map 1: generalized source localities."
+    },
+    {
+      "sourceId": "source:inegi-veracruz-soteapan-2023",
+      "role": "supports",
+      "locator": "p. 440, Situación actual de los municipios, Soteapan: 18°13′46.236″ N, 94°52′21.923″ W."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 30000,
+    "note": {
+      "de": "Regionale Orientierung für den Basaltvergleich. Der einzelne Herkunftsblock kann nur der Gegend zugeordnet werden.",
+      "en": "Regional orientation for the basalt comparison. The source boulder can only be attributed to the area."
+    }
+  },
+  "processingNote": {
+    "de": "Der gerundete Punkt bei Soteapan liegt in der beschriebenen Vergleichsregion.",
+    "en": "The rounded point at Soteapan lies within the described comparison area."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic place point",
+    "originNote": "Authored from published factual locations."
+  }
+}

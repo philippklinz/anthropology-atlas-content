@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:zheng-fu-hao-inscribed-bronzes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "10. The Si-Tu (“Qiao”)-Mu Inscriptions Excavated from the Fu Hao Tomb",
+  "sourceType": "article",
+  "creators": [
+    "Zheng Zhenxiang"
+  ],
+  "url": "https://doi.org/10.1017/S0362502800002972",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Early China 9, Supplement S1 (1986), pp. 20–21, symposium abstract. Zheng Zhenxiang's report notes 190 inscribed vessels, 109 with the Fu Hao inscription or its variant, and explicitly identifies the 1976 excavation context.",
+  "published": "1986",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1017/S0362502800002972"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:sudan-kerma-tentative-list-2022",
+  "sourceRefs": [],
+  "title": "The Monuments of the Kingdom of Kerma and Dokki Geil",
+  "sourceType": "catalog",
+  "creators": [
+    "Sudanese National Commission for Education, Science and Culture"
+  ],
+  "containerTitle": "UNESCO World Heritage Centre, Tentative List 6594",
+  "published": "2022",
+  "url": "https://whc.unesco.org/en/tentativelists/6594",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Tentative-list submission with site coordinates, architectural summaries and a survey of material exchanges."
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:kerma-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:sudan-kerma-tentative-list-2022",
+      "role": "supports",
+      "locator": "Coordinates, 19°36′02.89″ N and 30°24′35.03″ E, and Description, remains around the Western Deffufa."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 300,
+    "note": {
+      "de": "Orientierung am archäologischen Fundort.",
+      "en": "Orientation to the archaeological site."
+    }
+  },
+  "processingNote": {
+    "de": "Koordinate aus dem sudanesischen Antrag für die UNESCO-Vorschlagsliste, nahe der Westlichen Deffufa.",
+    "en": "Coordinate from Sudan’s UNESCO Tentative List submission, near the Western Deffufa."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · site orientation point",
+    "originNote": "Editorial point placed from cited geographic coordinates."
+  }
+}

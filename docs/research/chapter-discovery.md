@@ -1,6 +1,6 @@
 # Chapter discovery and membership
 
-2026-11-23. All twenty-seven chapters remain research drafts.
+2026-11-23. All thirty-three chapters are research drafts.
 
 `recordIds` is an explicit reading scope, independent of canonical package ownership. It includes each chapter’s people, places, events, assertions, geometries and cited sources, plus outgoing references. Shared places retain one ID. Dependencies do not automatically make every shared record a chapter member. The initial lists were seeded from the existing three curatorial packages and checked for reference closure and person counts (4 / 4 / 3).
 
@@ -16,8 +16,12 @@ The six chapters in `postglacial-lifeways` (Neue Lebensweisen nach der Kaltzeit 
 
 `early-cities-networks` (Erste Städte, Handel und Schrift / Early Cities, Trade and Writing) groups six chapters across roughly 4600–1800 BCE. Each chapter has three steps and a viewing window based on its evidence. The city and writing chapters share the Uruk place, point and coordinate source through an explicit package dependency. The Steinstiftgebäude and tablet VAT 14674 remain two separately dated objects and records. [Chapter plan](../planning/early-cities-networks.md).
 
+`kingdoms-and-trade-networks` (Königreiche und Handelsnetze / Kingdoms and Trade Networks) groups six chapters around 1800–1000 BCE. The individual records use the date ranges supported for their contexts. The San Lorenzo workshop evidence includes a broader Formative-period range of c. 1150–500 BCE. Uluburun reuses the Amarna place, point and location source owned by the court letters package. Its glass workshop has distinct evidence from the diplomatic letter. [Chapter plan](../planning/kingdoms-and-trade-networks.md).
+
 The explorer uses its period dropdown without a duplicate tile row. Search, regions, topics, dates, multi-selection and chronological chapter order remain available. Branch-specific collections remain a future editorial option, not a new runtime control in this change.
 
 The browser compiler exported `draft-f63990989c1339abacbb` from source revision `f63e71c9cc21f0becbda4d026f75539cfae685cb`. It validated 705 records with zero errors and zero warnings. All 202 catalogue file sizes and SHA-256 hashes matched. Preview checks covered 18 new stations, map evidence in the SVG fallback and 11 station images, including the reused Shubayqa photograph. The two period filters returned 12 and 7 chapters. Shared Shubayqa directory membership, the Brunn-Wolfholz language switch and Back navigation, and the Eynan chapter at 390 CSS pixels were verified.
 
 The browser compiler 0.1.0-dev.8 exported `draft-c0eacea6217969cc7acc` from source revision `8106d49148f71e25d36d8023af70731e3117942c`. It validated 887 records with zero errors and zero warnings. All 251 catalogue file sizes and SHA-256 hashes matched. In the preview, the new time filter returned six chapters, the Arslantepe search returned the city chapter and the Uruk search returned both relevant chapters. All 18 stops showed the expected summary, URL step, camera and time parameters, map evidence with SVG rendering, and timeline entries. All 13 station images loaded. The Caral step persisted across the English language switch and browser Back to German.
+
+The pinned browser compiler exported `draft-f921049bb060f3796df6` from source revision `2e82fde3f6a8378318051969e1038be59d19d715`. It validated 1,082 records with zero errors and zero warnings. All 298 catalogue file sizes and SHA-256 hashes matched. The time filter returned six chapters. The Amarna search returned the court letters and the shipwreck chapters. The browser preview displayed all 18 station states with their summary, map evidence in the SVG view, timeline entries and URL parameters. All twelve station images loaded. Xiaomintun remained selected when changing to English and when returning to German with browser Back.

@@ -1,0 +1,337 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:stone-heads-of-san-lorenzo",
+  "sourceRefs": [
+    {
+      "sourceId": "source:max-xalapa-san-lorenzo-head-1",
+      "role": "supports",
+      "locator": "Object 10958: basalt, 260 cm high, early Preclassic 1200–900 BCE, Texistepec provenance and Patio 1."
+    },
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 5–7: basalt boulders on the southern slopes near Cerro Cintepec, Soteapan and Huazuntlan. Map 1: generalized source localities."
+    },
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 16–18, Monuments from San Lorenzo and Adjacent Sites, item a: objects 1–5 assigned to the Cerro Cintepec and Soteapan basalt group."
+    },
+    {
+      "sourceId": "source:gillespie-llano-jicaro-workshop-1994",
+      "role": "supports",
+      "locator": "pp. 234–235, Worked Stone 3; pp. 238–239, Excavations at WS 3 and Fig. 16: slab, stone chips, hammerstone and Formative ceramics."
+    },
+    {
+      "sourceId": "source:gillespie-llano-jicaro-workshop-1994",
+      "role": "supports",
+      "locator": "p. 231, introduction: ca. 1150–500 BCE in the article's Olmec chronology; pp. 240–241, Summary and Discussion: inferred Formative carving and later Classic occupation."
+    }
+  ],
+  "labels": {
+    "de": "Die Steinköpfe von San Lorenzo",
+    "en": "The Stone Heads of San Lorenzo"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:san-lorenzo-colossal-head-1-evidence",
+    "event:san-lorenzo-head-1-proposed-basalt-source",
+    "event:llano-del-jicaro-stoneworking-evidence"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -94.96,
+      "latitude": 18.0,
+      "metersPerPixel": 280,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -1249,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1249,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -899,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -899,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "san-lorenzo",
+      "textAnchor": "san-lorenzo",
+      "labels": {
+        "de": "San Lorenzo · Ein Kopf aus Basalt",
+        "en": "San Lorenzo · a basalt head"
+      },
+      "summary": {
+        "de": "Vergleiche Stirnband und Ohrschmuck in Vorder- und Seitenansicht des Kolossalkopfs 1.",
+        "en": "Compare the headband and ear ornaments in front and side views of Colossal Head 1."
+      },
+      "state": {
+        "camera": {
+          "longitude": -94.7613,
+          "latitude": 17.7517,
+          "metersPerPixel": 110,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1199,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1199,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -899,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -899,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:san-lorenzo-head-1"
+    },
+    {
+      "id": "los-tuxtlas",
+      "textAnchor": "los-tuxtlas",
+      "labels": {
+        "de": "Los Tuxtlas · Die Herkunft des Steins",
+        "en": "Los Tuxtlas · where the stone came from"
+      },
+      "summary": {
+        "de": "Kristalle im Basalt verbinden den Kopf mit den vulkanischen Ausläufern von Los Tuxtlas.",
+        "en": "Crystals in the basalt link the head to the volcanic foothills of Los Tuxtlas."
+      },
+      "state": {
+        "camera": {
+          "longitude": -94.87,
+          "latitude": 18.23,
+          "metersPerPixel": 220,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1199,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1199,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -899,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -899,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "llano-del-jicaro",
+      "textAnchor": "llano-del-jicaro",
+      "labels": {
+        "de": "Llano del Jícaro · Eine Werkstatt für große Blöcke",
+        "en": "Llano del Jícaro · a workshop for large stones"
+      },
+      "summary": {
+        "de": "Um eine Platte fanden Ausgräber Abschläge, einen Schlagstein und Keramik.",
+        "en": "Excavators found flakes, a hammerstone and pottery around a slab."
+      },
+      "state": {
+        "camera": {
+          "longitude": -95.15,
+          "latitude": 18.08,
+          "metersPerPixel": 125,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1149,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1149,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -499,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -499,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein riesiger Basaltkopf, seine Herkunft und die Spuren einer Werkstatt zeigen, wie Menschen im heutigen Veracruz Monumente schufen.",
+      "en": "A huge basalt head, its geological source and traces from a workshop show how people made monuments in present-day Veracruz."
+    },
+    "periods": [
+      {
+        "id": "kingdoms-and-trade-networks",
+        "labels": {
+          "de": "Königreiche und Handelsnetze",
+          "en": "Kingdoms and Trade Networks"
+        },
+        "description": {
+          "de": "Handel, Diplomatie, Werkstätten und Herrschaft zwischen etwa 1800 und 1000 v. Chr. Die Kapitel folgen den jeweils regionalen Datierungen und vergleichen konkrete Funde.",
+          "en": "Trade, diplomacy, workshops and power from roughly 1800 to 1000 BCE. The chapters follow local chronologies and compare specific finds."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
+      },
+      {
+        "id": "mesoamerica",
+        "labels": {
+          "de": "Mesoamerika",
+          "en": "Mesoamerica"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "exchange",
+        "labels": {
+          "de": "Austausch",
+          "en": "Exchange"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:llano-del-jicaro-worked-stone-3",
+    "artifact:san-lorenzo-colossal-head-1",
+    "assertion:llano-del-jicaro-worked-stone-3-at-site",
+    "assertion:san-lorenzo-head-1-at-site",
+    "asset:san-lorenzo-head-1",
+    "event:llano-del-jicaro-stoneworking-evidence",
+    "event:san-lorenzo-colossal-head-1-evidence",
+    "event:san-lorenzo-head-1-proposed-basalt-source",
+    "geometry:llano-del-jicaro-orientation",
+    "geometry:san-lorenzo-tenochtitlan-orientation",
+    "geometry:southern-los-tuxtlas-foothills-orientation",
+    "place:llano-del-jicaro",
+    "place:san-lorenzo-tenochtitlan",
+    "place:southern-los-tuxtlas-foothills",
+    "source:gillespie-llano-jicaro-workshop-1994",
+    "source:inah-san-lorenzo-archaeological-site",
+    "source:inegi-veracruz-soteapan-2023",
+    "source:max-xalapa-san-lorenzo-head-1",
+    "source:ortiz-pucheta-laguna-cerros-2016",
+    "source:vivero-madman2001-san-lorenzo-head-photo",
+    "source:williams-heizer-olmec-rock-sources-1965"
+  ]
+}

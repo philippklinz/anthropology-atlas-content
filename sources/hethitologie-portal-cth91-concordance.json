@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hethitologie-portal-cth91-concordance",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Konkordanz der hethitischen Keilschrifttafeln · CTH 91",
+  "sourceType": "dataset",
+  "url": "https://hethport.net/hetkonk/hetkonk_abfrage.php?c=91",
+  "creators": [
+    "Hethitologie-Portal Mainz"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Concordance of cuneiform witnesses with find contexts, publication signs and joins.",
+  "identifiers": {
+    "catalogNumber": "CTH 91"
+  },
+  "language": "de"
+}

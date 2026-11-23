@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:ugarit-and-late-bronze-age-crises",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Ugarit um 1200 v. Chr.",
+    "en": "Ugarit Around 1200 BCE"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:minet-el-beida-pyxis-lid-ao-11601",
+    "artifact:tell-tweini-early-iron-age-masonry",
+    "artifact:tell-tweini-early-iron-age-storage-jars",
+    "artifact:ugarit-alphabet-tablet-ao-19992",
+    "artifact:ugarit-royal-letter-rs-20-238",
+    "assertion:minet-el-beida-ivory-lid-attestation",
+    "assertion:tell-tweini-rebuilt-field-a",
+    "assertion:tell-tweini-storage-6ef-attestation",
+    "assertion:ugarit-alphabet-tablet-attestation",
+    "assertion:ugarit-royal-letter-rs-20-238-attestation",
+    "asset:minet-el-beida-ivory-lid-photo",
+    "asset:tell-tweini-field-a-photos",
+    "chapter:ugarit-around-1200-bce",
+    "event:minet-el-beida-ivory-lid-attestation",
+    "event:tell-tweini-rebuilt-field-a",
+    "event:tell-tweini-storage-6ef-attestation",
+    "event:ugarit-royal-letter-rs-20-238-attestation",
+    "geometry:minet-el-beida-orientation",
+    "geometry:ras-shamra-ugarit-orientation",
+    "geometry:tell-tweini-orientation",
+    "place:minet-el-beida",
+    "place:ras-shamra-ugarit",
+    "place:tell-tweini",
+    "source:bretschneider-tweini-field-a-2011",
+    "source:commons-tweini-field-a-figure",
+    "source:de-graauw-ancient-harbours-2024",
+    "source:fuller-riehl-tweini-agropastoral-2024",
+    "source:gil-orduna-tweini-chronology-2024",
+    "source:kaniewski-tweini-excavation-figure-2011",
+    "source:knapp-manning-late-bronze-age-2016",
+    "source:louvre-ao-11601",
+    "source:louvre-ao-19992",
+    "source:ras-shamra-mission-site-history",
+    "source:shonagon-pyxis-lid-2024"
+  ],
+  "entryChapterIds": [
+    "chapter:ugarit-around-1200-bce"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:western-deffufa-at-kerma",
+  "sourceRefs": [
+    {
+      "sourceId": "source:bonnet-kerma-excavations-1992",
+      "role": "supports",
+      "locator": "Table 1 and pp. 614–615, Figs. 6–7: architectural phases of the Western Deffufa and its religious quarter."
+    },
+    {
+      "sourceId": "source:sudan-kerma-tentative-list-2022",
+      "role": "supports",
+      "locator": "Coordinates, 19°36′02.89″ N and 30°24′35.03″ E, and Description, remains around the Western Deffufa."
+    }
+  ],
+  "subjectId": "artifact:kerma-western-deffufa",
+  "predicate": "attested-at",
+  "objectId": "place:kerma",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -1749,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1749,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -1499,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1499,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Die späte Nutzung wird im Rahmen der klassischen und abschließenden Kerma-Phasen gezeigt. In der Westlichen Deffufa unterscheidet die Grabung mindestens zwölf Bauphasen.",
+    "en": "Later use is shown in the context of the Classic and Final Kerma phases. Excavation distinguished at least twelve building phases in the Western Deffufa."
+  },
+  "epistemic": {
+    "status": "attested"
+  }
+}

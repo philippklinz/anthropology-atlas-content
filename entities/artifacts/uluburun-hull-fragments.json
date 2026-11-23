@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:uluburun-hull-fragments",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pulak-uluburun-hull-1999",
+      "role": "supports",
+      "locator": "pp. 15–16, opening paragraphs and Fig. 1: timber date estimate, slope and anchor-preserved hull sections"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Uluburun · hölzerne Rumpfreste",
+    "en": "Uluburun · wooden hull fragments"
+  },
+  "summary": {
+    "de": "Teile von Kiel und Planken, am Hang des Meeresbodens erhalten und während der Tauchgrabung untersucht.",
+    "en": "Parts of the keel and planking preserved on the sloping seabed and examined in the underwater excavation."
+  }
+}

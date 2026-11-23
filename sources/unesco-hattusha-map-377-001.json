@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-hattusha-map-377-001",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Hattusha: the Hittite Capital · geographical data",
+  "sourceType": "dataset",
+  "url": "https://whc.unesco.org/en/list/0377/maps/",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Coordinates of the Hattousa city component 377-001. The point is a site reference.",
+  "language": "en",
+  "identifiers": {
+    "worldHeritageComponent": "377-001"
+  }
+}

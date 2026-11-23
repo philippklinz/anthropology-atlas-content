@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:inah-san-lorenzo-archaeological-site",
+  "sourceRefs": [],
+  "title": "San Lorenzo Tenochtitlan (Zona Arqueológica)",
+  "sourceType": "catalog",
+  "creators": [
+    "Instituto Nacional de Antropología e Historia"
+  ],
+  "url": "https://datos.inah.gob.mx/taxonomy/term/1950",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "bibliographicNote": "National archaeological-place database. The coordinates represent the archaeological zone."
+}

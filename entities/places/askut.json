@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:askut",
+  "sourceRefs": [
+    {
+      "sourceId": "source:salvoldi-geus-nubia-gazetteer-2017",
+      "role": "supports",
+      "locator": "p. 86, entry 0267 Askut Island, 21.616790 N, 31.093370 E."
+    },
+    {
+      "sourceId": "source:schrader-buzon-smith-askut-2018",
+      "role": "supports",
+      "locator": "Table 1; pp. 12 and 15–16, Ceramic assemblage and Figs. 2, 4: fabrics, manufacturing styles and cooking sherd counts."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Askut",
+    "en": "Askut"
+  },
+  "summary": {
+    "de": "Insel mit einer befestigten Siedlung in Unternubien. Die Keramikfunde zeigen unterschiedliche Traditionen des Kochens.",
+    "en": "Island with a fortified settlement in Lower Nubia. Its ceramics show different cooking traditions."
+  }
+}

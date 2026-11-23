@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:uluburun-copper-ingots",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "pp. 289–292, Fig. 92 and Copper and Tin Ingots: estimated date near 1300 BCE and bulk metal freight"
+    },
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "catalogue 185, copper ingots, lead-isotope paragraph and notes 23–26: probable Solea-axis source region"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Uluburun · Kupferbarren",
+    "en": "Uluburun · copper ingots"
+  },
+  "summary": {
+    "de": "Der größte Teil der schweren Ladung bestand aus Kupferbarren. Einige zeigen die typische flache Form mit Fortsätzen.",
+    "en": "Copper ingots made up much of the heavy cargo. Some have a characteristic flat shape with projections."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:schrader-buzon-smith-askut-2018",
+  "sourceRefs": [],
+  "title": "Colonial-indigene interaction in ancient Nubia: An integrative analysis of stress, diet, and ceramic data",
+  "sourceType": "article",
+  "creators": [
+    "Sarah A. Schrader",
+    "Michele R. Buzon",
+    "Stuart T. Smith"
+  ],
+  "containerTitle": "Bioarchaeology of the Near East 12, 1–32",
+  "published": "2018",
+  "url": "https://www.anthropology.uw.edu.pl/12/bne-12-01.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Table 1 provides the Lower Nubian chronology used for the ceramic comparison. The cooking counts are classified sherds."
+}

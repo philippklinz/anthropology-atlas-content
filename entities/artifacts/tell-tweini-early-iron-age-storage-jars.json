@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:tell-tweini-early-iron-age-storage-jars",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bretschneider-tweini-field-a-2011",
+      "role": "supports",
+      "locator": "pp. 82–83, Field A, level 6E–F, Figs. 11–13: storage vessels and sampled seeds"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Vorratsgefäße aus Schicht 6E–F",
+    "en": "Storage jars from level 6E–F"
+  },
+  "summary": {
+    "de": "Große Tongefäße aus dem südlichen Gebäudeflügel im Grabungsfeld A. In den Gefäßen blieben Samen erhalten.",
+    "en": "Large pottery jars from the south wing of a building in Field A. Seeds survived inside the jars."
+  }
+}

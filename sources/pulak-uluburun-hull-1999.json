@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:pulak-uluburun-hull-1999",
+  "sourceRefs": [],
+  "title": "Hull Construction of the Late Bronze Age Shipwreck at Uluburun",
+  "creators": [
+    "Cemal Pulak"
+  ],
+  "sourceType": "article",
+  "url": "https://nauticalarch.org/wp-content/uploads/2015/10/INAQ-1999-26.4.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavator's report on the hull, sloping seabed and the wood-based dating estimate.",
+  "published": "1999",
+  "containerTitle": "INA Quarterly 26(4), pp. 15–22"
+}

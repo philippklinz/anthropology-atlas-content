@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:buhen-before-inundation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-buhen-fortress-photograph-1960",
+      "role": "derivation",
+      "locator": "File page: Description, Author and Licensing."
+    }
+  ],
+  "assetType": "image",
+  "file": "buhen.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Buhen · Ausgrabungsfoto vor der Überflutung",
+    "en": "Buhen · excavation photograph before inundation"
+  },
+  "alt": {
+    "de": "Historische Aufnahme niedriger Ziegelmauern und eines tiefen Grabens der Festung.",
+    "en": "Historic photograph of low brick walls and a deep ditch at the fortress."
+  },
+  "entityIds": [
+    "place:buhen"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-3.0-IGO",
+    "creators": [
+      "UNESCO"
+    ],
+    "attribution": "UNESCO / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buhen_-_Fortress_in_the_Middle_and_the_New_Kingdom(_about_1200_B.C.).jpg",
+    "originNote": "Unmodified Commons JPEG. CC BY-SA 3.0 IGO: https://creativecommons.org/licenses/by-sa/3.0/igo/."
+  }
+}

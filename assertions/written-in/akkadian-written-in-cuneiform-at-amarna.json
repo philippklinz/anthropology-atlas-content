@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:akkadian-written-in-cuneiform-at-amarna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-amarna-ea15-24-2-11",
+      "role": "supports",
+      "locator": "Object Information and overview: accession, approximate date, probable Amarna provenance, clay, dimensions, Assyrian Akkadian and proposed addressee"
+    }
+  ],
+  "subjectId": "language:akkadian",
+  "predicate": "written-in",
+  "objectId": "script:cuneiform",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1346,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1329,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Tafel EA 15 bezeugt diese Verbindung von Sprache und Schrift.",
+      "en": "Tablet EA 15 attests this combination of language and script."
+    }
+  },
+  "note": {
+    "de": "Die Tafel EA 15 bezeugt diese Verbindung von Sprache und Schrift.",
+    "en": "Tablet EA 15 attests this combination of language and script."
+  }
+}

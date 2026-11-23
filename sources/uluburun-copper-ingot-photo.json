@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:uluburun-copper-ingot-photo",
+  "sourceRefs": [],
+  "title": "Copper ingot from the wreck · Bodrum museum",
+  "creators": [
+    "Zunkir"
+  ],
+  "sourceType": "website",
+  "url": "https://commons.wikimedia.org/wiki/File:Uluburun_copper_ingot_oxhide_two_handled_shaped.jpg",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "File description identifies the Uluburun finds at the Bodrum Museum of Underwater Archaeology. Photo rights are CC BY-SA 4.0.",
+  "published": "2026",
+  "containerTitle": "Wikimedia Commons"
+}

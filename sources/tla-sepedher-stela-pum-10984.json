@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:tla-sepedher-stela-pum-10984",
+  "sourceRefs": [],
+  "title": "Stele des Sepedher (Philadelphia PUM 10984)",
+  "sourceType": "catalog",
+  "creators": [
+    "Thesaurus Linguae Aegyptiae"
+  ],
+  "containerTitle": "Thesaurus Linguae Aegyptiae",
+  "url": "https://tla.digital/object/UU4R27HNPVEJVPDXIRNFJHWTJY",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Object entry records inventory, find context and attribution to the late Second Intermediate Period and 17th Dynasty."
+}

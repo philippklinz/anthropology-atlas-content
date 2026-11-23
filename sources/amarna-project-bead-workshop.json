@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:amarna-project-bead-workshop",
+  "sourceRefs": [],
+  "title": "Bead workshop M50.14–16",
+  "creators": [
+    "Amarna Project"
+  ],
+  "sourceType": "website",
+  "url": "https://www.amarnaproject.com/our-work/excavation-and-survey/bead-workshop/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Project excavation summary for the courtyard finds and their Amarna Period context."
+}

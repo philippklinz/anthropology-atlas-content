@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ihp-wu-ding-divination-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tortoise carapace inscribed in red ink",
+  "sourceType": "catalog",
+  "creators": [
+    "Institute of History and Philology, Academia Sinica"
+  ],
+  "url": "https://archeodata.sinica.edu.tw/Publications/3DAA/en/object.php?item=117",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "3D Gallery of the IHP, item 117. The object description supplies the approximate 1250–1192 BCE dating of Wu Ding's reign and describes the general oracle-bone divination procedure. This entry describes a different object from Ping 0247.",
+  "language": "en"
+}

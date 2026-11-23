@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:amarna-ea15-probable-findspot",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-amarna-ea15-24-2-11",
+      "role": "supports",
+      "locator": "Object Information and overview: accession, approximate date, probable Amarna provenance, clay, dimensions, Assyrian Akkadian and proposed addressee"
+    }
+  ],
+  "subjectId": "artifact:amarna-ea15",
+  "predicate": "attested-at",
+  "objectId": "place:amarna",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1346,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1329,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Brief richtet sich an den König von Ägypten. Die Zuschreibung an Echnaton ist wahrscheinlich. Amarna bezeichnet den wahrscheinlichen Fundplatz.",
+      "en": "The letter addresses the king of Egypt. The identification with Akhenaten is probable. Amarna is the probable findsite."
+    }
+  },
+  "note": {
+    "de": "Der Brief richtet sich an den König von Ägypten. Die Zuschreibung an Echnaton ist wahrscheinlich. Amarna bezeichnet den wahrscheinlichen Fundplatz.",
+    "en": "The letter addresses the king of Egypt. The identification with Akhenaten is probable. Amarna is the probable findsite."
+  }
+}

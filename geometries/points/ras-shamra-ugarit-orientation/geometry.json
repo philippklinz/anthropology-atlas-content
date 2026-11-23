@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:ras-shamra-ugarit-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ras-shamra-mission-site-history",
+      "role": "derivation",
+      "locator": "Historique, Ras Shamra coordinate line: 35°36′06″ N, 35°47′09″ E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 500,
+    "note": {
+      "de": "Orientierung auf dem Siedlungshügel, anhand der von der Grabungsmission angegebenen Lage.",
+      "en": "Orientation on the settlement mound using coordinates given by the excavation mission."
+    }
+  },
+  "processingNote": {
+    "de": "Orientierung auf dem Siedlungshügel, anhand der von der Grabungsmission angegebenen Lage.",
+    "en": "Orientation on the settlement mound using coordinates given by the excavation mission."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from the cited factual coordinates."
+  }
+}

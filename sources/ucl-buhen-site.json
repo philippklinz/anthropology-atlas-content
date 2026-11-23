@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:ucl-buhen-site",
+  "sourceRefs": [],
+  "title": "Buhen",
+  "sourceType": "website",
+  "creators": [
+    "University College London"
+  ],
+  "containerTitle": "Digital Egypt for Universities",
+  "published": "2000",
+  "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/buhen/index.html",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Archaeological summary outlining the fortress, political phases and the temple of Horus."
+}

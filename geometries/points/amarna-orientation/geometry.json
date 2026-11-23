@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:amarna-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:amarna-project-central-city-location",
+      "role": "supports",
+      "locator": "City zones, Central City coordinates 27°38′52.87″ N, 30°53′56.97″ E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1500,
+    "note": {
+      "de": "Gerundeter Orientierungspunkt.",
+      "en": "Rounded orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Bezugspunkt der Zentralstadt von Amarna. Der Punkt dient der Orientierung am Fundplatz.",
+    "en": "Rounded Central City reference point at Amarna. The point gives site orientation."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manual point derived from the cited geographic location."
+  }
+}

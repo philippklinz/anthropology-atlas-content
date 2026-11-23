@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:southern-los-tuxtlas-foothills-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.87,
+      18.23
+    ]
+  }
+}

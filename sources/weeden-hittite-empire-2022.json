@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:weeden-hittite-empire-2022",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Hittite Empire",
+  "sourceType": "book",
+  "url": "https://discovery.ucl.ac.uk/id/eprint/10186390/1/OHANE3_oso-9780190687601-chapter-30.pdf",
+  "creators": [
+    "Mark Weeden"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Chapter 30, especially pp. 593–595, on the treaty versions, silver copy and later correspondence.",
+  "published": "2022",
+  "publisher": "Oxford University Press",
+  "language": "en",
+  "containerTitle": "The Oxford History of the Ancient Near East, volume III",
+  "identifiers": {
+    "doi": "10.1093/oso/9780190687601.003.0030"
+  }
+}

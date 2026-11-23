@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:amarna-ea15-tablet-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-amarna-ea15-24-2-11",
+      "role": "derivation",
+      "locator": "Object image EGDP021806 and Public Domain notice"
+    }
+  ],
+  "assetType": "image",
+  "file": "amarna-ea15-tablet-photo.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Die Tontafel EA 15",
+    "en": "Clay tablet EA 15"
+  },
+  "alt": {
+    "de": "Kleine braune Tontafel mit Keilschriftzeilen vor dunklem Hintergrund.",
+    "en": "Small brown clay tablet with rows of cuneiform against a dark backdrop."
+  },
+  "entityIds": [
+    "artifact:amarna-ea15"
+  ],
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "The Metropolitan Museum of Art"
+    ],
+    "attribution": "The Metropolitan Museum of Art · CC0-1.0 · resized and converted to WebP",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/544695",
+    "originNote": "Accession 24.2.11, Rogers Fund, 1924. The Met marks the source image as Public Domain under its Open Access image policy. Complete museum image converted to WebP."
+  }
+}

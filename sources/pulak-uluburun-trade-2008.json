@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:pulak-uluburun-trade-2008",
+  "sourceRefs": [],
+  "title": "The Uluburun Shipwreck and Late Bronze Age Trade",
+  "creators": [
+    "Cemal Pulak"
+  ],
+  "sourceType": "article",
+  "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/ETUDESarchivees/Navires/UluBurun/UluburunWreck-Pulak2008.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavator's synthesis and associated object catalogue. Used for the archaeological evidence, freight amounts and copper provenance discussion.",
+  "published": "2008",
+  "containerTitle": "Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium B.C."
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:hattusa-cth91-clay-tablets",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hethitologie-portal-cth91-concordance",
+      "role": "supports",
+      "locator": "CTH 91, entries 91.A and 91.B: KBo 1.7 joins and find contexts at Hattusa"
+    },
+    {
+      "sourceId": "source:weeden-hittite-empire-2022",
+      "role": "supports",
+      "locator": "Pp. 593–594, treaty versions, two Hattusa clay witnesses, Karnak and Ramesseum translations and silver document"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Vertragsfassungen aus Hattusa (CTH 91)",
+    "en": "Treaty witnesses from Hattusa (CTH 91)"
+  },
+  "summary": {
+    "de": "Fragmente akkadischer Tontafeln zum Vertrag zwischen Hattusili III. und Ramses II. Die Konkordanz erfasst unter anderem KBo 1.7 mit Anschlussstücken.",
+    "en": "Fragments of Akkadian clay tablets recording the treaty between Hattusili III and Ramesses II. The concordance records KBo 1.7 and its joins among the witnesses."
+  },
+  "externalIds": {
+    "hethitologiePortal": "CTH 91"
+  }
+}

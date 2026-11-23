@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:xiaotun-yh127-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.3184,
+      36.1222
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:karnak-treaty-wall-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cfeetk-karnak-kiu32-archive",
+      "role": "supports",
+      "locator": "Record 44406, KIU 32: west exterior wall of the Cachette court, sandstone and year 21 of Ramesses II"
+    },
+    {
+      "sourceId": "source:ramses-online-karnak-treaty-1102",
+      "role": "supports",
+      "locator": "Text 1102, header and translation of the treaty clauses: wall, year 21, hieroglyphs and peace provisions"
+    },
+    {
+      "sourceId": "source:moore-hittite-queenship-2018",
+      "role": "supports",
+      "locator": "P. 106, The Egyptian-Hittite treaty (1259 BCE): year 21 and absolute chronology"
+    },
+    {
+      "sourceId": "source:moore-hittite-queenship-2018",
+      "role": "supports",
+      "locator": "Pp. 103–105, description and translation of Puduḫepa’s seal in the Karnak text"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Karnak · der Vertrag an der Tempelwand",
+    "en": "Karnak · the treaty on the temple wall"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1258,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1258,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:karnak-treaty-inscription-kiu32",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "language:ancient-egyptian",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "script:egyptian-hieroglyphs",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:puduhepa",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:karnak"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:karnak-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Inschrift nennt das 21. Regierungsjahr von Ramses II. für das Abkommen. Das entspricht ungefähr 1259 v. Chr. Die Datierung der Beschriftung der Wand ist weniger genau.",
+      "en": "The inscription gives Ramesses II’s twenty-first regnal year for the agreement. That corresponds to around 1259 BCE. The carving of the wall is less precisely dated."
+    }
+  },
+  "note": {
+    "de": "Die Inschrift nennt das 21. Regierungsjahr von Ramses II. für das Abkommen. Das entspricht ungefähr 1259 v. Chr. Die Datierung der Beschriftung der Wand ist weniger genau.",
+    "en": "The inscription gives Ramesses II’s twenty-first regnal year for the agreement. That corresponds to around 1259 BCE. The carving of the wall is less precisely dated."
+  }
+}

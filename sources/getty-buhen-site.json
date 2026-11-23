@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:getty-buhen-site",
+  "sourceRefs": [],
+  "title": "Buhen (deserted settlement)",
+  "sourceType": "catalog",
+  "creators": [
+    "Getty Research Institute"
+  ],
+  "containerTitle": "Getty Thesaurus of Geographic Names, 8711648",
+  "url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&subjectid=8711648",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Place entry documents the original site on the west bank of the Nile and its present-day submergence."
+}

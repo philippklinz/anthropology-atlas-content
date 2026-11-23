@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:kerma",
+  "sourceRefs": [
+    {
+      "sourceId": "source:sudan-kerma-tentative-list-2022",
+      "role": "supports",
+      "locator": "Coordinates, 19°36′02.89″ N and 30°24′35.03″ E, and Description, remains around the Western Deffufa."
+    },
+    {
+      "sourceId": "source:sudan-kerma-tentative-list-2022",
+      "role": "supports",
+      "locator": "Description, paragraphs on the capital of Kush and goods, pottery and seal impressions connected with exchange."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Kerma",
+    "en": "Kerma"
+  },
+  "summary": {
+    "de": "Alte Hauptstadt des Königreichs von Kerma am dritten Nilkatarakt im heutigen Sudan.",
+    "en": "Ancient capital of the Kingdom of Kerma near the third Nile cataract in present-day Sudan."
+  }
+}

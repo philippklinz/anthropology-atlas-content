@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:de-graauw-ancient-harbours-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ancient Coastal Settlements, Ports and Harbours, vol. I: The Catalogue",
+  "sourceType": "book",
+  "creators": [
+    "Arthur de Graauw"
+  ],
+  "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/AUTHORS/AdG/AncientPortsVol-I-List.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Ninth edition, 2024. Entry 3414 locates the bay and the harbour site of Minet el-Beida.",
+  "published": "2024"
+}

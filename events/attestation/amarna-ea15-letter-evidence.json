@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:amarna-ea15-letter-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-amarna-ea15-24-2-11",
+      "role": "supports",
+      "locator": "Object Information and overview: accession, approximate date, probable Amarna provenance, clay, dimensions, Assyrian Akkadian and proposed addressee"
+    },
+    {
+      "sourceId": "source:moran-amarna-ea15-edition-1988",
+      "role": "supports",
+      "locator": "No. 102, pp. 149–150, lines 1–22 and note to line 13: sender, embassy, gifts, return of the messenger and reading of the lapis bead"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Amarna · der Brief EA 15",
+    "en": "Amarna · letter EA 15"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1346,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1329,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:amarna-ea15",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "language:akkadian",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "script:cuneiform",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:ashur-uballit-i",
+      "role": "author"
+    }
+  ],
+  "placeIds": [
+    "place:amarna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:amarna-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Brief richtet sich an den König von Ägypten. Die Zuschreibung an Echnaton ist wahrscheinlich. Amarna bezeichnet den wahrscheinlichen Fundplatz.",
+      "en": "The letter addresses the king of Egypt. The identification with Akhenaten is probable. Amarna is the probable findsite."
+    }
+  },
+  "note": {
+    "de": "Der Brief richtet sich an den König von Ägypten. Die Zuschreibung an Echnaton ist wahrscheinlich. Amarna bezeichnet den wahrscheinlichen Fundplatz.",
+    "en": "The letter addresses the king of Egypt. The identification with Akhenaten is probable. Amarna is the probable findsite."
+  }
+}

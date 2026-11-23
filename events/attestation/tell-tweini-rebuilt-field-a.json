@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:tell-tweini-rebuilt-field-a",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bretschneider-tweini-field-a-2011",
+      "role": "supports",
+      "locator": "pp. 79–81, Field A, level 6GE1, Fig. 9: earliest Iron Age buildings, renewed surfaces and reused walls"
+    },
+    {
+      "sourceId": "source:gil-orduna-tweini-chronology-2024",
+      "role": "supports",
+      "locator": "Table 4 and Tell Tweini discussion: modeled 6F–6E transition and 6E end"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tell Tweini · Häuser über der Brandschicht",
+    "en": "Tell Tweini · houses above the burned layer"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1199,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1100,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Mauerzüge aus der frühen Eisenzeit liegen über den Resten der spätbronzezeitlichen Bebauung.",
+    "en": "Early Iron Age walls overlie remains of the Late Bronze Age settlement."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das 12. Jahrhundert v. Chr. folgt der Einordnung des Grabungsteams. Lage und Schichtfolge sind im Feldbefund dokumentiert.",
+      "en": "The twelfth century BCE reflects the excavators’ phase assignment. The position and stratigraphic sequence are documented in the field report."
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:tell-tweini-early-iron-age-masonry",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:tell-tweini"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tell-tweini-orientation",
+      "role": "findspot"
+    }
+  ]
+}

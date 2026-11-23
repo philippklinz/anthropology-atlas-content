@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:llano-del-jicaro-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:gillespie-llano-jicaro-workshop-1994",
+      "role": "supports",
+      "locator": "p. 232: workshop 7 km northwest of Laguna de los Cerros. Fig. 2: relative positions of finds at the workshop."
+    },
+    {
+      "sourceId": "source:ortiz-pucheta-laguna-cerros-2016",
+      "role": "supports",
+      "locator": "Chapter 3, Ubicación y marco geográfico: 3 km south of Corral Nuevo, citing Ramírez 2008, p. 33, and coordinate values 18°02′10″ N, 95°06′10″ W."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 6000,
+    "note": {
+      "de": "Ungefähre Lage des Werkstattareals.",
+      "en": "Approximate workshop area."
+    }
+  },
+  "processingNote": {
+    "de": "Ungefähre Position aus 7 km nordwestlich von Laguna de los Cerros nach Gillespie. Der Ausgangspunkt folgt den Ortsangaben südlich Corral Nuevo.",
+    "en": "Approximate position 7 km northwest of Laguna de los Cerros, following Gillespie. The starting point follows the description south of Corral Nuevo."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic place point",
+    "originNote": "Authored from published factual locations."
+  }
+}

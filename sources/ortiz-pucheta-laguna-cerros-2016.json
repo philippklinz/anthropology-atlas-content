@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:ortiz-pucheta-laguna-cerros-2016",
+  "sourceRefs": [],
+  "title": "Laguna de los Cerros: perspectivas sobre la cerámica y la arquitectura del periodo clásico",
+  "sourceType": "book",
+  "creators": [
+    "Ariadna Ericka Ortiz Pucheta"
+  ],
+  "url": "https://tesiunamdocumentos.dgb.unam.mx/ptd2016/febrero/0740534/0740534.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "bibliographicNote": "Doctoral thesis locating Laguna de los Cerros near Corral Nuevo. The latitude and longitude words are transposed in the printed text.",
+  "published": "2016",
+  "publisher": "Universidad Nacional Autónoma de México"
+}

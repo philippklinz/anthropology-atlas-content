@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ihp-yh127-excavation-exhibition-2006",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Hidden Messages from the Ancient Chinese Civilization - Oracle Bone Inscriptions",
+  "sourceType": "website",
+  "creators": [
+    "Museum of the Institute of History & Philology, Academia Sinica"
+  ],
+  "url": "https://museum.sinica.edu.tw/en/exhibitions/13/",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Exhibition for the 70th anniversary of the YH127 discovery: general description of materials and uses, and the reported 17,096 inscribed pieces from the pit.",
+  "published": "2006",
+  "language": "en"
+}

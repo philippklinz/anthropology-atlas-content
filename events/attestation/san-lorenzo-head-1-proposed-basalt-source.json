@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:san-lorenzo-head-1-proposed-basalt-source",
+  "sourceRefs": [
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 5–7: basalt boulders on the southern slopes near Cerro Cintepec, Soteapan and Huazuntlan. Map 1: generalized source localities."
+    },
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 16–18, Monuments from San Lorenzo and Adjacent Sites, item a: objects 1–5 assigned to the Cerro Cintepec and Soteapan basalt group."
+    },
+    {
+      "sourceId": "source:max-xalapa-san-lorenzo-head-1",
+      "role": "supports",
+      "locator": "Object 10958: basalt, 260 cm high, early Preclassic 1200–900 BCE, Texistepec provenance and Patio 1."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Los Tuxtlas · erschlossene Basaltherkunft",
+    "en": "Los Tuxtlas · inferred basalt source"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1199,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -899,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "placeIds": [
+    "place:southern-los-tuxtlas-foothills"
+  ],
+  "participants": [
+    {
+      "entityId": "artifact:san-lorenzo-colossal-head-1",
+      "role": "attested-entity"
+    }
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:southern-los-tuxtlas-foothills-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Der Vergleich ordnet den Basalt einer Herkunftsregion zu. Die Datierung folgt der Katalogeinordnung des Kopfs. Welcher Block ausgewählt wurde und welcher Weg benutzt wurde, bleibt offen.",
+    "en": "The comparison attributes the basalt to a source region. The date follows the catalogue attribution of the head. The individual boulder and transport route remain unknown."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Vergleich ordnet den Basalt einer Herkunftsregion zu. Die Datierung folgt der Katalogeinordnung des Kopfs. Welcher Block ausgewählt wurde und welcher Weg benutzt wurde, bleibt offen.",
+      "en": "The comparison attributes the basalt to a source region. The date follows the catalogue attribution of the head. The individual boulder and transport route remain unknown."
+    }
+  }
+}

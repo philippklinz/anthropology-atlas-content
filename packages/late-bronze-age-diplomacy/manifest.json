@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:late-bronze-age-diplomacy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Briefe zwischen Königshöfen",
+    "en": "Letters Between Royal Courts"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:amarna-ea15",
+    "artifact:hattusa-cth91-clay-tablets",
+    "artifact:karnak-treaty-inscription-kiu32",
+    "assertion:akkadian-written-in-cuneiform-at-amarna",
+    "assertion:amarna-ea15-probable-findspot",
+    "assertion:cth91-tablets-at-hattusa",
+    "assertion:egyptian-written-in-hieroglyphs-at-karnak",
+    "assertion:kiu32-inscription-at-karnak",
+    "asset:amarna-ea15-tablet-photo",
+    "asset:hattusa-treaty-clay-photo",
+    "asset:karnak-treaty-wall-photo",
+    "chapter:letters-between-royal-courts",
+    "event:amarna-ea15-letter-evidence",
+    "event:egypt-hatti-peace-treaty",
+    "event:hattusa-clay-treaty-evidence",
+    "event:karnak-treaty-wall-evidence",
+    "geometry:amarna-orientation",
+    "geometry:hattusa-orientation",
+    "geometry:karnak-orientation",
+    "language:akkadian",
+    "language:ancient-egyptian",
+    "person:ashur-uballit-i",
+    "person:hattusili-iii",
+    "person:puduhepa",
+    "person:ramesses-ii",
+    "place:amarna",
+    "place:hattusa",
+    "place:karnak",
+    "script:cuneiform",
+    "script:egyptian-hieroglyphs",
+    "source:amarna-project-central-city-location",
+    "source:cfeetk-karnak-kiu32-archive",
+    "source:hattusa-treaty-tablet-amin-photo",
+    "source:hethitologie-portal-cth91-concordance",
+    "source:karnak-treaty-wall-tausch-photo",
+    "source:met-amarna-ea15-24-2-11",
+    "source:moore-hittite-queenship-2018",
+    "source:moran-amarna-ea15-edition-1988",
+    "source:ramses-online-karnak-treaty-1102",
+    "source:unesco-hattusha-map-377-001",
+    "source:weeden-hittite-empire-2022"
+  ],
+  "entryChapterIds": [
+    "chapter:letters-between-royal-courts"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

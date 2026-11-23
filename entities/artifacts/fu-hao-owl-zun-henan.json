@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:fu-hao-owl-zun-henan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:henan-museum-fu-hao-owl-zun",
+      "role": "supports",
+      "locator": "Provenance, Measurements, and About: excavated in 1976, vessel form, and the Fu Hao inscription on the inner wall"
+    },
+    {
+      "sourceId": "source:zheng-fu-hao-inscribed-bronzes",
+      "role": "supports",
+      "locator": "Abstract, excavation in 1976 and recurring Fu Hao inscription (109 vessels)"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Fu Haos Eulengefäß im Henan Museum",
+    "en": "Fu Hao’s owl-shaped vessel in the Henan Museum"
+  },
+  "summary": {
+    "de": "Etwa 46 cm hohes Ritualgefäß aus Bronze aus Grab M5. Innen steht der Name Fu Hao.",
+    "en": "Bronze ritual vessel about 46 cm tall from tomb M5. The name Fu Hao appears on its inside wall."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:fuller-riehl-tweini-agropastoral-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Agropastoral and dietary practices of the northern Levant facing Late Holocene climate and environmental change: Isotopic analysis of plants, animals and humans from Bronze to Iron Age Tell Tweini",
+  "sourceType": "article",
+  "creators": [
+    "Benjamin T. Fuller",
+    "Simone Riehl",
+    "Veerle Linseele",
+    "Elena Marinova",
+    "Bea De Cupere",
+    "Joachim Bretschneider",
+    "Michael P. Richards",
+    "Wim Van Neer"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0301775",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "PLOS ONE 19(6), e0301775. The field context supplies coordinates, regional chronology and a synthesis of later occupation at Tell Tweini.",
+  "published": "2024-06-12",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0301775"
+  }
+}

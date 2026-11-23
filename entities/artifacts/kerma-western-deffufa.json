@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:kerma-western-deffufa",
+  "sourceRefs": [
+    {
+      "sourceId": "source:bonnet-kerma-excavations-1992",
+      "role": "supports",
+      "locator": "Table 1 and pp. 614–615, Figs. 6–7: architectural phases of the Western Deffufa and its religious quarter."
+    },
+    {
+      "sourceId": "source:sudan-kerma-tentative-list-2022",
+      "role": "supports",
+      "locator": "Description, paragraphs on the capital of Kush and goods, pottery and seal impressions connected with exchange."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Westliche Deffufa",
+    "en": "Western Deffufa"
+  },
+  "summary": {
+    "de": "Großer Lehmziegelbau mit mehreren Umbauphasen. Er bildete das Zentrum eines religiösen Viertels in Kerma.",
+    "en": "Large mudbrick building with successive rebuilding phases. It stood at the centre of Kerma’s religious quarter."
+  }
+}

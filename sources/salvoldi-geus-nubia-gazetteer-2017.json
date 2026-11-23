@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:salvoldi-geus-nubia-gazetteer-2017",
+  "sourceRefs": [],
+  "title": "A Historical Comparative Gazetteer for Nubia",
+  "sourceType": "article",
+  "creators": [
+    "Daniele Salvoldi",
+    "Klaus Geus"
+  ],
+  "containerTitle": "Dotawo: A Journal of Nubian Studies 4, 57–182",
+  "published": "2017",
+  "url": "https://escholarship.org/content/qt0ts080fg/qt0ts080fg_noSplash_25583d26a171ab407c674bce1e697f48.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Comparative historical gazetteer used for orientation coordinates of Buhen fortress and Askut Island."
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:uluburun-tin-ingots",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "pp. 289–292, Fig. 92 and Copper and Tin Ingots: estimated date near 1300 BCE and bulk metal freight"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Uluburun · Zinnbarren",
+    "en": "Uluburun · tin ingots"
+  },
+  "summary": {
+    "de": "Zinn in ganzen und fragmentierten Barren gehörte ebenfalls zur Ladung.",
+    "en": "Tin in whole and fragmented ingots was also part of the cargo."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:uluburun-cargo",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Das Schiff von Uluburun",
+    "en": "The Uluburun Shipwreck"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:late-bronze-age-diplomacy"
+  ],
+  "recordIds": [
+    "artifact:amarna-m50-glassworking-finds",
+    "artifact:uluburun-copper-ingots",
+    "artifact:uluburun-glass-ingots",
+    "artifact:uluburun-hull-fragments",
+    "artifact:uluburun-tin-ingots",
+    "asset:uluburun-copper-ingot",
+    "asset:uluburun-glass-ingots",
+    "chapter:the-uluburun-shipwreck",
+    "event:amarna-glass-workshop-evidence",
+    "event:uluburun-copper-source-comparison",
+    "event:uluburun-wreck-and-cargo",
+    "geometry:apliki-mine-orientation",
+    "geometry:uluburun-wreck-orientation",
+    "place:apliki-mine",
+    "place:uluburun-wreck",
+    "source:amarna-project-bead-workshop",
+    "source:amarna-project-experimental-glasswork",
+    "source:lankton-uluburun-glass-batches-2022",
+    "source:mindat-apliki-mineral-locality",
+    "source:nadl-uluburun-site-2013",
+    "source:pulak-uluburun-hull-1999",
+    "source:pulak-uluburun-trade-2008",
+    "source:stos-gale-cyprus-ores-1997",
+    "source:uluburun-copper-ingot-photo",
+    "source:uluburun-glass-ingots-photo"
+  ],
+  "entryChapterIds": [
+    "chapter:the-uluburun-shipwreck"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

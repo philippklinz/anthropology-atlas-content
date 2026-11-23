@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:apliki-mine",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mindat-apliki-mineral-locality",
+      "role": "supports",
+      "locator": "Locality Maps: WGS84 latitude and longitude entry for Apliki Mine"
+    },
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "catalogue 185, copper ingots, lead-isotope paragraph and notes 23–26: probable Solea-axis source region"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Apliki · Erzrevier auf Zypern",
+    "en": "Apliki · ore district on Cyprus"
+  },
+  "summary": {
+    "de": "Heutiger Bergbauort im Nordwesten Zyperns. Vergleichsmessungen aus dem Erzrevier helfen, die Herkunft von Kupfer einzugrenzen.",
+    "en": "Present-day mining locality in northwestern Cyprus. Measurements from the ore district help narrow the origin of copper."
+  }
+}

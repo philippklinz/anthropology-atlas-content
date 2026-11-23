@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:knapp-manning-late-bronze-age-2016",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Crisis in Context: The End of the Late Bronze Age in the Eastern Mediterranean",
+  "sourceType": "article",
+  "creators": [
+    "A. Bernard Knapp",
+    "Sturt W. Manning"
+  ],
+  "url": "https://doi.org/10.3764/aja.120.1.0099",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "American Journal of Archaeology 120(1), 99–149. Full text checked at ancientportsantiques.com in the authors' published article PDF. Table 1 and the discussion of RS 20.238 date the letter broadly and compare readings of its archaeological context.",
+  "published": "2016",
+  "identifiers": {
+    "doi": "10.3764/aja.120.1.0099"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:tell-tweini-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuller-riehl-tweini-agropastoral-2024",
+      "role": "derivation",
+      "locator": "Archaeological and environmental context of Tell Tweini, 35°22′17.93″ N, 35°56′12.60″ E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 350,
+    "note": {
+      "de": "Orientierung am Fundort von Tell Tweini, einschließlich des Grabungsfeldes A.",
+      "en": "Orientation at the Tell Tweini site, including excavation Field A."
+    }
+  },
+  "processingNote": {
+    "de": "Orientierung am Fundort von Tell Tweini, einschließlich des Grabungsfeldes A.",
+    "en": "Orientation at the Tell Tweini site, including excavation Field A."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from the cited factual coordinates."
+  }
+}

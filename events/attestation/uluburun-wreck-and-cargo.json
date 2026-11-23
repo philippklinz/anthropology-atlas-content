@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:uluburun-wreck-and-cargo",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nadl-uluburun-site-2013",
+      "role": "supports",
+      "locator": "Site header, coordinates and History of the wreck"
+    },
+    {
+      "sourceId": "source:pulak-uluburun-hull-1999",
+      "role": "supports",
+      "locator": "pp. 15–16, opening paragraphs and Fig. 1: timber date estimate, slope and anchor-preserved hull sections"
+    },
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "pp. 289–292, Fig. 92 and Copper and Tin Ingots: estimated date near 1300 BCE and bulk metal freight"
+    },
+    {
+      "sourceId": "source:lankton-uluburun-glass-batches-2022",
+      "role": "supports",
+      "locator": "Abstract and Conclusions: ingot sampling, Egyptian attribution and proposed individual batches"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Uluburun · Wrack und Ladung um 1300 v. Chr.",
+    "en": "Uluburun · wreck and cargo around 1300 BCE"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1309,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1289,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:uluburun-hull-fragments",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:uluburun-copper-ingots",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:uluburun-tin-ingots",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:uluburun-glass-ingots",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:uluburun-wreck"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:uluburun-wreck-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Der Untergang wird ungefähr um 1300 v. Chr. eingeordnet. Holz und Gegenstände helfen, die Zeit einzugrenzen.",
+    "en": "The sinking belongs around 1300 BCE. Wood and objects help narrow its date."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Untergang wird ungefähr um 1300 v. Chr. eingeordnet. Holz und Gegenstände helfen, die Zeit einzugrenzen.",
+      "en": "The sinking belongs around 1300 BCE. Wood and objects help narrow its date."
+    }
+  }
+}

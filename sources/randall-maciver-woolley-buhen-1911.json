@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:randall-maciver-woolley-buhen-1911",
+  "sourceRefs": [],
+  "title": "Buhen (Text)",
+  "sourceType": "book",
+  "creators": [
+    "David Randall-MacIver",
+    "C. Leonard Woolley"
+  ],
+  "containerTitle": "Eckley B. Coxe Junior Expedition to Nubia, VII. Philadelphia: University Museum",
+  "published": "1911",
+  "url": "https://mc.dlib.nyu.edu/files/books/ifa_egypt000132/ifa_egypt000132_lo.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavation publication. The stela was recovered from a context the excavators associated with the 18th Dynasty."
+}

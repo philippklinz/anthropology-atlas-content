@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:ras-shamra-ugarit",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ras-shamra-mission-site-history",
+      "role": "supports",
+      "locator": "Historique, opening paragraph and identification of the Late Bronze Age settlements"
+    },
+    {
+      "sourceId": "source:ras-shamra-mission-site-history",
+      "role": "derivation",
+      "locator": "Historique, Ras Shamra coordinate line: 35°36′06″ N, 35°47′09″ E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Ugarit · Ras Shamra",
+    "en": "Ugarit · Ras Shamra"
+  },
+  "summary": {
+    "de": "Siedlungshügel nahe der syrischen Küste, Standort der Hauptstadt des bronzezeitlichen Königreichs Ugarit.",
+    "en": "Settlement mound near the Syrian coast, site of the capital of the Bronze Age kingdom of Ugarit."
+  }
+}

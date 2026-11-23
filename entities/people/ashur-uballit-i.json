@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:ashur-uballit-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-amarna-ea15-24-2-11",
+      "role": "supports",
+      "locator": "Object Information and overview: accession, approximate date, probable Amarna provenance, clay, dimensions, Assyrian Akkadian and proposed addressee"
+    },
+    {
+      "sourceId": "source:moran-amarna-ea15-edition-1988",
+      "role": "supports",
+      "locator": "No. 102, pp. 149–150, lines 1–22 and note to line 13: sender, embassy, gifts, return of the messenger and reading of the lapis bead"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Aššur-uballiṭ I.",
+    "en": "Aššur-uballiṭ I"
+  },
+  "summary": {
+    "de": "Assyrischer König und Absender des Briefs EA 15 an den ägyptischen Hof.",
+    "en": "Assyrian king and sender of letter EA 15 to the Egyptian court."
+  }
+}

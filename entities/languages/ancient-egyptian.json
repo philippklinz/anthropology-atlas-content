@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "language:ancient-egyptian",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ramses-online-karnak-treaty-1102",
+      "role": "supports",
+      "locator": "Text 1102, header and translation of the treaty clauses: wall, year 21, hieroglyphs and peace provisions"
+    },
+    {
+      "sourceId": "source:weeden-hittite-empire-2022",
+      "role": "supports",
+      "locator": "Pp. 593–594, treaty versions, two Hattusa clay witnesses, Karnak and Ramesseum translations and silver document"
+    }
+  ],
+  "entityType": "language",
+  "labels": {
+    "de": "Altägyptische Sprache",
+    "en": "Ancient Egyptian"
+  },
+  "summary": {
+    "de": "Sprache der ägyptischen Fassung des Vertrags an der Wand von Karnak.",
+    "en": "Language of the Egyptian version of the treaty on the wall at Karnak."
+  }
+}

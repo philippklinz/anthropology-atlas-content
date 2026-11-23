@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:san-lorenzo-tenochtitlan-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.7613,
+      17.7517
+    ]
+  }
+}

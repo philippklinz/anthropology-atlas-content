@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:askut-second-intermediate-cooking-pottery",
+  "sourceRefs": [
+    {
+      "sourceId": "source:schrader-buzon-smith-askut-2018",
+      "role": "supports",
+      "locator": "Table 1; pp. 12 and 15–16, Ceramic assemblage and Figs. 2, 4: fabrics, manufacturing styles and cooking sherd counts."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Askut · Kochscherben der Zweiten Zwischenzeit",
+    "en": "Askut · Second Intermediate Period cooking sherds"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -1649,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1649,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -1549,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1549,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:askut-cooking-sherds",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "In Schichten der Zweiten Zwischenzeit wurden 28 von 46 Kochgefäßscherben der nubischen Tradition zugeordnet. Die Zuordnung beruht auf Merkmalen der Gefäße.",
+    "en": "In Second Intermediate Period layers, 28 of 46 cooking sherds were assigned to Nubian vessel traditions. The classification rests on vessel characteristics."
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:askut"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:askut-orientation",
+      "role": "findspot"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:oracle-bones-of-anyang",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:icomos-yin-xu-evaluation-2006",
+      "role": "supports",
+      "locator": "Yin Xu, No. 1114, pp. 58–59: palaces and shrines south of the Huan River, bronze vessels, oracle-bone writing"
+    },
+    {
+      "sourceId": "source:ihp-ping-0247",
+      "role": "supports",
+      "locator": "Item R041287, description of the childbirth inquiry, Period, Excavated/Findspot, and Materials"
+    },
+    {
+      "sourceId": "source:ihp-wu-ding-divination-context",
+      "role": "supports",
+      "locator": "Description of item 117: conventional dates of Wu Ding's reign and interpretation of heat cracks on oracle bones"
+    },
+    {
+      "sourceId": "source:ihp-yh127-excavation-exhibition-2006",
+      "role": "supports",
+      "locator": "Opening description and The archaeological sensation in 1936, report of 17,096 inscribed pieces from Pit YH127"
+    },
+    {
+      "sourceId": "source:henan-museum-fu-hao-owl-zun",
+      "role": "supports",
+      "locator": "Provenance, Measurements, and About: excavated in 1976, vessel form, and the Fu Hao inscription on the inner wall"
+    },
+    {
+      "sourceId": "source:zheng-fu-hao-inscribed-bronzes",
+      "role": "supports",
+      "locator": "Abstract, excavation in 1976 and recurring Fu Hao inscription (109 vessels)"
+    },
+    {
+      "sourceId": "source:smithsonian-fu-hao-burial-timeline",
+      "role": "supports",
+      "locator": "Entry around 1200 BCE, Tomb of Fu Hao: Yinxu burial and preserved grave inventory"
+    },
+    {
+      "sourceId": "source:skrabal-casting-bronze-inscriptions-2021",
+      "role": "supports",
+      "locator": "Section 7, pp. 131–132 and notes 64–66: 2000–01 Xiaomintun block, dimensions, 11 graphs, traces of modelled strokes"
+    },
+    {
+      "sourceId": "source:li-kingly-crafts-2022",
+      "role": "supports",
+      "locator": "Chapter 2, Bronze Foundry at Xiaomintun Southeast, 2000–2001 and Fig. 2.4; chapter 4, Type II moulds and Yinxu phases III–IV"
+    },
+    {
+      "sourceId": "source:zhang-yinxu-feeding-status-2022",
+      "role": "supports",
+      "locator": "§3.2, pp. 30–31, approximate dates for Anyang periods III–IV and traces of bronze production"
+    }
+  ],
+  "labels": {
+    "de": "Orakelknochen von Anyang",
+    "en": "Oracle Bones of Anyang"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:xiaotun-ping-0247-oracle",
+    "event:fu-hao-owl-zun-burial",
+    "event:xiaomintun-inscription-block-context",
+    "person:fu-hao",
+    "asset:yh127-excavation-1936",
+    "asset:fu-hao-owl-zun-henan"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 114.307,
+      "latitude": 36.122,
+      "metersPerPixel": 11,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -1249,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1249,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1045,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1045,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "xiaotun",
+      "textAnchor": "xiaotun",
+      "labels": {
+        "de": "Xiaotun · eine Frage auf Schildkrötenpanzer",
+        "en": "Xiaotun · a question on turtle shell"
+      },
+      "summary": {
+        "de": "Lies, was ein Orakel über die erwartete Geburt eines Kindes von Fu Hao festhielt.",
+        "en": "Read what a divination recorded about an expected birth to Fu Hao."
+      },
+      "state": {
+        "camera": {
+          "longitude": 114.3184,
+          "latitude": 36.1222,
+          "metersPerPixel": 4,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1249,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1249,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1191,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1191,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:yh127-excavation-1936"
+    },
+    {
+      "id": "fu-hao",
+      "textAnchor": "fu-hao",
+      "labels": {
+        "de": "Fu Hao · ein Gefäß mit Namen",
+        "en": "Fu Hao · a vessel with a name"
+      },
+      "summary": {
+        "de": "Ein Name im Inneren des Eulengefäßes verbindet die Bronze mit der Bestattung.",
+        "en": "A name inside the owl-shaped vessel connects the bronze to the burial."
+      },
+      "state": {
+        "camera": {
+          "longitude": 114.3162,
+          "latitude": 36.1211,
+          "metersPerPixel": 4,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1229,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1229,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1169,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1169,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:fu-hao-owl-zun-henan"
+    },
+    {
+      "id": "xiaomintun",
+      "textAnchor": "xiaomintun",
+      "labels": {
+        "de": "Xiaomintun · Schrift für den Bronzeguss",
+        "en": "Xiaomintun · writing for bronze casting"
+      },
+      "summary": {
+        "de": "Untersuche, was ein kleiner Tonblock über die Herstellung beschrifteter Bronzen verrät.",
+        "en": "See what a small block of clay reveals about making inscribed bronzes."
+      },
+      "state": {
+        "camera": {
+          "longitude": 114.293,
+          "latitude": 36.122,
+          "metersPerPixel": 7,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1149,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1149,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1049,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1049,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Orakel zur Geburt eines Kindes, Fu Haos bronzenes Eulengefäß und ein Tonblock aus einer Gießerei zeigen Schrift an drei Fundstationen im spätshangzeitlichen Anyang.",
+      "en": "A divination about a birth, Fu Hao’s bronze owl-shaped vessel and a clay block from a foundry illustrate writing at three stops in late Shang Anyang."
+    },
+    "periods": [
+      {
+        "id": "kingdoms-and-trade-networks",
+        "labels": {
+          "de": "Königreiche und Handelsnetze",
+          "en": "Kingdoms and Trade Networks"
+        },
+        "description": {
+          "de": "Handel, Diplomatie, Werkstätten und Herrschaft zwischen etwa 1800 und 1000 v. Chr. Die Kapitel folgen den jeweils regionalen Datierungen und vergleichen konkrete Funde.",
+          "en": "Trade, diplomacy, workshops and power from roughly 1800 to 1000 BCE. The chapters follow local chronologies and compare specific finds."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:anyang-ping-0247-plastron",
+    "artifact:fu-hao-owl-zun-henan",
+    "artifact:xiaomintun-clay-inscription-block",
+    "assertion:fu-hao-owl-zun-burial",
+    "assertion:shang-oracle-bone-script-at-xiaotun",
+    "assertion:xiaomintun-inscription-block-context",
+    "assertion:xiaotun-ping-0247-oracle",
+    "asset:fu-hao-owl-zun-henan",
+    "asset:yh127-excavation-1936",
+    "event:fu-hao-owl-zun-burial",
+    "event:xiaomintun-inscription-block-context",
+    "event:xiaotun-ping-0247-oracle",
+    "geometry:fu-hao-tomb-m5-orientation",
+    "geometry:xiaomintun-southeast-orientation",
+    "geometry:xiaotun-yh127-orientation",
+    "person:fu-hao",
+    "place:fu-hao-tomb-m5",
+    "place:xiaomintun-southeast",
+    "place:xiaotun-yh127",
+    "script:shang-oracle-bone-script",
+    "source:commons-fu-hao-owl-zun-windmemories-2021",
+    "source:commons-yh127-excavation-1936",
+    "source:henan-museum-fu-hao-owl-zun",
+    "source:icomos-yin-xu-evaluation-2006",
+    "source:ihp-ping-0247",
+    "source:ihp-wu-ding-divination-context",
+    "source:ihp-yh127-excavation-exhibition-2006",
+    "source:li-kingly-crafts-2022",
+    "source:mapcarta-tomb-of-fu-hao",
+    "source:mapcarta-yh127",
+    "source:skrabal-casting-bronze-inscriptions-2021",
+    "source:smithsonian-fu-hao-burial-timeline",
+    "source:zhang-yinxu-feeding-status-2022",
+    "source:zheng-fu-hao-inscribed-bronzes"
+  ]
+}

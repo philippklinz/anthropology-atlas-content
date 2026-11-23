@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:san-lorenzo-monuments",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Die Steinköpfe von San Lorenzo",
+    "en": "The Stone Heads of San Lorenzo"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:llano-del-jicaro-worked-stone-3",
+    "artifact:san-lorenzo-colossal-head-1",
+    "assertion:llano-del-jicaro-worked-stone-3-at-site",
+    "assertion:san-lorenzo-head-1-at-site",
+    "asset:san-lorenzo-head-1",
+    "chapter:stone-heads-of-san-lorenzo",
+    "event:llano-del-jicaro-stoneworking-evidence",
+    "event:san-lorenzo-colossal-head-1-evidence",
+    "event:san-lorenzo-head-1-proposed-basalt-source",
+    "geometry:llano-del-jicaro-orientation",
+    "geometry:san-lorenzo-tenochtitlan-orientation",
+    "geometry:southern-los-tuxtlas-foothills-orientation",
+    "place:llano-del-jicaro",
+    "place:san-lorenzo-tenochtitlan",
+    "place:southern-los-tuxtlas-foothills",
+    "source:gillespie-llano-jicaro-workshop-1994",
+    "source:inah-san-lorenzo-archaeological-site",
+    "source:inegi-veracruz-soteapan-2023",
+    "source:max-xalapa-san-lorenzo-head-1",
+    "source:ortiz-pucheta-laguna-cerros-2016",
+    "source:vivero-madman2001-san-lorenzo-head-photo",
+    "source:williams-heizer-olmec-rock-sources-1965"
+  ],
+  "entryChapterIds": [
+    "chapter:stone-heads-of-san-lorenzo"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

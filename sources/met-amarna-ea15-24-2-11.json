@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-amarna-ea15-24-2-11",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Amarna letter from Ashur-uballit to the king of Egypt (24.2.11)",
+  "sourceType": "catalog",
+  "url": "https://www.metmuseum.org/art/collection/search/544695",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Object catalogue entry and Public Domain photograph of the clay tablet.",
+  "language": "en",
+  "identifiers": {
+    "accession": "24.2.11",
+    "met": "544695",
+    "text": "EA 15"
+  }
+}

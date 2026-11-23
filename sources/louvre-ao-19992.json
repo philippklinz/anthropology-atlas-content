@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:louvre-ao-19992",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tablette · abécédaire incomplet · AO 19992",
+  "sourceType": "catalog",
+  "creators": [
+    "Musée du Louvre, Département des Antiquités orientales"
+  ],
+  "url": "https://collections.louvre.fr/ark:/53355/cl010144705",
+  "accessedAt": "2026-11-23",
+  "language": "fr",
+  "bibliographicNote": "Catalogue entry records the findspot, Ugaritic language, abecedary and dating range.",
+  "identifiers": {
+    "inventoryNumber": "AO 19992",
+    "excavationNumber": "RS 10.087"
+  }
+}

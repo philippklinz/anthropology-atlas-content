@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:kingdom-of-kerma",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Kerma und Ägypten",
+    "en": "Kerma and Egypt"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:askut-cooking-sherds",
+    "artifact:kerma-western-deffufa",
+    "artifact:sepedher-stela-pum-10984",
+    "assertion:askut-cooking-sherds-at-askut",
+    "assertion:kerma-kingdom-power-in-buhen",
+    "assertion:sepedher-stela-at-buhen",
+    "assertion:western-deffufa-at-kerma",
+    "asset:buhen-before-inundation",
+    "asset:kerma-western-deffufa",
+    "chapter:kerma-and-egypt",
+    "event:askut-second-intermediate-cooking-pottery",
+    "event:buhen-sepedher-inscription",
+    "event:kerma-deffufa-late-use",
+    "geometry:askut-orientation",
+    "geometry:buhen-orientation",
+    "geometry:kerma-orientation",
+    "person:sepedher",
+    "place:askut",
+    "place:buhen",
+    "place:kerma",
+    "polity:kingdom-of-kerma",
+    "source:bonnet-kerma-excavations-1992",
+    "source:callens-western-deffufa-photograph-2009",
+    "source:cooper-kushite-kingship-2018",
+    "source:getty-buhen-site",
+    "source:randall-maciver-woolley-buhen-1911",
+    "source:salvoldi-geus-nubia-gazetteer-2017",
+    "source:schrader-buzon-smith-askut-2018",
+    "source:sudan-kerma-tentative-list-2022",
+    "source:tla-sepedher-stela-pum-10984",
+    "source:ucl-buhen-site",
+    "source:unesco-buhen-fortress-photograph-1960"
+  ],
+  "entryChapterIds": [
+    "chapter:kerma-and-egypt"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}
