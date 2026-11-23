@@ -14,6 +14,8 @@ Uruk lies farther south, in modern Iraq. In its Eanna precinct, archaeologists e
 
 Only parts of the Stone Cone Building's walls and floor survived. They show the care that went into construction. How people used the courtyard on an ordinary day remains unclear. The city grew and changed over many centuries. The map point locates the site as a whole. The timeline shows the approximate date of construction of this one building.
 
+Open **Uruk · Stone Cone Building in 3D** to turn the structure around and explore how the courtyard, enclosure wall and earthen terrace fit together around 3500 BCE. Brown areas show the excavated remains. Light-coloured parts fill out one possible reconstruction. A modern panel in the model shows a mosaic detail from the Pergamon Museum for comparison.
+
 ## Arslantepe
 
 In what is now eastern Türkiye, excavators uncovered a mudbrick complex dating to about **3400–3100 BCE**. It had courtyards, painted walls and rooms with large storage vessels. Archaeologists found many small lumps of clay bearing seal impressions. Such pieces were left when sealed containers or rooms were opened. The photograph from the Malatya Museum shows surviving wall painting from the complex.

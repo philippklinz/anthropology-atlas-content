@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:uruk-stone-cone-building-reconstruction",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:van-ess-uruk-eanna-2015",
+      "role": "derivation",
+      "locator": "Section III, pp. 57, 59, 73–74 (PDF pp. 311, 313, 327–328). Plan 2.3 for location, Plan 2.7 for the building footprint and courtyard."
+    },
+    {
+      "sourceId": "source:dai-uruk-visualisation",
+      "role": "supports",
+      "locator": "Ergebnisse, ‘Das Beispiel Steinstiftgebäude’: terrace, wall mosaics and unresolved building function."
+    },
+    {
+      "sourceId": "source:brokensphere-uruk-mosaic-detail-2004",
+      "role": "derivation",
+      "locator": "Summary and Licensing. The photograph was downsampled and mapped onto a modern reference panel in the model."
+    }
+  ],
+  "assetType": "model",
+  "file": "uruk.glb",
+  "mediaType": "model/gltf-binary",
+  "labels": {
+    "de": "Uruk · Steinstiftgebäude in 3D",
+    "en": "Uruk · Stone Cone Building in 3D"
+  },
+  "alt": {
+    "de": "Schnittmodell des Steinstiftgebäudes im Eanna-Areal um 3500 v. Chr. Es zeigt die Lehmterrasse und den Hof mit mosaikgeschmückter Umfassungsmauer. Braun kennzeichnet den archäologischen Befund, helle Flächen zeigen Ergänzungen und Blau markiert Schnittflächen. Die Nutzung des Gebäudes bleibt offen.",
+    "en": "Cutaway reconstruction of the Stone Cone Building in the Eanna precinct around 3500 BCE. It shows the earthen terrace and the courtyard with its mosaic-decorated enclosure wall. Brown marks the archaeological remains, light surfaces show reconstructed parts and blue marks cut surfaces. The building's use remains uncertain."
+  },
+  "entityIds": [
+    "artifact:uruk-stone-cone-building"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-3.0",
+    "creators": [
+      "Anthropology Atlas (reconstruction)",
+      "BrokenSphere (reference photograph)"
+    ],
+    "attribution": "Anthropology Atlas · Embedded reference photograph: © BrokenSphere / Wikimedia Commons · CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stone-Cone_Temple_mosaic_detail,_Pergamon_Museum.JPG",
+    "originNote": "Project-supplied Blender export based on the Uruk plans. The Atlas added a starting camera position and target in the scene metadata. The embedded photo sample was downsampled and mapped to a modern reference panel. The other material images were generated procedurally for the model. Licence: https://creativecommons.org/licenses/by-sa/3.0/."
+  },
+  "model": {
+    "representation": "reconstruction"
+  },
+  "depictsTime": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -3499,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3399,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  }
+}
