@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:dai-uruk-visualisation",
+  "sourceRefs": [],
+  "title": "Visualisierung der antiken Stadt Uruk (Irak)",
+  "sourceType": "website",
+  "creators": [
+    "Deutsches Archäologisches Institut, Orient-Abteilung"
+  ],
+  "url": "https://www.dainst.org/forschung/projekte/noslug/2340?cHash=c5bacb961e0c52001e097819eb71e24a&tx_wfdaiprojects_projects%5Bnav%5D=open&tx_wfdaiprojects_projects%5Bsection%5D=results",
+  "accessedAt": "2026-11-23",
+  "language": "de",
+  "bibliographicNote": "The results section on the Stone Cone Building documents its construction, the archaeological basis for the courtyard reconstruction and the uncertainty about the building's use."
+}

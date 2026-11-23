@@ -22,6 +22,7 @@
     "artifact:uruk-stone-cone-building",
     "asset:arslantepe-wall-painting",
     "asset:tell-brak-site-view",
+    "asset:uruk-stone-cone-building-reconstruction",
     "asset:uruk-stone-cone-mosaic",
     "chapter:how-cities-grow",
     "event:arslantepe-via-storage-evidence",
@@ -35,6 +36,8 @@
     "place:tell-brak",
     "place:uruk",
     "source:arslantepe-wall-painting-photograph",
+    "source:brokensphere-uruk-mosaic-detail-2004",
+    "source:dai-uruk-visualisation",
     "source:iraq-uruk-nomination-2014",
     "source:soltysiak-tell-brak-field-report",
     "source:tell-brak-site-view-photograph",
@@ -50,6 +53,7 @@
     "geo-basic",
     "historical-time",
     "network-basic",
-    "image-viewer"
+    "image-viewer",
+    "model-viewer"
   ]
 }

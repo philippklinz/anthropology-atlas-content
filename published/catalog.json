@@ -2,8 +2,8 @@
   "catalogVersion": "1",
   "schemaVersion": "0.1.0",
   "indexVersion": "1",
-  "dataReleaseId": "draft-f921049bb060f3796df6",
-  "sourceRevision": "2e82fde3f6a8378318051969e1038be59d19d715",
+  "dataReleaseId": "draft-487ca634ed2c91f33cd2",
+  "sourceRevision": "cfb248388a127d925a70319f7eb9f99962591a0f",
   "compilerVersion": "0.1.0-dev.8",
   "packages": [
     "package:columbus-first-voyage",
@@ -52,6 +52,7 @@
     "historical-time",
     "image-viewer",
     "migration-maps",
+    "model-viewer",
     "natural-history",
     "network-basic"
   ],
@@ -281,6 +282,13 @@
       "sha256": "932ec623d47c04e13fd4136aceeeceee64abecef4fd1a543c4d92531e6de3a11"
     },
     {
+      "path": "files/asset-977fab4a357424349f5b415e.glb",
+      "role": "asset",
+      "bytes": 10141684,
+      "mediaType": "model/gltf-binary",
+      "sha256": "977fab4a357424349f5b415e40dfec6a5de9449784bb0449a1d54fb7b14d13f3"
+    },
+    {
       "path": "files/asset-987f393ef7567e27b86b26c4.jpg",
       "role": "asset",
       "bytes": 177129,
@@ -470,165 +478,165 @@
       "sha256": "ff6816804364167f8a7e6d03afbdd96a484ae55f861c6a14cdaa76999edaca8e"
     },
     {
-      "path": "files/columbus-first-voyage-c5923b6d61201a187a1dce05.json",
+      "path": "files/columbus-first-voyage-2af01edb96110fa960aeace3.json",
       "role": "records",
       "bytes": 57076,
       "mediaType": "application/json",
-      "sha256": "c5923b6d61201a187a1dce05a0e490997c60f46331ff8ec15283aa4c76eecb8d"
+      "sha256": "2af01edb96110fa960aeace3fa235699ef75bf59fe75dd958d65047a34315c72"
     },
     {
-      "path": "files/danube-farming-and-contact-fe87fd58e08c4381eb22129e.json",
+      "path": "files/danube-farming-and-contact-9d5278e1ddcf871cf791f622.json",
       "role": "records",
       "bytes": 49341,
       "mediaType": "application/json",
-      "sha256": "fe87fd58e08c4381eb22129ef7c13a3850bd4e7c7eb32bdfe24f160a04033054"
+      "sha256": "9d5278e1ddcf871cf791f6220344a78398be6385127dbd3a6ad7d1f5d91322fc"
     },
     {
-      "path": "files/darwin-beagle-156684747acede835891645e.json",
+      "path": "files/darwin-beagle-853859d53ab8b02438ac6562.json",
       "role": "records",
       "bytes": 72919,
       "mediaType": "application/json",
-      "sha256": "156684747acede835891645efe25cb6dd69c598f84639ace47b4fdc0108efbc9"
+      "sha256": "853859d53ab8b02438ac65620bd113a7c8430c0afc398f8d8a812b6b5e10d07a"
     },
     {
-      "path": "files/deglaciation-45c633accd69496766a5630d.json",
+      "path": "files/deglaciation-6b43ca5e11b8768f75a71e80.json",
       "role": "records",
       "bytes": 38940,
       "mediaType": "application/json",
-      "sha256": "45c633accd69496766a5630d94b8f3f89786ba48eb93db0075a6099a668e1bd9"
+      "sha256": "6b43ca5e11b8768f75a71e80ff10634778cce624b847e99a8beed1b401456e5f"
     },
     {
-      "path": "files/discovery-4cd9a1255905dd935570612a.json",
+      "path": "files/discovery-a5f00c1a958202af86a90898.json",
       "role": "discovery",
       "bytes": 155039,
       "mediaType": "application/json",
-      "sha256": "4cd9a1255905dd935570612ae07b2aeefbc2437655658752e4f44d72a2b01e39"
+      "sha256": "a5f00c1a958202af86a9089875f5f35cf1d53fd31852572acf9bde90b6f0eef9"
     },
     {
-      "path": "files/early-american-lifeways-3da5e3159a193843d3d8cbfe.json",
+      "path": "files/early-american-lifeways-c82d86fd9d3a243f35635720.json",
       "role": "records",
       "bytes": 31018,
       "mediaType": "application/json",
-      "sha256": "3da5e3159a193843d3d8cbfed7bdf4933f7a7d8fbc88e3f29efc628cf511f6c3"
+      "sha256": "c82d86fd9d3a243f35635720bc36b4bfa2d276322fc235a0a658246a2dd9f737"
     },
     {
-      "path": "files/early-andean-monuments-6e1d5f2953ea558c27bfbad5.json",
+      "path": "files/early-andean-monuments-606bd9ebb8b7c29d6e3286aa.json",
       "role": "records",
       "bytes": 33733,
       "mediaType": "application/json",
-      "sha256": "6e1d5f2953ea558c27bfbad557b8d79e1c8a03efcf529dbdb091a0613cf19929"
+      "sha256": "606bd9ebb8b7c29d6e3286aaa6d9cc7f9f003504ac7c45578f777ecd4b39df6f"
     },
     {
-      "path": "files/early-connections-ff7095eb13d4e580b55589c7.json",
+      "path": "files/early-connections-296e23e1dc40b575b16851ce.json",
       "role": "records",
       "bytes": 38464,
       "mediaType": "application/json",
-      "sha256": "ff7095eb13d4e580b55589c79fe99b11d09780f29400e409e41f72db25699514"
+      "sha256": "296e23e1dc40b575b16851ce58f02f912ed7a169ccf3e68d7329dd1aba77a8d4"
     },
     {
-      "path": "files/early-crop-paths-b8b8889b3af1b7420a1ba8c7.json",
+      "path": "files/early-crop-paths-98d895e6b1cda8895632df55.json",
       "role": "records",
       "bytes": 39968,
       "mediaType": "application/json",
-      "sha256": "b8b8889b3af1b7420a1ba8c7c65db1ec230b3ec77b9a69d77510b70e73c009b8"
+      "sha256": "98d895e6b1cda8895632df5519234a10a63c4f600667e3c652748e399246356f"
     },
     {
-      "path": "files/early-dispersals-b9186ea6a9e7b9eddea15a29.json",
+      "path": "files/early-dispersals-168a72a9ea8356e9c9fdc41e.json",
       "role": "records",
       "bytes": 46226,
       "mediaType": "application/json",
-      "sha256": "b9186ea6a9e7b9eddea15a29e1ceff548244f5d4e832ad448c26b1cd578a0fe1"
+      "sha256": "168a72a9ea8356e9c9fdc41e9e574d513c2728b108b374bcf107808c26d3bb16"
     },
     {
-      "path": "files/early-expression-e3565c8b7a077c3d3bb2fe6d.json",
+      "path": "files/early-expression-8af8123a9d229e7e10547c83.json",
       "role": "records",
       "bytes": 54489,
       "mediaType": "application/json",
-      "sha256": "e3565c8b7a077c3d3bb2fe6dc48c9abd4a8ca28cd71f7754d7621c24df297f8f"
+      "sha256": "8af8123a9d229e7e10547c835538aeb84862181ef6ecc16e12b9f8f01230925d"
     },
     {
-      "path": "files/early-foodways-426060c4ea51a1c7447c43cd.json",
+      "path": "files/early-foodways-089c7b90173595e1935a26c3.json",
       "role": "records",
       "bytes": 27151,
       "mediaType": "application/json",
-      "sha256": "426060c4ea51a1c7447c43cdfe99028376499402b2f5af62dd04d4464f8bc1ab"
+      "sha256": "089c7b90173595e1935a26c3f71a215f4b303173364f91ab7b7a53ebcf8d2df1"
     },
     {
-      "path": "files/early-gardens-and-fields-54699c5e245def414eab18ad.json",
+      "path": "files/early-gardens-and-fields-bc26e370f34ac2d7efae656f.json",
       "role": "records",
       "bytes": 43897,
       "mediaType": "application/json",
-      "sha256": "54699c5e245def414eab18adacb04a44b13addbfc0521defc32df20bf1424d02"
+      "sha256": "bc26e370f34ac2d7efae656fbede79aed5f22da4fb5ead91c42f6c6561863684"
     },
     {
-      "path": "files/early-herds-5a628aac38f62671378e5672.json",
+      "path": "files/early-herds-49670965d04cd5f2210bb491.json",
       "role": "records",
       "bytes": 46238,
       "mediaType": "application/json",
-      "sha256": "5a628aac38f62671378e5672afc2bd85aa74478f7c55f2160533d60bdc69530e"
+      "sha256": "49670965d04cd5f2210bb49112db79b5738cd7f14ea1325150b7612f14ab3896"
     },
     {
-      "path": "files/early-metals-and-exchange-084bf6884bcde82f4dcb7739.json",
+      "path": "files/early-metals-and-exchange-97aa57c0c55ef86c5d568a93.json",
       "role": "records",
       "bytes": 40088,
       "mediaType": "application/json",
-      "sha256": "084bf6884bcde82f4dcb77395de259eca9b60b6a2f3f78ade1e00f80057bba9b"
+      "sha256": "97aa57c0c55ef86c5d568a9353a9c6121bb385ed46fd8a67710f34e7feaf1375"
     },
     {
-      "path": "files/early-migrations-3c84aa0affad2cccc0939eac.json",
+      "path": "files/early-migrations-2ed969a61744e495a9fc2854.json",
       "role": "records",
       "bytes": 55605,
       "mediaType": "application/json",
-      "sha256": "3c84aa0affad2cccc0939eacd61de85b80afe63e0bef7237d64d28815b6e846e"
+      "sha256": "2ed969a61744e495a9fc2854655b5247cc9e613fd8b1caced7d8ddaa10fa58ad"
     },
     {
-      "path": "files/early-social-life-aadfa57a048e0baed54896e1.json",
+      "path": "files/early-social-life-132d83e2a095d285fde909c5.json",
       "role": "records",
       "bytes": 36438,
       "mediaType": "application/json",
-      "sha256": "aadfa57a048e0baed54896e1ef143577f1841da9131d4576f8aa5c363e746068"
+      "sha256": "132d83e2a095d285fde909c57c0df2f0975682ef3321ef9cbfb3cb04a59795e7"
     },
     {
-      "path": "files/early-technologies-767a9682a64ac27d5a38ecaa.json",
+      "path": "files/early-technologies-60920b8b5fb96bf6131336a4.json",
       "role": "records",
       "bytes": 39079,
       "mediaType": "application/json",
-      "sha256": "767a9682a64ac27d5a38ecaa06c0d548f6e5ea848a3531dc667138d320948fc7"
+      "sha256": "60920b8b5fb96bf6131336a4e4e4d21be5a18c6065112b041189d51bbae298a3"
     },
     {
-      "path": "files/early-urban-places-cf743e6838cc4c10bf4d5a5d.json",
+      "path": "files/early-urban-places-c356d19661749877b51a0486.json",
       "role": "records",
-      "bytes": 28917,
+      "bytes": 33375,
       "mediaType": "application/json",
-      "sha256": "cf743e6838cc4c10bf4d5a5dea01db3314f8eab54847b70bbf539ddea4508082"
+      "sha256": "c356d19661749877b51a0486ef0245e40e288c65e2c9359a46416dff66fda247"
     },
     {
-      "path": "files/early-writing-and-accounts-73dac1e1acfbec7a76e1d5fb.json",
+      "path": "files/early-writing-and-accounts-2e33c57820f88727f180591d.json",
       "role": "records",
       "bytes": 39594,
       "mediaType": "application/json",
-      "sha256": "73dac1e1acfbec7a76e1d5fb509c141f80b1d7614a950e29c31866aa22097997"
+      "sha256": "2e33c57820f88727f180591d65434a9796e3e811259ee760a39da7d8190a7ce7"
     },
     {
-      "path": "files/east-asian-lifeways-7b564c7f891eea7af284b2c9.json",
+      "path": "files/east-asian-lifeways-a52e55c0cb9dcd97c0c5a645.json",
       "role": "records",
       "bytes": 42153,
       "mediaType": "application/json",
-      "sha256": "7b564c7f891eea7af284b2c90a04fbd548ac4d18451eabe081410767eb82cff2"
+      "sha256": "a52e55c0cb9dcd97c0c5a64524ed64e8fde247618b4ad569e83e18985603415d"
     },
     {
-      "path": "files/east-asian-urban-lifeways-a9fc7eb18601854ff0378003.json",
+      "path": "files/east-asian-urban-lifeways-d942370fcf302b6a5911319e.json",
       "role": "records",
       "bytes": 44589,
       "mediaType": "application/json",
-      "sha256": "a9fc7eb18601854ff0378003f90dbe2d9ddc81c0fffefd14d796d47288ced40c"
+      "sha256": "d942370fcf302b6a5911319e961ed0cd267554bf7e18e7f0328ebdbe7d999851"
     },
     {
-      "path": "files/first-circumnavigation-9c760c4e5d8da8e3452d877f.json",
+      "path": "files/first-circumnavigation-94fe3613fc83f5785bb29228.json",
       "role": "records",
       "bytes": 55015,
       "mediaType": "application/json",
-      "sha256": "9c760c4e5d8da8e3452d877fd416ee9836c0c0670c02caa54f989688ca11a062"
+      "sha256": "94fe3613fc83f5785bb2922836534c2cd63afe7827e89f1db62f9be460f0a0b0"
     },
     {
       "path": "files/geometry-012cdff86530bb19d2137425.geojson",
@@ -1548,116 +1556,116 @@
       "sha256": "ff0f7ac580cb0836199af7444a3c83263e7209307451e0ff38a99a7e3b2d9c14"
     },
     {
-      "path": "files/human-encounters-297002c412184e10dad6f969.json",
+      "path": "files/human-encounters-efcd83169f09d07ac0cbff4f.json",
       "role": "records",
       "bytes": 57842,
       "mediaType": "application/json",
-      "sha256": "297002c412184e10dad6f969e3b440f0257a95c4b68bec69e73fbd3c1894da97"
+      "sha256": "efcd83169f09d07ac0cbff4ffa08384e962e92832ce6efeedd2d240a8a5a948e"
     },
     {
-      "path": "files/human-origins-c2b49f82b1c2f59f7cda9e59.json",
+      "path": "files/human-origins-51358f5a6ea08a98883b31e1.json",
       "role": "records",
       "bytes": 37889,
       "mediaType": "application/json",
-      "sha256": "c2b49f82b1c2f59f7cda9e59a2741366eba666fb6bb58163a1277bc4b07aac0c"
+      "sha256": "51358f5a6ea08a98883b31e14656b46686d683a59a7f140b0ffff74f71f3bd92"
     },
     {
-      "path": "files/ice-age-life-1daede4927d2ad93d142924a.json",
+      "path": "files/ice-age-life-2e2b34705c345d925e018395.json",
       "role": "records",
       "bytes": 32855,
       "mediaType": "application/json",
-      "sha256": "1daede4927d2ad93d142924a9e545cbd13391cadd12c7c6b2c7c56b8cae3c48a"
+      "sha256": "2e2b34705c345d925e018395dd081d399cb86de4fa998a3750c2594d341a0028"
     },
     {
-      "path": "files/indus-urban-lifeways-ab4eb8d6d162fbc416bda6f9.json",
+      "path": "files/indus-urban-lifeways-d4aa44757b57ca0acac3e662.json",
       "role": "records",
       "bytes": 42318,
       "mediaType": "application/json",
-      "sha256": "ab4eb8d6d162fbc416bda6f91a903b0dba0407c2f579c46b2273850f36b98716"
+      "sha256": "d4aa44757b57ca0acac3e662777f6196e85fba63c8054593f9fda9dec8f4c530"
     },
     {
-      "path": "files/kingdom-of-kerma-992688119d4bd7e243cba48d.json",
+      "path": "files/kingdom-of-kerma-1ca0f2e8fc5ced8bf2b94970.json",
       "role": "records",
       "bytes": 37781,
       "mediaType": "application/json",
-      "sha256": "992688119d4bd7e243cba48ded3ce2031ed8a7ea01f3cc2214849a091047f5cc"
+      "sha256": "1ca0f2e8fc5ced8bf2b9497010b74ded3a01a28a7dedafe56c8c0d4f458b11fa"
     },
     {
-      "path": "files/late-bronze-age-diplomacy-ca6f215b9b828f8aea8348c0.json",
+      "path": "files/late-bronze-age-diplomacy-2be7fc8c13080af26ad97b9e.json",
       "role": "records",
       "bytes": 50674,
       "mediaType": "application/json",
-      "sha256": "ca6f215b9b828f8aea8348c02eb2790281618aba1feab5a297cafdf922505688"
+      "sha256": "2be7fc8c13080af26ad97b9ef36a5edfbb8055e375a36f3cb73336baa8440078"
     },
     {
-      "path": "files/late-shang-anyang-6561c63d857ac65bd345d024.json",
+      "path": "files/late-shang-anyang-8445ae2ab85a9984a6d3190d.json",
       "role": "records",
       "bytes": 45081,
       "mediaType": "application/json",
-      "sha256": "6561c63d857ac65bd345d024bc44413850a27d9a09708874537411c7b6e040b5"
+      "sha256": "8445ae2ab85a9984a6d3190dc9e5f81cf6f443d479fe787f8f65ad7ef9b570c8"
     },
     {
-      "path": "files/licenses-6e853f42bf67a577d40d62ff.json",
+      "path": "files/licenses-b7918aed9fd5c4fa499426b3.json",
       "role": "licenses",
-      "bytes": 65183,
+      "bytes": 65938,
       "mediaType": "application/json",
-      "sha256": "6e853f42bf67a577d40d62ff7ae7d781d11d80a6c62453e0a1d9247f7417112b"
+      "sha256": "b7918aed9fd5c4fa499426b31d78149dedb69016eea1342742fb4023a0509dcb"
     },
     {
-      "path": "files/maritime-shared-167d555cdabed760f98f8fda.json",
+      "path": "files/maritime-shared-84787a6b71635798085913a9.json",
       "role": "records",
       "bytes": 5851,
       "mediaType": "application/json",
-      "sha256": "167d555cdabed760f98f8fda72c1707cf7ebbb433aec0879c55a4647df868a83"
+      "sha256": "84787a6b71635798085913a9789bef4ea8d8431d1990f0d5249d9abaca90ea3e"
     },
     {
-      "path": "files/postglacial-dwellings-ed1560662d3ffd1486f85004.json",
+      "path": "files/postglacial-dwellings-de972b2fc5917f6db7bdb5e2.json",
       "role": "records",
       "bytes": 25731,
       "mediaType": "application/json",
-      "sha256": "ed1560662d3ffd1486f850047338fbe2d862a04f79b9e53a70834cf92aa4c037"
+      "sha256": "de972b2fc5917f6db7bdb5e2bf9ff46fede621e754be1fc262dcbaf5fe1db349"
     },
     {
-      "path": "files/record-index-7155f5061ef6a0ab36704f44.json",
+      "path": "files/record-index-d60e9aef58cefc4aaa275410.json",
       "role": "record-index",
-      "bytes": 539423,
+      "bytes": 540507,
       "mediaType": "application/json",
-      "sha256": "7155f5061ef6a0ab36704f448a7bdc359d2d521865fce0de3940171f1d53080a"
+      "sha256": "d60e9aef58cefc4aaa2754109c6c098e2e0fc65ceca1457412a778e1799430b3"
     },
     {
-      "path": "files/relations-46c66f2a169d15f5514345bf.json",
+      "path": "files/relations-d6351a3bc60204cb557085e4.json",
       "role": "relations",
       "bytes": 112825,
       "mediaType": "application/json",
-      "sha256": "46c66f2a169d15f5514345bfd9fc67de73c2a37635143022bc9c95021392ebc0"
+      "sha256": "d6351a3bc60204cb557085e45724a85df166214671286f8d2f15a4f63b8b0281"
     },
     {
-      "path": "files/san-lorenzo-monuments-9b619d5af9ab72bcdf9e23ac.json",
+      "path": "files/san-lorenzo-monuments-0dec8575e8d1f69c870b203e.json",
       "role": "records",
       "bytes": 31540,
       "mediaType": "application/json",
-      "sha256": "9b619d5af9ab72bcdf9e23ac8a0ec7fa5c6aa2e733623370154bcaeeda81fe78"
+      "sha256": "0dec8575e8d1f69c870b203e2ca9aa0761e0ec7c69b445a683d973169a73b65d"
     },
     {
-      "path": "files/search-de-6927568733e762ee6b7aad67.json",
+      "path": "files/search-de-aa7e80d9517e5801c8ab8df9.json",
       "role": "search",
-      "bytes": 276059,
+      "bytes": 276644,
       "mediaType": "application/json",
-      "sha256": "6927568733e762ee6b7aad6724705f50a19a4b66a62e3fc346cf2c989413c625"
+      "sha256": "aa7e80d9517e5801c8ab8df924e5c70c375330d8238ab2323e8af7d994ed902a"
     },
     {
-      "path": "files/search-en-6927568733e762ee6b7aad67.json",
+      "path": "files/search-en-aa7e80d9517e5801c8ab8df9.json",
       "role": "search",
-      "bytes": 276059,
+      "bytes": 276644,
       "mediaType": "application/json",
-      "sha256": "6927568733e762ee6b7aad6724705f50a19a4b66a62e3fc346cf2c989413c625"
+      "sha256": "aa7e80d9517e5801c8ab8df924e5c70c375330d8238ab2323e8af7d994ed902a"
     },
     {
-      "path": "files/spatial-b96e7f3c7c80324cbcda1031.json",
+      "path": "files/spatial-f8d83e8299f2c381622e70dc.json",
       "role": "spatial",
       "bytes": 30766,
       "mediaType": "application/json",
-      "sha256": "b96e7f3c7c80324cbcda1031607a9ace4c2274e9be44834936f1810a54a4d9ae"
+      "sha256": "f8d83e8299f2c381622e70dccd80d15e6514e3cd90807fc83011a1e1b0736b34"
     },
     {
       "path": "files/text-008a18d0d09dcfec096e0501.md",
@@ -1770,6 +1778,13 @@
       "bytes": 3058,
       "mediaType": "text/markdown",
       "sha256": "4574fce110ec72d48e473c676769ee81615a01ef72ecec30e0589f0a4c4004ad"
+    },
+    {
+      "path": "files/text-4e8fec747b6dcec04bf94ea9.md",
+      "role": "text",
+      "bytes": 3544,
+      "mediaType": "text/markdown",
+      "sha256": "4e8fec747b6dcec04bf94ea920faa999280f3d394c1e4a52ce0821c259fc8102"
     },
     {
       "path": "files/text-56d08e72981c0e855556b5f4.md",
@@ -1982,13 +1997,6 @@
       "sha256": "b7c9927138baa3b6a05b2b7004afbbe8a72b0c43a344ce505a9351387ed8ac76"
     },
     {
-      "path": "files/text-b8551a7a00f7f3a7f3b8bc38.md",
-      "role": "text",
-      "bytes": 2926,
-      "mediaType": "text/markdown",
-      "sha256": "b8551a7a00f7f3a7f3b8bc38737909760c42b40b42cf50fd27a3e41d77087938"
-    },
-    {
       "path": "files/text-bb1760fd8d4936eb5330363e.md",
       "role": "text",
       "bytes": 3136,
@@ -2008,13 +2016,6 @@
       "bytes": 2790,
       "mediaType": "text/markdown",
       "sha256": "bcb42713b37e5396b2184812e8955a2dc5a06a83360c6b22f923d1f9f5253ed7"
-    },
-    {
-      "path": "files/text-bcbb13411f653bcfd2c574a5.md",
-      "role": "text",
-      "bytes": 3179,
-      "mediaType": "text/markdown",
-      "sha256": "bcbb13411f653bcfd2c574a52c65b1501c24c712df6f031037d91272a7f20b99"
     },
     {
       "path": "files/text-bda8128caf8d9dc365c32322.md",
@@ -2073,6 +2074,13 @@
       "sha256": "dbb5ea3c25e38d29a331f7a4b932ff195751ed9c384186be28370cea019d78a7"
     },
     {
+      "path": "files/text-de3b813ddbef7abd4e9de91a.md",
+      "role": "text",
+      "bytes": 3285,
+      "mediaType": "text/markdown",
+      "sha256": "de3b813ddbef7abd4e9de91a6f029a1ab5f7f75940eddf81ab865884d98d6b93"
+    },
+    {
       "path": "files/text-e8537ce50399fed156a9da96.md",
       "role": "text",
       "bytes": 3057,
@@ -2122,38 +2130,38 @@
       "sha256": "fdc38868c05fea05fa84f4da292256dc559003a3da72d4f5e5d01b1ecbf4dd26"
     },
     {
-      "path": "files/time-c63d4f9cc96b116dc2c02b84.json",
+      "path": "files/time-16f3f6f46d83706704404361.json",
       "role": "time",
       "bytes": 88286,
       "mediaType": "application/json",
-      "sha256": "c63d4f9cc96b116dc2c02b8447006ada5028eb65e35bd988c28166676e845e58"
+      "sha256": "16f3f6f46d837067044043616e021badaf22e5f8e6b48bee47824cd8d1d1df6a"
     },
     {
-      "path": "files/ugarit-and-late-bronze-age-crises-25a833446732e10ad97da518.json",
+      "path": "files/ugarit-and-late-bronze-age-crises-7f2f710f9ab59881417f9b82.json",
       "role": "records",
       "bytes": 40896,
       "mediaType": "application/json",
-      "sha256": "25a833446732e10ad97da518616b26d4bd06a7d05072722ee6854f6cbea543ac"
+      "sha256": "7f2f710f9ab59881417f9b828265abfc3311a6f99e00e62f65b1d0dd41b65064"
     },
     {
-      "path": "files/uluburun-cargo-e011b5eeb052da9914a493a2.json",
+      "path": "files/uluburun-cargo-bf7af0de376953db9f5baa23.json",
       "role": "records",
       "bytes": 29903,
       "mediaType": "application/json",
-      "sha256": "e011b5eeb052da9914a493a25ff48b2e9da6d3b554ff8ea7f2acc0f69ec191db"
+      "sha256": "bf7af0de376953db9f5baa2368f056ab0a6360ab193559ef515ead64180edf33"
     }
   ],
   "entrypoints": {
-    "discovery": "files/discovery-4cd9a1255905dd935570612a.json",
-    "recordIndex": "files/record-index-7155f5061ef6a0ab36704f44.json",
+    "discovery": "files/discovery-a5f00c1a958202af86a90898.json",
+    "recordIndex": "files/record-index-d60e9aef58cefc4aaa275410.json",
     "search": {
-      "de": "files/search-de-6927568733e762ee6b7aad67.json",
-      "en": "files/search-en-6927568733e762ee6b7aad67.json"
+      "de": "files/search-de-aa7e80d9517e5801c8ab8df9.json",
+      "en": "files/search-en-aa7e80d9517e5801c8ab8df9.json"
     },
-    "time": "files/time-c63d4f9cc96b116dc2c02b84.json",
-    "relations": "files/relations-46c66f2a169d15f5514345bf.json",
-    "spatial": "files/spatial-b96e7f3c7c80324cbcda1031.json",
+    "time": "files/time-16f3f6f46d83706704404361.json",
+    "relations": "files/relations-d6351a3bc60204cb557085e4.json",
+    "spatial": "files/spatial-f8d83e8299f2c381622e70dc.json",
     "defaultChapterId": "chapter:as-the-ice-retreats"
   },
-  "licenseInventory": "files/licenses-6e853f42bf67a577d40d62ff.json"
+  "licenseInventory": "files/licenses-b7918aed9fd5c4fa499426b3.json"
 }

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:brokensphere-uruk-mosaic-detail-2004",
+  "sourceRefs": [],
+  "title": "Stone-Cone Temple mosaic detail, Pergamon Museum.JPG",
+  "sourceType": "website",
+  "creators": [
+    "BrokenSphere"
+  ],
+  "published": "2009",
+  "containerTitle": "Wikimedia Commons",
+  "url": "https://commons.wikimedia.org/wiki/File:Stone-Cone_Temple_mosaic_detail,_Pergamon_Museum.JPG",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Photograph taken on 24 October 2004 and uploaded in 2009. The file page documents its museum subject, requested credit and CC BY-SA 3.0 licence. The image is used as a modern reference panel in the reconstruction."
+}

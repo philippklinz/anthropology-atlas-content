@@ -14,6 +14,8 @@ Weiter südlich, im heutigen Irak, liegt Uruk. Im Eanna-Areal blieben Teile eine
 
 Vom Steinstiftgebäude selbst blieben nur Teile von Mauern und Boden. Sie zeigen, wie aufwendig dort gebaut wurde. Wie die Menschen den Hof an einem gewöhnlichen Tag nutzten, bleibt offen. Die Stadt wuchs und veränderte sich über viele Jahrhunderte. Der Kartenpunkt zeigt den heutigen Fundort, die Zeitleiste nur die ungefähre Bauzeit dieses Gebäudes.
 
+Unter **Uruk · Steinstiftgebäude in 3D** kannst du die Anlage um 3500 v. Chr. drehen und verfolgen, wie Hof, Umfassungsmauer und Lehmterrasse zusammenlagen. Braune Bereiche zeigen den archäologischen Befund. Die hellen Bauteile ergänzen ihn zu einer möglichen Bauform. Eine moderne Tafel im Modell zeigt zum Vergleich ein Mosaikdetail aus dem Pergamonmuseum.
+
 ## Arslantepe
 
 Im Osten der heutigen Türkei legten Archäologen einen Lehmziegelkomplex aus der Zeit um **3400–3100 v. Chr.** frei. Innen gab es Höfe, bemalte Wände und Räume mit großen Vorratsgefäßen. Zwischen den Funden lagen zahlreiche kleine Tonstücke mit Siegelabdrücken. Solche Stücke blieben beim Öffnen versiegelter Behälter oder Räume zurück. Ein Bild aus dem Museum von Malatya zeigt erhaltene Malerei aus dem Komplex.

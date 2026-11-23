@@ -20,5 +20,8 @@
   "summary": {
     "de": "Bruchstückhaft erhaltenes Bauwerk in Eanna. Farbige Steinkegel schmückten die Wände am ehemaligen Hof.",
     "en": "Fragmentary structure in Eanna. Coloured stone cones decorated walls around its former courtyard."
-  }
+  },
+  "assetIds": [
+    "asset:uruk-stone-cone-building-reconstruction"
+  ]
 }
