@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:shubayqa-1",
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-shubayqa-2017",
+      "role": "supports",
+      "locator": "p. 2, Shubayqa 1: geographic position, environmental finds and Structure 1; pp. 3–4: Phases 7–4 and intervening gaps in the site sequence"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Shubayqa 1 · Nordostjordanien",
+    "en": "Shubayqa 1 · northeast Jordan"
+  },
+  "summary": {
+    "de": "Fundplatz im heutigen nordöstlichen Jordanien, nahe einer zeitweise wasserführenden Senke. Frühe Steinbauten und jüngere Schichten dokumentieren mehrere Aufenthaltsphasen.",
+    "en": "Site in present-day northeast Jordan, near a basin that held water at times. Early stone buildings and younger deposits record several phases of occupation."
+  }
+}

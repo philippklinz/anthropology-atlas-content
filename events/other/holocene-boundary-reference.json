@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:holocene-boundary-reference",
+  "sourceRefs": [
+    {
+      "sourceId": "source:walker-holocene-2009",
+      "role": "supports",
+      "locator": "p. 3, Abstract, and p. 14, Summary: NGRIP boundary age 11,700 calendar years b2k with maximum counting error 99 years"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Geologischer Beginn des Holozäns",
+    "en": "Geological beginning of the Holocene"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 11650,
+      "younger": 11650,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "concept:holocene-boundary",
+      "role": "participant"
+    }
+  ],
+  "note": {
+    "de": "Walker et al. geben gerundet 11.700 Kalenderjahre vor 2000 an. Auf der Atlas-Zeitachse sind das 11.650 BP. Die Studie nennt höchstens 99 Jahre Zählunsicherheit. Die Grenze ist geologisch definiert.",
+    "en": "Walker et al. give a rounded age of 11,700 calendar years before 2000. This is 11,650 BP on the atlas time axis. The study reports a maximum counting uncertainty of 99 years. The boundary is geological."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Walker et al. geben gerundet 11.700 Kalenderjahre vor 2000 an. Auf der Atlas-Zeitachse sind das 11.650 BP. Die Studie nennt höchstens 99 Jahre Zählunsicherheit. Die Grenze ist geologisch definiert.",
+      "en": "Walker et al. give a rounded age of 11,700 calendar years before 2000. This is 11,650 BP on the atlas time axis. The study reports a maximum counting uncertainty of 99 years. The boundary is geological."
+    }
+  }
+}

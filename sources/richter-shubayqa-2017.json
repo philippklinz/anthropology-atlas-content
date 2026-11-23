@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:richter-shubayqa-2017",
+  "sourceRefs": [],
+  "title": "High Resolution AMS Dates from Shubayqa 1, northeast Jordan Reveal Complex Origins of Late Epipalaeolithic Natufian in the Levant",
+  "sourceType": "article",
+  "creators": [
+    "Tobias Richter",
+    "Amaia Arranz-Otaegui",
+    "Lisa Yeomans",
+    "Elisabetta Boaretto"
+  ],
+  "url": "https://www.nature.com/articles/s41598-017-17096-5",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The 2σ bracket for the early Phases 7–4 represents a modelled sequence. See pp. 2–4 for the relation of Structure 1 to later deposits. The figure credits Alexis Pantos for the aerial photograph.",
+  "identifiers": {
+    "doi": "10.1038/s41598-017-17096-5"
+  },
+  "published": "2017",
+  "containerTitle": "Scientific Reports 7, 17025"
+}

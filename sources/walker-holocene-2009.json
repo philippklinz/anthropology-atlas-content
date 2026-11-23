@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:walker-holocene-2009",
+  "sourceRefs": [],
+  "title": "Formal definition and dating of the GSSP (Global Stratotype Section and Point) for the base of the Holocene using the Greenland NGRIP ice core, and selected auxiliary records",
+  "sourceType": "article",
+  "creators": [
+    "Mike Walker",
+    "Sigfus Johnsen",
+    "Sune Olander Rasmussen",
+    "Trevor Popp",
+    "Jørgen-Peder Steffensen",
+    "Phil Gibbard",
+    "Wim Hoek",
+    "John Lowe",
+    "John Andrews",
+    "Svante Björck",
+    "Les C. Cwynar",
+    "Konrad Hughen",
+    "Peter Kershaw",
+    "Bernd Kromer",
+    "Thomas Litt",
+    "David J. Lowe",
+    "Takeshi Nakagawa",
+    "Rewi Newnham",
+    "Jakob Schwander"
+  ],
+  "url": "https://stratigraphy.org/gssps/files/holocene.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The study uses the b2k epoch and reports maximum counting uncertainty. Subtract 50 years when expressing the rounded age relative to 1950 in the atlas.",
+  "identifiers": {
+    "doi": "10.1002/jqs.1227"
+  },
+  "published": "2009",
+  "containerTitle": "Journal of Quaternary Science 24, 3–17"
+}

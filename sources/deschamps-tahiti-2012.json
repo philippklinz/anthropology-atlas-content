@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:deschamps-tahiti-2012",
+  "sourceRefs": [],
+  "title": "Ice-sheet collapse and sea-level rise at the Bølling warming 14,600 years ago",
+  "sourceType": "article",
+  "creators": [
+    "Pierre Deschamps",
+    "Nicolas Durand",
+    "Edouard Bard",
+    "Bruno Hamelin",
+    "Gilbert Camoin",
+    "Alexander L. Thomas",
+    "Gideon M. Henderson",
+    "Jun’ichi Okuno",
+    "Yusuke Yokoyama"
+  ],
+  "url": "https://doi.org/10.1038/nature10902",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Main paper pp. 559–561 give calendar-age constraints and a local relative sea-level estimate. The article is cited without redistributing its figures.",
+  "identifiers": {
+    "doi": "10.1038/nature10902"
+  },
+  "published": "2012",
+  "containerTitle": "Nature 483, 559–564"
+}

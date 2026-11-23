@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:tahiti-meltwater-pulse-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:deschamps-tahiti-2012",
+      "role": "supports",
+      "locator": "pp. 559–561, The Tahiti record, Occurrence of MWP-1A and Amplitude and duration; Fig. 2: age constraints and 12–22 m of local sea-level rise"
+    },
+    {
+      "sourceId": "source:iodp-expedition-310-m0009b",
+      "role": "supports",
+      "locator": "Expedition 310, Site M0009, Hole B: coordinates −17.48858 latitude, −149.4034 longitude"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Tahiti · Korallen zeichnen Meeresspiegelanstieg auf",
+    "en": "Tahiti · corals record sea-level rise"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14650,
+      "younger": 14650,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14310,
+      "younger": 14310,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "specimen:tahiti-deglacial-coral-record",
+      "role": "participant"
+    },
+    {
+      "entityId": "concept:deglaciation-and-sea-level",
+      "role": "participant"
+    }
+  ],
+  "note": {
+    "de": "Ein besonders rascher Anstieg setzte laut Studie frühestens 14.650 BP ein und endete vor 14.310 BP. Die geschätzte örtliche Änderung beträgt 12–22 Meter, am wahrscheinlichsten 14–18 Meter. Der Punkt zeigt eine Bohrstelle des Korallenarchivs vor Tahiti.",
+    "en": "The study constrains the start of rapid rise to no earlier than 14,650 BP and its end to before 14,310 BP. Estimated local rise was 12–22 metres, most probably 14–18 metres. The point shows a coral archive coring location off Tahiti."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Datierung und Wassertiefen ergeben eine zeitliche Klammer. Die Anstiegsrate kann innerhalb dieser Klammer variiert haben.",
+      "en": "Ages and water depths give an enclosing window. The rate may have varied within it."
+    }
+  },
+  "placeIds": [
+    "place:tiarei-offshore-coring-site"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tiarei-coral-core-orientation",
+      "role": "location"
+    }
+  ]
+}

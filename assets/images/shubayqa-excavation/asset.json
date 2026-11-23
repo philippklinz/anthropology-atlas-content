@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:shubayqa-excavation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-shubayqa-2017",
+      "role": "supports",
+      "locator": "Fig. 1 and caption: aerial photo by Alexis Pantos and regional locator map using Natural Earth data"
+    }
+  ],
+  "assetType": "image",
+  "file": "shubayqa-1-excavation.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Shubayqa 1 · Luftbild der Grabung",
+    "en": "Shubayqa 1 · aerial view of the excavation"
+  },
+  "alt": {
+    "de": "Luftbild des steinigen Geländes. In der Mitte sind die Umrisse des Grabungsausschnitts und eine gepflasterte Fläche sichtbar. Links unten liegt die regionale Orientierungskarte.",
+    "en": "Aerial photograph of stony ground. In the centre the excavation outline and a paved surface are visible. A regional locator map sits at bottom left."
+  },
+  "entityIds": [
+    "place:shubayqa-1"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Alexis Pantos",
+      "Tobias Richter",
+      "Amaia Arranz-Otaegui",
+      "Lisa Yeomans",
+      "Elisabetta Boaretto"
+    ],
+    "attribution": "Alexis Pantos (photo), Richter et al. (2017), Scientific Reports, Fig. 1. Locator map: Natural Earth data. CC BY 4.0.",
+    "sourceUrl": "https://www.nature.com/articles/s41598-017-17096-5/figures/1",
+    "originNote": "Publisher’s unchanged 685 × 882 JPEG (w685). Figure caption credits Alexis Pantos for the aerial photo. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

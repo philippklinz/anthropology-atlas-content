@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:shubayqa-1-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-shubayqa-2017",
+      "role": "supports",
+      "locator": "p. 2, Shubayqa 1: geographic position, environmental finds and Structure 1; pp. 3–4: Phases 7–4 and intervening gaps in the site sequence"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 100,
+    "note": {
+      "de": "Gerundete Lage zur Orientierung. Die Toleranz wurde redaktionell gewählt.",
+      "en": "Rounded location for orientation. The tolerance is an editorial choice."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundete Fundplatzlage aus Richter et al. 2017, S. 2.",
+    "en": "Site point rounded from Richter et al. 2017, p. 2."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic point",
+    "originNote": "Point authored from published coordinates for geographic orientation."
+  }
+}

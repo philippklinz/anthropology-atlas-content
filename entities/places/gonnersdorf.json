@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:gonnersdorf",
+  "sourceRefs": [
+    {
+      "sourceId": "source:robitaille-gonnersdorf-2024",
+      "role": "supports",
+      "locator": "Introduction: site context around 15.8 ka; Methods and results; Fig. 9: Plaquette 282; Discussion: fish-and-grid motifs and interpreted net fishing"
+    },
+    {
+      "sourceId": "source:siemssen-maier-neuwied-data-2024",
+      "role": "supports",
+      "locator": "Supplement A, section 5 Sites, rows 10–13: Gönnersdorf K I–IV, Late Upper Palaeolithic"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Gönnersdorf · Mittelrhein",
+    "en": "Gönnersdorf · Middle Rhine"
+  },
+  "summary": {
+    "de": "Magdalénien-Fundplatz im heutigen Deutschland. Gravierte Schieferplaketten liefern Einblicke in die dargestellte Tierwelt und mögliche Fangtechniken.",
+    "en": "Magdalenian site in present-day Germany. Engraved slate plaquettes offer clues about the animals people depicted and possible fishing techniques."
+  }
+}

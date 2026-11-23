@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:siemssen-maier-neuwied-data-2024",
+  "sourceRefs": [],
+  "title": "Ergänzungsmaterial zu: Rivers run and people may meander. Water body-oriented land use decisions in the Neuwied Basin during the Late Upper Palaeolithic and Late Palaeolithic",
+  "sourceType": "dataset",
+  "creators": [
+    "Tjaark Siemssen",
+    "Andreas Maier"
+  ],
+  "url": "https://doi.org/10.11588/DATA/ZUJRXV",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "heiDATA V1 metadata and the published Supplement A PDF were consulted for approximate location. The four Late Upper Palaeolithic entries round to the same site-scale coordinate.",
+  "identifiers": {
+    "doi": "10.11588/DATA/ZUJRXV"
+  },
+  "published": "2024",
+  "containerTitle": "heiDATA, version 1.0"
+}

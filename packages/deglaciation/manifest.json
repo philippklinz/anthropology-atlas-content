@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:deglaciation",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Wenn das Eis weicht",
+    "en": "As the Ice Retreats"
+  },
+  "languages": [
+    "de",
+    "en"
+  ],
+  "defaultLanguage": "de",
+  "dependencies": [
+    "package:ice-age-life"
+  ],
+  "recordIds": [
+    "artifact:gonnersdorf-plaquette-282",
+    "artifact:shubayqa-structure-1",
+    "assertion:gonnersdorf-plaquette-at-site",
+    "assertion:shubayqa-structure-1-at-site",
+    "asset:gonnersdorf-fish-grid",
+    "asset:shubayqa-excavation",
+    "chapter:as-the-ice-retreats",
+    "concept:deglaciation-and-sea-level",
+    "concept:holocene-boundary",
+    "event:gonnersdorf-fish-grid-evidence",
+    "event:holocene-boundary-reference",
+    "event:shubayqa-early-occupation-evidence",
+    "event:tahiti-meltwater-pulse-evidence",
+    "geometry:gonnersdorf-orientation",
+    "geometry:shubayqa-1-orientation",
+    "geometry:tiarei-coral-core-orientation",
+    "place:gonnersdorf",
+    "place:shubayqa-1",
+    "place:tiarei-offshore-coring-site",
+    "source:deschamps-tahiti-2012",
+    "source:iodp-expedition-310-m0009b",
+    "source:richter-shubayqa-2017",
+    "source:robitaille-gonnersdorf-2024",
+    "source:siemssen-maier-neuwied-data-2024",
+    "source:walker-holocene-2009",
+    "specimen:tahiti-deglacial-coral-record"
+  ],
+  "entryChapterIds": [
+    "chapter:as-the-ice-retreats"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}
