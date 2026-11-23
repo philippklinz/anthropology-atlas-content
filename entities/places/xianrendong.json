@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:xianrendong",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wu-xianrendong-pottery-2012",
+      "role": "supports",
+      "locator": "p. 1697, site description: 28°44′10.05″N, 117°10′23.15″E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Xianrendong · Jiangxi, China",
+    "en": "Xianrendong · Jiangxi, China"
+  },
+  "summary": {
+    "de": "Höhle im Kreis Wannian. Aus den Schichtfolgen am Eingang stammen frühe Tonscherben, Steinwerkzeuge und Tierknochen.",
+    "en": "Cave in Wannian County. Deposits at its entrance yielded early potsherds, stone tools and animal bones."
+  }
+}

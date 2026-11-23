@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:fa-hien-bone-tools",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wedage-fa-hien-lena-2019",
+      "role": "derivation",
+      "locator": "Fig. 4 and caption; p. 8 Creative Commons license for images"
+    }
+  ],
+  "assetType": "image",
+  "file": "fa-hien-bone-tools.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Fa-Hien Lena · Knochenfunde im Detail",
+    "en": "Fa-Hien Lena · detailed views of bone finds"
+  },
+  "alt": {
+    "de": "Tafel mit bearbeiteten Tierknochen und vergrößerten Spuren. Die Felder c und d zeigen Spitzen aus Affenknochen mit belasteten Enden.",
+    "en": "Plate of modified animal bones with magnified traces. Panels c and d show monkey-bone points with damage at their tips."
+  },
+  "entityIds": [
+    "artifact:fa-hien-phase-d-bone-tools"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Oshan Wedage et al."
+    ],
+    "attribution": "Wedage et al. (2019), Fig. 4, Nature Communications · CC BY 4.0 · resized and converted to WebP",
+    "sourceUrl": "https://www.nature.com/articles/s41467-019-08623-1/figures/4",
+    "originNote": "Complete figure resized to 1550 × 1202 px and encoded as WebP. License: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

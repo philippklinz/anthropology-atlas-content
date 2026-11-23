@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:fa-hien-lena-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wedage-fa-hien-lena-2019",
+      "role": "derivation",
+      "locator": "p. 6, Methods: 80°12′55″E, 6°38′55″N"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 200,
+    "note": {
+      "de": "Redaktionelle Lagehilfe, kein statistisches Fehlerintervall.",
+      "en": "Editorial orientation tolerance, not a statistical error interval."
+    }
+  },
+  "processingNote": {
+    "de": "Die publizierte Ortsangabe wurde in Dezimalgrad umgerechnet und gerundet.",
+    "en": "The published site coordinate was converted to decimal degrees and rounded."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Manually authored point from the cited factual coordinate."
+  }
+}

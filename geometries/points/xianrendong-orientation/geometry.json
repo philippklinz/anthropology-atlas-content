@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:xianrendong-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wu-xianrendong-pottery-2012",
+      "role": "derivation",
+      "locator": "p. 1697, site description: 28°44′10.05″N, 117°10′23.15″E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 200,
+    "note": {
+      "de": "Redaktionelle Lagehilfe, kein statistisches Fehlerintervall.",
+      "en": "Editorial orientation tolerance, not a statistical error interval."
+    }
+  },
+  "processingNote": {
+    "de": "Die publizierte Ortsangabe wurde in Dezimalgrad umgerechnet und gerundet.",
+    "en": "The published site coordinate was converted to decimal degrees and rounded."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Manually authored point from the cited factual coordinate."
+  }
+}

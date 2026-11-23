@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:sibudu-technology-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soriano-sibudu-blombos-2015",
+      "role": "supports",
+      "locator": "Replacing the Still Bay: the Howiesons Poort at Sibudu; Fig. 18; Residue analysis of backed pieces, PGS B5a and GR C6c; Figs. M–N in S4 File"
+    },
+    {
+      "sourceId": "source:tuebingen-sibhudu-stratigraphy",
+      "role": "supports",
+      "locator": "Stratigraphy: current excavation-team overview of Howiesons Poort at Sibhudu"
+    },
+    {
+      "sourceId": "source:wadley-hafting-experiments-2009",
+      "role": "supports",
+      "locator": "Replication Results; Table 1: trial adhesives and their performance"
+    },
+    {
+      "sourceId": "source:chasan-conifer-adhesives-2024",
+      "role": "supports",
+      "locator": "Sections 4–5: reference material and limits of identifying conifers from degraded residues"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Sibudu · Steineinsätze und Schäftung",
+    "en": "Sibudu · stone inserts and hafting"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 70000,
+      "younger": 60000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:sibudu-backed-pieces",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:sibudu"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sibudu-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Rund 70.000–60.000 Jahre BP ist ein redaktionelles Zeitfenster für die hier verglichenen Howiesons-Poort-Schichten. Rückstandsposition und Schäden stützen Schäftung. Die Harzprobe überliefert kein vollständiges Rezept.",
+      "en": "About 70,000–60,000 years BP is an editorial window for the Howiesons Poort layers compared here. Residue position and damage support hafting. The resin sample preserves only part of the recipe."
+    }
+  },
+  "note": {
+    "de": "Rund 70.000–60.000 Jahre BP ist ein redaktionelles Zeitfenster für die hier verglichenen Howiesons-Poort-Schichten. Rückstandsposition und Schäden stützen Schäftung. Die Harzprobe überliefert kein vollständiges Rezept.",
+    "en": "About 70,000–60,000 years BP is an editorial window for the Howiesons Poort layers compared here. Residue position and damage support hafting. The resin sample preserves only part of the recipe."
+  }
+}

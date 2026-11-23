@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kuzmin-east-asian-pottery-2015",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The origins of pottery in East Asia: updated analysis (the 2015 state-of-the-art)",
+  "sourceType": "article",
+  "creators": [
+    "Yaroslav V. Kuzmin"
+  ],
+  "published": "2015",
+  "language": "en",
+  "url": "https://doi.org/10.4312/dp.42.1",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Documenta Praehistorica 42, 1–11. Discussion of core dating objections and alternative estimates.",
+  "identifiers": {
+    "doi": "10.4312/dp.42.1"
+  }
+}

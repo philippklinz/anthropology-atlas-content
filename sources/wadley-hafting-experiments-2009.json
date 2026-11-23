@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wadley-hafting-experiments-2009",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Implications for complex cognition from the hafting of tools with compound adhesives in the Middle Stone Age, South Africa",
+  "sourceType": "article",
+  "creators": [
+    "Lyn Wadley",
+    "Tammy Hodgskiss",
+    "Michael Grant"
+  ],
+  "published": "2009",
+  "language": "en",
+  "url": "https://doi.org/10.1073/pnas.0900957106",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PNAS 106, 9590–9594. Replication Results and Table 1 describe experimental mixtures.",
+  "identifiers": {
+    "doi": "10.1073/pnas.0900957106"
+  }
+}

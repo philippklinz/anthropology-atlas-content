@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wu-xianrendong-pottery-2012",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Early Pottery at 20,000 Years Ago in Xianrendong Cave, China",
+  "sourceType": "article",
+  "creators": [
+    "Xiaohong Wu",
+    "Chi Zhang",
+    "Paul Goldberg",
+    "David Joel Cohen",
+    "Yan Pan",
+    "Trina Arpin",
+    "Ofer Bar-Yosef"
+  ],
+  "published": "2012-06-29",
+  "language": "en",
+  "url": "https://doi.org/10.1126/science.1218643",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Science 336, 1696–1700. Finds, stratigraphy, radiocarbon sample tables and the provisional function of the vessels consulted in the article text.",
+  "identifiers": {
+    "doi": "10.1126/science.1218643"
+  }
+}

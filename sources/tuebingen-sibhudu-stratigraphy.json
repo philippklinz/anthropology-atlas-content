@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tuebingen-sibhudu-stratigraphy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sibhudu",
+  "sourceType": "website",
+  "creators": [
+    "University of Tübingen excavation team"
+  ],
+  "published": "undated",
+  "language": "en",
+  "url": "https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/work-groups/prehistory-and-archaeological-sciences/ina/early-prehistory-quaternary-ecology/research/excavations/south-africa/sibhudu/",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Excavation team's current site account. Background and Stratigraphy consulted."
+}
