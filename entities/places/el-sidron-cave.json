@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:el-sidron-cave",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rosas-el-sidron-growth-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript pp. 4–5, Dental histology and skeletal maturation; Figs. 2 and S1–S2; Table S3"
+    },
+    {
+      "sourceId": "source:rosas-el-sidron-site-2006",
+      "role": "supports",
+      "locator": "p. 19266, El Sidrón site paragraph: 43°23′01″N, 5°19′44″W"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "El Sidrón · Asturien",
+    "en": "El Sidrón · Asturias"
+  },
+  "summary": {
+    "de": "Höhlensystem in Asturien, Nordspanien. Hier fanden Forschende die Überreste mehrerer Neandertaler, darunter das Kind J1.",
+    "en": "Cave system in Asturias, northern Spain. Researchers found the remains of several Neanderthals here, including the child J1."
+  }
+}

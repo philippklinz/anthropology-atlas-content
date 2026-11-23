@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:madjedbebe-plant-food-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:florin-madjedbebe-food-2020",
+      "role": "supports",
+      "locator": "pp. 2–3, Phase 2 plant macrofossils; pp. 5–6, Discussion and Methods, processing and preservation"
+    },
+    {
+      "sourceId": "source:clarkson-madjedbebe-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript, lines 73–74 and 176–188, location and Phase 2 chronology"
+    },
+    {
+      "sourceId": "source:oconnell-sahul-2018",
+      "role": "challenges",
+      "locator": "pp. 8486–8487, Madjedbebe and Discussion, sediment–artifact association"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Madjedbebe · verkohlte Pflanzenreste",
+    "en": "Madjedbebe · charred plant remains"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 65000,
+      "younger": 65000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 53000,
+      "younger": 53000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "specimen:madjedbebe-plant-foods",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:madjedbebe"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:madjedbebe-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Florin et al. ordnen die Reste Phase 2 zu, etwa 65.000–53.000 Jahre BP. Die Spanne beschreibt die Fundschicht.",
+    "en": "Florin et al. associate the remains with Phase 2, around 65,000–53,000 BP. The span describes the archaeological context."
+  },
+  "epistemic": {
+    "status": "disputed",
+    "note": {
+      "de": "Die frühe Zuordnung von Sedimentalter und Funden wird diskutiert.",
+      "en": "The association between early sediment dates and finds is debated."
+    }
+  }
+}

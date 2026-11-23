@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:shanidar-cave-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tilby-shanidar-location-2022",
+      "role": "derivation",
+      "locator": "Section 1.1, first paragraph: 36°50′N, 44°13′E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Redaktioneller Spielraum des gerundeten Orientierungspunktes.",
+      "en": "Editorial allowance for the rounded orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Die Fundortlage wurde aus den veröffentlichten Koordinaten in Dezimalgrad umgerechnet und gerundet.",
+    "en": "Site coordinates were converted to decimal degrees and rounded from the published location."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from published factual coordinates."
+  }
+}

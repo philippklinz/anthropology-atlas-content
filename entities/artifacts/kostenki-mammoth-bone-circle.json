@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:kostenki-mammoth-bone-circle",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pryor-kostenki-2020",
+      "role": "supports",
+      "locator": "Archaeological context; The third mammoth-bone feature; Table 2, combined calibrated dates; Discussion: fuel and unresolved function"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Kostenki 11 · Mammutknochenkreis",
+    "en": "Kostenki 11 · mammoth-bone circle"
+  },
+  "summary": {
+    "de": "Fünf zusammenpassende Radiokarbondaten ergeben den kalibrierten Bereich 25.063–24.490 BP (95,4 %, IntCal13). Holzkohle und verbrannte Knochen geben Hinweise auf Feuer. Ob der etwa 12,5 Meter breite Kreis überdacht oder dauerhaft bewohnt war, bleibt offen.",
+    "en": "Five consistent radiocarbon dates give a calibrated range of 25,063–24,490 BP (95.4%, IntCal13). Charcoal and burned bones attest fire. Whether people roofed or permanently inhabited the roughly 12.5-metre circle remains open."
+  }
+}

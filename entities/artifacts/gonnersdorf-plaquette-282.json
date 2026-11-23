@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:gonnersdorf-plaquette-282",
+  "sourceRefs": [
+    {
+      "sourceId": "source:robitaille-gonnersdorf-2024",
+      "role": "supports",
+      "locator": "Introduction: site context around 15.8 ka; Methods and results; Fig. 9: Plaquette 282; Discussion: fish-and-grid motifs and interpreted net fishing"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Gönnersdorf · Plakette 282",
+    "en": "Gönnersdorf · Plaquette 282"
+  },
+  "summary": {
+    "de": "Die rund 15.800 Jahre BP beziehen sich auf den Fundplatzkontext. Auf acht Plaketten beschreibt die Studie Fisch-Gitter-Kombinationen. Die Deutung als Netzfang beruht auf den Ritzungen. Ein Fischernetz selbst ist hier nicht erhalten.",
+    "en": "About 15,800 BP is the site age. The study identifies fish-and-grid combinations on eight plaquettes. The interpretation as net fishing comes from the engravings. No fishing net survives in this evidence."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:paisley-cave-blm",
+  "sourceRefs": [
+    {
+      "sourceId": "source:blm-paisley-cave-photo-2002",
+      "role": "derivation",
+      "locator": "File description, date, author, permission and original JPEG: Bureau of Land Management, 30 April 2002, U.S. public domain"
+    }
+  ],
+  "assetType": "image",
+  "file": "paisley-cave-blm.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Paisley · Eingang von Fossil Cave 5",
+    "en": "Paisley · entrance of Fossil Cave 5"
+  },
+  "alt": {
+    "de": "BLM-Archäologe Bill Cannon vor dem Höhleneingang am felsigen Hang über dem Summer-Lake-Becken im Jahr 2002.",
+    "en": "BLM archaeologist Bill Cannon beside the cave entrance on a rocky slope above the Summer Lake basin in 2002."
+  },
+  "entityIds": [
+    "place:paisley-caves"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Bureau of Land Management"
+    ],
+    "attribution": "Bureau of Land Management, 30 April 2002 · U.S. public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paisley_caves_-_Fossil_Cave5.jpg",
+    "originNote": "Official-duty BLM photograph. The Wikimedia Commons JPEG is distributed byte-for-byte unchanged."
+  }
+}

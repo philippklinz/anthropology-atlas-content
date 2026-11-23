@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:page-ladson-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:halligan-page-ladson-2016",
+      "role": "derivation",
+      "locator": "Site setting and Fig. 1A: lower Aucilla River and sinkhole about 11.5 km inland from the modern Gulf. Rounded orientation"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 10000,
+    "note": {
+      "de": "Grob gerundete Orientierung im Gebiet des unteren Aucilla River. Die Grabung hat eigene feinere Koordinaten.",
+      "en": "Coarse lower Aucilla River orientation. The excavation has its own finer coordinate system."
+    }
+  },
+  "processingNote": {
+    "de": "Grob gerundete Orientierung im Gebiet des unteren Aucilla River. Die Grabung hat eigene feinere Koordinaten.",
+    "en": "Coarse lower Aucilla River orientation. The excavation has its own finer coordinate system."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored orientation point based on cited geographical information. The accuracy allowance is editorial."
+  }
+}

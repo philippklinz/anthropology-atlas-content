@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-technologies",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Erfinden mit Stein, Holz und Fasern",
+    "en": "Inventing with Stone, Wood and Fibres"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:fa-hien-phase-d-bone-tools",
+    "artifact:sibudu-backed-pieces",
+    "artifact:xianrendong-early-sherds",
+    "assertion:fa-hien-phase-d-bone-tools-at-site",
+    "assertion:sibudu-backed-pieces-at-site",
+    "assertion:xianrendong-early-sherds-at-site",
+    "asset:fa-hien-bone-tools",
+    "asset:sibudu-backed-pieces",
+    "chapter:materials-and-invention",
+    "concept:composite-tool-evidence",
+    "event:fa-hien-lena-technology-evidence",
+    "event:sibudu-technology-evidence",
+    "event:xianrendong-technology-evidence",
+    "geometry:fa-hien-lena-orientation",
+    "geometry:sibudu-orientation",
+    "geometry:xianrendong-orientation",
+    "place:fa-hien-lena",
+    "place:sibudu",
+    "place:xianrendong",
+    "source:chasan-conifer-adhesives-2024",
+    "source:cohen-early-east-asian-pottery-2013",
+    "source:kuzmin-east-asian-pottery-2015",
+    "source:langley-fa-hien-lena-2020",
+    "source:soriano-sibudu-blombos-2015",
+    "source:tuebingen-sibhudu-stratigraphy",
+    "source:wadley-hafting-experiments-2009",
+    "source:wedage-fa-hien-lena-2019",
+    "source:wu-xianrendong-pottery-2012"
+  ],
+  "entryChapterIds": [
+    "chapter:materials-and-invention"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

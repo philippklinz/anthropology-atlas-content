@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:early-foodways",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Ein Tag zum Überleben",
+    "en": "A Day of Making a Living"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:early-migrations"
+  ],
+  "recordIds": [
+    "artifact:ohalo-grinding-slab",
+    "artifact:ohalo-sickle-blade",
+    "asset:ohalo-sickle-wear",
+    "asset:taforalt-isotope-comparison",
+    "chapter:day-of-making-a-living",
+    "concept:reading-ancient-diets",
+    "event:madjedbebe-plant-food-evidence",
+    "event:ohalo-food-processing",
+    "event:taforalt-dietary-evidence",
+    "geometry:ohalo-ii-orientation",
+    "geometry:taforalt-orientation",
+    "place:ohalo-ii",
+    "place:taforalt",
+    "source:florin-madjedbebe-food-2020",
+    "source:moubtahij-taforalt-diet-2024",
+    "source:snir-ohalo-2015",
+    "source:turner-taforalt-2020",
+    "source:zohar-ohalo-fish-2018",
+    "specimen:madjedbebe-plant-foods",
+    "specimen:ohalo-plant-and-fish-remains",
+    "specimen:taforalt-dietary-sample"
+  ],
+  "entryChapterIds": [
+    "chapter:day-of-making-a-living"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

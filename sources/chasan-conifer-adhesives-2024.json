@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:chasan-conifer-adhesives-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Podocarpaceae and Cupressaceae: A tale of two conifers and ancient adhesives production in South Africa",
+  "sourceType": "article",
+  "creators": [
+    "Rivka Chasan",
+    "Margaret-Ashley Veall",
+    "Liliana Iwona Baron",
+    "Alessandro Aleo",
+    "Paul R. B. Kozowyk",
+    "Geeske H. J. Langejans"
+  ],
+  "published": "2024-11-13",
+  "language": "en",
+  "url": "https://doi.org/10.1371/journal.pone.0306402",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PLOS ONE 19(11), e0306402. The reference study compares overlapping conifer chemical signatures and degradation.",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0306402"
+  }
+}

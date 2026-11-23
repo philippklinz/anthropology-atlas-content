@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:shubayqa-structure-1",
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-shubayqa-2017",
+      "role": "supports",
+      "locator": "p. 2, Shubayqa 1: geographic position, environmental finds and Structure 1; pp. 3–4: Phases 7–4 and intervening gaps in the site sequence"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Shubayqa 1 · Struktur 1",
+    "en": "Shubayqa 1 · Structure 1"
+  },
+  "summary": {
+    "de": "Die frühen Phasen 7–4 liegen modelliert zwischen etwa 14.600 und 14.000 cal BP (2σ). Struktur 1 war teilweise eingetieft und hatte aufrechte Randsteine und einen gepflasterten Boden. Die Spanne umfasst mehrere Nutzungen. Spätere Phasen folgten nach längeren Lücken.",
+    "en": "The modelled bracket for early Phases 7–4 is about 14,600–14,000 cal BP (2σ). Structure 1 was partly sunken with upright boundary stones and a paved floor. The bracket covers multiple phases. Later occupations followed after longer gaps."
+  }
+}

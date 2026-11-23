@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wedage-fa-hien-lena-2019",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Specialized rainforest hunting by Homo sapiens ~45,000 years ago",
+  "sourceType": "article",
+  "creators": [
+    "Oshan Wedage et al."
+  ],
+  "published": "2019",
+  "language": "en",
+  "url": "https://doi.org/10.1038/s41467-019-08623-1",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Nature Communications 10, 739. The open-access article PDF documents the phase sequence, bone assemblage and site coordinates.",
+  "identifiers": {
+    "doi": "10.1038/s41467-019-08623-1"
+  }
+}

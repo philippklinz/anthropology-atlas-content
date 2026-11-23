@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:reading-ancient-diets",
+  "sourceRefs": [
+    {
+      "sourceId": "source:florin-madjedbebe-food-2020",
+      "role": "supports",
+      "locator": "pp. 2–3, Phase 2 plant macrofossils; pp. 5–6, Discussion and Methods, processing and preservation"
+    },
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site; Results and Discussion, The site of Ohalo II and its finds and The proto-weeds"
+    },
+    {
+      "sourceId": "source:zohar-ohalo-fish-2018",
+      "role": "supports",
+      "locator": "Abstract; Results; Discussion, fish assemblage and its formation"
+    },
+    {
+      "sourceId": "source:moubtahij-taforalt-diet-2024",
+      "role": "supports",
+      "locator": "pp. 1036–1040, dated burials, sampled tissues, Results and discussion; Fig. 3 and caption"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Ernährung aus Spuren erschließen",
+    "en": "Inferring diet from traces"
+  },
+  "summary": {
+    "de": "Kleine Reste, Werkzeugspuren und chemische Messungen beantworten verschiedene Fragen zur Ernährung.",
+    "en": "Tiny remains, tool wear and chemical measurements answer different questions about diet."
+  }
+}

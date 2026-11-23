@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:sibudu-backed-pieces",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soriano-sibudu-blombos-2015",
+      "role": "derivation",
+      "locator": "Fig. 18 and caption; article copyright and CC BY 4.0 notice"
+    }
+  ],
+  "assetType": "image",
+  "file": "sibudu-backed-pieces.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Quarzstücke mit bearbeitetem Rücken",
+    "en": "Quartz pieces with backed edges"
+  },
+  "alt": {
+    "de": "Elf Quarzstücke aus den Schichten GS und GSII. Weiße Punkte markieren die bearbeiteten Rücken. Schwarz-weiße Maßstäbe stehen neben den Stücken.",
+    "en": "Eleven quartz pieces from layers GS and GSII. White dots mark the retouched backs. Black and white scales appear beside the pieces."
+  },
+  "entityIds": [
+    "artifact:sibudu-backed-pieces"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Sylvain Soriano et al."
+    ],
+    "attribution": "Soriano et al. (2015), Fig. 18, PLOS ONE · CC BY 4.0 · resized and converted to WebP",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0131127.g018",
+    "originNote": "Complete figure resized to 1408 × 1550 px and encoded as WebP. License: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

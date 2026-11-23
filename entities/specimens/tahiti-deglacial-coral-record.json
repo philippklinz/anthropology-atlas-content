@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:tahiti-deglacial-coral-record",
+  "sourceRefs": [
+    {
+      "sourceId": "source:deschamps-tahiti-2012",
+      "role": "supports",
+      "locator": "pp. 559–561, The Tahiti record, Occurrence of MWP-1A and Amplitude and duration; Fig. 2: age constraints and 12–22 m of local sea-level rise"
+    },
+    {
+      "sourceId": "source:iodp-expedition-310-m0009b",
+      "role": "supports",
+      "locator": "Expedition 310, Site M0009, Hole B: coordinates −17.48858 latitude, −149.4034 longitude"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Tahiti · fossile Riffkorallen",
+    "en": "Tahiti · fossil reef corals"
+  },
+  "summary": {
+    "de": "Datierte fossile Korallen aus Bohrkernen. Zusammen mit der Wassertiefe, in der bestimmte Korallen leben, grenzen sie frühere örtliche Meeresspiegel ein.",
+    "en": "Dated fossil corals from offshore cores. Combined with the depths at which certain corals live, they constrain former local sea levels."
+  }
+}

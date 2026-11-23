@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:paisley-plant-fibre-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "supports",
+      "locator": "Results, pp. 3–4: S-twist bulrush basket or mat weft and direct AMS result 12,273 ± 56 radiocarbon BP"
+    },
+    {
+      "sourceId": "source:kallenbach-paisley-textiles-2024",
+      "role": "supports",
+      "locator": "Printed p. 75: OxCal 4.4 and IntCal20. Table 1, p. 79, D-AMS 035352 / 1294-PC5-7C-25-1: 14,660–14,080 cal BP, column labelled 1σ"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Paisley · Pflanzenfasern werden verflochten",
+    "en": "Paisley · twining plant fibres"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14660,
+      "younger": 14080,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:paisley-twined-weft",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:paisley-caves"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:paisley-caves-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Direkt datiertes Geflechtfragment 1294-PC5-7C-25-1 / D-AMS 035352. Kallenbach 2024, Tabelle 1, führt den Bereich 14.660–14.080 cal BP in der 1σ-Spalte auf. Der ursprüngliche Messwert lautet 12.273 ± 56 Radiokarbonjahre BP.",
+    "en": "Direct date on twined fragment 1294-PC5-7C-25-1 / D-AMS 035352. Kallenbach 2024, Table 1, reports 14,660–14,080 cal BP in the 1σ column. The original determination is 12,273 ± 56 radiocarbon years BP."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Drehungen und Eindrücke an der Teichbinse begründen die Deutung als Geflecht. Die Form des vollständigen Gegenstands bleibt offen.",
+      "en": "Twist and impressions on the bulrush support a twined interpretation. The shape of the complete object remains open."
+    }
+  }
+}

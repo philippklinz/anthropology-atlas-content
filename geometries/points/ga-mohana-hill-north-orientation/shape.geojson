@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ga-mohana-hill-north-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.343,
+      -27.387
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:politis-arroyo-seco-2016",
+  "sourceRefs": [],
+  "title": "The Arrival of Homo sapiens into the Southern Cone at 14,000 Years Ago",
+  "sourceType": "article",
+  "creators": [
+    "Gustavo G. Politis",
+    "María A. Gutiérrez",
+    "Daniel J. Rafuse",
+    "Adriana Blasi"
+  ],
+  "published": "2016",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162870",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Introduction and Table 1 give the early find context and age. Fig. 8 and Taphonomy present competing explanations for the horse radius damage. The site also preserves much younger activity.",
+  "containerTitle": "PLOS ONE 11(9), e0162870",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0162870"
+  }
+}

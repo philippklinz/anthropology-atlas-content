@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:zohar-ohalo-fish-2018",
+  "sourceRefs": [],
+  "title": "Opportunism or aquatic specialization? Evidence of freshwater fish exploitation at Ohalo II- A waterlogged Upper Paleolithic site",
+  "sourceType": "article",
+  "creators": [
+    "Irit Zohar",
+    "Tamar Dayan",
+    "Menachem Goren",
+    "Dani Nadel",
+    "Israel Hershkovitz"
+  ],
+  "published": "2018",
+  "containerTitle": "PLOS ONE 13(6), e0198747",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0198747"
+  },
+  "url": "https://doi.org/10.1371/journal.pone.0198747",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Primary article consulted for location, repeated occupations and fish assemblage. Bibliographic link."
+}

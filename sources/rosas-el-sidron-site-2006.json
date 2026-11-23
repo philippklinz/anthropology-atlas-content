@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rosas-el-sidron-site-2006",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Paleobiology and comparative morphology of a late Neandertal sample from El Sidron, Asturias, Spain",
+  "sourceType": "article",
+  "creators": [
+    "Antonio Rosas",
+    "Cayetana Martínez-Maza",
+    "Markus Bastir",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1073/pnas.0609662104",
+  "published": "2006",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1073/pnas.0609662104"
+  },
+  "bibliographicNote": "PNAS 103(51), pp. 19266–19271. The opening paragraph gives the site coordinates used for the editorial map point. Chronology comes from separately cited research."
+}

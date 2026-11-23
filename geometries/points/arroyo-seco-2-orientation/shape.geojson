@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:arroyo-seco-2-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -60.2442,
+      -38.3606
+    ]
+  }
+}

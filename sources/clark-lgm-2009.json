@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:clark-lgm-2009",
+  "sourceRefs": [],
+  "title": "The Last Glacial Maximum",
+  "sourceType": "article",
+  "creators": [
+    "Peter U. Clark",
+    "Arthur S. Dyke",
+    "Jeremy D. Shakun",
+    "Anders E. Carlson",
+    "Jorie Clark",
+    "Barbara Wohlfarth",
+    "Jerry X. Mitrovica",
+    "Steven W. Hostetler",
+    "A. Marshall McCabe"
+  ],
+  "url": "https://pubs.usgs.gov/publication/70036965",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Science study cited for its age synthesis and regional ice histories on pp. 710–711. The authors’ USGS abstract confirms the approximate window.",
+  "identifiers": {
+    "doi": "10.1126/science.1172873"
+  },
+  "published": "2009",
+  "containerTitle": "Science 325, 710–714"
+}

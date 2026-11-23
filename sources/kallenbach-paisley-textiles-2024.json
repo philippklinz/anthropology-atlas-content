@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:kallenbach-paisley-textiles-2024",
+  "sourceRefs": [],
+  "title": "The Paisley Caves: A Paleoethnobotanical Approach to Textiles Studies in the Northern Great Basin, Oregon",
+  "sourceType": "archive",
+  "creators": [
+    "Elizabeth Ann Kallenbach"
+  ],
+  "published": "2024",
+  "url": "https://scholarsbank.uoregon.edu/server/api/core/bitstreams/7ed4f7f9-6fbf-4310-a4fa-e459685b9002/content",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Doctoral dissertation. Printed p. 75 and Table 1, p. 79, document the curve and the calibrated range for D-AMS 035352. The original radiocarbon result is from Shillito et al. (2020).",
+  "publisher": "University of Oregon"
+}

@@ -1,0 +1,329 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:materials-and-invention",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soriano-sibudu-blombos-2015",
+      "role": "supports",
+      "locator": "Replacing the Still Bay: the Howiesons Poort at Sibudu; Fig. 18; Residue analysis of backed pieces, PGS B5a and GR C6c; Figs. M–N in S4 File"
+    },
+    {
+      "sourceId": "source:tuebingen-sibhudu-stratigraphy",
+      "role": "supports",
+      "locator": "Stratigraphy: current excavation-team overview of Howiesons Poort at Sibhudu"
+    },
+    {
+      "sourceId": "source:wadley-hafting-experiments-2009",
+      "role": "supports",
+      "locator": "Replication Results; Table 1: trial adhesives and their performance"
+    },
+    {
+      "sourceId": "source:chasan-conifer-adhesives-2024",
+      "role": "supports",
+      "locator": "Sections 4–5: reference material and limits of identifying conifers from degraded residues"
+    },
+    {
+      "sourceId": "source:wedage-fa-hien-lena-2019",
+      "role": "supports",
+      "locator": "pp. 3–5, Stratigraphy and chronology; Zooarchaeology and taphonomy; Fig. 4: Phase D, manufacture and use traces"
+    },
+    {
+      "sourceId": "source:langley-fa-hien-lena-2020",
+      "role": "supports",
+      "locator": "pp. 1–3, Results and Osseous hunting technologies: Phase D, tool shapes and impact wear; Fig. 2"
+    },
+    {
+      "sourceId": "source:wu-xianrendong-pottery-2012",
+      "role": "supports",
+      "locator": "pp. 1696–1699, context dating and Tables 1–2; pp. 1699–1700, possible cooking use"
+    },
+    {
+      "sourceId": "source:cohen-early-east-asian-pottery-2013",
+      "role": "supports",
+      "locator": "pp. 62–65: argument for associating dated samples with sherd-bearing layers"
+    },
+    {
+      "sourceId": "source:kuzmin-east-asian-pottery-2015",
+      "role": "challenges",
+      "locator": "pp. 2–4, China: disputed relation between 2009 dates and previously excavated sherds"
+    }
+  ],
+  "labels": {
+    "de": "Erfinden mit Stein, Holz und Fasern",
+    "en": "Inventing with Stone, Wood and Fibres"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:sibudu-technology-evidence",
+    "artifact:sibudu-backed-pieces",
+    "asset:sibudu-backed-pieces",
+    "event:fa-hien-lena-technology-evidence",
+    "artifact:fa-hien-phase-d-bone-tools",
+    "asset:fa-hien-bone-tools",
+    "event:xianrendong-technology-evidence",
+    "artifact:xianrendong-early-sherds",
+    "concept:composite-tool-evidence"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 72,
+      "latitude": 4,
+      "metersPerPixel": 17000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 70000,
+        "younger": 70000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 15000,
+        "younger": 15000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "sibudu",
+      "textAnchor": "sibudu",
+      "labels": {
+        "de": "Sibudu · Stein und Klebstoff",
+        "en": "Sibudu · stone and adhesive"
+      },
+      "summary": {
+        "de": "Die weißen Punkte markieren den bearbeiteten Rücken. An anderen Stücken bleiben Spuren von Harz erhalten.",
+        "en": "White dots mark the retouched back. Other pieces preserve traces of resin."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.086,
+          "latitude": -29.523,
+          "metersPerPixel": 1900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 70000,
+            "younger": 70000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 60000,
+            "younger": 60000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:sibudu-backed-pieces"
+    },
+    {
+      "id": "fa-hien-lena",
+      "textAnchor": "fa-hien-lena",
+      "labels": {
+        "de": "Fa-Hien Lena · Spitzen aus Knochen",
+        "en": "Fa-Hien Lena · bone points"
+      },
+      "summary": {
+        "de": "Betrachte die Spitzen in c und d. Schleifspuren stammen von der Bearbeitung, andere Schäden vom Gebrauch.",
+        "en": "Look at the points in c and d. Grinding marks record shaping, and other damage records use."
+      },
+      "state": {
+        "camera": {
+          "longitude": 80.215,
+          "latitude": 6.649,
+          "metersPerPixel": 1050,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 48000,
+            "younger": 48000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 34000,
+            "younger": 34000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:fa-hien-bone-tools"
+    },
+    {
+      "id": "xianrendong",
+      "textAnchor": "xianrendong",
+      "labels": {
+        "de": "Xianrendong · Gefäße aus Ton",
+        "en": "Xianrendong · clay vessels"
+      },
+      "summary": {
+        "de": "Der frühe Zeitrahmen ist umstritten. Vergleiche die Datierung der Fundschichten mit der Deutung der Scherben.",
+        "en": "The early age is debated. Compare the dates of the layers with the interpretation of the sherds."
+      },
+      "state": {
+        "camera": {
+          "longitude": 117.173,
+          "latitude": 28.736,
+          "metersPerPixel": 1700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 21000,
+            "younger": 21000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 15000,
+            "younger": 15000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Stein mit Klebstoff verbinden, Knochen zu Werkzeugen formen und Gefäße brennen: Drei Fundorte zeigen, was aus Materialspuren lesbar wird.",
+      "en": "Join stone with adhesive, shape bone into tools and fire vessels: three sites show what material traces can tell us."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "africa",
+        "labels": {
+          "de": "Afrika",
+          "en": "Africa"
+        }
+      },
+      {
+        "id": "south-asia",
+        "labels": {
+          "de": "Südasien",
+          "en": "South Asia"
+        }
+      },
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:fa-hien-phase-d-bone-tools",
+    "artifact:sibudu-backed-pieces",
+    "artifact:xianrendong-early-sherds",
+    "assertion:fa-hien-phase-d-bone-tools-at-site",
+    "assertion:sibudu-backed-pieces-at-site",
+    "assertion:xianrendong-early-sherds-at-site",
+    "asset:fa-hien-bone-tools",
+    "asset:sibudu-backed-pieces",
+    "concept:composite-tool-evidence",
+    "event:fa-hien-lena-technology-evidence",
+    "event:sibudu-technology-evidence",
+    "event:xianrendong-technology-evidence",
+    "geometry:fa-hien-lena-orientation",
+    "geometry:sibudu-orientation",
+    "geometry:xianrendong-orientation",
+    "place:fa-hien-lena",
+    "place:sibudu",
+    "place:xianrendong",
+    "source:chasan-conifer-adhesives-2024",
+    "source:cohen-early-east-asian-pottery-2013",
+    "source:kuzmin-east-asian-pottery-2015",
+    "source:langley-fa-hien-lena-2020",
+    "source:soriano-sibudu-blombos-2015",
+    "source:tuebingen-sibhudu-stratigraphy",
+    "source:wadley-hafting-experiments-2009",
+    "source:wedage-fa-hien-lena-2019",
+    "source:wu-xianrendong-pottery-2012"
+  ]
+}

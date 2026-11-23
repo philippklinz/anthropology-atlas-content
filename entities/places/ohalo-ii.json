@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:ohalo-ii",
+  "sourceRefs": [
+    {
+      "sourceId": "source:zohar-ohalo-fish-2018",
+      "role": "supports",
+      "locator": "Background, The Ohalo II site, GPS coordinates and 22,500–23,500 cal BP"
+    },
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site; Results and Discussion, The site of Ohalo II and its finds and The proto-weeds"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Ohalo II · See Genezareth",
+    "en": "Ohalo II · Sea of Galilee"
+  },
+  "summary": {
+    "de": "Zeitweise genutzter Platz an einem früheren Seeufer. Erhaltene Pflanzen, Fischreste und Hüttenbefunde erschließen unterschiedliche Tätigkeiten.",
+    "en": "Repeatedly used site beside an earlier lakeshore. Preserved plants, fish remains and hut features reveal different activities."
+  }
+}

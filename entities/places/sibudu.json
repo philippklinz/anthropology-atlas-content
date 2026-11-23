@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:sibudu",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soriano-sibudu-blombos-2015",
+      "role": "supports",
+      "locator": "Sibudu, opening paragraph: 29°31′21.5″S, 31°05′09.2″E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Sibudu · Südafrika",
+    "en": "Sibudu · South Africa"
+  },
+  "summary": {
+    "de": "Felsdach über dem uThongathi in KwaZulu-Natal. Mehrere Schichten bewahren bearbeitete Steine und organische Rückstände.",
+    "en": "Rock shelter above the uThongathi River in KwaZulu-Natal. Several layers preserve worked stone and organic residues."
+  }
+}

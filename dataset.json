@@ -5,11 +5,18 @@
   "packageIds": [
     "package:columbus-first-voyage",
     "package:darwin-beagle",
+    "package:deglaciation",
+    "package:early-american-lifeways",
+    "package:early-connections",
     "package:early-dispersals",
     "package:early-expression",
+    "package:early-foodways",
     "package:early-migrations",
+    "package:early-social-life",
+    "package:early-technologies",
     "package:first-circumnavigation",
     "package:human-encounters",
-    "package:human-origins"
+    "package:human-origins",
+    "package:ice-age-life"
   ]
 }

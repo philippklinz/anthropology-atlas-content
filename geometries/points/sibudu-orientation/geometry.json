@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:sibudu-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soriano-sibudu-blombos-2015",
+      "role": "derivation",
+      "locator": "Sibudu, opening paragraph: 29°31′21.5″S, 31°05′09.2″E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 200,
+    "note": {
+      "de": "Redaktionelle Lagehilfe, kein statistisches Fehlerintervall.",
+      "en": "Editorial orientation tolerance, not a statistical error interval."
+    }
+  },
+  "processingNote": {
+    "de": "Die publizierte Ortsangabe wurde in Dezimalgrad umgerechnet und gerundet.",
+    "en": "The published site coordinate was converted to decimal degrees and rounded."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Manually authored point from the cited factual coordinate."
+  }
+}

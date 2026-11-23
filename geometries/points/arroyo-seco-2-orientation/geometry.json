@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:arroyo-seco-2-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "derivation",
+      "locator": "Introduction, p. 2: published site coordinate 38°21′38″ S, 60°14′39″ W"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 200,
+    "note": {
+      "de": "In Dezimalgrad umgerechnete und gerundete Lage des Fundplatzes. Die 200 Meter sind eine Orientierungstoleranz.",
+      "en": "Site location converted to decimal degrees and rounded. The 200 metres are an editorial orientation allowance."
+    }
+  },
+  "processingNote": {
+    "de": "In Dezimalgrad umgerechnete und gerundete Lage des Fundplatzes. Die 200 Meter sind eine Orientierungstoleranz.",
+    "en": "Site location converted to decimal degrees and rounded. The 200 metres are an editorial orientation allowance."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manually authored orientation point based on cited geographical information. The accuracy allowance is editorial."
+  }
+}

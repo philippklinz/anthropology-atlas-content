@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:deglaciation-and-sea-level",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clark-lgm-2009",
+      "role": "supports",
+      "locator": "pp. 710–711, Abstract and Global ice-sheet history: nearly all ice sheets at their maximum positions from 26.5 to 19–20 ka"
+    },
+    {
+      "sourceId": "source:deschamps-tahiti-2012",
+      "role": "supports",
+      "locator": "pp. 559–561, The Tahiti record, Occurrence of MWP-1A and Amplitude and duration; Fig. 2: age constraints and 12–22 m of local sea-level rise"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Eisschmelze und Meeresspiegel",
+    "en": "Deglaciation and sea level"
+  },
+  "summary": {
+    "de": "Schmelzende Eisschilde tragen zum Anstieg des Meeresspiegels bei. Fossile Korallen, ihre Wassertiefen und ihre Altersmessungen helfen, den Verlauf an einzelnen Küsten einzugrenzen.",
+    "en": "Melting ice sheets contribute to sea-level rise. Fossil corals, their living depths and their ages help constrain sea level at particular coasts."
+  }
+}

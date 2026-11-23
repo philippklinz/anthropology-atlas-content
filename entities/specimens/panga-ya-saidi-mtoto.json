@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:panga-ya-saidi-mtoto",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:martinon-torres-panga-burial-2021",
+      "role": "supports",
+      "locator": "Published pp. 95–98; Accepted manuscript, Context and chronology; Primary and intentional deposit, lines 163–225"
+    },
+    {
+      "sourceId": "source:martinon-torres-panga-burial-2021",
+      "role": "supports",
+      "locator": "Published p. 96; modelled age of the pit fill: 78.3 ± 4.1 ka after inclusion of OSL4"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Mtoto · Kind aus Panga ya Saidi",
+    "en": "Mtoto · child from Panga ya Saidi"
+  },
+  "summary": {
+    "de": "Teil eines Skeletts eines etwa 2,5–3 Jahre alten Homo-sapiens-Kindes. Mtoto bedeutet auf Swahili „Kind“ und ist der Name, den das Forschungsteam dem Fund gab.",
+    "en": "Part of the skeleton of a Homo sapiens child aged roughly 2.5–3 years. Mtoto is Swahili for “child”, the research team's name for the find."
+  }
+}

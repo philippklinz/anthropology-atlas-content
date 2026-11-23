@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:enkapune-ya-muto-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.15,
+      -0.8333
+    ]
+  }
+}

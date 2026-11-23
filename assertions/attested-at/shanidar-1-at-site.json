@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:shanidar-1-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:trinkaus-villotte-shanidar-2017",
+      "role": "supports",
+      "locator": "Materials and methods, last paragraph: contextual age of approximately 50 ka BP and adult age at death"
+    },
+    {
+      "sourceId": "source:trinkaus-villotte-shanidar-2017",
+      "role": "supports",
+      "locator": "Shanidar 1 external auditory exostoses, Fig. 1; Discussion, Pleistocene human social support"
+    }
+  ],
+  "subjectId": "specimen:shanidar-1",
+  "predicate": "attested-at",
+  "objectId": "place:shanidar-cave",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 50000,
+      "younger": 50000,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Fundzuordnung zum angegebenen Ort. Die Zeitangabe beschreibt den datierten Fundzusammenhang.",
+    "en": "Find attributed to the indicated site. The date describes the archaeological context."
+  }
+}

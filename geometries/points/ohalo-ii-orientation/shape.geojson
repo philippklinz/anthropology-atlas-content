@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ohalo-ii-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.57,
+      32.72
+    ]
+  }
+}

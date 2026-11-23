@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:arroyo-seco-horse-radius-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "supports",
+      "locator": "Introduction, p. 2; Table 1, UCIAMS-142842; Fig. 8 and Taphonomy, pp. 15–17: age and opposing notches on the Equus neogeus radius"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Arroyo Seco 2 · Bruchspuren an einer Pferdespeiche",
+    "en": "Arroyo Seco 2 · marks on a fractured horse radius"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14147,
+      "younger": 13814,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:arroyo-seco-horse-radius",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:arroyo-seco-2"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:arroyo-seco-2-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Der Datierungsbereich folgt der Einzeldatierung in der Einleitung von Politis et al. 2016. Laborwert UCIAMS-142842: 12.170 ± 45 Radiokarbonjahre BP. Er datiert das Tier. Zeitpunkt und Ablauf einer möglichen Bearbeitung bleiben ungeklärt.",
+    "en": "This range follows the individual age in Politis et al. 2016, Introduction. UCIAMS-142842: 12,170 ± 45 radiocarbon years BP. This dates the animal. The precise timing and process of possible human modification remain open."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Frischer Bruch, gegenüberliegende Kerben und der Fundzusammenhang stützen eine menschliche Bearbeitung. Die Studie prüft auch andere Ursachen und grenzt die Aussage zum Fundkontext ein.",
+      "en": "Fresh fracture, opposing notches and archaeological context support human breakage. The study evaluates other causes and qualifies the site context."
+    }
+  }
+}

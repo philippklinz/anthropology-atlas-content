@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:gonnersdorf-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:siemssen-maier-neuwied-data-2024",
+      "role": "supports",
+      "locator": "Supplement A, section 5 Sites, rows 10–13: Gönnersdorf K I–IV, Late Upper Palaeolithic"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Gerundete Lage zur Orientierung. Die Toleranz wurde redaktionell gewählt.",
+      "en": "Rounded location for orientation. The tolerance is an editorial choice."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundete Fundplatzlage aus Supplement A, Abschnitt 5, Zeilen 10–13.",
+    "en": "Rounded site position from Supplement A, section 5, rows 10–13."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic point",
+    "originNote": "Point authored from published coordinates for geographic orientation."
+  }
+}

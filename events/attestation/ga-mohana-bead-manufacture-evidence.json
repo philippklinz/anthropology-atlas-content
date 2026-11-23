@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ga-mohana-bead-manufacture-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "supports",
+      "locator": "Ga-Mohana Hill North Rockshelter, DBGS sediment chronology; Results, Technological analysis; Fig. 2 and Table 2"
+    },
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "supports",
+      "locator": "Discussion, OES beads and fragments in southern Africa; Table 3, regional MIS 2 record"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ga-Mohana · Herstellung von Perlen",
+    "en": "Ga-Mohana · bead manufacture"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 15600,
+      "younger": 14000,
+      "precision": "year",
+      "qualifier": "uncertain",
+      "central": 14800
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:ga-mohana-bead-assemblage",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:ga-mohana-hill-north"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ga-mohana-hill-north-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Zusammenstellung unterschiedlicher Bearbeitungsstadien stützt die Herstellung an diesem Fundort. Der weitere Verbleib der fertigen Perlen ist offen.",
+      "en": "The presence of multiple stages supports manufacture at the site. What happened to completed beads remains open."
+    }
+  },
+  "note": {
+    "de": "Quarzkörner aus dem DBGS-Sediment ergeben mit optisch stimulierter Lumineszenz 14.800 ± 800 Jahre. Die Zeitachse stellt dieses Schichtalter näherungsweise als BP vor 1950 dar. Der Bereich gibt die Datierungsunsicherheit des Fundkontexts an.",
+    "en": "Optically stimulated luminescence on quartz grains from DBGS sediment gives 14,800 ± 800 years. The timeline places this layer age approximately on its 1950 BP axis. The range represents dating uncertainty for the find context."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-social-life",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Zusammenleben: Kinder, Fürsorge und Abschied",
+    "en": "Growing Up, Caring and Saying Goodbye"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "assertion:el-sidron-j1-at-site",
+    "assertion:panga-ya-saidi-mtoto-at-site",
+    "assertion:shanidar-1-at-site",
+    "asset:panga-ya-saidi-site",
+    "asset:shanidar-cave-overview",
+    "chapter:growing-up-and-caring",
+    "concept:growth-care-and-burial-evidence",
+    "event:el-sidron-j1-growth-evidence",
+    "event:panga-ya-saidi-mtoto-burial",
+    "event:shanidar-1-survival-evidence",
+    "geometry:el-sidron-cave-orientation",
+    "geometry:panga-ya-saidi-orientation",
+    "geometry:shanidar-cave-orientation",
+    "place:el-sidron-cave",
+    "place:panga-ya-saidi",
+    "place:shanidar-cave",
+    "source:commons-panga-ya-saidi-site",
+    "source:commons-shanidar-cave-overview",
+    "source:davies-el-sidron-chronology-2015",
+    "source:martinon-torres-panga-burial-2021",
+    "source:miller-panga-ya-saidi-location-2026",
+    "source:rosas-el-sidron-growth-2017",
+    "source:rosas-el-sidron-site-2006",
+    "source:tilby-shanidar-location-2022",
+    "source:trinkaus-villotte-shanidar-2017",
+    "specimen:el-sidron-j1",
+    "specimen:panga-ya-saidi-mtoto",
+    "specimen:shanidar-1"
+  ],
+  "entryChapterIds": [
+    "chapter:growing-up-and-caring"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

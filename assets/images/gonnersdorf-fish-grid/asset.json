@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:gonnersdorf-fish-grid",
+  "sourceRefs": [
+    {
+      "sourceId": "source:robitaille-gonnersdorf-2024",
+      "role": "supports",
+      "locator": "Introduction: site context around 15.8 ka; Methods and results; Fig. 9: Plaquette 282; Discussion: fish-and-grid motifs and interpreted net fishing"
+    }
+  ],
+  "assetType": "image",
+  "file": "gonnersdorf-plaquette-282.png",
+  "mediaType": "image/png",
+  "labels": {
+    "de": "Gönnersdorf · Ritzungen auf Plakette 282",
+    "en": "Gönnersdorf · engravings on Plaquette 282"
+  },
+  "alt": {
+    "de": "Links die Umzeichnung: Ein blauer Fischumriss liegt zwischen schwarzen Gitterlinien. Rechts die bearbeitete Schieferoberfläche mit einem Zentimeter als Maßstab.",
+    "en": "Tracing on the left: a blue fish outline lies within black grid lines. On the right, the worked slate surface with a one-centimetre scale bar."
+  },
+  "entityIds": [
+    "artifact:gonnersdorf-plaquette-282"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Jérôme Robitaille",
+      "Lisa-Elen Meyering",
+      "Sabine Gaudzinski-Windheuser",
+      "Paul Pettitt",
+      "Olaf Jöris",
+      "Robert Kentridge"
+    ],
+    "attribution": "Robitaille et al. (2024), PLOS ONE, Fig. 9 · CC BY 4.0",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0311302.g009",
+    "originNote": "Publisher’s unchanged 600 × 203 PNG (size=medium). CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Blue lines identify a fish in the research team’s reading."
+  }
+}

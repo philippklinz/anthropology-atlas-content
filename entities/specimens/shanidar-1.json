@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:shanidar-1",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:trinkaus-villotte-shanidar-2017",
+      "role": "supports",
+      "locator": "Materials and methods, last paragraph: contextual age of approximately 50 ka BP and adult age at death"
+    },
+    {
+      "sourceId": "source:trinkaus-villotte-shanidar-2017",
+      "role": "supports",
+      "locator": "Shanidar 1 external auditory exostoses, Fig. 1; Discussion, Pleistocene human social support"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Shanidar 1 · erwachsener Neandertaler",
+    "en": "Shanidar 1 · adult Neanderthal"
+  },
+  "summary": {
+    "de": "Das Skelett eines Erwachsenen weist mehrere länger bestehende körperliche Einschränkungen auf. Knochenwucherungen verengten beide Gehörgänge und sprechen für eingeschränktes Hören.",
+    "en": "The skeleton of an adult shows several long-standing physical impairments. Bone growth narrowed both ear canals and suggests reduced hearing."
+  }
+}

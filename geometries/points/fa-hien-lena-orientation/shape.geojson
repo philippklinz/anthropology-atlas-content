@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:fa-hien-lena-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      80.215,
+      6.649
+    ]
+  }
+}

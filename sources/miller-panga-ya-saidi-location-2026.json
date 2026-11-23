@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:miller-panga-ya-saidi-location-2026",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Cave morphology and human-mediated sediment deposition: Late Pleistocene to Holocene evolution of the cave floor at Panga ya Saidi, coastal Kenya",
+  "sourceType": "article",
+  "creators": [
+    "Jennifer M. Miller",
+    "Ceri Shipton",
+    "Nikos Kourampas",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0347491",
+  "published": "2026",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0347491"
+  },
+  "bibliographicNote": "PLOS ONE 21(5), e0347491. Materials and methods, Previous fieldwork, provides the published cave coordinates used for the orientation point."
+}

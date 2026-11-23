@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-connections",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Verbunden über weite Entfernungen",
+    "en": "Connected Across Long Distances"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:border-cave-eggshell-beads",
+    "artifact:enkapune-eggshell-beads",
+    "artifact:ga-mohana-bead-assemblage",
+    "artifact:sehonghong-bead-i13-170",
+    "asset:eggshell-beads-africa-comparison",
+    "asset:ga-mohana-beads-and-preforms",
+    "chapter:connections-across-distances",
+    "concept:bead-style-and-contact",
+    "concept:strontium-and-material-origins",
+    "event:border-cave-beads-early-evidence",
+    "event:enkapune-beads-early-evidence",
+    "event:ga-mohana-bead-manufacture-evidence",
+    "event:sehonghong-bead-provenance-evidence",
+    "geometry:border-cave-orientation",
+    "geometry:enkapune-ya-muto-orientation",
+    "geometry:ga-mohana-hill-north-orientation",
+    "geometry:sehonghong-orientation",
+    "place:border-cave",
+    "place:enkapune-ya-muto",
+    "place:ga-mohana-hill-north",
+    "place:sehonghong",
+    "source:ambrose-enkapune-1998",
+    "source:butzer-border-cave-1978",
+    "source:hatton-ga-mohana-beads-2022",
+    "source:miller-wang-eggshell-networks-2022",
+    "source:stewart-eggshell-strontium-2020",
+    "source:veall-mitchell-sehonghong-2023",
+    "source:wilkins-kalahari-2021"
+  ],
+  "entryChapterIds": [
+    "chapter:connections-across-distances"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

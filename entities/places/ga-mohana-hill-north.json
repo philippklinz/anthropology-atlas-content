@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:ga-mohana-hill-north",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wilkins-kalahari-2021",
+      "role": "supports",
+      "locator": "Table 1, Ga-Mohana Hill North Rockshelter: latitude −27.387, longitude 23.343"
+    },
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "supports",
+      "locator": "Ga-Mohana Hill North Rockshelter, DBGS sediment chronology; Results, Technological analysis; Fig. 2 and Table 2"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Ga-Mohana Hill North · Südafrika",
+    "en": "Ga-Mohana Hill North · South Africa"
+  },
+  "summary": {
+    "de": "Felsunterstand in der südlichen Kalahari, nordwestlich von Kuruman. Im Sediment fanden sich Perlen, Vorformen und weitere Fragmente von Eierschalen.",
+    "en": "Rockshelter in the southern Kalahari northwest of Kuruman. Its sediments preserved beads, preforms and other eggshell fragments."
+  }
+}

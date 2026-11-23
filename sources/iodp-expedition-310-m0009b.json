@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:iodp-expedition-310-m0009b",
+  "sourceRefs": [],
+  "title": "IODP Expedition 310 · Site M0009 · Hole B",
+  "sourceType": "catalog",
+  "creators": [
+    "Integrated Ocean Drilling Program"
+  ],
+  "url": "https://sedis.iodp.org/exp-catalogue/?urn=urn%3Aorg.iodp%3Aexp%3A310%3Asite%3AM0009%3Ahole%3AB",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Official expedition catalogue entry for a representative modern core from Tiarei, offshore Tahiti. The analysis uses a series of cores across the reef sites.",
+  "containerTitle": "Scientific Earth Drilling Information Service"
+}

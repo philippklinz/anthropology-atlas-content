@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:langley-fa-hien-lena-2020",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bows and arrows and complex symbolic displays 48,000 years ago in the South Asian tropics",
+  "sourceType": "article",
+  "creators": [
+    "Michelle C. Langley",
+    "Noel Amano",
+    "Oshan Wedage",
+    "Siran Deraniyagala",
+    "M. M. Pathmalal",
+    "Nimal Perera",
+    "Nicole Boivin",
+    "Michael D. Petraglia",
+    "Patrick Roberts"
+  ],
+  "published": "2020",
+  "language": "en",
+  "url": "https://doi.org/10.1126/sciadv.aba3831",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Science Advances 6, eaba3831. Griffith Research Online full text. Its CC BY-NC figures are not distributed with the atlas.",
+  "identifiers": {
+    "doi": "10.1126/sciadv.aba3831"
+  }
+}

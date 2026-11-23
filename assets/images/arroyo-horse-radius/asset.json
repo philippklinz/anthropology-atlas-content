@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:arroyo-horse-radius",
+  "sourceRefs": [
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "derivation",
+      "locator": "Fig. 8 and its caption, DOI 10.1371/journal.pone.0162870.g008; article copyright line and CC BY 4.0 license"
+    }
+  ],
+  "assetType": "image",
+  "file": "arroyo-horse-radius.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Arroyo Seco 2 · Spuren am Knochen",
+    "en": "Arroyo Seco 2 · traces on the bone"
+  },
+  "alt": {
+    "de": "Drei Ansichten der Pferdespeiche links. Die vier Ausschnitte rechts vergrößern die Kerben und Absplitterungen an beiden Seiten.",
+    "en": "Three views of the horse radius on the left. Four enlargements on the right show notches and flake scars on opposite sides."
+  },
+  "entityIds": [
+    "specimen:arroyo-seco-horse-radius"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Gustavo G. Politis",
+      "María A. Gutiérrez",
+      "Daniel J. Rafuse",
+      "Adriana Blasi"
+    ],
+    "attribution": "Politis, Gutiérrez, Rafuse & Blasi (2016), Fig. 8, PLOS ONE · CC BY 4.0 · resized and converted to WebP",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0162870.g008",
+    "originNote": "Publisher figure resized from 2011 × 1108 to 1800 × 992 and converted to WebP for the atlas. The full composition, labels and scale bars are preserved. License: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

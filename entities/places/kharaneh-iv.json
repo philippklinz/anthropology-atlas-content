@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:kharaneh-iv",
+  "sourceRefs": [
+    {
+      "sourceId": "source:maher-kharaneh-2012",
+      "role": "supports",
+      "locator": "pp. 2–3, Structures, Fig. 3: Structure 1 floor, burned overlying layer and contextual bracket 19,200–18,800 cal BP"
+    },
+    {
+      "sourceId": "source:jones-kharaneh-wetland-2016",
+      "role": "supports",
+      "locator": "Abstract and geological sections, accepted manuscript pp. 7–8, lines 204–242: local sediments and surrounding sections at about 31°43′N, 36°27′E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Kharaneh IV · Azraq-Becken",
+    "en": "Kharaneh IV · Azraq Basin"
+  },
+  "summary": {
+    "de": "Fundplatz im heutigen östlichen Jordanien. Sedimente zeigen ein lokales Feuchtgebiet während eines Teils der Besiedlungsfolge.",
+    "en": "Site in present-day eastern Jordan. Sediments record a local wetland during part of the occupation sequence."
+  }
+}

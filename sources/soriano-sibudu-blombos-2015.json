@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:soriano-sibudu-blombos-2015",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Still Bay and Howiesons Poort at Sibudu and Blombos: Understanding Middle Stone Age Technologies",
+  "sourceType": "article",
+  "creators": [
+    "Sylvain Soriano et al."
+  ],
+  "published": "2015-07-10",
+  "language": "en",
+  "url": "https://doi.org/10.1371/journal.pone.0131127",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PLOS ONE 10(7), e0131127. Site and dating sections, Fig. 18 and residue analyses consulted.",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0131127"
+  }
+}

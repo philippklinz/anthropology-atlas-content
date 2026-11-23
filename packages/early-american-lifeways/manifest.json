@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:early-american-lifeways",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Amerika: viele Wege, viele Lebensräume",
+    "en": "The Americas: Many Paths, Many Environments"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:page-ladson-biface",
+    "artifact:paisley-twined-weft",
+    "assertion:arroyo-seco-horse-radius-findspot",
+    "assertion:page-ladson-biface-findspot",
+    "assertion:paisley-twined-weft-findspot",
+    "asset:arroyo-horse-radius",
+    "asset:paisley-cave-blm",
+    "chapter:many-american-landscapes",
+    "event:arroyo-seco-horse-radius-evidence",
+    "event:page-ladson-biface-evidence",
+    "event:paisley-plant-fibre-evidence",
+    "geometry:arroyo-seco-2-orientation",
+    "geometry:page-ladson-orientation",
+    "geometry:paisley-caves-orientation",
+    "place:arroyo-seco-2",
+    "place:page-ladson",
+    "place:paisley-caves",
+    "source:blm-paisley-cave-photo-2002",
+    "source:halligan-page-ladson-2016",
+    "source:kallenbach-paisley-textiles-2024",
+    "source:politis-arroyo-seco-2016",
+    "source:shillito-paisley-biomarkers-2020",
+    "specimen:arroyo-seco-horse-radius"
+  ],
+  "entryChapterIds": [
+    "chapter:many-american-landscapes"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

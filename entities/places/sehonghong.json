@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:sehonghong",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:veall-mitchell-sehonghong-2023",
+      "role": "supports",
+      "locator": "Archaeological and historical context, first paragraph: 28°47′E, 29°46′S"
+    },
+    {
+      "sourceId": "source:stewart-eggshell-strontium-2020",
+      "role": "supports",
+      "locator": "Table 1, Sehonghong sample I13-170, 33.7–31.9 kcal BP; Discussion and Fig. 6, model-based minimum distances"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Sehonghong · Lesotho",
+    "en": "Sehonghong · Lesotho"
+  },
+  "summary": {
+    "de": "Ein Felsunterstand im Hochland der Maloti-Berge. Hier wurde die später auf Strontiumisotope untersuchte Eierschalenperle I13-170 geborgen.",
+    "en": "A rockshelter in the Maloti highlands. Eggshell bead I13-170, later sampled for strontium isotopes, was recovered here."
+  }
+}

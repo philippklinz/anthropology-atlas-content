@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:paisley-caves",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "supports",
+      "locator": "Results, Table 1 and Discussion: faecal lipid biomarkers and human assignments"
+    },
+    {
+      "sourceId": "source:shillito-paisley-biomarkers-2020",
+      "role": "derivation",
+      "locator": "Site description and Fig. 2A: Paisley Caves and the Summer Lake basin. Rounded orientation for this atlas"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Paisley Caves · Oregon",
+    "en": "Paisley Caves · Oregon"
+  },
+  "summary": {
+    "de": "Höhlen am Summer-Lake-Becken mit erhaltenen Pflanzenfasern und Koprolithen.",
+    "en": "Caves near the Summer Lake basin with preserved plant fibres and coprolites."
+  }
+}

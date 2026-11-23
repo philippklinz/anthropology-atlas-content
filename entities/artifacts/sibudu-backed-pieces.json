@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:sibudu-backed-pieces",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soriano-sibudu-blombos-2015",
+      "role": "supports",
+      "locator": "Replacing the Still Bay: the Howiesons Poort at Sibudu; Fig. 18; Residue analysis of backed pieces, PGS B5a and GR C6c; Figs. M–N in S4 File"
+    },
+    {
+      "sourceId": "source:tuebingen-sibhudu-stratigraphy",
+      "role": "supports",
+      "locator": "Stratigraphy: current excavation-team overview of Howiesons Poort at Sibhudu"
+    },
+    {
+      "sourceId": "source:wadley-hafting-experiments-2009",
+      "role": "supports",
+      "locator": "Replication Results; Table 1: trial adhesives and their performance"
+    },
+    {
+      "sourceId": "source:chasan-conifer-adhesives-2024",
+      "role": "supports",
+      "locator": "Sections 4–5: reference material and limits of identifying conifers from degraded residues"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Sibudu · Steine mit bearbeitetem Rücken",
+    "en": "Sibudu · backed stone pieces"
+  },
+  "summary": {
+    "de": "Manche Stücke besitzen eine absichtlich abgestumpfte Kante. Rückstände an zwei untersuchten Stücken weisen auf Nadelbaumharz und fettartige Stoffe hin. Die genaue Pflanzenquelle bleibt offen.",
+    "en": "Some tools have an edge deliberately blunted by retouch. Residues on two analysed pieces indicate conifer resin and fatty substances. The exact plant source remains open."
+  },
+  "assetIds": [
+    "asset:sibudu-backed-pieces"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:el-sidron-j1",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rosas-el-sidron-growth-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript pp. 4–5, Dental histology and skeletal maturation; Figs. 2 and S1–S2; Table S3"
+    },
+    {
+      "sourceId": "source:davies-el-sidron-chronology-2015",
+      "role": "supports",
+      "locator": "Table 6a caption and El Sidrón sample OxA-21776. The calibrated alternatives are 59,730–44,570 and 63,282–43,489 calendar BP."
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "El Sidrón J1 · Neandertalerkind",
+    "en": "El Sidrón J1 · Neanderthal child"
+  },
+  "summary": {
+    "de": "Unvollständiges Skelett eines Kindes. Tägliche Wachstumsmarken in einem Backenzahn ergeben ein geschätztes Alter beim Tod von 7,69 Jahren.",
+    "en": "Partial skeleton of a child. Daily growth marks in a molar give an estimated age at death of 7.69 years."
+  }
+}

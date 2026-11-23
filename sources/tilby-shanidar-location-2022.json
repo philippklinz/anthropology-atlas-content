@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tilby-shanidar-location-2022",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Microvertebrates of Shanidar Cave: Preliminary Taphonomic Findings",
+  "sourceType": "article",
+  "creators": [
+    "Emily Tilby",
+    "Preston Miracle",
+    "Graeme Barker"
+  ],
+  "url": "https://doi.org/10.3390/quat5010004",
+  "published": "2022",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.3390/quat5010004"
+  },
+  "bibliographicNote": "Quaternary 5(1), 4. Section 1.1 identifies the cave's position in the Baradost Mountains in Iraqi Kurdistan and gives whole-minute coordinates."
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:panga-ya-saidi-mtoto-burial",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:martinon-torres-panga-burial-2021",
+      "role": "supports",
+      "locator": "Published pp. 95–98; Accepted manuscript, Context and chronology; Primary and intentional deposit, lines 163–225"
+    },
+    {
+      "sourceId": "source:martinon-torres-panga-burial-2021",
+      "role": "supports",
+      "locator": "Published p. 96; modelled age of the pit fill: 78.3 ± 4.1 ka after inclusion of OSL4"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Panga ya Saidi · Bestattung von Mtoto",
+    "en": "Panga ya Saidi · burial of Mtoto"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 82400,
+      "younger": 74200,
+      "precision": "year",
+      "qualifier": "approximate",
+      "central": 78300
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:panga-ya-saidi-mtoto",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:martinon-torres-panga-burial-2021",
+          "role": "supports",
+          "locator": "Published pp. 95–98; Accepted manuscript, Context and chronology; Primary and intentional deposit, lines 163–225"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:panga-ya-saidi"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:panga-ya-saidi-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Grubenform, Füllung und Knochenlage stützen die Deutung einer absichtlichen Bestattung.",
+      "en": "The pit features, fill and arrangement of the bones support deliberate burial."
+    }
+  },
+  "note": {
+    "de": "Die modellierte Datierung der Grubenfüllung ergibt 78.300 ± 4.100 Jahre. Unterschiede zwischen Füllung und umgebendem Boden sowie die Lage der Knochen stützen die Deutung als absichtliche Bestattung. Was das Begräbnis für die Beteiligten bedeutete, bleibt offen.",
+    "en": "The modelled age of the pit fill is 78,300 ± 4,100 years. Differences between the fill and surrounding soil and the position of the bones support an interpretation of deliberate burial. What the burial meant to those involved remains open."
+  }
+}

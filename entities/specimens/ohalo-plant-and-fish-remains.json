@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:ohalo-plant-and-fish-remains",
+  "sourceRefs": [
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site; Results and Discussion, The site of Ohalo II and its finds and The proto-weeds"
+    },
+    {
+      "sourceId": "source:zohar-ohalo-fish-2018",
+      "role": "supports",
+      "locator": "Abstract; Results; Discussion, fish assemblage and its formation"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Pflanzen- und Fischreste aus Ohalo II",
+    "en": "Plant and fish remains from Ohalo II"
+  },
+  "summary": {
+    "de": "Wildgetreide und analysierte Fischreste geben verschiedene Einblicke in das Nahrungsangebot und seine Nutzung.",
+    "en": "Wild cereals and analysed fish remains give distinct insights into available foods and their use."
+  }
+}

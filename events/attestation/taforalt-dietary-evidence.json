@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:taforalt-dietary-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:moubtahij-taforalt-diet-2024",
+      "role": "supports",
+      "locator": "pp. 1036–1040, dated burials, sampled tissues, Results and discussion; Fig. 3 and caption"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Taforalt · chemische Ernährungsspuren",
+    "en": "Taforalt · chemical dietary traces"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 15077,
+      "younger": 15077,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 13892,
+      "younger": 13892,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "specimen:taforalt-dietary-sample",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:taforalt"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:taforalt-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Zeitspanne der in der Studie direkt datierten Bestattungen. Verschiedene Isotopensignale werden mit Werten von Tieren verglichen.",
+    "en": "Envelope of the directly dated burials in the study. Several isotope signals are compared with those of animals."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Zusammenschau der Messungen spricht für einen bedeutenden Anteil pflanzlicher Nahrung.",
+      "en": "The combined measurements support a substantial plant component in the sampled diets."
+    }
+  }
+}

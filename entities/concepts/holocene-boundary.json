@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:holocene-boundary",
+  "sourceRefs": [
+    {
+      "sourceId": "source:walker-holocene-2009",
+      "role": "supports",
+      "locator": "p. 3, Abstract, and p. 14, Summary: NGRIP boundary age 11,700 calendar years b2k with maximum counting error 99 years"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Beginn des Holozäns",
+    "en": "Beginning of the Holocene"
+  },
+  "summary": {
+    "de": "Eine formale geologische Grenze anhand eines grönländischen Eisbohrkerns. Das gerundete Alter 11.700 Jahre vor 2000 entspricht 11.650 Jahren vor 1950.",
+    "en": "A formal geological boundary defined using a Greenland ice core. The rounded age of 11,700 years before 2000 corresponds to 11,650 years before 1950."
+  }
+}

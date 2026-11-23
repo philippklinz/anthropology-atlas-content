@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:fa-hien-lena",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wedage-fa-hien-lena-2019",
+      "role": "supports",
+      "locator": "p. 6, Methods: 80°12′55″E, 6°38′55″N"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Fa-Hien Lena · Sri Lanka",
+    "en": "Fa-Hien Lena · Sri Lanka"
+  },
+  "summary": {
+    "de": "Höhle nahe Bulathsinhala in der feuchten Zone Sri Lankas. Die frühen Schichten enthalten bearbeitete Knochen und Überreste von Regenwaldtieren.",
+    "en": "Cave near Bulathsinhala in Sri Lanka's wet zone. Early layers contain worked bone and the remains of rainforest animals."
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:as-the-ice-retreats",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clark-lgm-2009",
+      "role": "supports",
+      "locator": "pp. 710–711, Abstract and Global ice-sheet history: nearly all ice sheets at their maximum positions from 26.5 to 19–20 ka"
+    },
+    {
+      "sourceId": "source:robitaille-gonnersdorf-2024",
+      "role": "supports",
+      "locator": "Introduction: site context around 15.8 ka; Methods and results; Fig. 9: Plaquette 282; Discussion: fish-and-grid motifs and interpreted net fishing"
+    },
+    {
+      "sourceId": "source:siemssen-maier-neuwied-data-2024",
+      "role": "supports",
+      "locator": "Supplement A, section 5 Sites, rows 10–13: Gönnersdorf K I–IV, Late Upper Palaeolithic"
+    },
+    {
+      "sourceId": "source:deschamps-tahiti-2012",
+      "role": "supports",
+      "locator": "pp. 559–561, The Tahiti record, Occurrence of MWP-1A and Amplitude and duration; Fig. 2: age constraints and 12–22 m of local sea-level rise"
+    },
+    {
+      "sourceId": "source:iodp-expedition-310-m0009b",
+      "role": "supports",
+      "locator": "Expedition 310, Site M0009, Hole B: coordinates −17.48858 latitude, −149.4034 longitude"
+    },
+    {
+      "sourceId": "source:richter-shubayqa-2017",
+      "role": "supports",
+      "locator": "p. 2, Shubayqa 1: geographic position, environmental finds and Structure 1; pp. 3–4: Phases 7–4 and intervening gaps in the site sequence"
+    },
+    {
+      "sourceId": "source:walker-holocene-2009",
+      "role": "supports",
+      "locator": "p. 3, Abstract, and p. 14, Summary: NGRIP boundary age 11,700 calendar years b2k with maximum counting error 99 years"
+    }
+  ],
+  "labels": {
+    "de": "Wenn das Eis weicht",
+    "en": "As the Ice Retreats"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:gonnersdorf-fish-grid-evidence",
+    "event:tahiti-meltwater-pulse-evidence",
+    "event:shubayqa-early-occupation-evidence",
+    "event:holocene-boundary-reference",
+    "concept:deglaciation-and-sea-level"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -57,
+      "latitude": 26,
+      "metersPerPixel": 32000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 19000,
+        "younger": 19000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 11650,
+        "younger": 11650,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "gonnersdorf",
+      "textAnchor": "gonnersdorf",
+      "labels": {
+        "de": "1 · Gönnersdorf: Ein Fisch im Gitter",
+        "en": "1 · Gönnersdorf: A fish in the grid"
+      },
+      "summary": {
+        "de": "Die Forschenden lesen Fischumriss und Gitter als eine Darstellung von Netzfang. Vergleiche ihre Umzeichnung mit den Spuren im Stein.",
+        "en": "The researchers read the fish outline and grid as a depiction of net fishing. Compare their tracing with the lines on the stone."
+      },
+      "state": {
+        "camera": {
+          "longitude": 7.42,
+          "latitude": 50.45,
+          "metersPerPixel": 1600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 16600,
+            "younger": 16600,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 15000,
+            "younger": 15000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:gonnersdorf-fish-grid"
+    },
+    {
+      "id": "tahiti",
+      "textAnchor": "tahiti",
+      "labels": {
+        "de": "2 · Tahiti: Ein Archiv im Riff",
+        "en": "2 · Tahiti: A reef archive"
+      },
+      "summary": {
+        "de": "Die Bohrstelle liefert eine geologische Spur. Alter und Wassertiefe der Korallen helfen, einen raschen Meeresspiegelanstieg einzugrenzen.",
+        "en": "The borehole supplies a geological clue. Coral ages and water depths help constrain a rapid sea-level rise."
+      },
+      "state": {
+        "camera": {
+          "longitude": -149.4034,
+          "latitude": -17.48858,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 15000,
+            "younger": 15000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14000,
+            "younger": 14000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "shubayqa",
+      "textAnchor": "shubayqa",
+      "labels": {
+        "de": "3 · Shubayqa 1: In Stein gebaut",
+        "en": "3 · Shubayqa 1: Building in stone"
+      },
+      "summary": {
+        "de": "In der heutigen Wüste bauten Jäger und Sammler mit Stein. Das Luftbild zeigt die Grabung mit Befunden aus mehreren Zeiten.",
+        "en": "Hunter-gatherers built in stone in what is now desert. The aerial photograph shows the excavation, with features from several phases."
+      },
+      "state": {
+        "camera": {
+          "longitude": 37.2281,
+          "latitude": 32.4064,
+          "metersPerPixel": 750,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14700,
+            "younger": 14700,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 13800,
+            "younger": 13800,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:shubayqa-excavation"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Was verändert sich, wenn Eisschilde schmelzen? Eine Fischgravur am Rhein, Bohrkerne vor Tahiti und Steinbauten in Jordanien geben Einblick. Ansichtsfenster 19.000–11.650 Jahre BP.",
+      "en": "What changes as ice sheets melt? A fish engraving on the Rhine, coral cores off Tahiti and stone buildings in Jordan offer three perspectives. Viewing window 19,000–11,650 years BP."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "europe",
+        "labels": {
+          "de": "Europa",
+          "en": "Europe"
+        }
+      },
+      {
+        "id": "pacific",
+        "labels": {
+          "de": "Pazifik",
+          "en": "Pacific"
+        }
+      },
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "climate-and-landscape",
+        "labels": {
+          "de": "Klima und Landschaft",
+          "en": "Climate and landscape"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:gonnersdorf-plaquette-282",
+    "artifact:shubayqa-structure-1",
+    "assertion:gonnersdorf-plaquette-at-site",
+    "assertion:shubayqa-structure-1-at-site",
+    "asset:gonnersdorf-fish-grid",
+    "asset:shubayqa-excavation",
+    "concept:deglaciation-and-sea-level",
+    "concept:holocene-boundary",
+    "event:gonnersdorf-fish-grid-evidence",
+    "event:holocene-boundary-reference",
+    "event:shubayqa-early-occupation-evidence",
+    "event:tahiti-meltwater-pulse-evidence",
+    "geometry:gonnersdorf-orientation",
+    "geometry:shubayqa-1-orientation",
+    "geometry:tiarei-coral-core-orientation",
+    "place:gonnersdorf",
+    "place:shubayqa-1",
+    "place:tiarei-offshore-coring-site",
+    "source:clark-lgm-2009",
+    "source:deschamps-tahiti-2012",
+    "source:iodp-expedition-310-m0009b",
+    "source:richter-shubayqa-2017",
+    "source:robitaille-gonnersdorf-2024",
+    "source:siemssen-maier-neuwied-data-2024",
+    "source:walker-holocene-2009",
+    "specimen:tahiti-deglacial-coral-record"
+  ]
+}

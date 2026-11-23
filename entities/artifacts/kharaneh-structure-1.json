@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:kharaneh-structure-1",
+  "sourceRefs": [
+    {
+      "sourceId": "source:maher-kharaneh-2012",
+      "role": "supports",
+      "locator": "pp. 2–3, Structures, Fig. 3: Structure 1 floor, burned overlying layer and contextual bracket 19,200–18,800 cal BP"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Kharaneh IV · Struktur 1",
+    "en": "Kharaneh IV · Structure 1"
+  },
+  "summary": {
+    "de": "Proben unter und über dem ovalen Boden von Struktur 1 liefern den kalibrierten Rahmen 19.200–18.800 BP (68 %, IntCal09). Die Ausgräber deuten die verkohlte Schicht über dem Boden als verbrannten Oberbau.",
+    "en": "Samples below and above the oval floor of Structure 1 give a calibrated bracket of 19,200–18,800 BP (68%, IntCal09). The excavators interpret the charred layer overlying the floor as a burned superstructure."
+  }
+}

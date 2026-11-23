@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hatton-ga-mohana-beads-2022",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ostrich eggshell beads from Ga-Mohana Hill North Rockshelter, southern Kalahari, and the implications for understanding social networks during Marine Isotope Stage 2",
+  "sourceType": "article",
+  "creators": [
+    "Amy Hatton",
+    "Benjamin Collins",
+    "Benjamin J. Schoville",
+    "Jayne Wilkins"
+  ],
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0268943"
+  },
+  "url": "https://doi.org/10.1371/journal.pone.0268943",
+  "published": "2022-06-01",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "PLOS ONE 17(6), e0268943. Main text, Table 2, Fig. 2 and regional comparison in Table 3. DBGS sediment age is 14.8 ± 0.8 ka (single-grain quartz OSL). Several manufacturing stages support manufacture at the site. Fig. 2 is CC BY 4.0."
+}

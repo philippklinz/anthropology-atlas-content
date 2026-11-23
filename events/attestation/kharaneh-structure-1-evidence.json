@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:kharaneh-structure-1-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:maher-kharaneh-2012",
+      "role": "supports",
+      "locator": "pp. 2–3, Structures, Fig. 3: Structure 1 floor, burned overlying layer and contextual bracket 19,200–18,800 cal BP"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Kharaneh IV · Grundriss von Struktur 1",
+    "en": "Kharaneh IV · floor of Structure 1"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 19200,
+      "younger": 18800,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:kharaneh-structure-1",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "Proben unter und über dem ovalen Boden von Struktur 1 liefern den kalibrierten Rahmen 19.200–18.800 BP (68 %, IntCal09). Die Ausgräber deuten die verkohlte Schicht über dem Boden als verbrannten Oberbau.",
+    "en": "Samples below and above the oval floor of Structure 1 give a calibrated bracket of 19,200–18,800 BP (68%, IntCal09). The excavators interpret the charred layer overlying the floor as a burned superstructure."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Proben unter und über dem ovalen Boden von Struktur 1 liefern den kalibrierten Rahmen 19.200–18.800 BP (68 %, IntCal09). Die Ausgräber deuten die verkohlte Schicht über dem Boden als verbrannten Oberbau.",
+      "en": "Samples below and above the oval floor of Structure 1 give a calibrated bracket of 19,200–18,800 BP (68%, IntCal09). The excavators interpret the charred layer overlying the floor as a burned superstructure."
+    }
+  },
+  "placeIds": [
+    "place:kharaneh-iv"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:kharaneh-iv-orientation",
+      "role": "findspot"
+    }
+  ]
+}

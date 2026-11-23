@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:arroyo-seco-2",
+  "sourceRefs": [
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "supports",
+      "locator": "Introduction, p. 2; Table 1, UCIAMS-142842; Fig. 8 and Taphonomy, pp. 15–17: age and opposing notches on the Equus neogeus radius"
+    },
+    {
+      "sourceId": "source:politis-arroyo-seco-2016",
+      "role": "derivation",
+      "locator": "Introduction, p. 2: published site coordinate 38°21′38″ S, 60°14′39″ W"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Arroyo Seco 2 · Pampa",
+    "en": "Arroyo Seco 2 · Pampas"
+  },
+  "summary": {
+    "de": "Freilandfundplatz bei Tres Arroyos mit Steingeräten, Tierknochen und wesentlich jüngeren Bestattungen.",
+    "en": "Open-air site near Tres Arroyos with stone artefacts, animal bones and much younger burials."
+  }
+}

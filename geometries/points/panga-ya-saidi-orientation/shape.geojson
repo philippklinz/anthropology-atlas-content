@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:panga-ya-saidi-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      39.736,
+      -3.678
+    ]
+  }
+}

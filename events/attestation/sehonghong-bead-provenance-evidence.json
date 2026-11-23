@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:sehonghong-bead-provenance-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stewart-eggshell-strontium-2020",
+      "role": "supports",
+      "locator": "Table 1, Sehonghong sample I13-170, 33.7–31.9 kcal BP; Discussion and Fig. 6, model-based minimum distances"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Sehonghong · Herkunft einer Perle",
+    "en": "Sehonghong · tracing a bead's origins"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 33700,
+      "younger": 31900,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:sehonghong-bead-i13-170",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:sehonghong"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sehonghong-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Das Strontiumverhältnis und die Lebensraumannahmen stützen eine nichtlokale Herkunft der Schale. Der genaue Herkunftsort, der Weg und die Zahl der Beteiligten bleiben unbekannt.",
+      "en": "The strontium ratio and habitat assumptions support a non-local shell origin. The exact source, route and number of people involved remain unknown."
+    }
+  },
+  "note": {
+    "de": "Fundkontext der Perle I13-170. Unter den Annahmen der Studie beträgt die Mindestentfernung des Ausgangsmaterials 326 km vom Mittelpunkt zwischen Sehonghong und Melikane. Das bedeutet, dass die Schale wahrscheinlich aus einer mehrere hundert Kilometer entfernten Landschaft kam.",
+    "en": "Context of bead I13-170. Under the study's assumptions, the minimum distance for the eggshell origin is 326 km from the midpoint between Sehonghong and Melikane. The eggshell probably came from a landscape several hundred kilometres away."
+  }
+}

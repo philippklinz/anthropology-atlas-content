@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:gonnersdorf-fish-grid-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:robitaille-gonnersdorf-2024",
+      "role": "supports",
+      "locator": "Introduction: site context around 15.8 ka; Methods and results; Fig. 9: Plaquette 282; Discussion: fish-and-grid motifs and interpreted net fishing"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Gönnersdorf · Fisch und Gitter im Stein",
+    "en": "Gönnersdorf · fish and grid engraved in stone"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 15800,
+      "younger": 15800,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:gonnersdorf-plaquette-282",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "Die rund 15.800 Jahre BP beziehen sich auf den Fundplatzkontext. Auf acht Plaketten beschreibt die Studie Fisch-Gitter-Kombinationen. Die Deutung als Netzfang beruht auf den Ritzungen. Ein Fischernetz selbst ist hier nicht erhalten.",
+    "en": "About 15,800 BP is the site age. The study identifies fish-and-grid combinations on eight plaquettes. The interpretation as net fishing comes from the engravings. No fishing net survives in this evidence."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Ritzungen sind erhalten. Netzfischerei wird aus dem Motiv erschlossen.",
+      "en": "The engravings survive. Net fishing is an interpretation of the motif."
+    }
+  },
+  "placeIds": [
+    "place:gonnersdorf"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:gonnersdorf-orientation",
+      "role": "findspot"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:ohalo-sickle-blade",
+  "sourceRefs": [
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Fig. 4 and caption, cutting edge polish and hafting wear"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Steinklinge aus Ohalo II",
+    "en": "Stone blade from Ohalo II"
+  },
+  "summary": {
+    "de": "Politur und Spuren an der Kante stützen eine Deutung als geschäftete Klinge zur Bearbeitung von Pflanzen.",
+    "en": "Polish and edge traces support interpretation as a hafted blade used to work plants."
+  }
+}

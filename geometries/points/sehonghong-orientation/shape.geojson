@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:sehonghong-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.7833,
+      -29.7667
+    ]
+  }
+}

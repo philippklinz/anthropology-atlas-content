@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:robitaille-gonnersdorf-2024",
+  "sourceRefs": [],
+  "title": "Upper Palaeolithic fishing techniques: Insights from the engraved plaquettes of the Magdalenian site of Gönnersdorf, Germany",
+  "sourceType": "article",
+  "creators": [
+    "Jérôme Robitaille",
+    "Lisa-Elen Meyering",
+    "Sabine Gaudzinski-Windheuser",
+    "Paul Pettitt",
+    "Olaf Jöris",
+    "Robert Kentridge"
+  ],
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311302",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The article discusses eleven fish depictions and eight examples of the fish-and-grid motif. The associated image is a CC BY 4.0 publisher figure. The net interpretation comes from the engravings.",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0311302"
+  },
+  "published": "2024",
+  "containerTitle": "PLOS ONE 19, e0311302"
+}

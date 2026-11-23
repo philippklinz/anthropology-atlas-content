@@ -1,0 +1,303 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:connections-across-distances",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Regional and chronological bead metrics; Discussion, Stylistic connection at 50–33 ka; Fig. 1"
+    },
+    {
+      "sourceId": "source:stewart-eggshell-strontium-2020",
+      "role": "supports",
+      "locator": "Table 1, Sehonghong sample I13-170, 33.7–31.9 kcal BP; Discussion and Fig. 6, model-based minimum distances"
+    },
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "supports",
+      "locator": "Ga-Mohana Hill North Rockshelter, DBGS sediment chronology; Results, Technological analysis; Fig. 2 and Table 2"
+    },
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "supports",
+      "locator": "Discussion, OES beads and fragments in southern Africa; Table 3, regional MIS 2 record"
+    }
+  ],
+  "labels": {
+    "de": "Verbunden über weite Entfernungen",
+    "en": "Connected Across Long Distances"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:enkapune-beads-early-evidence",
+    "event:border-cave-beads-early-evidence",
+    "event:sehonghong-bead-provenance-evidence",
+    "event:ga-mohana-bead-manufacture-evidence",
+    "concept:bead-style-and-contact",
+    "concept:strontium-and-material-origins",
+    "asset:eggshell-beads-africa-comparison",
+    "asset:ga-mohana-beads-and-preforms"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 29,
+      "latitude": -15,
+      "metersPerPixel": 14000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 50000,
+        "younger": 50000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 14000,
+        "younger": 14000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "perlen-vergleichen",
+      "textAnchor": "perlen-vergleichen",
+      "labels": {
+        "de": "1 · Perlen aus zwei Regionen vergleichen",
+        "en": "1 · Compare beads from two regions"
+      },
+      "summary": {
+        "de": "Enkapune ya Muto und Border Cave liefern frühe Beispiele. Größe und Bohrung helfen, geteilte Traditionen zu untersuchen.",
+        "en": "Enkapune ya Muto and Border Cave provide early examples. Size and aperture help researchers examine shared traditions."
+      },
+      "state": {
+        "camera": {
+          "longitude": 33,
+          "latitude": -14,
+          "metersPerPixel": 11000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 50000,
+            "younger": 50000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 40000,
+            "younger": 40000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:eggshell-beads-africa-comparison"
+    },
+    {
+      "id": "sehonghong",
+      "textAnchor": "sehonghong",
+      "labels": {
+        "de": "2 · Sehonghong: Woher kam die Schale?",
+        "en": "2 · Sehonghong: Where did the shell come from?"
+      },
+      "summary": {
+        "de": "Die Strontiumwerte der Perle I13-170 passen schlechter zum unmittelbaren Umfeld des Fundorts als zu weiter entfernten Landschaften.",
+        "en": "The strontium values of bead I13-170 fit the findsite's local landscape less well than more distant ones."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.7833,
+          "latitude": -29.7667,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 33700,
+            "younger": 33700,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 31900,
+            "younger": 31900,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "ga-mohana",
+      "textAnchor": "ga-mohana",
+      "labels": {
+        "de": "3 · Ga-Mohana: Perlen herstellen",
+        "en": "3 · Ga-Mohana: Making beads"
+      },
+      "summary": {
+        "de": "Fertige Perlen, Vorformen und Eierschalenfragmente zeigen verschiedene Arbeitsschritte an einem Ort.",
+        "en": "Finished beads, preforms and eggshell fragments reveal different stages of work at one site."
+      },
+      "state": {
+        "camera": {
+          "longitude": 23.343,
+          "latitude": -27.387,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 15600,
+            "younger": 15600,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 14000,
+            "younger": 14000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:ga-mohana-beads-and-preforms"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Straußeneierschalenperlen aus Ostafrika und dem südlichen Afrika. Form, Material und Herstellungsreste erzählen auf unterschiedliche Weise von alten Verbindungen. Ansichtsfenster 50.000–14.000 BP.",
+      "en": "Ostrich eggshell beads from eastern and southern Africa. Shapes, materials and manufacturing traces tell different stories about early connections. Viewing window 50,000–14,000 BP."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "africa",
+        "labels": {
+          "de": "Afrika",
+          "en": "Africa"
+        }
+      },
+      {
+        "id": "east-africa",
+        "labels": {
+          "de": "Ostafrika",
+          "en": "East Africa"
+        }
+      },
+      {
+        "id": "southern-africa",
+        "labels": {
+          "de": "Südliches Afrika",
+          "en": "Southern Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "exchange",
+        "labels": {
+          "de": "Austausch",
+          "en": "Exchange"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:border-cave-eggshell-beads",
+    "artifact:enkapune-eggshell-beads",
+    "artifact:ga-mohana-bead-assemblage",
+    "artifact:sehonghong-bead-i13-170",
+    "asset:eggshell-beads-africa-comparison",
+    "asset:ga-mohana-beads-and-preforms",
+    "concept:bead-style-and-contact",
+    "concept:strontium-and-material-origins",
+    "event:border-cave-beads-early-evidence",
+    "event:enkapune-beads-early-evidence",
+    "event:ga-mohana-bead-manufacture-evidence",
+    "event:sehonghong-bead-provenance-evidence",
+    "geometry:border-cave-orientation",
+    "geometry:enkapune-ya-muto-orientation",
+    "geometry:ga-mohana-hill-north-orientation",
+    "geometry:sehonghong-orientation",
+    "place:border-cave",
+    "place:enkapune-ya-muto",
+    "place:ga-mohana-hill-north",
+    "place:sehonghong",
+    "source:ambrose-enkapune-1998",
+    "source:butzer-border-cave-1978",
+    "source:hatton-ga-mohana-beads-2022",
+    "source:miller-wang-eggshell-networks-2022",
+    "source:stewart-eggshell-strontium-2020",
+    "source:veall-mitchell-sehonghong-2023",
+    "source:wilkins-kalahari-2021"
+  ]
+}

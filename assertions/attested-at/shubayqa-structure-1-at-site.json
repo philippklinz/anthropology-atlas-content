@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:shubayqa-structure-1-at-site",
+  "sourceRefs": [
+    {
+      "sourceId": "source:richter-shubayqa-2017",
+      "role": "supports",
+      "locator": "p. 2, Shubayqa 1: geographic position, environmental finds and Structure 1; pp. 3–4: Phases 7–4 and intervening gaps in the site sequence"
+    }
+  ],
+  "subjectId": "artifact:shubayqa-structure-1",
+  "predicate": "attested-at",
+  "objectId": "place:shubayqa-1",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14600,
+      "younger": 14600,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 14000,
+      "younger": 14000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Die frühen Phasen 7–4 liegen modelliert zwischen etwa 14.600 und 14.000 cal BP (2σ). Struktur 1 war teilweise eingetieft und hatte aufrechte Randsteine und einen gepflasterten Boden. Die Spanne umfasst mehrere Nutzungen. Spätere Phasen folgten nach längeren Lücken.",
+    "en": "The modelled bracket for early Phases 7–4 is about 14,600–14,000 cal BP (2σ). Structure 1 was partly sunken with upright boundary stones and a paved floor. The bracket covers multiple phases. Later occupations followed after longer gaps."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die frühen Phasen 7–4 liegen modelliert zwischen etwa 14.600 und 14.000 cal BP (2σ). Struktur 1 war teilweise eingetieft und hatte aufrechte Randsteine und einen gepflasterten Boden. Die Spanne umfasst mehrere Nutzungen. Spätere Phasen folgten nach längeren Lücken.",
+      "en": "The modelled bracket for early Phases 7–4 is about 14,600–14,000 cal BP (2σ). Structure 1 was partly sunken with upright boundary stones and a paved floor. The bracket covers multiple phases. Later occupations followed after longer gaps."
+    }
+  }
+}

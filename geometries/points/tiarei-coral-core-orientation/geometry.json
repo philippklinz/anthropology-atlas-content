@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:tiarei-coral-core-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:iodp-expedition-310-m0009b",
+      "role": "supports",
+      "locator": "Expedition 310, Site M0009, Hole B: coordinates −17.48858 latitude, −149.4034 longitude"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 200,
+    "note": {
+      "de": "Gerundete Lage zur Orientierung. Die Toleranz wurde redaktionell gewählt.",
+      "en": "Rounded location for orientation. The tolerance is an editorial choice."
+    }
+  },
+  "processingNote": {
+    "de": "Repräsentative Bohrstelle M0009B des modernen Probenarchivs.",
+    "en": "Representative borehole M0009B in the modern sample archive."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic point",
+    "originNote": "Point authored from published coordinates for geographic orientation."
+  }
+}

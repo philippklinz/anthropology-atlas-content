@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:bead-style-and-contact",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:miller-wang-eggshell-networks-2022",
+      "role": "supports",
+      "locator": "Regional and chronological bead metrics; Discussion, Stylistic connection at 50–33 ka; Fig. 1"
+    },
+    {
+      "sourceId": "source:hatton-ga-mohana-beads-2022",
+      "role": "supports",
+      "locator": "Discussion, OES beads and fragments in southern Africa; Table 3, regional MIS 2 record"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Perlenstil und soziale Kontakte",
+    "en": "Bead style and social contact"
+  },
+  "summary": {
+    "de": "Forschende können Außen- und Lochdurchmesser mehrerer Funde vergleichen. Wiederkehrende Ähnlichkeiten über große Entfernungen stützen die Deutung geteilter Traditionen. Wie Menschen das Wissen oder einzelne Perlen weitergaben, bleibt offen.",
+    "en": "Researchers can compare outer diameters and apertures across finds. Recurring similarities over long distances support an interpretation of shared traditions. How people passed on that knowledge or individual beads remains open."
+  }
+}

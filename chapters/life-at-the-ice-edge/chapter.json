@@ -1,0 +1,298 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:life-at-the-ice-edge",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clark-lgm-2009",
+      "role": "supports",
+      "locator": "pp. 710–711, Abstract and Global ice-sheet history: nearly all ice sheets at their maximum positions from 26.5 to 19–20 ka"
+    },
+    {
+      "sourceId": "source:pryor-kostenki-2020",
+      "role": "supports",
+      "locator": "Archaeological context; The third mammoth-bone feature; Table 2, combined calibrated dates; Discussion: fuel and unresolved function"
+    },
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site: brush hut construction, sunken floors, and Fig. 1 with caption"
+    },
+    {
+      "sourceId": "source:zohar-ohalo-fish-2018",
+      "role": "supports",
+      "locator": "Background, The Ohalo II site, Fig. 1 and site chronology: repeated occupation approximately 23,500–22,500 cal BP and successive floors in Brush Hut 1"
+    },
+    {
+      "sourceId": "source:maher-kharaneh-2012",
+      "role": "supports",
+      "locator": "pp. 2–3, Structures, Fig. 3: Structure 1 floor, burned overlying layer and contextual bracket 19,200–18,800 cal BP"
+    },
+    {
+      "sourceId": "source:jones-kharaneh-wetland-2016",
+      "role": "supports",
+      "locator": "Abstract and geological sections, accepted manuscript pp. 7–8, lines 204–242: local sediments and surrounding sections at about 31°43′N, 36°27′E"
+    }
+  ],
+  "labels": {
+    "de": "Leben am Rand des Eises",
+    "en": "Living at the Edge of the Ice"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:kostenki-mammoth-bone-circle-evidence",
+    "event:ohalo-brush-hut-evidence",
+    "event:kharaneh-structure-1-evidence",
+    "concept:last-glacial-maximum"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 36,
+      "latitude": 41,
+      "metersPerPixel": 11000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 30000,
+        "younger": 30000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 18800,
+        "younger": 18800,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "kostenki",
+      "textAnchor": "kostenki",
+      "labels": {
+        "de": "1 · Kostenki: Ein Kreis aus Knochen",
+        "en": "1 · Kostenki: A circle of bones"
+      },
+      "summary": {
+        "de": "Ein großer Mammutknochenkreis und Spuren von Feuer. Ob dort ein Haus stand, bleibt offen.",
+        "en": "A large mammoth-bone circle and traces of fire. Whether a house stood here remains open."
+      },
+      "state": {
+        "camera": {
+          "longitude": 39.0514,
+          "latitude": 51.3856,
+          "metersPerPixel": 2300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 26000,
+            "younger": 26000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 24000,
+            "younger": 24000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "ohalo",
+      "textAnchor": "ohalo",
+      "labels": {
+        "de": "2 · Ohalo II: Hütten am See",
+        "en": "2 · Ohalo II: Lakeside huts"
+      },
+      "summary": {
+        "de": "Vergleiche im Grabungsplan die dunklen Hüttenbefunde mit den helleren Feuerstellen und dem Fünf-Meter-Maßstab.",
+        "en": "Compare the dark hut features with the paler hearths and the five-metre scale on the excavation plan."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.57,
+          "latitude": 32.72,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 24000,
+            "younger": 24000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 22000,
+            "younger": 22000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:ohalo-brush-huts-plan"
+    },
+    {
+      "id": "kharaneh",
+      "textAnchor": "kharaneh",
+      "labels": {
+        "de": "3 · Kharaneh IV: Ein ovaler Boden",
+        "en": "3 · Kharaneh IV: An oval floor"
+      },
+      "summary": {
+        "de": "In der heute trockenen Landschaft lag damals zeitweise ein Feuchtgebiet. Ein Hüttenboden zeigt, wie klein eine Unterkunft sein konnte.",
+        "en": "Today’s dry landscape once included a wetland. A hut floor shows how small a shelter could be."
+      },
+      "state": {
+        "camera": {
+          "longitude": 36.45,
+          "latitude": 31.72,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 20000,
+            "younger": 20000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 18800,
+            "younger": 18800,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Wie bauten Menschen in der letzten Kaltzeit? Ein Mammutknochenkreis am Don, Hütten am See Genezareth und wiederholte Aufenthalte im heutigen Jordanien. Ansichtsfenster 30.000–18.800 Jahre BP.",
+      "en": "How did people build during the last glacial period? A mammoth-bone circle on the Don, huts beside the Sea of Galilee and repeated stays in present-day Jordan. Viewing window 30,000–18,800 years BP."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "europe",
+        "labels": {
+          "de": "Europa",
+          "en": "Europe"
+        }
+      },
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "climate-and-landscape",
+        "labels": {
+          "de": "Klima und Landschaft",
+          "en": "Climate and landscape"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:kharaneh-structure-1",
+    "artifact:kostenki-mammoth-bone-circle",
+    "artifact:ohalo-brush-hut-remains",
+    "assertion:kharaneh-structure-1-at-kharaneh-iv",
+    "assertion:kostenki-bone-circle-at-kostenki-11",
+    "assertion:ohalo-brush-huts-at-ohalo-ii",
+    "asset:ohalo-brush-huts-plan",
+    "concept:last-glacial-maximum",
+    "event:kharaneh-structure-1-evidence",
+    "event:kostenki-mammoth-bone-circle-evidence",
+    "event:lgm-reference-window",
+    "event:ohalo-brush-hut-evidence",
+    "geometry:kharaneh-iv-orientation",
+    "geometry:kostenki-11-orientation",
+    "geometry:ohalo-ii-orientation",
+    "place:kharaneh-iv",
+    "place:kostenki-11",
+    "place:ohalo-ii",
+    "source:clark-lgm-2009",
+    "source:jones-kharaneh-wetland-2016",
+    "source:maher-kharaneh-2012",
+    "source:pryor-kostenki-2020",
+    "source:snir-ohalo-2015",
+    "source:zohar-ohalo-fish-2018"
+  ]
+}
