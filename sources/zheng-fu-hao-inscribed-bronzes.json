@@ -11,8 +11,12 @@
   "creators": [
     "Zheng Zhenxiang"
   ],
-  "url": "https://www.cambridge.org/core/journals/early-china/article/10-the-situ-qiaomu-inscriptions-excavated-from-the-fu-hao-tomb/82B9B769260336EBF75ED5D71E96EF0B",
+  "url": "https://doi.org/10.1017/S0362502800002972",
   "accessedAt": "2026-11-23",
-  "bibliographicNote": "Early China 9–10 symposium abstract. Zheng Zhenxiang's report notes 190 inscribed vessels, 109 with the Fu Hao inscription or its variant, and explicitly identifies the 1976 excavation context.",
-  "language": "en"
+  "bibliographicNote": "Early China 9, Supplement S1 (1986), pp. 20–21, symposium abstract. Zheng Zhenxiang's report notes 190 inscribed vessels, 109 with the Fu Hao inscription or its variant, and explicitly identifies the 1976 excavation context.",
+  "published": "1986",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1017/S0362502800002972"
+  }
 }
