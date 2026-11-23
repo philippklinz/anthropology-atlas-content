@@ -1,4 +1,4 @@
-# First Cities, Trade and Writing
+# Early Cities, Trade and Writing
 
 Status: research draft, 2026-11-23.
 
@@ -11,7 +11,7 @@ The discovery group **Erste Städte, Handel und Schrift / Early Cities, Trade an
 | Copper, Gold and Tin | How do grave goods, metal chemistry and old accounts trace exchange? | Varna I Grave 43, Tisenjoch axe, tin caravan account associated with Kaneš |
 | Cities of the Indus | How did people build around shared resources and record goods? | Harappa seal, Mohenjo-daro well and drain, Dholavira East Reservoir |
 | Waterworks and Walls in Early China | At which scales did people build and maintain infrastructure? | Liangzhu dams, Pingliangtai drainage, Shimao walls |
-| Building Together on the Andean Coast | What do early public structures and coastal food remains show? | Three located building contexts on the coast and inland valleys |
+| Building Together on the Andean Coast | What do early public structures and coastal food remains show? | Sechín Bajo circular plaza, Áspero food remains and fishing weight, Caral Great Pyramid |
 
 ## Editorial decisions
 
