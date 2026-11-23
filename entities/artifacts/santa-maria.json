@@ -20,5 +20,8 @@
   "summary": {
     "de": "Schiff der ersten Reise; ging Weihnachten 1492 vor Hispaniola verloren.",
     "en": "Ship of the first voyage, wrecked off Hispaniola at Christmas 1492."
-  }
+  },
+  "assetIds": [
+    "asset:santa-maria-reconstruction"
+  ]
 }

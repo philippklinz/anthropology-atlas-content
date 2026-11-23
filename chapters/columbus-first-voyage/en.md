@@ -1,5 +1,9 @@
 How does an Atlantic voyage connect previously separated worlds? Follow Columbus’s first voyage of 1492–1493 from Palos via the Canaries to the already inhabited Caribbean and back.
 
+## The Santa María in 3D
+
+Open “Santa María in 3D” under “Discover”. Rotate the ship and zoom in to explore its wooden hull, deck, sails and rigging. The model depicts the ship on the voyage of 1492. It is a modern reconstruction; the exact hull shape and dimensions are modelling choices. The ship’s own record also links to the model.
+
 ## A western route to Asia
 
 Columbus seeks a sea route to Asia, but reaches Caribbean islands. “Discovery of America” expresses a European perspective: the inhabitants of Guanahani and the other islands already lived there. Their societies are not an empty backdrop.

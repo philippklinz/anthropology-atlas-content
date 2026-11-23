@@ -45,6 +45,7 @@
   },
   "focusIds": [
     "event:columbus-first-voyage",
+    "asset:santa-maria-reconstruction",
     "event:columbus-guanahani",
     "person:christopher-columbus",
     "community:lucayans-guanahani-1492",
@@ -161,6 +162,7 @@
     "artifact:nina",
     "artifact:pinta",
     "artifact:santa-maria",
+    "asset:santa-maria-reconstruction",
     "community:lucayans-guanahani-1492",
     "event:columbus-azores",
     "event:columbus-cuba",
@@ -198,6 +200,8 @@
     "source:florida-guanahani",
     "source:fnz-periodization",
     "source:loc-columbus-taino",
+    "source:nao-victoria-santa-maria-2018",
+    "source:powerhouse-santa-maria-h4306",
     "source:usno-calendars"
   ]
 }

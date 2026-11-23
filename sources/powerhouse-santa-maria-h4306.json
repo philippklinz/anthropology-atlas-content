@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:powerhouse-santa-maria-h4306",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ship model of 'Santa Maria' captained by Christopher Columbus in 1492",
+  "sourceType": "catalog",
+  "creators": [
+    "Powerhouse"
+  ],
+  "identifiers": {
+    "accession": "H4306",
+    "collectionObject": "238890"
+  },
+  "url": "https://collection.powerhouse.com.au/object/238890",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Read the Description and History sections. This catalogue describes a later scale model, acquired in 1940, whose maker and production date are unknown. Its object measurements describe that model, not the original ship. Listed in the supplied GLB metadata as a modelling reference. No museum image is redistributed."
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nao-victoria-santa-maria-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Nao Victoria Foundation has launched the Nao Santa María of the 525",
+  "sourceType": "website",
+  "creators": [
+    "Fundación Nao Victoria"
+  ],
+  "published": "2018-03-19",
+  "url": "https://www.fundacionnaovictoria.org/the-nao-victoria-foundation-has-launched-the-nao-santa-maria-of-the-525/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Read the report on the 16 March 2018 launch and the January 2017–March 2018 construction. This is a modern sailing reconstruction with modern materials and equipment. It is listed in the supplied GLB metadata as a comparative reference, not evidence for exact original dimensions. No images or plans from this page are redistributed."
+}

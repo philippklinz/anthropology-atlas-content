@@ -22,6 +22,7 @@
     "artifact:nina",
     "artifact:pinta",
     "artifact:santa-maria",
+    "asset:santa-maria-reconstruction",
     "chapter:columbus-first-voyage",
     "community:lucayans-guanahani-1492",
     "event:columbus-azores",
@@ -58,7 +59,9 @@
     "place:santa-maria-azores",
     "source:columbus-journal-markham",
     "source:florida-guanahani",
-    "source:loc-columbus-taino"
+    "source:loc-columbus-taino",
+    "source:nao-victoria-santa-maria-2018",
+    "source:powerhouse-santa-maria-h4306"
   ],
   "entryChapterIds": [
     "chapter:columbus-first-voyage"
@@ -66,6 +69,7 @@
   "requiredCapabilities": [
     "geo-basic",
     "historical-time",
-    "network-basic"
+    "network-basic",
+    "model-viewer"
   ]
 }

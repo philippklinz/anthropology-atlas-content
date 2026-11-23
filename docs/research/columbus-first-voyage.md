@@ -4,7 +4,7 @@ This bounded chapter follows the first voyage outward and selected Niña return 
 
 ## Scope
 
-The package owns 41 records: 4 people, 3 ships, one historically bounded Lucayan community, 8 places, 11 events (journey and 10 stations), 9 geometries, 3 sources, a chapter and its package manifest. It depends on `package:maritime-shared` for the calendar reference. The community represents the people encountered at Guanahani in 1492, not a timeless homogeneous category.
+The package owns 44 records: 4 people, 3 ships, one historically bounded Lucayan community, 8 places, 11 events (journey and 10 stations), 9 geometries, 5 sources, one 3D asset, a chapter and its package manifest. It depends on `package:maritime-shared` for the calendar reference. The community represents the people encountered at Guanahani in 1492, not a timeless homogeneous category.
 
 ## Source reading and perspective
 
@@ -21,8 +21,18 @@ Conventional voyage dates are Julian. In 1492–1493 the proleptic Gregorian cal
 
 All points are manually authored, rounded orientation aids. Guanahani is a **regional placeholder in the Bahamas**, explicitly not a selected candidate island or a measured landfall. The Santa María wreck uses a broad northern Hispaniola marker, not a claimed wreck site. Other coast and harbour markers are schematic too. Modern country names aid orientation without assigning modern borders to 1492.
 
-The original line drawing selects outward and return stations; vessels separated, and the return is not a common track for all three ships. Additional ocean vertices are visual interpolation, not historical observations. No archaeological map, portrait or ship model is copied. Original text and geometry use GPL-2.0; linked publications retain their own rights.
+The original line drawing selects outward and return stations; vessels separated, and the return is not a common track for all three ships. Additional ocean vertices are visual interpolation, not historical observations. No archaeological map, portrait or third-party ship model is copied. The project-supplied 3D reconstruction is described below. Original project content uses GPL-2.0; linked publications retain their own rights.
 
 ## Checks and limits
 
 Browser validation checks schema, references, package closure, dates and geometry. It cannot settle the landfall debate or verify historical truth. Independent review, broader Caribbean scholarship, more local perspectives and more precise geography remain work for a later editorial pass. Claims of possession, captivity and colonization are included in the chapter instead of treating the Caribbean as previously empty land.
+
+## Santa María reconstruction, added 23 November 2026
+
+The project supplied `santa_maria.glb`, a Blender export representing the ship on the 1492 voyage. It is linked to the existing `artifact:santa-maria` rather than creating a second ship identity, and is a direct chapter focus item. The model, its record and both additional bibliographic records belong to this package. German and English descriptions explain what the visitor can inspect and distinguish reconstruction from a documented original.
+
+The GLB metadata identifies the transmitted journal, Powerhouse catalogue H4306 and Fundación Nao Victoria’s 2018 reconstruction documentation as references. The journal’s 25 December entry was re-read, together with the museum’s Description/History and the foundation’s launch report. The journal supports the voyage and wreck context. The other references describe later reconstructions; they do not establish the original ship’s precise form. The model itself labels its chosen 21.4 m hull length and 7.4 m beam as interpretive. No original plans or securely identified wreck were used, according to its metadata. Its referenced authoring note `quellen.md` was not part of the supplied file and was not reviewed.
+
+All seven texture images are embedded. The supplied metadata identifies original procedural wood and linen textures and a hand-drawn banner, with no third-party photographs. The asset follows the project’s GPL-2.0 content licence. No reference-site images are copied. Only `scenes[0].extras.initialView` was added to the supplied GLB to give a useful starting view; all mesh and embedded-image bytes remain unchanged.
+
+The model is approximately 17.9 MiB with 524,288 triangles. This exceeds the initial recommended per-exhibit budgets (10 MiB / 250,000 triangles); it is retained as supplied rather than silently reducing its detail. It is fetched only when the visitor opens the model. The source and hashed publication payload remain together in this content repository. Browser validation and interactive rendering checks cover technical integration, not an independent historical review of the reconstruction.

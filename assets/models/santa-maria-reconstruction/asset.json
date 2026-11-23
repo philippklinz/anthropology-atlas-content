@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:santa-maria-reconstruction",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:columbus-journal-markham",
+      "role": "supports",
+      "locator": "Entry for 25 December 1492: loss of the ship and salvage. Supports the voyage context, not the reconstructed hull dimensions."
+    },
+    {
+      "sourceId": "source:powerhouse-santa-maria-h4306",
+      "role": "background",
+      "locator": "H4306, Description and History. Later scale model used as a comparison; not an original ship plan."
+    },
+    {
+      "sourceId": "source:nao-victoria-santa-maria-2018",
+      "role": "background",
+      "locator": "Launch report of 19 March 2018, sections on the 2017–2018 construction and historical documentation. Modern replica, not surviving material from 1492."
+    }
+  ],
+  "assetType": "model",
+  "file": "santa_maria.glb",
+  "mediaType": "model/gltf-binary",
+  "labels": {
+    "de": "Santa María in 3D",
+    "en": "Santa María in 3D"
+  },
+  "alt": {
+    "de": "Die Santa María auf der Atlantikfahrt von 1492 als frei drehbares 3D-Modell: Holzrumpf, Deck, drei Masten, Segel und Takelage. Betrachte das Schiff von der Seite und von oben. Die Darstellung ist eine heutige Rekonstruktion; Rumpfform, Maße und Details sind Modellentscheidungen, keine überlieferten Originalpläne.",
+    "en": "An interactive 3D reconstruction of the Santa María on the Atlantic voyage of 1492, showing its wooden hull, deck, three masts, sails and rigging. Explore the ship from the side and from above. The hull shape, dimensions and details are modelling choices, not surviving original plans."
+  },
+  "entityIds": [
+    "artifact:santa-maria"
+  ],
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas"
+    ],
+    "attribution": "Santa María reconstruction · Anthropology Atlas · GPL-2.0",
+    "originNote": "Project-supplied Blender model distributed under the content repository licence. Embedded metadata identifies the wood, linen and banner textures as original procedural or hand-drawn work, with no third-party photographs. The Atlas added only the starting camera position and target; geometry and embedded image bytes are unchanged."
+  },
+  "model": {
+    "representation": "reconstruction"
+  },
+  "depictsTime": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1492,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1492,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  }
+}
