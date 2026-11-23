@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:arslantepe-via-complex",
+  "sourceRefs": [
+    {
+      "sourceId": "source:turkiye-arslantepe-nomination-2019",
+      "role": "supports",
+      "locator": "pp. 82–84, Period VIA: complex, storerooms, clay sealings and distribution vessels"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Arslantepe · Baukomplex der Phase VIA",
+    "en": "Arslantepe · Period VIA complex"
+  },
+  "summary": {
+    "de": "Lehmziegelbauten mit Vorratsräumen, Höfen und bemalten Wandflächen. Gefäße und Tonverschlüsse liefern Hinweise auf die Verwaltung von Vorräten.",
+    "en": "Mudbrick buildings with storerooms, courtyards and painted walls. Vessels and clay sealings give clues to the management of supplies."
+  }
+}

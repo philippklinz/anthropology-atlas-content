@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:smb-uruk-vat14674",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Archaischer Verwaltungstext (VAT 14674)",
+  "sourceType": "catalog",
+  "url": "https://id.smb.museum/object/1743541",
+  "creators": [
+    "Vorderasiatisches Museum, Staatliche Museen zu Berlin"
+  ],
+  "language": "de",
+  "accessedAt": "2026-11-23",
+  "identifiers": {
+    "inventory": "VAT 14674",
+    "smbCatalog": "obj:1743541"
+  },
+  "bibliographicNote": "Object record for a clay tablet from Uruk, modern Warka, dated broadly to the Late Uruk period (3400–3100 BCE)."
+}

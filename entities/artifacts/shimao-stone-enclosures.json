@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:shimao-stone-enclosures",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rawson-shimao-excavation-reports-2026",
+      "role": "supports",
+      "locator": "The city, walls and the Imperial Terraces, Figs. 1–2, inner and outer walls, terrace retainers and cliff overlooking the Tuwei River"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Shimao · innere und äußere Stadtmauer",
+    "en": "Shimao · inner and outer city walls"
+  },
+  "summary": {
+    "de": "Zwei steinverkleidete Wälle mit einem Kern aus Löss und Geröll. Sie nehmen den Geländeverlauf auf und schließen an einen Steilhang an.",
+    "en": "Two stone-faced walls with a core of loess and rubble. They follow the terrain and join a steep cliff."
+  }
+}

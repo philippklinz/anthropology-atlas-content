@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:franzkowiak-iceman-axe-reconstruction-2011",
+  "sourceRefs": [],
+  "title": "ReconstructedOetziAxe.jpg",
+  "sourceType": "website",
+  "creators": [
+    "Andreas Franzkowiak (Bullenwächter)",
+    "Wikimedia Commons user 120",
+    "ArchäoTechnik Wulf Hein (reconstruction)"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:ReconstructedOetziAxe.jpg",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2011",
+  "bibliographicNote": "A faithful modern reconstruction photographed by Franzkowiak and edited by Commons user 120. The published photograph is available under CC BY 3.0."
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "script:proto-cuneiform",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:kelley-et-al-seals-signs-2025",
+      "role": "supports",
+      "locator": "Table 1 and Inter-related systems of symbols: early Uruk IV tablets, numerical notations and continued use of seals"
+    },
+    {
+      "sourceId": "source:cdli-uruk-p001252",
+      "role": "supports",
+      "locator": "Text and Provenance: 4(N01) followed by three signs, language undetermined, Uruk IV attribution, findspot Qa XVI,2 and excavation no. W 09579,d"
+    }
+  ],
+  "entityType": "script",
+  "labels": {
+    "de": "Proto-Keilschrift",
+    "en": "Proto-cuneiform"
+  },
+  "summary": {
+    "de": "Frühes mesopotamisches Zeichensystem, unter anderem für Verwaltungseinträge auf Ton. Zahlen und weitere Zeichen konnten im selben Eintrag stehen. Die gesprochene Sprache hinter einzelnen frühen Tafeln lässt sich oft schwer bestimmen.",
+    "en": "An early Mesopotamian sign system used, among other things, to record administrative entries on clay. Numbers and other signs could appear in the same entry. The spoken language behind individual early tablets is often hard to determine."
+  }
+}

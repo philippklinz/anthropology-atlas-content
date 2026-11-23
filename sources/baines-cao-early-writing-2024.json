@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:baines-cao-early-writing-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Material, Spatial, and Social Contexts of Early Writing: Egypt and China",
+  "sourceType": "book",
+  "url": "https://uplopen.com/chapters/6097/files/5c548cfe-ac26-4d93-b045-6d28445a283e.pdf",
+  "creators": [
+    "John Baines",
+    "Cao Dazhi"
+  ],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2024",
+  "publisher": "De Gruyter",
+  "containerTitle": "The Ancient World Revisited: Material Dimensions of Written Artefacts, 71–128",
+  "identifiers": {
+    "doi": "10.1515/9783111360805-004"
+  },
+  "bibliographicNote": "Section 2 discusses the Tomb U-j labels, vessel marks and contexts. Its approximate date, 3200 BCE, follows a different chronology from the older c. 3320 BCE estimate recorded by Kahl."
+}

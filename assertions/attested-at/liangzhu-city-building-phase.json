@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:liangzhu-city-building-phase",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, chronological sequence preceding Fig. 5 and paragraph after Fig. 5, most city construction 4,900–4,600 cal BP and the approximately 300 ha earthen enclosure"
+    }
+  ],
+  "subjectId": "artifact:liangzhu-city-building-remains",
+  "predicate": "attested-at",
+  "objectId": "place:liangzhu-city",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 4900,
+      "younger": 4900,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 4600,
+      "younger": 4600,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Zeitfenster für die Errichtung eines großen Teils der Stadt laut der archäologischen Untersuchung. Die Stadtmauer ist ein gut erhaltener Teil der Bauanlage.",
+    "en": "Date window for construction of much of the city in the archaeological study. The city walls are a well-preserved part of the developed site."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Publikation vergleicht die Datierungen aus dem Wasserbau mit der Bauchronologie der Stadt. Einzelne Mauern und Bauten können andere Entstehungszeiten haben.",
+      "en": "The paper compares dates from the waterworks with the building chronology of the city. Individual walls and buildings can date to other phases."
+    }
+  }
+}

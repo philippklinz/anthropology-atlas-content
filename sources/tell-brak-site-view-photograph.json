@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:tell-brak-site-view-photograph",
+  "sourceRefs": [],
+  "title": "Tell Brak · the settlement mound today",
+  "sourceType": "website",
+  "creators": [
+    "Zoeperkoe"
+  ],
+  "published": "2015",
+  "url": "https://commons.wikimedia.org/wiki/File:Tell_Brak_001.jpg",
+  "containerTitle": "Wikimedia Commons",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "File description, creator credit and CC BY-SA 4.0 licence inspected."
+}

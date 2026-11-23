@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:mohenjo-daro-brick-well",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ullah-mohenjo-daro-well-photo-2010",
+      "role": "supports",
+      "locator": "Summary and Licensing, site, photographer, original file and CC BY-SA 3.0 declaration."
+    }
+  ],
+  "assetType": "image",
+  "file": "mohenjo-daro-brick-well.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Mohenjo-daro · gemauerter Brunnen",
+    "en": "Mohenjo-daro · brick-built well"
+  },
+  "alt": {
+    "de": "Runder gemauerter Brunnenschacht über einer freigelegten Ziegelwand.",
+    "en": "Round brick well shaft standing above an excavated brick wall."
+  },
+  "entityIds": [
+    "place:mohenjo-daro"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-3.0",
+    "creators": [
+      "M.Bastle Ullah"
+    ],
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Tall_well_-_Mohenjo-daro.jpg",
+    "attribution": "M.Bastle Ullah, A Tall well - Mohenjo-daro.jpg, Wikimedia Commons · CC BY-SA 3.0",
+    "originNote": "Unchanged 480 × 640 original. This is a site illustration. CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/."
+  }
+}

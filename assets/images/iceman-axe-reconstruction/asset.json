@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:iceman-axe-reconstruction",
+  "sourceRefs": [
+    {
+      "sourceId": "source:franzkowiak-iceman-axe-reconstruction-2011",
+      "role": "supports",
+      "locator": "Summary, Licensing and File history: photograph, modern replica, modification and CC BY 3.0"
+    }
+  ],
+  "assetType": "image",
+  "file": "iceman-axe-reconstruction.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Ötzis Kupferaxt · heutiger Nachbau",
+    "en": "Ötzi’s copper axe · modern reconstruction"
+  },
+  "alt": {
+    "de": "Eine schmale Kupferklinge sitzt am abgewinkelten Ende eines langen Holzstiels, mit Lederriemen befestigt.",
+    "en": "A narrow copper blade is bound by leather strips to the angled end of a long wooden handle."
+  },
+  "entityIds": [
+    "artifact:iceman-copper-axe"
+  ],
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "Andreas Franzkowiak (Bullenwächter)",
+      "Wikimedia Commons user 120"
+    ],
+    "attribution": "Photo: Andreas Franzkowiak (Bullenwächter), edited by 120; reconstruction: ArchäoTechnik Wulf Hein · Wikimedia Commons · CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ReconstructedOetziAxe.jpg",
+    "originNote": "Modern reconstruction. Resized and recompressed without additional cropping. License: https://creativecommons.org/licenses/by/3.0/."
+  }
+}

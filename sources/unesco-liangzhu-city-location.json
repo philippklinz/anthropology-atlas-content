@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-liangzhu-city-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Archaeological Ruins of Liangzhu City: Maps",
+  "sourceType": "website",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/1592/maps/",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "The Geographical data table gives separate coordinates for the high-dam zone (1592-002) and the city site (1592-004). These denote parts of a modern heritage property and orient the Atlas markers.",
+  "language": "en"
+}

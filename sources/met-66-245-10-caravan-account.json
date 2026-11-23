@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:met-66-245-10-caravan-account",
+  "sourceRefs": [],
+  "title": "Cuneiform tablet: caravan account",
+  "sourceType": "catalog",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/art/collection/search/325851",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "identifiers": {
+    "accession": "66.245.10",
+    "metCatalog": "325851"
+  }
+}

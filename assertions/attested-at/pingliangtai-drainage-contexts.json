@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:pingliangtai-drainage-contexts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Occupation, hydraulic technologies and landscape, Fig. 4 and Supplementary Table 7; 4,200–3,900 cal BP for occupation and mostly 4,100–3,900 cal BP for houses, deposits and drainage contexts"
+    },
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Occupation, hydraulic technologies and landscape, Figs. 3 and 5a–b, housing-side ditches and ceramic pipes at the southern gate; Fig. 6, typical segment sizes"
+    },
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Social governance and formation of hydro-sociality, first two paragraphs, interpretation of household maintenance and communal work"
+    }
+  ],
+  "subjectId": "artifact:pingliangtai-ceramic-drain-pipes",
+  "predicate": "attested-at",
+  "objectId": "place:pingliangtai",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 4100,
+      "younger": 4100,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 3900,
+      "younger": 3900,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Die meisten datierten Kontexte bei den Drainagerohren fallen in diese Spanne. Die ältere Grenze der Siedlungsbelege liegt bei etwa 4200 cal BP.",
+    "en": "Most dated contexts associated with the drainage pipes fall in this span. The earlier limit for the settlement evidence is about 4,200 cal BP."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Knochenfunde datieren Ablagerungen bei den Rohren. Die Schichten am Südtor bezeugen wiederholte Eingriffe, deren Einzeljahre offenbleiben.",
+      "en": "Bone samples date deposits associated with the pipes. Layers at the southern gate attest to repeated work, with individual years unresolved."
+    }
+  }
+}

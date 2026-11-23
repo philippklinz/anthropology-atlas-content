@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:caral-piramide-mayor-at-site",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shady-haas-creamer-dating-caral-2001",
+      "role": "supports",
+      "locator": "pp. 723–725, platform construction, Shicra fill, plants, marine remains and Figs. 3–4"
+    },
+    {
+      "sourceId": "source:shady-haas-creamer-dating-caral-2001",
+      "role": "supports",
+      "locator": "Table 1 and Fig. 5, ISGS-4711, ISGS-4710, ISGS-4724 and Beta-132593"
+    }
+  ],
+  "subjectId": "artifact:caral-piramide-mayor",
+  "predicate": "attested-at",
+  "objectId": "place:caral",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -2649,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2649,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -1999,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1999,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die angezeigten Grenzen fassen Stichproben zusammen. ISGS-4711 liegt unter dem Rundplatz, ISGS-4710 gehört zum Bau der Platzmauer und Beta-132593 zur Füllung des Bauteils oben auf der Pyramide.",
+      "en": "The displayed bracket summarizes samples. ISGS-4711 comes from under the plaza, ISGS-4710 from construction of its wall, and Beta-132593 from construction fill in the atrium above."
+    }
+  }
+}

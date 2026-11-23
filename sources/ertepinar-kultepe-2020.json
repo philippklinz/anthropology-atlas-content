@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:ertepinar-kultepe-2020",
+  "sourceRefs": [],
+  "title": "Archaeomagnetism at Kültepe: Untangling the Order of Fire Events in Antiquity",
+  "sourceType": "book",
+  "creators": [
+    "Pinar Ertepinar",
+    "Cor Langereis",
+    "Andy Biggin",
+    "Lennart V. de Groot",
+    "Fikri Kulakoğlu"
+  ],
+  "url": "https://forthoofddijk.geo.uu.nl/assets/2020_Ertepinar_brepols.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2020",
+  "containerTitle": "Integrative Approaches to the Archaeology and History of Kültepe-Kaneš",
+  "publisher": "Brepols",
+  "identifiers": {
+    "isbn": "978-2-503-58559-8"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:arslantepe-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:turkiye-arslantepe-nomination-2019",
+      "role": "supports",
+      "locator": "Executive Summary and Section 1.d: geographical coordinates of the mound"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 300,
+    "note": {
+      "de": "Redaktioneller Orientierungspunkt für den Fundplatz.",
+      "en": "Editorial orientation point for the archaeological site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundet aus 38°22′58″ N, 38°21′47,43″ E.",
+    "en": "Rounded from 38°22′58″ N, 38°21′47.43″ E."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manual point derived from the cited geographic coordinates."
+  }
+}

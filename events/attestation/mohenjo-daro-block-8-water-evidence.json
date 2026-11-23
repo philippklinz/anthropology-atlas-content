@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:mohenjo-daro-block-8-water-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mackay-mohenjo-daro-dk-g-1936",
+      "role": "supports",
+      "locator": "Chapter 5, DK Area G Section, passages c5.15–c5.18, Block 8, room 42, Late II well and subsequent alterations, Plates XIX and XXIe."
+    },
+    {
+      "sourceId": "source:mackay-mohenjo-daro-dk-g-1936",
+      "role": "supports",
+      "locator": "Chapter 5, DK Area G Section, c5.22 and Plate XIX, Block 8, room 50, large brick covers in situ and provisional Late I assignment."
+    },
+    {
+      "sourceId": "source:green-mohenjo-daro-public-structures-2018",
+      "role": "supports",
+      "locator": "Abstract, broad Indus urban phase around 2600–1900 BCE and discussion of collective action and political organization."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Mohenjo-daro · Brunnen und Abfluss in Block 8",
+    "en": "Mohenjo-daro · well and drain in Block 8"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -2599,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1899,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:mohenjo-daro-block-8-well",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:mohenjo-daro-block-8-drain",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:mohenjo-daro"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:mohenjo-daro-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Raum 42 und Raum 50 sind zwei Befunde desselben Grabungsblocks. Mackay ordnete den Brunnen in die örtliche Phase Late II und die abgedeckte Rinne vorläufig in Late I ein. 2600–1900 v. Chr. ist der größere zeitliche Rahmen der Indus-Städte.",
+    "en": "Rooms 42 and 50 are separate features in the same excavation block. Mackay assigned the well to local phase Late II and provisionally placed the covered drain in Late I. 2600–1900 BCE gives the wider period of Indus urbanism."
+  },
+  "epistemic": {
+    "status": "attested"
+  }
+}

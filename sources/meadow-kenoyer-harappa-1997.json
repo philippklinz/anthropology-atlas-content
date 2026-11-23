@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:meadow-kenoyer-harappa-1997",
+  "sourceRefs": [],
+  "title": "Excavations at Harappa 1994–1995: New Perspectives on the Indus Script, Craft Activities, and City Organization",
+  "sourceType": "article",
+  "creators": [
+    "Richard H. Meadow",
+    "Jonathan Mark Kenoyer"
+  ],
+  "url": "https://www.harappa.com/sites/default/files/pdf/Kenoyer1997_Excavations%20at%20Harappa%201994-1995%20New%20Perspective.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavators’ report on the building contexts and portable objects recovered in 1994–95.",
+  "published": "1997",
+  "containerTitle": "South Asian Archaeology 1995"
+}

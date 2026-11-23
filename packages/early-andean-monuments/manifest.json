@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:early-andean-monuments",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Gemeinsam bauen an der Andenküste",
+    "en": "Building Together on the Andean Coast"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:aspero-huaca-alta-fishing-weight",
+    "artifact:caral-piramide-mayor",
+    "artifact:sechin-bajo-first-building",
+    "assertion:aspero-dental-starch-at-site",
+    "assertion:aspero-huaca-alta-fishing-weight-at-site",
+    "assertion:caral-piramide-mayor-at-site",
+    "assertion:sechin-bajo-first-building-at-site",
+    "asset:caral-piramide-mayor-view",
+    "asset:sechin-bajo-first-building-excavation",
+    "chapter:monuments-by-the-andean-coast",
+    "event:aspero-starch-evidence",
+    "event:caral-piramide-mayor-building-evidence",
+    "event:sechin-bajo-first-building-evidence",
+    "geometry:aspero-orientation",
+    "geometry:caral-orientation",
+    "geometry:sechin-bajo-orientation",
+    "place:aspero",
+    "place:caral",
+    "place:sechin-bajo",
+    "source:fuchs-sechin-bajo-2009",
+    "source:gudorf-caral-piramide-mayor-2016",
+    "source:peru-sechin-bajo-site-coordinates-2010",
+    "source:shady-caceda-aspero-2008",
+    "source:shady-haas-creamer-dating-caral-2001",
+    "source:yseki-aspero-starch-2023",
+    "specimen:aspero-dental-starch-grains"
+  ],
+  "entryChapterIds": [
+    "chapter:monuments-by-the-andean-coast"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

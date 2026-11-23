@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:east-asian-urban-lifeways",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Wasserbau und Mauern in China",
+    "en": "Waterworks and Walls in Early China"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:liangzhu-city-building-remains",
+    "artifact:liangzhu-high-dam-remains",
+    "artifact:pingliangtai-ceramic-drain-pipes",
+    "artifact:shimao-stone-enclosures",
+    "assertion:liangzhu-city-building-phase",
+    "assertion:liangzhu-high-dam-construction-evidence",
+    "assertion:pingliangtai-drainage-contexts",
+    "assertion:shimao-walled-settlement-phase",
+    "asset:laohuling-exposed-dam-section",
+    "asset:pingliangtai-south-gate-drains",
+    "chapter:water-and-walls-in-early-china",
+    "event:liangzhu-city-building-phase",
+    "event:liangzhu-high-dam-construction-evidence",
+    "event:pingliangtai-drainage-contexts",
+    "event:shimao-walled-settlement-phase",
+    "geometry:liangzhu-city-orientation",
+    "geometry:liangzhu-high-dams-orientation",
+    "geometry:pingliangtai-orientation",
+    "geometry:shimao-orientation",
+    "place:liangzhu-city",
+    "place:liangzhu-high-dams",
+    "place:pingliangtai",
+    "place:shimao",
+    "source:commons-laohuling-dam-section-2022",
+    "source:fung-shimao-regional-study-2021",
+    "source:li-pingliangtai-ceramic-drainage-2023",
+    "source:liu-liangzhu-waterworks-2017",
+    "source:rawson-shimao-excavation-reports-2026",
+    "source:sun-shimao-urban-centre-2018",
+    "source:unesco-liangzhu-city-location"
+  ],
+  "entryChapterIds": [
+    "chapter:water-and-walls-in-early-china"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

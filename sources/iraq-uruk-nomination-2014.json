@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:iraq-uruk-nomination-2014",
+  "sourceRefs": [],
+  "title": "Management Plan of Uruk Archaeological City",
+  "sourceType": "archive",
+  "creators": [
+    "Government of Iraq"
+  ],
+  "published": "2014",
+  "url": "https://whc.unesco.org/document/169030",
+  "containerTitle": "The Ahwar of Southern Iraq, nomination dossier, Chapter II",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Section I identifies Warka and tabulates the central point for the archaeological property."
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:turkiye-arslantepe-nomination-2019",
+  "sourceRefs": [],
+  "title": "Arslantepe Mound: World Heritage Nomination File",
+  "sourceType": "archive",
+  "creators": [
+    "Republic of Türkiye"
+  ],
+  "published": "2019",
+  "url": "https://whc.unesco.org/document/172312",
+  "containerTitle": "Arslantepe Mound World Heritage nomination dossier",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Field description, stratigraphic discussion and site coordinates. Archive figures and photos are not redistributed."
+}

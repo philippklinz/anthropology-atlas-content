@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:uruk-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:iraq-uruk-nomination-2014",
+      "role": "supports",
+      "locator": "Uruk management plan, Section I, p. 51, Table 2.1: Uruk component reference point"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1500,
+    "note": {
+      "de": "Redaktioneller Orientierungspunkt für den Fundplatz.",
+      "en": "Editorial orientation point for the archaeological site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Mittelpunkt des archäologischen Areals: 31°19′27″ N, 45°38′14″ E.",
+    "en": "Rounded centre of the archaeological area: 31°19′27″ N, 45°38′14″ E."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manual point derived from the cited geographic coordinates."
+  }
+}

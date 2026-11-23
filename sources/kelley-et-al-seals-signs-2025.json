@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kelley-et-al-seals-signs-2025",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Seals and signs: tracing the origins of writing in ancient South-west Asia",
+  "sourceType": "article",
+  "url": "https://doi.org/10.15184/aqy.2024.165",
+  "creators": [
+    "Kathryn Kelley",
+    "Mattia Cartolano",
+    "Silvia Ferrara"
+  ],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2025",
+  "containerTitle": "Antiquity 99 (403), 64–82",
+  "identifiers": {
+    "doi": "10.15184/aqy.2024.165"
+  },
+  "bibliographicNote": "Published online in 2024. The article compares seal motifs and early signs and describes several coexisting techniques for recording information on clay."
+}

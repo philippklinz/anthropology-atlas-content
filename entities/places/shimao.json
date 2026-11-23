@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:shimao",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sun-shimao-urban-centre-2018",
+      "role": "supports",
+      "locator": "Abstract and §2, The discovery of Shimao; walled site dated approximately 2300–1800 cal BCE"
+    },
+    {
+      "sourceId": "source:rawson-shimao-excavation-reports-2026",
+      "role": "supports",
+      "locator": "The city, walls and the Imperial Terraces, Figs. 1–2, inner and outer walls, terrace retainers and cliff overlooking the Tuwei River"
+    },
+    {
+      "sourceId": "source:fung-shimao-regional-study-2021",
+      "role": "supports",
+      "locator": "Chapter 1, Table 1.1, row Shimao, rounded site coordinates 110.31°E, 38.56°N"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Shimao · Shaanxi, China",
+    "en": "Shimao · Shaanxi, China"
+  },
+  "summary": {
+    "de": "Große befestigte Siedlung auf dem nördlichen Lössplateau. Der Fluss Tuwei fließt unter der Anhöhe, auf der die Siedlung lag.",
+    "en": "A large walled settlement on the northern Loess Plateau. The Tuwei River runs below the hill on which the settlement stood."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:indus-urban-lifeways",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Städte am Indus",
+    "en": "Cities of the Indus"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:dholavira-eastern-reservoir",
+    "artifact:harappa-courtyard-seal-h95-2491",
+    "artifact:mohenjo-daro-block-8-drain",
+    "artifact:mohenjo-daro-block-8-well",
+    "assertion:dholavira-eastern-reservoir-at-site",
+    "assertion:harappa-courtyard-seal-at-mound-et",
+    "assertion:indus-signs-on-harappa-courtyard-seal",
+    "assertion:mohenjo-daro-block-8-drain-at-site",
+    "assertion:mohenjo-daro-block-8-well-at-site",
+    "asset:dholavira-stepped-reservoir",
+    "asset:mohenjo-daro-brick-well",
+    "chapter:cities-of-the-indus",
+    "event:dholavira-eastern-reservoir-phases",
+    "event:harappa-10e-courtyard-seal",
+    "event:mohenjo-daro-block-8-water-evidence",
+    "geometry:dholavira-orientation",
+    "geometry:harappa-orientation",
+    "geometry:mohenjo-daro-orientation",
+    "place:dholavira",
+    "place:harappa",
+    "place:mohenjo-daro",
+    "script:indus-sign-system",
+    "source:beas-survey-harappa-chronology",
+    "source:bharathan-dholavira-reservoir-photo-2017",
+    "source:bisht-dholavira-waterworks-2007",
+    "source:doam-harappa-location",
+    "source:green-mohenjo-daro-public-structures-2018",
+    "source:icomos-dholavira-2021",
+    "source:jansen-mohenjo-daro-water-1989",
+    "source:kenoyer-indus-measures-2010",
+    "source:kenoyer-indus-script-2006",
+    "source:mackay-mohenjo-daro-dk-g-1936",
+    "source:meadow-kenoyer-harappa-1997",
+    "source:ullah-mohenjo-daro-well-photo-2010",
+    "source:unesco-dholavira-location",
+    "source:unesco-mohenjo-daro-location"
+  ],
+  "entryChapterIds": [
+    "chapter:cities-of-the-indus"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

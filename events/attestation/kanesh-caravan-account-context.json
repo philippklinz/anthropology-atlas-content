@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:kanesh-caravan-account-context",
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-66-245-10-caravan-account",
+      "role": "supports",
+      "locator": "Object no. 66.245.10, Overview: clay, ca. 20th–19th century BCE and probable Kültepe provenance; object description: caravan costs and Assyrian trade network"
+    },
+    {
+      "sourceId": "source:larsen-met-old-assyrian-texts-1988",
+      "role": "supports",
+      "locator": "text no. 75 (MMA 66.245.10), pp. 98–101, plates 72–73, translation lines 5–37 and Remarks: tin, textiles, seven donkeys, fodder, equipment, silver outlays and two shipments"
+    },
+    {
+      "sourceId": "source:unesco-tentative-kultepe-kanesh",
+      "role": "supports",
+      "locator": "Description, Lower Town-Karum and Assyrian Trading Colonies Period: trade quarter, housing and network context"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Wohl Kaneš · Zinn in einer Karawanenabrechnung",
+    "en": "Probably Kaneš · tin in a caravan account"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1999,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1800,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:met-66-245-10-caravan-account",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:kultepe-kanesh"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:kultepe-lower-town-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Der Text nennt die Kosten zweier Lieferungen. Die Zuordnung dieser Tafel zu Kültepe ist wahrscheinlich. Der Kartenpunkt dient zur Orientierung in der Unterstadt.",
+    "en": "The text records expenses for two shipments. This tablet probably comes from Kültepe. The map point locates the lower town."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Text nennt die Kosten zweier Lieferungen. Die Zuordnung dieser Tafel zu Kültepe ist wahrscheinlich. Der Kartenpunkt dient zur Orientierung in der Unterstadt.",
+      "en": "The text records expenses for two shipments. This tablet probably comes from Kültepe. The map point locates the lower town."
+    }
+  }
+}

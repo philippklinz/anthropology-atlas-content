@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tell-brak-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      41.0583,
+      36.6667
+    ]
+  }
+}

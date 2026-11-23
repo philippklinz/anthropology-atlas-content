@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:sechin-bajo-first-building-excavation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "derivation",
+      "locator": "p. 64, Fig. 12, excavation photograph of the First Building"
+    }
+  ],
+  "assetType": "image",
+  "file": "first-building.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Sechín Bajo · Grabung am Ersten Bau",
+    "en": "Sechín Bajo · excavation of the First Building"
+  },
+  "alt": {
+    "de": "Schwarzweißfoto mit gebogenen Mauerresten und mehreren Treppen. Die Grabung hat verschiedene Ebenen des Baus freigelegt.",
+    "en": "Black-and-white photograph of curving wall remains and several stairways. The excavation exposed several levels of the building."
+  },
+  "entityIds": [
+    "artifact:sechin-bajo-first-building"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Proyecto Arqueológico Sechín Bajo"
+    ],
+    "attribution": "Proyecto Arqueológico Sechín Bajo, Fig. 12 in Fuchs et al. (2009), Boletín de Arqueología PUCP 13.",
+    "sourceUrl": "https://doi.org/10.18800/boletindearqueologiapucp.200901.002",
+    "originNote": "Unchanged embedded JPEG (863 × 575) from Fig. 12. Journal article license: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

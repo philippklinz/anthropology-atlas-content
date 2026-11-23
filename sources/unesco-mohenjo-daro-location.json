@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:unesco-mohenjo-daro-location",
+  "sourceRefs": [],
+  "title": "Archaeological Ruins at Moenjodaro · Maps",
+  "sourceType": "catalog",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/0138/maps/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Inscribed property 138, designated area orientation coordinate."
+}

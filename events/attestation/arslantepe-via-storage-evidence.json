@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:arslantepe-via-storage-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:turkiye-arslantepe-nomination-2019",
+      "role": "supports",
+      "locator": "pp. 82–84, Period VIA: complex, storerooms, clay sealings and distribution vessels"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Arslantepe · Vorratshaltung im zentralen Komplex",
+    "en": "Arslantepe · storage in the central complex"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -3399,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3399,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -3099,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3099,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:arslantepe-via-complex",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "In Lagerräumen und Ablagerungen liegen Vorratsgefäße und Tonverschlüsse. Die Phase VIA wird etwa auf 3400–3100 v. Chr. eingegrenzt.",
+    "en": "Storage vessels and clay sealings were found in rooms and deposits. Period VIA is dated to about 3400–3100 BCE."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "In Lagerräumen und Ablagerungen liegen Vorratsgefäße und Tonverschlüsse. Die Phase VIA wird etwa auf 3400–3100 v. Chr. eingegrenzt.",
+      "en": "Storage vessels and clay sealings were found in rooms and deposits. Period VIA is dated to about 3400–3100 BCE."
+    }
+  },
+  "placeIds": [
+    "place:arslantepe"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:arslantepe-orientation",
+      "role": "findspot"
+    }
+  ]
+}

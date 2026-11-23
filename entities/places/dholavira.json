@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:dholavira",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-dholavira-location",
+      "role": "supports",
+      "locator": "Geographical data, Property 1645, N23°53′18.27″ E70°12′47.89″."
+    },
+    {
+      "sourceId": "source:bisht-dholavira-waterworks-2007",
+      "role": "supports",
+      "locator": "pp. 86–87, diversion of seasonal runoff. pp. 91–93, eastern reservoir dimensions, steps, and proposed Stage III predecessor and Stage IV form."
+    },
+    {
+      "sourceId": "source:icomos-dholavira-2021",
+      "role": "supports",
+      "locator": "pp. 13–14, Description, Stage III c. 2800–2500 BCE and Stage IV c. 2500–2100 BCE."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Dholavira",
+    "en": "Dholavira"
+  },
+  "summary": {
+    "de": "Stadtruine auf der Insel Khadir im heutigen Gujarat in Indien. Im Stadtareal sind mehrere Wasserbecken erhalten.",
+    "en": "Urban ruins on Khadir Island in present-day Gujarat, India. Several reservoirs survive in the city area."
+  }
+}

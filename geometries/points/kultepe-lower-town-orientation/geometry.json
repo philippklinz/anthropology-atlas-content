@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:kultepe-lower-town-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ertepinar-kultepe-2020",
+      "role": "supports",
+      "locator": "p. 101, Table 4.1, WGS84 positions of selected lower town structures (KT3–KT11); rounded orientation point within this part of the site"
+    },
+    {
+      "sourceId": "source:unesco-tentative-kultepe-kanesh",
+      "role": "supports",
+      "locator": "Description, Lower Town-Karum and Assyrian Trading Colonies Period: trade quarter, housing and network context"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung im Fundplatzgebiet.",
+      "en": "Editorial tolerance for orientation within the site area."
+    }
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt im Bereich der Unterstadt. Das Museum ordnet die ausgewählte Tafel dem Fundplatz mit Vorbehalt zu.",
+    "en": "Orientation point in the lower town. The museum lists the tablet's origin at this site as probable."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual geographic references."
+  }
+}

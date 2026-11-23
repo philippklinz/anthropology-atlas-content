@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:aspero-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.7419,
+      -10.8144
+    ]
+  }
+}

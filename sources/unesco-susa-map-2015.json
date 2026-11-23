@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-susa-map-2015",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Susa – Maps",
+  "sourceType": "dataset",
+  "url": "https://whc.unesco.org/en/list/1455/maps/",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "identifiers": {
+    "worldHeritageComponent": "1455-001"
+  },
+  "bibliographicNote": "The entry gives representative coordinates for the whole archaeological complex."
+}

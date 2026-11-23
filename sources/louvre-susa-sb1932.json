@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:louvre-susa-sb1932",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bulle avec empreinte et jetons (SB 1932)",
+  "sourceType": "catalog",
+  "url": "https://collections.louvre.fr/ark:/53355/cl010175963",
+  "creators": [
+    "Département des Antiquités orientales, musée du Louvre"
+  ],
+  "language": "fr",
+  "accessedAt": "2026-11-23",
+  "identifiers": {
+    "inventory": "SB 1932"
+  },
+  "bibliographicNote": "Object record for the clay envelope excavated by the Susa mission. The approximate catalogue date covers 3500–2900 BCE."
+}

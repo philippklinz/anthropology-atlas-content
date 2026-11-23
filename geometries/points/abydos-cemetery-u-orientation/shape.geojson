@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:abydos-cemetery-u-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.9084,
+      26.1774
+    ]
+  }
+}

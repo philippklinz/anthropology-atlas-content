@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:aspero-huaca-alta-fishing-weight",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shady-caceda-aspero-2008",
+      "role": "supports",
+      "locator": "Generalidades: Ocupaciones tempranas; Huaca Alta, Hallazgos (fishing weight)"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Áspero · Fischereigewicht aus Huaca Alta",
+    "en": "Áspero · fishing weight from Huaca Alta"
+  },
+  "summary": {
+    "de": "Ein im Grabungsführer dokumentiertes Gewicht mit Rest einer Schnur aus Pflanzenfasern.",
+    "en": "A weight with a fragment of plant-fibre cord, documented in the excavation project's guide."
+  }
+}

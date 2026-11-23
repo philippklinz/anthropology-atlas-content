@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:susa-sb1932-envelope-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nguyen-susa-sb1932-photo-2009",
+      "role": "derivation",
+      "locator": "Object and Photograph sections: inventory SB 1932, Marie-Lan Nguyen, own work, CC BY 2.5 Generic"
+    }
+  ],
+  "assetType": "image",
+  "file": "susa-sb1932-envelope-photo.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Tonkugel und Zählmarken im Louvre",
+    "en": "Clay envelope and tokens at the Louvre"
+  },
+  "alt": {
+    "de": "Etwa kugelförmiges Tongefäß mit plastischen Siegelabdrücken auf einem Ständer. Darunter liegen kleine Tonmarken, darunter rundliche und abgeflachte Formen.",
+    "en": "A round clay envelope on a stand bears raised seal impressions. Small clay tokens below it include rounded and flattened shapes."
+  },
+  "entityIds": [
+    "artifact:susa-clay-envelope-sb1932"
+  ],
+  "rights": {
+    "license": "CC-BY-2.5",
+    "creators": [
+      "Marie-Lan Nguyen"
+    ],
+    "attribution": "© Marie-Lan Nguyen / Wikimedia Commons · CC BY 2.5 · resized and converted to WebP",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Accountancy_clay_envelope_Louvre_Sb1932.jpg",
+    "originNote": "Complete photograph resized to 578 × 1050 px and converted to WebP. Licence: https://creativecommons.org/licenses/by/2.5/"
+  }
+}

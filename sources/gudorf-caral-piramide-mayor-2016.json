@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:gudorf-caral-piramide-mayor-2016",
+  "sourceRefs": [],
+  "title": "Mayor Pyramid and circular enclosure. Caral, Peru.jpg",
+  "creators": [
+    "Jon Gudorf Photography"
+  ],
+  "sourceType": "object",
+  "url": "https://commons.wikimedia.org/wiki/File:Mayor_Pyramid_and_circular_enclosure._Caral,_Peru.jpg",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "published": "2016-10-01",
+  "publisher": "Wikimedia Commons",
+  "bibliographicNote": "License CC BY-SA 2.0 Generic confirmed on the Commons file page. Original photograph posted to Flickr."
+}

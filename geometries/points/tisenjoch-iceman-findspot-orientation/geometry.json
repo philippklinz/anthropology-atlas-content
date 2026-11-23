@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:tisenjoch-iceman-findspot-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:archeoparc-iceman-findspot",
+      "role": "supports",
+      "locator": "Iceman Discovery Site, opening paragraph: N 46°46′44.004″, E 10°50′21.192″"
+    },
+    {
+      "sourceId": "source:south-tyrol-museum-iceman-discovery",
+      "role": "supports",
+      "locator": "Circumstances leading to the find and Discovery site: axe recovered with the body at Tisenjoch, 3,210 m, in 1991"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 200,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung im Fundplatzgebiet.",
+      "en": "Editorial tolerance for orientation within the site area."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundete Koordinate des modernen Fundbereichs am Tisenjoch.",
+    "en": "Rounded coordinate for the modern discovery area at Tisenjoch."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual geographic references."
+  }
+}

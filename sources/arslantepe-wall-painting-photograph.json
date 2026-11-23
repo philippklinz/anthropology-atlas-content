@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:arslantepe-wall-painting-photograph",
+  "sourceRefs": [],
+  "title": "Arslantepe · wall painting in the Malatya Museum",
+  "sourceType": "website",
+  "creators": [
+    "Dosseman"
+  ],
+  "published": "2022",
+  "url": "https://commons.wikimedia.org/wiki/File:Malatya_museum_Arslantepe_wall_paintings_2024.jpg",
+  "containerTitle": "Wikimedia Commons",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "File description, creator credit and CC BY-SA 4.0 licence inspected."
+}

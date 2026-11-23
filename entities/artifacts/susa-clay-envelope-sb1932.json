@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:susa-clay-envelope-sb1932",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:louvre-susa-sb1932",
+      "role": "supports",
+      "locator": "Inventory SB 1932, Description/Features, Physical characteristics and Places and dates: clay sphere, cylinder impressions, 5.1 cm, Susa and broad catalogue dating"
+    },
+    {
+      "sourceId": "source:schmandt-besserat-tokens-and-counting",
+      "role": "supports",
+      "locator": "Fig. 3 and the paragraph on tokens in hollow clay envelopes after 3500 BCE: interpretation of counters as accounting instruments"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Tonkugel mit Siegelabdrücken · Louvre SB 1932",
+    "en": "Clay envelope with seal impressions · Louvre SB 1932"
+  },
+  "summary": {
+    "de": "Die hohle Tonkugel ist 5,1 cm breit. Ihr Äußeres trägt Abdrücke von Rollsiegeln. Kleine Tonmarken gehören zum Fund.",
+    "en": "The hollow clay ball is 5.1 cm across. Its surface bears cylinder-seal impressions. Small clay tokens belong to the find."
+  },
+  "externalIds": {
+    "louvre": "SB 1932"
+  }
+}

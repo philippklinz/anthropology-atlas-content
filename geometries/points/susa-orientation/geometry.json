@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:susa-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-susa-map-2015",
+      "role": "derivation",
+      "locator": "Geographical data, component 1455-001: Susa archaeological complex at 32°11′22.05″ N, 48°15′22.94″ E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1200,
+    "note": {
+      "de": "Der gerundete Kartenpunkt markiert den archäologischen Komplex von Susa.",
+      "en": "The rounded map point marks the archaeological complex at Susa."
+    }
+  },
+  "processingNote": {
+    "de": "Der gerundete Kartenpunkt markiert den archäologischen Komplex von Susa.",
+    "en": "The rounded map point marks the archaeological complex at Susa."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original atlas point based on the cited factual coordinate."
+  }
+}

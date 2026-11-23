@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:met-66-245-10-caravan-account",
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-66-245-10-caravan-account",
+      "role": "supports",
+      "locator": "Object no. 66.245.10, Overview: clay, ca. 20th–19th century BCE and probable Kültepe provenance; object description: caravan costs and Assyrian trade network"
+    },
+    {
+      "sourceId": "source:larsen-met-old-assyrian-texts-1988",
+      "role": "supports",
+      "locator": "text no. 75 (MMA 66.245.10), pp. 98–101, plates 72–73, translation lines 5–37 and Remarks: tin, textiles, seven donkeys, fodder, equipment, silver outlays and two shipments"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Tontafel 66.245.10 · Karawanenabrechnung",
+    "en": "Clay tablet 66.245.10 · caravan account"
+  },
+  "summary": {
+    "de": "Altassyrische Tontafel mit Angaben zu zwei Lieferungen. Der Brief erfasst unter anderem Zinn, Stoffe, Esel und Ausgaben in abgewogenem Silber.",
+    "en": "An Old Assyrian clay tablet detailing two shipments. The letter covers tin, textiles, donkeys and expenses measured in silver, among other items."
+  }
+}

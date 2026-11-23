@@ -1,0 +1,364 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:marks-seals-and-writing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:louvre-susa-sb1932",
+      "role": "supports",
+      "locator": "Inventory SB 1932, Description/Features, Physical characteristics and Places and dates: clay sphere, cylinder impressions, 5.1 cm, Susa and broad catalogue dating"
+    },
+    {
+      "sourceId": "source:schmandt-besserat-tokens-and-counting",
+      "role": "supports",
+      "locator": "Fig. 3 and the paragraph on tokens in hollow clay envelopes after 3500 BCE: interpretation of counters as accounting instruments"
+    },
+    {
+      "sourceId": "source:cdli-uruk-p001252",
+      "role": "supports",
+      "locator": "Text and Provenance: 4(N01) followed by three signs, language undetermined, Uruk IV attribution, findspot Qa XVI,2 and excavation no. W 09579,d"
+    },
+    {
+      "sourceId": "source:smb-uruk-vat14674",
+      "role": "supports",
+      "locator": "Expert details for VAT 14674: Late Uruk, findspot Uruk (Warka), clay and measurements"
+    },
+    {
+      "sourceId": "source:kelley-et-al-seals-signs-2025",
+      "role": "supports",
+      "locator": "Table 1 and Inter-related systems of symbols: early Uruk IV tablets, numerical notations and continued use of seals"
+    },
+    {
+      "sourceId": "source:baines-cao-early-writing-2024",
+      "role": "supports",
+      "locator": "Section 2, pp. 77–81, Figs. 2–4: Naqada IIIA, c. 3200 BCE, incised tags, painted pots and seal impressions, proposed readings and their limits"
+    },
+    {
+      "sourceId": "source:kahl-hieroglyphic-writing-2001",
+      "role": "supports",
+      "locator": "Sections 1–3, pp. 103–107: Tomb U-j, c. 3320 BCE, bone and ivory labels and alternatives to interpretation of certain sign groups as rulers’ names"
+    }
+  ],
+  "labels": {
+    "de": "Zeichen, Siegel und Schrift",
+    "en": "Marks, Seals and Writing"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:susa-clay-envelope-evidence",
+    "event:uruk-tablet-vat14674-evidence",
+    "event:abydos-tomb-u-j-tags-evidence",
+    "artifact:susa-clay-envelope-sb1932",
+    "artifact:uruk-tablet-vat14674",
+    "artifact:abydos-tomb-u-j-tags",
+    "script:proto-cuneiform",
+    "asset:susa-sb1932-envelope-photo",
+    "asset:uruk-vat14674-tablet-photo"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 40.1,
+      "latitude": 29.6,
+      "metersPerPixel": 6100,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -3499,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -3499,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -2899,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -2899,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "susa",
+      "textAnchor": "susa",
+      "labels": {
+        "de": "Susa · zählen und versiegeln",
+        "en": "Susa · counting and sealing"
+      },
+      "summary": {
+        "de": "Schau auf die Abdrücke in der Tonkugel und die kleinen Marken darunter.",
+        "en": "Look at the impressions on the clay envelope and the small tokens below it."
+      },
+      "state": {
+        "camera": {
+          "longitude": 48.2564,
+          "latitude": 32.1895,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3499,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3499,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -2899,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2899,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:susa-sb1932-envelope-photo"
+    },
+    {
+      "id": "uruk",
+      "textAnchor": "uruk",
+      "labels": {
+        "de": "Uruk · Zeichen auf Ton",
+        "en": "Uruk · marks on clay"
+      },
+      "summary": {
+        "de": "Vergleiche die Reihe der vier Zahlzeichen mit den drei Formen rechts.",
+        "en": "Compare the row of four numerical impressions with the three shapes at right."
+      },
+      "state": {
+        "camera": {
+          "longitude": 45.6372,
+          "latitude": 31.3242,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3379,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3379,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -3169,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3169,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:uruk-vat14674-tablet-photo"
+    },
+    {
+      "id": "abydos",
+      "textAnchor": "abydos",
+      "labels": {
+        "de": "Abydos · angehängte Zeichen",
+        "en": "Abydos · labels on objects"
+      },
+      "summary": {
+        "de": "Kleine Täfelchen mit Löchern verraten, wie Zeichen an einen Gegenstand kommen konnten.",
+        "en": "The holes in small tags show how signs could be attached to an object."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.9084,
+          "latitude": 26.1774,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3369,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3369,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -3149,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3149,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine versiegelte Tonkugel in Susa, eine Tafel aus Uruk und winzige Anhänger aus Abydos zeigen drei Möglichkeiten, Informationen festzuhalten.",
+      "en": "A sealed clay envelope from Susa, a tablet from Uruk and tiny tags from Abydos show three ways of recording information."
+    },
+    "periods": [
+      {
+        "id": "early-cities-networks",
+        "labels": {
+          "de": "Erste Städte, Handel und Schrift",
+          "en": "Early Cities, Trade and Writing"
+        },
+        "description": {
+          "de": "Frühe Städte, Fernhandel und Aufzeichnungen zwischen etwa 4600 und 1800 v. Chr. Die Kapitel vergleichen zeitlich und regional unterschiedliche Entwicklungen.",
+          "en": "Early cities, long-distance exchange and record-keeping from about 4600 to 1800 BCE. The chapters compare developments across different times and regions."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "southwest-asia",
+        "labels": {
+          "de": "Südwestasien",
+          "en": "Southwest Asia"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:abydos-tomb-u-j-tags",
+    "artifact:susa-clay-envelope-sb1932",
+    "artifact:uruk-tablet-vat14674",
+    "assertion:abydos-tomb-u-j-tags-at-abydos-umm-el-qaab",
+    "assertion:proto-cuneiform-at-uruk",
+    "assertion:susa-clay-envelope-sb1932-at-susa",
+    "assertion:uruk-tablet-vat14674-at-uruk",
+    "asset:susa-sb1932-envelope-photo",
+    "asset:uruk-vat14674-tablet-photo",
+    "event:abydos-tomb-u-j-tags-evidence",
+    "event:susa-clay-envelope-evidence",
+    "event:uruk-tablet-vat14674-evidence",
+    "geometry:abydos-cemetery-u-orientation",
+    "geometry:susa-orientation",
+    "geometry:uruk-orientation",
+    "place:abydos-umm-el-qaab",
+    "place:susa",
+    "place:uruk",
+    "script:proto-cuneiform",
+    "source:baines-cao-early-writing-2024",
+    "source:cdli-uruk-p001252",
+    "source:intchron-abydos-cemetery-u",
+    "source:iraq-uruk-nomination-2014",
+    "source:kahl-hieroglyphic-writing-2001",
+    "source:kelley-et-al-seals-signs-2025",
+    "source:louvre-susa-sb1932",
+    "source:nguyen-susa-sb1932-photo-2009",
+    "source:schmandt-besserat-tokens-and-counting",
+    "source:smb-uruk-vat14674",
+    "source:unesco-susa-map-2015",
+    "source:uruk-vat14674-commons-photo"
+  ]
+}

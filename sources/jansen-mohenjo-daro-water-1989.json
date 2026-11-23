@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:jansen-mohenjo-daro-water-1989",
+  "sourceRefs": [],
+  "title": "Water supply and sewage disposal at Mohenjo-Daro",
+  "sourceType": "article",
+  "creators": [
+    "M. Jansen"
+  ],
+  "url": "https://doi.org/10.1080/00438243.1989.9980100",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Architectural survey describing well construction and house-to-street drainage. Full-text copy consulted for page locators.",
+  "published": "1989",
+  "containerTitle": "World Archaeology 21(2), 177–192",
+  "identifiers": {
+    "doi": "10.1080/00438243.1989.9980100"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:larsen-met-old-assyrian-texts-1988",
+  "sourceRefs": [],
+  "title": "Old Assyrian Texts",
+  "sourceType": "book",
+  "creators": [
+    "Mogens Trolle Larsen"
+  ],
+  "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Cuneiform_Texts_in_The_Metropolitan_Museum_of_Art_Volume_I_Tablets_Cones_and_Bricks_of_the_Third_.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "1988",
+  "containerTitle": "Ira Spar (ed.), Cuneiform Texts in The Metropolitan Museum of Art, Volume I",
+  "publisher": "The Metropolitan Museum of Art",
+  "identifiers": {
+    "isbn": "0-87099-495-6"
+  }
+}

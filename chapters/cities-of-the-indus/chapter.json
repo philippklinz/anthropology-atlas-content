@@ -1,0 +1,384 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:cities-of-the-indus",
+  "sourceRefs": [
+    {
+      "sourceId": "source:meadow-kenoyer-harappa-1997",
+      "role": "supports",
+      "locator": "p. 150, Mound ET, Trench 10E, courtyard at east side of street 95 and ceramic attribution to 3B. Fig. 7.6, H95-2491/4690-01, floor/fill."
+    },
+    {
+      "sourceId": "source:beas-survey-harappa-chronology",
+      "role": "supports",
+      "locator": "Table 1, Harappa Phase B (Period 3B), c. 2450–2200 BCE."
+    },
+    {
+      "sourceId": "source:kenoyer-indus-script-2006",
+      "role": "supports",
+      "locator": "Introduction, pp. 9–10, undeciphered sign system and competing interpretations. pp. 10–12, Table 1 and contexts of use."
+    },
+    {
+      "sourceId": "source:kenoyer-indus-measures-2010",
+      "role": "supports",
+      "locator": "Fig. 9.1, geographic context. pp. 109–110, regional use of cubical chert weights and differences within other artefact categories."
+    },
+    {
+      "sourceId": "source:mackay-mohenjo-daro-dk-g-1936",
+      "role": "supports",
+      "locator": "Chapter 5, DK Area G Section, passages c5.15–c5.18, Block 8, room 42, Late II well and subsequent alterations, Plates XIX and XXIe."
+    },
+    {
+      "sourceId": "source:mackay-mohenjo-daro-dk-g-1936",
+      "role": "supports",
+      "locator": "Chapter 5, DK Area G Section, c5.22 and Plate XIX, Block 8, room 50, large brick covers in situ and provisional Late I assignment."
+    },
+    {
+      "sourceId": "source:jansen-mohenjo-daro-water-1989",
+      "role": "supports",
+      "locator": "pp. 177–180, domestic drainage, street drains and wedge-shaped bricks used in round wells."
+    },
+    {
+      "sourceId": "source:green-mohenjo-daro-public-structures-2018",
+      "role": "supports",
+      "locator": "Abstract, broad Indus urban phase around 2600–1900 BCE and discussion of collective action and political organization."
+    },
+    {
+      "sourceId": "source:bisht-dholavira-waterworks-2007",
+      "role": "supports",
+      "locator": "pp. 86–87, diversion of seasonal runoff. pp. 91–93, eastern reservoir dimensions, steps, and proposed Stage III predecessor and Stage IV form."
+    },
+    {
+      "sourceId": "source:icomos-dholavira-2021",
+      "role": "supports",
+      "locator": "pp. 13–14, Description, Stage III c. 2800–2500 BCE and Stage IV c. 2500–2100 BCE."
+    }
+  ],
+  "labels": {
+    "de": "Städte am Indus",
+    "en": "Cities of the Indus"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:harappa-10e-courtyard-seal",
+    "event:mohenjo-daro-block-8-water-evidence",
+    "event:dholavira-eastern-reservoir-phases"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 70.6,
+      "latitude": 27.3,
+      "metersPerPixel": 4400,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -2799,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -2799,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1899,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1899,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "harappa",
+      "textAnchor": "harappa",
+      "labels": {
+        "de": "Harappa · Ein Siegel im Hof",
+        "en": "Harappa · a seal in a courtyard"
+      },
+      "summary": {
+        "de": "Ein Siegel vom Hofboden zeigt Tiermotiv und Zeichen. Keramik hilft, den Fund einzuordnen.",
+        "en": "A seal from a courtyard floor shows an animal motif and signs. Pottery helps date its context."
+      },
+      "state": {
+        "camera": {
+          "longitude": 72.866,
+          "latitude": 30.6264,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -2449,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2449,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -2199,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2199,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "mohenjo-daro",
+      "textAnchor": "mohenjo-daro",
+      "labels": {
+        "de": "Mohenjo-daro · Brunnen und Abfluss",
+        "en": "Mohenjo-daro · well and drain"
+      },
+      "summary": {
+        "de": "In einem Grabungsblock kamen ein Brunnen und eine mit Ziegeln abgedeckte Rinne zum Vorschein.",
+        "en": "One excavation block revealed a well and a channel with its brick covers still in place."
+      },
+      "state": {
+        "camera": {
+          "longitude": 68.1389,
+          "latitude": 27.3292,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -2599,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2599,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1899,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1899,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:mohenjo-daro-brick-well"
+    },
+    {
+      "id": "dholavira",
+      "textAnchor": "dholavira",
+      "labels": {
+        "de": "Dholavira · Wasser auf Vorrat",
+        "en": "Dholavira · storing water"
+      },
+      "summary": {
+        "de": "Ein über siebzig Meter langes Becken zeigt, wie viel Raum die Stadt der Wasserspeicherung gab.",
+        "en": "A basin more than seventy metres long shows how much space the city set aside for water storage."
+      },
+      "state": {
+        "camera": {
+          "longitude": 70.2133,
+          "latitude": 23.8884,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -2799,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2799,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -2099,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2099,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:dholavira-stepped-reservoir"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Siegel, ein Brunnen und ein großes Wasserbecken zeigen, wie verschieden das Stadtleben der Indus-Kultur war. Ansichtsfenster 2800–1900 v. Chr.",
+      "en": "A seal, a well and a large reservoir reveal different sides of Indus urban life. Viewing window 2800–1900 BCE."
+    },
+    "periods": [
+      {
+        "id": "early-cities-networks",
+        "labels": {
+          "de": "Erste Städte, Handel und Schrift",
+          "en": "Early Cities, Trade and Writing"
+        },
+        "description": {
+          "de": "Frühe Städte, Fernhandel und Aufzeichnungen zwischen etwa 4600 und 1800 v. Chr. Die Kapitel vergleichen zeitlich und regional unterschiedliche Entwicklungen.",
+          "en": "Early cities, long-distance exchange and record-keeping from about 4600 to 1800 BCE. The chapters compare developments across different times and regions."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "south-asia",
+        "labels": {
+          "de": "Südasien",
+          "en": "South Asia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "urbanism",
+        "labels": {
+          "de": "Städte und Siedlungen",
+          "en": "Cities and settlements"
+        }
+      },
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "water-management",
+        "labels": {
+          "de": "Wasserbau",
+          "en": "Water management"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:dholavira-eastern-reservoir",
+    "artifact:harappa-courtyard-seal-h95-2491",
+    "artifact:mohenjo-daro-block-8-drain",
+    "artifact:mohenjo-daro-block-8-well",
+    "assertion:dholavira-eastern-reservoir-at-site",
+    "assertion:harappa-courtyard-seal-at-mound-et",
+    "assertion:indus-signs-on-harappa-courtyard-seal",
+    "assertion:mohenjo-daro-block-8-drain-at-site",
+    "assertion:mohenjo-daro-block-8-well-at-site",
+    "asset:dholavira-stepped-reservoir",
+    "asset:mohenjo-daro-brick-well",
+    "event:dholavira-eastern-reservoir-phases",
+    "event:harappa-10e-courtyard-seal",
+    "event:mohenjo-daro-block-8-water-evidence",
+    "geometry:dholavira-orientation",
+    "geometry:harappa-orientation",
+    "geometry:mohenjo-daro-orientation",
+    "place:dholavira",
+    "place:harappa",
+    "place:mohenjo-daro",
+    "script:indus-sign-system",
+    "source:beas-survey-harappa-chronology",
+    "source:bharathan-dholavira-reservoir-photo-2017",
+    "source:bisht-dholavira-waterworks-2007",
+    "source:doam-harappa-location",
+    "source:green-mohenjo-daro-public-structures-2018",
+    "source:icomos-dholavira-2021",
+    "source:jansen-mohenjo-daro-water-1989",
+    "source:kenoyer-indus-measures-2010",
+    "source:kenoyer-indus-script-2006",
+    "source:mackay-mohenjo-daro-dk-g-1936",
+    "source:meadow-kenoyer-harappa-1997",
+    "source:ullah-mohenjo-daro-well-photo-2010",
+    "source:unesco-dholavira-location",
+    "source:unesco-mohenjo-daro-location"
+  ]
+}

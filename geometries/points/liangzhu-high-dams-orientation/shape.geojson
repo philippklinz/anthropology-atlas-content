@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:liangzhu-high-dams-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.904,
+      30.42
+    ]
+  }
+}

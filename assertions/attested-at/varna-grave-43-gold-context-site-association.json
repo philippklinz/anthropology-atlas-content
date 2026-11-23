@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:varna-grave-43-gold-context-site-association",
+  "sourceRefs": [
+    {
+      "sourceId": "source:slavchev-varna-necropolis-2025",
+      "role": "supports",
+      "locator": "pp. 122–123, Varna Necropolis: location of the cemetery, offerings in Grave 43 and graves without human remains"
+    },
+    {
+      "sourceId": "source:krauss-varna-chronology-2017",
+      "role": "supports",
+      "locator": "pp. 283–284, discussion of cemetery database and the uneven distribution of gold objects; p. 293, Grave 43 in the social network analysis"
+    },
+    {
+      "sourceId": "source:higham-varna-ams-2018",
+      "role": "supports",
+      "locator": "Published abstract, preferred model: start 4596–4516 and end 4427–4341 cal BCE (95.4% each); rounded outer envelope used for cemetery context"
+    }
+  ],
+  "subjectId": "artifact:varna-i-grave-43-gold-objects",
+  "predicate": "attested-at",
+  "objectId": "place:varna-i-necropolis",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -4599,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -4339,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Das Gold stammt aus Grab 43. Die Zeitangabe umfasst gerundet die modellierten Außengrenzen der Nutzung des Gräberfelds.",
+    "en": "The gold is from Grave 43. The date range rounds the outer modelled limits for the cemetery's use."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Gold stammt aus Grab 43. Die Zeitangabe umfasst gerundet die modellierten Außengrenzen der Nutzung des Gräberfelds.",
+      "en": "The gold is from Grave 43. The date range rounds the outer modelled limits for the cemetery's use."
+    }
+  }
+}

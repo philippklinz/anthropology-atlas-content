@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:beas-survey-harappa-chronology",
+  "sourceRefs": [],
+  "title": "Introduction to the Beas Research",
+  "sourceType": "website",
+  "creators": [
+    "Beas Landscape and Settlement Survey"
+  ],
+  "url": "https://www.harappa.com/beas/chronology",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Project table ties the material sequence at Harappa to approximate calendar ranges."
+}

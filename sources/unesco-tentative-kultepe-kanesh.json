@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:unesco-tentative-kultepe-kanesh",
+  "sourceRefs": [],
+  "title": "Archaeological Site of Kültepe-Kanesh",
+  "sourceType": "catalog",
+  "creators": [
+    "Permanent Delegation of Turkey to UNESCO"
+  ],
+  "url": "https://whc.unesco.org/en/tentativelists/5905/",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2014",
+  "publisher": "UNESCO World Heritage Centre",
+  "bibliographicNote": "Tentative List submission, including the site's upper mound and lower trading town."
+}

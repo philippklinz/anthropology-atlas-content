@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:van-ess-uruk-eanna-2015",
+  "sourceRefs": [],
+  "title": "Uruk Archaeological City: Main Archaeological Features",
+  "sourceType": "archive",
+  "creators": [
+    "Margarete van Ess"
+  ],
+  "published": "2015",
+  "url": "https://whc.unesco.org/document/169030",
+  "containerTitle": "The Ahwar of Southern Iraq, nomination dossier, Uruk management plan, Section III",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Report attributed within the dossier to the German Archaeological Institute excavation director. The dossier distinguishes several versions of the management material."
+}

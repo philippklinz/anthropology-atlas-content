@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:early-metals-and-exchange",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Kupfer, Gold und Zinn",
+    "en": "Copper, Gold and Tin"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:iceman-copper-axe",
+    "artifact:met-66-245-10-caravan-account",
+    "artifact:varna-i-grave-43-gold-objects",
+    "assertion:iceman-axe-at-tisenjoch-site-association",
+    "assertion:kanesh-caravan-account-context-site-association",
+    "assertion:varna-grave-43-gold-context-site-association",
+    "asset:iceman-axe-reconstruction",
+    "asset:met-66-245-10-caravan-account",
+    "chapter:copper-gold-and-tin",
+    "event:iceman-axe-at-tisenjoch",
+    "event:kanesh-caravan-account-context",
+    "event:varna-grave-43-gold-context",
+    "geometry:kultepe-lower-town-orientation",
+    "geometry:tisenjoch-iceman-findspot-orientation",
+    "geometry:varna-i-necropolis-orientation",
+    "place:kultepe-kanesh",
+    "place:tisenjoch-iceman-findspot",
+    "place:varna-i-necropolis",
+    "source:archeoparc-iceman-findspot",
+    "source:artioli-iceman-copper-2017",
+    "source:ertepinar-kultepe-2020",
+    "source:franzkowiak-iceman-axe-reconstruction-2011",
+    "source:higham-varna-ams-2018",
+    "source:krauss-varna-chronology-2017",
+    "source:larsen-met-old-assyrian-texts-1988",
+    "source:mapcarta-varna-i-location",
+    "source:met-66-245-10-caravan-account",
+    "source:slavchev-varna-necropolis-2025",
+    "source:south-tyrol-museum-iceman-discovery",
+    "source:unesco-tentative-kultepe-kanesh"
+  ],
+  "entryChapterIds": [
+    "chapter:copper-gold-and-tin"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

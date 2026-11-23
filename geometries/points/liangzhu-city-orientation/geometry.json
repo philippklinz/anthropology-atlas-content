@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:liangzhu-city-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-liangzhu-city-location",
+      "role": "derivation",
+      "locator": "Geographical data, 1592-004, N 30°23′43.97″ E 119°59′26.97″, Area of City Site"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1500,
+    "note": {
+      "de": "Redaktionelle Orientierung am Fundort.",
+      "en": "Editorial allowance for locating the site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für den durch die Mauer umgrenzten Stadtbereich.",
+    "en": "Rounded orientation point for the area enclosed by the city wall."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from cited factual coordinates."
+  }
+}

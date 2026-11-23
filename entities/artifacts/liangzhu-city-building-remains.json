@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:liangzhu-city-building-remains",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, chronological sequence preceding Fig. 5 and paragraph after Fig. 5, most city construction 4,900–4,600 cal BP and the approximately 300 ha earthen enclosure"
+    },
+    {
+      "sourceId": "source:liu-liangzhu-waterworks-2017",
+      "role": "supports",
+      "locator": "Results, Fig. 2A, excavation of the rock foundation and earthen wall"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Liangzhu · Mauern und Bauplattformen",
+    "en": "Liangzhu · walls and building platforms"
+  },
+  "summary": {
+    "de": "Aufgeschüttete Bauplattformen im Stadtinneren und eine Mauer aus Erde auf einem Fundament aus Gestein. Die Mauer umschloss etwa 300 Hektar.",
+    "en": "Raised building platforms within the city and an earthen wall over a stone foundation. The wall enclosed about 300 hectares."
+  }
+}

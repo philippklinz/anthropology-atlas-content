@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:higham-varna-ams-2018",
+  "sourceRefs": [],
+  "title": "AMS Dating of the Late Copper Age Varna Cemetery, Bulgaria",
+  "sourceType": "article",
+  "creators": [
+    "Thomas Higham",
+    "Vladimir Slavchev",
+    "Bisserka Gaydarska",
+    "John Chapman"
+  ],
+  "url": "https://doi.org/10.1017/RDC.2018.9",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2018",
+  "containerTitle": "Radiocarbon 60(2), 493–516",
+  "identifiers": {
+    "doi": "10.1017/RDC.2018.9"
+  },
+  "bibliographicNote": "Published abstract gives the preferred model's separate start and end intervals for cemetery use. The manuscript and published abstract differ in the transcription of the start interval. The atlas follows the published abstract."
+}

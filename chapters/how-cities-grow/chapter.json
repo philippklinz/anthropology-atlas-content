@@ -1,0 +1,352 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:how-cities-grow",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ur-tell-brak-urban-form-2014",
+      "role": "supports",
+      "locator": "pp. 51–53, Phase E and Fig. 3.2: c. 4100–3800 BCE, central mound and discrete pottery scatters"
+    },
+    {
+      "sourceId": "source:ur-tell-brak-urban-form-2014",
+      "role": "supports",
+      "locator": "pp. 52–54, Phase F and Fig. 3.3: c. 3800–3300 BCE, estimated extent, expanded clusters and reduced spaces"
+    },
+    {
+      "sourceId": "source:van-ess-uruk-eanna-2015",
+      "role": "supports",
+      "locator": "Uruk management plan, Section III, pp. 56–58, and Stone Cone Building and Plan 2.7: construction, walls and stone cones"
+    },
+    {
+      "sourceId": "source:turkiye-arslantepe-nomination-2019",
+      "role": "supports",
+      "locator": "pp. 82–84, Period VIA: complex, storerooms, clay sealings and distribution vessels"
+    }
+  ],
+  "labels": {
+    "de": "Wie Städte wachsen",
+    "en": "How Cities Grow"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:tell-brak-discrete-settlement-clusters",
+    "event:tell-brak-expanded-settlement",
+    "event:uruk-stone-cone-building-evidence",
+    "event:arslantepe-via-storage-evidence"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 42.2,
+      "latitude": 35.1,
+      "metersPerPixel": 4700,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -4199,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -4199,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -2999,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -2999,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "tell-brak",
+      "textAnchor": "tell-brak",
+      "labels": {
+        "de": "Tell Brak · Wachstum in Scherben",
+        "en": "Tell Brak · growth through potsherds"
+      },
+      "summary": {
+        "de": "Scherben zeigen, wie sich mehrere Siedlungskerne ausdehnten.",
+        "en": "Pottery shows how several clusters of settlement expanded."
+      },
+      "state": {
+        "camera": {
+          "longitude": 41.0583,
+          "latitude": 36.6667,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -4149,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -4149,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -3249,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3249,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:tell-brak-site-view"
+    },
+    {
+      "id": "uruk",
+      "textAnchor": "uruk",
+      "labels": {
+        "de": "Uruk · Ein Hof mit Steinmosaik",
+        "en": "Uruk · a courtyard with stone mosaics"
+      },
+      "summary": {
+        "de": "Ein Rest der Wanddekoration verrät, wie aufwendig Menschen im Zentrum bauten.",
+        "en": "Fragments of wall decoration reveal the care people put into building at the centre."
+      },
+      "state": {
+        "camera": {
+          "longitude": 45.6372,
+          "latitude": 31.3242,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3549,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3549,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -3349,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3349,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:uruk-stone-cone-mosaic"
+    },
+    {
+      "id": "arslantepe",
+      "textAnchor": "arslantepe",
+      "labels": {
+        "de": "Arslantepe · Wer verwaltete den Vorrat?",
+        "en": "Arslantepe · who managed the supplies?"
+      },
+      "summary": {
+        "de": "Gefäße, Abdrücke in Ton und die Lage der Räume geben Einblick in eine zentrale Vorratshaltung.",
+        "en": "Vessels, clay impressions and the position of rooms give clues to centralised storage."
+      },
+      "state": {
+        "camera": {
+          "longitude": 38.3632,
+          "latitude": 38.3828,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3449,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3449,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -3049,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3049,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:arslantepe-wall-painting"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Scherben in Tell Brak, ein Mosaik in Uruk und Vorratsräume in Arslantepe zeigen verschiedene Seiten des frühen Städtewachstums. Ansichtsfenster 4200–3000 v. Chr.",
+      "en": "Sherds at Tell Brak, a mosaic at Uruk and storerooms at Arslantepe show different sides of early urban growth. Viewing window 4200–3000 BCE."
+    },
+    "periods": [
+      {
+        "id": "early-cities-networks",
+        "labels": {
+          "de": "Erste Städte, Handel und Schrift",
+          "en": "Early Cities, Trade and Writing"
+        },
+        "description": {
+          "de": "Frühe Städte, Fernhandel und Aufzeichnungen zwischen etwa 4600 und 1800 v. Chr. Die Kapitel vergleichen zeitlich und regional unterschiedliche Entwicklungen.",
+          "en": "Early cities, long-distance exchange and record-keeping from about 4600 to 1800 BCE. The chapters compare developments across different times and regions."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "southwest-asia",
+        "labels": {
+          "de": "Südwestasien",
+          "en": "Southwest Asia"
+        }
+      },
+      {
+        "id": "mesopotamia",
+        "labels": {
+          "de": "Mesopotamien",
+          "en": "Mesopotamia"
+        }
+      },
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "settlements",
+        "labels": {
+          "de": "Siedlungen",
+          "en": "Settlements"
+        }
+      },
+      {
+        "id": "urbanism",
+        "labels": {
+          "de": "Städte und Siedlungen",
+          "en": "Cities and settlements"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:arslantepe-via-complex",
+    "artifact:tell-brak-survey-sherds",
+    "artifact:uruk-stone-cone-building",
+    "asset:arslantepe-wall-painting",
+    "asset:tell-brak-site-view",
+    "asset:uruk-stone-cone-mosaic",
+    "event:arslantepe-via-storage-evidence",
+    "event:tell-brak-discrete-settlement-clusters",
+    "event:tell-brak-expanded-settlement",
+    "event:uruk-stone-cone-building-evidence",
+    "geometry:arslantepe-orientation",
+    "geometry:tell-brak-orientation",
+    "geometry:uruk-orientation",
+    "place:arslantepe",
+    "place:tell-brak",
+    "place:uruk",
+    "source:arslantepe-wall-painting-photograph",
+    "source:iraq-uruk-nomination-2014",
+    "source:soltysiak-tell-brak-field-report",
+    "source:tell-brak-site-view-photograph",
+    "source:turkiye-arslantepe-nomination-2019",
+    "source:ur-tell-brak-urban-form-2014",
+    "source:uruk-stone-cone-mosaic-photograph",
+    "source:van-ess-uruk-eanna-2015"
+  ]
+}

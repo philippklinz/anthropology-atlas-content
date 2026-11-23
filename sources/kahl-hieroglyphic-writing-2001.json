@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kahl-hieroglyphic-writing-2001",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Hieroglyphic Writing During the Fourth Millennium BC: an Analysis of Systems",
+  "sourceType": "article",
+  "url": "https://archiv.ub.uni-heidelberg.de/propylaeumdok/2634/1/Kahl_Hieroglyphic_Writing_during_the_Fourth_Millenium_BC_2004.pdf",
+  "creators": [
+    "Jochem Kahl"
+  ],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2001",
+  "containerTitle": "Archéo-Nil 11, 101–134",
+  "bibliographicNote": "The article distinguishes incised labels and painted pottery from Tomb U-j, gives its approximate radiocarbon chronology and compares possible readings. The archive filename differs from the issue year printed on the first page."
+}

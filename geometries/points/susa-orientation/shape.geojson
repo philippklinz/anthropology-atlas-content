@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:susa-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.2564,
+      32.1895
+    ]
+  }
+}

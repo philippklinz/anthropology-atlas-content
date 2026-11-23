@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:indus-signs-on-harappa-courtyard-seal",
+  "sourceRefs": [
+    {
+      "sourceId": "source:meadow-kenoyer-harappa-1997",
+      "role": "supports",
+      "locator": "p. 150, Mound ET, Trench 10E, courtyard at east side of street 95 and ceramic attribution to 3B. Fig. 7.6, H95-2491/4690-01, floor/fill."
+    },
+    {
+      "sourceId": "source:beas-survey-harappa-chronology",
+      "role": "supports",
+      "locator": "Table 1, Harappa Phase B (Period 3B), c. 2450–2200 BCE."
+    },
+    {
+      "sourceId": "source:kenoyer-indus-script-2006",
+      "role": "supports",
+      "locator": "Introduction, pp. 9–10, undeciphered sign system and competing interpretations. pp. 10–12, Table 1 and contexts of use."
+    }
+  ],
+  "subjectId": "script:indus-sign-system",
+  "predicate": "attested-at",
+  "objectId": "place:harappa",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -2449,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2199,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Das in Schnitt 10E gefundene Siegel H95-2491 trägt Zeichen. Ihre Bedeutung bleibt offen.",
+    "en": "Seal H95-2491 from Trench 10E bears signs. Their meaning remains unresolved."
+  },
+  "epistemic": {
+    "status": "attested"
+  }
+}

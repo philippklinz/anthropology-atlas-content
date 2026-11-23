@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:uruk-stone-cone-building",
+  "sourceRefs": [
+    {
+      "sourceId": "source:van-ess-uruk-eanna-2015",
+      "role": "supports",
+      "locator": "Uruk management plan, Section III, pp. 56–58, and Stone Cone Building and Plan 2.7: construction, walls and stone cones"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Uruk · Steinstiftgebäude",
+    "en": "Uruk · Stone Cone Building"
+  },
+  "summary": {
+    "de": "Bruchstückhaft erhaltenes Bauwerk in Eanna. Farbige Steinkegel schmückten die Wände am ehemaligen Hof.",
+    "en": "Fragmentary structure in Eanna. Coloured stone cones decorated walls around its former courtyard."
+  }
+}

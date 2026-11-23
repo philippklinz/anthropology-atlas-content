@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:kultepe-lower-town-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.638,
+      38.854
+    ]
+  }
+}

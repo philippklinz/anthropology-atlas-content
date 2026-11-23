@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:aspero-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Material and methods: Study area, WGS84 77°44′31″ W, 10°48′52″ S; Fig. 1"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 350,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung am Fundort.",
+      "en": "Editorial allowance for site orientation."
+    }
+  },
+  "processingNote": {
+    "de": "Die Grad-, Minuten- und Sekundenangabe wurde gerundet. Der Punkt steht für den Fundort insgesamt.",
+    "en": "The published degrees, minutes and seconds were converted and rounded. The point represents the site as a whole."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors",
+    "originNote": "Orientation point from published study-area coordinates."
+  }
+}

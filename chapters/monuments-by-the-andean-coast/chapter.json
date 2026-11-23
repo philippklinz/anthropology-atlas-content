@@ -1,0 +1,372 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:monuments-by-the-andean-coast",
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "supports",
+      "locator": "Section 4, platform and successive plazas, Fig. 12"
+    },
+    {
+      "sourceId": "source:fuchs-sechin-bajo-2009",
+      "role": "supports",
+      "locator": "Section 6.5 and Table 1, samples Hd 29110, Hd 28828, Hd 29045 and Hd 28970"
+    },
+    {
+      "sourceId": "source:shady-caceda-aspero-2008",
+      "role": "supports",
+      "locator": "Huaca de los Ídolos, Sector B, front and Otras ocupaciones, pp. 13–14"
+    },
+    {
+      "sourceId": "source:shady-caceda-aspero-2008",
+      "role": "supports",
+      "locator": "Generalidades: Ocupaciones tempranas; Huaca Alta, Hallazgos (fishing weight)"
+    },
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Results and Table 1, nine Áspero columns; Material and methods: Burial contexts and Table 2"
+    },
+    {
+      "sourceId": "source:shady-haas-creamer-dating-caral-2001",
+      "role": "supports",
+      "locator": "pp. 723–725, platform construction, Shicra fill, plants, marine remains and Figs. 3–4"
+    },
+    {
+      "sourceId": "source:shady-haas-creamer-dating-caral-2001",
+      "role": "supports",
+      "locator": "Table 1 and Fig. 5, ISGS-4711, ISGS-4710, ISGS-4724 and Beta-132593"
+    }
+  ],
+  "labels": {
+    "de": "Gemeinsam bauen an der Andenküste",
+    "en": "Building Together on the Andean Coast"
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -78.05,
+      "latitude": -10.17,
+      "metersPerPixel": 1400,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -3649,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -3649,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1899,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1899,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:sechin-bajo-first-building-evidence",
+    "event:aspero-starch-evidence",
+    "event:caral-piramide-mayor-building-evidence",
+    "artifact:sechin-bajo-first-building",
+    "specimen:aspero-dental-starch-grains",
+    "artifact:aspero-huaca-alta-fishing-weight",
+    "artifact:caral-piramide-mayor",
+    "asset:sechin-bajo-first-building-excavation",
+    "asset:caral-piramide-mayor-view"
+  ],
+  "steps": [
+    {
+      "id": "sechin-bajo",
+      "textAnchor": "sechin-bajo",
+      "labels": {
+        "de": "Sechín Bajo · Platz auf Platz",
+        "en": "Sechín Bajo · plaza within a plaza"
+      },
+      "summary": {
+        "de": "Treppen und Rundmauern zeigen, wie eine Anlage mehrfach umgebaut wurde.",
+        "en": "Stairs and circular walls show how people rebuilt the complex several times."
+      },
+      "state": {
+        "camera": {
+          "longitude": -78.2676,
+          "latitude": -9.4622,
+          "metersPerPixel": 300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3649,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3649,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -2849,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2849,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:sechin-bajo-first-building-excavation"
+    },
+    {
+      "id": "aspero",
+      "textAnchor": "aspero",
+      "labels": {
+        "de": "Áspero · Nahrung an der Küste",
+        "en": "Áspero · food at the coast"
+      },
+      "summary": {
+        "de": "Ein Fischereigewicht und winzige Stärkekörner zeigen, wovon sich die Menschen ernährten.",
+        "en": "A fishing weight and tiny starch grains point to different parts of people's diet."
+      },
+      "state": {
+        "camera": {
+          "longitude": -77.7419,
+          "latitude": -10.8144,
+          "metersPerPixel": 300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -2999,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2999,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1899,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1899,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "caral",
+      "textAnchor": "caral",
+      "labels": {
+        "de": "Caral · Bauen mit Stein und Fasern",
+        "en": "Caral · building with stone and fibre"
+      },
+      "summary": {
+        "de": "Ein Rundplatz und eine gestufte Plattform enthalten Reste aus unterschiedlichen Bauphasen.",
+        "en": "A circular plaza and stepped platform contain remains from different phases."
+      },
+      "state": {
+        "camera": {
+          "longitude": -77.5222,
+          "latitude": -10.8917,
+          "metersPerPixel": 300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -2649,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -2649,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1999,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1999,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:caral-piramide-mayor-view"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Rundplätze, Stärkekörner und Steinfüllungen in drei frühen Siedlungen im heutigen Peru.",
+      "en": "Circular plazas, starch grains and stone fill at three early settlements in present-day Peru."
+    },
+    "periods": [
+      {
+        "id": "early-cities-networks",
+        "labels": {
+          "de": "Erste Städte, Handel und Schrift",
+          "en": "Early Cities, Trade and Writing"
+        },
+        "description": {
+          "de": "Frühe Städte, Fernhandel und Aufzeichnungen zwischen etwa 4600 und 1800 v. Chr. Die Kapitel vergleichen zeitlich und regional unterschiedliche Entwicklungen.",
+          "en": "Early cities, long-distance exchange and record-keeping from about 4600 to 1800 BCE. The chapters compare developments across different times and regions."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "south-america",
+        "labels": {
+          "de": "Südamerika",
+          "en": "South America"
+        }
+      },
+      {
+        "id": "andes",
+        "labels": {
+          "de": "Anden",
+          "en": "Andes"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "settlement",
+        "labels": {
+          "de": "Siedlungen",
+          "en": "Settlements"
+        }
+      },
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "exchange",
+        "labels": {
+          "de": "Austausch",
+          "en": "Exchange"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:aspero-huaca-alta-fishing-weight",
+    "artifact:caral-piramide-mayor",
+    "artifact:sechin-bajo-first-building",
+    "assertion:aspero-dental-starch-at-site",
+    "assertion:aspero-huaca-alta-fishing-weight-at-site",
+    "assertion:caral-piramide-mayor-at-site",
+    "assertion:sechin-bajo-first-building-at-site",
+    "asset:caral-piramide-mayor-view",
+    "asset:sechin-bajo-first-building-excavation",
+    "event:aspero-starch-evidence",
+    "event:caral-piramide-mayor-building-evidence",
+    "event:sechin-bajo-first-building-evidence",
+    "geometry:aspero-orientation",
+    "geometry:caral-orientation",
+    "geometry:sechin-bajo-orientation",
+    "place:aspero",
+    "place:caral",
+    "place:sechin-bajo",
+    "source:fuchs-sechin-bajo-2009",
+    "source:gudorf-caral-piramide-mayor-2016",
+    "source:peru-sechin-bajo-site-coordinates-2010",
+    "source:shady-caceda-aspero-2008",
+    "source:shady-haas-creamer-dating-caral-2001",
+    "source:yseki-aspero-starch-2023",
+    "specimen:aspero-dental-starch-grains"
+  ]
+}

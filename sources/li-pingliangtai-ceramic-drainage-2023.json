@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:li-pingliangtai-ceramic-drainage-2023",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Earliest ceramic drainage system and the formation of hydro-sociality in monsoonal East Asia",
+  "sourceType": "article",
+  "creators": [
+    "Chunxia Li",
+    "Yanpeng Cao",
+    "Chi Zhang",
+    "Ling Qin",
+    "Zhenhua Deng",
+    "Yan Chen",
+    "Shuzheng Zhu",
+    "Wei Li",
+    "Junping Yuan",
+    "Hai Zhang",
+    "Yijie Zhuang"
+  ],
+  "url": "https://doi.org/10.1038/s44221-023-00114-4",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Nature Water 1, 694–704. Open full text, figure captions and the Reporting Summary read from the publisher PDF in UCL Discovery (https://discovery.ucl.ac.uk/id/eprint/10175539/). The article distinguishes dated occupation contexts from dated deposits associated with ceramic pipes. Figure 5b contains no separate image credit or restriction.",
+  "language": "en",
+  "published": "2023-08-14",
+  "identifiers": {
+    "doi": "10.1038/s44221-023-00114-4"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:iceman-copper-axe",
+  "sourceRefs": [
+    {
+      "sourceId": "source:artioli-iceman-copper-2017",
+      "role": "supports",
+      "locator": "Introduction, Fig. 1 (axe components), and Discussion, Late Copper Age metallurgy in Central Italy: the cited 3350–3000 cal BCE shaft-date estimate (2 sigma)"
+    },
+    {
+      "sourceId": "source:artioli-iceman-copper-2017",
+      "role": "supports",
+      "locator": "Discussion, Provenance of the Iceman metal, Fig. 3, and Late Copper Age metallurgy in Central Italy: measured lead isotope ratios, closest southern Tuscan ore matches, production and transport uncertainties"
+    },
+    {
+      "sourceId": "source:south-tyrol-museum-iceman-discovery",
+      "role": "supports",
+      "locator": "Circumstances leading to the find and Discovery site: axe recovered with the body at Tisenjoch, 3,210 m, in 1991"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Ötzis Kupferaxt",
+    "en": "Ötzi’s copper axe"
+  },
+  "summary": {
+    "de": "Ein Beil mit Kupferklinge und Eibenholzstiel. Bleiisotope in der Klinge passen im Vergleich am besten zu Erzen aus der südlichen Toskana.",
+    "en": "An axe with a copper blade and yew handle. In the lead isotope comparison, the blade is closest to ores from southern Tuscany."
+  }
+}

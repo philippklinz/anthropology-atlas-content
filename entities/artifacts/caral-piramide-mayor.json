@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:caral-piramide-mayor",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shady-haas-creamer-dating-caral-2001",
+      "role": "supports",
+      "locator": "pp. 723–725, platform construction, Shicra fill, plants, marine remains and Figs. 3–4"
+    },
+    {
+      "sourceId": "source:shady-haas-creamer-dating-caral-2001",
+      "role": "supports",
+      "locator": "Table 1 and Fig. 5, ISGS-4711, ISGS-4710, ISGS-4724 and Beta-132593"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Caral · Pirámide Mayor und Rundplatz",
+    "en": "Caral · Pirámide Mayor and circular plaza"
+  },
+  "summary": {
+    "de": "Gestufter Plattformbau mit einem tiefer gelegenen Rundplatz davor. Pflanzenfasern aus verschiedenen Schichten wurden datiert.",
+    "en": "Stepped platform complex fronted by a sunken circular plaza. Plant fibres from several layers provided dates."
+  }
+}

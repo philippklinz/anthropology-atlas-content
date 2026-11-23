@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:met-66-245-10-caravan-account",
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-66-245-10-caravan-account",
+      "role": "supports",
+      "locator": "Main object photograph with Public Domain label; accession 66.245.10"
+    }
+  ],
+  "assetType": "image",
+  "file": "met-66-245-10-caravan-account.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Karawanenabrechnung · Keilschrift auf Ton",
+    "en": "Caravan account · cuneiform on clay"
+  },
+  "alt": {
+    "de": "Eine abgerundete, handtellergroße braune Tontafel ist mit engen Reihen keilförmiger Eindrücke bedeckt.",
+    "en": "Dense rows of wedge-shaped impressions cover a rounded, palm-sized brown clay tablet."
+  },
+  "entityIds": [
+    "artifact:met-66-245-10-caravan-account"
+  ],
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "The Metropolitan Museum of Art"
+    ],
+    "attribution": "The Metropolitan Museum of Art, New York, Gift of Mr. and Mrs. J. J. Klejman, 1966 (66.245.10) · Open Access CC0",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/325851",
+    "originNote": "The primary image on the object page is labelled Public Domain. The Met Open Access policy applies CC0 to these images (https://www.metmuseum.org/policies/image-resources). Resized and recompressed without cropping."
+  }
+}

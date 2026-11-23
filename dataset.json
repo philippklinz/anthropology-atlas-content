@@ -8,6 +8,7 @@
     "package:darwin-beagle",
     "package:deglaciation",
     "package:early-american-lifeways",
+    "package:early-andean-monuments",
     "package:early-connections",
     "package:early-crop-paths",
     "package:early-dispersals",
@@ -15,14 +16,19 @@
     "package:early-foodways",
     "package:early-gardens-and-fields",
     "package:early-herds",
+    "package:early-metals-and-exchange",
     "package:early-migrations",
     "package:early-social-life",
     "package:early-technologies",
+    "package:early-urban-places",
+    "package:early-writing-and-accounts",
     "package:east-asian-lifeways",
+    "package:east-asian-urban-lifeways",
     "package:first-circumnavigation",
     "package:human-encounters",
     "package:human-origins",
     "package:ice-age-life",
+    "package:indus-urban-lifeways",
     "package:postglacial-dwellings"
   ]
 }

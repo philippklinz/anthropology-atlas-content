@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:susa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-susa-map-2015",
+      "role": "supports",
+      "locator": "Geographical data, component 1455-001: Susa archaeological complex at 32°11′22.05″ N, 48°15′22.94″ E"
+    },
+    {
+      "sourceId": "source:louvre-susa-sb1932",
+      "role": "supports",
+      "locator": "Inventory SB 1932, Description/Features, Physical characteristics and Places and dates: clay sphere, cylinder impressions, 5.1 cm, Susa and broad catalogue dating"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Susa · Iran",
+    "en": "Susa · Iran"
+  },
+  "summary": {
+    "de": "Archäologischer Fundort mit mehreren Siedlungshügeln im Südwesten des heutigen Iran. Hier fand die französische Grabungsmission die Tonkugel SB 1932.",
+    "en": "Archaeological site with several settlement mounds in present-day southwestern Iran. The French excavation mission recovered the clay envelope SB 1932 here."
+  }
+}

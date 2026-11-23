@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:krauss-varna-chronology-2017",
+  "sourceRefs": [],
+  "title": "Chronology and development of the Chalcolithic necropolis of Varna I",
+  "sourceType": "article",
+  "creators": [
+    "Raiko Krauß",
+    "Clemens Schmid",
+    "David Kirschenheuter",
+    "Jonas Abele",
+    "Vladimir Slavchev",
+    "Bernhard Weninger"
+  ],
+  "url": "https://doi.org/10.4312/dp.44.17",
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "published": "2017",
+  "containerTitle": "Documenta Praehistorica 44, 282–305",
+  "identifiers": {
+    "doi": "10.4312/dp.44.17"
+  }
+}

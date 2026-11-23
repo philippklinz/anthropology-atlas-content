@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:caral-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Material and methods: Study area, WGS84 77°31′20″ W, 10°53′30″ S; Fig. 1"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 450,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung am Fundort.",
+      "en": "Editorial allowance for site orientation."
+    }
+  },
+  "processingNote": {
+    "de": "Die Koordinate des Fundorts wurde aus der Grad-, Minuten- und Sekundenangabe umgerechnet und gerundet.",
+    "en": "The site coordinates were converted from published degrees, minutes and seconds and rounded."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors",
+    "originNote": "Orientation point from published study-area coordinates."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:dholavira-eastern-reservoir-phases",
+  "sourceRefs": [
+    {
+      "sourceId": "source:bisht-dholavira-waterworks-2007",
+      "role": "supports",
+      "locator": "pp. 86–87, diversion of seasonal runoff. pp. 91–93, eastern reservoir dimensions, steps, and proposed Stage III predecessor and Stage IV form."
+    },
+    {
+      "sourceId": "source:icomos-dholavira-2021",
+      "role": "supports",
+      "locator": "pp. 13–14, Description, Stage III c. 2800–2500 BCE and Stage IV c. 2500–2100 BCE."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Dholavira · Phasen des östlichen Wasserbeckens",
+    "en": "Dholavira · phases of the eastern reservoir"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -2799,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2799,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -2099,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2099,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:dholavira-eastern-reservoir",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:dholavira"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:dholavira-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Ein Vorgängerbecken ist laut Grabungsbericht in Stufe III belegt (etwa 2800–2500 v. Chr.). Für die große erhaltene Anlage schlägt der Ausgräber Stufe IV vor (etwa 2500–2100 v. Chr.). Der Zeitraum zeigt die Einordnung der Bauphasen.",
+    "en": "The excavator reports a predecessor basin in Stage III (about 2800–2500 BCE) and proposes Stage IV (about 2500–2100 BCE) for the large surviving form. The range shows the contextual dates of the construction phases."
+  },
+  "epistemic": {
+    "status": "attested"
+  }
+}

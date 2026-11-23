@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:pingliangtai-ceramic-drain-pipes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:li-pingliangtai-ceramic-drainage-2023",
+      "role": "supports",
+      "locator": "Occupation, hydraulic technologies and landscape, Figs. 3 and 5a–b, housing-side ditches and ceramic pipes at the southern gate; Fig. 6, typical segment sizes"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Pingliangtai · tönerne Abflussrohre",
+    "en": "Pingliangtai · ceramic drainage pipes"
+  },
+  "summary": {
+    "de": "Kurze Segmentrohre mit ähnlichen Maßen. Die Grabung legte Rohrreihen am Südtor frei, darunter die Rohre im Graben G29.",
+    "en": "Short pipe sections with similar dimensions. Excavation exposed rows of pipes near the southern gate, including the pipes in ditch G29."
+  },
+  "assetIds": [
+    "asset:pingliangtai-south-gate-drains"
+  ]
+}

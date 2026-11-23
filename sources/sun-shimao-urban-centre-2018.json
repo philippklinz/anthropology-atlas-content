@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:sun-shimao-urban-centre-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The first Neolithic urban center on China's north Loess Plateau: The rise and fall of Shimao",
+  "sourceType": "article",
+  "creators": [
+    "Zhouyong Sun",
+    "Jing Shao",
+    "Li Liu",
+    "Jianxin Cui",
+    "Michael F. Bonomo",
+    "Qinghua Guo",
+    "Xiaohong Wu",
+    "Jiajing Wang"
+  ],
+  "url": "https://doi.org/10.1016/j.ara.2017.02.004",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Archaeological Research in Asia 14, 33–45. Abstract and opening sections of the excavation synthesis read, cross-checked with the open Antiquity review of the subsequent survey and excavation volumes.",
+  "language": "en",
+  "published": "2018-06",
+  "identifiers": {
+    "doi": "10.1016/j.ara.2017.02.004"
+  }
+}

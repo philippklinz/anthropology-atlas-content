@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:aspero",
+  "sourceRefs": [
+    {
+      "sourceId": "source:shady-caceda-aspero-2008",
+      "role": "supports",
+      "locator": "Huaca de los Ídolos, Sector B, front and Otras ocupaciones, pp. 13–14"
+    },
+    {
+      "sourceId": "source:yseki-aspero-starch-2023",
+      "role": "supports",
+      "locator": "Material and methods: Study area, WGS84 77°44′31″ W, 10°48′52″ S; Fig. 1"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Áspero",
+    "en": "Áspero"
+  },
+  "summary": {
+    "de": "Siedlung nahe der Mündung des Supe ins Meer im heutigen Peru. Die Grabungen legten Wohnbereiche, Steinplattformen und Rundplätze frei.",
+    "en": "Settlement near the mouth of the Supe River in present-day Peru. Excavations revealed houses, stone platforms and circular courts."
+  }
+}

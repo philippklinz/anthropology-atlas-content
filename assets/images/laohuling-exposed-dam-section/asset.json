@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:laohuling-exposed-dam-section",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-laohuling-dam-section-2022",
+      "role": "derivation",
+      "locator": "File information and Licensing, Siyuwj own work, 17 September 2022, CC BY-SA 4.0"
+    }
+  ],
+  "assetType": "image",
+  "file": "laohuling-section.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Laohuling · das freigelegte Dammprofil",
+    "en": "Laohuling · the exposed dam section"
+  },
+  "alt": {
+    "de": "Hinter einer großen Glasscheibe liegt das beleuchtete Erdprofil des Laohuling-Damms. Der Schutzbau und die Treppe gehören zur heutigen Ausstellung.",
+    "en": "The illuminated earthen section of the Laohuling dam stands behind a broad glass screen. The shelter and steps are part of the modern display."
+  },
+  "entityIds": [
+    "place:liangzhu-high-dams",
+    "artifact:liangzhu-high-dam-remains"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Siyuwj"
+    ],
+    "attribution": "Siyuwj · Wikimedia Commons · CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laohuling_Site,_2022-09-17_05.jpg",
+    "originNote": "Wikimedia 960 × 640 JPEG version of the original photo, distributed unchanged after retrieval. https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

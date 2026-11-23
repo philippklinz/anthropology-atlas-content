@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-writing-and-accounts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Zeichen, Siegel und Schrift",
+    "en": "Marks, Seals and Writing"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:early-urban-places"
+  ],
+  "recordIds": [
+    "artifact:abydos-tomb-u-j-tags",
+    "artifact:susa-clay-envelope-sb1932",
+    "artifact:uruk-tablet-vat14674",
+    "assertion:abydos-tomb-u-j-tags-at-abydos-umm-el-qaab",
+    "assertion:proto-cuneiform-at-uruk",
+    "assertion:susa-clay-envelope-sb1932-at-susa",
+    "assertion:uruk-tablet-vat14674-at-uruk",
+    "asset:susa-sb1932-envelope-photo",
+    "asset:uruk-vat14674-tablet-photo",
+    "chapter:marks-seals-and-writing",
+    "event:abydos-tomb-u-j-tags-evidence",
+    "event:susa-clay-envelope-evidence",
+    "event:uruk-tablet-vat14674-evidence",
+    "geometry:abydos-cemetery-u-orientation",
+    "geometry:susa-orientation",
+    "place:abydos-umm-el-qaab",
+    "place:susa",
+    "script:proto-cuneiform",
+    "source:baines-cao-early-writing-2024",
+    "source:cdli-uruk-p001252",
+    "source:intchron-abydos-cemetery-u",
+    "source:kahl-hieroglyphic-writing-2001",
+    "source:kelley-et-al-seals-signs-2025",
+    "source:louvre-susa-sb1932",
+    "source:nguyen-susa-sb1932-photo-2009",
+    "source:schmandt-besserat-tokens-and-counting",
+    "source:smb-uruk-vat14674",
+    "source:unesco-susa-map-2015",
+    "source:uruk-vat14674-commons-photo"
+  ],
+  "entryChapterIds": [
+    "chapter:marks-seals-and-writing"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

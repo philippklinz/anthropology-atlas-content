@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:harappa-10e-courtyard-seal",
+  "sourceRefs": [
+    {
+      "sourceId": "source:meadow-kenoyer-harappa-1997",
+      "role": "supports",
+      "locator": "p. 150, Mound ET, Trench 10E, courtyard at east side of street 95 and ceramic attribution to 3B. Fig. 7.6, H95-2491/4690-01, floor/fill."
+    },
+    {
+      "sourceId": "source:beas-survey-harappa-chronology",
+      "role": "supports",
+      "locator": "Table 1, Harappa Phase B (Period 3B), c. 2450–2200 BCE."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Harappa · Siegel aus Schnitt 10E",
+    "en": "Harappa · seal from Trench 10E"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -2449,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -2199,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:harappa-courtyard-seal-h95-2491",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "script:indus-sign-system",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:harappa"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:harappa-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Der Grabungsbericht ordnet das Hofareal anhand der Keramik der Phase 3B zu, ungefähr 2450–2200 v. Chr. Das ist eine Datierung des Fundkontexts.",
+    "en": "Pottery assigns the courtyard area to Phase 3B, about 2450–2200 BCE. This is a date for the context in which the seal was found."
+  },
+  "epistemic": {
+    "status": "attested"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:uruk-vat14674-tablet-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:uruk-vat14674-commons-photo",
+      "role": "derivation",
+      "locator": "Summary and Permission: VAT 14674, original photograph from the Frankfurt exhibition, own work and worldwide public-domain dedication"
+    }
+  ],
+  "assetType": "image",
+  "file": "uruk-vat14674-tablet-photo.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Die Tafel VAT 14674 aus Uruk",
+    "en": "Tablet VAT 14674 from Uruk"
+  },
+  "alt": {
+    "de": "Vorderseite einer kleinen braunen Tontafel. Links vier gleichartige Eindrücke untereinander, rechts drei Zeichen in unterschiedlichen Formen.",
+    "en": "Obverse of a small brown clay tablet. Four similar impressions are arranged vertically at left and three different shapes at right."
+  },
+  "entityIds": [
+    "artifact:uruk-tablet-vat14674"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Anonymous photographer"
+    ],
+    "attribution": "Anonymous photographer · Wikimedia Commons (upload by AndreasPraefcke) · public domain · resized and converted to WebP",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tont%C3%A4felchen_Mesopotamien_3200vChr_1.jpg",
+    "originNote": "Commons marks the self-made photograph as released worldwide into the public domain and grants unrestricted permission where a dedication is unavailable. Complete photograph resized to 947 × 1050 px and converted to WebP."
+  }
+}

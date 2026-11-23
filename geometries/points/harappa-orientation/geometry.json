@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:harappa-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:doam-harappa-location",
+      "role": "supports",
+      "locator": "Harappa, Latitude 30.626363333 and Longitude 72.866035111."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1100,
+    "note": {
+      "de": "Redaktionelle Toleranz für den Orientierungspunkt des Fundplatzes.",
+      "en": "Editorial tolerance for the site orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Punkt des Fundplatzes. Der Grabungsschnitt 10E ist in Abb. 2 des Grabungsberichts eingezeichnet.",
+    "en": "Rounded site point. Figure 2 of the excavation report locates Trench 10E."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual coordinates."
+  }
+}

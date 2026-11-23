@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:kultepe-kanesh",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-tentative-kultepe-kanesh",
+      "role": "supports",
+      "locator": "Description, Lower Town-Karum and Assyrian Trading Colonies Period: trade quarter, housing and network context"
+    },
+    {
+      "sourceId": "source:ertepinar-kultepe-2020",
+      "role": "supports",
+      "locator": "p. 101, Table 4.1, WGS84 positions of selected lower town structures (KT3–KT11); rounded orientation point within this part of the site"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Kültepe / Kaneš · Zentralanatolien",
+    "en": "Kültepe / Kaneš · central Anatolia"
+  },
+  "summary": {
+    "de": "Fundplatz des antiken Kaneš in der heutigen Türkei. In der Unterstadt lebten und arbeiteten anatolische und assyrische Händler.",
+    "en": "Site of ancient Kaneš in present-day Türkiye. Anatolian and Assyrian merchants lived and worked in the lower town."
+  }
+}
