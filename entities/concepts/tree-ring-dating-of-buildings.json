@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:tree-ring-dating-of-buildings",
+  "sourceRefs": [
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Introduction and Fig. 2: dating of lakeshore archaeological timbers by dendrochronology and plan of construction dates"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Datieren mit Jahresringen",
+    "en": "Dating with tree rings"
+  },
+  "summary": {
+    "de": "Jahresringe variieren in der Breite. Forschende vergleichen Abfolgen aus Holzfunden mit datierten Ringmustern. Erhaltene äußere Ringe können die Datierung bis ins Fälljahr eingrenzen.",
+    "en": "The widths of annual growth rings vary. Researchers compare sequences from timbers with dated ring patterns. Surviving outer rings can narrow a date to the year of felling."
+  }
+}

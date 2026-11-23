@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:asikli-hoyuk",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction: Levels 5 and 4 ca. 10,400–10,000 cal BP, Level 3 ca. 10,000–9,700 cal BP, Level 2 ca. 9,700–9,300 cal BP"
+    },
+    {
+      "sourceId": "source:kalkan-asikli-location-2024",
+      "role": "supports",
+      "locator": "Geolocation of the Case Study Area: Kızılkaya near Aksaray, 38.3484° N, 34.2302° E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Aşıklı Höyük · Zentralanatolien",
+    "en": "Aşıklı Höyük · Central Anatolia"
+  },
+  "summary": {
+    "de": "Frühneolithischer Siedlungshügel am Melendiz. In seinen Schichten blieben Tierknochen, Dung, Siedlungsreste und lösliche Salze erhalten.",
+    "en": "Early Neolithic mound beside the Melendiz. Its layers preserve bones, dung, domestic structures and soluble salts."
+  },
+  "assetIds": [
+    "asset:asikli-hoyuk-tell"
+  ]
+}

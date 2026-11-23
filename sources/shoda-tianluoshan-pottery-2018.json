@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:shoda-tianluoshan-pottery-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Molecular and isotopic evidence for the processing of starchy plants in Early Neolithic pottery from China",
+  "creators": [
+    "Shinya Shoda",
+    "Alexandre Lucquin",
+    "Chi Ian Sou",
+    "Yastami Nishida",
+    "Guoping Sun",
+    "Hiroshi Kitano",
+    "Joon-ho Son",
+    "Shinichi Nakamura",
+    "Oliver E. Craig"
+  ],
+  "url": "https://doi.org/10.1038/s41598-018-35227-4",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Scientific Reports 8, 17044. Geography in the final paragraph of the Introduction and Fig. 1: 30°01′N, 121°22′E. Its vessel samples and datings are separate from the spikelet-base study. The article is used here for location.",
+  "sourceType": "article",
+  "published": "2018-11-20",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1038/s41598-018-35227-4"
+  }
+}

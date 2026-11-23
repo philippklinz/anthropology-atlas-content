@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:zeidi-conard-chogha-lithics-2013",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Chipped stone artifacts from the aceramic Neolithic site of Chogha Golan, Ilam Province, western Iran",
+  "sourceType": "book",
+  "creators": [
+    "Mohsen Zeidi",
+    "Nicholas J. Conard"
+  ],
+  "published": "2013",
+  "language": "en",
+  "url": "https://www.researchgate.net/publication/326480042_Chipped_stone_artifacts_from_the_aceramic_Neolithic_site_of_Chogha_Golan_Ilam_Province_western_Iran",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "In F. Borrell, J. J. Ibáñez and M. Molist (eds.), Stone Tools in Transition: From Hunter-Gatherers to Farming Societies in the Near East. pp. 315–326. Excavation account, section 1 gives coordinates and occupation context."
+}

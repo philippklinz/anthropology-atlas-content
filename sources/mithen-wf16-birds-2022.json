@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:mithen-wf16-birds-2022",
+  "sourceRefs": [],
+  "title": "Birds as indicators of early Holocene biodiversity and the seasonal nature of human activity at WF16, an early Neolithic site in Faynan, Southern Jordan",
+  "creators": [
+    "Steven Mithen et al."
+  ],
+  "sourceType": "article",
+  "published": "2022",
+  "containerTitle": "Journal of Quaternary Science",
+  "url": "https://doi.org/10.1002/jqs.3429",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Published full text consulted for seasonal occurrence of avian taxa and the authors’ proposed pattern of human use. No population count encoded.",
+  "identifiers": {
+    "doi": "10.1002/jqs.3429"
+  }
+}

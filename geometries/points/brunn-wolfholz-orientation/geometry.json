@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:brunn-wolfholz-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nikitin-brunn-2-2019",
+      "role": "supports",
+      "locator": "p. 3, Materials and Methods, Brunn 2 archaeological site: WGS84 site coordinate, oldest part dated to c. 5670–5450 cal BCE by 16 radiocarbon dates, coarse early pottery"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 600,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung auf der Grundkarte.",
+      "en": "Editorial tolerance for orientation on the basemap."
+    }
+  },
+  "processingNote": {
+    "de": "Aus der veröffentlichten Koordinate [16.291722, 48.120396] des Fundplatzkomplexes gerundet.",
+    "en": "Rounded from the published coordinate [16.291722, 48.120396] of the excavation complex."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual coordinates."
+  }
+}

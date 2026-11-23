@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:gathering-cultivation-domestication",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:arranz-otaegui-qarassa-cereals-2016",
+      "role": "supports",
+      "locator": "Introduction and Cereal Domestication: cultivation, population traits and the limits of identifying cereals from rachis fragments"
+    },
+    {
+      "sourceId": "source:weide-chogha-wild-grasses-2018",
+      "role": "supports",
+      "locator": "Introduction and Discussion: wild-grass gathering and alternative interpretations of the early Chogha Golan plant sequence"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Sammeln, anbauen und domestizieren",
+    "en": "Gathering, cultivating and domesticating"
+  },
+  "summary": {
+    "de": "Sammeln und Anbauen bezeichnen menschliche Tätigkeiten. Domestikation bezeichnet Veränderungen vererbter Merkmale in einer Pflanzenpopulation über viele Generationen. Anbau kann diesen Wandel beeinflussen.",
+    "en": "Gathering and cultivation are human activities. Domestication is a change in inherited traits across generations in a plant population. Cultivation can influence that change."
+  }
+}

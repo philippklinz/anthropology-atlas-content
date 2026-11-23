@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tell-qarassa-north-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.413,
+      32.833
+    ]
+  }
+}

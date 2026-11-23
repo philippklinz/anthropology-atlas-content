@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:styring-hornstaad-farming-2016",
+  "sourceRefs": [],
+  "title": "Cultivation of choice: new insights into farming practices at Neolithic lakeshore sites",
+  "sourceType": "article",
+  "creators": [
+    "Amy Styring",
+    "Ursula Maier",
+    "Elisabeth Stephan",
+    "Helmut Schlichtherle",
+    "Amy Bogaard"
+  ],
+  "url": "https://doi.org/10.15184/aqy.2015.192",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Primary crop analysis using the dendrochronology published by Billamboz (2006), and the village fire layer analysed by Maier. Fig. 2 credits Arno Harwath for the drawing and Amy Styring for modifications. The article supplies a CC BY 4.0 reuse statement.",
+  "published": "2016-02-17",
+  "identifiers": {
+    "doi": "10.15184/aqy.2015.192"
+  },
+  "containerTitle": "Antiquity 90(349), 95–110"
+}

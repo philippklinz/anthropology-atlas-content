@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:weide-chogha-emmer-2015",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Using new morphological criteria to identify domesticated emmer wheat at the aceramic Neolithic site of Chogha Golan (Iran)",
+  "creators": [
+    "Alexander Weide",
+    "Simone Riehl",
+    "Mohsen Zeidi",
+    "Nicholas J. Conard"
+  ],
+  "published": "2015",
+  "sourceType": "article",
+  "url": "https://doi.org/10.1016/j.jas.2015.01.013",
+  "identifiers": {
+    "doi": "10.1016/j.jas.2015.01.013"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Journal of Archaeological Science 57, 109–118. Accepted manuscript, sections 2.2 and 4 and comparison of modern and archaeobotanical chaff, with a direct cereal grain date anchoring horizon II."
+}

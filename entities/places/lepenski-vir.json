@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:lepenski-vir",
+  "sourceRefs": [
+    {
+      "sourceId": "source:boric-lepenski-chronology-2019",
+      "role": "supports",
+      "locator": "p. 29, model 1 and Fig. 11: individual 95% ranges for start and end of architectural phase I–II; pp. 43–44: floors, hearths and the settlement sequence"
+    },
+    {
+      "sourceId": "source:ramsar-lepenski-vir-relocation",
+      "role": "supports",
+      "locator": "Lepenski Vir, p. 44: relocation of excavated house remains approximately 100 m downstream and 30 m higher before inundation"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Lepenski Vir · Eisernes Tor",
+    "en": "Lepenski Vir · Iron Gates"
+  },
+  "summary": {
+    "de": "Frühgeschichtlicher Fundplatz an der Donau im heutigen Serbien. Teile seiner ausgegrabenen Architektur sind heute in einem höher gelegenen Schutzbau zu sehen.",
+    "en": "Prehistoric site beside the Danube in present-day Serbia. Excavated parts of its architecture are displayed under a shelter on higher ground."
+  }
+}

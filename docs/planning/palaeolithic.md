@@ -109,7 +109,7 @@ Um den gesamten Zeitbereich langfristig abzudecken, bleiben drei Prolog-Aufträg
 
 Weitere mögliche Vertiefungen sind Menschen und Hunde, frühe Keramik, Bekleidung sowie regionale Lebenswelten in Ostasien und Sahul. Sie werden erst eigenständig, wenn eine konkrete Leitfrage und genügend überprüfbare Befunde eine eigene Leseeinheit tragen. Eine Religion, Sprache oder ethnische Gruppe wird nicht aus einer archäologischen Werkzeugkategorie erfunden.
 
-Als folgende Reihe bietet sich **„Neue Lebensweisen nach der Kaltzeit“** an: regionale Wege zu länger bewohnten Orten, Anbau und Tierhaltung sowie fortbestehende mobile Lebensweisen. Kapitel können zu beiden Suchbereichen passen. Eine globale Leiter vom Jagen über den Ackerbau zur Stadt wird daraus nicht.
+Die folgenden Kapitel [„Neue Lebensweisen nach der Kaltzeit“](postglacial-lifeways.md) vergleichen regionale Wege zu länger bewohnten Orten, Anbau und Tierhaltung sowie fortbestehende mobile Lebensweisen. „Wenn das Eis weicht“ erscheint in beiden Suchbereichen.
 
 ## Lesbarkeit, Verknüpfungen und Arbeitsfolge
 

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nabunken-torihama-site-59006",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "鳥浜貝塚 · Archaeological site record 59006",
+  "creators": [
+    "Nara National Research Institute for Cultural Properties"
+  ],
+  "url": "https://heritagemap.nabunken.go.jp/statistic/59006-%E9%B3%A5%E6%B5%9C%E8%B2%9D%E5%A1%9A.html",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "The heritage map's world-geodetic latitude 35.5547 and longitude 135.9009 identify the shell midden locality. The record links excavation report 33146. The geographic entry is distinct from the museum location.",
+  "sourceType": "catalog",
+  "language": "ja",
+  "identifiers": {
+    "site": "59006"
+  }
+}

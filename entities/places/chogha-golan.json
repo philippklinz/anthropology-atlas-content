@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:chogha-golan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:zeidi-conard-chogha-lithics-2013",
+      "role": "supports",
+      "locator": "p. 316, Setting and chronology: 33°22′38.50″ N and 46°16′15.93″ E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Chogha Golan · Iran",
+    "en": "Chogha Golan · Iran"
+  },
+  "summary": {
+    "de": "Siedlungshügel am Konjan Cham im westlichen Zagrosvorland. Ein tiefer Grabungsschnitt erschloss elf archäologische Horizonte.",
+    "en": "Settlement mound beside the Konjan Cham in the western Zagros foothills. A deep section exposed eleven archaeological horizons."
+  }
+}

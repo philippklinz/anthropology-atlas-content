@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:tianluoshan-rice-cultivation-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "supports",
+      "locator": "pp. 1607–1609, three Tianluoshan contexts K3 level 7, layers 8–7 and layers 6–5; Fig. 2; supplement, Chronometric Data and Fig. S1"
+    },
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "supports",
+      "locator": "pp. 1608–1609, spikelet-base classification and domestic-type percentages; Figs. 3–4 and S2; supplement, Sampling and Quantification of spikelet bases"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tianluoshan · Hinweise auf Reisanbau",
+    "en": "Tianluoshan · evidence for rice cultivation"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 6900,
+      "younger": 6900,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 6600,
+      "younger": 6600,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "specimen:tianluoshan-rice-spikelet-bases",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:tianluoshan"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tianluoshan-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Zeitlicher Rahmen der drei verglichenen Fundphasen. Reis und Nüsse datierten die Schichten. Es handelt sich um einen Abschnitt der örtlichen Entwicklung.",
+    "en": "Time window of the three compared phases. Rice and nuts dated the contexts. This is one part of the site's development."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Veränderte Merkmalsanteile und Begleitpflanzen stützen Anbau und eine fortschreitende Domestikation. Die Zusammensetzung der Proben hängt auch von Ablagerung und Erhaltung ab.",
+      "en": "Changes in trait proportions and accompanying plants support cultivation and ongoing domestication. Deposition and preservation also affect sample composition."
+    }
+  }
+}

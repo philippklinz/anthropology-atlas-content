@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:enghoff-van-neer-takarkori-location-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "A subfossil spirostreptid millipede from SW Libya (Diplopoda, Spirostreptida, Spirostreptidae)",
+  "sourceType": "article",
+  "creators": [
+    "Henrik Enghoff",
+    "Wim Van Neer"
+  ],
+  "url": "https://doi.org/10.1080/00222933.2020.1866092",
+  "published": "2021",
+  "identifiers": {
+    "doi": "10.1080/00222933.2020.1866092"
+  },
+  "bibliographicNote": "Journal of Natural History 54(41–42), pp. 2733–2741. Issue volume dated 2020, online 2021. In the site introduction, the authors report approximate locality coordinates for the field samples."
+}

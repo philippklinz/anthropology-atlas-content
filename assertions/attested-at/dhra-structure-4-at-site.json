@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:dhra-structure-4-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:kuijt-finlayson-dhra-storage-2009",
+      "role": "supports",
+      "locator": "pp. 10967–10968, Structure 4, phase I and Figs. 2–5: upright stones, burned wood, inferred floor, construction and abandonment"
+    },
+    {
+      "sourceId": "source:colledge-et-al-dhra-plants-2018",
+      "role": "supports",
+      "locator": "Abstract, archaeobotanical results and comparison of barley grain dimensions: cultivation proposed, with uncertainty over the meaning of storage remains"
+    }
+  ],
+  "subjectId": "artifact:dhra-structure-4",
+  "predicate": "attested-at",
+  "objectId": "place:dhra",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 11300,
+      "younger": 11200,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Kuijt und Finlayson setzen die Anlage der ersten Bauphase auf etwa 11.300–11.200 cal BP. Die erhöhte Lagerfläche ist aus der Anordnung der Steine und den Brandresten erschlossen. Der Bau verrät für sich genommen wenig über die Herkunft der Vorräte.",
+      "en": "Kuijt and Finlayson date construction of the first phase to about 11,300–11,200 cal BP. The arrangement of the stones and the burned remains support a raised storage surface. The building itself says little about how food was obtained."
+    }
+  },
+  "note": {
+    "de": "Kuijt und Finlayson setzen die Anlage der ersten Bauphase auf etwa 11.300–11.200 cal BP. Die erhöhte Lagerfläche ist aus der Anordnung der Steine und den Brandresten erschlossen. Der Bau verrät für sich genommen wenig über die Herkunft der Vorräte.",
+    "en": "Kuijt and Finlayson date construction of the first phase to about 11,300–11,200 cal BP. The arrangement of the stones and the burned remains support a raised storage surface. The building itself says little about how food was obtained."
+  }
+}

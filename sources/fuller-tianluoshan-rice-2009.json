@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:fuller-tianluoshan-rice-2009",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The domestication process and domestication rate in rice: spikelet bases from the Lower Yangtze",
+  "creators": [
+    "Dorian Q. Fuller",
+    "Ling Qin",
+    "Yunfei Zheng",
+    "Zhijun Zhao",
+    "Xugao Chen",
+    "Leo Aoi Hosoya",
+    "Guo-Ping Sun"
+  ],
+  "url": "https://doi.org/10.1126/science.1166605",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Science 323, 1607–1610. UCL author manuscript and supplement read. Uses tree-ring-calibrated AMS radiocarbon ages with Bayesian stratigraphic ordering. Three archaeological sample phases fall around 6,900–6,600 cal BP. Figures and other reproduced content are for personal use only according to the archive record.",
+  "sourceType": "article",
+  "published": "2009-03-20",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1126/science.1166605"
+  }
+}

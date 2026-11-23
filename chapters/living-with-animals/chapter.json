@@ -1,0 +1,376 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:living-with-animals",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction: Levels 5 and 4 ca. 10,400–10,000 cal BP, Level 3 ca. 10,000–9,700 cal BP, Level 2 ca. 9,700–9,300 cal BP"
+    },
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction; Fig. 2A and pp. 2–3: intact trampled dung, possible enclosures and sediment microscopy"
+    },
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "pp. 3–5, Results and Figs. 4–5; pp. 5–8, Discussion and Fig. 6: salt increase, urine model and uncertainty"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "p. 2, settlement chronology, 8,200–7,600 cal BC at 1σ; SI Fig. S3 and Table S2"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 2–3, Archaeozoological Evidence of Goat Domestication in the Central Zagros; Fig. 2A: age and sex distribution"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 3–4, AN Zagros Goat Form Distinct Wild-Affinity and Domestic-Affinity Clusters; Fig. 3; Discussion"
+    },
+    {
+      "sourceId": "source:dunne-takarkori-dairying-2012",
+      "role": "supports",
+      "locator": "Abstract: identification of dairy fats absorbed in Takarkori pottery from the fifth millennium BC"
+    },
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Table 1, Takarkori Middle Pastoral row: phase envelope 5,210–3,660 BCE; Section 1.8 and Fig. 4d use c. 5,200–3,800 BCE"
+    },
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Section 1.8, Fig. 4d and Table 2 (Takarkori Middle Pastoral rows): isotopic grouping, including TAK21A at Δ¹³C −5.8‰"
+    }
+  ],
+  "labels": {
+    "de": "Mit Tieren leben",
+    "en": "Living with Animals"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:asikli-caprine-keeping-evidence",
+    "event:ganj-dareh-goat-management-evidence",
+    "event:takarkori-milk-fat-evidence",
+    "concept:herding-and-domestication"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 29,
+      "latitude": 32,
+      "metersPerPixel": 7800,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -8499,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -8499,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -3599,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -3599,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "asikli-hoyuk",
+      "textAnchor": "asikli-hoyuk",
+      "labels": {
+        "de": "Aşıklı Höyük · Dung und Salze",
+        "en": "Aşıklı Höyük · dung and salts"
+      },
+      "summary": {
+        "de": "Bodenschichten bewahren verdichteten Dung und Salze. Was verraten beide Spuren zusammen über den Aufenthalt von Tieren?",
+        "en": "Layers preserve compacted dung and salts. What can the two clues together tell us about animals spending time at the site?"
+      },
+      "state": {
+        "camera": {
+          "longitude": 34.23,
+          "latitude": 38.348,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -8499,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -8499,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -7249,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -7249,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:asikli-hoyuk-tell"
+    },
+    {
+      "id": "ganj-dareh",
+      "textAnchor": "ganj-dareh",
+      "labels": {
+        "de": "Ganj Dareh · Ziegenknochen und DNA",
+        "en": "Ganj Dareh · goat bones and DNA"
+      },
+      "summary": {
+        "de": "Alter, Geschlecht und Verwandtschaft erzählen unterschiedliche Teile derselben Geschichte. Warum kann eine gehaltene Ziege wie eine Wildziege aussehen?",
+        "en": "Age, sex and genetic affinity tell different parts of the story. Why might a managed goat still resemble a wild one?"
+      },
+      "state": {
+        "camera": {
+          "longitude": 47.5,
+          "latitude": 34.25,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -8299,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -8299,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -7499,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -7499,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "takarkori",
+      "textAnchor": "takarkori",
+      "labels": {
+        "de": "Takarkori · Milchfett im Ton",
+        "en": "Takarkori · milk fat in clay"
+      },
+      "summary": {
+        "de": "Poröser Ton kann Fett bewahren. Was verraten Kohlenstoffisotope über den früheren Inhalt eines Gefäßes?",
+        "en": "Porous pottery can preserve fats. What do carbon isotopes tell us about what once went into the pot?"
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.524,
+          "latitude": 24.536,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -5349,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -5349,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -3549,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3549,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:takarkori-rock-shelter"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Dung, Ziegenknochen und Fettrückstände: Wie lassen sich die ersten Praktiken der Tierhaltung und die Nutzung von Milch erkennen? Drei Fundorte in Westasien und Nordafrika.",
+      "en": "Dung, goat bones and fat residues: how can we recognise early herding practices and the use of milk? Three findsites in Western Asia and North Africa."
+    },
+    "periods": [
+      {
+        "id": "postglacial-lifeways",
+        "labels": {
+          "de": "Neue Lebensweisen nach der Kaltzeit",
+          "en": "New Ways of Living After the Ice Age"
+        },
+        "description": {
+          "de": "Vom Ende der letzten Kaltzeit bis zu frühen bäuerlichen Gemeinschaften. Die Kapitel vergleichen Wohnen, Sammeln, Anbau und Tierhaltung in verschiedenen Regionen. Mesolithikum und Jungsteinzeit bezeichnen regionale Entwicklungen mit unterschiedlichen Zeitgrenzen.",
+          "en": "From the end of the last glacial period to early farming communities. The chapters compare dwelling, foraging, cultivation and herding across regions. The Mesolithic and Neolithic describe regional developments with different time boundaries."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-asia",
+        "labels": {
+          "de": "Westasien",
+          "en": "Western Asia"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "animal-husbandry",
+        "labels": {
+          "de": "Tierhaltung",
+          "en": "Animal husbandry"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:ganj-dareh-hoofprint-brick",
+    "artifact:takarkori-sherd-tak21a",
+    "assertion:asikli-dung-and-salt-samples-at-site",
+    "assertion:ganj-dareh-goat-assemblage-at-site",
+    "assertion:ganj-dareh-hoofprint-brick-at-site",
+    "assertion:takarkori-sherd-tak21a-at-site",
+    "asset:asikli-hoyuk-tell",
+    "asset:takarkori-rock-shelter",
+    "concept:herding-and-domestication",
+    "event:asikli-caprine-keeping-evidence",
+    "event:ganj-dareh-goat-management-evidence",
+    "event:takarkori-milk-fat-evidence",
+    "geometry:asikli-hoyuk-orientation",
+    "geometry:ganj-dareh-orientation",
+    "geometry:takarkori-orientation",
+    "place:asikli-hoyuk",
+    "place:ganj-dareh",
+    "place:takarkori",
+    "source:abell-asikli-urine-salts-2019",
+    "source:commons-asikli-hoyuk-tell",
+    "source:commons-takarkori-rock-shelter",
+    "source:daly-zagros-goat-genomes-2021",
+    "source:dunne-dairying-northern-africa-2018",
+    "source:dunne-takarkori-dairying-2012",
+    "source:enghoff-van-neer-takarkori-location-2021",
+    "source:kalkan-asikli-location-2024",
+    "source:stiner-asikli-caprines-2014",
+    "source:stuckenrath-mielke-ganj-dareh-1973",
+    "source:van-neer-takarkori-fauna-2020",
+    "specimen:asikli-dung-and-salt-samples",
+    "specimen:ganj-dareh-goat-assemblage"
+  ]
+}

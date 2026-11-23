@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tianluoshan-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.367,
+      30.017
+    ]
+  }
+}

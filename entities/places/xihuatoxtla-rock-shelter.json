@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:xihuatoxtla-rock-shelter",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ranere-xihuatoxtla-context-2009",
+      "role": "supports",
+      "locator": "pp. 5014–5015, Fig. 1 and Results: shelter and stratigraphy; p. 5017, maize and squash evidence and Discussion"
+    },
+    {
+      "sourceId": "source:ranere-xihuatoxtla-context-2009",
+      "role": "derivation",
+      "locator": "p. 5014, Fig. 1, shelter north-east of Tlaxmalac in the central Balsas study area"
+    },
+    {
+      "sourceId": "source:semarnat-tlaxmalac-location-2019",
+      "role": "derivation",
+      "locator": "Executive summary, p. 2, Tlaxmalac locality, 18°21′43″ N, 99°24′47″ W"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Xihuatoxtla · Guerrero",
+    "en": "Xihuatoxtla · Guerrero"
+  },
+  "summary": {
+    "de": "Felsüberhang im Einzugsgebiet des Río Balsas mit Mahlgeräten und mikroskopischen Pflanzenresten.",
+    "en": "Rock shelter in the Balsas watershed with milling tools and microscopic plant remains."
+  }
+}

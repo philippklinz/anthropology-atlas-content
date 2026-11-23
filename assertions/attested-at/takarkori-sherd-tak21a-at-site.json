@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:takarkori-sherd-tak21a-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Table 1, Takarkori Middle Pastoral row: phase envelope 5,210–3,660 BCE; Section 1.8 and Fig. 4d use c. 5,200–3,800 BCE"
+    },
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Section 1.8, Fig. 4d and Table 2 (Takarkori Middle Pastoral rows): isotopic grouping, including TAK21A at Δ¹³C −5.8‰"
+    }
+  ],
+  "subjectId": "artifact:takarkori-sherd-tak21a",
+  "predicate": "attested-at",
+  "objectId": "place:takarkori",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -5209,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3659,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Zeitangabe beschreibt den archäologischen Fundzusammenhang.",
+    "en": "The time estimate describes the archaeological context."
+  }
+}

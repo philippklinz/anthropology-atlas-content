@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:brunn-wolfholz-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      16.2917,
+      48.1204
+    ]
+  }
+}

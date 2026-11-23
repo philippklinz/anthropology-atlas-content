@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:abell-asikli-urine-salts-2019",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "Urine salts elucidate Early Neolithic animal management at Aşıklı Höyük, Turkey",
+  "sourceType": "article",
+  "creators": [
+    "Jordan T. Abell",
+    "Jay Quade",
+    "Güneş Duru",
+    "Susan M. Mentzer",
+    "Mary C. Stiner",
+    "Melis Uzdurum",
+    "Mihriban Özbaşaran"
+  ],
+  "url": "https://doi.org/10.1126/sciadv.aaw0038",
+  "published": "2019",
+  "identifiers": {
+    "doi": "10.1126/sciadv.aaw0038"
+  },
+  "bibliographicNote": "Science Advances 5(4), eaaw0038. Introduction gives approximate calibrated layer ages. Results, Discussion and Figs. 2, 4 and 6 set observed dung and salt concentrations apart from modelled urine contributions and inferred intensification."
+}

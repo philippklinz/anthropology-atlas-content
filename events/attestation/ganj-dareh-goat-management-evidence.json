@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ganj-dareh-goat-management-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "p. 2, settlement chronology, 8,200–7,600 cal BC at 1σ; SI Fig. S3 and Table S2"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 2–3, Archaeozoological Evidence of Goat Domestication in the Central Zagros; Fig. 2A: age and sex distribution"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 3–4, AN Zagros Goat Form Distinct Wild-Affinity and Domestic-Affinity Clusters; Fig. 3; Discussion"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 2–3, Fig. 2B and caption: hoof impressions in a mud brick, sample 270, context 2033"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ganj Dareh · frühe Ziegenhaltung",
+    "en": "Ganj Dareh · early goat management"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -8199,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -8199,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -7599,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -7599,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "specimen:ganj-dareh-goat-assemblage",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:daly-zagros-goat-genomes-2021",
+          "role": "supports",
+          "locator": "p. 2, settlement chronology, 8,200–7,600 cal BC at 1σ; SI Fig. S3 and Table S2"
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:ganj-dareh-hoofprint-brick",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:daly-zagros-goat-genomes-2021",
+          "role": "supports",
+          "locator": "pp. 2–3, Fig. 2B and caption: hoof impressions in a mud brick, sample 270, context 2033"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:ganj-dareh"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ganj-dareh-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Altersverteilung, Hufspuren und genetische Daten stützen die Deutung der Ziegenhaltung. Veränderungen im Aussehen wurden später deutlich.",
+      "en": "Age profiles, hoof impressions and genetic data support goat management. Visible changes in morphology became clear later."
+    }
+  },
+  "note": {
+    "de": "Die publizierte Spanne um 8.200–7.600 v. Chr. gibt den kalibrierten Fundkontext auf 1σ-Niveau wieder. Bei untersuchten Ziegenknochen stützen die jüngeren Sterbealter vieler Männchen die Deutung von Herdenhaltung. Die DNA-Analyse an Ganj Dareh und Tepe Abdul Hosein unterscheidet Tiere mit stärkerer Verwandtschaft zu späteren Hausziegen und solche mit größerer Ähnlichkeit zu Wildziegen.",
+    "en": "The published range of around 8,200–7,600 BCE is a calibrated site context at 1σ. The younger ages at death of many males support an inference of herd management. DNA analysis at Ganj Dareh and Tepe Abdul Hosein distinguishes animals with closer affinity to later domestic goats and some closer to wild goats."
+  }
+}

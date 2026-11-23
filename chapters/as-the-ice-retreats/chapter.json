@@ -241,6 +241,17 @@
           "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
           "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
         }
+      },
+      {
+        "id": "postglacial-lifeways",
+        "labels": {
+          "de": "Neue Lebensweisen nach der Kaltzeit",
+          "en": "New Ways of Living After the Ice Age"
+        },
+        "description": {
+          "de": "Vom Ende der letzten Kaltzeit bis zu frühen bäuerlichen Gemeinschaften. Die Kapitel vergleichen Wohnen, Sammeln, Anbau und Tierhaltung in verschiedenen Regionen. Mesolithikum und Jungsteinzeit bezeichnen regionale Entwicklungen mit unterschiedlichen Zeitgrenzen.",
+          "en": "From the end of the last glacial period to early farming communities. The chapters compare dwelling, foraging, cultivation and herding across regions. The Mesolithic and Neolithic describe regional developments with different time boundaries."
+        }
       }
     ],
     "regions": [

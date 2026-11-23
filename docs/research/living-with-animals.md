@@ -1,0 +1,30 @@
+# Living with Animals
+
+Research draft prepared on 23 November 2026. `chapter:living-with-animals` belongs to `package:early-herds` and uses the shared `postglacial-lifeways` discovery group. The chapter compares three kinds of evidence for animal keeping and animal products. Its 8,500–3,600 BCE viewing window arranges separate sites for comparison. The dated context bands describe archaeological deposits and do not imply uninterrupted activity. Locations and conditions are specific to each site.
+
+| Site and context | Evidence used | Source locator |
+| --- | --- | --- |
+| Aşıklı Höyük. Levels 5 and 4 approximately 10,400–10,000 cal BP, Level 3 approximately 10,000–9,700 cal BP, Level 2 approximately 9,700–9,300 cal BP. The equivalent rounded BCE window is about 8,450–7,350 BCE. | Microscopy identifies layers of dung trampled in place, some within areas interpreted as corrals. Salt and nitrogen isotope measurements support urine as a major source of the accumulated soluble salts. Concentrations and estimated urine inputs rise to Level 3, then decline somewhat in Level 2. Human urine, fuel, sedimentation and the supply of other materials matter to the model. Combining it with dung and faunal evidence supports changes in caprine management. No exact animal count is attributed to the samples. | Abell et al., [Science Advances 5, eaaw0038 (2019)](https://doi.org/10.1126/sciadv.aaw0038), p. 1, Fig. 2A, Results and Discussion, Figs. 4–6. Stiner et al., [PNAS 111, 8404–8409 (2014)](https://doi.org/10.1073/pnas.1322723111), chronological context, sex-biased harvesting and in situ dung. |
+| Ganj Dareh. Approximately 8,200–7,600 cal BCE, published 1σ site range. | Goat bones show sex-specific age patterns in five building levels. Younger males were culled more often than females at comparable ages. Sample 270, context 2033, shows probable hoof impressions in a mud brick. Genomes from Ganj Dareh and Tepe Abdul Hosein cluster mostly with later domestic goats, with some closer to wild goats. Bone morphology at this horizon remained wild-like. | Daly et al., [PNAS 118, e2100901118 (2021)](https://doi.org/10.1073/pnas.2100901118), pp. 2–4, settlement dates, archaeozoology and Figs. 2–3. Chronology locators include SI Fig. S3 and Table S2. |
+| Takarkori. Middle Pastoral layers, dated contextual envelope 5,210–3,660 BCE. | Some absorbed fats in pottery match ruminant dairy reference values. At sherd TAK21A, Δ¹³C of C18:0 minus C16:0 is −5.8‰ and the paper classifies it as dairy fat. The sherd's dating is contextual. The chemistry supports use of dairy products in vessels. It leaves species and preparations unresolved at the level of individual samples. | Dunne et al., [Nature 486, 390–394 (2012)](https://doi.org/10.1038/nature11186), abstract; Dunne et al., [Quaternary International 471 Part A, 147–159 (2018)](https://doi.org/10.1016/j.quaint.2017.06.062), Tables 1–2, Section 1.8 and Fig. 4d. Table 1 gives the plotted phase bounds. The description of the sampled phase in Section 1.8 uses c. 5,200–3,800 BCE. |
+
+The primary claims are grounded in Abell's full published paper, Stiner's original PNAS paper, an author-posted full text of Daly et al., and the University of Bristol's copy of Dunne et al. 2018. The abstract of the 2012 Nature paper was accessible, while the full publisher text was unavailable in this environment. The same authors provide an accessible primary presentation of methods and Takarkori data in Dunne et al. 2018, and the expanded Takarkori results are also described in [Documenta Praehistorica 40, 119–130 (2013)](https://doi.org/10.4312/dp.40.10). Kalkan's location paragraph was available in the publisher's index. Its full text was blocked. The location alone is taken from that paragraph.
+
+## Site points and photographs
+
+Coordinates are manually authored orientation points in `[longitude, latitude]` order. The metre values are editorial allowances for the marker location.
+
+| Site | Orientation point | Coordinate source |
+| --- | --- | --- |
+| Aşıklı Höyük | `[34.230, 38.348]`, 400 m | Kalkan, Özbaşaran and Özbal, [Journal of Field Archaeology 49, 301–317 (2024)](https://doi.org/10.1080/00934690.2024.2338621), Geolocation of the Case Study Area, 38.3484° N, 34.2302° E. |
+| Ganj Dareh | `[47.50, 34.25]`, 5 km | Stuckenrath and Mielke, [Radiocarbon 15, 388–424 (1973)](https://doi.org/10.1017/S0033822200001296), p. 398, Tepe Ganj Dareh series, 34°15′ N, 47°30′ E. This early rounded locality is used as an area aid. Archaeological dates come from the 2021 study. |
+| Takarkori | `[10.524, 24.536]`, 500 m | Enghoff and Van Neer, [Journal of Natural History 54, 2733–2741](https://doi.org/10.1080/00222933.2020.1866092), description of the site on p. 2734, approximate 24°32′10″ N, 10°31′25″ E. |
+
+Both photographs depict archaeological sites in modern conditions. Each delivered JPEG is an unchanged copy of the Wikimedia thumbnail. Captions, image content and rights were checked individually.
+
+| Asset | Provenance and rights | Delivered file |
+| --- | --- | --- |
+| `asset:asikli-hoyuk-tell` | Joe Wallace, 26 September 2022. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AshikliHoyuk.jpg), with verified Flickr provenance, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). | 960 × 540, 246,905 bytes. SHA-256 `6d0ffa91747e3f43517a299c75e191abe93f6613d5439effc9fff9c1f2be1796`. |
+| `asset:takarkori-rock-shelter` | Van Neer et al., [PLOS ONE 15, e0228588 (2020), Fig. 5B](https://doi.org/10.1371/journal.pone.0228588.g005), view from the south. The photograph panel was cropped by the [Wikimedia contributor](https://commons.wikimedia.org/wiki/File:Takakori_Rock_Shelter.jpg). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). | 960 × 718, 274,991 bytes. SHA-256 `667e5d3167f9c9ad42099945def276cf289d08e1214a3366d66dce4f033b4dce`. |
+
+The records are drafts. Technical checks cover schema, vocabulary, package ownership, chapter closure and file payloads. The chronology and interpretations remain open to specialist review.

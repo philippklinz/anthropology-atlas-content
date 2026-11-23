@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:boric-price-danube-mobility-2013",
+  "sourceRefs": [],
+  "title": "Strontium isotopes document greater human mobility at the start of the Balkan Neolithic",
+  "sourceType": "article",
+  "creators": [
+    "Dušan Borić",
+    "T. Douglas Price"
+  ],
+  "url": "https://doi.org/10.1073/pnas.1211474110",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Article text checked through an author-posted copy and Cardiff institutional metadata. The authors compare dental enamel ratios with a defined regional range. Outliers provide evidence for mobility subject to the regional baseline; the measurement does not locate an exact origin.",
+  "published": "2013-02-11",
+  "identifiers": {
+    "doi": "10.1073/pnas.1211474110"
+  },
+  "containerTitle": "PNAS 110(9), 3298–3303"
+}

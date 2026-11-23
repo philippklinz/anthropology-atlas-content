@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:riehl-chogha-golan-2013",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Emergence of Agriculture in the Foothills of the Zagros Mountains of Iran",
+  "creators": [
+    "Simone Riehl",
+    "Mohsen Zeidi",
+    "Nicholas J. Conard"
+  ],
+  "published": "2013-07-05",
+  "sourceType": "article",
+  "url": "https://doi.org/10.1126/science.1236743",
+  "identifiers": {
+    "doi": "10.1126/science.1236743"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Science 341(6141), 65–67. Abstract and p. 65 of the publisher's digital edition consulted. Early interpretation of wild plant management and late appearance of domesticated-type emmer."
+}

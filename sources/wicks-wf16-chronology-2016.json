@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:wicks-wf16-chronology-2016",
+  "sourceRefs": [],
+  "title": "Dating WF16: Exploring the Chronology of a Pre-Pottery Neolithic A Settlement in the Southern Levant",
+  "creators": [
+    "Karen Wicks",
+    "Bill Finlayson",
+    "Darko Maričević",
+    "Sam Smith",
+    "Emma Jenkins",
+    "Steven Mithen"
+  ],
+  "sourceType": "article",
+  "published": "2016",
+  "containerTitle": "Proceedings of the Prehistoric Society 82, 73–123",
+  "url": "https://centaur.reading.ac.uk/45376/1/S0079497X15000213a.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "University-hosted version of the published full paper. Chronology of Structure O75, context and CC BY 4.0 photograph. Published online in 2015.",
+  "identifiers": {
+    "doi": "10.1017/ppr.2015.21"
+  }
+}

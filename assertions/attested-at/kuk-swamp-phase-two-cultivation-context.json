@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:kuk-swamp-phase-two-cultivation-context",
+  "sourceRefs": [
+    {
+      "sourceId": "source:denham-kuk-swamp-2003",
+      "role": "supports",
+      "locator": "pp. 190–192, Table 1 and Figs. 2C, 3–4: earliest Phase 2 mounds and 6,950–6,440 cal BP; interpretation of high Musa phytolith frequencies in managed grassland; later phases distinguished"
+    },
+    {
+      "sourceId": "source:denham-golson-hughes-kuk-phase-two-2017",
+      "role": "supports",
+      "locator": "Introduction and Early subphase: contrasting interpretations of evidence c.10,000 years ago; earliest Phase 2 mounds, dates on basal fill charcoal, later subphase separately identified"
+    }
+  ],
+  "subjectId": "specimen:kuk-swamp-phase-two-mound-bases",
+  "predicate": "attested-at",
+  "objectId": "place:kuk-swamp",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 6950,
+      "younger": 6440,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Zeitfenster des frühen Abschnitts von Phase 2 auf Grundlage von Holzkohle aus basalen Verfüllungen. Spätere Phasen mit anderen Wasserbauten liegen außerhalb dieses Altersbereichs.",
+    "en": "Date range for the early part of Phase 2, drawing on charcoal at the base of feature fills. Later water-management phases fall outside this age range."
+  }
+}

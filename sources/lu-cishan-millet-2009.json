@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:lu-cishan-millet-2009",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Earliest domestication of common millet (Panicum miliaceum) in East Asia extended to 10,000 years ago",
+  "creators": [
+    "Houyuan Lu",
+    "Jianping Zhang",
+    "Kam-biu Liu",
+    "Naiqin Wu",
+    "Yumei Li",
+    "Kunshu Zhou",
+    "Maolin Ye",
+    "Tianyu Zhang",
+    "Haijiang Zhang",
+    "Xiaoyan Yang",
+    "Licheng Shen",
+    "Deke Xu",
+    "Quan Li"
+  ],
+  "url": "https://doi.org/10.1073/pnas.0900158106",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PNAS 106(18), 7367–7372. Main text and figure captions read. Early CS-I, III, IV grouping is based on phytoliths and radiocarbon assignments, c. 10,300–8,700 cal BP. Biomolecular results include samples BWG and CS-V-03 from the younger group. Zhao 2011 challenges the older dates.",
+  "sourceType": "article",
+  "published": "2009-05-05",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1073/pnas.0900158106"
+  }
+}

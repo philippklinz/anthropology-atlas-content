@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:nanchoc-ca-09-77-squash-seed",
+  "sourceRefs": [
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "supports",
+      "locator": "pp. 1890–1892 and Table 1: CA-09-77 squash seed Beta 179512, 9240 ± 50 radiocarbon BP, reported 2σ interval 10,403–10,163 cal BP"
+    },
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "supports",
+      "locator": "p. 1890 and Table 1, Beta 219589: the younger squash seed from CA-09-27; p. 1893, discussion of adoption and limits on claimed local domestication"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Ñanchoc · Kürbissame Beta 179512",
+    "en": "Ñanchoc · squash seed Beta 179512"
+  },
+  "summary": {
+    "de": "Direkt radiokarbondatierter Kürbissame aus einem Hausboden in CA-09-77. Die Studie ordnet die Samenfunde des Tals Cucurbita moschata zu.",
+    "en": "Squash seed directly radiocarbon dated from a floor at CA-09-77. The study attributes the valley's squash seed finds to Cucurbita moschata."
+  }
+}

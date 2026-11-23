@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:hornstaad-hoernle-ia-timber",
+  "sourceRefs": [
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Introduction, Hornstaad-Hörnle IA section and Fig. 2–3: 3918–3902 cal BC settlement, 3910 BC fire, grain sampling, identified cereals and fishing equipment"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Hornstaad · Hölzer der Seeufersiedlung",
+    "en": "Hornstaad · lakeshore settlement timbers"
+  },
+  "summary": {
+    "de": "Erhaltene Hölzer und ihre Jahresringfolgen tragen zur Einordnung der Siedlung Hornstaad-Hörnle IA auf 3918–3902 v. Chr. bei. Im Plan sind ältere und jüngere Hausspuren getrennt.",
+    "en": "Preserved timbers and their tree-ring sequences help date Hornstaad-Hörnle IA to 3918–3902 BCE. The plan distinguishes earlier and later building traces."
+  }
+}

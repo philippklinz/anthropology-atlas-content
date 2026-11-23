@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:cishan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lu-cishan-millet-2009",
+      "role": "supports",
+      "locator": "p. 7367, site description: 114°06.720′E, 36°34.511′N"
+    },
+    {
+      "sourceId": "source:lu-cishan-millet-2009",
+      "role": "supports",
+      "locator": "pp. 7367–7369, storage pits and Fig. 1C–D; Fig. 3 and Results, early CS-I, III and IV group"
+    },
+    {
+      "sourceId": "source:zhao-china-archaeobotany-2011",
+      "role": "challenges",
+      "locator": "p. S301, The Origin of Dry-Land Agriculture in North China: exposed pit profiles, uncertain dating material and comparison with earlier excavations"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Cishan · Hebei, China",
+    "en": "Cishan · Hebei, China"
+  },
+  "summary": {
+    "de": "Fundplatz auf einer lössbedeckten Terrasse des Ming-Flusses. Grubenfüllungen enthielten stark zersetzte Pflanzenreste. Die Datierung der ältesten Proben wird unterschiedlich beurteilt.",
+    "en": "A site on a loess-covered terrace of the Ming River. Pit fills contained highly degraded plant remains. The age of the earliest samples is contested."
+  },
+  "assetIds": [
+    "asset:cishan-stone-tools-display"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:eynan-shelter-51-plan",
+  "sourceRefs": [
+    {
+      "sourceId": "source:haklay-gopher-eynan-2015",
+      "role": "derivation",
+      "locator": "Fig. 9, proposed reconstruction of Shelter 51"
+    }
+  ],
+  "assetType": "image",
+  "file": "shelter-51-plan.png",
+  "mediaType": "image/png",
+  "labels": {
+    "de": "Eynan · Rekonstruktionsvorschlag für Bau 51",
+    "en": "Eynan · proposed reconstruction of Shelter 51"
+  },
+  "alt": {
+    "de": "Ein halbkreisförmiger Grundriss mit Steinreihen und einem vorgeschlagenen Trägergerüst. Darunter ein Schnitt durch das rekonstruierte Dach.",
+    "en": "A semicircular plan with rows of stones and a proposed arrangement of roof supports. Below is a cross-section of the reconstructed roof."
+  },
+  "entityIds": [
+    "artifact:eynan-shelters-131-51"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Gil Haklay",
+      "Avi Gopher"
+    ],
+    "attribution": "Haklay and Gopher (2015), PLOS ONE, Fig. 9",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0130121.g009",
+    "originNote": "Unchanged publisher PNG, 982 × 1165. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

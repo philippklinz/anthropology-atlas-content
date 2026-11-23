@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:asikli-hoyuk-tell",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-asikli-hoyuk-tell",
+      "role": "derivation",
+      "locator": "File summary, Licensing and the 960-pixel thumbnail link"
+    }
+  ],
+  "assetType": "image",
+  "file": "asikli-hoyuk-tell.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Aşıklı Höyük · ausgegrabene Mauerreste",
+    "en": "Aşıklı Höyük · excavated walls"
+  },
+  "alt": {
+    "de": "Freigelegte Lehmwände auf dem Siedlungshügel mit Bäumen und Bergen im Hintergrund. Foto aus dem Jahr 2022.",
+    "en": "Excavated earth walls on the settlement mound, with trees and mountains behind. Photograph from 2022."
+  },
+  "entityIds": [
+    "place:asikli-hoyuk"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-2.0",
+    "creators": [
+      "Joe Wallace"
+    ],
+    "attribution": "Joe Wallace · CC BY-SA 2.0 · Wikimedia Commons",
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/AshikliHoyuk.jpg/960px-AshikliHoyuk.jpg",
+    "originNote": "Wikimedia Commons 960-pixel thumbnail, copied unchanged. Joe Wallace's original was published on Flickr. The Commons file description records the reviewed attribution and license. License: https://creativecommons.org/licenses/by-sa/2.0/ . Provenance: https://commons.wikimedia.org/wiki/File:AshikliHoyuk.jpg"
+  }
+}

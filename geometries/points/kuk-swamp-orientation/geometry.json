@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:kuk-swamp-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-kuk-early-agricultural-site-location",
+      "role": "derivation",
+      "locator": "Geographical data table, property 887, S5°47′1.36″ E144°19′54.2″"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Gerundeter Bezugspunkt der UNESCO-Welterbestätte zur Orientierung. Grabungsschnitte und Beetreste haben eigene Standorte.",
+      "en": "Rounded UNESCO World Heritage property point for orientation. Trenches and farming features have their own locations."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Bezugspunkt der UNESCO-Welterbestätte zur Orientierung. Grabungsschnitte und Beetreste haben eigene Standorte.",
+    "en": "Rounded UNESCO World Heritage property point for orientation. Trenches and farming features have their own locations."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original orientation point based on the cited geographic information. The allowance is editorial."
+  }
+}

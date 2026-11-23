@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:sanss-balsas-river-photo-2008",
+  "sourceRefs": [],
+  "title": "Rio Mezcala, Gro, Mex – panoramio.jpg",
+  "sourceType": "website",
+  "creators": [
+    "Rodrigo SanSs"
+  ],
+  "published": "2008-09-05",
+  "url": "https://commons.wikimedia.org/wiki/File:Rio_Mezcala,_Gro,_Mex_-_panoramio.jpg",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Wikimedia Commons file metadata gives the photographer, date, camera location in the Balsas river landscape and the verified CC BY-SA 3.0 license."
+}

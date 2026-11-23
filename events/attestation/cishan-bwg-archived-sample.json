@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cishan-bwg-archived-sample",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lu-cishan-millet-2009",
+      "role": "supports",
+      "locator": "Figs. 2–3 and 5, sample BWG from Cishan Museum"
+    },
+    {
+      "sourceId": "source:zhao-china-archaeobotany-2011",
+      "role": "supports",
+      "locator": "p. S301, sample CS-BWG from the 1970s excavations: 7,671–7,596 cal BP"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Cishan · Museumsprobe CS-BWG",
+    "en": "Cishan · museum sample CS-BWG"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 7671,
+      "younger": 7596,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:cishan-husk-phytoliths",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:cishan"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:cishan-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Datierungsbereich einer bei den früheren Grabungen geborgenen und im Museum verwahrten Probe. Er liegt nahe bei anderen Datierungen aus den früheren Grabungen.",
+    "en": "Date range for a sample recovered during the earlier excavations and stored in the museum. It is close to other dates from the earlier excavations."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Angabe gilt für die analysierte Probe. Sie gibt weder die Nutzungsdauer der Gruben noch den Zeitpunkt der Hirsedomestikation an.",
+      "en": "The estimate applies to the analysed sample. It gives neither pit-use duration nor the date of millet domestication."
+    }
+  }
+}

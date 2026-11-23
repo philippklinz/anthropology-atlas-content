@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:chogha-golan-emmer-chaff-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:riehl-chogha-golan-2013",
+      "role": "supports",
+      "locator": "p. 65, abstract and site introduction: archaeobotanical sequence and appearance of domesticated-type emmer around 9,800 cal BP"
+    },
+    {
+      "sourceId": "source:weide-chogha-emmer-2015",
+      "role": "supports",
+      "locator": "Sections 2.2 and 4: horizon II sediment and dated Triticum-type grain; identifying domesticated-type emmer chaff with modern comparisons"
+    },
+    {
+      "sourceId": "source:weide-chogha-wild-grasses-2018",
+      "role": "supports",
+      "locator": "The site of Chogha Golan and its palaeoecology; Fig. 3 and Discussion: wild grass use, possible management in earlier horizons, and domestic-type emmer in horizons II and I"
+    }
+  ],
+  "subjectId": "specimen:chogha-golan-emmer-chaff",
+  "predicate": "attested-at",
+  "objectId": "place:chogha-golan",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 9800,
+      "younger": 9800,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Um 9.800 cal BP erscheint in der späten Fundfolge Emmer mit Merkmalen domestizierter Ähren. Ein datiertes weizenartiges Korn stützt die zeitliche Einordnung von Horizont II. Die Herkunft der domestizierten Pflanzen bleibt offen.",
+      "en": "Around 9,800 cal BP, emmer with domesticated ear traits appears in the late sequence. A dated wheat-type grain anchors horizon II in time. The origin of these domesticated plants remains open."
+    }
+  },
+  "note": {
+    "de": "Um 9.800 cal BP erscheint in der späten Fundfolge Emmer mit Merkmalen domestizierter Ähren. Ein datiertes weizenartiges Korn stützt die zeitliche Einordnung von Horizont II. Die Herkunft der domestizierten Pflanzen bleibt offen.",
+    "en": "Around 9,800 cal BP, emmer with domesticated ear traits appears in the late sequence. A dated wheat-type grain anchors horizon II in time. The origin of these domesticated plants remains open."
+  }
+}

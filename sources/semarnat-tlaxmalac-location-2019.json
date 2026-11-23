@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:semarnat-tlaxmalac-location-2019",
+  "sourceRefs": [],
+  "title": "Manifestación de impacto ambiental: Puente Vehicular Tlaxmalac",
+  "sourceType": "archive",
+  "creators": [
+    "Secretaría de Medio Ambiente y Recursos Naturales (hosting institution)"
+  ],
+  "published": "2019",
+  "url": "https://dsiappsdev.semarnat.gob.mx/inai/F69/2019/132/4T/12GE2019VD040.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "bibliographicNote": "The report gives the modern locality coordinates, used with Ranere et al. Fig. 1 to orient the shelter in the Balsas watershed."
+}

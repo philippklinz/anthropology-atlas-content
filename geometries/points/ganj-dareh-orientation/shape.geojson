@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ganj-dareh-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.5,
+      34.25
+    ]
+  }
+}

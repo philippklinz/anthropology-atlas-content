@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:kuk-swamp",
+  "sourceRefs": [
+    {
+      "sourceId": "source:denham-kuk-swamp-2003",
+      "role": "supports",
+      "locator": "p. 190, Phase 1 and Fig. 2B; p. 191, Table 1 (10,220–9,910 cal BP); pp. 191–192, early plant use and limits on cultivation inference"
+    },
+    {
+      "sourceId": "source:denham-kuk-swamp-2003",
+      "role": "supports",
+      "locator": "pp. 190–192, Table 1 and Figs. 2C, 3–4: earliest Phase 2 mounds and 6,950–6,440 cal BP; interpretation of high Musa phytolith frequencies in managed grassland; later phases distinguished"
+    },
+    {
+      "sourceId": "source:unesco-kuk-early-agricultural-site-location",
+      "role": "derivation",
+      "locator": "Geographical data table, property 887, S5°47′1.36″ E144°19′54.2″"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Kuk Swamp · Hochland von Neuguinea",
+    "en": "Kuk Swamp · New Guinea highlands"
+  },
+  "summary": {
+    "de": "Feuchtgebiet im oberen Wahgi-Tal im heutigen Papua-Neuguinea. Seine Ablagerungen bewahren unterschiedliche Phasen der Landnutzung.",
+    "en": "Wetland in the upper Wahgi Valley in present-day Papua New Guinea. Its deposits preserve distinct phases of land use."
+  }
+}

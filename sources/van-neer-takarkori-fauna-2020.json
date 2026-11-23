@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:van-neer-takarkori-fauna-2020",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "Aquatic fauna from the Takarkori rock shelter reveals the Holocene central Saharan climate and palaeohydrography",
+  "sourceType": "article",
+  "creators": [
+    "Wim Van Neer",
+    "Francesca Alhaique",
+    "Wim Wouters",
+    "Katrien Dierickx",
+    "Monica Gala",
+    "Quentin Goffette",
+    "Guido S. Mariani",
+    "Andrea Zerboni",
+    "Savino di Lernia"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0228588",
+  "published": "2020",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0228588"
+  },
+  "bibliographicNote": "PLOS ONE 15(2), e0228588. Fig. 5B depicts the rock shelter from the south. Its chronology describes differing activities across the local Holocene sequence."
+}

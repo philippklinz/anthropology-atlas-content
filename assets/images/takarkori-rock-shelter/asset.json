@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:takarkori-rock-shelter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-takarkori-rock-shelter",
+      "role": "derivation",
+      "locator": "File summary, Licensing and the 960-pixel thumbnail link"
+    },
+    {
+      "sourceId": "source:van-neer-takarkori-fauna-2020",
+      "role": "derivation",
+      "locator": "Fig. 5B, south view of Takarkori rock shelter; publisher's article license"
+    }
+  ],
+  "assetType": "image",
+  "file": "takarkori-rock-shelter.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Takarkori · der Felsüberhang bei der Grabung",
+    "en": "Takarkori · the rock shelter during excavation"
+  },
+  "alt": {
+    "de": "Rötliche Felswand mit überhängendem Dach und einer Grabungsfläche. Ein Dreibein steht am Rand der Grabung.",
+    "en": "Reddish rock beneath an overhang and an excavation area. A tripod stands at the edge of the excavation."
+  },
+  "entityIds": [
+    "place:takarkori"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Wim Van Neer",
+      "Francesca Alhaique",
+      "Wim Wouters",
+      "Katrien Dierickx",
+      "Monica Gala",
+      "Quentin Goffette",
+      "Guido S. Mariani",
+      "Andrea Zerboni",
+      "Savino di Lernia"
+    ],
+    "attribution": "Wim Van Neer et al., Fig. 5B · CC BY 4.0 · Wikimedia Commons",
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Takakori_Rock_Shelter.jpg/960px-Takakori_Rock_Shelter.jpg",
+    "originNote": "Wikimedia Commons crop of Van Neer et al. (2020), Fig. 5B, cropped to the photograph panel by the Wikimedia contributor. The atlas copies the 960-pixel Wikimedia thumbnail unchanged. License: https://creativecommons.org/licenses/by/4.0/ . Provenance: https://commons.wikimedia.org/wiki/File:Takakori_Rock_Shelter.jpg"
+  }
+}

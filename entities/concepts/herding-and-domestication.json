@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:herding-and-domestication",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction; Fig. 2A and pp. 2–3: intact trampled dung, possible enclosures and sediment microscopy"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 2–3, Archaeozoological Evidence of Goat Domestication in the Central Zagros; Fig. 2A: age and sex distribution"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 3–4, AN Zagros Goat Form Distinct Wild-Affinity and Domestic-Affinity Clusters; Fig. 3; Discussion"
+    },
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Section 1.8, Fig. 4d and Table 2 (Takarkori Middle Pastoral rows): isotopic grouping, including TAK21A at Δ¹³C −5.8‰"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Tierhaltung, Domestikation und Milchverarbeitung",
+    "en": "Animal husbandry, domestication and milk processing"
+  },
+  "summary": {
+    "de": "Haltung bezeichnet den menschlichen Umgang mit lebenden Tieren. Domestikation beschreibt Veränderungen von Tierpopulationen über Generationen. Milchfettrückstände zeigen die Nutzung eines Produkts. Für jede Aussage gibt es andere Belege.",
+    "en": "Husbandry concerns how people manage live animals. Domestication describes changes in animal populations over generations. Dairy residues show use of a product. Each calls for a different kind of evidence."
+  }
+}

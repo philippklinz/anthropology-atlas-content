@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tianluoshan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:shoda-tianluoshan-pottery-2018",
+      "role": "supports",
+      "locator": "Introduction, final paragraph and Fig. 1: 121°22′E, 30°01′N"
+    },
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "supports",
+      "locator": "pp. 1607–1609, three Tianluoshan contexts K3 level 7, layers 8–7 and layers 6–5; Fig. 2; supplement, Chronometric Data and Fig. S1"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tianluoshan · Zhejiang, China",
+    "en": "Tianluoshan · Zhejiang, China"
+  },
+  "summary": {
+    "de": "Fundplatz in der Küstenebene am unteren Jangtse. Der hohe Grundwasserstand bewahrte unter anderem Holz, Fruchtreste und Reisspreu.",
+    "en": "A site on the coastal plain of the Lower Yangtze. A high water table preserved wood, fruit remains and rice chaff among other material."
+  }
+}

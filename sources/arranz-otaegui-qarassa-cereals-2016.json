@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:arranz-otaegui-qarassa-cereals-2016",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Regional diversity on the timing for the initial appearance of cereal cultivation and domestication in southwest Asia",
+  "creators": [
+    "Amaia Arranz-Otaegui",
+    "Sue Colledge",
+    "Lydia Zapata",
+    "Luis Cesar Teira-Mayolini",
+    "Juan José Ibáñez"
+  ],
+  "published": "2016-12-06",
+  "sourceType": "article",
+  "url": "https://doi.org/10.1073/pnas.1612797113",
+  "identifiers": {
+    "doi": "10.1073/pnas.1612797113"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PNAS 113(49), 14001–14006. Read the study text, and the description and totals of the chaff analysis in the Tell Qarassa North results."
+}

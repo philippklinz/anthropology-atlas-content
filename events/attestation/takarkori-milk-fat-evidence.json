@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:takarkori-milk-fat-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dunne-takarkori-dairying-2012",
+      "role": "supports",
+      "locator": "Abstract: identification of dairy fats absorbed in Takarkori pottery from the fifth millennium BC"
+    },
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Table 1, Takarkori Middle Pastoral row: phase envelope 5,210–3,660 BCE; Section 1.8 and Fig. 4d use c. 5,200–3,800 BCE"
+    },
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Section 1.8, Fig. 4d and Table 2 (Takarkori Middle Pastoral rows): isotopic grouping, including TAK21A at Δ¹³C −5.8‰"
+    },
+    {
+      "sourceId": "source:van-neer-takarkori-fauna-2020",
+      "role": "supports",
+      "locator": "Study site, Results and Fig. 5B: Holocene site sequence and modern rock shelter"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Takarkori · Milchfett in Gefäßscherben",
+    "en": "Takarkori · milk fat in pottery fragments"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -5209,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -5209,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -3659,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3659,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:takarkori-sherd-tak21a",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:dunne-dairying-northern-africa-2018",
+          "role": "supports",
+          "locator": "Table 1, Takarkori Middle Pastoral row: phase envelope 5,210–3,660 BCE; Section 1.8 and Fig. 4d use c. 5,200–3,800 BCE"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:takarkori"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:takarkori-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Deutung als Milchfett beruht auf dem Vergleich der Fettsäurewerte mit Referenzproben.",
+      "en": "Identification as dairy fat rests on comparison with fatty-acid isotope values from reference samples."
+    }
+  },
+  "note": {
+    "de": "Die markierte Spanne folgt der in Tabelle 1 angegebenen Phase des Fundkontexts. Bei einigen Scherben passen die Kohlenstoffisotopenwerte zu Milchfett von Wiederkäuern. Die Daten zeigen Verarbeitung in Gefäßen. Das Rezept und die Tierart einzelner Milchfette bleiben offen.",
+    "en": "The plotted range follows the phase bounds in Table 1. Carbon isotope values in some sherds match ruminant dairy fats. The data show processing in vessels. Specific recipes and the species behind individual dairy fats remain open."
+  }
+}

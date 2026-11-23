@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:hornstaad-wood-at-lakeshore-village",
+  "sourceRefs": [
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Introduction, Hornstaad-Hörnle IA section and Fig. 2–3: 3918–3902 cal BC settlement, 3910 BC fire, grain sampling, identified cereals and fishing equipment"
+    }
+  ],
+  "subjectId": "artifact:hornstaad-hoernle-ia-timber",
+  "predicate": "attested-at",
+  "objectId": "place:hornstaad-hoernle-ia",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -3917,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3917,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": -3901,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3901,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Erhaltene Hölzer und ihre Jahresringfolgen tragen zur Einordnung der Siedlung Hornstaad-Hörnle IA auf 3918–3902 v. Chr. bei. Im Plan sind ältere und jüngere Hausspuren getrennt.",
+    "en": "Preserved timbers and their tree-ring sequences help date Hornstaad-Hörnle IA to 3918–3902 BCE. The plan distinguishes earlier and later building traces."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Erhaltene Hölzer und ihre Jahresringfolgen tragen zur Einordnung der Siedlung Hornstaad-Hörnle IA auf 3918–3902 v. Chr. bei. Im Plan sind ältere und jüngere Hausspuren getrennt.",
+      "en": "Preserved timbers and their tree-ring sequences help date Hornstaad-Hörnle IA to 3918–3902 BCE. The plan distinguishes earlier and later building traces."
+    }
+  }
+}

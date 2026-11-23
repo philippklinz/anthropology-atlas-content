@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:tianluoshan-rice-spikelet-bases",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "supports",
+      "locator": "pp. 1607–1609, three Tianluoshan contexts K3 level 7, layers 8–7 and layers 6–5; Fig. 2; supplement, Chronometric Data and Fig. S1"
+    },
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "supports",
+      "locator": "pp. 1608–1609, spikelet-base classification and domestic-type percentages; Figs. 3–4 and S2; supplement, Sampling and Quantification of spikelet bases"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Tianluoshan · Ansätze der Reisährchen",
+    "en": "Tianluoshan · rice spikelet bases"
+  },
+  "summary": {
+    "de": "Die Bruch- und Ablösestellen wurden in wilde, unreife und domestizierte Formen eingeteilt. Bei den untersuchten Ansätzen stieg der Anteil des domestizierten Typs von rund 27 auf 39 Prozent.",
+    "en": "The attachment scars were classified as wild, immature and domesticated types. Among the studied bases, the domesticated type rose from about 27 to 39 percent."
+  },
+  "assetIds": [
+    "asset:tianluoshan-rice-counts"
+  ]
+}

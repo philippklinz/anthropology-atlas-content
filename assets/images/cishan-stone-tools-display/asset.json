@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:cishan-stone-tools-display",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-cishan-tools-photo",
+      "role": "derivation",
+      "locator": "File description and Licensing, author 我乃野云鹤, CC BY-SA 4.0"
+    }
+  ],
+  "assetType": "image",
+  "file": "cishan-tools.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Steinwerkzeuge aus Cishan · heutige Ausstellung",
+    "en": "Stone tools from Cishan · modern display"
+  },
+  "alt": {
+    "de": "Ausstellungsvitrine mit beschrifteten, unterschiedlich geformten Steinwerkzeugen aus Cishan, darunter Steinbeile. Die Fotografie zeigt den Fundplatz über seine Werkzeuge.",
+    "en": "Museum display of labelled stone tools of different shapes from Cishan, including stone axes. The photograph illustrates the site through its tools."
+  },
+  "entityIds": [
+    "place:cishan"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "我乃野云鹤"
+    ],
+    "attribution": "我乃野云鹤 · Wikimedia Commons · CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cishan_Cultural_1.jpg",
+    "originNote": "Wikimedia 960-pixel re-encoding of the original photograph, unchanged after retrieval. https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

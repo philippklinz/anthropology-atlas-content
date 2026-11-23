@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:commons-takarkori-rock-shelter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "File:Takakori Rock Shelter.jpg",
+  "sourceType": "website",
+  "creators": [
+    "Wim Van Neer",
+    "Francesca Alhaique",
+    "Wim Wouters",
+    "Katrien Dierickx",
+    "Monica Gala",
+    "Quentin Goffette",
+    "Guido S. Mariani",
+    "Andrea Zerboni",
+    "Savino di Lernia"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Takakori_Rock_Shelter.jpg",
+  "published": "2020-02-19",
+  "bibliographicNote": "File description and rights for the delivered CC BY 4.0 photograph. Wikimedia Commons crop of Van Neer et al. (2020), Fig. 5B, cropped to the photograph panel by the Wikimedia contributor. The atlas copies the 960-pixel Wikimedia thumbnail unchanged."
+}

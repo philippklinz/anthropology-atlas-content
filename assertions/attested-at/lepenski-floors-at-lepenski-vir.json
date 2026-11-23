@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:lepenski-floors-at-lepenski-vir",
+  "sourceRefs": [
+    {
+      "sourceId": "source:boric-lepenski-chronology-2019",
+      "role": "supports",
+      "locator": "p. 29, model 1 and Fig. 11: individual 95% ranges for start and end of architectural phase I–II; pp. 43–44: floors, hearths and the settlement sequence"
+    }
+  ],
+  "subjectId": "artifact:lepenski-trapezoid-floors",
+  "predicate": "attested-at",
+  "objectId": "place:lepenski-vir",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -6159,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -6079,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    },
+    "end": {
+      "earliest": {
+        "year": -5979,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -5939,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    },
+    "endMeaning": "ended"
+  },
+  "note": {
+    "de": "Für Phase I–II liegen die modellierten Grenzen bei 6160–6080 v. Chr. für den Anfang und 5980–5940 v. Chr. für das Ende (Modell 1, je 95 %). Dies ist eine Fundplatzphase mit mehreren trapezförmigen Böden, Feuerstellen und Umbauten.",
+    "en": "Model 1 places the start of phase I–II in 6160–6080 BCE and the end in 5980–5940 BCE (95% for each boundary). This phase contains multiple trapezoidal floors, hearths and alterations."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Für Phase I–II liegen die modellierten Grenzen bei 6160–6080 v. Chr. für den Anfang und 5980–5940 v. Chr. für das Ende (Modell 1, je 95 %). Dies ist eine Fundplatzphase mit mehreren trapezförmigen Böden, Feuerstellen und Umbauten.",
+      "en": "Model 1 places the start of phase I–II in 6160–6080 BCE and the end in 5980–5940 BCE (95% for each boundary). This phase contains multiple trapezoidal floors, hearths and alterations."
+    }
+  }
+}

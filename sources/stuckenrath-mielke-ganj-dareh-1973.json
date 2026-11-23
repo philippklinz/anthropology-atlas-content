@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:stuckenrath-mielke-ganj-dareh-1973",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "Smithsonian Institution Radiocarbon Measurements VIII",
+  "sourceType": "article",
+  "creators": [
+    "Robert Stuckenrath",
+    "James E. Mielke"
+  ],
+  "url": "https://doi.org/10.1017/S0033822200001296",
+  "published": "1973",
+  "identifiers": {
+    "doi": "10.1017/S0033822200001296"
+  },
+  "bibliographicNote": "Radiocarbon 15(2), pp. 388–424. The Level E sample series, p. 398, gives the approximate locality reported with Philip E. L. Smith's early excavations. Used for location. The radiocarbon chronology follows Daly et al. 2021."
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:wf16-structure-o75",
+  "sourceRefs": [
+    {
+      "sourceId": "source:wicks-wf16-chronology-2016",
+      "role": "supports",
+      "locator": "Structure O75, Fig. 4, Fig. 21, and Table 2: row O75 strat. model, 68.2% estimates on the lower and upper boundaries"
+    },
+    {
+      "sourceId": "source:mithen-wf16-birds-2022",
+      "role": "supports",
+      "locator": "Abstract and Discussion, seasonality of bird taxa and proposed annual pattern of human activity at WF16"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Wadi Faynan 16 · Bau O75",
+    "en": "Wadi Faynan 16 · Structure O75"
+  },
+  "summary": {
+    "de": "Ein großer eingetiefter Bau mit Lehmputz, Rinne und gestuften Sitzflächen. Größe und Anordnung stützen eine gemeinschaftliche Nutzung als mögliche Deutung.",
+    "en": "Large sunken structure with mud plaster, a trough and tiered benches. The size and layout support communal use as one possible interpretation."
+  }
+}

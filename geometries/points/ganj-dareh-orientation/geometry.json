@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:ganj-dareh-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stuckenrath-mielke-ganj-dareh-1973",
+      "role": "derivation",
+      "locator": "p. 398, Tepe Ganj Dareh series, Iran: 34°15′ N, 47°30′ E, near Qeysevand"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 5000,
+    "note": {
+      "de": "Redaktioneller Spielraum für die Lagehilfe.",
+      "en": "Editorial allowance for the orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Grobe Lagehilfe aus den älteren publizierten Grad- und Minutenangaben. Der Punkt bezeichnet die Fundortumgebung.",
+    "en": "Coarse orientation point converted from the older published degrees and minutes. It represents the area around the site."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from published factual coordinates."
+  }
+}

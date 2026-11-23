@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:brunn-wolfholz-longhouse-traces",
+  "sourceRefs": [
+    {
+      "sourceId": "source:stadler-kotova-vienna-basin-2011",
+      "role": "supports",
+      "locator": "pp. 152–155 and Fig. 4–6: Brunn Wolfholz site groups, old site 2, ground traces, approximate house dimensions and posthole preservation"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Brunn-Wolfholz · Spuren von Langhäusern",
+    "en": "Brunn-Wolfholz · longhouse traces"
+  },
+  "summary": {
+    "de": "Lange Gräben und in gut erhaltenen Siedlungsteilen Pfostenverfärbungen zeichnen Grundrisse nach. Viele Häuser im Komplex hatten ungefähr 20 Meter Länge und sieben bis acht Meter Breite.",
+    "en": "Long trenches and post traces in well-preserved parts of the complex preserve house plans. Many houses across the complex were about 20 metres long and seven to eight metres wide."
+  }
+}

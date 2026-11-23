@@ -1,0 +1,316 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:rice-millet-and-pots",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "supports",
+      "locator": "pp. 1607–1609, three Tianluoshan contexts K3 level 7, layers 8–7 and layers 6–5; Fig. 2; supplement, Chronometric Data and Fig. S1"
+    },
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "supports",
+      "locator": "pp. 1608–1609, spikelet-base classification and domestic-type percentages; Figs. 3–4 and S2; supplement, Sampling and Quantification of spikelet bases"
+    },
+    {
+      "sourceId": "source:lu-cishan-millet-2009",
+      "role": "supports",
+      "locator": "pp. 7367–7369, storage pits and Fig. 1C–D; Fig. 3 and Results, early CS-I, III and IV group"
+    },
+    {
+      "sourceId": "source:lu-cishan-millet-2009",
+      "role": "supports",
+      "locator": "pp. 7368–7370, Results, Figs. 2 and 5, and Discussion: comparative husk phytoliths; biomolecular results on younger samples BWG and CS-V-03"
+    },
+    {
+      "sourceId": "source:zhao-china-archaeobotany-2011",
+      "role": "challenges",
+      "locator": "p. S301, The Origin of Dry-Land Agriculture in North China: exposed pit profiles, uncertain dating material and comparison with earlier excavations"
+    },
+    {
+      "sourceId": "source:zhao-china-archaeobotany-2011",
+      "role": "supports",
+      "locator": "p. S301, sample CS-BWG from the 1970s excavations: 7,671–7,596 cal BP"
+    },
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3991–3993, Torihama, Results and Table 1: Initial Jōmon subset 11.1–8.0 ka cal BP"
+    },
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3992–3995, Results, Table 1 and Fig. 3B–C: aquatic biomarkers and different signals across sampled periods; Discussion: other preserved foods"
+    }
+  ],
+  "labels": {
+    "de": "Reis, Hirse und frühe Gefäße",
+    "en": "Rice, Millet and Early Pots"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:tianluoshan-rice-cultivation-evidence",
+    "event:cishan-early-millet-date-claim",
+    "event:cishan-bwg-archived-sample",
+    "event:torihama-initial-jomon-aquatic-residues",
+    "concept:cultivation-and-plant-domestication",
+    "concept:pottery-residues-and-foodways",
+    "asset:tianluoshan-rice-counts",
+    "asset:cishan-stone-tools-display"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 125.5,
+      "latitude": 33.5,
+      "metersPerPixel": 7600,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 11100,
+        "younger": 11100,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 6600,
+        "younger": 6600,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "tianluoshan",
+      "textAnchor": "tianluoshan",
+      "labels": {
+        "de": "Tianluoshan · Anbau am unteren Jangtse",
+        "en": "Tianluoshan · cultivation on the Lower Yangtze"
+      },
+      "summary": {
+        "de": "Vergleiche die Merkmale der Ährchenansätze mit dem Anteil von Reis unter den gezählten Pflanzenresten.",
+        "en": "Compare the spikelet-base traits with the proportion of rice among counted plant remains."
+      },
+      "state": {
+        "camera": {
+          "longitude": 121.367,
+          "latitude": 30.017,
+          "metersPerPixel": 1100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 6900,
+            "younger": 6900,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 6600,
+            "younger": 6600,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:tianluoshan-rice-counts"
+    },
+    {
+      "id": "cishan",
+      "textAnchor": "cishan",
+      "labels": {
+        "de": "Cishan · Hirse in Gruben",
+        "en": "Cishan · millet in pits"
+      },
+      "summary": {
+        "de": "Die Schalenreste helfen bei der Bestimmung der Pflanze. Zwei Datierungsbefunde zeigen, warum der Fundzusammenhang zählt.",
+        "en": "Husk remains help identify the plant. Two age estimates show why the context matters."
+      },
+      "state": {
+        "camera": {
+          "longitude": 114.112,
+          "latitude": 36.575,
+          "metersPerPixel": 1400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 10300,
+            "younger": 10300,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 7500,
+            "younger": 7500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:cishan-stone-tools-display"
+    },
+    {
+      "id": "torihama",
+      "textAnchor": "torihama",
+      "labels": {
+        "de": "Torihama · was Töpfe beim Kochen aufnehmen",
+        "en": "Torihama · what pots absorb during cooking"
+      },
+      "summary": {
+        "de": "Verkohlte Beläge und Fettspuren zeigen, welche Lebensmittel in einigen Gefäßen erhitzt wurden.",
+        "en": "Charred deposits and fat residues reveal foods that were heated in some vessels."
+      },
+      "state": {
+        "camera": {
+          "longitude": 135.9009,
+          "latitude": 35.5547,
+          "metersPerPixel": 1300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 11100,
+            "younger": 11100,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 8000,
+            "younger": 8000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Pflanzenreste am Jangtse, Vorratsgruben in Nordchina und Rückstände in japanischen Töpfen. Drei Fundorte zeigen, wie unterschiedlich Menschen in den Jahrtausenden nach der Kaltzeit Lebensmittel gewannen und verarbeiteten.",
+      "en": "Plant remains on the Yangtze, storage pits in northern China, and residues in Japanese pots. Three sites show different ways of obtaining and preparing food in the millennia after the ice age."
+    },
+    "periods": [
+      {
+        "id": "postglacial-lifeways",
+        "labels": {
+          "de": "Neue Lebensweisen nach der Kaltzeit",
+          "en": "New Ways of Living After the Ice Age"
+        },
+        "description": {
+          "de": "Vom Ende der letzten Kaltzeit bis zu frühen bäuerlichen Gemeinschaften. Die Kapitel vergleichen Wohnen, Sammeln, Anbau und Tierhaltung in verschiedenen Regionen. Mesolithikum und Jungsteinzeit bezeichnen regionale Entwicklungen mit unterschiedlichen Zeitgrenzen.",
+          "en": "From the end of the last glacial period to early farming communities. The chapters compare dwelling, foraging, cultivation and herding across regions. The Mesolithic and Neolithic describe regional developments with different time boundaries."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:torihama-pottery-sample",
+    "assertion:cishan-bwg-pit-remains-at-site",
+    "assertion:tianluoshan-rice-bases-at-site",
+    "assertion:torihama-initial-pottery-at-site",
+    "asset:cishan-stone-tools-display",
+    "asset:tianluoshan-rice-counts",
+    "concept:cultivation-and-plant-domestication",
+    "concept:pottery-residues-and-foodways",
+    "event:cishan-bwg-archived-sample",
+    "event:cishan-early-millet-date-claim",
+    "event:tianluoshan-rice-cultivation-evidence",
+    "event:torihama-initial-jomon-aquatic-residues",
+    "geometry:cishan-orientation",
+    "geometry:tianluoshan-orientation",
+    "geometry:torihama-shell-midden-orientation",
+    "place:cishan",
+    "place:tianluoshan",
+    "place:torihama-shell-midden",
+    "source:commons-cishan-tools-photo",
+    "source:fuller-tianluoshan-rice-2009",
+    "source:lu-cishan-millet-2009",
+    "source:lucquin-torihama-pottery-2016",
+    "source:nabunken-torihama-site-59006",
+    "source:shoda-tianluoshan-pottery-2018",
+    "source:zhao-china-archaeobotany-2011",
+    "specimen:cishan-husk-phytoliths",
+    "specimen:tianluoshan-rice-spikelet-bases"
+  ]
+}

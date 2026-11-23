@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:unesco-kuk-early-agricultural-site-location",
+  "sourceRefs": [],
+  "title": "Kuk Early Agricultural Site: Maps",
+  "sourceType": "website",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "published": "2008",
+  "url": "https://whc.unesco.org/en/list/887/maps/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Geographical data for inscribed World Heritage property 887. The central point stands for site orientation, not the position of a trench or prehistoric feature."
+}

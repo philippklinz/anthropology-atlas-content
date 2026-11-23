@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:haklay-gopher-eynan-2015",
+  "sourceRefs": [],
+  "title": "A New Look at Shelter 131/51 in the Natufian Site of Eynan (Ain-Mallaha), Israel",
+  "creators": [
+    "Gil Haklay",
+    "Avi Gopher"
+  ],
+  "sourceType": "article",
+  "published": "2015",
+  "containerTitle": "PLOS ONE 10(7), e0130121",
+  "url": "https://doi.org/10.1371/journal.pone.0130121",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Published PDF read. Case study reanalysing structural relationships and proposing a reconstruction. Precise attribution and license of figure 9 are recorded on the asset.",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0130121"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ganj-dareh-hoofprint-brick",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 2–3, Fig. 2B and caption: hoof impressions in a mud brick, sample 270, context 2033"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "p. 2, settlement chronology, 8,200–7,600 cal BC at 1σ; SI Fig. S3 and Table S2"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Lehmziegel mit Hufspuren · Probe 270",
+    "en": "Mud brick with hoof impressions · sample 270"
+  },
+  "summary": {
+    "de": "Daly et al. zeigen mehrere Vertiefungen, die sie als Hufabdrücke deuten. Der Fund gibt einen weiteren Hinweis auf Tiere im Siedlungsbereich.",
+    "en": "Daly et al. show impressions they interpret as hoofprints. The find provides another clue to animals within the settlement."
+  }
+}

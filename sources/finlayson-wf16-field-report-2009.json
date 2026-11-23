@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:finlayson-wf16-field-report-2009",
+  "sourceRefs": [],
+  "title": "New excavations at WF16, a Pre-Pottery Neolithic A site in southern Jordan",
+  "creators": [
+    "Bill Finlayson",
+    "Steven Mithen",
+    "Mohammed Najjar",
+    "Emma Jenkins",
+    "Sam Smith"
+  ],
+  "sourceType": "article",
+  "published": "2009",
+  "containerTitle": "Antiquity 83(319), Project Gallery",
+  "url": "https://www.antiquity.ac.uk/projgall/finlayson319",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Field team report consulted for the map grid reference and site setting."
+}

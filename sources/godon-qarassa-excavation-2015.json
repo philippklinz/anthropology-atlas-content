@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:godon-qarassa-excavation-2015",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Qarassa North Tell, Southern Syria: The Pottery Neolithic and Chalcolithic sequence. A few lights against a dark background",
+  "creators": [
+    "Martin Godon",
+    "Johnny Samuele Baldi",
+    "Gh. Ghanem",
+    "Juan José Ibáñez",
+    "Frank Braemer"
+  ],
+  "published": "2015",
+  "sourceType": "article",
+  "url": "https://doi.org/10.3406/paleo.2015.5660",
+  "identifiers": {
+    "doi": "10.3406/paleo.2015.5660"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Paléorient 41(1), 153–176. p. 154 distinguishes the northern and southern mounds and gives the site coordinates."
+}

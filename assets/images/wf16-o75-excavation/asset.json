@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:wf16-o75-excavation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:wicks-wf16-chronology-2016",
+      "role": "derivation",
+      "locator": "Fig. 4 and figure caption"
+    }
+  ],
+  "assetType": "image",
+  "file": "o75-excavation.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Wadi Faynan 16 · Grabung von O75",
+    "en": "Wadi Faynan 16 · excavation of O75"
+  },
+  "alt": {
+    "de": "Aufnahme der freigelegten Fläche im April 2009. Vorn der Boden von O75, dahinter die Ablagerung O60.",
+    "en": "Photograph of the exposed area in April 2009. The floor of O75 is in the foreground and the O60 deposit lies behind it."
+  },
+  "entityIds": [
+    "artifact:wf16-structure-o75"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Karen Wicks et al."
+    ],
+    "attribution": "Wicks et al. (2016), Proceedings of the Prehistoric Society, Fig. 4",
+    "sourceUrl": "https://doi.org/10.1017/ppr.2015.21",
+    "originNote": "Unchanged embedded JPEG, 965 × 552, extracted from the public PDF. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

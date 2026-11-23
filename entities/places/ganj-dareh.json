@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:ganj-dareh",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "p. 2, settlement chronology, 8,200–7,600 cal BC at 1σ; SI Fig. S3 and Table S2"
+    },
+    {
+      "sourceId": "source:stuckenrath-mielke-ganj-dareh-1973",
+      "role": "supports",
+      "locator": "p. 398, Tepe Ganj Dareh series, Iran: 34°15′ N, 47°30′ E, near Qeysevand"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Ganj Dareh · Zagros",
+    "en": "Ganj Dareh · Zagros"
+  },
+  "summary": {
+    "de": "Siedlungshügel im zentralen Zagros im heutigen Iran. Die Tierknochen erlauben Vergleiche von Altersprofilen und genetischer Abstammung.",
+    "en": "Settlement mound in the central Zagros in present-day Iran. Its animal bones allow comparison of age profiles and genetic ancestry."
+  }
+}

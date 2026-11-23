@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:lepenski-vir-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.317,
+      44.556
+    ]
+  }
+}

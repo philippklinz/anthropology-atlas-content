@@ -1,0 +1,309 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:gathering-storing-sowing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:kuijt-finlayson-dhra-storage-2009",
+      "role": "supports",
+      "locator": "pp. 10967–10968, Structure 4, phase I and Figs. 2–5: upright stones, burned wood, inferred floor, construction and abandonment"
+    },
+    {
+      "sourceId": "source:colledge-et-al-dhra-plants-2018",
+      "role": "supports",
+      "locator": "Abstract, archaeobotanical results and comparison of barley grain dimensions: cultivation proposed, with uncertainty over the meaning of storage remains"
+    },
+    {
+      "sourceId": "source:arranz-otaegui-qarassa-cereals-2016",
+      "role": "supports",
+      "locator": "pp. 14003–14004, The Evidence of Cereal Domestication at Tell Qarassa North: area XYZ-67/68/69, 732 fragments, 305 classifiable, 427 unclassified; early Pre-Pottery Neolithic B dates and reference to Tables S3–S5"
+    },
+    {
+      "sourceId": "source:arranz-otaegui-qarassa-landscape-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript section 4.1 (area XYZ occupation and patio) and section 6.2 (crop ecology and earlier phases I–IV)"
+    },
+    {
+      "sourceId": "source:riehl-chogha-golan-2013",
+      "role": "supports",
+      "locator": "p. 65, abstract and site introduction: archaeobotanical sequence and appearance of domesticated-type emmer around 9,800 cal BP"
+    },
+    {
+      "sourceId": "source:weide-chogha-emmer-2015",
+      "role": "supports",
+      "locator": "Sections 2.2 and 4: horizon II sediment and dated Triticum-type grain; identifying domesticated-type emmer chaff with modern comparisons"
+    },
+    {
+      "sourceId": "source:weide-chogha-wild-grasses-2018",
+      "role": "supports",
+      "locator": "The site of Chogha Golan and its palaeoecology; Fig. 3 and Discussion: wild grass use, possible management in earlier horizons, and domestic-type emmer in horizons II and I"
+    }
+  ],
+  "labels": {
+    "de": "Sammeln, lagern, säen",
+    "en": "Gathering, Storing and Sowing"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:dhra-structure-4-evidence",
+    "artifact:dhra-structure-4",
+    "event:qarassa-cereal-chaff-evidence",
+    "specimen:qarassa-cereal-chaff",
+    "event:chogha-golan-emmer-chaff-evidence",
+    "specimen:chogha-golan-emmer-chaff",
+    "asset:chogha-golan-site-profile",
+    "concept:gathering-cultivation-domestication"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 40.5,
+      "latitude": 33,
+      "metersPerPixel": 4200,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 11700,
+        "younger": 11700,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 9500,
+        "younger": 9500,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "dhra",
+      "textAnchor": "dhra",
+      "labels": {
+        "de": "Dhra′ · Vorräte über dem Boden",
+        "en": "Dhra′ · stores above ground"
+      },
+      "summary": {
+        "de": "Steine mit Kerben und verkohltes Holz helfen, einen erhöhten Boden zu rekonstruieren.",
+        "en": "Notched stones and charred wood help reconstruct a raised floor."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.58,
+          "latitude": 31.25,
+          "metersPerPixel": 520,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 11400,
+            "younger": 11400,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 11100,
+            "younger": 11100,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "tell-qarassa-north",
+      "textAnchor": "tell-qarassa-north",
+      "labels": {
+        "de": "Tell Qarassa North · Veränderte Ähren",
+        "en": "Tell Qarassa North · changed ears"
+      },
+      "summary": {
+        "de": "Bruchstellen an kleinen Pflanzenresten geben Hinweise auf die Veränderung von Getreidepopulationen.",
+        "en": "Breaks on small plant fragments offer clues about changes in cereal populations."
+      },
+      "state": {
+        "camera": {
+          "longitude": 36.413,
+          "latitude": 32.833,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 10800,
+            "younger": 10800,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 10100,
+            "younger": 10100,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "chogha-golan",
+      "textAnchor": "chogha-golan",
+      "labels": {
+        "de": "Chogha Golan · Emmer in den oberen Schichten",
+        "en": "Chogha Golan · emmer in the upper layers"
+      },
+      "summary": {
+        "de": "Suche Horizont II im rechten Teil der Abbildung. Hier zeigt die Spreu Merkmale domestizierten Emmers.",
+        "en": "Find horizon II on the right of the figure. Chaff from this late layer shows domesticated emmer traits."
+      },
+      "state": {
+        "camera": {
+          "longitude": 46.271,
+          "latitude": 33.377,
+          "metersPerPixel": 1550,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 10300,
+            "younger": 10300,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 9500,
+            "younger": 9500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:chogha-golan-site-profile"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Speicher am Toten Meer, Bruchspuren an Getreide in Syrien und Emmer aus dem Zagros. Drei Fundorte zeigen, wie Anbau und Domestikation sichtbar werden.",
+      "en": "A store by the Dead Sea, marks on cereal remains in Syria and emmer from the Zagros. Three sites show how cultivation and domestication can be recognised."
+    },
+    "periods": [
+      {
+        "id": "postglacial-lifeways",
+        "labels": {
+          "de": "Neue Lebensweisen nach der Kaltzeit",
+          "en": "New Ways of Living After the Ice Age"
+        },
+        "description": {
+          "de": "Vom Ende der letzten Kaltzeit bis zu frühen bäuerlichen Gemeinschaften. Die Kapitel vergleichen Wohnen, Sammeln, Anbau und Tierhaltung in verschiedenen Regionen. Mesolithikum und Jungsteinzeit bezeichnen regionale Entwicklungen mit unterschiedlichen Zeitgrenzen.",
+          "en": "From the end of the last glacial period to early farming communities. The chapters compare dwelling, foraging, cultivation and herding across regions. The Mesolithic and Neolithic describe regional developments with different time boundaries."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      },
+      {
+        "id": "southwest-asia",
+        "labels": {
+          "de": "Südwestasien",
+          "en": "Southwest Asia"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:dhra-structure-4",
+    "assertion:chogha-golan-emmer-chaff-at-site",
+    "assertion:dhra-structure-4-at-site",
+    "assertion:qarassa-cereal-chaff-at-site",
+    "asset:chogha-golan-site-profile",
+    "concept:gathering-cultivation-domestication",
+    "event:chogha-golan-emmer-chaff-evidence",
+    "event:dhra-structure-4-evidence",
+    "event:qarassa-cereal-chaff-evidence",
+    "geometry:chogha-golan-orientation",
+    "geometry:dhra-orientation",
+    "geometry:tell-qarassa-north-orientation",
+    "place:chogha-golan",
+    "place:dhra",
+    "place:tell-qarassa-north",
+    "source:arranz-otaegui-qarassa-cereals-2016",
+    "source:arranz-otaegui-qarassa-landscape-2017",
+    "source:colledge-et-al-dhra-plants-2018",
+    "source:godon-qarassa-excavation-2015",
+    "source:kuijt-finlayson-dhra-storage-2009",
+    "source:riehl-chogha-golan-2013",
+    "source:weide-chogha-emmer-2015",
+    "source:weide-chogha-wild-grasses-2018",
+    "source:zeidi-conard-chogha-lithics-2013",
+    "specimen:chogha-golan-emmer-chaff",
+    "specimen:qarassa-cereal-chaff"
+  ]
+}

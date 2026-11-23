@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "concept:pottery-residues-and-foodways",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3992–3995, Results, Table 1 and Fig. 3B–C: aquatic biomarkers and different signals across sampled periods; Discussion: other preserved foods"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Speisereste in Gefäßen",
+    "en": "Food residues in pottery"
+  },
+  "summary": {
+    "de": "Keramik kann bei der Nutzung Fette aufnehmen. Auch verkohlte Beläge geben Hinweise auf verarbeitete Lebensmittel. Knochen, Samen und Schalen aus derselben Siedlung können einen anderen Teil der Ernährung sichtbar machen.",
+    "en": "Ceramic absorbs fats during use. Charred deposits also reveal evidence of foods processed in vessels. Bones, seeds and shells from the same site can reveal other parts of the diet."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:xihuatoxtla-plant-microremains",
+  "sourceRefs": [
+    {
+      "sourceId": "source:piperno-xihuatoxtla-microremains-2009",
+      "role": "supports",
+      "locator": "pp. 5019–5023, Table 1 and Figs. 1–2: maize starch and cob phytoliths, Cucurbita rind phytoliths, deeper levels and domestication criteria"
+    },
+    {
+      "sourceId": "source:ranere-xihuatoxtla-context-2009",
+      "role": "supports",
+      "locator": "p. 5015, Results and Fig. 3: layer D charcoal at 65 cm below surface, 7920 ± 40 radiocarbon BP, 8990–8610 cal BP; underlying deposits lack dates"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Xihuatoxtla · Stärke und Phytolithen",
+    "en": "Xihuatoxtla · starch and phytoliths"
+  },
+  "summary": {
+    "de": "Stärkekörner auf Steingeräten und mineralische Pflanzenreste aus Werkzeugproben und Sediment. Form und Größe stützen die Bestimmung als Mais und Kürbis.",
+    "en": "Tool starch and mineral plant traces from tools and sediment. Shape and size support maize and squash identification."
+  }
+}

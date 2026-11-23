@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:colledge-et-al-dhra-plants-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "New insights on plant domestication, production intensification, and food storage: the archaeobotanical evidence from PPNA Dhra‘",
+  "creators": [
+    "Sue Colledge",
+    "James Conolly",
+    "Bill Finlayson",
+    "Ian Kuijt"
+  ],
+  "published": "2018",
+  "sourceType": "article",
+  "url": "https://doi.org/10.1080/00758914.2018.1424746",
+  "identifiers": {
+    "doi": "10.1080/00758914.2018.1424746"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Levant 50(1), 14–31. Publisher metadata and abstract, and research authors' accessible full-text version for coordinates, measurements and storage interpretation."
+}

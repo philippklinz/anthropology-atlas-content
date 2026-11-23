@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:xihuatoxtla-rock-shelter-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ranere-xihuatoxtla-context-2009",
+      "role": "derivation",
+      "locator": "p. 5014, Fig. 1, shelter north-east of Tlaxmalac in the central Balsas study area"
+    },
+    {
+      "sourceId": "source:semarnat-tlaxmalac-location-2019",
+      "role": "derivation",
+      "locator": "Executive summary, p. 2, Tlaxmalac locality, 18°21′43″ N, 99°24′47″ W"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 5000,
+    "note": {
+      "de": "Grobe Lage des Felsüberhangs nordöstlich von Tlaxmalac anhand der publizierten Karte und des heutigen Ortes.",
+      "en": "Coarse location of the shelter north-east of Tlaxmalac using the published study map and the modern settlement."
+    }
+  },
+  "processingNote": {
+    "de": "Grobe Lage des Felsüberhangs nordöstlich von Tlaxmalac anhand der publizierten Karte und des heutigen Ortes.",
+    "en": "Coarse location of the shelter north-east of Tlaxmalac using the published study map and the modern settlement."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original orientation point based on the cited geographic information. The allowance is editorial."
+  }
+}
