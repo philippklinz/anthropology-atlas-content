@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:ohalo-brush-huts-plan",
+  "sourceRefs": [
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site: brush hut construction, sunken floors, and Fig. 1 with caption"
+    }
+  ],
+  "assetType": "image",
+  "file": "ohalo-brush-huts-plan.png",
+  "mediaType": "image/png",
+  "labels": {
+    "de": "Ohalo II · Hütten und Feuerstellen",
+    "en": "Ohalo II · huts and hearths"
+  },
+  "alt": {
+    "de": "Links eine Orientierungskarte. Rechts markiert der Grabungsplan Hütten dunkel, Feuerstellen hell. Der Maßstab rechts beträgt fünf Meter.",
+    "en": "Locator map on the left. On the right the excavation plan marks huts in dark grey and hearths in light grey. The scale bar on the right is five metres."
+  },
+  "entityIds": [
+    "place:ohalo-ii",
+    "artifact:ohalo-brush-hut-remains"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Ainit Snir",
+      "Dani Nadel",
+      "Iris Groman-Yaroslavski",
+      "Yoel Melamed",
+      "Marcelo Sternberg",
+      "Ofer Bar-Yosef",
+      "Ehud Weiss"
+    ],
+    "attribution": "Snir et al. (2015), PLOS ONE, Fig. 1 · CC BY 4.0",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0131422.g001",
+    "originNote": "Publisher’s unchanged 1063 × 848 PNG (size=large), CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. The right panel covers the central excavation area."
+  }
+}

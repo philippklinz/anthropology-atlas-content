@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:lgm-reference-window",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clark-lgm-2009",
+      "role": "supports",
+      "locator": "pp. 710–711, Abstract and Global ice-sheet history: nearly all ice sheets at their maximum positions from 26.5 to 19–20 ka"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Letztes glaziales Maximum · Vergleichsrahmen",
+    "en": "Last Glacial Maximum · reference window"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 26500,
+      "younger": 26500,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 19000,
+      "younger": 19000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "concept:last-glacial-maximum",
+      "role": "participant"
+    }
+  ],
+  "note": {
+    "de": "Gerundetes Zeitfenster einer globalen Forschungssynthese. Das Ende der größten Eisausdehnung lag in verschiedenen Regionen zu verschiedenen Zeiten.",
+    "en": "Rounded window from a global synthesis. Maximum ice extent ended at different times in different regions."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Gerundetes Zeitfenster einer globalen Forschungssynthese. Das Ende der größten Eisausdehnung lag in verschiedenen Regionen zu verschiedenen Zeiten.",
+      "en": "Rounded window from a global synthesis. Maximum ice extent ended at different times in different regions."
+    }
+  }
+}

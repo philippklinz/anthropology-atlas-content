@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:ice-age-life",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Leben am Rand des Eises",
+    "en": "Living at the Edge of the Ice"
+  },
+  "languages": [
+    "de",
+    "en"
+  ],
+  "defaultLanguage": "de",
+  "dependencies": [
+    "package:early-foodways"
+  ],
+  "recordIds": [
+    "artifact:kharaneh-structure-1",
+    "artifact:kostenki-mammoth-bone-circle",
+    "artifact:ohalo-brush-hut-remains",
+    "assertion:kharaneh-structure-1-at-kharaneh-iv",
+    "assertion:kostenki-bone-circle-at-kostenki-11",
+    "assertion:ohalo-brush-huts-at-ohalo-ii",
+    "asset:ohalo-brush-huts-plan",
+    "chapter:life-at-the-ice-edge",
+    "concept:last-glacial-maximum",
+    "event:kharaneh-structure-1-evidence",
+    "event:kostenki-mammoth-bone-circle-evidence",
+    "event:lgm-reference-window",
+    "event:ohalo-brush-hut-evidence",
+    "geometry:kharaneh-iv-orientation",
+    "geometry:kostenki-11-orientation",
+    "place:kharaneh-iv",
+    "place:kostenki-11",
+    "source:clark-lgm-2009",
+    "source:jones-kharaneh-wetland-2016",
+    "source:maher-kharaneh-2012",
+    "source:pryor-kostenki-2020"
+  ],
+  "entryChapterIds": [
+    "chapter:life-at-the-ice-edge"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

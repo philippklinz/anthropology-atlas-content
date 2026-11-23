@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:ohalo-brush-huts-at-ohalo-ii",
+  "sourceRefs": [
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site: brush hut construction, sunken floors, and Fig. 1 with caption"
+    },
+    {
+      "sourceId": "source:zohar-ohalo-fish-2018",
+      "role": "supports",
+      "locator": "Background, The Ohalo II site, Fig. 1 and site chronology: repeated occupation approximately 23,500–22,500 cal BP and successive floors in Brush Hut 1"
+    }
+  ],
+  "subjectId": "artifact:ohalo-brush-hut-remains",
+  "predicate": "attested-at",
+  "objectId": "place:ohalo-ii",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 23500,
+      "younger": 23500,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 22500,
+      "younger": 22500,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "note": {
+    "de": "Die Grabung erfasste sechs Hüttenbefunde mit eingetieften Böden. In Hütte 1 lassen sich Bauweisen mit Zweigen und mehrere erneuerte Böden erkennen. Der Datierungsrahmen von etwa 23.500–22.500 BP umfasst wiederholte Aufenthalte am Fundplatz.",
+    "en": "The excavation identified six hut features with sunken floors. Brush Hut 1 provides evidence for construction with branches and the renewal of floors. The approximate 23,500–22,500 BP dating envelope covers repeated visits to the site."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Grabung erfasste sechs Hüttenbefunde mit eingetieften Böden. In Hütte 1 lassen sich Bauweisen mit Zweigen und mehrere erneuerte Böden erkennen. Der Datierungsrahmen von etwa 23.500–22.500 BP umfasst wiederholte Aufenthalte am Fundplatz.",
+      "en": "The excavation identified six hut features with sunken floors. Brush Hut 1 provides evidence for construction with branches and the renewal of floors. The approximate 23,500–22,500 BP dating envelope covers repeated visits to the site."
+    }
+  }
+}

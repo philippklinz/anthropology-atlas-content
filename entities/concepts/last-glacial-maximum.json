@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:last-glacial-maximum",
+  "sourceRefs": [
+    {
+      "sourceId": "source:clark-lgm-2009",
+      "role": "supports",
+      "locator": "pp. 710–711, Abstract and Global ice-sheet history: nearly all ice sheets at their maximum positions from 26.5 to 19–20 ka"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Letztes glaziales Maximum",
+    "en": "Last Glacial Maximum"
+  },
+  "summary": {
+    "de": "In einer globalen Auswertung lagen die meisten Eisschilde zwischen etwa 26.500 und 19.000–20.000 BP nahe ihrer größten Ausdehnung. Die Entwicklung verlief regional verschieden.",
+    "en": "A global synthesis places most ice sheets near their greatest extent between about 26,500 and 19,000–20,000 BP. Regional histories varied."
+  }
+}

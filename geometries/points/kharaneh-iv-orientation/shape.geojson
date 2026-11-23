@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:kharaneh-iv-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.45,
+      31.72
+    ]
+  }
+}

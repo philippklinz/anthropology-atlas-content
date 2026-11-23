@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:kostenki-bone-circle-at-kostenki-11",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pryor-kostenki-2020",
+      "role": "supports",
+      "locator": "Archaeological context; The third mammoth-bone feature; Table 2, combined calibrated dates; Discussion: fuel and unresolved function"
+    }
+  ],
+  "subjectId": "artifact:kostenki-mammoth-bone-circle",
+  "predicate": "attested-at",
+  "objectId": "place:kostenki-11",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 25063,
+      "younger": 24490,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "note": {
+    "de": "Fünf zusammenpassende Radiokarbondaten ergeben den kalibrierten Bereich 25.063–24.490 BP (95,4 %, IntCal13). Holzkohle und verbrannte Knochen geben Hinweise auf Feuer. Ob der etwa 12,5 Meter breite Kreis überdacht oder dauerhaft bewohnt war, bleibt offen.",
+    "en": "Five consistent radiocarbon dates give a calibrated range of 25,063–24,490 BP (95.4%, IntCal13). Charcoal and burned bones attest fire. Whether people roofed or permanently inhabited the roughly 12.5-metre circle remains open."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Fünf zusammenpassende Radiokarbondaten ergeben den kalibrierten Bereich 25.063–24.490 BP (95,4 %, IntCal13). Holzkohle und verbrannte Knochen geben Hinweise auf Feuer. Ob der etwa 12,5 Meter breite Kreis überdacht oder dauerhaft bewohnt war, bleibt offen.",
+      "en": "Five consistent radiocarbon dates give a calibrated range of 25,063–24,490 BP (95.4%, IntCal13). Charcoal and burned bones attest fire. Whether people roofed or permanently inhabited the roughly 12.5-metre circle remains open."
+    }
+  }
+}

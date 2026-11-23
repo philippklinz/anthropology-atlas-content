@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:kostenki-11-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pryor-kostenki-2020",
+      "role": "supports",
+      "locator": "Archaeological context: Kostenki 11 at 51°23′08″N, 39°03′05″E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 200,
+    "note": {
+      "de": "Gerundete Lage zur Orientierung. Die Toleranz wurde redaktionell gewählt.",
+      "en": "Rounded location for orientation. The tolerance is an editorial choice."
+    }
+  },
+  "processingNote": {
+    "de": "Fundplatzpunkt aus 39°03′05″E, 51°23′08″N.",
+    "en": "Site point rounded from 39°03′05″E, 51°23′08″N."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic point",
+    "originNote": "Point authored from published coordinates for geographic orientation."
+  }
+}

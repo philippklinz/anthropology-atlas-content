@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:kostenki-11",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pryor-kostenki-2020",
+      "role": "supports",
+      "locator": "Archaeological context; The third mammoth-bone feature; Table 2, combined calibrated dates; Discussion: fuel and unresolved function"
+    },
+    {
+      "sourceId": "source:pryor-kostenki-2020",
+      "role": "supports",
+      "locator": "Archaeological context: Kostenki 11 at 51°23′08″N, 39°03′05″E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Kostenki 11 · Don",
+    "en": "Kostenki 11 · Don River"
+  },
+  "summary": {
+    "de": "Fundplatz im heutigen westlichen Russland. Der hier betrachtete dritte Knochenkreis liegt innerhalb eines Geländes mit mehreren Fundkomplexen.",
+    "en": "Site in present-day western Russia. The third bone circle discussed here lies in an area containing several archaeological features."
+  }
+}

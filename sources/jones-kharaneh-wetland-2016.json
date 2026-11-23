@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:jones-kharaneh-wetland-2016",
+  "sourceRefs": [],
+  "title": "The environmental setting of Epipalaeolithic aggregation site Kharaneh IV",
+  "sourceType": "article",
+  "creators": [
+    "Matthew D. Jones",
+    "Lisa A. Maher",
+    "Danielle A. Macdonald",
+    "Conor Ryan",
+    "Claire Rambeau",
+    "Stuart Black",
+    "Tobias Richter"
+  ],
+  "url": "https://doi.org/10.1016/j.quaint.2015.08.092",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Accepted manuscript’s logged profiles are used as approximate geographic orientation and evidence of a local wetland during part of occupation.",
+  "identifiers": {
+    "doi": "10.1016/j.quaint.2015.08.092"
+  },
+  "published": "2016",
+  "containerTitle": "Quaternary International 396, 95–104"
+}

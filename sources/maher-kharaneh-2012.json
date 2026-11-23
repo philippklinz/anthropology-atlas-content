@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:maher-kharaneh-2012",
+  "sourceRefs": [],
+  "title": "Twenty Thousand-Year-Old Huts at a Hunter-Gatherer Settlement in Eastern Jordan",
+  "sourceType": "article",
+  "creators": [
+    "Lisa A. Maher",
+    "Tobias Richter",
+    "Danielle Macdonald",
+    "Matthew D. Jones",
+    "Louise Martin",
+    "Jay T. Stock"
+  ],
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0031447",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Structure 1 has a specific published age bracket on p. 3. The full site sequence and the abstract’s rounded statement describe different scopes.",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0031447"
+  },
+  "published": "2012",
+  "containerTitle": "PLOS ONE 7, e31447"
+}

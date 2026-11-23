@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:pryor-kostenki-2020",
+  "sourceRefs": [],
+  "title": "The chronology and function of a new circular mammoth-bone structure at Kostenki 11",
+  "sourceType": "article",
+  "creators": [
+    "Alexander J. E. Pryor",
+    "David G. Beresford-Jones",
+    "Alexander E. Dudin",
+    "Ekaterina M. Ikonnikova",
+    "John F. Hoffecker",
+    "Clive Gamble"
+  ],
+  "url": "https://doi.org/10.15184/aqy.2020.7",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Use the new third circle and combined date distribution in Table 2. Earlier structures and illustrations are outside the scope of this record.",
+  "identifiers": {
+    "doi": "10.15184/aqy.2020.7"
+  },
+  "published": "2020",
+  "containerTitle": "Antiquity 94, 323–341"
+}

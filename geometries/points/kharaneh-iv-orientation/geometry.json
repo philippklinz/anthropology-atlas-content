@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:kharaneh-iv-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:jones-kharaneh-wetland-2016",
+      "role": "supports",
+      "locator": "Abstract and geological sections, accepted manuscript pp. 7–8, lines 204–242: local sediments and surrounding sections at about 31°43′N, 36°27′E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Gerundete Lage zur Orientierung. Die Toleranz wurde redaktionell gewählt.",
+      "en": "Rounded location for orientation. The tolerance is an editorial choice."
+    }
+  },
+  "processingNote": {
+    "de": "Orientierung im Fundplatzareal anhand publizierter Sedimentprofile.",
+    "en": "Orientation in the site area based on published sediment sections."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic point",
+    "originNote": "Point authored from published coordinates for geographic orientation."
+  }
+}
