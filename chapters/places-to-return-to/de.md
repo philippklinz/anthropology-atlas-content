@@ -6,7 +6,7 @@ Was macht einen Platz zu einem Ort, an den Menschen immer wieder zurückkehren? 
 
 Den Steinbau in Shubayqa 1 kennst du vielleicht aus „Wenn das Eis weicht“. Im heutigen Nordosten Jordaniens legten Menschen darin zwei Feuerstellen an. Die obere entstand in einer späteren Nutzungsphase fast an derselben Stelle wie die untere. Sieben Radiokarbondatierungen an kurzlebigen Pflanzenresten aus den Feuerstellen ergeben ungefähr 14.400–14.200 Kalenderjahre BP. BP zählt hier Jahre vor 1950.
 
-In den Feuerstellen blieben verkohlte Klümpchen erhalten. Unter dem Mikroskop erkannten Forschende Hohlräume und kleine Gewebeteile, die zu brotartigen Speisen passen. In 15 der 24 untersuchten Stücke fanden sie Getreidegewebe. In anderen steckten auch Pflanzenteile, die zu unterirdischen Speicherorganen passen. Das Team diskutiert Mehl aus Wildgetreide und Knollen als mögliche Zutaten. Wie häufig diese Speisen auf dem Feuer lagen, bleibt offen.
+In den Feuerstellen blieben verkohlte Klümpchen erhalten. Unter dem Mikroskop erkannten Forschende Hohlräume und kleine Gewebeteile, die zu brotartigen Speisen passen. In 15 der 24 untersuchten Stücke fanden sie Getreidegewebe. Ein Teil enthielt außerdem Gewebe, wie es etwa in Knollen vorkommt. Das Team diskutiert Mehl aus Wildgetreide und Knollen als mögliche Zutaten. Wie häufig solche Speisen zubereitet wurden, bleibt offen.
 
 Schau dir das Luftbild der Grabung an. Es zeigt das Gelände und die Ausgrabung rund um den Steinbau. Die kleinen Reste aus den Feuerstellen erzählen, was die Menschen in solchen Räumen taten. Die Abfolge erzählt, dass sie den Platz erneut nutzten.
 

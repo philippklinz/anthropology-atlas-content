@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:balsas-river-in-guerrero",
+  "sourceRefs": [
+    {
+      "sourceId": "source:sanss-balsas-river-photo-2008",
+      "role": "derivation",
+      "locator": "File description, origin, geotag, date and CC BY-SA 3.0 permission"
+    }
+  ],
+  "assetType": "image",
+  "file": "balsas-river-in-guerrero.jpg",
+  "mediaType": "image/jpeg",
+  "entityIds": [
+    "place:xihuatoxtla-rock-shelter"
+  ],
+  "labels": {
+    "de": "Río Balsas · heutige Flusslandschaft in Guerrero",
+    "en": "Balsas River · modern river landscape in Guerrero"
+  },
+  "alt": {
+    "de": "Eine Flussschleife zieht zwischen bewachsenen Hügeln in Guerrero entlang. Aufnahme der heutigen Region aus dem Jahr 2008.",
+    "en": "A river bend between vegetated slopes in Guerrero. Photograph of the modern region in 2008."
+  },
+  "rights": {
+    "license": "CC-BY-SA-3.0",
+    "creators": [
+      "Rodrigo SanSs"
+    ],
+    "attribution": "Rodrigo SanSs · Rio Mezcala, Gro, Mex (2008) · CC BY-SA 3.0 · resized JPEG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rio_Mezcala,_Gro,_Mex_-_panoramio.jpg",
+    "originNote": "Entire photograph resized from 3072 × 2304 to 1120 × 840 and recompressed as JPEG. Contextual view of the present-day Balsas watershed; the rock shelter is out of frame. License: https://creativecommons.org/licenses/by-sa/3.0/."
+  }
+}

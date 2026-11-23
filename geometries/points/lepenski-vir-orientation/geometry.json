@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:lepenski-vir-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mgolubovic-lepenski-vir-photo-2026",
+      "role": "supports",
+      "locator": "File metadata, author credit, camera coordinate, original-size and image-license declarations"
+    },
+    {
+      "sourceId": "source:ramsar-lepenski-vir-relocation",
+      "role": "supports",
+      "locator": "Lepenski Vir, p. 44: relocation of excavated house remains approximately 100 m downstream and 30 m higher before inundation"
+    },
+    {
+      "sourceId": "source:boric-lepenski-chronology-2019",
+      "role": "supports",
+      "locator": "p. 29, model 1 and Fig. 11: individual 95% ranges for start and end of architectural phase I–II; pp. 43–44: floors, hearths and the settlement sequence"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung auf der Grundkarte.",
+      "en": "Editorial tolerance for orientation on the basemap."
+    }
+  },
+  "processingNote": {
+    "de": "Aus der Kamerakoordinate auf dem Gelände gerundete Lage. Ausgrabung und versetzte Anlage liegen innerhalb der Toleranz.",
+    "en": "Approximate position rounded from the camera coordinate at the site. The tolerance covers the original excavation and the relocated remains."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual coordinates."
+  }
+}

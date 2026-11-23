@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:takarkori",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dunne-takarkori-dairying-2012",
+      "role": "supports",
+      "locator": "Abstract: identification of dairy fats absorbed in Takarkori pottery from the fifth millennium BC"
+    },
+    {
+      "sourceId": "source:enghoff-van-neer-takarkori-location-2021",
+      "role": "supports",
+      "locator": "p. 2734, site description: approximate coordinates 24°32′10″ N, 10°31′25″ E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Takarkori · Libysche Sahara",
+    "en": "Takarkori · Libyan Sahara"
+  },
+  "summary": {
+    "de": "Felsüberhang im Tadrart Acacus im heutigen Südwestlibyen. Keramik aus den Schichten der Hirtenzeit bewahrt Spuren verarbeiteter pflanzlicher und tierischer Produkte.",
+    "en": "Rock shelter in the Tadrart Acacus in present-day southwestern Libya. Pastoral-period pottery preserves traces of processed plant and animal products."
+  },
+  "assetIds": [
+    "asset:takarkori-rock-shelter"
+  ]
+}

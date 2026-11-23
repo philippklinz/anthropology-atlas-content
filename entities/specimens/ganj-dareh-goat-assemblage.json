@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "specimen:ganj-dareh-goat-assemblage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "p. 2, settlement chronology, 8,200–7,600 cal BC at 1σ; SI Fig. S3 and Table S2"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 2–3, Archaeozoological Evidence of Goat Domestication in the Central Zagros; Fig. 2A: age and sex distribution"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 3–4, AN Zagros Goat Form Distinct Wild-Affinity and Domestic-Affinity Clusters; Fig. 3; Discussion"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Ziegenknochen von Ganj Dareh",
+    "en": "Goat bones from Ganj Dareh"
+  },
+  "summary": {
+    "de": "Untersuchte Ziegenknochen aus mehreren Siedlungsschichten. Viele männliche Tiere starben früher als weibliche. Ein Teil der Knochen lieferte alte DNA.",
+    "en": "Goat bones analysed from several settlement layers. Many male animals died younger than females. Some bones yielded ancient DNA."
+  }
+}

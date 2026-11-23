@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:east-asian-lifeways",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Reis, Hirse und frühe Gefäße",
+    "en": "Rice, Millet and Early Pots"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:torihama-pottery-sample",
+    "assertion:cishan-bwg-pit-remains-at-site",
+    "assertion:tianluoshan-rice-bases-at-site",
+    "assertion:torihama-initial-pottery-at-site",
+    "asset:cishan-stone-tools-display",
+    "asset:tianluoshan-rice-counts",
+    "chapter:rice-millet-and-pots",
+    "concept:cultivation-and-plant-domestication",
+    "concept:pottery-residues-and-foodways",
+    "event:cishan-bwg-archived-sample",
+    "event:cishan-early-millet-date-claim",
+    "event:tianluoshan-rice-cultivation-evidence",
+    "event:torihama-initial-jomon-aquatic-residues",
+    "geometry:cishan-orientation",
+    "geometry:tianluoshan-orientation",
+    "geometry:torihama-shell-midden-orientation",
+    "place:cishan",
+    "place:tianluoshan",
+    "place:torihama-shell-midden",
+    "source:commons-cishan-tools-photo",
+    "source:fuller-tianluoshan-rice-2009",
+    "source:lu-cishan-millet-2009",
+    "source:lucquin-torihama-pottery-2016",
+    "source:nabunken-torihama-site-59006",
+    "source:shoda-tianluoshan-pottery-2018",
+    "source:zhao-china-archaeobotany-2011",
+    "specimen:cishan-husk-phytoliths",
+    "specimen:tianluoshan-rice-spikelet-bases"
+  ],
+  "entryChapterIds": [
+    "chapter:rice-millet-and-pots"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:torihama-shell-midden-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nabunken-torihama-site-59006",
+      "role": "derivation",
+      "locator": "Record 59006, world geodetic coordinates (世界測地系): 135.9009°E, 35.5547°N"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 500,
+    "note": {
+      "de": "Redaktionelle Toleranz zur Orientierung am Fundort.",
+      "en": "Editorial allowance for locating the site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Fundort nach publizierten Koordinaten. Die Position einzelner Proben bleibt offen.",
+    "en": "Rounded site location from published coordinates. Individual sample locations remain unspecified."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from published factual coordinates."
+  }
+}

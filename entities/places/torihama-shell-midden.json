@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:torihama-shell-midden",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nabunken-torihama-site-59006",
+      "role": "supports",
+      "locator": "Record 59006, world geodetic coordinates (世界測地系): 135.9009°E, 35.5547°N"
+    },
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3991–3993, Torihama, Results and Table 1: Initial Jōmon subset 11.1–8.0 ka cal BP"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Torihama · Wakasa, Japan",
+    "en": "Torihama · Wakasa, Japan"
+  },
+  "summary": {
+    "de": "Fundort an den Seen nahe der Wakasa-Bucht. In den feuchten Ablagerungen blieben Scherben, tierische und pflanzliche Reste aus mehreren Jōmon-Phasen erhalten.",
+    "en": "A findsite near the lakes of Wakasa Bay. Wet deposits preserved sherds, animal remains and plant remains from several Jōmon phases."
+  }
+}

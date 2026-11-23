@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:stiner-asikli-caprines-2014",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "A forager–herder trade-off, from broad-spectrum hunting to sheep management at Aşıklı Höyük, Turkey",
+  "sourceType": "article",
+  "creators": [
+    "Mary C. Stiner",
+    "Hijlke Buitenhuis",
+    "Güneş Duru",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1073/pnas.1322723111",
+  "published": "2014",
+  "identifiers": {
+    "doi": "10.1073/pnas.1322723111"
+  },
+  "bibliographicNote": "PNAS 111(23), pp. 8404–8409. Study of bone assemblages and geoarchaeological evidence. The time window in this chapter follows Abell et al. 2019's approximate layer ages."
+}

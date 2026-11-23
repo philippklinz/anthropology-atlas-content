@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-crop-paths",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Sammeln, lagern, säen",
+    "en": "Gathering, Storing and Sowing"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:dhra-structure-4",
+    "assertion:chogha-golan-emmer-chaff-at-site",
+    "assertion:dhra-structure-4-at-site",
+    "assertion:qarassa-cereal-chaff-at-site",
+    "asset:chogha-golan-site-profile",
+    "chapter:gathering-storing-sowing",
+    "concept:gathering-cultivation-domestication",
+    "event:chogha-golan-emmer-chaff-evidence",
+    "event:dhra-structure-4-evidence",
+    "event:qarassa-cereal-chaff-evidence",
+    "geometry:chogha-golan-orientation",
+    "geometry:dhra-orientation",
+    "geometry:tell-qarassa-north-orientation",
+    "place:chogha-golan",
+    "place:dhra",
+    "place:tell-qarassa-north",
+    "source:arranz-otaegui-qarassa-cereals-2016",
+    "source:arranz-otaegui-qarassa-landscape-2017",
+    "source:colledge-et-al-dhra-plants-2018",
+    "source:godon-qarassa-excavation-2015",
+    "source:kuijt-finlayson-dhra-storage-2009",
+    "source:riehl-chogha-golan-2013",
+    "source:weide-chogha-emmer-2015",
+    "source:weide-chogha-wild-grasses-2018",
+    "source:zeidi-conard-chogha-lithics-2013",
+    "specimen:chogha-golan-emmer-chaff",
+    "specimen:qarassa-cereal-chaff"
+  ],
+  "entryChapterIds": [
+    "chapter:gathering-storing-sowing"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

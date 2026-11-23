@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:kuk-swamp-phase-two-mound-bases",
+  "sourceRefs": [
+    {
+      "sourceId": "source:denham-kuk-swamp-2003",
+      "role": "supports",
+      "locator": "pp. 190–192, Table 1 and Figs. 2C, 3–4: earliest Phase 2 mounds and 6,950–6,440 cal BP; interpretation of high Musa phytolith frequencies in managed grassland; later phases distinguished"
+    },
+    {
+      "sourceId": "source:denham-golson-hughes-kuk-phase-two-2017",
+      "role": "supports",
+      "locator": "Introduction and Early subphase: contrasting interpretations of evidence c.10,000 years ago; earliest Phase 2 mounds, dates on basal fill charcoal, later subphase separately identified"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Kuk Swamp · Hügelbeete und Bananenphytolithen",
+    "en": "Kuk Swamp · planting mounds and banana phytoliths"
+  },
+  "summary": {
+    "de": "Runde und annähernd runde Reste von Hügelbeeten und mineralische Spuren von Bananen in der umliegenden Graslandschaft stützen die Deutung gezielten Anbaus.",
+    "en": "Circular and subcircular mound bases and mineral traces of bananas in the associated grassland support deliberate cultivation."
+  }
+}

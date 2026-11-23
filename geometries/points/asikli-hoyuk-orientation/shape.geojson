@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:asikli-hoyuk-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.23,
+      38.348
+    ]
+  }
+}

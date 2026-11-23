@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:ranere-xihuatoxtla-context-2009",
+  "sourceRefs": [],
+  "title": "The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico",
+  "sourceType": "article",
+  "creators": [
+    "Anthony J. Ranere",
+    "Dolores R. Piperno",
+    "Irene Holst",
+    "Ruth Dickau",
+    "José Iriarte"
+  ],
+  "published": "2009",
+  "containerTitle": "PNAS 106(13), 5014–5018",
+  "identifiers": {
+    "doi": "10.1073/pnas.0812590106"
+  },
+  "url": "https://repository.si.edu/handle/10088/14853",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Smithsonian repository full text. Maps the shelter relative to Tlaxmalac, dates the layer D charcoal and describes the stratigraphy, grinding tools and qualified interpretation of settlement practices."
+}

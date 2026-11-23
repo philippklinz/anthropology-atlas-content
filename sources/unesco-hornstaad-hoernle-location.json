@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:unesco-hornstaad-hoernle-location",
+  "sourceRefs": [],
+  "title": "Prehistoric Pile Dwellings around the Alps · Hornstaad-Hörnle",
+  "sourceType": "catalog",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/1363/maps/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Point for the serial nomination component, used as site-area orientation. The component includes deposits beyond phase IA."
+}

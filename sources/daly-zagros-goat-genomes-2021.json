@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:daly-zagros-goat-genomes-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "Herded and hunted goat genomes from the dawn of domestication in the Zagros Mountains",
+  "sourceType": "article",
+  "creators": [
+    "Kevin G. Daly",
+    "Valeria Mattiangeli",
+    "Andrew J. Hare",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1073/pnas.2100901118",
+  "published": "2021",
+  "identifiers": {
+    "doi": "10.1073/pnas.2100901118"
+  },
+  "bibliographicNote": "PNAS 118(25), e2100901118. Original full text describes the directly dated bones, age and sex distributions, hoof impressions and old goat DNA. The nuclear-genome comparison includes Ganj Dareh and Tepe Abdul Hosein."
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:takarkori-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:enghoff-van-neer-takarkori-location-2021",
+      "role": "derivation",
+      "locator": "p. 2734, site description: approximate coordinates 24°32′10″ N, 10°31′25″ E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 500,
+    "note": {
+      "de": "Redaktioneller Spielraum für die Lagehilfe.",
+      "en": "Editorial allowance for the orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Die veröffentlichten ungefähren Koordinaten wurden in Dezimalgrad umgerechnet und gerundet.",
+    "en": "The published approximate coordinates were converted to decimal degrees and rounded."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from published factual coordinates."
+  }
+}

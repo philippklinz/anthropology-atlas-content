@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:dhra",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:colledge-et-al-dhra-plants-2018",
+      "role": "supports",
+      "locator": "Dhra‘: location, excavation and floristic landscape, first paragraph, 31.25° N, 35.58° E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Dhra′ · Jordanien",
+    "en": "Dhra′ · Jordan"
+  },
+  "summary": {
+    "de": "Fundort auf einer alten Schwemmlandterrasse östlich des südlichen Toten Meeres. Runde Baureste gehören zur vorkeramischen Jungsteinzeit.",
+    "en": "Site on an old alluvial terrace east of the southern Dead Sea. Round buildings date to the Pre-Pottery Neolithic."
+  }
+}

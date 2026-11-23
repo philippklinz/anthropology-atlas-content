@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:takarkori-sherd-tak21a",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Table 1, Takarkori Middle Pastoral row: phase envelope 5,210–3,660 BCE; Section 1.8 and Fig. 4d use c. 5,200–3,800 BCE"
+    },
+    {
+      "sourceId": "source:dunne-dairying-northern-africa-2018",
+      "role": "supports",
+      "locator": "Section 1.8, Fig. 4d and Table 2 (Takarkori Middle Pastoral rows): isotopic grouping, including TAK21A at Δ¹³C −5.8‰"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Scherbe TAK21A · Milchfettsignal",
+    "en": "Sherd TAK21A · dairy fat signal"
+  },
+  "summary": {
+    "de": "Bei der Scherbe TAK21A liegt der Unterschied der Kohlenstoffisotopenwerte zweier Fettsäuren bei −5,8 ‰. Dunne et al. ordnen sie als Probe mit Milchfett ein.",
+    "en": "In sherd TAK21A the difference in carbon isotope values between two fatty acids is −5.8‰. Dunne et al. classify the residue as dairy fat."
+  }
+}

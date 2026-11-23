@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:strontium-enamel-mobility",
+  "sourceRefs": [
+    {
+      "sourceId": "source:boric-price-danube-mobility-2013",
+      "role": "supports",
+      "locator": "pp. 3298–3302, Fig. 2–3 and results for Lepenski Vir: assumed regional strontium range and five individuals outside it in transition phase I–II"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Strontium im Zahnschmelz",
+    "en": "Strontium in tooth enamel"
+  },
+  "summary": {
+    "de": "Das Verhältnis zweier Strontiumisotope im Zahnschmelz trägt Spuren der Umgebung während seiner Bildung. Vergleichswerte helfen, ungewöhnliche Signaturen zu erkennen. Verschiedene Gegenden können ähnliche Werte haben.",
+    "en": "The ratio of two strontium isotopes in dental enamel reflects aspects of the environment where the tooth formed. Comparative measurements can identify unusual signatures. Different regions can yield similar values."
+  }
+}

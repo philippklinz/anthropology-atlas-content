@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:torihama-pottery-sample",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3991–3993, Torihama, Results and Table 1: Initial Jōmon subset 11.1–8.0 ka cal BP"
+    },
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3992–3995, Results, Table 1 and Fig. 3B–C: aquatic biomarkers and different signals across sampled periods; Discussion: other preserved foods"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Torihama · untersuchte Gefäßscherben",
+    "en": "Torihama · sampled pottery sherds"
+  },
+  "summary": {
+    "de": "Untersucht wurden Fette aus der Gefäßwand und verkohlte Beläge im Inneren. Mehrere Beläge der Initial-Jōmon-Phase trugen chemische Hinweise auf erhitzte Nahrungsmittel aus dem Wasser.",
+    "en": "The team studied fats absorbed by vessel walls and charred deposits on the inside. Several deposits from the Initial Jōmon samples held chemical evidence of heated aquatic products."
+  }
+}

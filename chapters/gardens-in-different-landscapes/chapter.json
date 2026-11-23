@@ -1,0 +1,321 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:gardens-in-different-landscapes",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ranere-xihuatoxtla-context-2009",
+      "role": "supports",
+      "locator": "pp. 5014–5015, Fig. 1 and Results: shelter and stratigraphy; p. 5017, maize and squash evidence and Discussion"
+    },
+    {
+      "sourceId": "source:ranere-xihuatoxtla-context-2009",
+      "role": "supports",
+      "locator": "p. 5015, Results and Fig. 3: layer D charcoal at 65 cm below surface, 7920 ± 40 radiocarbon BP, 8990–8610 cal BP; underlying deposits lack dates"
+    },
+    {
+      "sourceId": "source:piperno-xihuatoxtla-microremains-2009",
+      "role": "supports",
+      "locator": "pp. 5019–5023, Table 1 and Figs. 1–2: maize starch and cob phytoliths, Cucurbita rind phytoliths, deeper levels and domestication criteria"
+    },
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "supports",
+      "locator": "pp. 1890–1892 and Table 1: CA-09-77 squash seed Beta 179512, 9240 ± 50 radiocarbon BP, reported 2σ interval 10,403–10,163 cal BP"
+    },
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "supports",
+      "locator": "p. 1890 and Table 1, Beta 219589: the younger squash seed from CA-09-27; p. 1893, discussion of adoption and limits on claimed local domestication"
+    },
+    {
+      "sourceId": "source:denham-kuk-swamp-2003",
+      "role": "supports",
+      "locator": "p. 190, Phase 1 and Fig. 2B; p. 191, Table 1 (10,220–9,910 cal BP); pp. 191–192, early plant use and limits on cultivation inference"
+    },
+    {
+      "sourceId": "source:denham-kuk-swamp-2003",
+      "role": "supports",
+      "locator": "pp. 190–192, Table 1 and Figs. 2C, 3–4: earliest Phase 2 mounds and 6,950–6,440 cal BP; interpretation of high Musa phytolith frequencies in managed grassland; later phases distinguished"
+    },
+    {
+      "sourceId": "source:denham-golson-hughes-kuk-phase-two-2017",
+      "role": "supports",
+      "locator": "Introduction and Early subphase: contrasting interpretations of evidence c.10,000 years ago; earliest Phase 2 mounds, dates on basal fill charcoal, later subphase separately identified"
+    }
+  ],
+  "labels": {
+    "de": "Anbau in drei Landschaften",
+    "en": "Cultivation in Three Landscapes"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:xihuatoxtla-maize-and-squash-evidence",
+    "event:nanchoc-ca-09-77-squash-evidence",
+    "event:kuk-swamp-phase-one-modification",
+    "event:kuk-swamp-phase-two-cultivation",
+    "concept:cultivation-and-domestication"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -148,
+      "latitude": 4,
+      "metersPerPixel": 43000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 10500,
+        "younger": 10500,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 6400,
+        "younger": 6400,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "xihuatoxtla",
+      "textAnchor": "xihuatoxtla",
+      "labels": {
+        "de": "Xihuatoxtla · Pflanzenpartikel auf Stein",
+        "en": "Xihuatoxtla · plant particles on stone"
+      },
+      "summary": {
+        "de": "Stärke und Phytolithen zeigen, welche Pflanzen verarbeitet wurden. Holzkohle datiert den zugehörigen Fundkontext.",
+        "en": "Starch and phytoliths reveal which plants were processed. Charcoal dates the associated context."
+      },
+      "state": {
+        "camera": {
+          "longitude": -99.4,
+          "latitude": 18.38,
+          "metersPerPixel": 2400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 9100,
+            "younger": 9100,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 8500,
+            "younger": 8500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:balsas-river-in-guerrero"
+    },
+    {
+      "id": "nanchoc",
+      "textAnchor": "nanchoc",
+      "labels": {
+        "de": "Ñanchoc · ein datierter Kürbissame",
+        "en": "Ñanchoc · a dated squash seed"
+      },
+      "summary": {
+        "de": "Im Fund CA-09-77 wurde der Pflanzenrest selbst datiert. Ein jüngerer Kürbissame gehört zu einem anderen Fundort im Tal.",
+        "en": "At CA-09-77 the plant remain itself was dated. A younger squash seed comes from a different site in the valley."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.24,
+          "latitude": -6.96,
+          "metersPerPixel": 2400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 10500,
+            "younger": 10500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 10100,
+            "younger": 10100,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "kuk-swamp",
+      "textAnchor": "kuk-swamp",
+      "labels": {
+        "de": "Kuk Swamp · zwei Phasen am Feuchtgebiet",
+        "en": "Kuk Swamp · two phases at the wetland"
+      },
+      "summary": {
+        "de": "Vergleiche die Belege der frühen Randnutzung mit den jüngeren Hügelbeeten und Bananenspuren.",
+        "en": "Compare the evidence for early use of the wetland margin with the later planting mounds and banana traces."
+      },
+      "state": {
+        "camera": {
+          "longitude": 144.332,
+          "latitude": -5.784,
+          "metersPerPixel": 2400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 10300,
+            "younger": 10300,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 6400,
+            "younger": 6400,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    }
+  ],
+  "recordIds": [
+    "assertion:kuk-swamp-phase-one-modification-context",
+    "assertion:kuk-swamp-phase-two-cultivation-context",
+    "assertion:nanchoc-ca-09-77-squash-evidence-context",
+    "assertion:xihuatoxtla-maize-and-squash-evidence-context",
+    "asset:balsas-river-in-guerrero",
+    "concept:cultivation-and-domestication",
+    "event:kuk-swamp-phase-one-modification",
+    "event:kuk-swamp-phase-two-cultivation",
+    "event:nanchoc-ca-09-77-squash-evidence",
+    "event:xihuatoxtla-maize-and-squash-evidence",
+    "geometry:kuk-swamp-orientation",
+    "geometry:nanchoc-ca-09-77-orientation",
+    "geometry:xihuatoxtla-rock-shelter-orientation",
+    "place:kuk-swamp",
+    "place:nanchoc-ca-09-77",
+    "place:xihuatoxtla-rock-shelter",
+    "source:denham-golson-hughes-kuk-phase-two-2017",
+    "source:denham-kuk-swamp-2003",
+    "source:dillehay-nanchoc-plant-adoption-2007",
+    "source:inei-nanchoc-location-2012",
+    "source:piperno-xihuatoxtla-microremains-2009",
+    "source:ranere-xihuatoxtla-context-2009",
+    "source:sanss-balsas-river-photo-2008",
+    "source:semarnat-tlaxmalac-location-2019",
+    "source:unesco-kuk-early-agricultural-site-location",
+    "specimen:kuk-swamp-phase-one-features",
+    "specimen:kuk-swamp-phase-two-mound-bases",
+    "specimen:nanchoc-ca-09-77-squash-seed",
+    "specimen:xihuatoxtla-plant-microremains"
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Mahlsteine in Mexiko, ein Kürbissame in Peru und Hügelbeete in Neuguinea zeigen drei Arten von Anbaubelegen.",
+      "en": "Milling stones in Mexico, a squash seed in Peru and planting mounds in New Guinea offer three kinds of cultivation evidence."
+    },
+    "periods": [
+      {
+        "id": "postglacial-lifeways",
+        "labels": {
+          "de": "Neue Lebensweisen nach der Kaltzeit",
+          "en": "New Ways of Living After the Ice Age"
+        },
+        "description": {
+          "de": "Vom Ende der letzten Kaltzeit bis zu frühen bäuerlichen Gemeinschaften. Die Kapitel vergleichen Wohnen, Sammeln, Anbau und Tierhaltung in verschiedenen Regionen. Mesolithikum und Jungsteinzeit bezeichnen regionale Entwicklungen mit unterschiedlichen Zeitgrenzen.",
+          "en": "From the end of the last glacial period to early farming communities. The chapters compare dwelling, foraging, cultivation and herding across regions. The Mesolithic and Neolithic describe regional developments with different time boundaries."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
+      },
+      {
+        "id": "south-america",
+        "labels": {
+          "de": "Südamerika",
+          "en": "South America"
+        }
+      },
+      {
+        "id": "oceania",
+        "labels": {
+          "de": "Ozeanien",
+          "en": "Oceania"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  }
+}

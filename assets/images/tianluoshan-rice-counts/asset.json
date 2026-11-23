@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:tianluoshan-rice-counts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuller-tianluoshan-rice-2009",
+      "role": "derivation",
+      "locator": "Figs. 2 and S2, and results in pp. 1607–1609: each series has a separate denominator, based on counts in archaeological samples."
+    }
+  ],
+  "assetType": "image",
+  "file": "rice-counts.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Tianluoshan · zwei verschiedene Anteile",
+    "en": "Tianluoshan · two different proportions"
+  },
+  "alt": {
+    "de": "Bei den Pflanzenresten stieg der Reisanteil zwischen den ältesten und jüngsten Proben von 8 auf 24 Prozent. Separat stieg bei den Reisährchenansätzen der domestizierte Typ von 27 auf 39 Prozent. Beide Anteile beziehen sich auf gezählte Funde.",
+    "en": "Rice rose from 8 to 24 percent of plant remains between the oldest and youngest samples. Separately, the domesticated type rose from 27 to 39 percent of rice spikelet bases. Both proportions count recovered remains."
+  },
+  "entityIds": [
+    "specimen:tianluoshan-rice-spikelet-bases"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · data: Fuller et al. 2009",
+    "sourceUrl": "https://doi.org/10.1126/science.1166605",
+    "originNote": "Original chart of published summary values. No figure from the paper reused. Chart license: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cishan-early-millet-date-claim",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lu-cishan-millet-2009",
+      "role": "supports",
+      "locator": "pp. 7367–7369, storage pits and Fig. 1C–D; Fig. 3 and Results, early CS-I, III and IV group"
+    },
+    {
+      "sourceId": "source:lu-cishan-millet-2009",
+      "role": "supports",
+      "locator": "pp. 7368–7370, Results, Figs. 2 and 5, and Discussion: comparative husk phytoliths; biomolecular results on younger samples BWG and CS-V-03"
+    },
+    {
+      "sourceId": "source:zhao-china-archaeobotany-2011",
+      "role": "challenges",
+      "locator": "p. S301, The Origin of Dry-Land Agriculture in North China: exposed pit profiles, uncertain dating material and comparison with earlier excavations"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Cishan · umstrittene frühe Datierung",
+    "en": "Cishan · disputed early dating"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 10300,
+      "younger": 10300,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 8700,
+      "younger": 8700,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "specimen:cishan-husk-phytoliths",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:cishan"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:cishan-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Datierungsrahmen, den Lu und sein Team den Proben aus CS-I, III und IV zuordneten. Die Markierung zeigt eine veröffentlichte Einordnung im Streit um die Herkunft der datierten Proben.",
+    "en": "Age window assigned by Lu and colleagues to samples from CS-I, III and IV. The marker shows a published chronology in a debate about the provenance of the dated samples."
+  },
+  "epistemic": {
+    "status": "disputed",
+    "note": {
+      "de": "Die Gruben und Kieselkörper sind belegt. Die sehr frühe zeitliche Einordnung ist wegen des unklaren Fundzusammenhangs der Datierungsproben umstritten.",
+      "en": "Pits and phytoliths are attested. The very early age assignment is contested because the context of the dated samples is unclear."
+    }
+  }
+}

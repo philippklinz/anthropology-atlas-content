@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:danube-farming-and-contact",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Neue Nachbarn, neue Dörfer",
+    "en": "New Neighbours, New Villages"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:brunn-wolfholz-longhouse-traces",
+    "artifact:hornstaad-hoernle-ia-timber",
+    "artifact:lepenski-trapezoid-floors",
+    "assertion:brunn-longhouse-traces-at-wolfholz",
+    "assertion:hornstaad-grain-at-lakeshore-village",
+    "assertion:hornstaad-wood-at-lakeshore-village",
+    "assertion:lepenski-floors-at-lepenski-vir",
+    "asset:hornstaad-dated-house-plans",
+    "asset:lepenski-vir-sheltered-floors",
+    "chapter:new-neighbours-in-europe",
+    "concept:strontium-enamel-mobility",
+    "concept:tree-ring-dating-of-buildings",
+    "event:brunn-wolfholz-early-site-2",
+    "event:hornstaad-fire-layer-3910-bce",
+    "event:hornstaad-hoernle-ia-village",
+    "event:lepenski-vir-mobility-evidence",
+    "event:lepenski-vir-trapezoidal-buildings",
+    "geometry:brunn-wolfholz-orientation",
+    "geometry:hornstaad-hoernle-ia-orientation",
+    "geometry:lepenski-vir-orientation",
+    "place:brunn-wolfholz",
+    "place:hornstaad-hoernle-ia",
+    "place:lepenski-vir",
+    "source:boric-lepenski-chronology-2019",
+    "source:boric-price-danube-mobility-2013",
+    "source:mgolubovic-lepenski-vir-photo-2026",
+    "source:nikitin-brunn-2-2019",
+    "source:ramsar-lepenski-vir-relocation",
+    "source:stadler-kotova-vienna-basin-2011",
+    "source:styring-hornstaad-farming-2016",
+    "source:unesco-hornstaad-hoernle-location",
+    "specimen:hornstaad-charred-harvest",
+    "specimen:lepenski-vir-enamel-sample"
+  ],
+  "entryChapterIds": [
+    "chapter:new-neighbours-in-europe"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dunne-takarkori-dairying-2012",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "First dairying in green Saharan Africa in the fifth millennium BC",
+  "sourceType": "article",
+  "creators": [
+    "Julie Dunne",
+    "Richard P. Evershed",
+    "Mélanie Salque",
+    "et al."
+  ],
+  "url": "https://doi.org/10.1038/nature11186",
+  "published": "2012",
+  "identifiers": {
+    "doi": "10.1038/nature11186"
+  },
+  "bibliographicNote": "Nature 486, pp. 390–394. Abstract reports isotopic evidence of dairy fats in Takarkori pottery. Context and sample-level interpretation here follow the accessible full analysis in Dunne et al. 2018."
+}

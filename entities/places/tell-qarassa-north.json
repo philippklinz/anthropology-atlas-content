@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tell-qarassa-north",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:godon-qarassa-excavation-2015",
+      "role": "supports",
+      "locator": "p. 154, fieldwork account: the Qarassa complex occupies two tells at 32.832915° N, 36.412547° E; Pre-Pottery Neolithic B remains on the northern mound"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tell Qarassa North · Syrien",
+    "en": "Tell Qarassa North · Syria"
+  },
+  "summary": {
+    "de": "Nördlicher Siedlungshügel im heutigen Südsyrien, westlich des Jabal al-Arab. Im Fundbereich XYZ sind Steinbauten und ein offener Hofbereich belegt.",
+    "en": "Northern settlement mound in present-day southern Syria, west of Jabal al-Arab. Area XYZ has stone structures and an open patio area."
+  }
+}

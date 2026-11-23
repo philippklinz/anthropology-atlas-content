@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:nikitin-brunn-2-2019",
+  "sourceRefs": [],
+  "title": "Interactions between earliest Linearbandkeramik farmers and central European hunter gatherers at the dawn of European Neolithization",
+  "sourceType": "article",
+  "creators": [
+    "Alexey G. Nikitin",
+    "Peter Stadler",
+    "Nadezhda Kotova",
+    "Maria Teschler-Nicola",
+    "T. Douglas Price",
+    "Jessica Hoover",
+    "Douglas J. Kennett",
+    "Iosif Lazaridis",
+    "Nadin Rohland",
+    "Mark Lipson",
+    "David Reich"
+  ],
+  "url": "https://www.nature.com/articles/s41598-019-56029-2",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The independent scope of the oldest part of Brunn 2 is given in Materials and Methods. The coordinate locates the larger Wolfholz excavation site.",
+  "published": "2019-12-20",
+  "identifiers": {
+    "doi": "10.1038/s41598-019-56029-2"
+  },
+  "containerTitle": "Scientific Reports 9, 19544"
+}

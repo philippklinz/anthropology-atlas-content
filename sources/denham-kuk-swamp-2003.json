@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:denham-kuk-swamp-2003",
+  "sourceRefs": [],
+  "title": "Origins of Agriculture at Kuk Swamp in the Highlands of New Guinea",
+  "sourceType": "article",
+  "creators": [
+    "Tim P. Denham",
+    "Simon G. Haberle",
+    "Carol Lentfer",
+    "Richard Fullagar",
+    "Judith Field",
+    "M. Therin",
+    "N. Porch",
+    "B. Winsborough"
+  ],
+  "published": "2003",
+  "containerTitle": "Science 301(5630), 189–193",
+  "identifiers": {
+    "doi": "10.1126/science.1085255"
+  },
+  "url": "https://researchportalplus.anu.edu.au/en/publications/origins-of-agriculture-at-kuk-swamp-in-the-highlands-of-new-guine/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Primary article read in a full academic-host copy. Table 1 and pp. 190–192 set out distinct phases, dating and evidence. The authors identify more substantial cultivation evidence in Phase 2 than in Phase 1."
+}

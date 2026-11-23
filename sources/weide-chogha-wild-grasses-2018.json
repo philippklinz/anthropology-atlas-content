@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:weide-chogha-wild-grasses-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A systematic review of wild grass exploitation in relation to emerging cereal cultivation throughout the Epipalaeolithic and aceramic Neolithic of the Fertile Crescent",
+  "creators": [
+    "Alexander Weide",
+    "Simone Riehl",
+    "Mohsen Zeidi",
+    "Nicholas J. Conard"
+  ],
+  "published": "2018-01-02",
+  "sourceType": "article",
+  "url": "https://doi.org/10.1371/journal.pone.0189811",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0189811"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PLOS ONE 13(1), e0189811. The Chogha Golan case study includes primary analysis of additional flotation samples, new comparisons and the CC BY 4.0 site figure S1."
+}

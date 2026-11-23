@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:denham-golson-hughes-kuk-phase-two-2017",
+  "sourceRefs": [],
+  "title": "Phase 2: Mounded Cultivation During the Mid Holocene",
+  "sourceType": "book",
+  "creators": [
+    "Tim Denham",
+    "Jack Golson",
+    "Philip Hughes"
+  ],
+  "published": "2017",
+  "url": "https://press-files.anu.edu.au/downloads/press/n2540/html/ch12.xhtml",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Chapter 12 of Ten Thousand Years of Cultivation at Kuk Swamp in the Highlands of Papua New Guinea, ANU Press. Original investigators explain divergent readings of Phase 1 and the stronger mounding evidence in early Phase 2; details and dating of the later subphase are separate."
+}

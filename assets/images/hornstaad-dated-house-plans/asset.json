@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:hornstaad-dated-house-plans",
+  "sourceRefs": [
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Fig. 2 and credit: construction-date plan drawn by Arno Harwath and modified by Amy Styring; license in Information"
+    }
+  ],
+  "assetType": "image",
+  "file": "hornstaad-dated-house-plans.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Hornstaad-Hörnle IA · Datierte Hauspläne",
+    "en": "Hornstaad-Hörnle IA · dated house plans"
+  },
+  "alt": {
+    "de": "Archäologischer Plan mit farbigen Grundrissen und einer Legende der Baujahre. Schraffierte und unscharfe Markierungen bezeichnen andere oder weniger vollständig erhaltene Befunde.",
+    "en": "Archaeological plan with coloured house plans and a key to construction dates. Hatched and blurred marks designate other or less complete features."
+  },
+  "entityIds": [
+    "place:hornstaad-hoernle-ia",
+    "artifact:hornstaad-hoernle-ia-timber"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Arno Harwath",
+      "Amy Styring"
+    ],
+    "attribution": "Arno Harwath (drawing), Amy Styring (published modifications), Styring et al. 2016, Fig. 2 · CC BY 4.0",
+    "sourceUrl": "https://www.cambridge.org/core/journals/antiquity/article/cultivation-of-choice-new-insights-into-farming-practices-at-neolithic-lakeshore-sites/ACB0CAC3A8823A3C30F151D5E9827315#fig003",
+    "originNote": "Cambridge publisher figure of 1063 × 758 pixels, recompressed as JPEG without cropping or altering diagram content. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

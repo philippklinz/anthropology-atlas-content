@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:early-herds",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Mit Tieren leben",
+    "en": "Living with Animals"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:ganj-dareh-hoofprint-brick",
+    "artifact:takarkori-sherd-tak21a",
+    "assertion:asikli-dung-and-salt-samples-at-site",
+    "assertion:ganj-dareh-goat-assemblage-at-site",
+    "assertion:ganj-dareh-hoofprint-brick-at-site",
+    "assertion:takarkori-sherd-tak21a-at-site",
+    "asset:asikli-hoyuk-tell",
+    "asset:takarkori-rock-shelter",
+    "chapter:living-with-animals",
+    "concept:herding-and-domestication",
+    "event:asikli-caprine-keeping-evidence",
+    "event:ganj-dareh-goat-management-evidence",
+    "event:takarkori-milk-fat-evidence",
+    "geometry:asikli-hoyuk-orientation",
+    "geometry:ganj-dareh-orientation",
+    "geometry:takarkori-orientation",
+    "place:asikli-hoyuk",
+    "place:ganj-dareh",
+    "place:takarkori",
+    "source:abell-asikli-urine-salts-2019",
+    "source:commons-asikli-hoyuk-tell",
+    "source:commons-takarkori-rock-shelter",
+    "source:daly-zagros-goat-genomes-2021",
+    "source:dunne-dairying-northern-africa-2018",
+    "source:dunne-takarkori-dairying-2012",
+    "source:enghoff-van-neer-takarkori-location-2021",
+    "source:kalkan-asikli-location-2024",
+    "source:stiner-asikli-caprines-2014",
+    "source:stuckenrath-mielke-ganj-dareh-1973",
+    "source:van-neer-takarkori-fauna-2020",
+    "specimen:asikli-dung-and-salt-samples",
+    "specimen:ganj-dareh-goat-assemblage"
+  ],
+  "entryChapterIds": [
+    "chapter:living-with-animals"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

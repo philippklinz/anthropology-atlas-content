@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:torihama-shell-midden-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.9009,
+      35.5547
+    ]
+  }
+}

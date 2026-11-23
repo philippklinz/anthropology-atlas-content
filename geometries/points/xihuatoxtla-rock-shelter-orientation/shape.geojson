@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:xihuatoxtla-rock-shelter-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.4,
+      18.38
+    ]
+  }
+}

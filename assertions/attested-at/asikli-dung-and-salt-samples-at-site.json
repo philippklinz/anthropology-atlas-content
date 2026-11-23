@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:asikli-dung-and-salt-samples-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction; Fig. 2A and pp. 2–3: intact trampled dung, possible enclosures and sediment microscopy"
+    },
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "pp. 3–5, Results and Figs. 4–5; pp. 5–8, Discussion and Fig. 6: salt increase, urine model and uncertainty"
+    },
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction: Levels 5 and 4 ca. 10,400–10,000 cal BP, Level 3 ca. 10,000–9,700 cal BP, Level 2 ca. 9,700–9,300 cal BP"
+    }
+  ],
+  "subjectId": "specimen:asikli-dung-and-salt-samples",
+  "predicate": "attested-at",
+  "objectId": "place:asikli-hoyuk",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 10400,
+      "younger": 10400,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 9300,
+      "younger": 9300,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Zeitangabe beschreibt den archäologischen Fundzusammenhang.",
+    "en": "The time estimate describes the archaeological context."
+  }
+}

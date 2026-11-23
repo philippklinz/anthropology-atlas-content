@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:qarassa-cereal-chaff-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:arranz-otaegui-qarassa-cereals-2016",
+      "role": "supports",
+      "locator": "pp. 14003–14004, The Evidence of Cereal Domestication at Tell Qarassa North: area XYZ-67/68/69, 732 fragments, 305 classifiable, 427 unclassified; early Pre-Pottery Neolithic B dates and reference to Tables S3–S5"
+    },
+    {
+      "sourceId": "source:arranz-otaegui-qarassa-landscape-2017",
+      "role": "supports",
+      "locator": "Accepted manuscript section 4.1 (area XYZ occupation and patio) and section 6.2 (crop ecology and earlier phases I–IV)"
+    }
+  ],
+  "subjectId": "specimen:qarassa-cereal-chaff",
+  "predicate": "attested-at",
+  "objectId": "place:tell-qarassa-north",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 10700,
+      "younger": 10200,
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Zeitspanne bezeichnet den frühen vorkeramischen Fundbereich XYZ-67/68/69. Häufigkeiten und Bruchformen sprechen zusammen mit den Körnermaßen für Anbau und beginnende Domestikation. Mehr als die Hälfte der Fragmente war für dieses Merkmal nicht bestimmbar.",
+      "en": "The date range covers the early Pre-Pottery Neolithic B excavation area XYZ-67/68/69. Scar frequencies and shapes, together with grain measurements, support cultivation and incipient domestication. More than half the fragments could not be classified for this trait."
+    }
+  },
+  "note": {
+    "de": "Die Zeitspanne bezeichnet den frühen vorkeramischen Fundbereich XYZ-67/68/69. Häufigkeiten und Bruchformen sprechen zusammen mit den Körnermaßen für Anbau und beginnende Domestikation. Mehr als die Hälfte der Fragmente war für dieses Merkmal nicht bestimmbar.",
+    "en": "The date range covers the early Pre-Pottery Neolithic B excavation area XYZ-67/68/69. Scar frequencies and shapes, together with grain measurements, support cultivation and incipient domestication. More than half the fragments could not be classified for this trait."
+  }
+}

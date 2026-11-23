@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:nanchoc-ca-09-77-squash-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "supports",
+      "locator": "pp. 1890–1892 and Table 1: CA-09-77 squash seed Beta 179512, 9240 ± 50 radiocarbon BP, reported 2σ interval 10,403–10,163 cal BP"
+    },
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "supports",
+      "locator": "p. 1890 and Table 1, Beta 219589: the younger squash seed from CA-09-27; p. 1893, discussion of adoption and limits on claimed local domestication"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ñanchoc · ein direkt datierter Kürbissame",
+    "en": "Ñanchoc · a directly dated squash seed"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 10403,
+      "younger": 10163,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "placeIds": [
+    "place:nanchoc-ca-09-77"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:nanchoc-ca-09-77-orientation",
+      "role": "findspot"
+    }
+  ],
+  "participants": [
+    {
+      "entityId": "specimen:nanchoc-ca-09-77-squash-seed",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "Beta 179512 aus der Fundstelle CA-09-77. 9240 ± 50 Radiokarbonjahre BP ergeben laut Tabelle 1 den kalibrierten 2σ-Bereich 10.403–10.163 BP. Ein jüngerer Same aus CA-09-27 ist eine eigene Probe.",
+    "en": "Beta 179512 from site CA-09-77. 9240 ± 50 radiocarbon years BP give the 10,403–10,163 cal BP 2σ range in Table 1. A younger seed from CA-09-27 is a separate sample."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Datierung betrifft den Samen selbst. Die Zuordnung der Samenfunde zu Cucurbita moschata beruht auf Merkmalen der Funde. Wo die Domestikation ursprünglich stattfand, bleibt offen.",
+      "en": "The date applies to the seed. Identifying the valley's finds as Cucurbita moschata draws on their traits. The place of initial domestication remains open."
+    }
+  }
+}

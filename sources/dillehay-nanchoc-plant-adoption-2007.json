@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:dillehay-nanchoc-plant-adoption-2007",
+  "sourceRefs": [],
+  "title": "Preceramic Adoption of Peanut, Squash, and Cotton in Northern Peru",
+  "sourceType": "article",
+  "creators": [
+    "Tom D. Dillehay",
+    "Jack Rossen",
+    "Thomas C. Andres",
+    "David E. Williams"
+  ],
+  "published": "2007",
+  "containerTitle": "Science 316(5833), 1890–1893",
+  "identifiers": {
+    "doi": "10.1126/science.1141395"
+  },
+  "url": "https://doi.org/10.1126/science.1141395",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Original published text and Table 1 consulted in an indexed reproduction. Sites and specimens are kept separate. The authors discuss adoption of crops and do not identify Ñanchoc as the domestication centre of the plants discussed here."
+}

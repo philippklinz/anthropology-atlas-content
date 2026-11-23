@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:xihuatoxtla-maize-and-squash-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ranere-xihuatoxtla-context-2009",
+      "role": "supports",
+      "locator": "p. 5015, Results and Fig. 3: layer D charcoal at 65 cm below surface, 7920 ± 40 radiocarbon BP, 8990–8610 cal BP; underlying deposits lack dates"
+    },
+    {
+      "sourceId": "source:piperno-xihuatoxtla-microremains-2009",
+      "role": "supports",
+      "locator": "pp. 5019–5023, Table 1 and Figs. 1–2: maize starch and cob phytoliths, Cucurbita rind phytoliths, deeper levels and domestication criteria"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Xihuatoxtla · Mais und Kürbis im Fundkontext",
+    "en": "Xihuatoxtla · maize and squash in context"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 8990,
+      "younger": 8610,
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "placeIds": [
+    "place:xihuatoxtla-rock-shelter"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:xihuatoxtla-rock-shelter-orientation",
+      "role": "findspot"
+    }
+  ],
+  "participants": [
+    {
+      "entityId": "specimen:xihuatoxtla-plant-microremains",
+      "role": "attested-entity"
+    }
+  ],
+  "note": {
+    "de": "8990–8610 cal BP ist das publizierte Alter einer Holzkohleprobe aus Schicht D (7920 ± 40 Radiokarbonjahre BP). Pflanzenreste stammen aus entsprechender Tiefe sowie aus der tieferen, nicht direkt datierten Schicht E.",
+    "en": "8990–8610 cal BP is the published age of a layer D charcoal sample (7920 ± 40 radiocarbon years BP). Plant traces occur at corresponding depth and also in the deeper, undated layer E."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Stärke- und Phytolithenmerkmale stützen die Bestimmung von Mais und domestiziertem Kürbis. Die Datierung ordnet den Fundkontext ein und liefert kein einzelnes Erntejahr.",
+      "en": "Starch and phytolith traits support maize and domesticated squash identification. The age places the find context rather than dating an individual harvest."
+    }
+  }
+}

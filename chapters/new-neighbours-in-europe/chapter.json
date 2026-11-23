@@ -1,0 +1,366 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:new-neighbours-in-europe",
+  "sourceRefs": [
+    {
+      "sourceId": "source:boric-lepenski-chronology-2019",
+      "role": "supports",
+      "locator": "p. 29, model 1 and Fig. 11: individual 95% ranges for start and end of architectural phase I–II; pp. 43–44: floors, hearths and the settlement sequence"
+    },
+    {
+      "sourceId": "source:boric-lepenski-chronology-2019",
+      "role": "supports",
+      "locator": "pp. 14 and 16–17, Dating human remains and age-offset; p. 44, continued use of river fish after domestic animals became available"
+    },
+    {
+      "sourceId": "source:boric-price-danube-mobility-2013",
+      "role": "supports",
+      "locator": "pp. 3298–3302, Fig. 2–3 and results for Lepenski Vir: assumed regional strontium range and five individuals outside it in transition phase I–II"
+    },
+    {
+      "sourceId": "source:ramsar-lepenski-vir-relocation",
+      "role": "supports",
+      "locator": "Lepenski Vir, p. 44: relocation of excavated house remains approximately 100 m downstream and 30 m higher before inundation"
+    },
+    {
+      "sourceId": "source:nikitin-brunn-2-2019",
+      "role": "supports",
+      "locator": "p. 3, Materials and Methods, Brunn 2 archaeological site: WGS84 site coordinate, oldest part dated to c. 5670–5450 cal BCE by 16 radiocarbon dates, coarse early pottery"
+    },
+    {
+      "sourceId": "source:stadler-kotova-vienna-basin-2011",
+      "role": "supports",
+      "locator": "pp. 152–155 and Fig. 4–6: Brunn Wolfholz site groups, old site 2, ground traces, approximate house dimensions and posthole preservation"
+    },
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Introduction, Hornstaad-Hörnle IA section and Fig. 2–3: 3918–3902 cal BC settlement, 3910 BC fire, grain sampling, identified cereals and fishing equipment"
+    }
+  ],
+  "labels": {
+    "de": "Neue Nachbarn, neue Dörfer",
+    "en": "New Neighbours, New Villages"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:lepenski-vir-mobility-evidence",
+    "event:brunn-wolfholz-early-site-2",
+    "event:hornstaad-fire-layer-3910-bce"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 15.7,
+      "latitude": 46.5,
+      "metersPerPixel": 4700,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -6249,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -6249,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -3849,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -3849,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "lepenski-vir",
+      "textAnchor": "lepenski-vir",
+      "labels": {
+        "de": "1 · Lepenski Vir: Spuren im Zahnschmelz",
+        "en": "1 · Lepenski Vir: clues in tooth enamel"
+      },
+      "summary": {
+        "de": "Die Böden zeigen, wie Menschen hier bauten. Zahnschmelz gibt Hinweise darauf, wo sie aufwuchsen.",
+        "en": "Floors show how people built here. Tooth enamel offers clues about where they grew up."
+      },
+      "state": {
+        "camera": {
+          "longitude": 22.317,
+          "latitude": 44.556,
+          "metersPerPixel": 950,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -6249,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -6249,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -5849,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -5849,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:lepenski-vir-sheltered-floors"
+    },
+    {
+      "id": "brunn-wolfholz",
+      "textAnchor": "brunn-wolfholz",
+      "labels": {
+        "de": "2 · Brunn-Wolfholz: Spuren langer Häuser",
+        "en": "2 · Brunn-Wolfholz: traces of long houses"
+      },
+      "summary": {
+        "de": "Gräben und Pfostenspuren lassen erahnen, wie viel Platz ein Haus einnahm.",
+        "en": "Trenches and post traces suggest how much space a house took up."
+      },
+      "state": {
+        "camera": {
+          "longitude": 16.2917,
+          "latitude": 48.1204,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -5699,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -5699,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -5399,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -5399,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "hornstaad",
+      "textAnchor": "hornstaad",
+      "labels": {
+        "de": "3 · Hornstaad: Ein Dorf mit datierten Hölzern",
+        "en": "3 · Hornstaad: a village dated by its wood"
+      },
+      "summary": {
+        "de": "Die Hölzer geben eine Abfolge von Baujahren. In einer Brandschicht blieben Vorräte erhalten.",
+        "en": "Timber records a sequence of building years. A layer from a fire preserved crop stores."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.006,
+          "latitude": 47.695,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -3949,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3949,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -3849,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -3849,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:hornstaad-dated-house-plans"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Was verraten Zähne, Hausgräben und verbranntes Getreide über Dorfleben? Drei Fundorte in Europa. Ansichtsfenster 6250–3850 v. Chr.",
+      "en": "What can teeth, house trenches and burned grain tell us about village life? Three European sites. Viewing window 6250–3850 BCE."
+    },
+    "periods": [
+      {
+        "id": "postglacial-lifeways",
+        "labels": {
+          "de": "Neue Lebensweisen nach der Kaltzeit",
+          "en": "New Ways of Living After the Ice Age"
+        },
+        "description": {
+          "de": "Vom Ende der letzten Kaltzeit bis zu frühen bäuerlichen Gemeinschaften. Die Kapitel vergleichen Wohnen, Sammeln, Anbau und Tierhaltung in verschiedenen Regionen. Mesolithikum und Jungsteinzeit bezeichnen regionale Entwicklungen mit unterschiedlichen Zeitgrenzen.",
+          "en": "From the end of the last glacial period to early farming communities. The chapters compare dwelling, foraging, cultivation and herding across regions. The Mesolithic and Neolithic describe regional developments with different time boundaries."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "europe",
+        "labels": {
+          "de": "Europa",
+          "en": "Europe"
+        }
+      },
+      {
+        "id": "balkans",
+        "labels": {
+          "de": "Balkan",
+          "en": "Balkans"
+        }
+      },
+      {
+        "id": "central-europe",
+        "labels": {
+          "de": "Mitteleuropa",
+          "en": "Central Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "farming-and-herding",
+        "labels": {
+          "de": "Ackerbau und Tierhaltung",
+          "en": "Cultivation and herding"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:brunn-wolfholz-longhouse-traces",
+    "artifact:hornstaad-hoernle-ia-timber",
+    "artifact:lepenski-trapezoid-floors",
+    "assertion:brunn-longhouse-traces-at-wolfholz",
+    "assertion:hornstaad-grain-at-lakeshore-village",
+    "assertion:hornstaad-wood-at-lakeshore-village",
+    "assertion:lepenski-floors-at-lepenski-vir",
+    "asset:hornstaad-dated-house-plans",
+    "asset:lepenski-vir-sheltered-floors",
+    "concept:strontium-enamel-mobility",
+    "concept:tree-ring-dating-of-buildings",
+    "event:brunn-wolfholz-early-site-2",
+    "event:hornstaad-fire-layer-3910-bce",
+    "event:hornstaad-hoernle-ia-village",
+    "event:lepenski-vir-mobility-evidence",
+    "event:lepenski-vir-trapezoidal-buildings",
+    "geometry:brunn-wolfholz-orientation",
+    "geometry:hornstaad-hoernle-ia-orientation",
+    "geometry:lepenski-vir-orientation",
+    "place:brunn-wolfholz",
+    "place:hornstaad-hoernle-ia",
+    "place:lepenski-vir",
+    "source:boric-lepenski-chronology-2019",
+    "source:boric-price-danube-mobility-2013",
+    "source:mgolubovic-lepenski-vir-photo-2026",
+    "source:nikitin-brunn-2-2019",
+    "source:ramsar-lepenski-vir-relocation",
+    "source:stadler-kotova-vienna-basin-2011",
+    "source:styring-hornstaad-farming-2016",
+    "source:unesco-hornstaad-hoernle-location",
+    "specimen:hornstaad-charred-harvest",
+    "specimen:lepenski-vir-enamel-sample"
+  ]
+}

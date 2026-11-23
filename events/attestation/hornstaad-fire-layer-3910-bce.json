@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:hornstaad-fire-layer-3910-bce",
+  "sourceRefs": [
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Introduction, Hornstaad-Hörnle IA section and Fig. 2–3: 3918–3902 cal BC settlement, 3910 BC fire, grain sampling, identified cereals and fishing equipment"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Hornstaad · Ernte im Brandschutt",
+    "en": "Hornstaad · harvest in the fire layer"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -3909,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -3909,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:hornstaad-charred-harvest",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:hornstaad-hoernle-ia"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hornstaad-hoernle-ia-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Die Brandschicht von 3910 v. Chr. enthält verkohlte Ähren und Körner. Unter den untersuchten Getreiden sind mehrere Weizenformen und Gerste. Die Dendrochronologie ermöglicht die Zuordnung zum Brand innerhalb der Siedlungsphase.",
+    "en": "The burnt layer from 3910 BCE contains charred cereal ears and grains, including several kinds of wheat and barley. Tree-ring dating places the fire within the village sequence."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Brandschicht von 3910 v. Chr. enthält verkohlte Ähren und Körner. Unter den untersuchten Getreiden sind mehrere Weizenformen und Gerste. Die Dendrochronologie ermöglicht die Zuordnung zum Brand innerhalb der Siedlungsphase.",
+      "en": "The burnt layer from 3910 BCE contains charred cereal ears and grains, including several kinds of wheat and barley. Tree-ring dating places the fire within the village sequence."
+    }
+  }
+}

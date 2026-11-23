@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:torihama-initial-jomon-aquatic-residues",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3991–3993, Torihama, Results and Table 1: Initial Jōmon subset 11.1–8.0 ka cal BP"
+    },
+    {
+      "sourceId": "source:lucquin-torihama-pottery-2016",
+      "role": "supports",
+      "locator": "pp. 3992–3995, Results, Table 1 and Fig. 3B–C: aquatic biomarkers and different signals across sampled periods; Discussion: other preserved foods"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Torihama · Rückstände in frühen Töpfen",
+    "en": "Torihama · residues in early pots"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 11100,
+      "younger": 11100,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 8000,
+      "younger": 8000,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:torihama-pottery-sample",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:torihama-shell-midden"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:torihama-shell-midden-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Der Zeitraum 11.100–8.000 cal BP bezieht sich auf die untersuchte Initial-Jōmon-Gruppe der Tabelle 1. Am selben Fundort liegen weitere, ältere und jüngere Gefäßproben vor.",
+    "en": "The window 11,100–8,000 cal BP applies to the Initial Jōmon group in Table 1. The same locality has other pottery samples from earlier and later phases."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Chemische Spuren in verkohlten Belägen stützen die Verarbeitung von Nahrung aus dem Wasser. Welche Arten und Rezepte in einzelnen Gefäßen vorkamen, bleibt weithin offen.",
+      "en": "Chemical traces in charred deposits support processing aquatic foods. The species and recipes used in individual pots remain largely unknown."
+    }
+  }
+}

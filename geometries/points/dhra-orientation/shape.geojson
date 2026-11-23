@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:dhra-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.58,
+      31.25
+    ]
+  }
+}

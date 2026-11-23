@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:hornstaad-hoernle-ia",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-hornstaad-hoernle-location",
+      "role": "supports",
+      "locator": "Serial site component 1363-074, Hornstaad-Hörnle, N47°41′40.23″ E9°00′21.30″"
+    },
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Introduction, Hornstaad-Hörnle IA section and Fig. 2–3: 3918–3902 cal BC settlement, 3910 BC fire, grain sampling, identified cereals and fishing equipment"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hornstaad-Hörnle IA · Bodensee",
+    "en": "Hornstaad-Hörnle IA · Lake Constance"
+  },
+  "summary": {
+    "de": "Jungsteinzeitliches Dorf am Bodenseeufer im heutigen Südwestdeutschland. Die Kapitelstation betrifft die Phase IA im größeren Fundplatz Hornstaad-Hörnle.",
+    "en": "Neolithic village on the shore of Lake Constance in present-day southwest Germany. This stop concerns phase IA within the larger Hornstaad-Hörnle site."
+  }
+}

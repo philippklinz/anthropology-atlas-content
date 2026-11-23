@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:inei-nanchoc-location-2012",
+  "sourceRefs": [],
+  "title": "Directorio Nacional de Municipalidades Provinciales, Distritales y de Centros Poblados 2012",
+  "sourceType": "dataset",
+  "creators": [
+    "Instituto Nacional de Estadística e Informática"
+  ],
+  "published": "2012",
+  "url": "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1018/Libro.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "bibliographicNote": "Modern Nanchoc coordinates for valley orientation. They do not identify the location of a prehistoric house floor."
+}

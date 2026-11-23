@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:chogha-golan-site-profile",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:weide-chogha-wild-grasses-2018",
+      "role": "derivation",
+      "locator": "Supporting information, S1 Fig. The site of Chogha Golan; photograph and diagrams credited to M. Zeidi; article CC BY 4.0 notice"
+    }
+  ],
+  "assetType": "image",
+  "file": "chogha-golan-site-profile.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Chogha Golan · Landschaft, Lageplan und Grabungsprofil",
+    "en": "Chogha Golan · landscape, plan and excavation profile"
+  },
+  "alt": {
+    "de": "Links oben die heutige trockene Landschaft, darunter der Höhenlinienplan des Hügels. Rechts zeigt ein beschrifteter Schnitt die archäologischen Horizonte I bis XI.",
+    "en": "Present-day dry landscape at top left, with a contour plan of the mound below. On the right is a labelled section through archaeological horizons I to XI."
+  },
+  "entityIds": [
+    "place:chogha-golan",
+    "specimen:chogha-golan-emmer-chaff"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Mohsen Zeidi"
+    ],
+    "attribution": "Mohsen Zeidi · Weide et al. (2018), PLOS ONE, S1 Fig. · CC BY 4.0 · resized and converted to WebP",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0189811.s004",
+    "originNote": "Complete plate resized to 1026 × 1350 px and encoded as WebP. License: https://creativecommons.org/licenses/by/4.0/"
+  }
+}

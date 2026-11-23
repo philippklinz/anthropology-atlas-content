@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:ganj-dareh-hoofprint-brick-at-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "pp. 2–3, Fig. 2B and caption: hoof impressions in a mud brick, sample 270, context 2033"
+    },
+    {
+      "sourceId": "source:daly-zagros-goat-genomes-2021",
+      "role": "supports",
+      "locator": "p. 2, settlement chronology, 8,200–7,600 cal BC at 1σ; SI Fig. S3 and Table S2"
+    }
+  ],
+  "subjectId": "artifact:ganj-dareh-hoofprint-brick",
+  "predicate": "attested-at",
+  "objectId": "place:ganj-dareh",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -8199,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -7599,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Zeitangabe beschreibt den archäologischen Fundzusammenhang.",
+    "en": "The time estimate describes the archaeological context."
+  }
+}

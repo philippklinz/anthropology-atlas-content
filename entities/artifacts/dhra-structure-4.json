@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:dhra-structure-4",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:kuijt-finlayson-dhra-storage-2009",
+      "role": "supports",
+      "locator": "pp. 10967–10968, Structure 4, phase I and Figs. 2–5: upright stones, burned wood, inferred floor, construction and abandonment"
+    },
+    {
+      "sourceId": "source:colledge-et-al-dhra-plants-2018",
+      "role": "supports",
+      "locator": "Abstract, archaeobotanical results and comparison of barley grain dimensions: cultivation proposed, with uncertainty over the meaning of storage remains"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Dhra′ · Bau 4, erste Phase",
+    "en": "Dhra′ · Structure 4, first phase"
+  },
+  "summary": {
+    "de": "Aufrechte gekerbte Steine, verkohlte Balken und Lehmabdrücke gehören zu einem kleinen Gebäude. Das Grabungsteam deutet es als Speicher mit erhöhtem Boden.",
+    "en": "Notched upright stones, charred beams and impressions in mud belonged to a small building. The excavators interpret it as a store with a raised floor."
+  }
+}

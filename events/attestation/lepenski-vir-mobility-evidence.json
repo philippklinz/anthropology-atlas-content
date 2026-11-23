@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:lepenski-vir-mobility-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:boric-price-danube-mobility-2013",
+      "role": "supports",
+      "locator": "pp. 3298–3302, Fig. 2–3 and results for Lepenski Vir: assumed regional strontium range and five individuals outside it in transition phase I–II"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Lepenski Vir · Hinweise auf Zuzug",
+    "en": "Lepenski Vir · evidence of arrivals"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -6199,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -5949,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "specimen:lepenski-vir-enamel-sample",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:lepenski-vir"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:lepenski-vir-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Fünf untersuchte Individuen aus Phase I–II weisen Zahnschmelzwerte außerhalb des für die Donauschluchten angenommenen Bereichs auf. Das spricht für Kindheit in anderen Gebieten. Die breiten Zeitgrenzen fassen die Übergangsphase in der Studie zusammen.",
+    "en": "The enamel of five individuals assigned to phase I–II falls outside the range assumed for the Danube Gorges. This suggests childhood elsewhere. The broad dates represent the transition phase as used in the study."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Fünf untersuchte Individuen aus Phase I–II weisen Zahnschmelzwerte außerhalb des für die Donauschluchten angenommenen Bereichs auf. Das spricht für Kindheit in anderen Gebieten. Die breiten Zeitgrenzen fassen die Übergangsphase in der Studie zusammen.",
+      "en": "The enamel of five individuals assigned to phase I–II falls outside the range assumed for the Danube Gorges. This suggests childhood elsewhere. The broad dates represent the transition phase as used in the study."
+    }
+  }
+}

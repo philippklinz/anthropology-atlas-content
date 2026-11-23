@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kalkan-asikli-location-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "Geochemical Analyses to Make the Invisible More Concrete: Cycles of Building Use and Roof Hatches at the Early Neolithic Site of Aşıklı Höyük",
+  "sourceType": "article",
+  "creators": [
+    "Fatma Kalkan",
+    "Mihriban Özbaşaran",
+    "Rana Özbal"
+  ],
+  "url": "https://doi.org/10.1080/00934690.2024.2338621",
+  "published": "2024",
+  "identifiers": {
+    "doi": "10.1080/00934690.2024.2338621"
+  },
+  "bibliographicNote": "Journal of Field Archaeology 49(5), pp. 301–317. Publisher's indexed Geolocation of the Case Study Area gives the site coordinates used for the orientation point."
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:nanchoc-ca-09-77",
+  "sourceRefs": [
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "supports",
+      "locator": "pp. 1890–1892 and Table 1: CA-09-77 squash seed Beta 179512, 9240 ± 50 radiocarbon BP, reported 2σ interval 10,403–10,163 cal BP"
+    },
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "derivation",
+      "locator": "p. 1890, study location and Fig. 1, Ñanchoc Valley in northern Peru"
+    },
+    {
+      "sourceId": "source:inei-nanchoc-location-2012",
+      "role": "derivation",
+      "locator": "Cajamarca, San Miguel province, Nanchoc locality row, 06°57′30″ S, 79°14′31″ W"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Ñanchoc-Tal · Fundstelle CA-09-77",
+    "en": "Ñanchoc Valley · site CA-09-77"
+  },
+  "summary": {
+    "de": "Fundstelle an den westlichen Andenhängen in Nordperu. Der direkt datierte Kürbissame stammt aus einem Hausboden.",
+    "en": "Site on the western Andean slopes of northern Peru. The directly dated squash seed came from a house floor."
+  }
+}

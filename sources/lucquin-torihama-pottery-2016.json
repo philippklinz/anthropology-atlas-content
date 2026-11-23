@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:lucquin-torihama-pottery-2016",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ancient lipids document continuity in the use of early hunter-gatherer pottery through 9,000 years of Japanese prehistory",
+  "creators": [
+    "Alexandre Lucquin",
+    "Kevin Gibbs",
+    "Junzo Uchiyama",
+    "Hayley Saul",
+    "Mayumi Ajimoto",
+    "Yvette Eley",
+    "Anita Radini",
+    "Carl P. Heron",
+    "Shinya Shoda",
+    "Yastami Nishida",
+    "Jasmine Lundy",
+    "Peter Jordan",
+    "Sven Isaksson",
+    "Oliver E. Craig"
+  ],
+  "url": "https://doi.org/10.1073/pnas.1522908113",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PNAS 113(15), 3991–3996. Published main paper, Results, Table 1 and Discussion read. The selected age of 11.1–8.0 ka cal BP is the Initial Jōmon subset at Torihama. Sample counts in Table 1 and the count of pots for the full investigation refer to different units.",
+  "sourceType": "article",
+  "published": "2016-04-12",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1073/pnas.1522908113"
+  }
+}

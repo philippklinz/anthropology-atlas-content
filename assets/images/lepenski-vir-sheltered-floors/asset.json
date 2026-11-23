@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:lepenski-vir-sheltered-floors",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mgolubovic-lepenski-vir-photo-2026",
+      "role": "supports",
+      "locator": "File metadata, author credit, camera coordinate, original-size and image-license declarations"
+    },
+    {
+      "sourceId": "source:ramsar-lepenski-vir-relocation",
+      "role": "supports",
+      "locator": "Lepenski Vir, p. 44: relocation of excavated house remains approximately 100 m downstream and 30 m higher before inundation"
+    }
+  ],
+  "assetType": "image",
+  "file": "lepenski-vir-sheltered-floors.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Lepenski Vir · Böden im heutigen Schutzbau",
+    "en": "Lepenski Vir · floors under the modern shelter"
+  },
+  "alt": {
+    "de": "Blick über rötliche versetzte Bodenflächen und Steinreste unter einem heutigen Glas- und Stahlbau.",
+    "en": "Reddish relocated floor surfaces and stone remains under a modern glass and steel shelter."
+  },
+  "entityIds": [
+    "place:lepenski-vir",
+    "artifact:lepenski-trapezoid-floors"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Mgolubovic"
+    ],
+    "attribution": "Mgolubovic, Lepenski vir lokalitet 2026.jpg, Wikimedia Commons · CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lepenski_vir_lokalitet_2026.jpg",
+    "originNote": "Unchanged 960 × 720 Commons thumbnail of the May 2026 photograph. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

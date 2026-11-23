@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:arranz-otaegui-qarassa-landscape-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Landscape transformations at the dawn of agriculture in southern Syria (10.7–9.9 ka cal. BP): Plant-specific responses to the impact of human activities and climate change",
+  "creators": [
+    "Amaia Arranz-Otaegui et al."
+  ],
+  "published": "2017",
+  "sourceType": "article",
+  "url": "https://doi.org/10.1016/j.quascirev.2017.01.001",
+  "identifiers": {
+    "doi": "10.1016/j.quascirev.2017.01.001"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Quaternary Science Reviews 158, 145–163. Institutional accepted manuscript, sections 4.1 and 6.2. The map point uses the independent excavation report by Godon and colleagues."
+}

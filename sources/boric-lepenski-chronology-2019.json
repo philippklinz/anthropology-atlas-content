@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:boric-lepenski-chronology-2019",
+  "sourceRefs": [],
+  "title": "Lepenski Vir Chronology and Stratigraphy Revisited",
+  "sourceType": "article",
+  "creators": [
+    "Dušan Borić"
+  ],
+  "url": "https://doiserbia.nb.rs/img/doi/0350-0241/2019/0350-02411969009B.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Original PDF read. Model 1 describes a phase boundary estimate, which is separate from the dates of individual floors or burials. Full text and figures are cited but not redistributed.",
+  "published": "2019",
+  "identifiers": {
+    "doi": "10.2298/STA1969009B"
+  },
+  "containerTitle": "Starinar 69, 9–60"
+}

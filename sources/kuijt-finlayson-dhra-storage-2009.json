@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kuijt-finlayson-dhra-storage-2009",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Evidence for food storage and predomestication granaries 11,000 years ago in the Jordan Valley",
+  "creators": [
+    "Ian Kuijt",
+    "Bill Finlayson"
+  ],
+  "published": "2009-07-07",
+  "sourceType": "article",
+  "url": "https://doi.org/10.1073/pnas.0812764106",
+  "identifiers": {
+    "doi": "10.1073/pnas.0812764106"
+  },
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PNAS 106(27), 10966–10970. Full text, Structure 4 phase I, Figures 2–5 and Discussion consulted."
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:lepenski-vir-enamel-sample",
+  "sourceRefs": [
+    {
+      "sourceId": "source:boric-price-danube-mobility-2013",
+      "role": "supports",
+      "locator": "pp. 3298–3302, Fig. 2–3 and results for Lepenski Vir: assumed regional strontium range and five individuals outside it in transition phase I–II"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Lepenski Vir · untersuchter Zahnschmelz",
+    "en": "Lepenski Vir · enamel samples"
+  },
+  "summary": {
+    "de": "Fünf untersuchte Individuen aus Phase I–II weisen Zahnschmelzwerte außerhalb des für die Donauschluchten angenommenen Bereichs auf. Das spricht für Kindheit in anderen Gebieten. Die breiten Zeitgrenzen fassen die Übergangsphase in der Studie zusammen.",
+    "en": "The enamel of five individuals assigned to phase I–II falls outside the range assumed for the Danube Gorges. This suggests childhood elsewhere. The broad dates represent the transition phase as used in the study."
+  }
+}

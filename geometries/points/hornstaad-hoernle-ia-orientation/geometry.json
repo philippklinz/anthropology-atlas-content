@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:hornstaad-hoernle-ia-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-hornstaad-hoernle-location",
+      "role": "supports",
+      "locator": "Serial site component 1363-074, Hornstaad-Hörnle, N47°41′40.23″ E9°00′21.30″"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 600,
+    "note": {
+      "de": "Redaktionelle Toleranz für die Orientierung auf der Grundkarte.",
+      "en": "Editorial tolerance for orientation on the basemap."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter UNESCO-Orientierungspunkt der mehrphasigen Fundstelle Hornstaad-Hörnle.",
+    "en": "Rounded UNESCO reference coordinate for the multi-phase Hornstaad-Hörnle site."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic site point",
+    "originNote": "Authored from published factual coordinates."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:tell-qarassa-north-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:godon-qarassa-excavation-2015",
+      "role": "derivation",
+      "locator": "p. 154, fieldwork account: the Qarassa complex occupies two tells at 32.832915° N, 36.412547° E; Pre-Pottery Neolithic B remains on the northern mound"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktioneller Orientierungsradius für den Fundort.",
+      "en": "Editorial orientation tolerance for the site location."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundete Position auf Grundlage der publizierten Ortsangabe.",
+    "en": "Rounded position derived from the published site location."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original atlas point based on the cited factual coordinate."
+  }
+}

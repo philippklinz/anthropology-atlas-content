@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:tianluoshan-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:shoda-tianluoshan-pottery-2018",
+      "role": "derivation",
+      "locator": "Introduction, final paragraph and Fig. 1: 121°22′E, 30°01′N"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Redaktionelle Toleranz zur Orientierung am Fundort.",
+      "en": "Editorial allowance for locating the site."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Fundort nach publizierten Koordinaten. Die Position einzelner Proben bleibt offen.",
+    "en": "Rounded site location from published coordinates. Individual sample locations remain unspecified."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from published factual coordinates."
+  }
+}

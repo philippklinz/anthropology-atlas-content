@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:brunn-wolfholz-early-site-2",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nikitin-brunn-2-2019",
+      "role": "supports",
+      "locator": "p. 3, Materials and Methods, Brunn 2 archaeological site: WGS84 site coordinate, oldest part dated to c. 5670–5450 cal BCE by 16 radiocarbon dates, coarse early pottery"
+    },
+    {
+      "sourceId": "source:stadler-kotova-vienna-basin-2011",
+      "role": "supports",
+      "locator": "pp. 152–155 and Fig. 4–6: Brunn Wolfholz site groups, old site 2, ground traces, approximate house dimensions and posthole preservation"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Brunn-Wolfholz · frühe Befunde an Fundstelle 2",
+    "en": "Brunn-Wolfholz · early remains at site 2"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -5669,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -5669,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -5449,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -5449,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:brunn-wolfholz-longhouse-traces",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:brunn-wolfholz"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:brunn-wolfholz-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Ein Datierungsrahmen aus 16 Radiokarbonmessungen ordnet den ältesten Teil von Fundstelle 2 ungefähr 5670–5450 cal v. Chr. ein. In Fundstelle 2 sind langgestreckte Grabenbefunde von Bauten dokumentiert. Breite und Länge der Häuser variieren im größeren Fundplatzkomplex.",
+    "en": "A contextual range from sixteen radiocarbon determinations dates the oldest part of site 2 to about 5670–5450 cal BCE. Site 2 contains elongated building trenches. House width and length vary across the wider excavation complex."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Ein Datierungsrahmen aus 16 Radiokarbonmessungen ordnet den ältesten Teil von Fundstelle 2 ungefähr 5670–5450 cal v. Chr. ein. In Fundstelle 2 sind langgestreckte Grabenbefunde von Bauten dokumentiert. Breite und Länge der Häuser variieren im größeren Fundplatzkomplex.",
+      "en": "A contextual range from sixteen radiocarbon determinations dates the oldest part of site 2 to about 5670–5450 cal BCE. Site 2 contains elongated building trenches. House width and length vary across the wider excavation complex."
+    }
+  }
+}

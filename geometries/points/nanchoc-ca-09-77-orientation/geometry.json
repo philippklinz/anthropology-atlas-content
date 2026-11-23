@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:nanchoc-ca-09-77-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "derivation",
+      "locator": "p. 1890, study location and Fig. 1, Ñanchoc Valley in northern Peru"
+    },
+    {
+      "sourceId": "source:inei-nanchoc-location-2012",
+      "role": "derivation",
+      "locator": "Cajamarca, San Miguel province, Nanchoc locality row, 06°57′30″ S, 79°14′31″ W"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 10000,
+    "note": {
+      "de": "Der Punkt orientiert im Tal anhand des heutigen Orts Ñanchoc. Er verortet weder den ausgegrabenen Hausboden noch die anderen Fundstellen.",
+      "en": "The modern town anchors coarse valley orientation. The point does not locate the excavated house floor or the other sites."
+    }
+  },
+  "processingNote": {
+    "de": "Der Punkt orientiert im Tal anhand des heutigen Orts Ñanchoc. Er verortet weder den ausgegrabenen Hausboden noch die anderen Fundstellen.",
+    "en": "The modern town anchors coarse valley orientation. The point does not locate the excavated house floor or the other sites."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original orientation point based on the cited geographic information. The allowance is editorial."
+  }
+}

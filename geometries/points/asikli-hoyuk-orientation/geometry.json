@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:asikli-hoyuk-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:kalkan-asikli-location-2024",
+      "role": "derivation",
+      "locator": "Geolocation of the Case Study Area: Kızılkaya near Aksaray, 38.3484° N, 34.2302° E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 400,
+    "note": {
+      "de": "Redaktioneller Spielraum für die Lagehilfe.",
+      "en": "Editorial allowance for the orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Aus der veröffentlichten Ortsangabe gerundeter Orientierungspunkt am heutigen Siedlungshügel.",
+    "en": "Orientation point at the present-day mound, rounded from the published locality."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original orientation point derived from published factual coordinates."
+  }
+}

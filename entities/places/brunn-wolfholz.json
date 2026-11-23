@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:brunn-wolfholz",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nikitin-brunn-2-2019",
+      "role": "supports",
+      "locator": "p. 3, Materials and Methods, Brunn 2 archaeological site: WGS84 site coordinate, oldest part dated to c. 5670–5450 cal BCE by 16 radiocarbon dates, coarse early pottery"
+    },
+    {
+      "sourceId": "source:stadler-kotova-vienna-basin-2011",
+      "role": "supports",
+      "locator": "pp. 152–155 and Fig. 4–6: Brunn Wolfholz site groups, old site 2, ground traces, approximate house dimensions and posthole preservation"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Brunn am Gebirge · Wolfholz",
+    "en": "Brunn am Gebirge · Wolfholz"
+  },
+  "summary": {
+    "de": "Siedlungskomplex südlich des heutigen Wien mit mehreren Fundstellen. Das Kapitel betrachtet die ältesten Befunde von Fundstelle 2.",
+    "en": "Settlement complex south of present-day Vienna with several excavation areas. This chapter considers the oldest remains from site 2."
+  }
+}

@@ -1,19 +1,19 @@
 # Neue Lebensweisen nach der Kaltzeit
 
-23. November 2026. Kapitelplan für den Zeitbereich `postglacial-lifeways`.
+23. November 2026. Sechs ausgearbeitete Kapitel im Zeitbereich `postglacial-lifeways`.
 
-Nach „Wenn das Eis weicht“ verfolgen wir, wie Menschen in verschiedenen Regionen lebten und ihre Umgebung veränderten. Die Reihe setzt am Ende der letzten Kaltzeit ein und reicht bis zu frühen Dörfern und bäuerlichen Gemeinschaften. Als erster Rahmen dienen ungefähr 15.000–5.800 Kalenderjahre vor 1950 (BP). Die Ansichtsfenster der einzelnen Kapitel folgen den ausgewählten Befunden.
+Nach „Wenn das Eis weicht“ verfolgen wir, wie Menschen in verschiedenen Regionen lebten und ihre Umgebung veränderten. Die Reihe setzt am Ende der letzten Kaltzeit ein und reicht bis zu frühen Dörfern und bäuerlichen Gemeinschaften. Die Ansichtsfenster der sechs neuen Kapitel umfassen zusammen ungefähr 15.000–5.600 Kalenderjahre vor 1950 (BP). Die Datierung des einzelnen Fundkontexts steht an der jeweiligen Station.
 
 Mesolithikum, Jungsteinzeit und die regionalen Bezeichnungen bleiben in den Kapiteln erklärt. Die Anfänge von Anbau, Tierhaltung und dauerhafterem Wohnen fallen je nach Region in verschiedene Zeiten. Die Lesereihenfolge folgt den Fragen. Die Atlasübersicht sortiert weiterhin nach den gewählten Zeitfenstern.
 
-| Nr. | Kapitel | Leitfrage und vorgesehene Stationen |
-| --- | --- | --- |
-| 1 | **Wiederkommen und bleiben** | Was verraten Böden, Feuerstellen und Grundrisse darüber, wie Menschen einen Ort nutzten? Feuerstellen in Shubayqa 1, überlagerte Bauten in Eynan und der große Bau O75 in Wadi Faynan 16. |
-| 2 | **Sammeln, lagern, säen** | Wie erkennt man Vorratshaltung, Anbau und Veränderungen an den Pflanzen? Speicher in Dhra′, Getreidereste aus Tell Qarassa Nord und die Schichten von Chogha Golan. |
-| 3 | **Mit Tieren leben** | Woran erkennt man, ob Menschen Tiere hielten und Milch verarbeiteten? Aşıklı Höyük, Ganj Dareh und Takarkori. |
-| 4 | **Reis, Hirse und frühe Gefäße** | Was zeigen Pflanzenspuren und Reste in Töpfen über unterschiedliche Lebensweisen in Ostasien? Reis am unteren Jangtse, Hirse im nördlichen China und Fisch in japanischen Gefäßen. |
-| 5 | **Anbau in drei Landschaften** | Wie erkennt man den Umgang mit Pflanzen im südwestlichen Mexiko, an den Anden und im Hochland von Neuguinea? Xihuatoxtla, Ñanchoc und Kuk Swamp. |
-| 6 | **Neue Nachbarn, neue Dörfer** | Wie werden Begegnungen und unterschiedliche Bauweisen in Europa sichtbar? Lepenski Vir, Brunn am Gebirge bei Wien und eine Siedlung am Bodensee. |
+| Nr. | Kapitel | Ansichtsfenster | Leitfrage und Stationen |
+| --- | --- | --- | --- |
+| 1 | [**Wiederkommen und bleiben**](../research/places-to-return-to.md) | 15.000–10.200 BP | Was verraten Böden, Feuerstellen und Grundrisse über die Nutzung eines Ortes? Shubayqa 1, Eynan und Wadi Faynan 16. |
+| 2 | [**Sammeln, lagern, säen**](../research/gathering-storing-sowing.md) | 11.700–9.500 BP | Wie erkennt man Vorräte, Anbau und Veränderungen an Pflanzen? Dhra′, Tell Qarassa North und Chogha Golan. |
+| 3 | [**Mit Tieren leben**](../research/living-with-animals.md) | 8500–3600 v. Chr. | Woran erkennt man Tierhaltung und Milchverarbeitung? Aşıklı Höyük, Ganj Dareh und Takarkori. |
+| 4 | [**Reis, Hirse und frühe Gefäße**](../research/rice-millet-and-pots.md) | 11.100–6.600 BP | Was zeigen Reiskörner, Hirseschalen und Rückstände in Töpfen über Ernährung in Ostasien? Tianluoshan, Cishan und Torihama. |
+| 5 | [**Anbau in drei Landschaften**](../research/gardens-in-different-landscapes.md) | 10.500–6.400 BP | Wie erkennt man Pflanzenverarbeitung und Bodenveränderung? Xihuatoxtla in Mexiko, Ñanchoc in den Anden und Kuk Swamp auf Neuguinea. |
+| 6 | [**Neue Nachbarn, neue Dörfer**](../research/new-neighbours-in-europe.md) | 6250–3850 v. Chr. | Wie werden Begegnungen und unterschiedliche Bauweisen in Europa sichtbar? Lepenski Vir, Brunn am Gebirge bei Wien und Hornstaad-Hörnle IA am Bodensee. |
 
 ## Verknüpfungen im Atlas
 

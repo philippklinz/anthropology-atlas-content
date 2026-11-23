@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:asikli-caprine-keeping-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction: Levels 5 and 4 ca. 10,400–10,000 cal BP, Level 3 ca. 10,000–9,700 cal BP, Level 2 ca. 9,700–9,300 cal BP"
+    },
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "p. 1, Introduction; Fig. 2A and pp. 2–3: intact trampled dung, possible enclosures and sediment microscopy"
+    },
+    {
+      "sourceId": "source:abell-asikli-urine-salts-2019",
+      "role": "supports",
+      "locator": "pp. 3–5, Results and Figs. 4–5; pp. 5–8, Discussion and Fig. 6: salt increase, urine model and uncertainty"
+    },
+    {
+      "sourceId": "source:stiner-asikli-caprines-2014",
+      "role": "supports",
+      "locator": "pp. 8405–8408, chronological context, age and sex distributions of caprines and dung evidence"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Aşıklı Höyük · Tiere im Siedlungsbereich",
+    "en": "Aşıklı Höyük · animals within the settlement"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 10400,
+      "younger": 10400,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "basis": "years-before",
+      "referenceYear": 1950,
+      "older": 9300,
+      "younger": 9300,
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "specimen:asikli-dung-and-salt-samples",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:abell-asikli-urine-salts-2019",
+          "role": "supports",
+          "locator": "p. 1, Introduction; Fig. 2A and pp. 2–3: intact trampled dung, possible enclosures and sediment microscopy"
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:asikli-hoyuk"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:asikli-hoyuk-orientation",
+      "role": "findspot"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Mehrere Befunde zusammen stützen die Deutung einer sich verändernden Haltung von Schafen und Ziegen.",
+      "en": "The combination of evidence supports changing management of sheep and goats."
+    }
+  },
+  "note": {
+    "de": "Die Schichten 5–2 reichen ungefähr von 10.400 bis 9.300 kalibrierten Jahren vor 1950. Trampeldung und mögliche Einhegungen geben Hinweise auf den Aufenthalt von Tieren. Die Salze gehen laut Modell vor allem auf Urin von Menschen und Tieren zurück. Der Eintrag stieg bis Schicht 3 und sank danach etwas. Tierknochen und Befunde zur Haltung ergänzen die chemische Spur.",
+    "en": "Levels 5–2 date to roughly 10,400–9,300 calibrated years before 1950. Trampled dung and possible enclosures point to animals spending time at the settlement. The model attributes most salts to urine from people and animals. Inputs rose up to Level 3 and declined somewhat after it. Bones and evidence of corralling complement the chemical signal."
+  }
+}

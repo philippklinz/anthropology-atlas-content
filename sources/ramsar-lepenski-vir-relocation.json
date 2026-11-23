@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:ramsar-lepenski-vir-relocation",
+  "sourceRefs": [],
+  "title": "Carpathian Cultural Heritage in Wetlands · Lepenski Vir",
+  "sourceType": "website",
+  "creators": [
+    "Ramsar Culture Network"
+  ],
+  "url": "https://www.ramsar.org/sites/default/files/carpathian_cultural_heritage_in_wetlands__0.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Used for the documented relocation and the direction, distance and elevation difference. Archaeological conclusions and cultural chronology follow the research papers instead."
+}

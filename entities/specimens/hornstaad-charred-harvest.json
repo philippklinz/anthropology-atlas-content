@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:hornstaad-charred-harvest",
+  "sourceRefs": [
+    {
+      "sourceId": "source:styring-hornstaad-farming-2016",
+      "role": "supports",
+      "locator": "Introduction, Hornstaad-Hörnle IA section and Fig. 2–3: 3918–3902 cal BC settlement, 3910 BC fire, grain sampling, identified cereals and fishing equipment"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Hornstaad · verkohlte Erntevorräte",
+    "en": "Hornstaad · charred crop stores"
+  },
+  "summary": {
+    "de": "Die Brandschicht von 3910 v. Chr. enthält verkohlte Ähren und Körner. Unter den untersuchten Getreiden sind mehrere Weizenformen und Gerste. Die Dendrochronologie ermöglicht die Zuordnung zum Brand innerhalb der Siedlungsphase.",
+    "en": "The burnt layer from 3910 BCE contains charred cereal ears and grains, including several kinds of wheat and barley. Tree-ring dating places the fire within the village sequence."
+  }
+}

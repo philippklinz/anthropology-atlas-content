@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dunne-dairying-northern-africa-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "language": "en",
+  "accessedAt": "2026-11-23",
+  "title": "Timing and pace of dairying inception and animal husbandry practices across Holocene North Africa",
+  "sourceType": "article",
+  "creators": [
+    "Julie Dunne",
+    "Savino di Lernia",
+    "Marek Chłodnicki",
+    "Farid Kherbouche",
+    "Richard P. Evershed"
+  ],
+  "url": "https://doi.org/10.1016/j.quaint.2017.06.062",
+  "published": "2018",
+  "identifiers": {
+    "doi": "10.1016/j.quaint.2017.06.062"
+  },
+  "bibliographicNote": "Quaternary International 471, pp. 147–159. Table 1 gives dated contexts and period bounds. Table 2 identifies isotopic measurements and fat classes by sherd. Sections 1.3 and 1.8 describe methods and the Takarkori samples."
+}

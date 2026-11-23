@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "concept:cultivation-and-domestication",
+  "sourceRefs": [
+    {
+      "sourceId": "source:piperno-xihuatoxtla-microremains-2009",
+      "role": "background",
+      "locator": "Abstract and Discussion: distinguish crop use from selection on domestication traits"
+    },
+    {
+      "sourceId": "source:dillehay-nanchoc-plant-adoption-2007",
+      "role": "background",
+      "locator": "pp. 1890 and 1893: adoption and cultivation of useful plants can occur away from original domestication"
+    }
+  ],
+  "entityType": "concept",
+  "labels": {
+    "de": "Pflanzenanbau und Domestikation",
+    "en": "Cultivation and domestication"
+  },
+  "summary": {
+    "de": "Anbau umfasst absichtliches Säen, Umsetzen oder Pflegen. Domestikation bezeichnet erbliche Veränderungen einer Pflanzenpopulation über Generationen von menschlicher Auswahl.",
+    "en": "Cultivation means deliberately sowing, transplanting or tending plants. Domestication describes inherited changes in a population over generations of human selection."
+  }
+}

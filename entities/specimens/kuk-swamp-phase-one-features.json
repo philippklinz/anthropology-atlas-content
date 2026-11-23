@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:kuk-swamp-phase-one-features",
+  "sourceRefs": [
+    {
+      "sourceId": "source:denham-kuk-swamp-2003",
+      "role": "supports",
+      "locator": "p. 190, Phase 1 and Fig. 2B; p. 191, Table 1 (10,220–9,910 cal BP); pp. 191–192, early plant use and limits on cultivation inference"
+    },
+    {
+      "sourceId": "source:denham-golson-hughes-kuk-phase-two-2017",
+      "role": "supports",
+      "locator": "Introduction and Early subphase: contrasting interpretations of evidence c.10,000 years ago; earliest Phase 2 mounds, dates on basal fill charcoal, later subphase separately identified"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Kuk Swamp · frühe Nutzung des Feuchtgebiets",
+    "en": "Kuk Swamp · early use of the wetland"
+  },
+  "summary": {
+    "de": "Gruben, Pfostenlöcher und Rinnen am Rand einer alten Wasserrinne. Die Befunde passen zu frühen Eingriffen und werden verschieden als möglicher Anbau bewertet.",
+    "en": "Pits, stakeholes and small channels along an ancient watercourse. The features are consistent with early modification, with different assessments of the evidence for cultivation."
+  }
+}

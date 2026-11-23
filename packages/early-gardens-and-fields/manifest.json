@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "package",
+  "id": "package:early-gardens-and-fields",
+  "sourceRefs": [],
+  "labels": {
+    "de": "Anbau in drei Landschaften",
+    "en": "Cultivation in Three Landscapes"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "assertion:kuk-swamp-phase-one-modification-context",
+    "assertion:kuk-swamp-phase-two-cultivation-context",
+    "assertion:nanchoc-ca-09-77-squash-evidence-context",
+    "assertion:xihuatoxtla-maize-and-squash-evidence-context",
+    "asset:balsas-river-in-guerrero",
+    "chapter:gardens-in-different-landscapes",
+    "concept:cultivation-and-domestication",
+    "event:kuk-swamp-phase-one-modification",
+    "event:kuk-swamp-phase-two-cultivation",
+    "event:nanchoc-ca-09-77-squash-evidence",
+    "event:xihuatoxtla-maize-and-squash-evidence",
+    "geometry:kuk-swamp-orientation",
+    "geometry:nanchoc-ca-09-77-orientation",
+    "geometry:xihuatoxtla-rock-shelter-orientation",
+    "place:kuk-swamp",
+    "place:nanchoc-ca-09-77",
+    "place:xihuatoxtla-rock-shelter",
+    "source:denham-golson-hughes-kuk-phase-two-2017",
+    "source:denham-kuk-swamp-2003",
+    "source:dillehay-nanchoc-plant-adoption-2007",
+    "source:inei-nanchoc-location-2012",
+    "source:piperno-xihuatoxtla-microremains-2009",
+    "source:ranere-xihuatoxtla-context-2009",
+    "source:sanss-balsas-river-photo-2008",
+    "source:semarnat-tlaxmalac-location-2019",
+    "source:unesco-kuk-early-agricultural-site-location",
+    "specimen:kuk-swamp-phase-one-features",
+    "specimen:kuk-swamp-phase-two-mound-bases",
+    "specimen:nanchoc-ca-09-77-squash-seed",
+    "specimen:xihuatoxtla-plant-microremains"
+  ],
+  "entryChapterIds": [
+    "chapter:gardens-in-different-landscapes"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "deep-time",
+    "image-viewer"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:hornstaad-hoernle-ia-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.006,
+      47.695
+    ]
+  }
+}

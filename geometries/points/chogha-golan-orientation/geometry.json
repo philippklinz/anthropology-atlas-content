@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:chogha-golan-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:zeidi-conard-chogha-lithics-2013",
+      "role": "derivation",
+      "locator": "p. 316, Setting and chronology: 33°22′38.50″ N and 46°16′15.93″ E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 500,
+    "note": {
+      "de": "Redaktioneller Orientierungsradius für den Fundort.",
+      "en": "Editorial orientation tolerance for the site location."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundete Position auf Grundlage der publizierten Ortsangabe.",
+    "en": "Rounded position derived from the published site location."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original atlas point based on the cited factual coordinate."
+  }
+}
