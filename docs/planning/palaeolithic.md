@@ -1,8 +1,8 @@
 # Altsteinzeit: Plan für unsere Kapitelreise
 
-Stand: 23. November 2026. **Planungsentwurf zur gemeinsamen Weiterentwicklung.**
+Stand: 23. November 2026. Reihe mit zwölf ausgearbeiteten Hauptkapiteln.
 
-Diese Datei plant Inhalte; sie legt keine neuen veröffentlichten Datensätze oder UI-Funktionen an. Die fünf vorhandenen frühen Kapitel bleiben Forschungsentwürfe. Die sieben vorgeschlagenen Kapitel müssen vor ihrer Veröffentlichung jeweils vollständig recherchiert werden. Ein recherchierter Einstiegspunkt ist noch kein fertig geprüftes Kapitel.
+Die zwölf Hauptkapitel sind Forschungsentwürfe in deutscher und englischer Sprache. Die Tabelle gibt die endgültigen Lesefenster an. Die ursprünglichen Aufträge darunter dokumentieren, welche Fragen zu dieser Auswahl geführt haben. Die geprüften Belege, verwendeten Abbildungen und Datierungsentscheidungen stehen in den [Forschungsberichten und Prüfnotizen](../research/palaeolithic-expansion.md).
 
 ## Umfang und zeitliche Ordnung
 
@@ -12,26 +12,26 @@ Unser erster Ausbau führt von frühem Homo sapiens bis zum Ende der letzten Kal
 
 Die Zahlen in der Übersicht bezeichnen eine vorgeschlagene Lesereihenfolge. Der Atlas kann seine chronologische Sortierung behalten. Kapitel dürfen sich überschneiden und unabhängig gelesen werden. Sie erzählen nicht, dass eine Fähigkeit erst nach der vorherigen entstanden sei.
 
-Alle folgenden Zeitfenster sind gerundete **redaktionelle Ausschnitte**, keine Datierung der Erfindung eines Verhaltens. BP meint hier Kalenderjahre vor 1950; unkalibrierte Radiokarbondaten werden nicht stillschweigend damit gleichgesetzt. Für neue Kapitel werden die endgültigen Fenster anhand der ausgewählten Befunde bestimmt.
+Die Zeitfenster sind **redaktionelle Ausschnitte**, die sich an den ausgewählten Befunden orientieren. Die Datierungen der einzelnen Funde stehen an den jeweiligen Stationen. BP meint hier Kalenderjahre vor 1950. Unkalibrierte Radiokarbondaten stehen separat in den Datierungsnotizen.
 
 ## Zwölf Hauptkapitel
 
-| Nr. | Kapitel | Arbeitsfenster, Jahre BP | Räume und Leitfrage | Stand |
+| Nr. | Kapitel | Ansichtsfenster, Jahre BP | Räume und Leitfrage | Stand |
 | --- | --- | --- | --- | --- |
 | 1 | **Die Wiege der Menschheit** | 350.000–200.000 | Afrika: Welche Fossilien und Werkzeuge zeigen uns frühen Homo sapiens? | Vorhanden: `chapter:cradle-of-humankind` |
 | 2 | **Frühe Wege aus Afrika** | 200.000–80.000 | Levante und Arabien: Wo begegnen uns frühe Menschen außerhalb Afrikas? | Vorhanden: `chapter:early-routes-out-of-africa` |
 | 3 | **Als wir nicht allein waren** | 120.000–40.000 | Eurasien: Was verrät alte DNA über Begegnungen und Verwandtschaft? | Vorhanden: `chapter:when-we-were-not-alone` |
 | 4 | **Spuren unserer Gedanken** | 80.000–35.000 | Afrika, Südostasien und Europa: Was können Zeichen, Bilder und Instrumente überliefern? | Vorhanden: `chapter:traces-of-our-thoughts` |
 | 5 | **Über Meere und Landbrücken** | 71.000–20.000 | Wallacea, Sahul, Beringia und Nordamerika: Wie unterscheiden sich Fundbelege und Wegmodelle? | Vorhanden: `chapter:seas-and-land-bridges` |
-| 6 | **Ein Tag zum Überleben** | 70.000–20.000 | Sahul und Levante, mit einem noch auszuwählenden afrikanischen Vergleich: Wie beschafften und verarbeiteten Menschen Nahrung? | Vorgeschlagen; nächstes Kapitel |
-| 7 | **Erfinden mit Stein, Holz und Fasern** | 70.000–15.000 | Ausgewählte Orte in Afrika und Asien: Wie verbinden Menschen Werkstoffe zu neuen Werkzeugen? | Vorgeschlagen |
-| 8 | **Zusammenleben: Kinder, Fürsorge und Abschied** | 100.000–14.000 | Afrika und Eurasien: Was lässt sich vom Zusammenleben erkennen, wenn niemand darüber geschrieben hat? | Vorgeschlagen |
-| 9 | **Verbunden über weite Entfernungen** | 50.000–19.000 | Östliches und südliches Afrika: Was verraten Perlen und Rohstoffe über Kontakte? | Vorgeschlagen |
-| 10 | **Leben am Rand des Eises** | 30.000–19.000 | Nördliches Eurasien, mit Klimavergleichen aus anderen Regionen: Wie verändern Kälte, Trockenheit und Eis die Lebensräume? | Vorgeschlagen |
-| 11 | **Amerika: viele Wege, viele Lebensräume** | 24.000–12.000 | Nord- und Südamerika: Welche unterschiedlichen Lebenswelten werden durch Fundorte sichtbar? | Vorgeschlagen |
-| 12 | **Wenn das Eis weicht** | 19.000–rund 12.000 | Ausgewählte Küsten und Landschaften weltweit: Was verändert sich mit Klima und Meeresspiegel, was bleibt? | Vorgeschlagen; Übergang zur nächsten Reihe |
+| 6 | **Ein Tag zum Überleben** | 71.000–13.000 | Madjedbebe, Ohalo II und Taforalt. Wie beschafften und verarbeiteten Menschen Nahrung? | `chapter:day-of-making-a-living` |
+| 7 | **Erfinden mit Stein, Holz und Fasern** | 70.000–15.000 | Sibudu, Fa-Hien Lena und Xianrendong. Wie verbinden Menschen Werkstoffe zu neuen Werkzeugen? | `chapter:materials-and-invention` |
+| 8 | **Zusammenleben: Kinder, Fürsorge und Abschied** | 85.000–40.000 | El Sidrón, Shanidar und Panga ya Saidi. Welche Spuren bleiben von Kindheit, Unterstützung und Bestattung? | `chapter:growing-up-and-caring` |
+| 9 | **Verbunden über weite Entfernungen** | 50.000–14.000 | Ostafrika und südliches Afrika. Was verraten Form, Rohstoff und Herstellung von Perlen über Kontakte? | `chapter:connections-across-distances` |
+| 10 | **Leben am Rand des Eises** | 30.000–18.800 | Kostenki 11, Ohalo II und Kharaneh IV. Welche Spuren hinterließen Unterkünfte und wiederholte Aufenthalte? | `chapter:life-at-the-ice-edge` |
+| 11 | **Amerika: viele Wege, viele Lebensräume** | 14.700–13.800 | Paisley, Page-Ladson und Arroyo Seco 2. Welche unterschiedlichen Lebenswelten lassen diese Fundkontexte erkennen? | `chapter:many-american-landscapes` |
+| 12 | **Wenn das Eis weicht** | 19.000–11.650 | Gönnersdorf, das Korallenarchiv vor Tahiti und Shubayqa 1. Wie lassen sich Umweltwandel und menschliche Entscheidungen erfassen? | `chapter:as-the-ice-retreats` |
 
-## Aufträge für die sieben neuen Kapitel
+## Ursprüngliche Rechercheaufträge
 
 ### 6 · Ein Tag zum Überleben / A Day of Making a Living
 
@@ -119,11 +119,11 @@ Bekannte Orte und Objekte werden über bestehende IDs wiederverwendet. So kann M
 
 Die Menüstruktur behält **Altsteinzeit** als gemeinsamen Suchbereich. Region, Thema und Zeitfenster helfen bei der Auswahl. Die Übersicht enthält weiterhin nur tatsächlich veröffentlichte Kapitel; dieser Plan erzeugt keine leeren Kapitelkarten. Die vorgeschlagene Lesereihenfolge ist zunächst redaktionell, keine neue technische Abhängigkeit oder Sperre.
 
-Empfohlene Umsetzung: zuerst Kapitel 6 (Nahrung), anschließend 7 (Technik) und 9 (Kontakte). Dann 8 (Zusammenleben), 10 (Kaltzeit), 11 (Amerika) und 12 (Übergang). So entsteht schrittweise eine breitere anthropologische Perspektive. Es gibt keine neue Engine-Anforderung allein deshalb, weil ein Kapitel geplant ist.
+Die sieben Ergänzungen wurden als eigene Inhaltspakete ausgearbeitet. Madjedbebe wird mit dem Wanderungskapitel geteilt, Ohalo II verbindet Nahrung und Unterkünfte. Die Kapitel bleiben einzeln auswählbar und ergeben zusammen eine Reihe, in der sich Zeiträume und Fragestellungen überschneiden.
 
 Vor Veröffentlichung jedes Kapitels: Primärtexte und aktuelle Gegenpositionen lesen; Datierungen und genaue Fundstellen erfassen; bestehende Identitäten prüfen; Abbildungen und Rechte klären; DE/EN-Texte und begrenzte Geometrien erstellen; mit dem vorhandenen Werkzeug validieren und exportieren; Zeitfilter, Verknüpfungen, direkte URLs sowie Handyansicht prüfen. Technische Validierung ersetzt keine historische Prüfung.
 
-## Quellen für die Planung
+## Quellen für die ursprüngliche Planung
 
 Dies sind Rechercheeinstiege mit dokumentiertem Lesestand, keine neue publizierte Quellenbibliothek. Vorhandene Kapitel beziehen ihre Belege weiter aus ihren jeweiligen `docs/research/`-Dateien. Abruf für diesen Plan: 23. November 2026.
 

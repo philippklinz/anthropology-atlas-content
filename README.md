@@ -2,18 +2,25 @@
 
 Independent historical content for the [Anthropology Atlas engine](https://github.com/philippklinz/anthropology-atlas-engine).
 
-Eight bounded historical chapters are available in German and English:
+Fifteen historical chapters are available in German and English:
 
 - [The Cradle of Humankind: early Homo sapiens in Africa](docs/research/cradle-of-humankind.md), including fossil evidence, stone tools and explicit dating uncertainty.
 - [Early Routes out of Africa: Misliya, Skhul, Qafzeh and Al Wusta](docs/research/early-routes-out-of-africa.md), with fossil evidence, environmental context and explicit dating limits.
 - [When We Were Not Alone: Denisova, Bacho Kiro, Ranis and Zlatý kůň](docs/research/when-we-were-not-alone.md), comparing parentage, earlier ancestry and individual kinship through ancient DNA.
 - [Traces of Our Thoughts: signs, images and music](docs/research/traces-of-our-thoughts.md), comparing four findsites, minimum ages, image interpretation and early flutes.
 - [Across Seas and Land Bridges: Sahul, Beringia and White Sands](docs/research/seas-and-land-bridges.md), with independent findsites, selectable route hypotheses and dated schematic land connections.
+- [A Day of Making a Living](docs/research/day-of-making-a-living.md), comparing charred remains, food processing tools and isotope evidence.
+- [Inventing with Stone, Wood and Fibres](docs/research/materials-and-invention.md), on composite tools and early pottery.
+- [Growing Up, Caring and Saying Goodbye](docs/research/growing-up-and-caring.md), on childhood, possible social support and burial.
+- [Connected Across Long Distances](docs/research/connections-across-distances.md), comparing bead styles, material origins and manufacture.
+- [Living at the Edge of the Ice](docs/research/life-at-the-ice-edge.md), on the structures at Kostenki 11, Ohalo II and Kharaneh IV.
+- [The Americas: Many Paths, Many Environments](docs/research/many-american-landscapes.md), on Paisley, Page-Ladson and Arroyo Seco 2.
+- [As the Ice Retreats](docs/research/as-the-ice-retreats.md), comparing fishing images, a coral archive and stone buildings.
 - [Columbus's first Atlantic voyage, 1492–1493](docs/research/columbus-first-voyage.md), including inhabited Caribbean societies and the disputed identification of Guanahani.
 - [The first circumnavigation, 1519–1522](docs/research/first-circumnavigation.md).
 - [Darwin and the second Beagle voyage, 1831–1836](docs/research/darwin-beagle.md), including his four Galápagos island stays.
 
-The dataset contains 348 records: 115 entities, 63 events, 15 assertions, 59 geometries, 67 sources, 11 images, one interpretation group, eight chapters and nine packages. All records remain **research drafts**, with cited sources and explicitly schematic geography. Schema validation is not independent historical review.
+The dataset contains 530 records: 167 entities, 87 events, 29 assertions, 79 geometries, 112 sources, 24 images, one interpretation group, fifteen chapters and sixteen packages. All records remain **research drafts**. The chapter notes document sources, map precision and outstanding interpretations.
 
 `published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it. The early-dispersal package reuses Homo sapiens and Levallois identities through its explicit dependency on `package:human-origins`. The human-encounters package depends on the same owner for Homo sapiens and introduces cited genetic relationships between individual specimens and biological lineages.
 
@@ -49,4 +56,4 @@ All processing runs in the browser; selected files are not uploaded. The tool ca
 
 ## Chapter discovery
 
-All eight chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership; shared places retain one canonical ID. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. See `docs/research/chapter-discovery.md` for the periodization source and editorial choices.
+All fifteen chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. Ohalo II appears in the food and shelter chapters with a single canonical place record. The twelve early chapters share the **Palaeolithic** filter. See [chapter discovery](docs/research/chapter-discovery.md), [the chapter plan](docs/planning/palaeolithic.md) and [the expansion notes](docs/research/palaeolithic-expansion.md).

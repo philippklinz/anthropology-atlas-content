@@ -2,18 +2,25 @@
   "catalogVersion": "1",
   "schemaVersion": "0.1.0",
   "indexVersion": "1",
-  "dataReleaseId": "draft-0490296829a007bc20af",
-  "sourceRevision": "606eaaa0e918de5f52085125ed8b47f8f5a358a9",
+  "dataReleaseId": "draft-6a2f4799609c94cb727d",
+  "sourceRevision": "000c39d298fef7d9e2807de22bbfcfa8a9808ea7",
   "compilerVersion": "0.1.0-dev.8",
   "packages": [
     "package:columbus-first-voyage",
     "package:darwin-beagle",
+    "package:deglaciation",
+    "package:early-american-lifeways",
+    "package:early-connections",
     "package:early-dispersals",
     "package:early-expression",
+    "package:early-foodways",
     "package:early-migrations",
+    "package:early-social-life",
+    "package:early-technologies",
     "package:first-circumnavigation",
     "package:human-encounters",
     "package:human-origins",
+    "package:ice-age-life",
     "package:maritime-shared"
   ],
   "languages": [
@@ -32,11 +39,39 @@
   ],
   "files": [
     {
+      "path": "files/asset-0248c86aa19b0e34549dcfbe.png",
+      "role": "asset",
+      "bytes": 177077,
+      "mediaType": "image/png",
+      "sha256": "0248c86aa19b0e34549dcfbea1ca50a968a7a8123d166bbb0538af49020106d5"
+    },
+    {
       "path": "files/asset-0675df0efa521e677ead2a03.jpg",
       "role": "asset",
       "bytes": 4067762,
       "mediaType": "image/jpeg",
       "sha256": "0675df0efa521e677ead2a03e9e808198af5ac323fa2e3ad5c3449aeb6a15e2c"
+    },
+    {
+      "path": "files/asset-0910e5d4aaeed1838ae7b063.webp",
+      "role": "asset",
+      "bytes": 189080,
+      "mediaType": "image/webp",
+      "sha256": "0910e5d4aaeed1838ae7b063f6e985f4bdbd233e6f0b6ac7865e64786d339539"
+    },
+    {
+      "path": "files/asset-1d06f8b1fced68445d752f35.webp",
+      "role": "asset",
+      "bytes": 280068,
+      "mediaType": "image/webp",
+      "sha256": "1d06f8b1fced68445d752f35ccd23c6f79e10a9890c4d2af425266fc461fa281"
+    },
+    {
+      "path": "files/asset-282e11ef874b0c66bd94f62d.jpg",
+      "role": "asset",
+      "bytes": 174080,
+      "mediaType": "image/jpeg",
+      "sha256": "282e11ef874b0c66bd94f62df754464df71e7021bee3d32cbc0eee1b7864c22e"
     },
     {
       "path": "files/asset-2f16673f90f2fc5b7bd5c0b0.jpg",
@@ -53,11 +88,53 @@
       "sha256": "315a3e4192820db0db85d82b2dcdeb7a2b9a1f9cad26e6944be1e867f8569a4e"
     },
     {
+      "path": "files/asset-33dde73a057e03bdb6b52d14.webp",
+      "role": "asset",
+      "bytes": 183186,
+      "mediaType": "image/webp",
+      "sha256": "33dde73a057e03bdb6b52d14f9dca66d3d7fd99f23b7f07de98b8041f0333a8b"
+    },
+    {
+      "path": "files/asset-42d9ab793bc9b0c322e23681.jpg",
+      "role": "asset",
+      "bytes": 254356,
+      "mediaType": "image/jpeg",
+      "sha256": "42d9ab793bc9b0c322e23681804c9165810dbbd7d52001c378779a30035dfe9f"
+    },
+    {
+      "path": "files/asset-4a72d10a93662e9bb2d60e44.webp",
+      "role": "asset",
+      "bytes": 231626,
+      "mediaType": "image/webp",
+      "sha256": "4a72d10a93662e9bb2d60e44acbbe96d9d1cd10bb8cd2bb111be728639613d70"
+    },
+    {
+      "path": "files/asset-652677146b4726e2f98880a5.webp",
+      "role": "asset",
+      "bytes": 232242,
+      "mediaType": "image/webp",
+      "sha256": "652677146b4726e2f98880a5f9a52373103c72cfab2346a0e6e3e7bcb319382d"
+    },
+    {
+      "path": "files/asset-9083f775655bf1d5f9ec99a8.jpg",
+      "role": "asset",
+      "bytes": 137075,
+      "mediaType": "image/jpeg",
+      "sha256": "9083f775655bf1d5f9ec99a8938565077ea85aef498b167bb3cfc32d2c769801"
+    },
+    {
       "path": "files/asset-a342d6e15809e1aa13e4c6a6.jpg",
       "role": "asset",
       "bytes": 198794,
       "mediaType": "image/jpeg",
       "sha256": "a342d6e15809e1aa13e4c6a6ac554b07395bc7e0539ed3d0acaf006baad1d901"
+    },
+    {
+      "path": "files/asset-b974cdf38297aa9c69bed36f.png",
+      "role": "asset",
+      "bytes": 190113,
+      "mediaType": "image/png",
+      "sha256": "b974cdf38297aa9c69bed36fc7857d56520efb7c73e6d08b0cf06c0b2f41b1c3"
     },
     {
       "path": "files/asset-b979fcf49bcdd09a6601bd4f.jpg",
@@ -81,6 +158,13 @@
       "sha256": "c8bb03990b3715bfd140850d2ad8794c8379181bd8b5e51154a0ad6960979dae"
     },
     {
+      "path": "files/asset-cc87be03511f5e521366d09b.jpg",
+      "role": "asset",
+      "bytes": 237198,
+      "mediaType": "image/jpeg",
+      "sha256": "cc87be03511f5e521366d09bd2600e41ac57f1226dc9208adfa945456110d200"
+    },
+    {
       "path": "files/asset-ce6e3b92bc7122383e0e85e6.jpg",
       "role": "asset",
       "bytes": 71960,
@@ -88,11 +172,25 @@
       "sha256": "ce6e3b92bc7122383e0e85e689cd0a1e4672fde7bd2bfdef8e95f52dd198eb06"
     },
     {
+      "path": "files/asset-ddc0ffcd2a953210ed05fc6d.webp",
+      "role": "asset",
+      "bytes": 206398,
+      "mediaType": "image/webp",
+      "sha256": "ddc0ffcd2a953210ed05fc6d5d06f0c3143aa630b0519a19068b2a63cdefdbd8"
+    },
+    {
       "path": "files/asset-e17d7f3da7c683caf782aa27.jpg",
       "role": "asset",
       "bytes": 2515754,
       "mediaType": "image/jpeg",
       "sha256": "e17d7f3da7c683caf782aa27df93b8f8264027cf44737e61e2da3b6aa3f4e2da"
+    },
+    {
+      "path": "files/asset-ef14ab0548dc1f526bbb9f5d.png",
+      "role": "asset",
+      "bytes": 122541,
+      "mediaType": "image/png",
+      "sha256": "ef14ab0548dc1f526bbb9f5d6f064722c5d698cb47f804bdc93e543b653fa114"
     },
     {
       "path": "files/asset-f96f9f0025f76fd2d4e14932.jpg",
@@ -109,53 +207,95 @@
       "sha256": "ff6816804364167f8a7e6d03afbdd96a484ae55f861c6a14cdaa76999edaca8e"
     },
     {
-      "path": "files/columbus-first-voyage-8ad3570b31f511f583929ca9.json",
+      "path": "files/columbus-first-voyage-36f8b81807969cc3a3c5ee4e.json",
       "role": "records",
       "bytes": 57076,
       "mediaType": "application/json",
-      "sha256": "8ad3570b31f511f583929ca991eed2df362781bfcc6958c21fd9d9128f0bbfee"
+      "sha256": "36f8b81807969cc3a3c5ee4ea8ad8c20e95367d15b5abfde280b588893b2340d"
     },
     {
-      "path": "files/darwin-beagle-00c76eb7c6e0212a7d70cbc6.json",
+      "path": "files/darwin-beagle-7873cb708f8a0f312e1554e8.json",
       "role": "records",
       "bytes": 72919,
       "mediaType": "application/json",
-      "sha256": "00c76eb7c6e0212a7d70cbc6085d77311df4817be5caff029051e1136c0bd482"
+      "sha256": "7873cb708f8a0f312e1554e88befef88a91f89671dca1978ba11b3548e9cbbf2"
     },
     {
-      "path": "files/discovery-bfac2ee6fb5a84fd40df7779.json",
-      "role": "discovery",
-      "bytes": 28866,
+      "path": "files/deglaciation-442e7f3bcb79edf01b6d598b.json",
+      "role": "records",
+      "bytes": 38274,
       "mediaType": "application/json",
-      "sha256": "bfac2ee6fb5a84fd40df7779642b8f00cac915c28a52ffede44e9c2484b36062"
+      "sha256": "442e7f3bcb79edf01b6d598bd1ebddd1c6201376ef36fba5991b305b69555fa4"
     },
     {
-      "path": "files/early-dispersals-59cb5b225eb10ada4180b960.json",
+      "path": "files/discovery-5acd1c13e616cb33b6ca6ec8.json",
+      "role": "discovery",
+      "bytes": 64428,
+      "mediaType": "application/json",
+      "sha256": "5acd1c13e616cb33b6ca6ec89505cc43890c77c7f243d8561051cd984f00afb1"
+    },
+    {
+      "path": "files/early-american-lifeways-8a2f09a54175ffa1ad9bdcc7.json",
+      "role": "records",
+      "bytes": 31018,
+      "mediaType": "application/json",
+      "sha256": "8a2f09a54175ffa1ad9bdcc7e07ecfceb8a85533b415c6d0325e6c7a5023897c"
+    },
+    {
+      "path": "files/early-connections-4bda1b430f4e1e664122e6f9.json",
+      "role": "records",
+      "bytes": 38464,
+      "mediaType": "application/json",
+      "sha256": "4bda1b430f4e1e664122e6f9638420f1cf3a9d634a59bf238e1a8e57899e870e"
+    },
+    {
+      "path": "files/early-dispersals-eb5d61ebbefa5ab12dfea510.json",
       "role": "records",
       "bytes": 46226,
       "mediaType": "application/json",
-      "sha256": "59cb5b225eb10ada4180b9605697b27d99602e7bd106530acb24ab5a6330b81f"
+      "sha256": "eb5d61ebbefa5ab12dfea510506aa201bdfa184c0f0fabeb1536391c37c68a77"
     },
     {
-      "path": "files/early-expression-86250ce1ccebe4946b516e91.json",
+      "path": "files/early-expression-dd038897ee1e3ba447c2467d.json",
       "role": "records",
       "bytes": 54489,
       "mediaType": "application/json",
-      "sha256": "86250ce1ccebe4946b516e91348eded1ed2833d95ef7b4ccad1c61e7d5de699e"
+      "sha256": "dd038897ee1e3ba447c2467d265abbdbbd15d30107eb67ef75d283d789348a12"
     },
     {
-      "path": "files/early-migrations-db685436ef24df703cfc5654.json",
+      "path": "files/early-foodways-e1048ab115f512ad3afdade2.json",
+      "role": "records",
+      "bytes": 27151,
+      "mediaType": "application/json",
+      "sha256": "e1048ab115f512ad3afdade224f9148aa40e63202c1d2e00ad742ebc96f5f429"
+    },
+    {
+      "path": "files/early-migrations-93c8f993fb6054ded134da23.json",
       "role": "records",
       "bytes": 55605,
       "mediaType": "application/json",
-      "sha256": "db685436ef24df703cfc5654090a5f2b8c074db78c94b95bcb7a8ce27f36e26a"
+      "sha256": "93c8f993fb6054ded134da23c8b31e12d09e290d9d366e07c12f9acb7fa32398"
     },
     {
-      "path": "files/first-circumnavigation-b4cb28a22b4a7a1a17a2ce92.json",
+      "path": "files/early-social-life-7cd833fc69f280ad129eb52e.json",
+      "role": "records",
+      "bytes": 36438,
+      "mediaType": "application/json",
+      "sha256": "7cd833fc69f280ad129eb52ebc38663d558c279e31406f0b3ff7b2edcb756b23"
+    },
+    {
+      "path": "files/early-technologies-a628ad263cb688c2d1de1134.json",
+      "role": "records",
+      "bytes": 39079,
+      "mediaType": "application/json",
+      "sha256": "a628ad263cb688c2d1de11341eef7b8c400941cde1e56a8964af256f502ad321"
+    },
+    {
+      "path": "files/first-circumnavigation-bf7f5622fa317da9e0ed7065.json",
       "role": "records",
       "bytes": 55015,
       "mediaType": "application/json",
-      "sha256": "b4cb28a22b4a7a1a17a2ce926c9dfc376a846c3606ddd654367912fbd09e1744"
+      "sha256": "bf7f5622fa317da9e0ed70656c8e0df506a2a13f115f90e64e50e3ff1175c232"
     },
     {
       "path": "files/geometry-06752d69651b7fba231c1730.geojson",
@@ -193,6 +333,13 @@
       "sha256": "1c8b5d0f152648adec502c8df3c38c27c39f990f294f87d514a7543dab1acab0"
     },
     {
+      "path": "files/geometry-24ca51b30584945b1c1d91a9.geojson",
+      "role": "geometry",
+      "bytes": 145,
+      "mediaType": "application/geo+json",
+      "sha256": "24ca51b30584945b1c1d91a963323ccd9d769110c1cf9a0c76fbb76be87b59d8"
+    },
+    {
       "path": "files/geometry-25cc17952093162206c55abc.geojson",
       "role": "geometry",
       "bytes": 253,
@@ -228,11 +375,39 @@
       "sha256": "2eada48a73e452c00f17c478af3addc1b30728fd7e1c336f9d2a5fe6f6729808"
     },
     {
+      "path": "files/geometry-2fb632265fe52801fea93c2f.geojson",
+      "role": "geometry",
+      "bytes": 134,
+      "mediaType": "application/geo+json",
+      "sha256": "2fb632265fe52801fea93c2f30bf24936f38f4829d6da99de4bceb77a6f960f7"
+    },
+    {
+      "path": "files/geometry-357c8f638be345854f1a9e24.geojson",
+      "role": "geometry",
+      "bytes": 139,
+      "mediaType": "application/geo+json",
+      "sha256": "357c8f638be345854f1a9e2459450de5d8a30d1b64f2aad93759ea95237072ca"
+    },
+    {
+      "path": "files/geometry-35f7adcf876ab47f546350ed.geojson",
+      "role": "geometry",
+      "bytes": 127,
+      "mediaType": "application/geo+json",
+      "sha256": "35f7adcf876ab47f546350ed5358a363f0618eb51d3967aa18045963ac5d7974"
+    },
+    {
       "path": "files/geometry-3dc2a7b8711a304c8c29d6cf.geojson",
       "role": "geometry",
       "bytes": 126,
       "mediaType": "application/geo+json",
       "sha256": "3dc2a7b8711a304c8c29d6cf03e2a291d46ba7a18a85dde005cdddf954f0f44c"
+    },
+    {
+      "path": "files/geometry-3ec712947c7bc99de4f2ea88.geojson",
+      "role": "geometry",
+      "bytes": 138,
+      "mediaType": "application/geo+json",
+      "sha256": "3ec712947c7bc99de4f2ea888f668c1bb0419467f28f83b5760ef1ab5ff1b41a"
     },
     {
       "path": "files/geometry-3f395851004b7c5d4c0394e8.geojson",
@@ -254,6 +429,13 @@
       "bytes": 135,
       "mediaType": "application/geo+json",
       "sha256": "50bdaf74953f10b6854c2100ef463be6dc3b85467167ad67c556b324ec14473b"
+    },
+    {
+      "path": "files/geometry-53f54250420635a3fb3cd971.geojson",
+      "role": "geometry",
+      "bytes": 134,
+      "mediaType": "application/geo+json",
+      "sha256": "53f54250420635a3fb3cd9710754db3615df9019bebc1d58dce3e03160b9ec2a"
     },
     {
       "path": "files/geometry-581d748cf4615f3471d6a8f1.geojson",
@@ -282,6 +464,13 @@
       "bytes": 134,
       "mediaType": "application/geo+json",
       "sha256": "5bd8b1ae8228a0398710b533c483752fd6af5c3bcec93505b79a0422b451f19b"
+    },
+    {
+      "path": "files/geometry-5d2e0027207fc6e45af378e7.geojson",
+      "role": "geometry",
+      "bytes": 130,
+      "mediaType": "application/geo+json",
+      "sha256": "5d2e0027207fc6e45af378e78a495b746519f23014904f00d90212db3d24bf00"
     },
     {
       "path": "files/geometry-5edfcc07f958bd9258651b7b.geojson",
@@ -375,6 +564,27 @@
       "sha256": "7e90e44132017ca4cf4630bc4fc50c45d79d4efc1d46a495189e30ce3ac73d0a"
     },
     {
+      "path": "files/geometry-82faceac77820a8380bcecd5.geojson",
+      "role": "geometry",
+      "bytes": 131,
+      "mediaType": "application/geo+json",
+      "sha256": "82faceac77820a8380bcecd5bb7cb888d8a8230211ed4a76bc9f640f635396a5"
+    },
+    {
+      "path": "files/geometry-87a9ef9fe4db9887983d6d2f.geojson",
+      "role": "geometry",
+      "bytes": 134,
+      "mediaType": "application/geo+json",
+      "sha256": "87a9ef9fe4db9887983d6d2fbb7107d0d5a5de1d58e41c241c8e3f7e1faa4631"
+    },
+    {
+      "path": "files/geometry-8ba4cf0a60b192632b476f3e.geojson",
+      "role": "geometry",
+      "bytes": 129,
+      "mediaType": "application/geo+json",
+      "sha256": "8ba4cf0a60b192632b476f3e70e46569bce7f909c12797f0450eae148a0d9613"
+    },
+    {
       "path": "files/geometry-93c947656d529c8c033fdcf2.geojson",
       "role": "geometry",
       "bytes": 132,
@@ -438,6 +648,20 @@
       "sha256": "b3c3533cf9e33fbcaea8e6ee40339e8b0dbfb353e1588e253c85ab4ef854336f"
     },
     {
+      "path": "files/geometry-b4cc1194006a5446924e9efe.geojson",
+      "role": "geometry",
+      "bytes": 128,
+      "mediaType": "application/geo+json",
+      "sha256": "b4cc1194006a5446924e9efe15396408b558c0204b2622a8652c144aea7dac3a"
+    },
+    {
+      "path": "files/geometry-b7fdcf5d5e1ac0120e378b39.geojson",
+      "role": "geometry",
+      "bytes": 135,
+      "mediaType": "application/geo+json",
+      "sha256": "b7fdcf5d5e1ac0120e378b399fc5de60439ca8c3fc4c4745804d9dc377bf8a06"
+    },
+    {
       "path": "files/geometry-b81c6d9b76b3c91c96a050b1.geojson",
       "role": "geometry",
       "bytes": 268,
@@ -473,6 +697,13 @@
       "sha256": "bfd108e4d4737aa7c6240e82ca6c34e94e1abb82f909594812c6443a16b37171"
     },
     {
+      "path": "files/geometry-c3649c063be2c551d5bf0e3a.geojson",
+      "role": "geometry",
+      "bytes": 135,
+      "mediaType": "application/geo+json",
+      "sha256": "c3649c063be2c551d5bf0e3a92e88be3f885768e3cd75c6f5df5dfee256b2297"
+    },
+    {
       "path": "files/geometry-c5d2b687e4f8048b8be1fab3.geojson",
       "role": "geometry",
       "bytes": 128,
@@ -494,6 +725,13 @@
       "sha256": "d247b8fcc726d54180c7cbe1746a9324cdc01aba6e55ab253d386156b5079d73"
     },
     {
+      "path": "files/geometry-d502c84b14848f3b4054c8d3.geojson",
+      "role": "geometry",
+      "bytes": 135,
+      "mediaType": "application/geo+json",
+      "sha256": "d502c84b14848f3b4054c8d32c012b1a91fc3874120bf97647b8d2e9e8e9c989"
+    },
+    {
       "path": "files/geometry-d94642b1c76bf4bb09a9f0c0.geojson",
       "role": "geometry",
       "bytes": 127,
@@ -506,6 +744,13 @@
       "bytes": 124,
       "mediaType": "application/geo+json",
       "sha256": "e459145ff99e125d1794300a52abfe47f0f0febf6fbe9c9a12f47e03e75bcfcc"
+    },
+    {
+      "path": "files/geometry-e49f16e30ab480883e473482.geojson",
+      "role": "geometry",
+      "bytes": 133,
+      "mediaType": "application/geo+json",
+      "sha256": "e49f16e30ab480883e4734827b51437668ecc154bf9dc56d8688b2b990992546"
     },
     {
       "path": "files/geometry-e53be47228081f3f9433b2b8.geojson",
@@ -529,11 +774,32 @@
       "sha256": "ec07557244a215544e00057215aa194439f9e5911e22918901bcf40d4549c901"
     },
     {
+      "path": "files/geometry-edcf97e659e7da08337628de.geojson",
+      "role": "geometry",
+      "bytes": 133,
+      "mediaType": "application/geo+json",
+      "sha256": "edcf97e659e7da08337628de53c9fc48207e990afc88828d5f3f2aef44a2b383"
+    },
+    {
       "path": "files/geometry-ee12870b9c475b1dea2db205.geojson",
       "role": "geometry",
       "bytes": 131,
       "mediaType": "application/geo+json",
       "sha256": "ee12870b9c475b1dea2db205e27b2c0b29596ca418058839aeaa1d6b05c37b2a"
+    },
+    {
+      "path": "files/geometry-eebce0f9f29cccf7b676d8e2.geojson",
+      "role": "geometry",
+      "bytes": 136,
+      "mediaType": "application/geo+json",
+      "sha256": "eebce0f9f29cccf7b676d8e2716163f2af39364506002585b3e70e020e82378f"
+    },
+    {
+      "path": "files/geometry-f30bc485e1dd5e5c28464112.geojson",
+      "role": "geometry",
+      "bytes": 136,
+      "mediaType": "application/geo+json",
+      "sha256": "f30bc485e1dd5e5c28464112ae5422b9a3e2ba38d3aadf1d2d3b5a266d38066e"
     },
     {
       "path": "files/geometry-f315d89c10b9bba0a3878b52.geojson",
@@ -548,6 +814,13 @@
       "bytes": 126,
       "mediaType": "application/geo+json",
       "sha256": "f55c88e57031ab53c8833179c9dd65efbb1aa606aacd749b4f039d40bdab6d3a"
+    },
+    {
+      "path": "files/geometry-f7442821523a6794af00d368.geojson",
+      "role": "geometry",
+      "bytes": 128,
+      "mediaType": "application/geo+json",
+      "sha256": "f7442821523a6794af00d3688511382ac9bd999624ff4dcc0474973821f945c5"
     },
     {
       "path": "files/geometry-f7bca82f0d56d3637787fae4.geojson",
@@ -571,67 +844,81 @@
       "sha256": "fe0186909c243fc7c15cf76d582124de6d72b298cbe47ebdeaaf852c7915ff66"
     },
     {
-      "path": "files/human-encounters-01e2ab2911683374cdb2d636.json",
+      "path": "files/geometry-ff0f7ac580cb0836199af744.geojson",
+      "role": "geometry",
+      "bytes": 143,
+      "mediaType": "application/geo+json",
+      "sha256": "ff0f7ac580cb0836199af7444a3c83263e7209307451e0ff38a99a7e3b2d9c14"
+    },
+    {
+      "path": "files/human-encounters-072fd8db6b763b797b770826.json",
       "role": "records",
       "bytes": 57842,
       "mediaType": "application/json",
-      "sha256": "01e2ab2911683374cdb2d6362d8465b00015be7e46c7ab63ca1bca6e752f5ae3"
+      "sha256": "072fd8db6b763b797b770826921ef5ab765adcdf435f1f70b9b3d6919dd432e5"
     },
     {
-      "path": "files/human-origins-4650c8e550e1e6ce0b5b7b48.json",
+      "path": "files/human-origins-74429d714ee652d6a629ca7b.json",
       "role": "records",
       "bytes": 37889,
       "mediaType": "application/json",
-      "sha256": "4650c8e550e1e6ce0b5b7b4889f921857a8100bc707fea6b8f3e0ec9e8309060"
+      "sha256": "74429d714ee652d6a629ca7b83d73a6daf74bb157f552dad243391b8a8ce0860"
     },
     {
-      "path": "files/licenses-99bee2d88ca7a389fae8ec55.json",
-      "role": "licenses",
-      "bytes": 23719,
+      "path": "files/ice-age-life-6f338fd89add04b052272200.json",
+      "role": "records",
+      "bytes": 32855,
       "mediaType": "application/json",
-      "sha256": "99bee2d88ca7a389fae8ec5505bf355b4d3fb9e09d96f23bc8d9880a6f5923ab"
+      "sha256": "6f338fd89add04b052272200eb5fbce490a33ce1db014bce67891dd7349a736e"
     },
     {
-      "path": "files/maritime-shared-130b5211eb5c1565f2dfc5c9.json",
+      "path": "files/licenses-7a45be7386f96b715358599d.json",
+      "role": "licenses",
+      "bytes": 35427,
+      "mediaType": "application/json",
+      "sha256": "7a45be7386f96b715358599df111fc41394397e09184594cecf3d98468cee712"
+    },
+    {
+      "path": "files/maritime-shared-93c0e1e5311cb5dc82005708.json",
       "role": "records",
       "bytes": 5851,
       "mediaType": "application/json",
-      "sha256": "130b5211eb5c1565f2dfc5c9f114b72142dbd5bbc60bb5f263a4888d3e949915"
+      "sha256": "93c0e1e5311cb5dc82005708947a5ca62b3991d77ab22ddc5ee485401bb9a7d8"
     },
     {
-      "path": "files/record-index-228af7ac892b1ee5dae0c76d.json",
+      "path": "files/record-index-5d04740ec08209895a887fa2.json",
       "role": "record-index",
-      "bytes": 137815,
+      "bytes": 240046,
       "mediaType": "application/json",
-      "sha256": "228af7ac892b1ee5dae0c76d6136f149d0516ccab6d7ea011f907aae1decd3d3"
+      "sha256": "5d04740ec08209895a887fa2fb11791fe5d3e84cf0fd22c6754a02477ab3b8bd"
     },
     {
-      "path": "files/relations-decc038ac1ce215655e66db1.json",
+      "path": "files/relations-4e8a114e6d4f549402231094.json",
       "role": "relations",
-      "bytes": 37631,
+      "bytes": 54451,
       "mediaType": "application/json",
-      "sha256": "decc038ac1ce215655e66db1e0d7247cde122ca4e3e553d031786df3833e8538"
+      "sha256": "4e8a114e6d4f549402231094cf60b2316a133e187dc691454ae4d22b7e74d3b3"
     },
     {
-      "path": "files/search-de-e96a1d87e0e2f08606e2b14c.json",
+      "path": "files/search-de-d800996f460608dd42d2afa8.json",
       "role": "search",
-      "bytes": 92703,
+      "bytes": 142376,
       "mediaType": "application/json",
-      "sha256": "e96a1d87e0e2f08606e2b14c1968b1af817aa04ca8fe6ec6e452e35b04d27f1c"
+      "sha256": "d800996f460608dd42d2afa8c31ab7600f4288a5ea820ccf81637bd95dff4c78"
     },
     {
-      "path": "files/search-en-e96a1d87e0e2f08606e2b14c.json",
+      "path": "files/search-en-d800996f460608dd42d2afa8.json",
       "role": "search",
-      "bytes": 92703,
+      "bytes": 142376,
       "mediaType": "application/json",
-      "sha256": "e96a1d87e0e2f08606e2b14c1968b1af817aa04ca8fe6ec6e452e35b04d27f1c"
+      "sha256": "d800996f460608dd42d2afa8c31ab7600f4288a5ea820ccf81637bd95dff4c78"
     },
     {
-      "path": "files/spatial-9533cf133280aaf03898d4c0.json",
+      "path": "files/spatial-46a9dd601f6108805a8bfb99.json",
       "role": "spatial",
-      "bytes": 12922,
+      "bytes": 17594,
       "mediaType": "application/json",
-      "sha256": "9533cf133280aaf03898d4c0ffde509d447603e14d336e386e1279607f22709d"
+      "sha256": "46a9dd601f6108805a8bfb9953b678722e493980a57b4286b5b5c2672ae3730e"
     },
     {
       "path": "files/text-01035e62fe576d242e6a1ed5.md",
@@ -639,6 +926,27 @@
       "bytes": 3409,
       "mediaType": "text/markdown",
       "sha256": "01035e62fe576d242e6a1ed5dbe906bb8027fa00d698dae5a1678bb2efa754cc"
+    },
+    {
+      "path": "files/text-04a03edc57f6b4ef36e12310.md",
+      "role": "text",
+      "bytes": 3301,
+      "mediaType": "text/markdown",
+      "sha256": "04a03edc57f6b4ef36e123106c4377f09398b7ca08df365566e0b1170b6bfa8b"
+    },
+    {
+      "path": "files/text-15f635142de9134eb3a3f695.md",
+      "role": "text",
+      "bytes": 3231,
+      "mediaType": "text/markdown",
+      "sha256": "15f635142de9134eb3a3f695b53e21c28182c8780835d79b30c761e8989e548d"
+    },
+    {
+      "path": "files/text-2136fa228728bfe0e03e8b4c.md",
+      "role": "text",
+      "bytes": 3325,
+      "mediaType": "text/markdown",
+      "sha256": "2136fa228728bfe0e03e8b4c194dfce3d5118f2ebd1661833f03a07d0c4a1f25"
     },
     {
       "path": "files/text-2801a73a09b230fa9e493d1a.md",
@@ -655,11 +963,25 @@
       "sha256": "2d9f76a6ec2a52af866ed7d0ab1835721de727b3f5d99b9bd6b050a7a2b36316"
     },
     {
+      "path": "files/text-4097957b0086ab48130a3b2c.md",
+      "role": "text",
+      "bytes": 3582,
+      "mediaType": "text/markdown",
+      "sha256": "4097957b0086ab48130a3b2ca039ff7cb4f0bad57e91bc1abc155101db2a9e45"
+    },
+    {
       "path": "files/text-56d08e72981c0e855556b5f4.md",
       "role": "text",
       "bytes": 4055,
       "mediaType": "text/markdown",
       "sha256": "56d08e72981c0e855556b5f4876a5fce783bd757baffe7564309de3302bff132"
+    },
+    {
+      "path": "files/text-62aa8148c55fbc71a5c1263b.md",
+      "role": "text",
+      "bytes": 2934,
+      "mediaType": "text/markdown",
+      "sha256": "62aa8148c55fbc71a5c1263b00814b3171300a7635233e12ba9971e2efb1d89b"
     },
     {
       "path": "files/text-66553b4e6d43021c56caeb4c.md",
@@ -676,6 +998,13 @@
       "sha256": "67502c89a229f1828d92a850e21b93c609ffe104e5894d8246a8bacbaefff015"
     },
     {
+      "path": "files/text-69270567f5d6cb34fe602fde.md",
+      "role": "text",
+      "bytes": 3350,
+      "mediaType": "text/markdown",
+      "sha256": "69270567f5d6cb34fe602fde1af486755dd0cfb14f7c0a325625f51252e81927"
+    },
+    {
       "path": "files/text-6e4d54dece786b1c4ff5f359.md",
       "role": "text",
       "bytes": 1411,
@@ -690,11 +1019,25 @@
       "sha256": "7781ef0eb96141e84a075d94de2f0c45c0f31ca1899f99da69f0b86a8bbfa0e1"
     },
     {
+      "path": "files/text-7d2fa50516e1381cf0fc9e64.md",
+      "role": "text",
+      "bytes": 3510,
+      "mediaType": "text/markdown",
+      "sha256": "7d2fa50516e1381cf0fc9e645e17b51fdbc66417f3580608026b5b268300206d"
+    },
+    {
       "path": "files/text-7da869499631dcbc9b869139.md",
       "role": "text",
       "bytes": 1416,
       "mediaType": "text/markdown",
       "sha256": "7da869499631dcbc9b8691391786f93e4b9ed8ffd217238b0f3183fd6468a283"
+    },
+    {
+      "path": "files/text-895cd0fd6f154661d7bdfdc5.md",
+      "role": "text",
+      "bytes": 2920,
+      "mediaType": "text/markdown",
+      "sha256": "895cd0fd6f154661d7bdfdc5f4c9af2f413f86ed94fad910d2ef1ba981535964"
     },
     {
       "path": "files/text-8f58fafb2b47037e45f22ca2.md",
@@ -711,11 +1054,32 @@
       "sha256": "906df6bc0409e23fcb24c6b84fd1a3c5c5486cdbd3ef59e62183d67172c63ac0"
     },
     {
+      "path": "files/text-a484fc57d5006cffe0dd258a.md",
+      "role": "text",
+      "bytes": 2924,
+      "mediaType": "text/markdown",
+      "sha256": "a484fc57d5006cffe0dd258a2d0f0b94c3258ac99a964fe19339864ec843b542"
+    },
+    {
+      "path": "files/text-a7786c6452f6866abdca95ba.md",
+      "role": "text",
+      "bytes": 3919,
+      "mediaType": "text/markdown",
+      "sha256": "a7786c6452f6866abdca95ba410d9cc5e585606dfcc5f6e6c37831f076427ceb"
+    },
+    {
       "path": "files/text-b6c3765dcfe83bd9ae2a8373.md",
       "role": "text",
       "bytes": 1597,
       "mediaType": "text/markdown",
       "sha256": "b6c3765dcfe83bd9ae2a8373626d621b755347eec35da8e331173cef0e0c9a99"
+    },
+    {
+      "path": "files/text-bb1760fd8d4936eb5330363e.md",
+      "role": "text",
+      "bytes": 3136,
+      "mediaType": "text/markdown",
+      "sha256": "bb1760fd8d4936eb5330363e227aecaf780a81457b7ad0124ede94c6e30dcd55"
     },
     {
       "path": "files/text-bbf008138c83a84bff23e552.md",
@@ -732,11 +1096,32 @@
       "sha256": "c25ca3238d761582200925afdb9869451bf718bb5f850005cedafab1429a24eb"
     },
     {
+      "path": "files/text-ca8fda359e79e5bf6692dcb4.md",
+      "role": "text",
+      "bytes": 3416,
+      "mediaType": "text/markdown",
+      "sha256": "ca8fda359e79e5bf6692dcb4d6a1645e2505d651b247520de2ae04410ed396c9"
+    },
+    {
       "path": "files/text-e91e4f6a74e5636065217da4.md",
       "role": "text",
       "bytes": 1287,
       "mediaType": "text/markdown",
       "sha256": "e91e4f6a74e5636065217da44776def7d1de5f83ee11e724d20e9b84295f2687"
+    },
+    {
+      "path": "files/text-eb2b6bdb721b7b52a727b93b.md",
+      "role": "text",
+      "bytes": 3137,
+      "mediaType": "text/markdown",
+      "sha256": "eb2b6bdb721b7b52a727b93b616f06eab6e3541468c90e02290083483bf2d658"
+    },
+    {
+      "path": "files/text-ed3973bcbbda8c29d370fdcc.md",
+      "role": "text",
+      "bytes": 3277,
+      "mediaType": "text/markdown",
+      "sha256": "ed3973bcbbda8c29d370fdcc33dcaf997c73caf7a939f881f381637c52a2ace9"
     },
     {
       "path": "files/text-f1ee2e7a83bb4190767fa823.md",
@@ -746,24 +1131,24 @@
       "sha256": "f1ee2e7a83bb4190767fa8230e7f45e66c350312b5efbe132da9bf622ab94c44"
     },
     {
-      "path": "files/time-ec4eaf877224983c28485177.json",
+      "path": "files/time-3e83f14a771e1a21b74ba1dd.json",
       "role": "time",
-      "bytes": 31572,
+      "bytes": 44206,
       "mediaType": "application/json",
-      "sha256": "ec4eaf877224983c284851778b74588d9df46dd4879655de6d76688af55eda2a"
+      "sha256": "3e83f14a771e1a21b74ba1ddffe4131fdbdfb3155863b28e3fa2e4b0c42d33e9"
     }
   ],
   "entrypoints": {
-    "discovery": "files/discovery-bfac2ee6fb5a84fd40df7779.json",
-    "recordIndex": "files/record-index-228af7ac892b1ee5dae0c76d.json",
+    "discovery": "files/discovery-5acd1c13e616cb33b6ca6ec8.json",
+    "recordIndex": "files/record-index-5d04740ec08209895a887fa2.json",
     "search": {
-      "de": "files/search-de-e96a1d87e0e2f08606e2b14c.json",
-      "en": "files/search-en-e96a1d87e0e2f08606e2b14c.json"
+      "de": "files/search-de-d800996f460608dd42d2afa8.json",
+      "en": "files/search-en-d800996f460608dd42d2afa8.json"
     },
-    "time": "files/time-ec4eaf877224983c28485177.json",
-    "relations": "files/relations-decc038ac1ce215655e66db1.json",
-    "spatial": "files/spatial-9533cf133280aaf03898d4c0.json",
-    "defaultChapterId": "chapter:columbus-first-voyage"
+    "time": "files/time-3e83f14a771e1a21b74ba1dd.json",
+    "relations": "files/relations-4e8a114e6d4f549402231094.json",
+    "spatial": "files/spatial-46a9dd601f6108805a8bfb99.json",
+    "defaultChapterId": "chapter:as-the-ice-retreats"
   },
-  "licenseInventory": "files/licenses-99bee2d88ca7a389fae8ec55.json"
+  "licenseInventory": "files/licenses-7a45be7386f96b715358599d.json"
 }
