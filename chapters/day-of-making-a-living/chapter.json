@@ -1,0 +1,312 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:day-of-making-a-living",
+  "sourceRefs": [
+    {
+      "sourceId": "source:florin-madjedbebe-food-2020",
+      "role": "supports",
+      "locator": "pp. 2–3, Phase 2 plant macrofossils; pp. 5–6, Discussion and Methods, processing and preservation"
+    },
+    {
+      "sourceId": "source:oconnell-sahul-2018",
+      "role": "challenges",
+      "locator": "pp. 8486–8487, Madjedbebe and Discussion, sediment–artifact association"
+    },
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site; Results and Discussion, The site of Ohalo II and its finds and The proto-weeds"
+    },
+    {
+      "sourceId": "source:zohar-ohalo-fish-2018",
+      "role": "supports",
+      "locator": "Abstract; Results; Discussion, fish assemblage and its formation"
+    },
+    {
+      "sourceId": "source:moubtahij-taforalt-diet-2024",
+      "role": "supports",
+      "locator": "pp. 1036–1040, dated burials, sampled tissues, Results and discussion; Fig. 3 and caption"
+    }
+  ],
+  "labels": {
+    "de": "Ein Tag zum Überleben",
+    "en": "A Day of Making a Living"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:madjedbebe-plant-food-evidence",
+    "event:ohalo-food-processing",
+    "event:taforalt-dietary-evidence",
+    "artifact:ohalo-grinding-slab",
+    "artifact:ohalo-sickle-blade",
+    "concept:reading-ancient-diets",
+    "asset:ohalo-sickle-wear",
+    "asset:taforalt-isotope-comparison"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 66,
+      "latitude": 16,
+      "metersPerPixel": 23000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 71000,
+        "younger": 71000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "basis": "years-before",
+        "referenceYear": 1950,
+        "older": 13000,
+        "younger": 13000,
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "madjedbebe",
+      "textAnchor": "madjedbebe",
+      "labels": {
+        "de": "Madjedbebe · Pflanzenreste",
+        "en": "Madjedbebe · plant remains"
+      },
+      "summary": {
+        "de": "Verkohlte Reste bewahren Hinweise auf die Verarbeitung von Pflanzen.",
+        "en": "Charred remains preserve evidence of plant processing."
+      },
+      "state": {
+        "camera": {
+          "longitude": 132.88,
+          "latitude": -12.5,
+          "metersPerPixel": 1800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 71000,
+            "younger": 71000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 50000,
+            "younger": 50000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "ohalo-ii",
+      "textAnchor": "ohalo-ii",
+      "labels": {
+        "de": "Ohalo II · Nahrung und Werkzeuge",
+        "en": "Ohalo II · food and tools"
+      },
+      "summary": {
+        "de": "Klinge, Reibplatte, Pflanzenreste und Fischknochen ergänzen sich.",
+        "en": "Blade, grinding slab, plant remains and fish bones complement one another."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.57,
+          "latitude": 32.72,
+          "metersPerPixel": 700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 24000,
+            "younger": 24000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 22000,
+            "younger": 22000,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:ohalo-sickle-wear"
+    },
+    {
+      "id": "taforalt",
+      "textAnchor": "taforalt",
+      "labels": {
+        "de": "Taforalt · ein chemischer Blick",
+        "en": "Taforalt · a chemical view"
+      },
+      "summary": {
+        "de": "Blaue Dreiecke stehen für Menschen. Der Vergleich mit Tieren hilft bei der Deutung.",
+        "en": "Blue triangles represent humans. Animal comparisons help interpret the measurements."
+      },
+      "state": {
+        "camera": {
+          "longitude": -2.4,
+          "latitude": 34.81,
+          "metersPerPixel": 1300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 15500,
+            "younger": 15500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "basis": "years-before",
+            "referenceYear": 1950,
+            "older": 13500,
+            "younger": 13500,
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:taforalt-isotope-comparison"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Wie kamen Menschen an Nahrung? Madjedbebe, Ohalo II und Taforalt zeigen Pflanzenreste, Werkzeuge und chemische Spuren im Körper.",
+      "en": "How did people obtain food? Madjedbebe, Ohalo II and Taforalt reveal plant remains, tools and chemical traces in the body."
+    },
+    "periods": [
+      {
+        "id": "palaeolithic",
+        "labels": {
+          "de": "Altsteinzeit",
+          "en": "Palaeolithic"
+        },
+        "description": {
+          "de": "Gemeinsamer Suchbereich für die frühen Kapitel der Menschheitsgeschichte. Regionale Einteilungen und Datierungen unterscheiden sich; die Kapitel können sich zeitlich überlappen. Ihre Zeitspannen stehen jeweils am Kapitel.",
+          "en": "A shared discovery group for the early chapters of human history. Regional period definitions and dates differ; chapters can overlap in time. Each chapter shows its own time span."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "oceania",
+        "labels": {
+          "de": "Ozeanien",
+          "en": "Oceania"
+        }
+      },
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:ohalo-grinding-slab",
+    "artifact:ohalo-sickle-blade",
+    "asset:ohalo-sickle-wear",
+    "asset:taforalt-isotope-comparison",
+    "concept:reading-ancient-diets",
+    "event:madjedbebe-plant-food-evidence",
+    "event:ohalo-food-processing",
+    "event:taforalt-dietary-evidence",
+    "geometry:madjedbebe-orientation",
+    "geometry:ohalo-ii-orientation",
+    "geometry:taforalt-orientation",
+    "place:madjedbebe",
+    "place:ohalo-ii",
+    "place:taforalt",
+    "source:clarkson-madjedbebe-2017",
+    "source:florin-madjedbebe-food-2020",
+    "source:moubtahij-taforalt-diet-2024",
+    "source:oconnell-sahul-2018",
+    "source:snir-ohalo-2015",
+    "source:turner-taforalt-2020",
+    "source:zohar-ohalo-fish-2018",
+    "specimen:madjedbebe-plant-foods",
+    "specimen:ohalo-plant-and-fish-remains",
+    "specimen:taforalt-dietary-sample"
+  ]
+}

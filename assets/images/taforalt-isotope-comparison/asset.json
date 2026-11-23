@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:taforalt-isotope-comparison",
+  "sourceRefs": [
+    {
+      "sourceId": "source:moubtahij-taforalt-diet-2024",
+      "role": "derivation",
+      "locator": "Fig. 3, complete figure"
+    }
+  ],
+  "assetType": "image",
+  "file": "taf-plot.png",
+  "mediaType": "image/png",
+  "labels": {
+    "de": "Taforalt · Isotopenwerte im Vergleich",
+    "en": "Taforalt · comparing isotope values"
+  },
+  "alt": {
+    "de": "Zwei Diagramme stellen menschliche Proben als blaue Dreiecke dar und vergleichen sie mit Proben von Pflanzenfressern und Hundeartigen.",
+    "en": "Two charts mark human samples with blue triangles and compare them with samples from herbivores and canids."
+  },
+  "entityIds": [
+    "specimen:taforalt-dietary-sample"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Zineb Moubtahij et al., Nature Ecology & Evolution Fig. 3"
+    ],
+    "attribution": "Zineb Moubtahij et al., Nature Ecology & Evolution Fig. 3 · CC BY 4.0",
+    "sourceUrl": "https://www.nature.com/articles/s41559-024-02382-z/figures/3",
+    "originNote": "Published PNG copied unchanged. Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

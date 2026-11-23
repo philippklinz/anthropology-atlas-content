@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:ohalo-ii-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:zohar-ohalo-fish-2018",
+      "role": "supports",
+      "locator": "Background, The Ohalo II site, GPS coordinates and 22,500–23,500 cal BP"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktionelle Lagegenauigkeit des Fundorts.",
+      "en": "Editorial site-location allowance."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundet aus 32°43′18.12″N, 35°34′10.37″E.",
+    "en": "Rounded from 32°43′18.12″N, 35°34′10.37″E."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manual orientation point derived from cited geographic facts."
+  }
+}

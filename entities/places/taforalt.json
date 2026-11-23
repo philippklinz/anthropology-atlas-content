@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:taforalt",
+  "sourceRefs": [
+    {
+      "sourceId": "source:turner-taforalt-2020",
+      "role": "supports",
+      "locator": "Materials and methods, Grotte des Pigeons site description, 34°48′50″N, 2°24′14″W"
+    },
+    {
+      "sourceId": "source:moubtahij-taforalt-diet-2024",
+      "role": "supports",
+      "locator": "pp. 1036–1040, dated burials, sampled tissues, Results and discussion; Fig. 3 and caption"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Taforalt · Grotte des Pigeons",
+    "en": "Taforalt · Grotte des Pigeons"
+  },
+  "summary": {
+    "de": "Höhle im Nordosten des heutigen Marokko mit Fundschichten aus verschiedenen Zeiten, darunter die hier untersuchten Bestattungen.",
+    "en": "Cave in present-day north-eastern Morocco with deposits of several periods, including the burials sampled here."
+  }
+}

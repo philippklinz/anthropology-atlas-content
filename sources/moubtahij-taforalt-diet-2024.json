@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:moubtahij-taforalt-diet-2024",
+  "sourceRefs": [],
+  "title": "Isotopic evidence of high reliance on plant food among Later Stone Age hunter-gatherers at Taforalt, Morocco",
+  "sourceType": "article",
+  "creators": [
+    "Zineb Moubtahij et al."
+  ],
+  "published": "2024",
+  "containerTitle": "Nature Ecology & Evolution 8, 1035–1045",
+  "identifiers": {
+    "doi": "10.1038/s41559-024-02382-z"
+  },
+  "url": "https://doi.org/10.1038/s41559-024-02382-z",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Published main paper consulted, including Fig. 3 and sample/age context. Dietary interpretation combines several measurements."
+}

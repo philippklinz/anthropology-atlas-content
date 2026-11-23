@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:taforalt-dietary-sample",
+  "sourceRefs": [
+    {
+      "sourceId": "source:moubtahij-taforalt-diet-2024",
+      "role": "supports",
+      "locator": "pp. 1036–1040, dated burials, sampled tissues, Results and discussion; Fig. 3 and caption"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Ernährungsspuren aus Taforalt",
+    "en": "Dietary traces from Taforalt"
+  },
+  "summary": {
+    "de": "Isotopenmessungen an menschlichen und tierischen Proben werden zusammen ausgewertet. Sie sprechen für eine bedeutende pflanzliche Komponente in den menschlichen Proben.",
+    "en": "Isotope measurements on human and animal samples are interpreted together. They point to a substantial plant component in the sampled human diets."
+  }
+}

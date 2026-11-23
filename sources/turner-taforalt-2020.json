@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:turner-taforalt-2020",
+  "sourceRefs": [],
+  "title": "Bone retouchers and technological continuity in the Middle Stone Age of North Africa",
+  "sourceType": "article",
+  "creators": [
+    "Elaine Turner et al."
+  ],
+  "published": "2020",
+  "containerTitle": "PLOS ONE 15(3), e0230642",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0230642"
+  },
+  "url": "https://doi.org/10.1371/journal.pone.0230642",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Site description and coordinates consulted. Occupation context in this paper differs from the later dated burials used for dietary evidence."
+}

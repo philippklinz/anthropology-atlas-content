@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:florin-madjedbebe-food-2020",
+  "sourceRefs": [],
+  "title": "The first Australian plant foods at Madjedbebe, 65,000–53,000 years ago",
+  "sourceType": "article",
+  "creators": [
+    "Stephanie A. Florin et al."
+  ],
+  "published": "2020",
+  "containerTitle": "Nature Communications 11, 924",
+  "identifiers": {
+    "doi": "10.1038/s41467-020-14723-0"
+  },
+  "url": "https://research-repository.griffith.edu.au/server/api/core/bitstreams/c15e128e-6a04-4317-8cdf-a36f57a376f7/content",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Published full text consulted. General archaeobotanical observations only. See Data availability for special provisions concerning Mirarr Indigenous knowledge and imagery."
+}

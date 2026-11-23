@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:taforalt-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:turner-taforalt-2020",
+      "role": "supports",
+      "locator": "Materials and methods, Grotte des Pigeons site description, 34°48′50″N, 2°24′14″W"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Redaktionelle Lagegenauigkeit des Fundorts.",
+      "en": "Editorial site-location allowance."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundet aus 34°48′50″N, 2°24′14″W.",
+    "en": "Rounded from 34°48′50″N, 2°24′14″W."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manual orientation point derived from cited geographic facts."
+  }
+}

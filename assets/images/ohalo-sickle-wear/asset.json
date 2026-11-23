@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:ohalo-sickle-wear",
+  "sourceRefs": [
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "derivation",
+      "locator": "Fig. 4, entire figure and captions"
+    }
+  ],
+  "assetType": "image",
+  "file": "ohalo-sickle.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Ohalo II · Gebrauchsspuren an einer Klinge",
+    "en": "Ohalo II · wear on a blade"
+  },
+  "alt": {
+    "de": "Steinklinge in der Mitte. Rechts Pflanzenpolitur, links mögliche Schäftungsspuren. Maßstäbe und Teilbildmarkierungen sind erhalten.",
+    "en": "Stone blade in the middle. Plant polish on the right and possible hafting wear on the left. Scales and panel markers are retained."
+  },
+  "entityIds": [
+    "artifact:ohalo-sickle-blade"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Ainit Snir et al., PLOS ONE Fig. 4"
+    ],
+    "attribution": "Ainit Snir et al., PLOS ONE Fig. 4 · CC BY 4.0",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0131422.g004",
+    "originNote": "Full publisher PNG converted to WebP at 1772 × 983, quality 87, with no crop or figure annotations. Creative Commons Attribution 4.0: https://creativecommons.org/licenses/by/4.0/."
+  }
+}

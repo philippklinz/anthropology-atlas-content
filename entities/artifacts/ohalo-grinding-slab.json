@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:ohalo-grinding-slab",
+  "sourceRefs": [
+    {
+      "sourceId": "source:snir-ohalo-2015",
+      "role": "supports",
+      "locator": "Materials and Methods, The Ohalo II site; Results and Discussion, The site of Ohalo II and its finds and The proto-weeds"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Reibplatte aus Ohalo II",
+    "en": "Grinding slab from Ohalo II"
+  },
+  "summary": {
+    "de": "Eine Reibplatte mit mikroskopischen Getreidespuren verbindet ein Werkzeug mit der Verarbeitung wilder Körner.",
+    "en": "Microscopic cereal traces on a grinding slab connect a tool with processing wild grain."
+  }
+}

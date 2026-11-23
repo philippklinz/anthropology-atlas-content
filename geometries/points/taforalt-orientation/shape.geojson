@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:taforalt-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.4,
+      34.81
+    ]
+  }
+}

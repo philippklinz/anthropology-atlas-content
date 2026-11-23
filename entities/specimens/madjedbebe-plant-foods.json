@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "specimen:madjedbebe-plant-foods",
+  "sourceRefs": [
+    {
+      "sourceId": "source:florin-madjedbebe-food-2020",
+      "role": "supports",
+      "locator": "pp. 2–3, Phase 2 plant macrofossils; pp. 5–6, Discussion and Methods, processing and preservation"
+    },
+    {
+      "sourceId": "source:oconnell-sahul-2018",
+      "role": "challenges",
+      "locator": "pp. 8486–8487, Madjedbebe and Discussion, sediment–artifact association"
+    }
+  ],
+  "entityType": "specimen",
+  "labels": {
+    "de": "Verkohlte Pflanzenreste aus Madjedbebe",
+    "en": "Charred plant remains from Madjedbebe"
+  },
+  "summary": {
+    "de": "Früchte, Samen und unterirdische Pflanzenteile in einer archäologischen Probe. Der Erhaltungszustand prägt, was gezählt werden kann.",
+    "en": "Fruits, seeds and underground plant parts in an archaeological sample. Preservation shapes what can be counted."
+  }
+}

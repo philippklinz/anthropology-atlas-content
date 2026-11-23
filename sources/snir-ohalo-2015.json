@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:snir-ohalo-2015",
+  "sourceRefs": [],
+  "title": "The Origin of Cultivation and Proto-Weeds, Long Before Neolithic Farming",
+  "sourceType": "article",
+  "creators": [
+    "Ainit Snir",
+    "Dani Nadel",
+    "Iris Groman-Yaroslavski",
+    "Yoel Melamed",
+    "Marcelo Sternberg",
+    "Ofer Bar-Yosef",
+    "Ehud Weiss"
+  ],
+  "published": "2015",
+  "containerTitle": "PLOS ONE 10(7), e0131422",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0131422"
+  },
+  "url": "https://doi.org/10.1371/journal.pone.0131422",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Full article consulted. Distinguish wild cereals, grain processing, a proposed cultivation trial and domestication. Fig. 4 has separately recorded media credit."
+}
