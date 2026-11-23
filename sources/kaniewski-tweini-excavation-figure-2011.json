@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kaniewski-tweini-excavation-figure-2011",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Sea Peoples, from Cuneiform Tablets to Carbon Dating",
+  "sourceType": "article",
+  "creators": [
+    "David Kaniewski",
+    "Elise Van Campo",
+    "Karel Van Lerberghe",
+    "Tom Boiy",
+    "Klaas Vansteenhuyse",
+    "Greta Jans",
+    "Karin Nys",
+    "Harvey Weiss",
+    "Christophe Morhange",
+    "Thierry Otto",
+    "Joachim Bretschneider"
+  ],
+  "url": "https://doi.org/10.1371/journal.pone.0020232",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "PLOS ONE 6(6), e20232. Fig. 2 presents an aerial and a section photograph of Field A. The authors use a Sea Peoples interpretation in the original caption.",
+  "published": "2011-06-08",
+  "identifiers": {
+    "doi": "10.1371/journal.pone.0020232"
+  }
+}

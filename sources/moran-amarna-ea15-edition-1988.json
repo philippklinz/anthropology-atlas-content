@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:moran-amarna-ea15-edition-1988",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Amarna texts, no. 102 (MMA 24.2.11 / EA 15)",
+  "sourceType": "book",
+  "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Cuneiform_Texts_in_The_Metropolitan_Museum_of_Art_Volume_I_Tablets_Cones_and_Bricks_of_the_Third_.pdf",
+  "creators": [
+    "William L. Moran"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Edition, transliteration and translation. In Ira Spar (ed.), pp. 149–150 and plates 112–113.",
+  "published": "1988",
+  "publisher": "The Metropolitan Museum of Art",
+  "language": "en",
+  "containerTitle": "Cuneiform Texts in The Metropolitan Museum of Art, volume I"
+}

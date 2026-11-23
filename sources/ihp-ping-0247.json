@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ihp-ping-0247",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Inscribed Plastron Ping 0247",
+  "sourceType": "catalog",
+  "creators": [
+    "Museum of the Institute of History & Philology, Academia Sinica"
+  ],
+  "url": "https://museum.sinica.edu.tw/en/collection/32/item/643/",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Object entry R041287, attribution to Wu Ding's reign, birth inquiry, and excavated association with Pit YH127. The catalogue lists a turtle plastron of 13.7 × 12.2 cm.",
+  "language": "en",
+  "identifiers": {
+    "inventoryNumber": "R041287"
+  }
+}

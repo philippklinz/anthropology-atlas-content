@@ -1,0 +1,373 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "chapter",
+  "id": "chapter:the-uluburun-shipwreck",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nadl-uluburun-site-2013",
+      "role": "supports",
+      "locator": "Site header, coordinates and History of the wreck"
+    },
+    {
+      "sourceId": "source:pulak-uluburun-hull-1999",
+      "role": "supports",
+      "locator": "pp. 15–16, opening paragraphs and Fig. 1: timber date estimate, slope and anchor-preserved hull sections"
+    },
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "pp. 289–292, Fig. 92 and Copper and Tin Ingots: estimated date near 1300 BCE and bulk metal freight"
+    },
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "catalogue 185, copper ingots, lead-isotope paragraph and notes 23–26: probable Solea-axis source region"
+    },
+    {
+      "sourceId": "source:stos-gale-cyprus-ores-1997",
+      "role": "supports",
+      "locator": "Abstract: comparison among sampled copper ore regions and late oxhide ingots"
+    },
+    {
+      "sourceId": "source:lankton-uluburun-glass-batches-2022",
+      "role": "supports",
+      "locator": "Abstract and Conclusions: ingot sampling, Egyptian attribution and proposed individual batches"
+    },
+    {
+      "sourceId": "source:amarna-project-bead-workshop",
+      "role": "supports",
+      "locator": "Main City South M50.14–16 courtyard evidence and caption of ingot fragment in probable mould"
+    },
+    {
+      "sourceId": "source:amarna-project-experimental-glasswork",
+      "role": "supports",
+      "locator": "The experimental manufacture of glass beads, first paragraph: unfinished beads and small fireplaces"
+    }
+  ],
+  "labels": {
+    "de": "Das Schiff von Uluburun",
+    "en": "The Uluburun Shipwreck"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:uluburun-wreck-and-cargo",
+    "event:uluburun-copper-source-comparison",
+    "event:amarna-glass-workshop-evidence"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 31.05,
+      "latitude": 32.1,
+      "metersPerPixel": 3600,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -1359,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1359,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1269,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1269,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "uluburun",
+      "textAnchor": "uluburun",
+      "labels": {
+        "de": "Uluburun · Wo das Schiff sank",
+        "en": "Uluburun · where the ship sank"
+      },
+      "summary": {
+        "de": "Rumpfreste, Steinanker und eine schwere Ladung blieben am Meeresgrund erhalten.",
+        "en": "Hull fragments, stone anchors and a heavy cargo survived on the seabed."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.68,
+          "latitude": 36.13,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1324,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1324,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1284,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1284,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "apliki",
+      "textAnchor": "apliki",
+      "labels": {
+        "de": "Apliki · Spuren im Kupfer",
+        "en": "Apliki · clues in the copper"
+      },
+      "summary": {
+        "de": "Die Bleiisotope vieler Barren weisen auf ein Erzrevier im Nordwesten von Zypern hin.",
+        "en": "Lead isotopes in many ingots point to an ore district in northwestern Cyprus."
+      },
+      "state": {
+        "camera": {
+          "longitude": 32.843,
+          "latitude": 35.074,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1324,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1324,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1284,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1284,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:uluburun-copper-ingot"
+    },
+    {
+      "id": "amarna",
+      "textAnchor": "amarna",
+      "labels": {
+        "de": "Amarna · Vom Glasbarren zur Perle",
+        "en": "Amarna · from ingot to bead"
+      },
+      "summary": {
+        "de": "Glasanalysen verbinden die Ladung mit Ägypten. Werkstattfunde aus Amarna zeigen die Verarbeitung.",
+        "en": "Chemical analyses connect the cargo with Egypt. Workshop finds from Amarna show glassworking."
+      },
+      "state": {
+        "camera": {
+          "longitude": 30.8992,
+          "latitude": 27.648,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1359,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1359,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1284,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1284,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:uluburun-glass-ingots"
+    }
+  ],
+  "discovery": {
+    "periods": [
+      {
+        "id": "kingdoms-and-trade-networks",
+        "labels": {
+          "de": "Königreiche und Handelsnetze",
+          "en": "Kingdoms and Trade Networks"
+        },
+        "description": {
+          "de": "Handel, Diplomatie, Werkstätten und Herrschaft zwischen etwa 1800 und 1000 v. Chr. Die Kapitel folgen den jeweils regionalen Datierungen und vergleichen konkrete Funde.",
+          "en": "Trade, diplomacy, workshops and power from roughly 1800 to 1000 BCE. The chapters follow local chronologies and compare specific finds."
+        }
+      }
+    ],
+    "summary": {
+      "de": "Ein Wrack bei Kaş, ein Erzrevier auf Zypern und Glasfunde aus Amarna zeigen, wie Archäologen eine Schiffsladung untersuchen. Ansichtsfenster 1360–1270 v. Chr.",
+      "en": "A wreck near Kaş, a mining district in Cyprus and glass from Amarna show how archaeologists study a cargo. Viewing window 1360–1270 BCE."
+    },
+    "regions": [
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      },
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "trade",
+        "labels": {
+          "de": "Handel",
+          "en": "Trade"
+        }
+      },
+      {
+        "id": "materials",
+        "labels": {
+          "de": "Materialien",
+          "en": "Materials"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:amarna-m50-glassworking-finds",
+    "artifact:uluburun-copper-ingots",
+    "artifact:uluburun-glass-ingots",
+    "artifact:uluburun-hull-fragments",
+    "artifact:uluburun-tin-ingots",
+    "asset:uluburun-copper-ingot",
+    "asset:uluburun-glass-ingots",
+    "event:amarna-glass-workshop-evidence",
+    "event:uluburun-copper-source-comparison",
+    "event:uluburun-wreck-and-cargo",
+    "geometry:amarna-orientation",
+    "geometry:apliki-mine-orientation",
+    "geometry:uluburun-wreck-orientation",
+    "place:amarna",
+    "place:apliki-mine",
+    "place:uluburun-wreck",
+    "source:amarna-project-bead-workshop",
+    "source:amarna-project-central-city-location",
+    "source:amarna-project-experimental-glasswork",
+    "source:lankton-uluburun-glass-batches-2022",
+    "source:mindat-apliki-mineral-locality",
+    "source:nadl-uluburun-site-2013",
+    "source:pulak-uluburun-hull-1999",
+    "source:pulak-uluburun-trade-2008",
+    "source:stos-gale-cyprus-ores-1997",
+    "source:uluburun-copper-ingot-photo",
+    "source:uluburun-glass-ingots-photo"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hattusa-treaty-tablet-amin-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Part of a clay treaty tablet from Boğazköy · museum photograph",
+  "sourceType": "catalog",
+  "url": "https://commons.wikimedia.org/wiki/File:1._Part_of_the_clay_tablet_of_Kadesh_Treaty,_written_in_Akkadian._1269_BCE._From_Bo%C4%9Fazk%C3%B6y,_Turkey._Clay_tablet._Museum_of_the_Ancient_Orient,_Istanbul,_Turkey.jpg",
+  "creators": [
+    "Osama Shukir Muhammed Amin FRCP(Glasg)"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Wikimedia Commons photograph of part of a clay witness to the Egyptian–Hittite peace treaty in the Museum of the Ancient Orient, Istanbul. Licensed CC BY-SA 4.0.",
+  "published": "2018",
+  "language": "en"
+}

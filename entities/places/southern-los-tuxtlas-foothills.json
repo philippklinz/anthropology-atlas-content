@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:southern-los-tuxtlas-foothills",
+  "sourceRefs": [
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 5–7: basalt boulders on the southern slopes near Cerro Cintepec, Soteapan and Huazuntlan. Map 1: generalized source localities."
+    },
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 16–18, Monuments from San Lorenzo and Adjacent Sites, item a: objects 1–5 assigned to the Cerro Cintepec and Soteapan basalt group."
+    },
+    {
+      "sourceId": "source:inegi-veracruz-soteapan-2023",
+      "role": "supports",
+      "locator": "p. 440, Situación actual de los municipios, Soteapan: 18°13′46.236″ N, 94°52′21.923″ W."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Südliche Ausläufer von Los Tuxtlas",
+    "en": "Southern Los Tuxtlas foothills"
+  },
+  "summary": {
+    "de": "Vulkanisches Gestein aus den Ausläufern bei Cerro Cintepec und Soteapan ähnelt dem Basalt mehrerer Köpfe von San Lorenzo.",
+    "en": "Volcanic rock from the foothills near Cerro Cintepec and Soteapan resembles the basalt of several heads from San Lorenzo."
+  }
+}

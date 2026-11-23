@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:ramesses-ii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cfeetk-karnak-kiu32-archive",
+      "role": "supports",
+      "locator": "Record 44406, KIU 32: west exterior wall of the Cachette court, sandstone and year 21 of Ramesses II"
+    },
+    {
+      "sourceId": "source:moore-hittite-queenship-2018",
+      "role": "supports",
+      "locator": "P. 106, The Egyptian-Hittite treaty (1259 BCE): year 21 and absolute chronology"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Ramses II.",
+    "en": "Ramesses II"
+  },
+  "summary": {
+    "de": "Ägyptischer König, in dessen 21. Regierungsjahr der Vertrag mit Hattusili III. datiert ist.",
+    "en": "Egyptian king whose twenty-first regnal year provides the date of the treaty with Hattusili III."
+  }
+}

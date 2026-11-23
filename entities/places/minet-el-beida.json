@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:minet-el-beida",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ras-shamra-mission-site-history",
+      "role": "supports",
+      "locator": "Historique, paragraphs on the 1929 excavations and the identification of Mahadu"
+    },
+    {
+      "sourceId": "source:de-graauw-ancient-harbours-2024",
+      "role": "derivation",
+      "locator": "Entry 3414, Minet el-Beida (Mahadu), 35.60915° N, 35.77212° E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Minet el-Beida",
+    "en": "Minet el-Beida"
+  },
+  "summary": {
+    "de": "Bucht und archäologischer Fundort des bronzezeitlichen Hafens Mahadu nahe Ugarit.",
+    "en": "Bay and archaeological site of the Bronze Age harbour of Mahadu near Ugarit."
+  }
+}

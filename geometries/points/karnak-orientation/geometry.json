@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:karnak-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cfeetk-karnak-kiu32-archive",
+      "role": "supports",
+      "locator": "Record 44406, KIU 32: west exterior wall of the Cachette court, sandstone and year 21 of Ramesses II"
+    },
+    {
+      "sourceId": "source:karnak-treaty-wall-tausch-photo",
+      "role": "supports",
+      "locator": "Summary and Camera location: west exterior wall and 25.717972° N, 32.657722° E"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 150,
+    "note": {
+      "de": "Gerundeter Orientierungspunkt.",
+      "en": "Rounded orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Ungefähre Lage der Inschrift am 7. Pylon, aus der Kameraposition der Aufnahme und der Beschreibung der Wand bestimmt.",
+    "en": "Approximate location of the inscription at the Seventh Pylon from the photograph’s camera location and description of the wall."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Manual point derived from the cited geographic location."
+  }
+}

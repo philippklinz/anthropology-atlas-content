@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:fu-hao",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ihp-ping-0247",
+      "role": "supports",
+      "locator": "Item R041287, description of the childbirth inquiry, Period, Excavated/Findspot, and Materials"
+    },
+    {
+      "sourceId": "source:henan-museum-fu-hao-owl-zun",
+      "role": "supports",
+      "locator": "Provenance, Measurements, and About: excavated in 1976, vessel form, and the Fu Hao inscription on the inner wall"
+    },
+    {
+      "sourceId": "source:zheng-fu-hao-inscribed-bronzes",
+      "role": "supports",
+      "locator": "Abstract, excavation in 1976 and recurring Fu Hao inscription (109 vessels)"
+    },
+    {
+      "sourceId": "source:smithsonian-fu-hao-burial-timeline",
+      "role": "supports",
+      "locator": "Entry around 1200 BCE, Tomb of Fu Hao: Yinxu burial and preserved grave inventory"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Fu Hao",
+    "en": "Fu Hao"
+  },
+  "summary": {
+    "de": "Angehörige des späten Shang-Königshofs und Gemahlin Wu Dings. Ihr Name erscheint in Orakeltexten und auf Bronzen aus Grab M5.",
+    "en": "Member of the late Shang court and a consort of Wu Ding. Her name appears in divination texts and on bronzes from tomb M5."
+  },
+  "names": [
+    {
+      "text": "婦好",
+      "languageTag": "zh-Hant",
+      "nameType": "historical",
+      "sourceRefs": [
+        {
+          "sourceId": "source:ihp-ping-0247",
+          "role": "supports",
+          "locator": "Item R041287, description of the childbirth inquiry, Period, Excavated/Findspot, and Materials"
+        }
+      ]
+    }
+  ]
+}

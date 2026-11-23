@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "script:shang-oracle-bone-script",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ihp-yh127-excavation-exhibition-2006",
+      "role": "supports",
+      "locator": "Opening description and The archaeological sensation in 1936, report of 17,096 inscribed pieces from Pit YH127"
+    },
+    {
+      "sourceId": "source:icomos-yin-xu-evaluation-2006",
+      "role": "supports",
+      "locator": "Yin Xu, No. 1114, pp. 58–59: palaces and shrines south of the Huan River, bronze vessels, oracle-bone writing"
+    },
+    {
+      "sourceId": "source:ihp-ping-0247",
+      "role": "supports",
+      "locator": "Item R041287, description of the childbirth inquiry, Period, Excavated/Findspot, and Materials"
+    }
+  ],
+  "entityType": "script",
+  "labels": {
+    "de": "Orakelknochenschrift der Shang",
+    "en": "Shang oracle bone script"
+  },
+  "summary": {
+    "de": "Frühe chinesische Schrift. Die Texte auf Tierknochen und Schildkrötenpanzern dokumentieren unter anderem Fragen und Deutungen von Orakeln.",
+    "en": "Early Chinese writing. Texts on animal bones and turtle shell record, among other things, the questions and readings of divinations."
+  },
+  "names": [
+    {
+      "text": "甲骨文",
+      "languageTag": "zh-Hant",
+      "nameType": "alternative",
+      "sourceRefs": [
+        {
+          "sourceId": "source:ihp-yh127-excavation-exhibition-2006",
+          "role": "supports",
+          "locator": "Opening description and The archaeological sensation in 1936, report of 17,096 inscribed pieces from Pit YH127"
+        }
+      ]
+    }
+  ]
+}

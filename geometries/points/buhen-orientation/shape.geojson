@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:buhen-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.2876,
+      21.9034
+    ]
+  }
+}

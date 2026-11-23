@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:minet-el-beida-ivory-lid-attestation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:louvre-ao-11601",
+      "role": "supports",
+      "locator": "AO 11601, Description, Caractéristiques matérielles, Lieux et dates"
+    },
+    {
+      "sourceId": "source:ras-shamra-mission-site-history",
+      "role": "supports",
+      "locator": "Historique, paragraphs on the 1929 excavations and the identification of Mahadu"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Minet el-Beida · Elfenbein aus dem Hafengrab",
+    "en": "Minet el-Beida · ivory from a harbour tomb"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1299,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1149,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Der Louvre datiert den Elfenbeindeckel ungefähr auf 1300–1150 v. Chr. Die Grabung verzeichnet ihn in Grab III.",
+    "en": "The Louvre dates the ivory lid to approximately 1300–1150 BCE. The excavation records it in Tomb III."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Zeitfenster für die Datierung des Objekts im Museumskatalog. Der Hafenpunkt dient der Orientierung am Fundort.",
+      "en": "Time window from the catalogue dating of the object. The harbour point locates the site."
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:minet-el-beida-pyxis-lid-ao-11601",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:minet-el-beida"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:minet-el-beida-orientation",
+      "role": "findspot"
+    }
+  ]
+}

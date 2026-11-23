@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:buhen-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:salvoldi-geus-nubia-gazetteer-2017",
+      "role": "supports",
+      "locator": "pp. 84–85, entry 0229 Buhen (Fortress), 21.903400 N, 31.287600 E."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1000,
+    "note": {
+      "de": "Orientierung am archäologischen Fundort.",
+      "en": "Orientation to the archaeological site."
+    }
+  },
+  "processingNote": {
+    "de": "Historischer Orientierungspunkt für die Festung nach Eintrag 0229.",
+    "en": "Historical orientation point for the fortress from entry 0229."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · site orientation point",
+    "originNote": "Editorial point placed from cited geographic coordinates."
+  }
+}

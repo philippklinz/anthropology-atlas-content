@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:lankton-uluburun-glass-batches-2022",
+  "sourceRefs": [],
+  "title": "Glass ingots from the Uluburun shipwreck: Glass by the batch in the Late Bronze Age",
+  "creators": [
+    "James W. Lankton",
+    "Cemal Pulak",
+    "Bernard Gratuze"
+  ],
+  "sourceType": "article",
+  "url": "https://doi.org/10.1016/j.jasrep.2022.103354",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The full article, including Conclusions, was consulted in the author-shared manuscript. Chemical production groupings and individual workshops have different scales of resolution.",
+  "published": "2022",
+  "containerTitle": "Journal of Archaeological Science: Reports 42, 103354",
+  "identifiers": {
+    "doi": "10.1016/j.jasrep.2022.103354"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:hattusa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-hattusha-map-377-001",
+      "role": "supports",
+      "locator": "Component 377-001 Hattousa: N40°00′50″, E34°37′14″"
+    },
+    {
+      "sourceId": "source:hethitologie-portal-cth91-concordance",
+      "role": "supports",
+      "locator": "CTH 91, entries 91.A and 91.B: KBo 1.7 joins and find contexts at Hattusa"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hattusa (Boğazköy)",
+    "en": "Hattusa (Boğazköy)"
+  },
+  "summary": {
+    "de": "Archäologische Stätte in der heutigen Türkei mit den Überresten der hethitischen Hauptstadt.",
+    "en": "Archaeological site in present-day Türkiye with the remains of the Hittite capital."
+  }
+}

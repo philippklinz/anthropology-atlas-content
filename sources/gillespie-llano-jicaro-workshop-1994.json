@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:gillespie-llano-jicaro-workshop-1994",
+  "sourceRefs": [],
+  "title": "Llano del Jicaro: An Olmec monument workshop",
+  "sourceType": "article",
+  "creators": [
+    "Susan D. Gillespie"
+  ],
+  "url": "https://people.clas.ufl.edu/sgillesp/files/gillespie_1994_llano_del_jicaro_olmec_monument_workshop.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavation and survey of surfaces and stoneworking contexts, with separate discussion of ceramics and dates.",
+  "published": "1994",
+  "containerTitle": "Ancient Mesoamerica 5, pp. 231–242",
+  "publisher": "Cambridge University Press",
+  "identifiers": {
+    "doi": "10.1017/S095653610000119X"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:apliki-mine-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:mindat-apliki-mineral-locality",
+      "role": "supports",
+      "locator": "Locality Maps: WGS84 latitude and longitude entry for Apliki Mine"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 2000,
+    "note": {
+      "de": "Gerundeter Orientierungspunkt am heutigen Bergwerk im Vergleichsrevier.",
+      "en": "Rounded orientation point at the modern mine in the comparison district."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt am heutigen Bergwerk im Vergleichsrevier.",
+    "en": "Rounded orientation point at the modern mine in the comparison district."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Orientation point based on published WGS84 coordinates."
+  }
+}

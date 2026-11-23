@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mapcarta-yh127",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "YH127 Oracle Bone Pit",
+  "sourceType": "dataset",
+  "creators": [
+    "Mapcarta",
+    "OpenStreetMap contributors"
+  ],
+  "url": "https://mapcarta.com/N7579103075",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Location of the public point for the YH127 exhibit, OpenStreetMap node 7579103075, rounded for orientation in the palace area.",
+  "language": "en"
+}

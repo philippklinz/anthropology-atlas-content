@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "script:egyptian-hieroglyphs",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ramses-online-karnak-treaty-1102",
+      "role": "supports",
+      "locator": "Text 1102, header and translation of the treaty clauses: wall, year 21, hieroglyphs and peace provisions"
+    },
+    {
+      "sourceId": "source:cfeetk-karnak-kiu32-archive",
+      "role": "supports",
+      "locator": "Record 44406, KIU 32: west exterior wall of the Cachette court, sandstone and year 21 of Ramesses II"
+    }
+  ],
+  "entityType": "script",
+  "labels": {
+    "de": "Ägyptische Hieroglyphen",
+    "en": "Egyptian Hieroglyphs"
+  },
+  "summary": {
+    "de": "Schrift der ägyptischen Inschrift von Karnak. Ihre Zeichen füllen waagerechte Zeilen auf der Wand des Tempels.",
+    "en": "Script of the Egyptian inscription at Karnak. Its signs fill horizontal rows on the temple wall."
+  }
+}

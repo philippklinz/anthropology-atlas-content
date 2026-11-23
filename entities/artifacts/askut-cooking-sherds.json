@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:askut-cooking-sherds",
+  "sourceRefs": [
+    {
+      "sourceId": "source:schrader-buzon-smith-askut-2018",
+      "role": "supports",
+      "locator": "Table 1; pp. 12 and 15–16, Ceramic assemblage and Figs. 2, 4: fabrics, manufacturing styles and cooking sherd counts."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Kochkeramik von Askut",
+    "en": "Cooking pottery from Askut"
+  },
+  "summary": {
+    "de": "Scherben von Kochgefäßen mit nubischen und ägyptischen Herstellungsmerkmalen. Zahlreiche Stücke tragen Rußspuren.",
+    "en": "Sherds from cooking vessels with Nubian and Egyptian manufacturing traits. Many bear soot marks."
+  }
+}

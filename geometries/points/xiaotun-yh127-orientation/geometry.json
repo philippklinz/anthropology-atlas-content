@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:xiaotun-yh127-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mapcarta-yh127",
+      "role": "derivation",
+      "locator": "Latitude and longitude, OpenStreetMap node 7579103075"
+    },
+    {
+      "sourceId": "source:ihp-ping-0247",
+      "role": "supports",
+      "locator": "Excavated/Findspot: Pit YH127, Hsiao-t'un"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 80,
+    "note": {
+      "de": "Redaktionelle Lageunschärfe des Orientierungspunkts.",
+      "en": "Editorial allowance for the approximate orientation point."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Punkt der heutigen Präsentation von YH127 im archäologischen Gelände.",
+    "en": "Rounded point at the current presentation of YH127 in the archaeological area."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · orientation point",
+    "originNote": "Original site orientation derived from the cited location evidence."
+  }
+}

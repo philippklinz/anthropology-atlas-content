@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:max-xalapa-san-lorenzo-head-1",
+  "sourceRefs": [],
+  "title": "Cabeza colosal No. 1",
+  "sourceType": "catalog",
+  "creators": [
+    "Museo de Antropología de Xalapa"
+  ],
+  "url": "https://sapp.uv.mx/catalogomax/es-MX/Sala/ToPDF/568",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "bibliographicNote": "Museum inventory 10958. The catalogue identifies the stone, measures the sculpture and assigns a broad date.",
+  "publisher": "Universidad Veracruzana",
+  "identifiers": {
+    "inventory": "10958"
+  }
+}

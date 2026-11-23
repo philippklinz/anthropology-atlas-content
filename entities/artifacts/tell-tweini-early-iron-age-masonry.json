@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:tell-tweini-early-iron-age-masonry",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bretschneider-tweini-field-a-2011",
+      "role": "supports",
+      "locator": "pp. 79–81, Field A, level 6GE1, Fig. 9: earliest Iron Age buildings, renewed surfaces and reused walls"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Mauern und Böden von Tell Tweini",
+    "en": "Walls and floors at Tell Tweini"
+  },
+  "summary": {
+    "de": "Bebauung der frühen Eisenzeit im Grabungsfeld A. Stellenweise wurden ältere Böden und Mauern wiederverwendet.",
+    "en": "Early Iron Age buildings in Field A. Earlier floors and walls were reused in some places."
+  }
+}

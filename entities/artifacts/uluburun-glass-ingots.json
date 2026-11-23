@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:uluburun-glass-ingots",
+  "sourceRefs": [
+    {
+      "sourceId": "source:lankton-uluburun-glass-batches-2022",
+      "role": "supports",
+      "locator": "Abstract and Conclusions: ingot sampling, Egyptian attribution and proposed individual batches"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Uluburun · Rohglasbarren",
+    "en": "Uluburun · raw glass ingots"
+  },
+  "summary": {
+    "de": "Die Ladung umfasste verschiedenfarbige Glasbarren. Messungen an den Proben sprechen für eine Herstellung in Ägypten.",
+    "en": "The cargo included differently coloured glass ingots. Measurements of the samples point to manufacture in Egypt."
+  }
+}

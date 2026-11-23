@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:kerma-western-deffufa",
+  "sourceRefs": [
+    {
+      "sourceId": "source:callens-western-deffufa-photograph-2009",
+      "role": "derivation",
+      "locator": "File page: Description, Author and Licensing."
+    }
+  ],
+  "assetType": "image",
+  "file": "deffufa.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Kerma · Westliche Deffufa",
+    "en": "Kerma · Western Deffufa"
+  },
+  "alt": {
+    "de": "Hoher verwitterter Lehmziegelbau mit niedrigen Mauerresten davor.",
+    "en": "Tall, eroded mudbrick building with low wall remains in front."
+  },
+  "entityIds": [
+    "artifact:kerma-western-deffufa"
+  ],
+  "rights": {
+    "license": "CC-BY-2.0",
+    "creators": [
+      "Walter Callens"
+    ],
+    "attribution": "Walter Callens / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Western_Deffufa_-_Kerma.jpg",
+    "originNote": "Resized and re-encoded JPEG without camera metadata. CC BY 2.0 Generic: https://creativecommons.org/licenses/by/2.0/."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:llano-del-jicaro-worked-stone-3",
+  "sourceRefs": [
+    {
+      "sourceId": "source:gillespie-llano-jicaro-workshop-1994",
+      "role": "supports",
+      "locator": "pp. 234–235, Worked Stone 3; pp. 238–239, Excavations at WS 3 and Fig. 16: slab, stone chips, hammerstone and Formative ceramics."
+    },
+    {
+      "sourceId": "source:gillespie-llano-jicaro-workshop-1994",
+      "role": "supports",
+      "locator": "p. 231, introduction: ca. 1150–500 BCE in the article's Olmec chronology; pp. 240–241, Summary and Discussion: inferred Formative carving and later Classic occupation."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Llano del Jícaro · bearbeiteter Stein 3",
+    "en": "Llano del Jícaro · Worked Stone 3"
+  },
+  "summary": {
+    "de": "Große Basaltplatte, bei der die Ausgrabung Steinsplitter, Spuren der Bearbeitung und einen Schlagstein freilegte.",
+    "en": "Large basalt slab whose excavated surroundings yielded stone fragments, traces of working and a hammerstone."
+  }
+}

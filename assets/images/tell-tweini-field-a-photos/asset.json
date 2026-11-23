@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:tell-tweini-field-a-photos",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:kaniewski-tweini-excavation-figure-2011",
+      "role": "derivation",
+      "locator": "Figure 2, panels A–B, aerial and section photographs from Field A"
+    },
+    {
+      "sourceId": "source:commons-tweini-field-a-figure",
+      "role": "derivation",
+      "locator": "Licensing: Creative Commons Attribution 2.5 Generic"
+    }
+  ],
+  "assetType": "image",
+  "file": "tweini-field-a.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Tell Tweini · ältere Böden und jüngere Mauern",
+    "en": "Tell Tweini · older floors and later walls"
+  },
+  "alt": {
+    "de": "Luftaufnahme und Grabungsschnitt aus Feld A. Unter den eisenzeitlichen Mauern liegt eine dunkle Schuttlage über dem spätbronzezeitlichen Boden.",
+    "en": "Aerial and section photos of Field A. Beneath the Iron Age walls, a dark rubble layer lies above the Late Bronze Age floor."
+  },
+  "entityIds": [
+    "artifact:tell-tweini-early-iron-age-masonry",
+    "place:tell-tweini"
+  ],
+  "rights": {
+    "license": "CC-BY-2.5",
+    "creators": [
+      "David Kaniewski",
+      "Elise Van Campo",
+      "Karel Van Lerberghe",
+      "Tom Boiy",
+      "Klaas Vansteenhuyse",
+      "Greta Jans",
+      "Karin Nys",
+      "Harvey Weiss",
+      "Christophe Morhange",
+      "Thierry Otto",
+      "Joachim Bretschneider"
+    ],
+    "attribution": "Kaniewski et al. (2011), PLOS ONE · CC BY 2.5",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0020232.g002",
+    "originNote": "Both panels of original Fig. 2, resized to 889 × 1050 pixels and encoded as WebP. The interpretation in the original labels remains visible. https://creativecommons.org/licenses/by/2.5/"
+  }
+}

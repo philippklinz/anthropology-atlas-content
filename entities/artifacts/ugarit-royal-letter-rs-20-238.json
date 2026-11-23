@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ugarit-royal-letter-rs-20-238",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:knapp-manning-late-bronze-age-2016",
+      "role": "supports",
+      "locator": "Table 1 and pp. 118–120, RS 20.238, Akkadian royal letter and reconsideration of the find context"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Königsbrief RS 20.238",
+    "en": "Royal letter RS 20.238"
+  },
+  "summary": {
+    "de": "Tontafel aus Ugarit mit einem akkadischen Schreiben an den König von Alašiya. Der Absender berichtet von Überfällen.",
+    "en": "Tablet from Ugarit carrying an Akkadian letter to the king of Alašiya. The sender reports attacks."
+  }
+}

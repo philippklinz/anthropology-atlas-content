@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ras-shamra-mission-site-history",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Mission archéologique syro-française de Ras Shamra – Ougarit · Historique",
+  "sourceType": "website",
+  "creators": [
+    "Mission archéologique syro-française de Ras Shamra – Ougarit"
+  ],
+  "url": "https://www.mission-ougarit.fr/la-mission/historique/",
+  "accessedAt": "2026-11-23",
+  "language": "fr",
+  "bibliographicNote": "The excavation mission describes the locations and identification of Ras Shamra and Minet el-Beida."
+}

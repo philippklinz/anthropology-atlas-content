@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:bonnet-kerma-excavations-1992",
+  "sourceRefs": [],
+  "title": "Excavations at the Nubian royal town of Kerma: 1975–91",
+  "sourceType": "article",
+  "creators": [
+    "Charles Bonnet"
+  ],
+  "containerTitle": "Antiquity 66(252), 611–625",
+  "published": "1992",
+  "url": "https://kerma.ch/documents/Publications_PDF/Bonnet_Antiquity_1992.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Excavation synthesis with architectural phases of the Western Deffufa. DOI 10.1017/S0003598X00039338."
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:minet-el-beida-ivory-lid-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:shonagon-pyxis-lid-2024",
+      "role": "derivation",
+      "locator": "Photograph and Licensing, original by Shonagon, CC0 1.0"
+    }
+  ],
+  "assetType": "image",
+  "file": "pyxis-lid.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Geschnitzter Elfenbeindeckel aus Minet el-Beida",
+    "en": "Carved ivory lid from Minet el-Beida"
+  },
+  "alt": {
+    "de": "Eine Figur hält Zweige zu zwei aufgerichteten Ziegen. Gewand, Haare und Zweige sind in das Elfenbein geschnitzt.",
+    "en": "A figure holds branches towards two upright goats. Clothing, hair and branches are carved into the ivory."
+  },
+  "entityIds": [
+    "artifact:minet-el-beida-pyxis-lid-ao-11601",
+    "place:minet-el-beida"
+  ],
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Shonagon"
+    ],
+    "attribution": "Shonagon · Wikimedia Commons · CC0 1.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:D%C3%A9esse_nourissant_des_caprins_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_11601.jpg",
+    "originNote": "Shonagon’s photograph of Louvre AO 11601, reduced to 793 × 950 pixels and encoded as WebP. https://creativecommons.org/publicdomain/zero/1.0/"
+  }
+}

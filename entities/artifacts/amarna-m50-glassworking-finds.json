@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:amarna-m50-glassworking-finds",
+  "sourceRefs": [
+    {
+      "sourceId": "source:amarna-project-bead-workshop",
+      "role": "supports",
+      "locator": "Main City South M50.14–16 courtyard evidence and caption of ingot fragment in probable mould"
+    },
+    {
+      "sourceId": "source:amarna-project-experimental-glasswork",
+      "role": "supports",
+      "locator": "The experimental manufacture of glass beads, first paragraph: unfinished beads and small fireplaces"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Amarna · Funde zur Glasverarbeitung",
+    "en": "Amarna · glassworking finds"
+  },
+  "summary": {
+    "de": "Barrenstücke und unfertige Perlen aus dem ausgegrabenen Hof M50.14–16.",
+    "en": "Fragments of ingots and unfinished beads from the excavated courtyard at M50.14–16."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:karnak-treaty-inscription-kiu32",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cfeetk-karnak-kiu32-archive",
+      "role": "supports",
+      "locator": "Record 44406, KIU 32: west exterior wall of the Cachette court, sandstone and year 21 of Ramesses II"
+    },
+    {
+      "sourceId": "source:ramses-online-karnak-treaty-1102",
+      "role": "supports",
+      "locator": "Text 1102, header and translation of the treaty clauses: wall, year 21, hieroglyphs and peace provisions"
+    },
+    {
+      "sourceId": "source:weeden-hittite-empire-2022",
+      "role": "supports",
+      "locator": "Pp. 593–594, treaty versions, two Hattusa clay witnesses, Karnak and Ramesseum translations and silver document"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Vertragsinschrift von Karnak (KIU 32)",
+    "en": "Karnak treaty inscription (KIU 32)"
+  },
+  "summary": {
+    "de": "Ägyptische Fassung des Friedensvertrags zwischen Hattusili III. und Ramses II., in Hieroglyphen in eine Wand aus Sandstein gehauen.",
+    "en": "Egyptian version of the peace treaty between Hattusili III and Ramesses II, carved in hieroglyphs on a sandstone wall."
+  },
+  "externalIds": {
+    "kiu": "32",
+    "ramsesOnline": "1102"
+  }
+}

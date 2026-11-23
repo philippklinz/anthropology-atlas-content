@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:henan-museum-fu-hao-owl-zun",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bronze owl-shaped Zun with inscriptions of Fu Hao, wine vessel",
+  "sourceType": "catalog",
+  "creators": [
+    "Henan Museum"
+  ],
+  "url": "https://english.chnmus.net/en/collection/details.html?id=7052473239225765888",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Collection entry for the Henan Museum vessel. Read Period, Provenance, Measurements and About for the late Shang assignment, 1976 excavation, height of 45.9 cm and name on the inside wall.",
+  "published": "2023-04-14",
+  "language": "en"
+}

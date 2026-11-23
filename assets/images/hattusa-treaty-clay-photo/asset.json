@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:hattusa-treaty-clay-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hattusa-treaty-tablet-amin-photo",
+      "role": "derivation",
+      "locator": "Summary and Licensing: tablet fragment photographed in the Museum of the Ancient Orient, Istanbul"
+    }
+  ],
+  "assetType": "image",
+  "file": "hattusa-treaty-clay-photo.webp",
+  "mediaType": "image/webp",
+  "labels": {
+    "de": "Teil einer Vertragsfassung aus Hattusa",
+    "en": "Part of a treaty witness from Hattusa"
+  },
+  "alt": {
+    "de": "Keilzeichen bedecken mehrere zusammengefügte Bruchstücke einer Tontafel im Museum.",
+    "en": "Cuneiform signs cover several joined fragments of a museum-displayed clay tablet."
+  },
+  "entityIds": [
+    "artifact:hattusa-cth91-clay-tablets"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Osama Shukir Muhammed Amin FRCP(Glasg) · Wikimedia Commons"
+    ],
+    "attribution": "Osama Shukir Muhammed Amin FRCP(Glasg) · Wikimedia Commons · CC-BY-SA-4.0 · resized and converted to WebP",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1._Part_of_the_clay_tablet_of_Kadesh_Treaty,_written_in_Akkadian._1269_BCE._From_Bo%C4%9Fazk%C3%B6y,_Turkey._Clay_tablet._Museum_of_the_Ancient_Orient,_Istanbul,_Turkey.jpg",
+    "originNote": "Complete source photograph resized to 1100 × 853 px and converted to WebP. Creative Commons Attribution-ShareAlike 4.0 International: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

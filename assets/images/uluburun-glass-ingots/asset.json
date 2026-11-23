@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:uluburun-glass-ingots",
+  "sourceRefs": [
+    {
+      "sourceId": "source:uluburun-glass-ingots-photo",
+      "role": "derivation",
+      "locator": "Summary and Licensing sections of the file page"
+    }
+  ],
+  "assetType": "image",
+  "file": "glass.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Rohglas aus dem Wrack · Museum in Bodrum",
+    "en": "Raw glass from the wreck · Bodrum museum"
+  },
+  "alt": {
+    "de": "Zwei scheibenförmige Glasbarren mit verwitterten Oberflächen und dunkelblauen Resten.",
+    "en": "Two disc-shaped glass ingots with weathered surfaces and dark blue patches."
+  },
+  "entityIds": [
+    "artifact:uluburun-glass-ingots"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Zunkir"
+    ],
+    "attribution": "Zunkir / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uluburun_glass_ingots_3.jpg",
+    "originNote": "Resized and re-encoded; camera metadata removed. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

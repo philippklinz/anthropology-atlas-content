@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cfeetk-karnak-kiu32-archive",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karnak · treaty inscription KIU 32 (archive no. 44406)",
+  "sourceType": "archive",
+  "url": "https://www.cfeetk.cnrs.fr/archives/?n=44406",
+  "creators": [
+    "Centre Franco-Égyptien d’Étude des Temples de Karnak"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Architectural location and dating of the sandstone inscription. Photograph by A. Chéné in the research archive.",
+  "language": "fr",
+  "identifiers": {
+    "kiu": "32",
+    "archive": "44406"
+  }
+}

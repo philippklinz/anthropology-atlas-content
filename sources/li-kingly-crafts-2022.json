@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:li-kingly-crafts-2022",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Kingly Crafts: The Archaeology of Craft Production in Late Shang China",
+  "sourceType": "book",
+  "creators": [
+    "Yung-ti Li"
+  ],
+  "url": "https://cup.columbia.edu/book/kingly-crafts/9780231549639/",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Chapter 2, Bronze Foundry at Xiaomintun Southeast, 2000–2001, and Fig. 2.4, and Chapter 4's discussion of Type II moulds. Southeast is assigned to Yinxu phases III and IV; emerging evidence suggests that some production may extend beyond the Shang–Zhou transition.",
+  "published": "2022",
+  "publisher": "Columbia University Press",
+  "language": "en",
+  "identifiers": {
+    "isbn": "9780231549639"
+  }
+}

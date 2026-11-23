@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bretschneider-tweini-field-a-2011",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tell Tweini: A Multi-Period Harbour Town at the Syrian Coast",
+  "sourceType": "article",
+  "creators": [
+    "Joachim Bretschneider",
+    "Anne-Sophie Van Vyve",
+    "Greta Jans"
+  ],
+  "url": "https://www.vliz.be/imisdocs/publications/258158.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "In Jana Mynářová (ed.), Egypt and the Near East – The Crossroads, 73–87, 2011. Firsthand report on the architecture, pottery and stratigraphy of Field A.",
+  "published": "2011"
+}

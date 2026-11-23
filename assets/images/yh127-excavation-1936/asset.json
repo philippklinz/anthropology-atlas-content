@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:yh127-excavation-1936",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-yh127-excavation-1936",
+      "role": "derivation",
+      "locator": "Summary and Licensing: archival photograph of the YH127 excavation, dated 1936"
+    }
+  ],
+  "assetType": "image",
+  "file": "yh127-excavation-1936.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Die Grabung in YH127, 1936",
+    "en": "The YH127 excavation, 1936"
+  },
+  "alt": {
+    "de": "Schwarz-Weiß-Aufnahme eines Grabungsteams um eine hölzerne Einfassung in einer tiefen Grube.",
+    "en": "Black-and-white photograph of an excavation team around a wooden enclosure in a deep pit."
+  },
+  "entityIds": [
+    "place:xiaotun-yh127"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Unknown photographer"
+    ],
+    "attribution": "Unknown photographer · Academia Sinica archive via Wikimedia Commons · public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archaeologists_excavating_YH127_pit_in_Yinxu,_1936.jpg",
+    "originNote": "Unmodified Commons JPEG. Commons documents PD-China and PD-1996 and identifies Academia Sinica's digitized archive as the source."
+  }
+}

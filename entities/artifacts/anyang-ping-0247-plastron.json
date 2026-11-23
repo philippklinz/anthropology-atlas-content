@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:anyang-ping-0247-plastron",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ihp-ping-0247",
+      "role": "supports",
+      "locator": "Item R041287, description of the childbirth inquiry, Period, Excavated/Findspot, and Materials"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Orakelknochen Ping 0247 (R041287)",
+    "en": "Oracle bone Ping 0247 (R041287)"
+  },
+  "summary": {
+    "de": "Beschriftetes Stück eines Schildkröten-Bauchpanzers aus Grube YH127. Die Befragung betrifft die erwartete Geburt eines Kindes von Fu Hao.",
+    "en": "Inscribed piece of turtle plastron excavated from Pit YH127. Its divination concerns the expected birth of a child to Fu Hao."
+  }
+}

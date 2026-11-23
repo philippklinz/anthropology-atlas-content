@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:karnak",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cfeetk-karnak-kiu32-archive",
+      "role": "supports",
+      "locator": "Record 44406, KIU 32: west exterior wall of the Cachette court, sandstone and year 21 of Ramesses II"
+    },
+    {
+      "sourceId": "source:karnak-treaty-wall-tausch-photo",
+      "role": "supports",
+      "locator": "Summary and Camera location: west exterior wall and 25.717972° N, 32.657722° E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Karnak",
+    "en": "Karnak"
+  },
+  "summary": {
+    "de": "Tempelanlage in Luxor am östlichen Nilufer. Die Vertragsinschrift befindet sich an der westlichen Außenwand des Cachette-Hofs.",
+    "en": "Temple complex at Luxor on the east bank of the Nile. The treaty inscription is on the outer west wall of the Cachette Court."
+  }
+}

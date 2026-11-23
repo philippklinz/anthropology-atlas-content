@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:xiaomintun-clay-inscription-block",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skrabal-casting-bronze-inscriptions-2021",
+      "role": "supports",
+      "locator": "Section 7, pp. 131–132 and notes 64–66: 2000–01 Xiaomintun block, dimensions, 11 graphs, traces of modelled strokes"
+    },
+    {
+      "sourceId": "source:li-kingly-crafts-2022",
+      "role": "supports",
+      "locator": "Chapter 2, Bronze Foundry at Xiaomintun Southeast, 2000–2001 and Fig. 2.4; chapter 4, Type II moulds and Yinxu phases III–IV"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Tonblock mit Schriftzeichen aus Xiaomintun",
+    "en": "Clay inscription block from Xiaomintun"
+  },
+  "summary": {
+    "de": "Rund sechs Zentimeter hoher Tonblock mit elf Zeichen in drei Spalten. Erhaltene Spuren weisen auf erhaben modellierte Striche in den vertieften Zeichen hin.",
+    "en": "Clay block about six centimetres high with eleven signs in three columns. Surviving traces suggest raised strokes modelled in the incised characters."
+  }
+}

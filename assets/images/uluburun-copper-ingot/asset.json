@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:uluburun-copper-ingot",
+  "sourceRefs": [
+    {
+      "sourceId": "source:uluburun-copper-ingot-photo",
+      "role": "derivation",
+      "locator": "Summary and Licensing sections of the file page"
+    }
+  ],
+  "assetType": "image",
+  "file": "copper.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Kupferbarren aus dem Wrack · Museum in Bodrum",
+    "en": "Copper ingot from the wreck · Bodrum museum"
+  },
+  "alt": {
+    "de": "Flacher, rau korrodierter Kupferbarren mit zwei vorspringenden Ecken.",
+    "en": "Flat copper ingot with a rough, corroded surface and two projecting corners."
+  },
+  "entityIds": [
+    "artifact:uluburun-copper-ingots"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Zunkir"
+    ],
+    "attribution": "Zunkir / Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uluburun_copper_ingot_oxhide_two_handled_shaped.jpg",
+    "originNote": "Resized and re-encoded; camera metadata removed. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/."
+  }
+}

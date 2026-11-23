@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:inegi-veracruz-soteapan-2023",
+  "sourceRefs": [],
+  "title": "Evolución histórica de los municipios de México de 1810 a 2020. Veracruz de Ignacio de la Llave",
+  "sourceType": "book",
+  "creators": [
+    "Instituto Nacional de Estadística y Geografía"
+  ],
+  "url": "https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/889463914037.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "es",
+  "bibliographicNote": "The modern geographic reference point locates the municipality's seat.",
+  "published": "2023",
+  "publisher": "INEGI"
+}

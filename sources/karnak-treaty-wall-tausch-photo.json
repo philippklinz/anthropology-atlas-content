@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:karnak-treaty-wall-tausch-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karnak Ägyptisch-Hethitischer Friedensvertrag 06",
+  "sourceType": "catalog",
+  "url": "https://commons.wikimedia.org/wiki/File:Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg",
+  "creators": [
+    "Olaf Tausch"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Wikimedia Commons photograph of the sandstone inscription with camera coordinates, used under CC BY 3.0.",
+  "published": "2019",
+  "language": "de"
+}

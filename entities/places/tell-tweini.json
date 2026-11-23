@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tell-tweini",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fuller-riehl-tweini-agropastoral-2024",
+      "role": "supports",
+      "locator": "Archaeological and environmental context of Tell Tweini, opening and occupation paragraphs"
+    },
+    {
+      "sourceId": "source:bretschneider-tweini-field-a-2011",
+      "role": "supports",
+      "locator": "pp. 79–81, Field A, level 6GE1, Fig. 9: earliest Iron Age buildings, renewed surfaces and reused walls"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tell Tweini",
+    "en": "Tell Tweini"
+  },
+  "summary": {
+    "de": "Siedlungshügel bei Dschabla. Auf die spätbronzezeitlichen Schichten folgen Spuren eisenzeitlicher Bebauung.",
+    "en": "Settlement mound near Jableh. Traces of Iron Age buildings overlie the Late Bronze Age deposits."
+  }
+}

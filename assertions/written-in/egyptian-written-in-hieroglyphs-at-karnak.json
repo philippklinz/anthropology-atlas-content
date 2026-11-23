@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:egyptian-written-in-hieroglyphs-at-karnak",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ramses-online-karnak-treaty-1102",
+      "role": "supports",
+      "locator": "Text 1102, header and translation of the treaty clauses: wall, year 21, hieroglyphs and peace provisions"
+    },
+    {
+      "sourceId": "source:moore-hittite-queenship-2018",
+      "role": "supports",
+      "locator": "P. 106, The Egyptian-Hittite treaty (1259 BCE): year 21 and absolute chronology"
+    }
+  ],
+  "subjectId": "language:ancient-egyptian",
+  "predicate": "written-in",
+  "objectId": "script:egyptian-hieroglyphs",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1258,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1258,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Fassung an der Tempelwand bezeugt die Verbindung von ägyptischer Sprache und Hieroglyphenschrift.",
+      "en": "The version on the temple wall attests the combination of Egyptian language and hieroglyphic script."
+    }
+  },
+  "note": {
+    "de": "Die Fassung an der Tempelwand bezeugt die Verbindung von ägyptischer Sprache und Hieroglyphenschrift.",
+    "en": "The version on the temple wall attests the combination of Egyptian language and hieroglyphic script."
+  }
+}

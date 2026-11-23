@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:late-shang-anyang",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Orakelknochen von Anyang",
+    "en": "Oracle Bones of Anyang"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:anyang-ping-0247-plastron",
+    "artifact:fu-hao-owl-zun-henan",
+    "artifact:xiaomintun-clay-inscription-block",
+    "assertion:fu-hao-owl-zun-burial",
+    "assertion:shang-oracle-bone-script-at-xiaotun",
+    "assertion:xiaomintun-inscription-block-context",
+    "assertion:xiaotun-ping-0247-oracle",
+    "asset:fu-hao-owl-zun-henan",
+    "asset:yh127-excavation-1936",
+    "chapter:oracle-bones-of-anyang",
+    "event:fu-hao-owl-zun-burial",
+    "event:xiaomintun-inscription-block-context",
+    "event:xiaotun-ping-0247-oracle",
+    "geometry:fu-hao-tomb-m5-orientation",
+    "geometry:xiaomintun-southeast-orientation",
+    "geometry:xiaotun-yh127-orientation",
+    "person:fu-hao",
+    "place:fu-hao-tomb-m5",
+    "place:xiaomintun-southeast",
+    "place:xiaotun-yh127",
+    "script:shang-oracle-bone-script",
+    "source:commons-fu-hao-owl-zun-windmemories-2021",
+    "source:commons-yh127-excavation-1936",
+    "source:henan-museum-fu-hao-owl-zun",
+    "source:icomos-yin-xu-evaluation-2006",
+    "source:ihp-ping-0247",
+    "source:ihp-wu-ding-divination-context",
+    "source:ihp-yh127-excavation-exhibition-2006",
+    "source:li-kingly-crafts-2022",
+    "source:mapcarta-tomb-of-fu-hao",
+    "source:mapcarta-yh127",
+    "source:skrabal-casting-bronze-inscriptions-2021",
+    "source:smithsonian-fu-hao-burial-timeline",
+    "source:zhang-yinxu-feeding-status-2022",
+    "source:zheng-fu-hao-inscribed-bronzes"
+  ],
+  "entryChapterIds": [
+    "chapter:oracle-bones-of-anyang"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer"
+  ]
+}

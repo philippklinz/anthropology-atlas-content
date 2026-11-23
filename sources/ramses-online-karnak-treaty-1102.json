@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ramses-online-karnak-treaty-1102",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karnak · Traité hittite de paix entre Ramsès II et Hattousil III",
+  "sourceType": "dataset",
+  "url": "https://ramses.ulg.ac.be/text/legacy/1102",
+  "creators": [
+    "Matthias Müller",
+    "Jill Raimondo"
+  ],
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Ramses Online annotated hieroglyphic text, record 1102, Université de Liège.",
+  "language": "fr",
+  "identifiers": {
+    "ramsesOnline": "1102"
+  }
+}

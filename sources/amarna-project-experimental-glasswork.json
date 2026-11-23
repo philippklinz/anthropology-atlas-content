@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:amarna-project-experimental-glasswork",
+  "sourceRefs": [],
+  "title": "Experimental glasswork",
+  "creators": [
+    "Amarna Project"
+  ],
+  "sourceType": "website",
+  "url": "https://www.amarnaproject.com/our-work/material-culture/experimental-glasswork/",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "First section names unfused glass on unfinished beads and small fireplaces from excavated M50.14–16."
+}

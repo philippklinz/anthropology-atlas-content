@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ugarit-alphabet-tablet-ao-19992",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:louvre-ao-19992",
+      "role": "supports",
+      "locator": "AO 19992, Description, Inscriptions, Lieux et dates"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Alphabettafel AO 19992",
+    "en": "Alphabet tablet AO 19992"
+  },
+  "summary": {
+    "de": "Fragment einer Tontafel aus dem Nordwesten von Ras Shamra. Sie enthält eine Folge von Buchstaben in ugaritischer Keilschrift.",
+    "en": "Tablet fragment from northwestern Ras Shamra. It preserves a sequence of letters in Ugaritic cuneiform."
+  }
+}

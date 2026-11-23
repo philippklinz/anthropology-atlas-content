@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "assertion",
+  "id": "assertion:san-lorenzo-head-1-at-site",
+  "sourceRefs": [
+    {
+      "sourceId": "source:max-xalapa-san-lorenzo-head-1",
+      "role": "supports",
+      "locator": "Object 10958: basalt, 260 cm high, early Preclassic 1200–900 BCE, Texistepec provenance and Patio 1."
+    },
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 16–18, Monuments from San Lorenzo and Adjacent Sites, item a: objects 1–5 assigned to the Cerro Cintepec and Soteapan basalt group."
+    }
+  ],
+  "subjectId": "artifact:san-lorenzo-colossal-head-1",
+  "predicate": "attested-at",
+  "objectId": "place:san-lorenzo-tenochtitlan",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1199,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -899,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Für das Objekt nennt der Museumskatalog etwa 1200–900 v. Chr. Die Karte zeigt die Fundstätte in San Lorenzo, die Fotografie das heutige Original in Xalapa.",
+    "en": "The museum catalogue places the object around 1200–900 BCE. The map locates the San Lorenzo findsite, and the photograph shows the original on display in Xalapa."
+  },
+  "epistemic": {
+    "status": "attested"
+  }
+}

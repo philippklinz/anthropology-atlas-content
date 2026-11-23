@@ -1,0 +1,366 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:ugarit-around-1200-bce",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:louvre-ao-11601",
+      "role": "supports",
+      "locator": "AO 11601, Description, Caractéristiques matérielles, Lieux et dates"
+    },
+    {
+      "sourceId": "source:knapp-manning-late-bronze-age-2016",
+      "role": "supports",
+      "locator": "Table 1 and pp. 118–120, RS 20.238, Akkadian royal letter and reconsideration of the find context"
+    },
+    {
+      "sourceId": "source:louvre-ao-19992",
+      "role": "supports",
+      "locator": "AO 19992, Description, Inscriptions, Lieux et dates"
+    },
+    {
+      "sourceId": "source:bretschneider-tweini-field-a-2011",
+      "role": "supports",
+      "locator": "pp. 79–81, Field A, level 6GE1, Fig. 9: earliest Iron Age buildings, renewed surfaces and reused walls"
+    },
+    {
+      "sourceId": "source:bretschneider-tweini-field-a-2011",
+      "role": "supports",
+      "locator": "pp. 82–83, Field A, level 6E–F, Figs. 11–13: storage vessels and sampled seeds"
+    },
+    {
+      "sourceId": "source:gil-orduna-tweini-chronology-2024",
+      "role": "supports",
+      "locator": "Table 4 and Tell Tweini discussion: modeled 6F–6E transition and 6E end"
+    }
+  ],
+  "labels": {
+    "de": "Ugarit um 1200 v. Chr.",
+    "en": "Ugarit Around 1200 BCE"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:minet-el-beida-ivory-lid-attestation",
+    "event:ugarit-royal-letter-rs-20-238-attestation",
+    "artifact:ugarit-alphabet-tablet-ao-19992",
+    "event:tell-tweini-rebuilt-field-a",
+    "event:tell-tweini-storage-6ef-attestation",
+    "asset:minet-el-beida-ivory-lid-photo",
+    "asset:tell-tweini-field-a-photos"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 35.854,
+      "latitude": 35.495,
+      "metersPerPixel": 180,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -1324,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1324,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -949,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -949,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "minet-el-beida",
+      "textAnchor": "minet-el-beida",
+      "labels": {
+        "de": "Minet el-Beida · ein Fund aus dem Hafengrab",
+        "en": "Minet el-Beida · a find from the harbour tomb"
+      },
+      "summary": {
+        "de": "Ein Elfenbeindeckel aus Grab III trägt eine Bildszene mit Bezügen zur Ägäis.",
+        "en": "An ivory lid from Tomb III carries a scene with links to the Aegean."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.7721,
+          "latitude": 35.6092,
+          "metersPerPixel": 29,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1324,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1324,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1129,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1129,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:minet-el-beida-ivory-lid-photo"
+    },
+    {
+      "id": "ras-shamra",
+      "textAnchor": "ras-shamra",
+      "labels": {
+        "de": "Ras Shamra · ein Brief aus Ugarit",
+        "en": "Ras Shamra · a letter from Ugarit"
+      },
+      "summary": {
+        "de": "Ein König berichtet von Überfällen. Der Fundkontext lässt Spielraum für die Datierung.",
+        "en": "A king reports attacks. The find context leaves room for different dates."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.7858,
+          "latitude": 35.6017,
+          "metersPerPixel": 29,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1324,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1324,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1149,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1149,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "tell-tweini",
+      "textAnchor": "tell-tweini",
+      "labels": {
+        "de": "Tell Tweini · Bauen nach dem Brand",
+        "en": "Tell Tweini · building after the fire"
+      },
+      "summary": {
+        "de": "Jüngere Mauern und Vorratsräume über den älteren Schichten zeigen, wie der Ort weiter bewohnt wurde.",
+        "en": "Later walls and storerooms above older layers show how occupation continued at the site."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.9368,
+          "latitude": 35.3716,
+          "metersPerPixel": 29,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1224,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1224,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -949,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -949,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:tell-tweini-field-a-photos"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Elfenbeindeckel am Hafen, ein Keilschriftbrief aus Ugarit und die Mauern von Tell Tweini zeigen, wie sich das Leben an der syrischen Küste veränderte.",
+      "en": "An ivory lid from the harbour, a cuneiform letter from Ugarit and the walls of Tell Tweini show how life changed along the Syrian coast."
+    },
+    "periods": [
+      {
+        "id": "kingdoms-and-trade-networks",
+        "labels": {
+          "de": "Königreiche und Handelsnetze",
+          "en": "Kingdoms and Trade Networks"
+        },
+        "description": {
+          "de": "Handel, Diplomatie, Werkstätten und Herrschaft zwischen etwa 1800 und 1000 v. Chr. Die Kapitel folgen den jeweils regionalen Datierungen und vergleichen konkrete Funde.",
+          "en": "Trade, diplomacy, workshops and power from roughly 1800 to 1000 BCE. The chapters follow local chronologies and compare specific finds."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "southwest-asia",
+        "labels": {
+          "de": "Südwestasien",
+          "en": "Southwest Asia"
+        }
+      },
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "settlements",
+        "labels": {
+          "de": "Siedlungen",
+          "en": "Settlements"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:minet-el-beida-pyxis-lid-ao-11601",
+    "artifact:tell-tweini-early-iron-age-masonry",
+    "artifact:tell-tweini-early-iron-age-storage-jars",
+    "artifact:ugarit-alphabet-tablet-ao-19992",
+    "artifact:ugarit-royal-letter-rs-20-238",
+    "assertion:minet-el-beida-ivory-lid-attestation",
+    "assertion:tell-tweini-rebuilt-field-a",
+    "assertion:tell-tweini-storage-6ef-attestation",
+    "assertion:ugarit-alphabet-tablet-attestation",
+    "assertion:ugarit-royal-letter-rs-20-238-attestation",
+    "asset:minet-el-beida-ivory-lid-photo",
+    "asset:tell-tweini-field-a-photos",
+    "event:minet-el-beida-ivory-lid-attestation",
+    "event:tell-tweini-rebuilt-field-a",
+    "event:tell-tweini-storage-6ef-attestation",
+    "event:ugarit-royal-letter-rs-20-238-attestation",
+    "geometry:minet-el-beida-orientation",
+    "geometry:ras-shamra-ugarit-orientation",
+    "geometry:tell-tweini-orientation",
+    "place:minet-el-beida",
+    "place:ras-shamra-ugarit",
+    "place:tell-tweini",
+    "source:bretschneider-tweini-field-a-2011",
+    "source:commons-tweini-field-a-figure",
+    "source:de-graauw-ancient-harbours-2024",
+    "source:fuller-riehl-tweini-agropastoral-2024",
+    "source:gil-orduna-tweini-chronology-2024",
+    "source:kaniewski-tweini-excavation-figure-2011",
+    "source:knapp-manning-late-bronze-age-2016",
+    "source:louvre-ao-11601",
+    "source:louvre-ao-19992",
+    "source:ras-shamra-mission-site-history",
+    "source:shonagon-pyxis-lid-2024"
+  ]
+}

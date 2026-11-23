@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:nadl-uluburun-site-2013",
+  "sourceRefs": [],
+  "title": "Uluburun, c. 1310 BC",
+  "creators": [
+    "Carlos de Juan Fuertes"
+  ],
+  "sourceType": "catalog",
+  "url": "https://www.shiplib.org/shipwrecks/uluburun",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "The catalogue explicitly marks the coordinates as approximate and discusses differing wreck date estimates.",
+  "published": "2013",
+  "containerTitle": "Nautical Archaeology Digital Library"
+}

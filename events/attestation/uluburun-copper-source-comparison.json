@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:uluburun-copper-source-comparison",
+  "sourceRefs": [
+    {
+      "sourceId": "source:pulak-uluburun-trade-2008",
+      "role": "supports",
+      "locator": "catalogue 185, copper ingots, lead-isotope paragraph and notes 23–26: probable Solea-axis source region"
+    },
+    {
+      "sourceId": "source:stos-gale-cyprus-ores-1997",
+      "role": "supports",
+      "locator": "Abstract: comparison among sampled copper ore regions and late oxhide ingots"
+    },
+    {
+      "sourceId": "source:mindat-apliki-mineral-locality",
+      "role": "supports",
+      "locator": "Locality Maps: WGS84 latitude and longitude entry for Apliki Mine"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Zypern · Herkunftshinweis für das Kupfer",
+    "en": "Cyprus · clues to the source of the copper"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1309,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1289,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:uluburun-copper-ingots",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:apliki-mine"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:apliki-mine-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Bleiisotope der Barren ähneln Erzproben aus dem nordwestlichen Zypern. Apliki dient als Orientierung im Vergleichsrevier. Die Zeitangabe bezieht sich auf den Wrackfund.",
+    "en": "Lead isotopes in the ingots resemble ores from northwestern Cyprus. Apliki orients the comparison district. The date applies to the wreck context."
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Bleiisotope der Barren ähneln Erzproben aus dem nordwestlichen Zypern. Apliki dient als Orientierung im Vergleichsrevier. Die Zeitangabe bezieht sich auf den Wrackfund.",
+      "en": "Lead isotopes in the ingots resemble ores from northwestern Cyprus. Apliki orients the comparison district. The date applies to the wreck context."
+    }
+  }
+}

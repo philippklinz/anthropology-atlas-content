@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:puduhepa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:moore-hittite-queenship-2018",
+      "role": "supports",
+      "locator": "Pp. 103–105, description and translation of Puduḫepa’s seal in the Karnak text"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Puduḫepa",
+    "en": "Puduḫepa"
+  },
+  "summary": {
+    "de": "Hethitische Königin. Die Inschrift von Karnak beschreibt ihr Siegel auf der an Ägypten gesandten Silbertafel.",
+    "en": "Hittite queen. The Karnak inscription describes her seal on the silver tablet sent to Egypt."
+  }
+}

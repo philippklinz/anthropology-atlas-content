@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:smithsonian-fu-hao-burial-timeline",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Timeline of Chinese History, Art, and Culture",
+  "sourceType": "website",
+  "creators": [
+    "Smithsonian National Museum of Asian Art"
+  ],
+  "url": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "The 1200 BCE entry for the tomb of Fu Hao introduces the approximate burial date, the location at Yinxu, and the integrity of the excavated burial.",
+  "language": "en"
+}

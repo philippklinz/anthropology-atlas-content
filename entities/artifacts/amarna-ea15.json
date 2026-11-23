@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:amarna-ea15",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-amarna-ea15-24-2-11",
+      "role": "supports",
+      "locator": "Object Information and overview: accession, approximate date, probable Amarna provenance, clay, dimensions, Assyrian Akkadian and proposed addressee"
+    },
+    {
+      "sourceId": "source:moran-amarna-ea15-edition-1988",
+      "role": "supports",
+      "locator": "No. 102, pp. 149–150, lines 1–22 and note to line 13: sender, embassy, gifts, return of the messenger and reading of the lapis bead"
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Brief EA 15 (Met 24.2.11)",
+    "en": "Letter EA 15 (Met 24.2.11)"
+  },
+  "summary": {
+    "de": "7,7 cm hohe Tontafel mit einem Brief des assyrischen Königs Aššur-uballiṭ I. an den ägyptischen König. Sie nennt einen Boten und Geschenke.",
+    "en": "A 7.7 cm clay tablet with a letter from the Assyrian king Aššur-uballiṭ I to the king of Egypt. It mentions a messenger and gifts."
+  },
+  "externalIds": {
+    "met": "24.2.11",
+    "amarnaEdition": "EA 15"
+  }
+}

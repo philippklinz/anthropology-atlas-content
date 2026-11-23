@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "event",
+  "id": "event:amarna-glass-workshop-evidence",
+  "sourceRefs": [
+    {
+      "sourceId": "source:amarna-project-bead-workshop",
+      "role": "supports",
+      "locator": "Main City South M50.14–16 courtyard evidence and caption of ingot fragment in probable mould"
+    },
+    {
+      "sourceId": "source:amarna-project-experimental-glasswork",
+      "role": "supports",
+      "locator": "The experimental manufacture of glass beads, first paragraph: unfinished beads and small fireplaces"
+    },
+    {
+      "sourceId": "source:lankton-uluburun-glass-batches-2022",
+      "role": "supports",
+      "locator": "Abstract and Conclusions: ingot sampling, Egyptian attribution and proposed individual batches"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Amarna · Rohglas und unfertige Perlen",
+    "en": "Amarna · raw glass and unfinished beads"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -1354,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1354,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": -1324,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1324,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:amarna-m50-glassworking-finds",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:amarna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:amarna-orientation",
+      "role": "findspot"
+    }
+  ],
+  "note": {
+    "de": "Hof M50.14–16 belegt Glasverarbeitung in der Stadt während der Amarna-Zeit. Die Spanne ordnet den Fund in die kurze Nutzung der Stadt ein. Welche Werkstatt die Schiffsladung belieferte, bleibt offen.",
+    "en": "Courtyard M50.14–16 contains Amarna Period evidence of glassworking. The date range expresses the context of the short-lived city. The workshop that supplied the wreck's cargo is unknown."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Hof M50.14–16 belegt Glasverarbeitung in der Stadt während der Amarna-Zeit. Die Spanne ordnet den Fund in die kurze Nutzung der Stadt ein. Welche Werkstatt die Schiffsladung belieferte, bleibt offen.",
+      "en": "Courtyard M50.14–16 contains Amarna Period evidence of glassworking. The date range expresses the context of the short-lived city. The workshop that supplied the wreck's cargo is unknown."
+    }
+  }
+}

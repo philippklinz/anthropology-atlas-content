@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:llano-del-jicaro",
+  "sourceRefs": [
+    {
+      "sourceId": "source:gillespie-llano-jicaro-workshop-1994",
+      "role": "supports",
+      "locator": "p. 232: workshop 7 km northwest of Laguna de los Cerros. Fig. 2: relative positions of finds at the workshop."
+    },
+    {
+      "sourceId": "source:gillespie-llano-jicaro-workshop-1994",
+      "role": "supports",
+      "locator": "pp. 234–235, Worked Stone 3; pp. 238–239, Excavations at WS 3 and Fig. 16: slab, stone chips, hammerstone and Formative ceramics."
+    },
+    {
+      "sourceId": "source:ortiz-pucheta-laguna-cerros-2016",
+      "role": "supports",
+      "locator": "Chapter 3, Ubicación y marco geográfico: 3 km south of Corral Nuevo, citing Ramírez 2008, p. 33, and coordinate values 18°02′10″ N, 95°06′10″ W."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Llano del Jícaro",
+    "en": "Llano del Jícaro"
+  },
+  "summary": {
+    "de": "Fundort bearbeiteter Basaltblöcke, Abschläge und Schlagsteine in den südlichen Ausläufern von Los Tuxtlas.",
+    "en": "Findsite of worked basalt boulders, flakes and hammerstones in the southern Los Tuxtlas foothills."
+  }
+}

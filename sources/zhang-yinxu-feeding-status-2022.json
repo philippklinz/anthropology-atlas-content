@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:zhang-yinxu-feeding-status-2022",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Feeding Status: A Comparative Study of Animal Foodways and Social Status in the Chinese Bronze Age (Guandimiao, Anyang, and Zhougongmiao, 13th-8th Century BCE)",
+  "sourceType": "book",
+  "creators": [
+    "Yan Zhang"
+  ],
+  "url": "https://archive.nyu.edu/bitstream/2451/74513/2/Zhang%20Yan%20-%20dissertation%20-Feeding%20Status.pdf",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "PhD dissertation, Institute for the Study of the Ancient World, New York University. Section 3.2, pp. 29–31, brackets phases III–IV at roughly 1150–1050 BCE and locates the Xiaomintun area around 2.5 km west of the palace and temple area now in Xiaotun. Map 3.2 reproduces Campbell's settlement plan.",
+  "published": "2022-09",
+  "language": "en"
+}

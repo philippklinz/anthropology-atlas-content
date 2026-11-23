@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:san-lorenzo-head-1",
+  "sourceRefs": [
+    {
+      "sourceId": "source:vivero-madman2001-san-lorenzo-head-photo",
+      "role": "supports",
+      "locator": "Summary, original file and history of the derivative, and Licensing: CC BY-SA 3.0 Unported."
+    }
+  ],
+  "assetType": "image",
+  "file": "head-1.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Kolossalkopf 1 in Xalapa",
+    "en": "Colossal Head 1 in Xalapa"
+  },
+  "alt": {
+    "de": "Vorderansicht und Seitenprofil desselben steinernen Kopfs mit Kopfbedeckung und breiten Ohrschmuckscheiben.",
+    "en": "Front and side views of the same stone head with a headdress and broad ear ornaments."
+  },
+  "entityIds": [
+    "artifact:san-lorenzo-colossal-head-1"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-3.0",
+    "creators": [
+      "Vivero~commonswiki",
+      "Madman2001"
+    ],
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CabezaColosal1_MuseoXalapa_v1.1.jpg",
+    "attribution": "Vivero~commonswiki (photographs), Madman2001 (two-view edit) · Wikimedia Commons · CC BY-SA 3.0",
+    "originNote": "Unchanged 800 × 533 Commons derivative. Original photographs: https://commons.wikimedia.org/wiki/File:CabezaColosal1_MuseoXalapa.jpg. License: https://creativecommons.org/licenses/by-sa/3.0/."
+  }
+}

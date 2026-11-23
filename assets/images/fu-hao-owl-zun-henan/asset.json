@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:fu-hao-owl-zun-henan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:commons-fu-hao-owl-zun-windmemories-2021",
+      "role": "derivation",
+      "locator": "Summary and Licensing: photographer's own image of the Henan Museum object under CC BY-SA 4.0"
+    }
+  ],
+  "assetType": "image",
+  "file": "fu-hao-owl-zun.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Fu Haos Eulengefäß im Henan Museum",
+    "en": "Fu Hao’s owl-shaped vessel in the Henan Museum"
+  },
+  "alt": {
+    "de": "Bronzegefäß in Form einer stehenden Eule mit breitem Schnabel, verziertem Gefieder und einem Deckel mit Tierfiguren.",
+    "en": "Bronze vessel shaped like a standing owl with a broad beak, patterned wings and a lid with animal figures."
+  },
+  "entityIds": [
+    "artifact:fu-hao-owl-zun-henan"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Windmemories"
+    ],
+    "attribution": "Windmemories / Wikimedia Commons · CC BY-SA 4.0 · resized",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210220_Bronze_owl-shaped_Zun_with_inscriptions_of_Fu_Hao,_Henan_Museum.jpg",
+    "originNote": "Complete source photograph resized to 690 × 1035 pixels with metadata removed. https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

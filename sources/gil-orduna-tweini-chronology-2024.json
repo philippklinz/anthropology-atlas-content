@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gil-orduna-tweini-chronology-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A Bayesian Statistical Reassessment of Levantine Late Iron Age I Radiocarbon Data",
+  "sourceType": "article",
+  "creators": [
+    "Enrique Gil Orduña"
+  ],
+  "url": "https://doi.org/10.15366/cupauam2024.50.1.007",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid 50(1), 135–180. The full text presents an updated model of the excavated Tell Tweini phases and their date ranges.",
+  "published": "2024",
+  "identifiers": {
+    "doi": "10.15366/cupauam2024.50.1.007"
+  }
+}

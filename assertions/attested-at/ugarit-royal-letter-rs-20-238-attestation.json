@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:ugarit-royal-letter-rs-20-238-attestation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:knapp-manning-late-bronze-age-2016",
+      "role": "supports",
+      "locator": "Table 1 and pp. 118–120, RS 20.238, Akkadian royal letter and reconsideration of the find context"
+    }
+  ],
+  "subjectId": "artifact:ugarit-royal-letter-rs-20-238",
+  "predicate": "attested-at",
+  "objectId": "place:ras-shamra-ugarit",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": -1299,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -1174,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "note": {
+    "de": "Der Brief berichtet von Überfällen auf Orte des Königreichs. Ugarit ist der Fundort der erhaltenen Tafel.",
+    "en": "The letter reports attacks on settlements of the kingdom. Ugarit is where the surviving tablet was found."
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Zeitfenster reicht vom 13. bis ins frühe 12. Jahrhundert v. Chr. Das Schreiben hat kein gesichertes Jahr.",
+      "en": "The evidence falls within a broad window from the thirteenth into the early twelfth century BCE. A precise year for the letter remains unknown."
+    }
+  }
+}

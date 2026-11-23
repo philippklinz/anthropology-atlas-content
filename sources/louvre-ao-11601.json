@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:louvre-ao-11601",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Couvercle de pyxide : maîtresse des animaux · AO 11601",
+  "sourceType": "catalog",
+  "creators": [
+    "Musée du Louvre, Département des Antiquités orientales"
+  ],
+  "url": "https://collections.louvre.fr/ark:/53355/cl010136316",
+  "accessedAt": "2026-11-23",
+  "language": "fr",
+  "bibliographicNote": "Catalogue entry for the object recovered from Tomb III near Ugarit. The broad 1300–1150 BCE assignment dates the object.",
+  "identifiers": {
+    "inventoryNumber": "AO 11601",
+    "excavationNumber": "RS 1.[099]"
+  }
+}

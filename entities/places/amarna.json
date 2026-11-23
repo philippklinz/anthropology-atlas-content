@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:amarna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:amarna-project-central-city-location",
+      "role": "supports",
+      "locator": "City zones, Central City coordinates 27°38′52.87″ N, 30°53′56.97″ E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Amarna (Achetaton)",
+    "en": "Amarna (Akhetaten)"
+  },
+  "summary": {
+    "de": "Archäologische Stätte am östlichen Nilufer in Mittelägypten. In der Zentralstadt lagen Paläste, Tempel und Verwaltungsgebäude.",
+    "en": "Archaeological site on the east bank of the Nile in Middle Egypt. The Central City housed palaces, temples and administrative buildings."
+  }
+}

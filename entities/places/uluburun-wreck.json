@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:uluburun-wreck",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nadl-uluburun-site-2013",
+      "role": "supports",
+      "locator": "Site header, coordinates and History of the wreck"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Wrack von Uluburun",
+    "en": "Uluburun wreck site"
+  },
+  "summary": {
+    "de": "Unterwasserfundplatz nahe Kaş vor der Südküste der heutigen Türkei.",
+    "en": "Underwater archaeological site near Kaş off what is now the south coast of Türkiye."
+  }
+}

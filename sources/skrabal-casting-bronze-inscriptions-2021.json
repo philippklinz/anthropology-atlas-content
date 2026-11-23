@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:skrabal-casting-bronze-inscriptions-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "How Were Bronze Inscriptions Cast in Ancient China? New Answers to Old Questions",
+  "sourceType": "book",
+  "creators": [
+    "Ondřej Škrabal"
+  ],
+  "url": "https://doi.org/10.1515/9783110753301-007",
+  "accessedAt": "2026-11-23",
+  "bibliographicNote": "Exploring Written Artefacts, pp. 115–138. Section 7, pp. 131–132, and notes 64–66 discuss the 11 signs in three columns on the Xiaomintun clay block, its dimensions, and techniques proposed for preparing its raised strokes.",
+  "published": "2021",
+  "language": "en",
+  "identifiers": {
+    "doi": "10.1515/9783110753301-007"
+  }
+}

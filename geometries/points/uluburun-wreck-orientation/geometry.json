@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "geometry",
+  "id": "geometry:uluburun-wreck-orientation",
+  "sourceRefs": [
+    {
+      "sourceId": "source:nadl-uluburun-site-2013",
+      "role": "supports",
+      "locator": "Site header, coordinates and History of the wreck"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1400,
+    "note": {
+      "de": "Gerundeter Unterwasserfundplatz gemäß Nautical Archaeology Digital Library.",
+      "en": "Rounded underwater findsite from the Nautical Archaeology Digital Library."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Unterwasserfundplatz gemäß Nautical Archaeology Digital Library.",
+    "en": "Rounded underwater findsite from the Nautical Archaeology Digital Library."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Orientation point based on published WGS84 coordinates."
+  }
+}

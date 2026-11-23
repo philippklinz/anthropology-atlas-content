@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:san-lorenzo-tenochtitlan",
+  "sourceRefs": [
+    {
+      "sourceId": "source:inah-san-lorenzo-archaeological-site",
+      "role": "supports",
+      "locator": "Coordenadas: archaeological zone point −94.76127504, 17.75173971."
+    },
+    {
+      "sourceId": "source:max-xalapa-san-lorenzo-head-1",
+      "role": "supports",
+      "locator": "Object 10958: basalt, 260 cm high, early Preclassic 1200–900 BCE, Texistepec provenance and Patio 1."
+    },
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 16–18, Monuments from San Lorenzo and Adjacent Sites, item a: objects 1–5 assigned to the Cerro Cintepec and Soteapan basalt group."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "San Lorenzo Tenochtitlán",
+    "en": "San Lorenzo Tenochtitlán"
+  },
+  "summary": {
+    "de": "Olmekische Fundstätte in der Niederung des Coatzacoalcos im heutigen Veracruz. Von hier stammt der Kolossalkopf Nr. 1.",
+    "en": "Olmec archaeological site in the Coatzacoalcos lowlands of present-day Veracruz. Colossal Head 1 comes from this site."
+  }
+}

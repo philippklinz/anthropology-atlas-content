@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "place:buhen",
+  "sourceRefs": [
+    {
+      "sourceId": "source:ucl-buhen-site",
+      "role": "supports",
+      "locator": "Opening site description, Middle Kingdom fort with temple of Horus and political changes in the Second Intermediate Period."
+    },
+    {
+      "sourceId": "source:salvoldi-geus-nubia-gazetteer-2017",
+      "role": "supports",
+      "locator": "pp. 84–85, entry 0229 Buhen (Fortress), 21.903400 N, 31.287600 E."
+    },
+    {
+      "sourceId": "source:getty-buhen-site",
+      "role": "supports",
+      "locator": "Note, location on the west bank and present submergence beneath the reservoir."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Buhen",
+    "en": "Buhen"
+  },
+  "summary": {
+    "de": "Befestigte Siedlung am zweiten Nilkatarakt im heutigen Sudan. Der alte Fundort liegt heute unter dem Stausee.",
+    "en": "Fortified settlement near the second Nile cataract in present-day Sudan. The site now lies beneath the reservoir."
+  }
+}

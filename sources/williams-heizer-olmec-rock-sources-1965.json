@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "source",
+  "id": "source:williams-heizer-olmec-rock-sources-1965",
+  "sourceRefs": [],
+  "title": "Sources of Rocks Used in Olmec Monuments",
+  "sourceType": "article",
+  "creators": [
+    "Howel Williams",
+    "Robert F. Heizer"
+  ],
+  "url": "https://www.mesoweb.com/olmec/publications/Williams%26Heizer1965.pdf",
+  "accessedAt": "2026-11-23",
+  "language": "en",
+  "bibliographicNote": "Geological reconnaissance and rock comparisons. Map 1 deliberately generalizes source localities.",
+  "published": "1965",
+  "containerTitle": "Contributions of the University of California Archaeological Research Facility 1, pp. 1–39",
+  "publisher": "University of California, Berkeley"
+}

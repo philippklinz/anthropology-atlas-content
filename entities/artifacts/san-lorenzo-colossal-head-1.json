@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "entity",
+  "id": "artifact:san-lorenzo-colossal-head-1",
+  "sourceRefs": [
+    {
+      "sourceId": "source:max-xalapa-san-lorenzo-head-1",
+      "role": "supports",
+      "locator": "Object 10958: basalt, 260 cm high, early Preclassic 1200–900 BCE, Texistepec provenance and Patio 1."
+    },
+    {
+      "sourceId": "source:williams-heizer-olmec-rock-sources-1965",
+      "role": "supports",
+      "locator": "pp. 16–18, Monuments from San Lorenzo and Adjacent Sites, item a: objects 1–5 assigned to the Cerro Cintepec and Soteapan basalt group."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "San Lorenzo · Kolossalkopf 1",
+    "en": "San Lorenzo · Colossal Head 1"
+  },
+  "summary": {
+    "de": "Der rund 2,6 Meter hohe Basaltkopf befindet sich heute im Museo de Antropología de Xalapa. Die Doppelfotografie zeigt das Stirnband und den Ohrschmuck. Wer dargestellt ist, bleibt offen.",
+    "en": "The basalt head stands about 2.6 metres tall and is displayed at the Museo de Antropología de Xalapa. The two views show its headband and ear ornaments. The identity of the person depicted remains open."
+  },
+  "assetIds": [
+    "asset:san-lorenzo-head-1"
+  ],
+  "externalIds": {
+    "maxInventory": "10958"
+  }
+}

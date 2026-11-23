@@ -1,0 +1,378 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:letters-between-royal-courts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-amarna-ea15-24-2-11",
+      "role": "supports",
+      "locator": "Object Information and overview: accession, approximate date, probable Amarna provenance, clay, dimensions, Assyrian Akkadian and proposed addressee"
+    },
+    {
+      "sourceId": "source:moran-amarna-ea15-edition-1988",
+      "role": "supports",
+      "locator": "No. 102, pp. 149–150, lines 1–22 and note to line 13: sender, embassy, gifts, return of the messenger and reading of the lapis bead"
+    },
+    {
+      "sourceId": "source:hethitologie-portal-cth91-concordance",
+      "role": "supports",
+      "locator": "CTH 91, entries 91.A and 91.B: KBo 1.7 joins and find contexts at Hattusa"
+    },
+    {
+      "sourceId": "source:weeden-hittite-empire-2022",
+      "role": "supports",
+      "locator": "Pp. 593–594, treaty versions, two Hattusa clay witnesses, Karnak and Ramesseum translations and silver document"
+    },
+    {
+      "sourceId": "source:moore-hittite-queenship-2018",
+      "role": "supports",
+      "locator": "P. 106, The Egyptian-Hittite treaty (1259 BCE): year 21 and absolute chronology"
+    },
+    {
+      "sourceId": "source:cfeetk-karnak-kiu32-archive",
+      "role": "supports",
+      "locator": "Record 44406, KIU 32: west exterior wall of the Cachette court, sandstone and year 21 of Ramesses II"
+    },
+    {
+      "sourceId": "source:moore-hittite-queenship-2018",
+      "role": "supports",
+      "locator": "Pp. 103–105, description and translation of Puduḫepa’s seal in the Karnak text"
+    }
+  ],
+  "labels": {
+    "de": "Briefe zwischen Königshöfen",
+    "en": "Letters Between Royal Courts"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:amarna-ea15-letter-evidence",
+    "event:hattusa-clay-treaty-evidence",
+    "event:karnak-treaty-wall-evidence",
+    "event:egypt-hatti-peace-treaty",
+    "artifact:amarna-ea15",
+    "artifact:hattusa-cth91-clay-tablets",
+    "artifact:karnak-treaty-inscription-kiu32",
+    "person:ashur-uballit-i",
+    "person:puduhepa",
+    "language:akkadian",
+    "asset:amarna-ea15-tablet-photo",
+    "asset:hattusa-treaty-clay-photo",
+    "asset:karnak-treaty-wall-photo"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 32.4,
+      "latitude": 32.7,
+      "metersPerPixel": 4600,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": -1359,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1359,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": -1239,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": -1239,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "amarna",
+      "textAnchor": "amarna",
+      "labels": {
+        "de": "Amarna · ein Brief mit Geschenken",
+        "en": "Amarna · a letter with gifts"
+      },
+      "summary": {
+        "de": "Eine kleine Tontafel nennt einen Boten, einen Wagen, zwei Pferde und Lapislazuli.",
+        "en": "A small clay tablet names a messenger, a chariot, two horses and lapis lazuli."
+      },
+      "state": {
+        "camera": {
+          "longitude": 30.8992,
+          "latitude": 27.648,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1359,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1359,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1319,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1319,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:amarna-ea15-tablet-photo"
+    },
+    {
+      "id": "hattusa",
+      "textAnchor": "hattusa",
+      "labels": {
+        "de": "Hattusa · Abschriften auf Ton",
+        "en": "Hattusa · copies on clay"
+      },
+      "summary": {
+        "de": "Keilschriftfragmente bewahren das Abkommen zwischen Ramses II. und Hattusili III.",
+        "en": "Cuneiform fragments preserve the agreement between Ramesses II and Hattusili III."
+      },
+      "state": {
+        "camera": {
+          "longitude": 34.6206,
+          "latitude": 40.0139,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1274,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1274,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1239,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1239,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:hattusa-treaty-clay-photo"
+    },
+    {
+      "id": "karnak",
+      "textAnchor": "karnak",
+      "labels": {
+        "de": "Karnak · der Vertrag in Stein",
+        "en": "Karnak · the treaty in stone"
+      },
+      "summary": {
+        "de": "Die Hieroglyphen an der Tempelwand beschreiben auch das Siegel der Königin Puduḫepa.",
+        "en": "The hieroglyphs on the temple wall also describe Queen Puduḫepa’s seal."
+      },
+      "state": {
+        "camera": {
+          "longitude": 32.6577,
+          "latitude": 25.718,
+          "metersPerPixel": 740,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": -1274,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1274,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": -1239,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": -1239,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:karnak-treaty-wall-photo"
+    }
+  ],
+  "recordIds": [
+    "artifact:amarna-ea15",
+    "artifact:hattusa-cth91-clay-tablets",
+    "artifact:karnak-treaty-inscription-kiu32",
+    "assertion:akkadian-written-in-cuneiform-at-amarna",
+    "assertion:amarna-ea15-probable-findspot",
+    "assertion:cth91-tablets-at-hattusa",
+    "assertion:egyptian-written-in-hieroglyphs-at-karnak",
+    "assertion:kiu32-inscription-at-karnak",
+    "asset:amarna-ea15-tablet-photo",
+    "asset:hattusa-treaty-clay-photo",
+    "asset:karnak-treaty-wall-photo",
+    "event:amarna-ea15-letter-evidence",
+    "event:egypt-hatti-peace-treaty",
+    "event:hattusa-clay-treaty-evidence",
+    "event:karnak-treaty-wall-evidence",
+    "geometry:amarna-orientation",
+    "geometry:hattusa-orientation",
+    "geometry:karnak-orientation",
+    "language:akkadian",
+    "language:ancient-egyptian",
+    "person:ashur-uballit-i",
+    "person:hattusili-iii",
+    "person:puduhepa",
+    "person:ramesses-ii",
+    "place:amarna",
+    "place:hattusa",
+    "place:karnak",
+    "script:cuneiform",
+    "script:egyptian-hieroglyphs",
+    "source:amarna-project-central-city-location",
+    "source:cfeetk-karnak-kiu32-archive",
+    "source:hattusa-treaty-tablet-amin-photo",
+    "source:hethitologie-portal-cth91-concordance",
+    "source:karnak-treaty-wall-tausch-photo",
+    "source:met-amarna-ea15-24-2-11",
+    "source:moore-hittite-queenship-2018",
+    "source:moran-amarna-ea15-edition-1988",
+    "source:ramses-online-karnak-treaty-1102",
+    "source:unesco-hattusha-map-377-001",
+    "source:weeden-hittite-empire-2022"
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Bote mit Geschenken, Vertragsabschriften auf Ton und eine Tempelwand zeigen, wie Königshöfe Beziehungen pflegten.",
+      "en": "A messenger bearing gifts, copies on clay and a temple wall show how royal courts managed their relationships."
+    },
+    "periods": [
+      {
+        "id": "kingdoms-and-trade-networks",
+        "labels": {
+          "de": "Königreiche und Handelsnetze",
+          "en": "Kingdoms and Trade Networks"
+        },
+        "description": {
+          "de": "Handel, Diplomatie, Werkstätten und Herrschaft zwischen etwa 1800 und 1000 v. Chr. Die Kapitel folgen den jeweils regionalen Datierungen und vergleichen konkrete Funde.",
+          "en": "Trade, diplomacy, workshops and power from roughly 1800 to 1000 BCE. The chapters follow local chronologies and compare specific finds."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "southwest-asia",
+        "labels": {
+          "de": "Südwestasien",
+          "en": "Southwest Asia"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "diplomacy",
+        "labels": {
+          "de": "Diplomatie",
+          "en": "Diplomacy"
+        }
+      }
+    ]
+  }
+}
