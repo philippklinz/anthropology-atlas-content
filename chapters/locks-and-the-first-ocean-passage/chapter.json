@@ -216,7 +216,7 @@
         "camera": {
           "longitude": -79.92333,
           "latitude": 9.27056,
-          "metersPerPixel": 150,
+          "metersPerPixel": 200,
           "bearing": 0,
           "pitch": 0
         },
@@ -260,7 +260,7 @@
         "camera": {
           "longitude": -79.5917,
           "latitude": 8.99657,
-          "metersPerPixel": 140,
+          "metersPerPixel": 200,
           "bearing": 0,
           "pitch": 0
         },
