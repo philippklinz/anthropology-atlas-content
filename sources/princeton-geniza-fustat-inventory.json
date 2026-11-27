@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:princeton-geniza-fustat-inventory",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Legal document T-S 20.47, recto, PGPID 41777",
+  "sourceType": "catalog",
+  "creators": [
+    "Princeton Geniza Project"
+  ],
+  "url": "https://geniza.princeton.edu/en/documents/41777/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

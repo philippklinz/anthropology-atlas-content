@@ -8,7 +8,7 @@ In a Cornish church someone found space in the margin of a Gospel book to record
 
 A charter concerning [the stone bridge at Regensburg](chapter:towns-and-rulers-of-the-empire#regensburg) names the man who looked after the crossing. At [Nishapur](chapter:cities-and-courts-of-iran#nishapur), excavations in a residential quarter turned up a turquoise bowl. Its glaze is still there to examine. The people who ate from it have left no names on its surface. It is worth moving between a written record and something made for everyday use. Both the bridge charter and the bowl take us into the life of a town.
 
-An envoy could also record things for which a treaty had little room. At [the court at Karakorum](chapter:routes-across-the-mongol-world#karakorum) a traveller’s account introduces a silversmith. In the Balkans, another embassy passed through the ruins of a city. That is where the seven stops on the map begin.
+An envoy could also record things for which a treaty had little room. William of Rubruck visited [the court at Karakorum](chapter:routes-across-the-mongol-world#rubruck) in 1254. He described the silver tree that the Parisian goldsmith Guillaume Boucher had built for the palace. In the Balkans, another embassy passed through the ruins of a city. That is where the seven stops on the map begin.
 
 ## What an envoy saw on the road {#naissus}
 
@@ -28,7 +28,7 @@ Near Roskilde, archaeologists recovered the remains of several ships. The long v
 
 ## The cargo of a sunken ship {#sinan}
 
-A trading vessel on passage in 1323 sank off the Korean coast. Finds from the wreck near Sinan supply information unlikely to have survived in a royal decree. Wooden tags carry dates or clues to the people for whom goods were intended. The [Chinese port of Qingyuan](chapter:cities-and-records-in-medieval-china#qingyuan) was a point of departure, [Sinan](chapter:goryeo-and-its-workshops#sinan) the findspot. The name of a [temple community in Japan](chapter:court-and-coast-in-medieval-japan#tofukuji) leads to people expecting part of the cargo. It never reached them. The interrupted voyage gives us a way into three chapters.
+A trading vessel on passage in 1323 sank off the Korean coast. Finds from the wreck near Sinan supply information unlikely to have survived in a royal decree. Wooden tags carry dates or clues to the people for whom goods were intended. The [Chinese port of Qingyuan](chapter:cities-and-records-in-medieval-china#qingyuan) was the likely point of departure, [Sinan](chapter:goryeo-and-its-workshops#sinan) the findspot. The name of a [temple community in Japan](chapter:court-and-coast-in-medieval-japan#tofukuji) leads to people expecting part of the cargo. It never reached them. The interrupted voyage gives us a way into three chapters.
 
 ## One church, two histories {#constantinople}
 

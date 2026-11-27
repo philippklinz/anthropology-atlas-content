@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:posen-fustat-synagogue-inventory",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Inventory of Synagogue Objects and Donors (Fustāt, Egypt)",
+  "sourceType": "archive",
+  "creators": [
+    "Amir Ashur and Benjamin M. Outhwaite, translators, The Posen Library of Jewish Culture and Civilization"
+  ],
+  "url": "https://www.posenlibrary.com/entry/inventory-synagogue-objects-and-donors-fustat-egypt",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2026"
+}

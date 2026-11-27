@@ -22,7 +22,7 @@ Takezaki Suenaga, a warrior from Higo Province, needed his service in battle to 
 
 ## A temple name goes to sea {#tofukuji}
 
-In 1323 Hakata was the probable destination of a trading vessel from Qingyuan. Religious establishments had their names on some of its cargo. One name points inland to Kyoto and the Zen temple of Tōfuku-ji. A fire in 1319 had left the buildings badly damaged. Raising money and obtaining goods for rebuilding may have been among the purposes of the voyage. The name of the temple can still be read on a wooden tag. The proceeds that someone might have hoped to raise from the sale of those goods have to be inferred.
+The trading ship lost off the Korean coast in 1323 probably left Qingyuan bound for Hakata. Religious establishments had their names on some of its cargo. One name points inland to Kyoto and the Zen temple of Tōfuku-ji. A fire in 1319 had left the buildings badly damaged. Raising money and obtaining goods for rebuilding may have been among the purposes of the voyage. The name of the temple can still be read on a wooden tag. The proceeds that someone might have hoped to raise from the sale of those goods have to be inferred.
 
 Hakozaki shrine also appears on the tags. A generation after the fires of 1274 the shrine had a stake in a commercial venture across the sea. The ship sank on its way to Japan. The point at Kyoto identifies the institution for which some of the goods were intended. A bronze weight helps identify [the likely port of departure](chapter:cities-and-records-in-medieval-china#qingyuan). The tags themselves came to light at [the wreck site off Sinan](chapter:goryeo-and-its-workshops#sinan).
 

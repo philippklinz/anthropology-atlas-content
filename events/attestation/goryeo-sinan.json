@@ -15,6 +15,11 @@
       "sourceId": "source:kim-sinan-boxes",
       "role": "supports",
       "locator": "Dendrochronologia 31, pp. 266–272. Abstract, species identification and matching of 21 boxes to western Japanese cedar chronologies."
+    },
+    {
+      "sourceId": "source:nmk-longquan-sinan-excavation",
+      "role": "supports",
+      "locator": "Exhibition introduction. The vessel sank off Sinan in 1323. The site came to light in 1975 and was excavated from 1976 to 1984."
     }
   ],
   "eventType": "attestation",
@@ -65,8 +70,8 @@
   "epistemic": {
     "status": "attested",
     "note": {
-      "de": "Das Schiff sinkt zwischen den Inseln Imjado und Jeungdo. Sein Rumpf, die beschrifteten Anhänger und die Hölzer der Packkisten werden am Fundort geborgen.",
-      "en": "The ship sinks between Imjado and Jeungdo. Its hull, inscribed tags and wooden cargo boxes are recovered at the wreck site."
+      "de": "1323 sank das Schiff zwischen Imjado und Jeungdo. Bei den Ausgrabungen von 1976 bis 1984 kamen Teile des Rumpfs, beschriftete Anhänger und hölzerne Packkisten ans Licht.",
+      "en": "The ship sank between Imjado and Jeungdo in 1323. Excavations from 1976 to 1984 brought parts of the hull, inscribed tags and wooden packing boxes to light."
     }
   }
 }

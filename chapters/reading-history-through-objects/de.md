@@ -8,11 +8,11 @@ In einer Kirche in Cornwall fand jemand am Rand eines Evangeliars Platz für [di
 
 Bei der [Steinernen Brücke in Regensburg](chapter:towns-and-rulers-of-the-empire#regensburg) nennt eine Urkunde den Mann, der für die Brücke zuständig war. In [Nischapur](chapter:cities-and-courts-of-iran#nishapur) fand man bei der Ausgrabung eines Wohnviertels eine türkisfarbene Schale. Die Glasur kann man noch betrachten. Wer aus der Schale gegessen hat, lässt sich am Fundstück nicht ablesen. Manchmal lohnt es sich, in einem zweiten Kapitel nach einem ganz anderen Gegenstand zu fragen. So verschieden eine Brückenurkunde und eine Schale auch sind, beide führen mitten in den Alltag einer Stadt.
 
-Auch ein Gesandter konnte Dinge überliefern, die in einem Vertrag kaum Platz fanden. Am [Hof in Karakorum](chapter:routes-across-the-mongol-world#karakorum) begegnet uns in einem Reisebericht ein Silberschmied. Auf dem Balkan dagegen führt der Weg einer Gesandtschaft durch die Ruinen einer Stadt. Dort beginnen die sieben Stationen auf der Karte.
+Auch ein Gesandter konnte Dinge überliefern, die in einem Vertrag kaum Platz fanden. Wilhelm von Rubruk besuchte 1254 [den Hof in Karakorum](chapter:routes-across-the-mongol-world#rubruck). Er beschrieb den silbernen Baum, den der Pariser Goldschmied Guillaume Boucher für den Palast gebaut hatte. Auf dem Balkan dagegen führt der Weg einer Gesandtschaft durch die Ruinen einer Stadt. Dort beginnen die sieben Stationen auf der Karte.
 
 ## Was ein Gesandter unterwegs sah {#naissus}
 
-Eine [Gesandtschaft an Attilas Hof](chapter:embassies-and-hunnic-power#naissus) reiste 449 über Naissus, das heutige Niš. Priskos gehörte zur römischen Gesandtschaft. Seine Schilderung macht die Folgen des Krieges auf dem Weg bemerkbar. Der im Bericht genannte Durchgangsort lässt sich auf der Karte eindeutiger zeigen als die königliche Residenz am Ende der Reise. Wer von hier zur [Donau der Goten](chapter:danube-crossing-and-adrianople#lower-danube) zurückgeht, springt auch in der Zeit zurück. Bei der Flussüberquerung von 376 waren Attilas Gesandte noch lange nicht unterwegs. Über die [Vandalen](chapter:vandals-rhine-to-carthage) führt ein weiterer Lesepfad bis Karthago.
+Eine [Gesandtschaft an Attilas Hof](chapter:embassies-and-hunnic-power#naissus) reiste 449 über Naissus, das heutige Niš. Priskos gehörte zur römischen Gesandtschaft. Seine Schilderung macht die Folgen des Krieges auf dem Weg bemerkbar. Der im Bericht genannte Durchgangsort lässt sich auf der Karte eindeutiger zeigen als die königliche Residenz am Ende der Reise. Wer von hier zur [Donau der Goten](chapter:danube-crossing-and-adrianople#lower-danube) zurückgeht, springt auch in der Zeit zurück. Zwischen der Flussüberquerung von 376 und der Reise der römischen Gesandtschaft liegen 73 Jahre. Über die [Vandalen](chapter:vandals-rhine-to-carthage) führt ein weiterer Lesepfad bis Karthago.
 
 ## Wer ein Bild lesen konnte {#palenque}
 
@@ -28,7 +28,7 @@ In der Nähe von Roskilde fanden Archäologen die Überreste mehrerer Schiffe. I
 
 ## Die Ladung eines gesunkenen Schiffs {#sinan}
 
-1323 war ein Handelsschiff unterwegs, das vor der koreanischen Küste sank. Die Funde bei Sinan geben Auskunft, die ein Königserlass kaum bewahrt hätte. Auf hölzernen Etiketten standen Datierungen oder Hinweise auf die Empfänger der Waren. Der [chinesische Hafen Qingyuan](chapter:cities-and-records-in-medieval-china#qingyuan) war ein Ausgangspunkt, [Sinan](chapter:goryeo-and-its-workshops#sinan) der Fundort. Der Name einer [Tempelgemeinschaft in Japan](chapter:court-and-coast-in-medieval-japan#tofukuji) führt zu Menschen, für die ein Teil der Ladung bestimmt war. Das Schiff erreichte sie nicht. Gerade die Unterbrechung seiner Fahrt verbindet hier drei Kapitel.
+1323 war ein Handelsschiff unterwegs, das vor der koreanischen Küste sank. Die Funde bei Sinan geben Auskunft, die ein Königserlass kaum bewahrt hätte. Auf hölzernen Etiketten standen Datierungen oder Hinweise auf die Empfänger der Waren. Der [chinesische Hafen Qingyuan](chapter:cities-and-records-in-medieval-china#qingyuan) war wahrscheinlich der Ausgangshafen, [Sinan](chapter:goryeo-and-its-workshops#sinan) der Fundort. Der Name einer [Tempelgemeinschaft in Japan](chapter:court-and-coast-in-medieval-japan#tofukuji) führt zu Menschen, für die ein Teil der Ladung bestimmt war. Das Schiff erreichte sie nicht. Gerade die Unterbrechung seiner Fahrt verbindet hier drei Kapitel.
 
 ## Eine Kirche, zwei Überlieferungen {#constantinople}
 

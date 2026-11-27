@@ -2,6 +2,7 @@
 
 This repository holds canonical historical research. The engine repository owns the schema and the authoring tools. Use the contract revision pinned by the project; do not invent a local schema fork.
 
+- Use suggested topics as research leads. Ground public chapter titles, discovery categories and historical comparisons in sources for the relevant place, period and relationship.
 - Search existing identities and citations before adding records.
 - Read the cited source and record the specific locator. Do not invent sources, quotations, dates or review claims.
 - Separate entities, dated assertions, events, geometry, source records and assets.

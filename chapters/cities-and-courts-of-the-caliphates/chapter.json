@@ -55,6 +55,16 @@
       "sourceId": "source:egypt-monuments-historic-cairo",
       "role": "supports",
       "locator": "Account of the foundation of the Fatimid city in 969 in relation to the older settlements."
+    },
+    {
+      "sourceId": "source:posen-fustat-synagogue-inventory",
+      "role": "supports",
+      "locator": "CUL T-S 20.47. Translation, opening dating clause and list of scrolls and textiles. Details identifies the language of the inventory as Judeo-Arabic."
+    },
+    {
+      "sourceId": "source:princeton-geniza-fustat-inventory",
+      "role": "supports",
+      "locator": "Description and translation of T-S 20.47, 1r. The inventory dated 8 Tammuz 1391 Seleucid records objects owned by the Iraqi congregation and stored in the Palestinian synagogue in Fustat."
     }
   ],
   "labels": {
@@ -216,8 +226,8 @@
         "en": "1080 · A synagogue’s furnishings in an inventory"
       },
       "summary": {
-        "de": "Ein Inventar von 1080 verzeichnet die Güter einer Synagoge in Fustat. Aus demselben überlieferten Papierbestand stammt ein gesondert datierter Lehrerbrief. Der Punkt zeigt den Aufbewahrungsort der Geniza.",
-        "en": "An inventory from 1080 lists possessions of a synagogue in Fustat. A teacher’s letter preserved in the same collection has a separate date. The point marks the synagogue that housed the Genizah."
+        "de": "Ein judäo-arabisches Inventar von 1080 erfasst Eigentum der irakischen Gemeinde, das die palästinische Synagoge in Fustat verwahrte. Der Lehrerbrief ist gesondert datiert. Die Karte zeigt den Standort der Geniza.",
+        "en": "A Judaeo-Arabic inventory from 1080 lists property of the Iraqi congregation kept at the Palestinian synagogue in Fustat. The teacher’s letter has a separate date. The map marks the site of the Genizah."
       },
       "state": {
         "camera": {
@@ -255,8 +265,8 @@
   ],
   "discovery": {
     "summary": {
-      "de": "Wer in Jerusalem am Mosaik entlangliest, begegnet zwei Kalifen in einem Schriftband. In Bagdad und Ägypten führen Baupläne, ein Nilpegel und der Brief eines Lehrers zu Menschen, über die das europäische Wort „Sarazenen“ wenig verrät.",
-      "en": "A mosaic in Jerusalem preserves traces of two caliphs in a single inscription. A plan of Baghdad, a Nile gauge and a teacher’s letter from Egypt open up lives that the European word “Saracens” scarcely describes."
+      "de": "In Jerusalem trägt eine Mosaikinschrift Spuren zweier Kalifen. In Bagdad entsteht eine Residenz, auf der Nilinsel ar-Rauda ein Pegel. Ein Inventar und ein Lehrerbrief führen in den Alltag von Fustat.",
+      "en": "A mosaic inscription in Jerusalem preserves traces of two caliphs. A new residence in Baghdad, a Nile gauge on Rawda Island and two documents from Fustat show how people governed, worshipped and studied."
     },
     "topics": [
       {
@@ -379,7 +389,9 @@
     "source:met-dome-rock-jerusalem",
     "source:micheau-baghdad-imperial-foundation",
     "source:milwright-dome-rock-mosaics",
+    "source:posen-fustat-synagogue-inventory",
     "source:posen-letter-students-father",
+    "source:princeton-geniza-fustat-inventory",
     "source:watts-saracen-romance",
     "source:wikidata-place-coordinates"
   ]

@@ -62,6 +62,11 @@
       "locator": "Dendrochronologia 31, pp. 266–272. Abstract, species identification and matching of 21 boxes to western Japanese cedar chronologies."
     },
     {
+      "sourceId": "source:nmk-longquan-sinan-excavation",
+      "role": "supports",
+      "locator": "Exhibition introduction. The vessel sank off Sinan in 1323. The site came to light in 1975 and was excavated from 1976 to 1984."
+    },
+    {
       "sourceId": "source:hagia-sophia-met",
       "role": "supports",
       "locator": "Opening paragraphs on the Nika fire, dedication on 27 December 537, architects, vault, 558 collapse, 562 rebuilding and decoration. Closing paragraphs on conversion under Mehmed II in 1453 and subsequent Ottoman additions."
@@ -120,6 +125,86 @@
       "sourceId": "source:ceren-site",
       "role": "supports",
       "locator": "Brief Synthesis and map coordinates, dossier 675, 13°49′39″ N, 89°22′9″ W. Seventh-century farming settlement preserved beneath the Loma Caldera eruption."
+    },
+    {
+      "sourceId": "source:thorpe-freed",
+      "role": "supports",
+      "locator": "Printed p. 627, entry beginning Her kyð on þissere bec. Old English text and translation: Ongynethel and Gythiccael, half a pound, four pence, two officials, church door and altar, named witnesses."
+    },
+    {
+      "sourceId": "source:bodmin-gospels",
+      "role": "supports",
+      "locator": "Scope and Content, post-Gospel additions: 51 records of manumission in Latin and Old English, marginal and blank-leaf entries. The catalogue’s broad dating should be read with Pracy’s discussion of individual hands and names."
+    },
+    {
+      "sourceId": "source:pracy-manumissions",
+      "role": "supports",
+      "locator": "The Haskins Society Journal 31, pp. 1 and 9, especially notes 40–43. Competing datings for entries sharing the name Maccos, around 1000 or late in the eleventh century."
+    },
+    {
+      "sourceId": "source:petroc-site",
+      "role": "supports",
+      "locator": "National Heritage List for England 1355166, Location and Details, grid SX 07313 67033. The standing church is later than the entry and is used to locate Bodmin only."
+    },
+    {
+      "sourceId": "source:posen-fustat-synagogue-inventory",
+      "role": "supports",
+      "locator": "CUL T-S 20.47. Translation, opening dating clause and list of scrolls and textiles. Details identifies the language of the inventory as Judeo-Arabic."
+    },
+    {
+      "sourceId": "source:princeton-geniza-fustat-inventory",
+      "role": "supports",
+      "locator": "Description and translation of T-S 20.47, 1r. The inventory dated 8 Tammuz 1391 Seleucid records objects owned by the Iraqi congregation and stored in the Palestinian synagogue in Fustat."
+    },
+    {
+      "sourceId": "source:cambridge-discarded-history-genizah",
+      "role": "supports",
+      "locator": "Synagogue, item 3, inventory dated 1080, T-S 20.47. Schoolroom, item 2, letter T-S Ar.53.65, separately dated to the eleventh or twelfth century."
+    },
+    {
+      "sourceId": "source:posen-letter-students-father",
+      "role": "supports",
+      "locator": "Translated letter and catalogue data for T-S Ar.53.65, including the note about the child’s writing board."
+    },
+    {
+      "sourceId": "source:egypt-monuments-historic-cairo",
+      "role": "supports",
+      "locator": "Account of the foundation of the Fatimid city in 969 in relation to the older settlements."
+    },
+    {
+      "sourceId": "source:ritscher-herbord",
+      "role": "supports",
+      "locator": "Chapter III.1.b, Tätigkeitsbereich des Brückenmeisters, pp. 22–23 and notes 62–65. Petition of the citizens and Herbord, exemptions from toll, twelve-foot exclusion zone, divided fines, bishop and duke."
+    },
+    {
+      "sourceId": "source:regensburg-bridge",
+      "role": "supports",
+      "locator": "Timeline on pp. 16–17, especially completion by 1146 and the 1182 privileges governing access, duties and maintenance."
+    },
+    {
+      "sourceId": "source:met-nishapur-sabz-pushan-bowl",
+      "role": "supports",
+      "locator": "Accession 38.40.243. Object description, dimensions, turquoise opaque glaze, date, the excavated site of Sabz Pushan, and the 1938 division of finds."
+    },
+    {
+      "sourceId": "source:wilkinson-nishapur-buildings",
+      "role": "supports",
+      "locator": "Map of Nishapur and Environs and the section on excavation of the Sabz Pushan residential quarter."
+    },
+    {
+      "sourceId": "source:met-city-of-nishapur",
+      "role": "supports",
+      "locator": "Unit 6, The City of Nishapur, introductory account and discussion of games and household objects recovered in excavations."
+    },
+    {
+      "sourceId": "source:rubruck-account",
+      "role": "supports",
+      "locator": "Paragraph beginning “A certain woman from Metz” (Paquette, her family and the Parisian goldsmith); “The Khan’s palace at Karakorum” (the silver tree, bellows, trumpet and servers); “Description of Karakorum” (grain and livestock at the gates). Translation published in 1900."
+    },
+    {
+      "sourceId": "source:karakorum-survey",
+      "role": "supports",
+      "locator": "Introduction, Historical background and city access discussion at fig. 7. Location on the Orkhon, residence under Ögödei, Rubruck’s visit in 1254, east-gate roads and dense settlement outside the walls. Published online 2021."
     }
   ],
   "labels": {
@@ -327,8 +412,8 @@
         "en": "1323 · A trading ship between three coasts"
       },
       "summary": {
-        "de": "Qingyuan war der Ausgangshafen. Das Wrack liegt bei Sinan. Die Tempelgemeinschaft in Kyoto ist als Empfänger auf einem Etikett bezeugt.",
-        "en": "Qingyuan was the port of departure. The wreck lies off Sinan. A cargo tag names a temple community at Kyoto as a recipient."
+        "de": "Qingyuan ist der wahrscheinliche Ausgangshafen. Das Wrack liegt bei Sinan. Die Tempelgemeinschaft in Kyoto ist als Empfänger auf einem Etikett bezeugt.",
+        "en": "Qingyuan was the likely port of departure. The wreck lies off Sinan. A cargo tag names a temple community at Kyoto as a recipient."
       },
       "state": {
         "camera": {
@@ -964,6 +1049,7 @@
     "source:nmk-celadon-roof-tile",
     "source:nmk-goryeo-glory",
     "source:nmk-lion-incense-burner",
+    "source:nmk-longquan-sinan-excavation",
     "source:nmk-sadang-ri-kiln",
     "source:nuremberg-geo",
     "source:obrien-origins-royal-anointing",
@@ -981,9 +1067,11 @@
     "source:pleiades-ancient-places",
     "source:popol-edition",
     "source:popol-wuj-opening-facsimile",
+    "source:posen-fustat-synagogue-inventory",
     "source:posen-letter-students-father",
     "source:possidius-life-augustine",
     "source:pracy-manumissions",
+    "source:princeton-geniza-fustat-inventory",
     "source:priscus-embassy",
     "source:quanzhou-heritage-map",
     "source:quanzhou-maritime-office",

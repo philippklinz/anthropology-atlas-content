@@ -25,6 +25,11 @@
       "sourceId": "source:kim-sinan-boxes",
       "role": "supports",
       "locator": "Dendrochronologia 31, pp. 266–272. Abstract, species identification and matching of 21 boxes to western Japanese cedar chronologies."
+    },
+    {
+      "sourceId": "source:nmk-longquan-sinan-excavation",
+      "role": "supports",
+      "locator": "Exhibition introduction. The vessel sank off Sinan in 1323. The site came to light in 1975 and was excavated from 1976 to 1984."
     }
   ],
   "entityType": "artifact",

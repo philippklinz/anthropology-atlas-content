@@ -7,6 +7,16 @@
   },
   "sourceRefs": [
     {
+      "sourceId": "source:posen-fustat-synagogue-inventory",
+      "role": "supports",
+      "locator": "CUL T-S 20.47. Translation, opening dating clause and list of scrolls and textiles. Details identifies the language of the inventory as Judeo-Arabic."
+    },
+    {
+      "sourceId": "source:princeton-geniza-fustat-inventory",
+      "role": "supports",
+      "locator": "Description and translation of T-S 20.47, 1r. The inventory dated 8 Tammuz 1391 Seleucid records objects owned by the Iraqi congregation and stored in the Palestinian synagogue in Fustat."
+    },
+    {
       "sourceId": "source:cambridge-discarded-history-genizah",
       "role": "supports",
       "locator": "Synagogue, item 3, inventory dated 1080, T-S 20.47. Schoolroom, item 2, letter T-S Ar.53.65, separately dated to the eleventh or twelfth century."
@@ -62,8 +72,8 @@
   "epistemic": {
     "status": "attested",
     "note": {
-      "de": "Ein Inventar von 1080 verzeichnet die Güter einer Synagoge in Fustat. Aus demselben überlieferten Papierbestand stammt ein gesondert datierter Lehrerbrief. Der Punkt zeigt den Aufbewahrungsort der Geniza.",
-      "en": "An inventory from 1080 lists possessions of a synagogue in Fustat. A teacher’s letter preserved in the same collection has a separate date. The point marks the synagogue that housed the Genizah."
+      "de": "Ein judäo-arabisches Inventar von 1080 erfasst Eigentum der irakischen Gemeinde, das die palästinische Synagoge in Fustat verwahrte. Der Lehrerbrief ist gesondert datiert. Die Karte zeigt den Standort der Geniza.",
+      "en": "A Judaeo-Arabic inventory from 1080 lists property of the Iraqi congregation kept at the Palestinian synagogue in Fustat. The teacher’s letter has a separate date. The map marks the site of the Genizah."
     }
   }
 }

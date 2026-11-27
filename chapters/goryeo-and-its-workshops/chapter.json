@@ -57,6 +57,11 @@
       "locator": "Section “The oldest movable metal type book” and captioned examples of tilted 人 and missing 動. Baegun, Seokchan, Daljam, Myodeok and the Heungdeoksa printing."
     },
     {
+      "sourceId": "source:nmk-longquan-sinan-excavation",
+      "role": "supports",
+      "locator": "Exhibition introduction. The vessel sank off Sinan in 1323. The site came to light in 1975 and was excavated from 1976 to 1984."
+    },
+    {
       "sourceId": "source:todd-sinan-cargo-tags",
       "role": "supports",
       "locator": "Photograph, 7 May 2015, Sinan Shipwreck Gallery, National Museum of Korea. Commons file history, author, CC0 1.0 dedication and Flickr licence review. The temple name 東福寺 is legible on the middle-right and right-hand tags."
@@ -178,8 +183,8 @@
         "en": "1323 · A merchant ship sinks off Sinan"
       },
       "summary": {
-        "de": "Das Schiff sinkt zwischen den Inseln Imjado und Jeungdo. Sein Rumpf, die beschrifteten Anhänger und die Hölzer der Packkisten werden am Fundort geborgen.",
-        "en": "The ship sinks between Imjado and Jeungdo. Its hull, inscribed tags and wooden cargo boxes are recovered at the wreck site."
+        "de": "1323 sank das Schiff zwischen Imjado und Jeungdo. Bei den Ausgrabungen von 1976 bis 1984 kamen Teile des Rumpfs, beschriftete Anhänger und hölzerne Packkisten ans Licht.",
+        "en": "The ship sank between Imjado and Jeungdo in 1323. Excavations from 1976 to 1984 brought parts of the hull, inscribed tags and wooden packing boxes to light."
       },
       "state": {
         "camera": {
@@ -390,6 +395,7 @@
     "source:nmk-celadon-roof-tile",
     "source:nmk-goryeo-glory",
     "source:nmk-lion-incense-burner",
+    "source:nmk-longquan-sinan-excavation",
     "source:nmk-sadang-ri-kiln",
     "source:seokdu-warehouse",
     "source:sinan-museum-collection",
