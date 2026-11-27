@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:birka-stolpe-report-1872",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Naturhistoriska och archæologiska undersökningar på Björkö i Mälaren II. Redogörelse för undersökningarna år 1872",
+  "url": "https://paleoarchive.com/literature/Stolpe1873-UndersokningarBjorkoII.pdf",
+  "sourceType": "book",
+  "language": "sv",
+  "creators": [
+    "Hjalmar Stolpe"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1873"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:small-jelling-stone",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-pair",
+      "role": "supports",
+      "locator": "“Gorm the Old authored Denmark’s name certificate” and “Two monuments from Danish history”. Gorm’s commissioning formula, the museum’s rendering of Thyra’s epithet, c. 950, and the photograph “The small Jelling stone” by Roberto Fortuna, CC BY-SA 2.0."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Gorms Runenstein für Thyra",
+    "en": "Gorm’s runestone for Thyra"
+  },
+  "alt": {
+    "de": "Die Vorderseite des kleineren Jellingsteins. Drei aufrechte Bänder gliedern die Runen der Inschrift.",
+    "en": "Front of the smaller Jelling stone. Three upright bands organise the runes of the inscription."
+  },
+  "entityIds": [
+    "artifact:small-jelling-stone"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-2.0",
+    "creators": [
+      "Roberto Fortuna"
+    ],
+    "attribution": "Roberto Fortuna / National Museum of Denmark, CC BY-SA 2.0. Photograph of the smaller Jelling runestone, shown on the museum’s Jelling Stones page. https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://kongernesjelling.dk/en/experiences/jelling-stones",
+    "originNote": "Web edition of the original 881 × 1200 image. Resampled to 881 × 1200 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by-sa/2.0/"
+  }
+}

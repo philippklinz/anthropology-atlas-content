@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:hedeby-settlement-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.5662,
+      54.491
+    ]
+  }
+}

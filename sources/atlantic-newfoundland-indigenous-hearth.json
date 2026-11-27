@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-newfoundland-indigenous-hearth",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "L’Anse aux Meadows (EjAv-01). An archaeological and ethnohistorical investigation of bird use during the Recent Indian period in Newfoundland and Labrador",
+  "url": "https://www.collectionscanada.gc.ca/obj/thesescanada/vol2/002/MR64806.PDF",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Todd J. Kristensen, Memorial University"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2010"
+}

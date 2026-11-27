@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ribe-hedeby-harbour-timbers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hedeby-harbour-excavation",
+      "role": "supports",
+      "locator": "Die Ausgrabungen in Haithabu 14. Discussion of the southern boundary, Struktur N7.6, with fig. 190: item 1778, a pointed split plank dated to 885 where a linear feature meets the bank revetment. The report traces the feature towards the harbour structures."
+    },
+    {
+      "sourceId": "source:hedeby-harbour-timber-series",
+      "role": "supports",
+      "locator": "CHNT 2018, abstract and references. The results join excavated positions, ring-pattern comparisons and felling dates and identify major construction in 881 and 885."
+    },
+    {
+      "sourceId": "source:hedeby-waterfront-museum",
+      "role": "supports",
+      "locator": "Visitor plan, “The Jetty” and “Platform”. Successive landing stages reached deeper water. Smaller links between jetties created trading space. The guide explains which features of the reconstruction represent choices."
+    },
+    {
+      "sourceId": "source:hedeby-harbour-data",
+      "role": "supports",
+      "locator": "European Harbour Data Repository 7, ID_place 27 “Haithabu Hafen”. The published coordinates for the harbour are 54.492°N, 9.569°E. DOI 10.22032/dbt.38393."
+    },
+    {
+      "sourceId": "source:ohthere-voyage-five-days",
+      "role": "supports",
+      "locator": "Printed p. 107, lines 6–15, Old English. Ohthere gives five days for the passage from Sciringes heal to the port at Hæðum and identifies lands and islands to port and starboard."
+    },
+    {
+      "sourceId": "source:hedeby-antler-combs",
+      "role": "supports",
+      "locator": "Antiquity 97, pp. 1233–1248. Introduction, Classification and chronology, Results, Discussion and figs. 2–3. Type 5 sample of 49, 42 certain and 2 probable reindeer identifications. About 0.5% of identifiable workshop waste was reindeer. Trade in finished items and movement of personal possessions are both possibilities. Fig. 3 credits the photographs of four groups to Mariana Muñoz-Rodriguez."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Bohle am Hafen von Haithabu",
+    "en": "A plank at Hedeby’s waterfront"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 885,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 885,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:hedeby-split-plank-1778",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:hedeby-harbour"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hedeby-harbour-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Eine angespitzte Bohle an der südlichen Parzellengrenze ist auf 885 datiert. Der Orientierungspunkt markiert die Hafenanlagen.",
+      "en": "A pointed plank at the southern boundary of a plot dates to 885. The point marks the harbour installations."
+    }
+  }
+}

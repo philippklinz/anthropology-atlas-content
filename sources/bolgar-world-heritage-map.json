@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bolgar-world-heritage-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bolgar Historical and Archaeological Complex, geographical data and property maps",
+  "url": "https://whc.unesco.org/en/list/981/maps/",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "accessedAt": "2026-11-27"
+}

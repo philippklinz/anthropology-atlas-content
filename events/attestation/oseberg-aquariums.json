@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:oseberg-aquariums",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-conservation-aquariums",
+      "role": "supports",
+      "locator": "“Various treatments”, “A temporary solution” and “Problem solved”, figs 2, 4–9: four animal heads and two sledge pulls, the two specially made aquariums commissioned in 1912, the wartime loss, Jørgen Eriksen’s copy and Annemor Rosenqvist’s treatment before the 1957 exhibition."
+    },
+    {
+      "sourceId": "source:oseberg-saving-wood",
+      "role": "supports",
+      "locator": "“Conservation”, “Alum treatment” and “Re-construction” explain groundwater and low oxygen, pressure damage, the risk of shrinkage, drying of better-preserved oak, and the contrasting treatment of fragile carvings."
+    },
+    {
+      "sourceId": "source:oseberg-historical-museum-site",
+      "role": "supports",
+      "locator": "Campus location SE06, Frederiksgate 2, map of the Historical Museum in central Oslo."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tierkopfpfosten in zwei Aquarien",
+    "en": "Animal-head posts in two aquariums"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1912,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1912,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:oseberg-animal-head-posts",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:gabriel-gustafson",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:historical-museum-oslo-frederiks-gate"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:historical-museum-oslo-frederiks-gate-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Gustafson ließ zwei Aquarien für den Osebergsaal des Historischen Museums anfertigen. Darin konnten geschnitzte Tierköpfe unter Wasser gezeigt werden, während ein Verfahren zur Trocknung gesucht wurde.",
+      "en": "Gustafson commissioned two aquariums for the Oseberg gallery in the Historical Museum. They allowed carved animal heads to be shown underwater while the search for a drying treatment continued."
+    }
+  }
+}

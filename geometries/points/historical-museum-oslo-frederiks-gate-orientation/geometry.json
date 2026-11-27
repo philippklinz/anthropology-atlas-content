@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:historical-museum-oslo-frederiks-gate-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-conservation-aquariums",
+      "role": "supports",
+      "locator": "“Various treatments”, “A temporary solution” and “Problem solved”, figs 2, 4–9: four animal heads and two sledge pulls, the two specially made aquariums commissioned in 1912, the wartime loss, Jørgen Eriksen’s copy and Annemor Rosenqvist’s treatment before the 1957 exhibition."
+    },
+    {
+      "sourceId": "source:oseberg-saving-wood",
+      "role": "supports",
+      "locator": "“Conservation”, “Alum treatment” and “Re-construction” explain groundwater and low oxygen, pressure damage, the risk of shrinkage, drying of better-preserved oak, and the contrasting treatment of fragile carvings."
+    },
+    {
+      "sourceId": "source:oseberg-historical-museum-site",
+      "role": "supports",
+      "locator": "Campus location SE06, Frederiksgate 2, map of the Historical Museum in central Oslo."
+    },
+    {
+      "sourceId": "source:oseberg-historical-museum-site",
+      "role": "derivation",
+      "locator": "University campus map, Historical Museum (SE06), Frederiksgate 2. Its location link is centred on 10.735695 E, 59.916830 N."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: University of Oslo.",
+    "sourceUrl": "https://www.uio.no/english/about/getting-around/areas/city-centre/se06/",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:jelling-silver-cup",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-hvass-monuments",
+      "role": "supports",
+      "locator": "Figures 2–6 and English summary under “Stone for his parents” and “Small silver cup”. Vertical and horizontal writing, reliefs, purple silk, and the 4.3 cm silver cup with gilding and entwined animals from the north mound."
+    },
+    {
+      "sourceId": "source:jelling-imer-dates",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 3(2), pp. 168–170, tables 1–2 and discussion immediately after table 2. Mid-tenth century up to c. 960 for Jelling 1. The chamber wood is reported as 958/59. Historical dating proposals for Jelling 2 differ."
+    },
+    {
+      "sourceId": "source:jelling-imer-thyra",
+      "role": "supports",
+      "locator": "Antiquity 97, 1262–1278. Table 1, introduction on the north mound, “Ravnunge-Tue and the Jelling stones”, figures 9–10, “Sources of error” and conclusion. Læborg’s signed dedication and proposed attribution of Jelling 2, weathering at Jelling 1, variants of Thyra’s epithet, and limits of the proposed reburial. The authors give 959/60 for wood from the chamber."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Silberbecher aus dem Nordhügel von Jelling",
+    "en": "Silver cup from the Jelling North Mound"
+  }
+}

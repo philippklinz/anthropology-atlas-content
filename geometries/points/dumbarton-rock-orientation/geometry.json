@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:dumbarton-rock-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-ulster-translation",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, two camps and continued presence; U870.6, four months at Ail Cluaithe; U871.2, Áth Cliath, the leaders, 200 ships and the three groups brought back as captives; U902.2 and U917.4, the defenders driven out and Sitriuc’s entry. U980.1 and U983.2, the battle of Tara and later coalitions."
+    },
+    {
+      "sourceId": "source:dumbarton-hillfort",
+      "role": "supports",
+      "locator": "SC1365, “Summary” and “Location”; twin summits, 1974–75 excavation, fifth trench on the eastern side, bedding trench, vitrified stone and three radiocarbon determinations in the sixth to ninth centuries. Site coordinates WGS84, 55.936756 N, 4.563298 W."
+    },
+    {
+      "sourceId": "source:dublin-dumbarton-rock",
+      "role": "supports",
+      "locator": "“Under siege”, identification of the 870 siege of the Rock, the Dublin leaders Olaf and Ivar, and forced removals following the four-month siege."
+    },
+    {
+      "sourceId": "source:dumbarton-hillfort",
+      "role": "derivation",
+      "locator": "SC1365, Location. Site point in WGS84 for Dumbarton Rock, rounded from −4.563298, 55.936756."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Gary Lock and Ian Ralston, Universities of Oxford and Edinburgh.",
+    "sourceUrl": "https://hillforts.arch.ox.ac.uk/records/SC1365.html",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

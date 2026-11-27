@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:birka-malaren-land-uplift",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Birka",
+  "url": "https://stockholmslansmuseum.se/besoksmal/birka/",
+  "sourceType": "website",
+  "language": "sv",
+  "creators": [
+    "Stockholms läns museum"
+  ],
+  "accessedAt": "2026-11-27"
+}

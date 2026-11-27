@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:birka-birka-harbour",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:birka-rimbert-ansgar",
+      "role": "supports",
+      "locator": "Chapters X–XI. Witmar as a witness, loss of the books en route, permission to preach, captive Christians, Herigar and his church. The narrative is used for the visit. Modern site identification follows the Swedish History Museum."
+    },
+    {
+      "sourceId": "source:birka-museum-rimbert",
+      "role": "supports",
+      "locator": "Opening paragraphs. Rimbert wrote about 865–875. The museum dates Ansgar and Witmar’s first journey to 830 and distinguishes it from Ansgar’s later visit."
+    },
+    {
+      "sourceId": "source:birka-malaren-land-uplift",
+      "role": "supports",
+      "locator": "Handelsplatsen Birka. Björkö stood at a Baltic inlet at the time of the trading settlement. The present lake resulted from land uplift. Also explains the deposits called Svarta jorden."
+    },
+    {
+      "sourceId": "source:birka-world-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 555-001, Birka on Björkö (not 555-002, Hovgården). A rounded site point is shared by the harbour, burial and hoard stations."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ansgar und Witmar erreichen den Hafen",
+    "en": "Ansgar and Witmar reach the harbour"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 829,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 831,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:ansgar",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:witmar-of-corbie",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:hergeir-of-birka",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:birka-on-bjorko"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:birka-on-bjorko-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Rimbert schildert die Ankunft der beiden Mönche, die Gefangenen und den Ortsvorsteher Hergeir. Der Punkt bezeichnet die Handelsstadt auf Björkö.",
+      "en": "Rimbert recounts the monks’ arrival and describes captives and the town’s reeve, Hergeir. The point marks the trading settlement on Björkö."
+    }
+  }
+}

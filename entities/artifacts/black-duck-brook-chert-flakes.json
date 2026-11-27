@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:black-duck-brook-chert-flakes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atlantic-newfoundland-indigenous-hearth",
+      "role": "supports",
+      "locator": "Chapter 7, pp. 102–108, Figs. 7.2–4 and Table 7.1. Hearth 4A76P west of the brook, 15 grey-green chert flakes one metre west of the fire, the nail one metre southeast. With 1950 as BP reference, the reported two-sigma charcoal ranges are AD 900–910 and 960–1040 for Beta-252632 and AD 990–1150 for Beta-252633. The map uses their outer envelope; occupation was episodic. pp. 115–116 and Tables 7.5–6 describe birds on the other, upper terrace."
+    },
+    {
+      "sourceId": "source:atlantic-newfoundland-birds",
+      "role": "supports",
+      "locator": "Arctic Anthropology 49(1), pp. 68–87, DOI 10.1353/arc.2012.0015. Abstract and Table 1 discuss the site in relation to Beothuk ancestors, the charcoal determinations for hearth 4A76P2 and seasonal harvesting of birds."
+    },
+    {
+      "sourceId": "source:parks-indigenous",
+      "role": "supports",
+      "locator": "First two paragraphs. Archaeological evidence of Indigenous use over six millennia and Dorset camps on the south shore more than two centuries before the Norse."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Hornsteinabschläge von der Feuerstelle 4A76P",
+    "en": "Chert flakes beside hearth 4A76P"
+  }
+}

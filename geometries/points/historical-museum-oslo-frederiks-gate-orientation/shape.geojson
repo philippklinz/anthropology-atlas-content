@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:historical-museum-oslo-frederiks-gate-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7357,
+      59.9168
+    ]
+  }
+}

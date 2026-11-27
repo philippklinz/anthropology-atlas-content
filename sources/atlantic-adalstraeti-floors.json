@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-adalstraeti-floors",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Zooarchaeology of Aðalstræti 14–16, 2001. Report of the Viking Period Animal Bones",
+  "url": "https://www.geos.ed.ac.uk/~nabo/publications/labreports/Norsec2AdalstrVikingPd.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Clayton M. Tinsley",
+    "Thomas H. McGovern"
+  ],
+  "accessedAt": "2026-11-27"
+}

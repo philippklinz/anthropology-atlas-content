@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:eadred-of-england",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-chronicle-tenth",
+      "role": "supports",
+      "locator": "Annals for 948, 952 and 954. Note whom the annalist casts as agents in receiving and expelling a king."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Eadred von England",
+    "en": "Eadred of England"
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:oseberg-ship-burial",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:oseberg-sleighs",
+      "role": "supports",
+      "locator": "Opening account of the burial and the four sleighs, followed by “Carvings and ornamentation”. The museum distinguishes three richly carved sleighs and discusses their use before burial."
+    },
+    {
+      "sourceId": "source:jelling-stone",
+      "role": "supports",
+      "locator": "The large stone, its decoration, the translated inscription, the dating around 965 and the discussion of earlier Christian objects and Harald Klak’s baptism at Mainz in 826."
+    },
+    {
+      "sourceId": "source:oseberg-bonde-stylegar-timbers",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 5, pp. 21–25, especially fig. 3 (separate felling dates for Storhaug loose timber, Oseberg hull and burial chamber), table 2 (ring series) and “Narrowing down the location of the shipbuilding site” (beech and probable origins in western Norway)."
+    },
+    {
+      "sourceId": "source:oseberg-storhaug-karmoy-map",
+      "role": "supports",
+      "locator": "“Oppdag skipsgravene” and the map “Kart over Grønhaug og Storhaug på Karmøy,” showing Storhaug north of Grønhaug beside the Karmsund."
+    },
+    {
+      "sourceId": "source:oseberg-grave-chamber-jensenius",
+      "role": "supports",
+      "locator": "Collegium Medievale 29, pp. 84–87, “Oseberggravningen”; fig. 2 and pp. 84–85 on five bark-edge samples, the two posts and ridge, the pressure-deformed chamber, and drawings by Glende and Beck."
+    },
+    {
+      "sourceId": "source:oseberg-fragments-and-silk",
+      "role": "supports",
+      "locator": "“What do the motifs on the Oseberg tapestry signify?”, “Exotic goods from Persia and Byzantium” and “The colours that disappeared”; clothing strips, the reversed silk, tools and Sofie Krafft’s 41 drawings of 110 silk pieces."
+    },
+    {
+      "sourceId": "source:oseberg-texrec-textile-project",
+      "role": "supports",
+      "locator": "Project introduction and research areas 1–3. Over 80 figured fragments, visible motifs, faded dyes and questions about how the original scenes fitted together."
+    },
+    {
+      "sourceId": "source:oseberg-klevnas-reopened-graves",
+      "role": "supports",
+      "locator": "In The Norse Sorceress, chapter 14, pp. 171–173 on the deposit in the access passage, beds and remains of the two women; pp. 177–178 and fig. 14.4 on the broken oak spade and the likely 953–975 window."
+    },
+    {
+      "sourceId": "source:oseberg-bill-daly-mound-openings",
+      "role": "supports",
+      "locator": "Antiquity 86, pp. 808–824, abstract and discussion of the dated tools and possible political motives for the reopenings in the tenth century. The authors propose a political setting, not an identification of the people."
+    },
+    {
+      "sourceId": "source:oseberg-discovery-gustafson",
+      "role": "supports",
+      "locator": "Opening account of Oskar Rom’s visit to Gustafson in August 1903; “An archaeological adventure” and “Important events” for the main excavation in June 1904."
+    },
+    {
+      "sourceId": "source:oseberg-vaering-excavation-crew",
+      "role": "supports",
+      "locator": "Historic excavation photograph CfO0176, C55000/1, 1904. Norwegian caption identifies foreman Aksel Stubstad, engineers Glende and Beck, and preparator Paul Johannesen. File record credits Olaf Væring and documents CC BY-SA 4.0."
+    },
+    {
+      "sourceId": "source:oseberg-saving-wood",
+      "role": "supports",
+      "locator": "“Conservation”, “Alum treatment” and “Re-construction” explain groundwater and low oxygen, pressure damage, the risk of shrinkage, drying of better-preserved oak, and the contrasting treatment of fragile carvings."
+    },
+    {
+      "sourceId": "source:oseberg-conservation-aquariums",
+      "role": "supports",
+      "locator": "“Various treatments”, “A temporary solution” and “Problem solved”, figs 2, 4–9: four animal heads and two sledge pulls, the two specially made aquariums commissioned in 1912, the wartime loss, Jørgen Eriksen’s copy and Annemor Rosenqvist’s treatment before the 1957 exhibition."
+    },
+    {
+      "sourceId": "source:oseberg-historical-museum-site",
+      "role": "supports",
+      "locator": "Campus location SE06, Frederiksgate 2, map of the Historical Museum in central Oslo."
+    }
+  ],
+  "labels": {
+    "de": "Zwei Frauen im Schiffsgrab von Oseberg",
+    "en": "Two Women in the Oseberg Ship Burial"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:oseberg-storhaug",
+    "event:viking-age-oseberg",
+    "event:oseberg-mound-opening",
+    "event:oseberg-excavation",
+    "event:oseberg-aquariums",
+    "asset:oseberg-excavation-crew-1904"
+  ],
+  "recordIds": [
+    "artifact:oseberg-animal-head-posts",
+    "artifact:oseberg-burial-chamber",
+    "artifact:oseberg-figured-textiles",
+    "artifact:oseberg-intrusion-spade",
+    "artifact:oseberg-ship",
+    "artifact:oseberg-sleighs",
+    "artifact:timbers-from-storhaug-burial",
+    "asset:oseberg-excavation-crew-1904",
+    "event:oseberg-aquariums",
+    "event:oseberg-excavation",
+    "event:oseberg-mound-opening",
+    "event:oseberg-storhaug",
+    "event:viking-age-oseberg",
+    "geometry:historical-museum-oslo-frederiks-gate-orientation",
+    "geometry:oseberg-burial-mound-orientation",
+    "geometry:storhaug-karmoy-orientation",
+    "person:gabriel-gustafson",
+    "person:olaf-vaering",
+    "person:paul-johannesen",
+    "place:historical-museum-oslo-frederiks-gate",
+    "place:oseberg-burial-mound",
+    "place:storhaug-karmoy",
+    "source:jelling-stone",
+    "source:oseberg-bill-daly-mound-openings",
+    "source:oseberg-bonde-stylegar-timbers",
+    "source:oseberg-conservation-aquariums",
+    "source:oseberg-discovery-gustafson",
+    "source:oseberg-fragments-and-silk",
+    "source:oseberg-grave-chamber-jensenius",
+    "source:oseberg-historical-museum-site",
+    "source:oseberg-klevnas-reopened-graves",
+    "source:oseberg-location",
+    "source:oseberg-saving-wood",
+    "source:oseberg-ship",
+    "source:oseberg-sleighs",
+    "source:oseberg-storhaug-karmoy-map",
+    "source:oseberg-texrec-textile-project",
+    "source:oseberg-vaering-excavation-crew",
+    "source:viking-word"
+  ],
+  "steps": [
+    {
+      "id": "storhaug",
+      "textAnchor": "storhaug",
+      "labels": {
+        "de": "Sommer 779 · Ein datiertes Holz aus dem Grab von Storhaug",
+        "en": "summer 779 · A dated timber from the Storhaug burial"
+      },
+      "summary": {
+        "de": "Die äußerste erhaltene Holzkante datiert das Fällen einer Eiche in den Sommer 779. Das Holz stammt aus dem Grabhügel auf Karmøy. Der Ort dient zum Vergleich mit dem um 820 gebauten Osebergschiff.",
+        "en": "The outer edge of a piece of oak dates the tree’s felling to summer 779. The timber was found in the mound on Karmøy. The site supplies material for comparison with the Oseberg ship built around 820."
+      },
+      "state": {
+        "camera": {
+          "longitude": 5.2835,
+          "latitude": 59.3825,
+          "metersPerPixel": 390,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 779,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 779,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "oseberg",
+      "textAnchor": "oseberg",
+      "labels": {
+        "de": "834 · Die Kammer und die Gewebe der beiden Frauen",
+        "en": "834 · The chamber and the women’s textiles"
+      },
+      "summary": {
+        "de": "Das Holz der Kammer datiert die Bestattung in das Jahr 834. Gewebebänder, Seidenstreifen und Werkzeuge erschließen die Arbeit an Textilien, die bereits vor der Bestattung gebraucht wurden.",
+        "en": "The chamber timbers date the burial to 834. Woven bands, strips of silk and tools provide evidence of textile work and of the use of fabrics before burial."
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.453,
+          "latitude": 59.309,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 834,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 834,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "mound-opening",
+      "textAnchor": "mound-opening",
+      "labels": {
+        "de": "wahrscheinlich 953–975 · Spaten und Tragen im späteren Zugang",
+        "en": "probably 953–975 · Spades and stretchers in the later passage"
+      },
+      "summary": {
+        "de": "Werkzeuge datieren den Eingriff am wahrscheinlichsten zwischen 953 und 975. Menschliche Knochen und Teile der Grabausstattung lagen im nachträglich angelegten Gang. Der Anlass bleibt umstritten.",
+        "en": "Tools place the reopening most probably between 953 and 975. Human bones and parts of the grave furnishings lay in the later access passage. The motive is debated."
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.453,
+          "latitude": 59.309,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 953,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 975,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "excavation",
+      "textAnchor": "excavation",
+      "labels": {
+        "de": "1904 · Die Ausgrabung auf Oskar Roms Hof",
+        "en": "1904 · Excavation on Oskar Rom’s farm"
+      },
+      "summary": {
+        "de": "Gustafsons Mannschaft legte das Schiff und die beschädigte Kammer frei. Messzeichnungen und Olaf Værings Aufnahmen halten die Arbeit von 1904 fest.",
+        "en": "Gustafson’s team exposed the ship and the damaged chamber. Measured drawings and Olaf Væring’s photographs document the excavation of 1904."
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.453,
+          "latitude": 59.309,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1904,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1904,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:oseberg-excavation-crew-1904"
+    },
+    {
+      "id": "aquariums",
+      "textAnchor": "aquariums",
+      "labels": {
+        "de": "1912 · Tierkopfpfosten in zwei Aquarien",
+        "en": "1912 · Animal-head posts in two aquariums"
+      },
+      "summary": {
+        "de": "Gustafson ließ zwei Aquarien für den Osebergsaal des Historischen Museums anfertigen. Darin konnten geschnitzte Tierköpfe unter Wasser gezeigt werden, während ein Verfahren zur Trocknung gesucht wurde.",
+        "en": "Gustafson commissioned two aquariums for the Oseberg gallery in the Historical Museum. They allowed carved animal heads to be shown underwater while the search for a drying treatment continued."
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.7357,
+          "latitude": 59.9168,
+          "metersPerPixel": 430,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1912,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1912,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Die Hölzer von Rumpf und Kammer haben ein unterschiedliches Alter. Seidenstreifen, ein im Hügel zurückgelassener Spaten und Aufnahmen von 1904 erzählen, was aus dem Grab zweier Frauen wurde.",
+      "en": "Hull and chamber have timbers of different ages. Strips of silk, a spade left in the mound and photographs from 1904 trace what happened to the burial of two women."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "material-evidence",
+        "labels": {
+          "de": "Materielle Zeugnisse",
+          "en": "Material evidence"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "scandinavia",
+        "labels": {
+          "de": "Skandinavien",
+          "en": "Scandinavia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 8.0096,
+      "latitude": 59.6129,
+      "metersPerPixel": 959,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 779,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 779,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1912,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1912,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

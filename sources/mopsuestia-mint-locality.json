@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mopsuestia-mint-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tabula Peutingeriana, Mompsistea (Mopsuestia)",
+  "url": "https://www1.ku.de/ggf/ag/tabula_peutingeriana/trefferanzeige_en.php?id=1443",
+  "sourceType": "dataset",
+  "language": "de",
+  "creators": [
+    "Katholische Universität Eichstätt-Ingolstadt, Tabula Peutingeriana database"
+  ],
+  "accessedAt": "2026-11-27"
+}

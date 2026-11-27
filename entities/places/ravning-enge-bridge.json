@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:ravning-enge-bridge",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ravning-museum-construction",
+      "role": "supports",
+      "locator": "“Danmarks længste bro i tusind år” and “En imponerende konstruktion”. Measurements and construction, wood joints, variable post lengths, suggested traffic, local attribution to Harald and conventional date c. 980."
+    },
+    {
+      "sourceId": "source:ravning-christensen-age",
+      "role": "supports",
+      "locator": "KUML 52, figs 1 and 3; Danish discussion on pp. 216 and 220–221 and the English conclusion pp. 224–225. The last identified ring yields autumn 979 as a lower limit. Missing bark and revised sapwood statistics give a felling range of roughly 980–1010."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Brückenstelle bei Ravning Enge",
+    "en": "Ravning Enge bridge site"
+  }
+}

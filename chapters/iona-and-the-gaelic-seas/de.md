@@ -22,6 +22,8 @@ An der irischen Ostküste bewahren zwei Ortsnamen verschiedene Blicke auf das he
 
 Ein anderer Werkstoff führt aus der Stadt hinaus. Im Mai oder Juni 1042 wurde in Irland eine Eiche gefällt, aus der man das Kielschwein eines Langschiffs arbeitete, einen Balken, der den Mast im Schiffsrumpf stützte. Archäologen konnten den noch unvollständigen letzten Jahrring bestimmen. Sie verorten den Bau in Ostirland, wahrscheinlich im Raum Dublin. Der Name der Werft ist unbekannt. Wie das Schiff nach jahrzehntelangem Gebrauch wieder auftauchte, kannst du an derselben Station [von der dänischen Fundseite aus lesen](chapter:viking-ships-and-settlements#dublin).
 
+Wie die Stadt mit menschlicher Gefangenschaft verbunden war, zeigt der [Annalenbericht über die Ankunft der Verschleppten im Jahr 871](chapter:dublin-on-the-liffey#captives).
+
 ## Was Éte von ihrem Land geben konnte {#deer}
 
 In Buchan im Nordosten Schottlands passt ein ganzes Archiv in die Hand. Das **Book of Deer** misst rund fünfzehn mal elf Zentimeter. Die lateinischen Evangelientexte darin wurden wahrscheinlich in der ersten Hälfte des zehnten Jahrhunderts geschrieben. Später trug jemand auf verfügbaren Seiten in Gälisch ein, welche Rechte dem örtlichen Kloster zustanden. Zu den Einträgen gehört eine Erzählung, in der Columba und Drostan die Gemeinschaft gründen. Sie zeigt, auf welche Namen sich das Kloster im zwölften Jahrhundert berief.

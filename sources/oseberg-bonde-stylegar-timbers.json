@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-bonde-stylegar-timbers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Between Sutton Hoo and Oseberg – dendrochronology and the origins of the ship burial tradition",
+  "url": "https://tidsskrift.dk/dja/article/download/124843/171672",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Niels Bonde",
+    "Frans-Arne Stylegar"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2016"
+}

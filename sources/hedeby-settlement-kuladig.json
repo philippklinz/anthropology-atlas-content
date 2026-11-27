@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hedeby-settlement-kuladig",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Siedlung Haithabu",
+  "url": "https://www.kuladig.de/Objektansicht/KLD-271240",
+  "sourceType": "catalog",
+  "language": "de",
+  "creators": [
+    "Christian Weltecke, Archäologisches Landesamt Schleswig-Holstein"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hedeby-harbour-excavation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Der Hafen von Haithabu",
+  "url": "https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/macau_derivate_00004519/Der_Hafen_von_Haithabu.pdf",
+  "sourceType": "book",
+  "language": "de",
+  "creators": [
+    "Sven Kalmring"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2010"
+}

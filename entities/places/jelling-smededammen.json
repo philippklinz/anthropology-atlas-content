@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:jelling-smededammen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-boundary-palisade",
+      "role": "supports",
+      "locator": "“The palisade”, “The timber buildings” and “The rune-stones and burial mounds”, pp. 6–7. Area of 12.7 ha, oak planks and paired round posts, trench depth 1–1.2 m, traces of three buildings, southeastern wetland wood and estimate 958–985, probably around 968."
+    },
+    {
+      "sourceId": "source:jelling-palisade-smededammen",
+      "role": "supports",
+      "locator": "16 August 2013, paragraphs on the sampling by Niels Bonde and the Smededammen excavation. Eleven of twelve samples dated; one preserved wood immediately inside the bark. The 1.4 km circuit and most probable date around 968."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Smededammen in Jelling",
+    "en": "Smededammen pond at Jelling"
+  }
+}

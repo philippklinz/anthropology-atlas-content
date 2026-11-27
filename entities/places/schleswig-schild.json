@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:schleswig-schild",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:schleswig-house-and-plots",
+      "role": "supports",
+      "locator": "Mitteilungen der DGAMN 27, pp. 25–29, esp. p. 28, figs. 1–2. Schild house erected in 1071 above nearly one metre of deposits. At Plessenstraße 83/3, separate excavation of plots with wattle fences and successive renewals at the waterfront."
+    },
+    {
+      "sourceId": "source:schleswig-schild-excavation-map",
+      "role": "supports",
+      "locator": "Figure 2 locates Schild (no. 5) in Schleswig old town, alongside the site at Plessenstraße 83/3 (no. 1) and the medieval waterfront. A rounded point on the old town peninsula provides orientation."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Schleswiger Altstadt, Grabungsgebiet Schild",
+    "en": "Schleswig old town, Schild excavation area"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:ribe-marketplace",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ribe-market-and-coins",
+      "role": "supports",
+      "locator": "In The Fortified Viking Age, pp. 78–80, fig. 5 and tables 1–2. Riverbank lane before 720, plots 6–8 m wide, Rhineland barrels reused in wells, sequence of individual coin finds and the predominance of Series X from about 725."
+    },
+    {
+      "sourceId": "source:ribe-settlement-permanency",
+      "role": "supports",
+      "locator": "European Journal of Archaeology 18, pp. 497–523. The reassessment of the 1985–86 excavations at Sct Nicolajgade 8 uses domestic activity and building remains to propose early permanent occupation on part of the market site."
+    },
+    {
+      "sourceId": "source:ribe-glass-workshops",
+      "role": "supports",
+      "locator": "Archaeological and Anthropological Sciences 14, article 180. Site and materials, table 1 and figs. 1b, 7–8. ASR 9 Post Office site (55°19′44.7″N, 8°46′08.7″E). Early workshop c. 700–720, later workshop c. 760–790. White from bubbles in remelted gold-leaf backing glass and evidence for adding colourants on site."
+    },
+    {
+      "sourceId": "source:ribe-segmented-bead-finds",
+      "role": "supports",
+      "locator": "Section “Segmented metal foil beads”, pp. 161 and 165 and fig. 5a–c (e.g. ASR9x113 59). Manufacture, silver foil, amber-brown and colourless outer glass, joined segments and the visible structure of broken specimens. Opening section on the continued small-scale production in the ninth century."
+    },
+    {
+      "sourceId": "source:ribe-trade-radiocarbon",
+      "role": "supports",
+      "locator": "Nature 601, pp. 392–396, abstract and DOI 10.1038/s41586-021-04240-5. Single-year radiocarbon calibration placed the expansion of long-distance trade at Ribe around AD 790 ± 10."
+    },
+    {
+      "sourceId": "source:ribe-floor-radiocarbon",
+      "role": "supports",
+      "locator": "Annual Report 2022, “Solar Event Sheds Light on Trade” immediately before “Farming the Desert”. The excavation team describes the AD 775 signal in a floor layer, 140 radiocarbon dates, and numerous imported beads at AD 790 ± 10. The photograph identifies segmented beads."
+    },
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Kuitems et al., Nature 601, pp. 388–391, fig. 2. Three cut timbers from L’Anse aux Meadows retain bark edges. The AD 993 radiocarbon event and annual rings establish felling in AD 1021."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Frühmittelalterlicher Markt von Ribe",
+    "en": "Early medieval marketplace at Ribe"
+  }
+}

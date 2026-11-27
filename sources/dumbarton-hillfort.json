@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dumbarton-hillfort",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Atlas of Hillforts of Britain and Ireland, SC1365 Dumbarton Castle",
+  "url": "https://hillforts.arch.ox.ac.uk/records/SC1365.html",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "Gary Lock and Ian Ralston, Universities of Oxford and Edinburgh"
+  ],
+  "accessedAt": "2026-11-27"
+}

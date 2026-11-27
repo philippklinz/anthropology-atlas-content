@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:dublin-faeremin-penny-hesh-e20370",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-faeremin-penny",
+      "role": "supports",
+      "locator": "PAS FindID 147193, HESH-E20370, image 203021. The PAS description, photograph and scale identify the Long Cross type modelled on Æthelred II, moneyer Faeremin, Dublin mint and Shropshire findspot. Record date field 1000–1010; image description, author and CC BY-SA 4.0 credit on the file page."
+    },
+    {
+      "sourceId": "source:dublin-coinage-blackburn",
+      "role": "supports",
+      "locator": "British Numismatic Journal 78, p. 116 table 1 and pp. 122–124. First Irish issues in the 990s and their English prototypes; p. 124 and notes 65–68 distinguish English dies used in Dublin and Hiberno-Scandinavian-style dies at York."
+    },
+    {
+      "sourceId": "source:dublin-mint-nmi",
+      "role": "supports",
+      "locator": "“Viking coinage” and preceding paragraph. The museum puts the earliest Dublin pennies under Sihtric at around 997 or 998; English and other coins were circulating earlier."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "The rulers of Dublin and mid-tenth-century York, chronology; Mark Blackburn’s chapter on the coinage, pp. 335–336, fig. 82.2, raven issue of Óláfr/Amlaíb Guthfrithsson in 939–941."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Dubliner Silberpenny HESH-E20370",
+    "en": "Dublin silver penny HESH-E20370"
+  }
+}

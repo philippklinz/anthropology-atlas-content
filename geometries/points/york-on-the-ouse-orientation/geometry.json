@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:york-on-the-ouse-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-chronicle-ninth",
+      "role": "supports",
+      "locator": "Annal for 867. The entry names the rival kings, describes fighting inside and outside York and reports the final peace."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    },
+    {
+      "sourceId": "source:york-city-geonames",
+      "role": "derivation",
+      "locator": "GeoNames 2633352, York city reference coordinates (53.95763, −1.08271). City-scale marker for historical events whose exact street is unknown."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Rounded to a schematic city point. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.geonames.org/2633352/york.html",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:york-walton-coppergate-textiles",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Textiles, Cordage and Raw Fibre from 16–22 Coppergate",
+  "url": "https://www.collections.yorkarchaeologicaltrust.co.uk/files/original/74494/GB2837-PUB-AY-17-05_Textiles-Cordage-and-Raw-fibre-from-16-22-Coppergate_Penelope-Walton.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Penelope Walton, York Archaeological Trust"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1989"
+}

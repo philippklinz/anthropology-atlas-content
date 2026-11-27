@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-greenland-field",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Farm Beneath the Sand – an archaeological case study on ancient dirt DNA",
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/farm-beneath-the-sand-an-archaeological-case-study-on-ancient-dirt-dna/48F8BC26C4669808CD23E48E9726D0DA",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Martin B. Hebsgaard and colleagues"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2009"
+}

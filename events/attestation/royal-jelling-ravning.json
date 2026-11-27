@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:royal-jelling-ravning",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ravning-museum-construction",
+      "role": "supports",
+      "locator": "“Danmarks længste bro i tusind år” and “En imponerende konstruktion”. Measurements and construction, wood joints, variable post lengths, suggested traffic, local attribution to Harald and conventional date c. 980."
+    },
+    {
+      "sourceId": "source:ravning-christensen-age",
+      "role": "supports",
+      "locator": "KUML 52, figs 1 and 3; Danish discussion on pp. 216 and 220–221 and the English conclusion pp. 224–225. The last identified ring yields autumn 979 as a lower limit. Missing bark and revised sapwood statistics give a felling range of roughly 980–1010."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Holzbrücke über die Talwiesen",
+    "en": "A timber bridge across the valley"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 980,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1010,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:ravning-bridge-posts",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:ravning-enge-bridge"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ravning-enge-bridge-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Pfosten markieren eine etwa 760 Meter lange Brücke. Der jüngste gemessene Ring stammt von 979. Ohne erhaltene Rinde bleibt der Fällzeitpunkt ungefähr auf 980 bis 1010 eingegrenzt.",
+      "en": "Timber posts mark a bridge roughly 760 metres long. The latest ring measured dates to 979. With bark missing, felling can be placed only broadly around 980–1010."
+    }
+  }
+}

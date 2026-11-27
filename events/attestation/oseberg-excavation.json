@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:oseberg-excavation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-vaering-excavation-crew",
+      "role": "supports",
+      "locator": "Historic excavation photograph CfO0176, C55000/1, 1904. Norwegian caption identifies foreman Aksel Stubstad, engineers Glende and Beck, and preparator Paul Johannesen. File record credits Olaf Væring and documents CC BY-SA 4.0."
+    },
+    {
+      "sourceId": "source:oseberg-grave-chamber-jensenius",
+      "role": "supports",
+      "locator": "Collegium Medievale 29, pp. 84–87, “Oseberggravningen”; fig. 2 and pp. 84–85 on five bark-edge samples, the two posts and ridge, the pressure-deformed chamber, and drawings by Glende and Beck."
+    },
+    {
+      "sourceId": "source:oseberg-discovery-gustafson",
+      "role": "supports",
+      "locator": "Opening account of Oskar Rom’s visit to Gustafson in August 1903; “An archaeological adventure” and “Important events” for the main excavation in June 1904."
+    },
+    {
+      "sourceId": "source:oseberg-fragments-and-silk",
+      "role": "supports",
+      "locator": "“What do the motifs on the Oseberg tapestry signify?”, “Exotic goods from Persia and Byzantium” and “The colours that disappeared”; clothing strips, the reversed silk, tools and Sofie Krafft’s 41 drawings of 110 silk pieces."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Ausgrabung auf Oskar Roms Hof",
+    "en": "Excavation on Oskar Rom’s farm"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1904,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1904,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:oseberg-ship",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:gabriel-gustafson",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:paul-johannesen",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:olaf-vaering",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:oseberg-burial-mound"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:oseberg-burial-mound-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Gustafsons Mannschaft legte das Schiff und die beschädigte Kammer frei. Messzeichnungen und Olaf Værings Aufnahmen halten die Arbeit von 1904 fest.",
+      "en": "Gustafson’s team exposed the ship and the damaged chamber. Measured drawings and Olaf Væring’s photographs document the excavation of 1904."
+    }
+  }
+}

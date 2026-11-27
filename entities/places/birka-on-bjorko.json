@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:birka-on-bjorko",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:birka-rimbert-ansgar",
+      "role": "supports",
+      "locator": "Chapters X–XI. Witmar as a witness, loss of the books en route, permission to preach, captive Christians, Herigar and his church. The narrative is used for the visit. Modern site identification follows the Swedish History Museum."
+    },
+    {
+      "sourceId": "source:birka-museum-rimbert",
+      "role": "supports",
+      "locator": "Opening paragraphs. Rimbert wrote about 865–875. The museum dates Ansgar and Witmar’s first journey to 830 and distinguishes it from Ansgar’s later visit."
+    },
+    {
+      "sourceId": "source:birka-malaren-land-uplift",
+      "role": "supports",
+      "locator": "Handelsplatsen Birka. Björkö stood at a Baltic inlet at the time of the trading settlement. The present lake resulted from land uplift. Also explains the deposits called Svarta jorden."
+    },
+    {
+      "sourceId": "source:birka-world-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 555-001, Birka on Björkö (not 555-002, Hovgården). A rounded site point is shared by the harbour, burial and hoard stations."
+    },
+    {
+      "sourceId": "source:birka-ring-shm",
+      "role": "supports",
+      "locator": "Object 106842_HST, accession 34000, Bj 515. Find context, excavator, 1877, silver and glass. The 2021 exhibition label gives the proposed reading of the Arabic inscription."
+    },
+    {
+      "sourceId": "source:birka-warmlander-ring",
+      "role": "supports",
+      "locator": "Scanning 37, pp. 131–137. Materials, p. 132 and supplementary fig. S1, for burial layout, oval brooches, clothes, position and approximate date. Results and figs. 1–3 for filing marks and composition. Discussion accompanying fig. 4 for the favoured dedication and the conditional reading “God willing” if a missing stroke is supplied."
+    },
+    {
+      "sourceId": "source:birka-ring-dig-56338",
+      "role": "supports",
+      "locator": "Media ID ba934209-835b-4b3c-ab7a-73126a4375a9, direct association with object 106842_HST, named photographer and CC BY 4.0 licence."
+    },
+    {
+      "sourceId": "source:birka-uppland-sml-16b",
+      "role": "supports",
+      "locator": "Adelsö, no. 16B, SHM/KMK 5208:3. Wärner found the dish on 18 September 1872. Quotes Stolpe’s excavation notes with depth and counts of whole and broken coins. Lists al-Masisah, 963–967, and a second broadly dated late issue."
+    },
+    {
+      "sourceId": "source:birka-museum-black-earth-hoards",
+      "role": "supports",
+      "locator": "Opening description of the 1872 iron dish and uncertainty of its precise findspot. Paragraph on the larger 1991 find with seven weights. Sections on coin pendants and the two wave lines under the ship on the Hedeby coin from grave Bj 526."
+    },
+    {
+      "sourceId": "source:birka-stolpe-report-1872",
+      "role": "supports",
+      "locator": "Report on the silver hoard, especially the inventory and discussion of Tornberg’s readings. Compares the readings 963 and 967 and distinguishes minting from the unknown date of burial."
+    },
+    {
+      "sourceId": "source:birka-androshchuk-coin-hoards",
+      "role": "supports",
+      "locator": "Transactions 23, p. 60, description of the 1872 Birka hoard and the al-Maṣṣīṣa issue dated 963/64 by the author. Also the Volga Bulgar attributions. Pages 73–75 discuss the Byzantine frontier, the capture of al-Maṣṣīṣa in 965, service and payment as possible contexts."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Birka auf Björkö",
+    "en": "Birka on Björkö"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:middle-volga-in-the-land-of-the-volga-bulgars",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:volga-ibn-fadlan-yaqut",
+      "role": "supports",
+      "locator": "Section Rūs, paragraphs 74–78 and pp. 27–29. Merchants at the Itil, houses on the bank, enslaved women, sable pelts, offerings and hoped-for buyer. The translation indicates where Yāqūt’s quotations parallel the Mashhad recension."
+    },
+    {
+      "sourceId": "source:volga-ibn-fadlan-dating",
+      "role": "supports",
+      "locator": "The Journey of Ibn Fadlan, 921–922, map. Pages 25–26, The reading of the caliph’s letter, for the embassy’s arrival in May 922. The market on the Volga, p. 40."
+    },
+    {
+      "sourceId": "source:volga-rusiyyah-montgomery",
+      "role": "supports",
+      "locator": "Introduction and annotated translation of the Rūsiyyah passage. The identification of the group seen by the envoy allows more than one interpretation."
+    },
+    {
+      "sourceId": "source:bolgar-world-heritage-map",
+      "role": "supports",
+      "locator": "Component 981-001, N54°58′44″ E49°03′23″. A regional point on the middle Volga. The archaeological site gives geographic orientation only."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Mittlere Wolga im Gebiet der Wolgabulgaren",
+    "en": "Middle Volga in the land of the Volga Bulgars"
+  }
+}

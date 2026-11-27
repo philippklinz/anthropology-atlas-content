@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-city-defences",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dublin City Walls and Defences Conservation Plan",
+  "url": "https://www.dublincity.ie/sites/default/files/media/file-uploads/2018-05/Dublin_City_Walls_Defences_Conservation_Plan.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Dublin City Council"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-historical-museum-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Historical Museum",
+  "url": "https://www.uio.no/english/about/getting-around/areas/city-centre/se06/",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "University of Oslo"
+  ],
+  "accessedAt": "2026-11-27"
+}

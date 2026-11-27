@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:viking-york-raven-penny",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-cambridge-raven-penny",
+      "role": "supports",
+      "locator": "EMC 1065.0059, obverse and reverse. Entries for ruler, York mint, Raven / Small Cross type, moneyer Æthelferth, spelling on this specimen and weight of 1.17 g."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Der Rabenpenny des Münzers Æthelferth",
+    "en": "Æthelferth’s Raven penny"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 939,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 941,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:amlaib-mac-gofraid",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:aethelferth-york-moneyer",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:york-emc-1065-0059",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:york-on-the-ouse"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:york-on-the-ouse-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Unter Amlaíb mac Gofraid begann in York die Prägung der Rabenpennys. Einzelne Stücke könnten noch unter seinem Nachfolger entstanden sein. Die Karte zeigt die Münzstadt.",
+      "en": "York began issuing Raven pennies under Amlaíb mac Gofraid. Some specimens may belong to his successor. The map identifies the mint town."
+    }
+  }
+}

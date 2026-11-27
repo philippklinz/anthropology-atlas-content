@@ -26,6 +26,8 @@ How does a baker enter the chapter about the Franks? An assembly at Frankfurt in
 
 Near Roskilde, archaeologists recovered the remains of several ships. The long vessel known as Skuldelev 2 contained timber whose tree rings closely match sequences from Irish oaks. One piece even retains the outer ring that was still growing when the oak was cut. That makes 1042 a felling date. The yard where the shipwrights launched the vessel is harder to locate. The [Irish chapter](chapter:iona-and-the-gaelic-seas#dublin) considers sites around Dublin. In the [Viking chapter](chapter:viking-ships-and-settlements#dublin), the same timber leads back to its eventual discovery in the fjord.
 
+The ship is also a starting point for [the lives of people in the Viking Age](chapter:reading-the-viking-age#shipwrights).
+
 ## The cargo of a sunken ship {#sinan}
 
 A trading vessel on passage in 1323 sank off the Korean coast. Finds from the wreck near Sinan supply information unlikely to have survived in a royal decree. Wooden tags carry dates or clues to the people for whom goods were intended. The [Chinese port of Qingyuan](chapter:cities-and-records-in-medieval-china#qingyuan) was the likely point of departure, [Sinan](chapter:goryeo-and-its-workshops#sinan) the findspot. The name of a [temple community in Japan](chapter:court-and-coast-in-medieval-japan#tofukuji) leads to people expecting part of the cargo. It never reached them. The interrupted voyage gives us a way into three chapters.

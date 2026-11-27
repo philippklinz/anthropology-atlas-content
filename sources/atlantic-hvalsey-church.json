@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-hvalsey-church",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Qaqortukulooq kirkeruin",
+  "url": "https://lex.dk/Qaqortukulooq_kirkeruin",
+  "sourceType": "article",
+  "language": "da",
+  "creators": [
+    "Jette Arneborg, Nationalmuseet"
+  ],
+  "accessedAt": "2026-11-27"
+}

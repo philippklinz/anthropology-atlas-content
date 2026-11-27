@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:hedeby-settlement",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hedeby-antler-combs",
+      "role": "supports",
+      "locator": "Antiquity 97, pp. 1233–1248. Introduction, Classification and chronology, Results, Discussion and figs. 2–3. Type 5 sample of 49, 42 certain and 2 probable reindeer identifications. About 0.5% of identifiable workshop waste was reindeer. Trade in finished items and movement of personal possessions are both possibilities. Fig. 3 credits the photographs of four groups to Mariana Muñoz-Rodriguez."
+    },
+    {
+      "sourceId": "source:hedeby-settlement-kuladig",
+      "role": "supports",
+      "locator": "“Koordinate WGS84” gives 54.49104°N, 9.56623°E for the settlement. General orientation for the finds from different places plotted in Muñoz-Rodriguez et al., fig. 2."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Siedlung Haithabu",
+    "en": "Hedeby settlement"
+  }
+}

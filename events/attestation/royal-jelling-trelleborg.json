@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:royal-jelling-trelleborg",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:trelleborg-bonde-christensen",
+      "role": "supports",
+      "locator": "Aarbøger for Nordisk Oldkyndighed og Historie 1982 (issued 1984), pp. 111–152. Figure 8 and the English results and conclusion on pp. 145–147: four June/July felling estimates for timbers of the inner ditch barrier; D 701 from the outer bridge, August 980 to May 981; what these can date directly."
+    },
+    {
+      "sourceId": "source:trelleborg-houses-cemetery",
+      "role": "supports",
+      "locator": "Section “Trelleborg”, plan and text. Sixteen houses inside the rampart, cemetery with at least 157 men, women and children, and an alternative association with the village 200 metres away."
+    },
+    {
+      "sourceId": "source:trelleborg-icomos-ring-forts",
+      "role": "supports",
+      "locator": "Advisory-body evaluation, “Brief description” and statement of Outstanding Universal Value. Danish fortresses with broadly shared geometric layout and four gates, attribution during Harald’s reign and interpretive limits on their purpose."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Zwei Gräben derselben Baustelle",
+    "en": "Two ditches at one building site"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 980,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 981,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:trelleborg-ditch-timbers",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:trelleborg-slagelse"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:trelleborg-slagelse-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Hölzer aus der Sperre im inneren Graben und von der Brücke über den äußeren belegen Bauarbeiten 980/81. Der Punkt zeigt die Ringburg bei Slagelse auf Seeland.",
+      "en": "Timbers from the inner ditch barrier and the bridge over the outer ditch place construction in 980–981. The point marks the ring fortress near Slagelse, Zealand."
+    }
+  }
+}

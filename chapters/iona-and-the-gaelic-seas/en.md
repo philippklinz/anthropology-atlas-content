@@ -22,6 +22,8 @@ Two place names on the east coast of Ireland preserve different ways of seeing t
 
 Another material takes the story out of town. In May or June 1042 an oak was felled in Ireland. A shipbuilder made its timber into the keelson of a longship, the beam supporting the mast inside the hull. The outermost growth ring was still incomplete when the tree came down. The evidence points to construction in eastern Ireland, probably around Dublin. The yard is unknown. To see where the vessel turned up after decades of use, open [the same episode as read from the Danish finds](chapter:viking-ships-and-settlements#dublin).
 
+The [annal on the captives brought to Dublin in 871](chapter:dublin-on-the-liffey#captives) tells another part of the waterfront’s history.
+
 ## What Éte could give {#deer}
 
 In Buchan, in north-eastern Scotland, an archive fits into the palm of a hand. The **Book of Deer** measures about fifteen by eleven centimetres. Its Latin Gospel texts were probably copied in the first half of the tenth century. Later hands used available pages to record, in Gaelic, rights belonging to the local monastery. One addition tells how Columba and Drostan founded the community. It reveals whose names the monastery could invoke in the twelfth century.

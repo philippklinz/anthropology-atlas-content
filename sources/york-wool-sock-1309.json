@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:york-wool-sock-1309",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Wool Sock",
+  "url": "https://collections.yorkarchaeologicaltrust.co.uk/s/collections/item/124898",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "York Archaeological Trust"
+  ],
+  "accessedAt": "2026-11-27"
+}

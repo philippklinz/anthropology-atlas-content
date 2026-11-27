@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jelling-imer-dates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Danish runestones – when and where?",
+  "url": "https://tidsskrift.dk/dja/article/download/124929/171744",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Lisbeth M. Imer"
+  ],
+  "accessedAt": "2026-11-27"
+}

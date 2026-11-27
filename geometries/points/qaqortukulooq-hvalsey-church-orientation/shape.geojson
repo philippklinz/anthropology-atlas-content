@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:qaqortukulooq-hvalsey-church-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -45.7826,
+      60.8288
+    ]
+  }
+}

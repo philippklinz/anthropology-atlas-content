@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:oseberg-figured-textiles",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-grave-chamber-jensenius",
+      "role": "supports",
+      "locator": "Collegium Medievale 29, pp. 84–87, “Oseberggravningen”; fig. 2 and pp. 84–85 on five bark-edge samples, the two posts and ridge, the pressure-deformed chamber, and drawings by Glende and Beck."
+    },
+    {
+      "sourceId": "source:oseberg-fragments-and-silk",
+      "role": "supports",
+      "locator": "“What do the motifs on the Oseberg tapestry signify?”, “Exotic goods from Persia and Byzantium” and “The colours that disappeared”; clothing strips, the reversed silk, tools and Sofie Krafft’s 41 drawings of 110 silk pieces."
+    },
+    {
+      "sourceId": "source:oseberg-texrec-textile-project",
+      "role": "supports",
+      "locator": "Project introduction and research areas 1–3. Over 80 figured fragments, visible motifs, faded dyes and questions about how the original scenes fitted together."
+    },
+    {
+      "sourceId": "source:oseberg-sleighs",
+      "role": "supports",
+      "locator": "Opening account of the burial and the four sleighs, followed by “Carvings and ornamentation”. The museum distinguishes three richly carved sleighs and discusses their use before burial."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Bildgewebe aus dem Oseberggrab",
+    "en": "Figured textiles from the Oseberg burial"
+  }
+}

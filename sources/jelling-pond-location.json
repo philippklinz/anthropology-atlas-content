@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jelling-pond-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gadekær i Jelling",
+  "url": "https://samlinger.natmus.dk/do/asset/6476",
+  "sourceType": "catalog",
+  "language": "da",
+  "creators": [
+    "Nationalmuseet"
+  ],
+  "accessedAt": "2026-11-27"
+}

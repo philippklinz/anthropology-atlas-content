@@ -377,6 +377,20 @@
           "de": "Britische und irische Inseln",
           "en": "Britain and Ireland"
         }
+      },
+      {
+        "id": "scandinavia",
+        "labels": {
+          "de": "Skandinavien",
+          "en": "Scandinavia"
+        }
+      },
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
       }
     ]
   },

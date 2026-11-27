@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-greenland-farm-excavation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Udgravning, Gården under Sandet, Grønland. DMR-216754",
+  "url": "https://samlinger.natmus.dk/dmr/asset/216754",
+  "sourceType": "object",
+  "language": "da",
+  "creators": [
+    "Joel Berglund, Grønlands Nationalmuseum og Arkiv"
+  ],
+  "accessedAt": "2026-11-27"
+}

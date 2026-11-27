@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jelling-rune-investigations",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The rune stone investigations",
+  "url": "https://pure.kb.dk/en/publications/the-rune-stone-investigations/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Mads Dengsø Jessen",
+    "Anne Pedersen"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

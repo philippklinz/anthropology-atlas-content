@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:garden-under-sandet-western-settlement",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atlantic-greenland-field",
+      "role": "supports",
+      "locator": "Antiquity 83, pp. 430–444. Fig. 1 and site introduction describe alluvial cover. Sampling and Replication, especially p. 439, report cattle, sheep and goat DNA in open-field core samples dated AD 1215–1285 and 1305–1365. The station follows the latter sediment sample."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-fauna",
+      "role": "supports",
+      "locator": "Meddelelser om Grønland, Man & Society 28, abstract and farm economy synthesis. Three phases, dental ages of dairy cattle, change from harbour to harp seal, 166 fish bones found exclusively in sieved samples; char, cod and capelin. The assemblage is not a quantitative measure of the diet."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-farm-location",
+      "role": "supports",
+      "locator": "Site description pp. 46–47 and Figs. 11–12. Farm at 64°06′ N, 50°05′ W in the valley at the head of Ameralla fjord. Coordinate refers to the archaeological locality, not to the soil core."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-farm-excavation",
+      "role": "supports",
+      "locator": "Collection no. DMR-216754, filename 003_33868.tif. Field photograph taken during the six excavation seasons of 1992–1997. Photographer and CC BY-SA 4.0 are identified in the record. The farm is mapped from the excavation research."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-norse-farms",
+      "role": "supports",
+      "locator": "Introductory chronology, “Geographical areas of the Norse settlements and settlement pattern” and “Natural resources”. The written sources place one migration from Iceland to Southwest Greenland under Erik the Red around 985. The Western Settlement was in the Nuuk region; archaeological and radiocarbon evidence in the Eastern Settlement reaches at least the mid-fifteenth century."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Gården under Sandet, grönländische Westsiedlung",
+    "en": "Gården under Sandet, Greenland Western Settlement"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:york-cambridge-raven-penny",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Early Medieval Corpus of Coin Finds, EMC 1065.0059",
+  "url": "https://emc.fitzmuseum.cam.ac.uk/full-record/10650059",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Fitzwilliam Museum, University of Cambridge"
+  ],
+  "accessedAt": "2026-11-27"
+}

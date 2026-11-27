@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-discovery-gustafson",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Discovery of the World’s Most Famous Viking Ship",
+  "url": "https://www.vikingtidsmuseet.no/english/viking-age/viking-ships/the-discovery-of-the-worlds-most-famous-ship.html",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Museum of the Viking Age, University of Oslo"
+  ],
+  "accessedAt": "2026-11-27"
+}

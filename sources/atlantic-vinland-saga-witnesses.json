@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-vinland-saga-witnesses",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Verses in Eric the Red’s Saga and Again: Norse Visits to America",
+  "url": "https://vsnr.org/wp-content/uploads/2021/11/DC_Perkins.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Richard Perkins, Viking Society for Northern Research"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2011"
+}

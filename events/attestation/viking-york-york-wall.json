@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:viking-york-york-wall",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-chronicle-ninth",
+      "role": "supports",
+      "locator": "Annal for 867. The entry names the rival kings, describes fighting inside and outside York and reports the final peace."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die beiden Könige fallen in York",
+    "en": "Two Northumbrian kings die at York"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 867,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 867,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:osberht-of-northumbria",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:aelle-of-northumbria",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:york-on-the-ouse"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:york-on-the-ouse-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Osberht und Ælle fielen im März beim Kampf um York. Der Punkt bezeichnet die Stadt. Der Durchbruch lässt sich keinem bestimmten Tor zuweisen.",
+      "en": "Osberht and Ælle died in the fighting at York in March. The marker identifies the city. The account does not locate the breach at a particular gate."
+    }
+  }
+}

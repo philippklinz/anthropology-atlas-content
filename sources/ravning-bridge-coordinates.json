@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ravning-bridge-coordinates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ravning Bridge",
+  "url": "https://www.wikidata.org/wiki/Q996217",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "Wikidata contributors"
+  ],
+  "accessedAt": "2026-11-27"
+}

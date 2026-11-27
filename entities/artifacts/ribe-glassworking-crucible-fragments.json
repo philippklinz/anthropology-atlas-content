@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ribe-glassworking-crucible-fragments",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ribe-glass-workshops",
+      "role": "supports",
+      "locator": "Archaeological and Anthropological Sciences 14, article 180. Site and materials, table 1 and figs. 1b, 7–8. ASR 9 Post Office site (55°19′44.7″N, 8°46′08.7″E). Early workshop c. 700–720, later workshop c. 760–790. White from bubbles in remelted gold-leaf backing glass and evidence for adding colourants on site."
+    },
+    {
+      "sourceId": "source:ribe-segmented-bead-finds",
+      "role": "supports",
+      "locator": "Section “Segmented metal foil beads”, pp. 161 and 165 and fig. 5a–c (e.g. ASR9x113 59). Manufacture, silver foil, amber-brown and colourless outer glass, joined segments and the visible structure of broken specimens. Opening section on the continued small-scale production in the ninth century."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Bruchstücke von Glastiegeln aus Ribe",
+    "en": "Fragments of glassworking crucibles from Ribe"
+  }
+}

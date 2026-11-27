@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-adalstraeti-hall",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Aðalstræti – The Settlement Exhibition",
+  "url": "https://visitreykjavik.is/service/adalstraeti-settlement-exhibition",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "Visit Reykjavík"
+  ],
+  "accessedAt": "2026-11-27"
+}

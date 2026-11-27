@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-greenland-farm-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A Paleoethnobotanical Investigation of Gården Under Sandet, a Waterlogged Norse Farm Site, Western Settlement, Greenland",
+  "url": "https://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp04/mq22551.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Julie Megan Ross, University of Alberta"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1997"
+}

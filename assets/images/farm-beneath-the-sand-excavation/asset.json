@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:farm-beneath-the-sand-excavation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atlantic-greenland-farm-excavation",
+      "role": "supports",
+      "locator": "Collection no. DMR-216754, filename 003_33868.tif. Field photograph taken during the six excavation seasons of 1992–1997. Photographer and CC BY-SA 4.0 are identified in the record. The farm is mapped from the excavation research."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Ausgrabung am Hof unter dem Sand",
+    "en": "Excavation at the Farm Beneath the Sand"
+  },
+  "alt": {
+    "de": "Das Grabungsteam arbeitet am Rand der Flussebene in der grönländischen Westsiedlung. Joel Berglund nahm das Foto während einer der sechs Grabungskampagnen von 1992 bis 1997 auf.",
+    "en": "Excavators work at the edge of the floodplain in Greenland’s Western Settlement. Joel Berglund took this photograph during one of the six field seasons of 1992–1997."
+  },
+  "entityIds": [
+    "artifact:gus-farm-faunal-assemblage",
+    "place:garden-under-sandet-western-settlement"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Joel Berglund"
+    ],
+    "attribution": "Joel Berglund / Grønlands Nationalmuseum og Arkiv, DMR-216754, via Nationalmuseets Samlinger Online. CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://samlinger.natmus.dk/dmr/asset/216754",
+    "originNote": "Web edition of the original 1280 × 841 image. Resampled to 1280 × 841 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

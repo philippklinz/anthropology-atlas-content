@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:birka-uppland-sml-16b",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sveriges mynthistoria, landskapsinventeringen. Uppland, Adelsö. 16B Björkö",
+  "url": "https://sml.myntkabinettet.se/Uppland_SML4/Uppland%20Adels%C3%B6%20SML4.pdf",
+  "sourceType": "catalog",
+  "language": "sv",
+  "creators": [
+    "Sveriges mynthistoria, landskapsinventeringen, Kungliga Myntkabinettet"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-parks-bog-iron",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bog Iron Nail, L’Anse aux Meadows, Newfoundland",
+  "url": "https://www.parks.canada.ca/culture/patrimoine-conservation-heritage/artefacts-collection-artifacts",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Parks Canada"
+  ],
+  "accessedAt": "2026-11-27"
+}

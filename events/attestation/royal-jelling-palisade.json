@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:royal-jelling-palisade",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-boundary-palisade",
+      "role": "supports",
+      "locator": "“The palisade”, “The timber buildings” and “The rune-stones and burial mounds”, pp. 6–7. Area of 12.7 ha, oak planks and paired round posts, trench depth 1–1.2 m, traces of three buildings, southeastern wetland wood and estimate 958–985, probably around 968."
+    },
+    {
+      "sourceId": "source:jelling-palisade-smededammen",
+      "role": "supports",
+      "locator": "16 August 2013, paragraphs on the sampling by Niels Bonde and the Smededammen excavation. Eleven of twelve samples dated; one preserved wood immediately inside the bark. The 1.4 km circuit and most probable date around 968."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eichenplanken am Smededammen",
+    "en": "Oak planks at Smededammen"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 958,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 985,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:jelling-palisade-timbers",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:jelling-smededammen"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:jelling-smededammen-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Von zwölf Proben aus der Palisade ließen sich elf datieren. Die Spanne für das Fällen reicht von 958 bis 985, am wahrscheinlichsten ist 968. Der Punkt zeigt den Bereich des heutigen Teichs.",
+      "en": "Eleven of twelve samples from the palisade could be dated. Felling falls between 958 and 985, most probably around 968. The point marks the area of the present pond."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:birka-bj-515-finger-ring",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:birka-ring-dig-56338",
+      "role": "supports",
+      "locator": "Media ID ba934209-835b-4b3c-ab7a-73126a4375a9, direct association with object 106842_HST, named photographer and CC BY 4.0 licence."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Der Ring aus Grab Bj 515 in Birka",
+    "en": "The ring from grave Bj 515 at Birka"
+  },
+  "alt": {
+    "de": "Eine silberne Ringschiene fasst violettes Glas. In seiner gewölbten Oberfläche sind arabische Buchstaben eingeschnitten. Die Skala links unten gibt ungefähr einen Zentimeter an.",
+    "en": "A silver band holds a violet glass setting. Arabic letters are cut into its curved surface. The scale at lower left indicates approximately one centimetre."
+  },
+  "entityIds": [
+    "artifact:birka-bj-515-finger-ring"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Ola Myrin, Historiska museet/SHM"
+    ],
+    "attribution": "Ola Myrin, Historiska museet/SHM, 2020, DIG 56338. CC BY 4.0. Museum image converted to JPEG for the atlas. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://samlingar.shm.se/media/ba934209-835b-4b3c-ab7a-73126a4375a9",
+    "originNote": "Web edition of the original 1024 × 820 image. Resampled to 1024 × 820 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by/4.0/"
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:dublin-on-the-liffey",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-ulster-irish",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, especially the twice-occurring longport and the phrase for the continuing presence at Duiblinn. Printed Irish text p. 300."
+    },
+    {
+      "sourceId": "source:dublin-ulster-translation",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, two camps and continued presence; U870.6, four months at Ail Cluaithe; U871.2, Áth Cliath, the leaders, 200 ships and the three groups brought back as captives; U902.2 and U917.4, the defenders driven out and Sitriuc’s entry. U980.1 and U983.2, the battle of Tara and later coalitions."
+    },
+    {
+      "sourceId": "source:dublin-tigernach-hostages",
+      "role": "supports",
+      "locator": "T979.2, capture of Domnall Claen; T980.3–4, Tara and the subsequent siege, agreed terms, named hostage, three days and nights, and the biblical simile (folio 15a2, printed pp. 341–342). T983.1 gives the later opposing coalitions."
+    },
+    {
+      "sourceId": "source:dublin-waters",
+      "role": "supports",
+      "locator": "Section 2.1.3, “Viking and Norman Dublin”, printed p. 9, on the Liffey crossing and the pool of the Poddle. The existing point represents the Dublin area rather than a shipyard, landing or mint building."
+    },
+    {
+      "sourceId": "source:dublin-black-pool-site",
+      "role": "supports",
+      "locator": "“Dublin Your Knowledge”, pp. 86–88, map of the sites by the former black pool, proposed longphort on its south bank and explicit discussion of the debated location."
+    },
+    {
+      "sourceId": "source:dublin-city-defences",
+      "role": "supports",
+      "locator": "Section 2.1.1–2.1.2, printed pp. 3–4. The two placenames, proposed camp by the pool, events of 902 and 917 and changing focus around the Liffey shore at Fishamble Street and Wood Quay."
+    },
+    {
+      "sourceId": "source:dumbarton-hillfort",
+      "role": "supports",
+      "locator": "SC1365, “Summary” and “Location”; twin summits, 1974–75 excavation, fifth trench on the eastern side, bedding trench, vitrified stone and three radiocarbon determinations in the sixth to ninth centuries. Site coordinates WGS84, 55.936756 N, 4.563298 W."
+    },
+    {
+      "sourceId": "source:dublin-dumbarton-rock",
+      "role": "supports",
+      "locator": "“Under siege”, identification of the 870 siege of the Rock, the Dublin leaders Olaf and Ivar, and forced removals following the four-month siege."
+    },
+    {
+      "sourceId": "source:dublin-early-medieval-slavery",
+      "role": "supports",
+      "locator": "EMAP Report 7.1, printed pp. 53–55, discussion of captive-taking, trade in enslaved people at Dublin, possibilities of domestic enslavement or onward sale, and the limits of the evidence for different destinations."
+    },
+    {
+      "sourceId": "source:dublin-fishamble-reilly",
+      "role": "supports",
+      "locator": "Chapter 2, pp. 7–13, property boundaries, plot and house layouts, fifteen building levels; chapter 4, p. 38, Level 4, FS 20 (Plot 2, amber) and FS 18 (Plot 5, writing tablet, carved head, coin of Eadred); p. 82 for Level 4 as mid-tenth century. Fig. 9, p. 36, grid on Plot 3, used to orient the Fishamble Street excavation area."
+    },
+    {
+      "sourceId": "source:dublin-fishamble-amber",
+      "role": "supports",
+      "locator": "Excavations 1976:047, habitation area inside the banks, amber fragments and unfinished beads and pendants. These finds illustrate working at Fishamble Street more generally."
+    },
+    {
+      "sourceId": "source:dublin-finds",
+      "role": "supports",
+      "locator": "Collection overview, paragraphs on wooden pathways and property boundaries, reused ship timbers in dock walls, drains and paths; the Fishamble Street amber worker’s floor with several hundred flakes and splinters."
+    },
+    {
+      "sourceId": "source:dublin-coinage-blackburn",
+      "role": "supports",
+      "locator": "British Numismatic Journal 78, p. 116 table 1 and pp. 122–124. First Irish issues in the 990s and their English prototypes; p. 124 and notes 65–68 distinguish English dies used in Dublin and Hiberno-Scandinavian-style dies at York."
+    },
+    {
+      "sourceId": "source:dublin-mint-nmi",
+      "role": "supports",
+      "locator": "“Viking coinage” and preceding paragraph. The museum puts the earliest Dublin pennies under Sihtric at around 997 or 998; English and other coins were circulating earlier."
+    },
+    {
+      "sourceId": "source:dublin-faeremin-penny",
+      "role": "supports",
+      "locator": "PAS FindID 147193, HESH-E20370, image 203021. The PAS description, photograph and scale identify the Long Cross type modelled on Æthelred II, moneyer Faeremin, Dublin mint and Shropshire findspot. Record date field 1000–1010; image description, author and CC BY-SA 4.0 credit on the file page."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "The rulers of Dublin and mid-tenth-century York, chronology; Mark Blackburn’s chapter on the coinage, pp. 335–336, fig. 82.2, raven issue of Óláfr/Amlaíb Guthfrithsson in 939–941."
+    },
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Printed pp. 183–186, keelson sample D2-4 and its final spring ring; pp. 187–189, “Parallels in Irish and English ship-finds”, esp. fig. 55 (Fishamble Street stems T357/T364 and corresponding elements of Skuldelev 2) and text on parallels in Danish-built vessels."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "Opening account, dating the build to around 1042 in the vicinity of Dublin through the oak tree rings."
+    }
+  ],
+  "labels": {
+    "de": "Dublin an der Irischen See",
+    "en": "Dublin on the Irish Sea"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:liffey-longphort",
+    "event:liffey-dumbarton",
+    "event:liffey-captives",
+    "event:liffey-fishamble",
+    "event:liffey-hostages",
+    "event:liffey-mint",
+    "event:skuldelev-two-construction",
+    "asset:dublin-faeremin-penny-hesh-e20370",
+    "asset:skuldelev-two-original-timbers"
+  ],
+  "recordIds": [
+    "artifact:dublin-faeremin-penny-hesh-e20370",
+    "artifact:fishamble-plot-five-writing-tablet",
+    "artifact:fishamble-street-amber-working-debris",
+    "artifact:skuldelev-two-longship",
+    "asset:dublin-faeremin-penny-hesh-e20370",
+    "asset:skuldelev-two-original-timbers",
+    "community:captives-brought-to-dublin-in-871",
+    "community:people-of-the-duiblinn-camp-in-841",
+    "event:liffey-captives",
+    "event:liffey-dumbarton",
+    "event:liffey-fishamble",
+    "event:liffey-hostages",
+    "event:liffey-longphort",
+    "event:liffey-mint",
+    "event:skuldelev-two-construction",
+    "geometry:dumbarton-rock-orientation",
+    "geometry:fishamble-street-dublin-orientation",
+    "geometry:medieval-dublin-orientation",
+    "person:amlaib-of-dublin-ninth-century",
+    "person:domnall-claen-of-leinster",
+    "person:eochaid-mac-ardgail",
+    "person:faeremin-moneyer-of-dublin",
+    "person:imar-of-dublin-ninth-century",
+    "person:mael-sechnaill-mac-domnaill",
+    "person:sihtric-silkbeard-of-dublin",
+    "place:dumbarton-rock",
+    "place:fishamble-street-dublin",
+    "place:medieval-dublin",
+    "source:casiopeia-skuldelev-two-photo",
+    "source:dublin-black-pool-site",
+    "source:dublin-city-defences",
+    "source:dublin-coinage-blackburn",
+    "source:dublin-dumbarton-rock",
+    "source:dublin-early-medieval-slavery",
+    "source:dublin-faeremin-penny",
+    "source:dublin-finds",
+    "source:dublin-fishamble-amber",
+    "source:dublin-fishamble-reilly",
+    "source:dublin-mint-nmi",
+    "source:dublin-tigernach-hostages",
+    "source:dublin-ulster-irish",
+    "source:dublin-ulster-translation",
+    "source:dublin-waters",
+    "source:dublin-york-coin-comparison",
+    "source:dumbarton-hillfort",
+    "source:skuldelev-channel-location",
+    "source:skuldelev-ship-study",
+    "source:skuldelev-two-museum"
+  ],
+  "steps": [
+    {
+      "id": "longphort",
+      "textAnchor": "longphort",
+      "labels": {
+        "de": "841 · Die Annalen nennen ein Schiffslager",
+        "en": "841 · The annals record a ship camp"
+      },
+      "summary": {
+        "de": "Die Annalen von Ulster nennen ein Schiffslager bei Duiblinn und Überfälle auf das Umland. Der Punkt verortet die Gegend des heutigen Dublin. Die genaue Lage des Lagers ist umstritten.",
+        "en": "The Annals of Ulster record a ship camp at Duiblinn and raids into neighbouring lands. The point marks the Dublin area. The precise site of the camp is debated."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 841,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 841,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "dumbarton",
+      "textAnchor": "dumbarton",
+      "labels": {
+        "de": "870 · Die Belagerung von Ail Cluaithe",
+        "en": "870 · The siege of Ail Cluaithe"
+      },
+      "summary": {
+        "de": "Amlaíb und Ímar nahmen die Festung nach einer viermonatigen Belagerung ein. Der Felsen ist archäologisch identifiziert. Die Brandspuren lassen sich nur allgemein ins frühe Mittelalter datieren.",
+        "en": "Amlaíb and Ímar took the stronghold after a four-month siege. Excavations locate the early defences on Dumbarton Rock. The evidence of burning has only a broad early medieval date."
+      },
+      "state": {
+        "camera": {
+          "longitude": -4.5633,
+          "latitude": 55.9368,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 870,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 870,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "captives",
+      "textAnchor": "captives",
+      "labels": {
+        "de": "871 · Die Ankunft der Gefangenen",
+        "en": "871 · The arrival of the captives"
+      },
+      "summary": {
+        "de": "Die Annalen melden, dass Amlaíb und Ímar mit Gefangenen nach Áth Cliath kamen. Sie zählen Schiffe und nennen Gruppen von Verschleppten. Was aus den einzelnen Menschen wurde, steht dort nicht.",
+        "en": "The annals say that Amlaíb and Ímar brought captives to Áth Cliath. They count ships and name groups of people who were taken. Individual fates go unrecorded."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 871,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 871,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "fishamble",
+      "textAnchor": "fishamble",
+      "labels": {
+        "de": "Mitte des 10. Jahrhunderts · Eine Werkstatt in der Fishamble Street",
+        "en": "mid-tenth century · A workshop on Fishamble Street"
+      },
+      "summary": {
+        "de": "Bernsteinreste deuten auf eine Werkstatt in Haus FS 20 auf Grundstück 2. Eine Münze hilft bei der Datierung der vierten Bauphase um die Mitte des zehnten Jahrhunderts. Die Karte zeigt das Grabungsareal.",
+        "en": "Amber debris suggests a workshop in house FS 20 on Plot 2. A coin helps date the fourth building phase to around the middle of the tenth century. The map marks the excavation area."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.27,
+          "latitude": 53.3442,
+          "metersPerPixel": 260,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 930,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 970,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "hostages",
+      "textAnchor": "hostages",
+      "labels": {
+        "de": "980 · Domnall Cláen kommt frei",
+        "en": "980 · The release of Domnall Cláen"
+      },
+      "summary": {
+        "de": "Die Annalen von Tigernach nennen den König von Leinster unter den Geiseln, die nach der Belagerung Dublins durch Máel Sechnaill und Eochaid freikamen. Der Bericht zählt auch die ausgehandelten Bedingungen auf.",
+        "en": "The Annals of Tigernach name the king of Leinster among the hostages released after Máel Sechnaill and Eochaid besieged Dublin. The entry also lists the terms the victors obtained."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 980,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 980,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "mint",
+      "textAnchor": "mint",
+      "labels": {
+        "de": "um 1000–1010 · Ein Penny des Münzmeisters Faeremin",
+        "en": "c. 1000–1010 · A penny of the moneyer Faeremin"
+      },
+      "summary": {
+        "de": "Der in Shropshire gefundene Penny HESH-E20370 wird dem Dubliner Münzmeister Faeremin zugeschrieben und in die Jahre um 1000–1010 eingeordnet. Die Karte zeigt den Prägeort Dublin, der genaue Werkstattstandort ist unbekannt.",
+        "en": "Penny HESH-E20370, found in Shropshire, is attributed to the Dublin moneyer Faeremin and dated to about 1000–1010. The map marks the mint town. The location of the workshop is unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1000,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1010,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:dublin-faeremin-penny-hesh-e20370"
+    },
+    {
+      "id": "dublin",
+      "textAnchor": "dublin",
+      "labels": {
+        "de": "1042 · Die Eiche für die Maststütze von Skuldelev 2",
+        "en": "1042 · The oak for the keelson of Skuldelev 2"
+      },
+      "summary": {
+        "de": "Die Eiche für die Maststütze fiel im Mai oder Juni 1042. Der Bau des Langschiffs wird im Raum Dublin vermutet. Zwei in der Stadt ausgegrabene Stevenstücke zeigen vergleichbare Arbeit an anderen Schiffen.",
+        "en": "The oak for the keelson was felled in May or June 1042. The longship was probably built in the Dublin region. Two stem timbers excavated in the town show comparable work on other vessels."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1042,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1042,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:skuldelev-two-original-timbers"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Gefangene erreichen 871 die Liffey. Bernsteinsplitter verraten den Arbeitsplatz eines Menschen in der Fishamble Street, ein Silberpenny den Namen des Münzmeisters Faeremin.",
+      "en": "Captives reach the Liffey in 871. Chips of amber locate a workshop on Fishamble Street, and a silver penny preserves the name of Faeremin, a Dublin moneyer."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "irish-sea",
+        "labels": {
+          "de": "Irische See",
+          "en": "Irish Sea"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      },
+      {
+        "id": "trade",
+        "labels": {
+          "de": "Handel",
+          "en": "Trade"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "british-isles",
+        "labels": {
+          "de": "Britische und irische Inseln",
+          "en": "Britain and Ireland"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -5.41665,
+      "latitude": 54.6405,
+      "metersPerPixel": 1497,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 841,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 841,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1042,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1042,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

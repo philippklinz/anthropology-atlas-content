@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:york-coppergate-occupation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Anglo-Scandinavian Occupation at 16–22 Coppergate: Defining a Townscape",
+  "url": "https://collections.yorkarchaeologicaltrust.co.uk/s/publications/item/74471",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "R. A. Hall",
+    "D. T. Evans",
+    "K. Hunter-Mann",
+    "A. J. Mainman"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2014"
+}

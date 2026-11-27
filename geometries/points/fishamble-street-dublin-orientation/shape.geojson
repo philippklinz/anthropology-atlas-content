@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:fishamble-street-dublin-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.27,
+      53.3442
+    ]
+  }
+}

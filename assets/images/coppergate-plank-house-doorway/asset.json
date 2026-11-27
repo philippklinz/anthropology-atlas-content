@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:coppergate-plank-house-doorway",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-coppergate-doorway-figure",
+      "role": "supports",
+      "locator": "Hall and colleagues, The Archaeology of York 8/5 (2014), p. 624, fig. 212, scale interval 0.1 m. Photographs credited collectively on p. 802. The publisher's online catalogue (item 74471) licenses the report under CC BY 4.0."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Südlicher Eingang des Bohlenhauses 5/1 in York",
+    "en": "South doorway of plank building 5/1, York"
+  },
+  "alt": {
+    "de": "Zwei aufrechte dunkle Pfosten fassen die querliegende hölzerne Türschwelle ein. Vor ihr liegt ein rot-weißer Grabungsmaßstab mit Abschnitten von zehn Zentimetern.",
+    "en": "Dark upright posts frame the wooden timbers of the threshold. A red-and-white excavation scale in front has ten-centimetre divisions."
+  },
+  "entityIds": [
+    "artifact:coppergate-structure-five-one"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "York Archaeological Trust"
+    ],
+    "attribution": "York Archaeological Trust, The Archaeology of York 8/5 (2014), fig. 212, p. 624. The volume credits M. S. Duffy, S. I. Hill and M. Andrews for its photographs; the individual photographer is unassigned. CC BY 4.0. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://collections.yorkarchaeologicaltrust.co.uk/s/publications/item/74471",
+    "originNote": "Web edition of the original 1004 × 558 image. Resampled to 1004 × 558 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by/4.0/"
+  }
+}

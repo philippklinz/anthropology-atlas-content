@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-fragments-and-silk",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Oseberg Textiles: Great Riches and Exquisite Craftsmanship",
+  "url": "https://www.vikingtidsmuseet.no/english/viking-age/design-and-craft/the-oseberg-textiles.html",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Museum of the Viking Age, University of Oslo"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2026"
+}

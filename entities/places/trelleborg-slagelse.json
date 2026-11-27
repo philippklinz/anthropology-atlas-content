@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:trelleborg-slagelse",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:trelleborg-bonde-christensen",
+      "role": "supports",
+      "locator": "Aarbøger for Nordisk Oldkyndighed og Historie 1982 (issued 1984), pp. 111–152. Figure 8 and the English results and conclusion on pp. 145–147: four June/July felling estimates for timbers of the inner ditch barrier; D 701 from the outer bridge, August 980 to May 981; what these can date directly."
+    },
+    {
+      "sourceId": "source:trelleborg-houses-cemetery",
+      "role": "supports",
+      "locator": "Section “Trelleborg”, plan and text. Sixteen houses inside the rampart, cemetery with at least 157 men, women and children, and an alternative association with the village 200 metres away."
+    },
+    {
+      "sourceId": "source:trelleborg-icomos-ring-forts",
+      "role": "supports",
+      "locator": "Advisory-body evaluation, “Brief description” and statement of Outstanding Universal Value. Danish fortresses with broadly shared geometric layout and four gates, attribution during Harald’s reign and interpretive limits on their purpose."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Ringburg Trelleborg bei Slagelse",
+    "en": "Trelleborg ring fortress near Slagelse"
+  }
+}

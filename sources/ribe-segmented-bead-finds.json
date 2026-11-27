@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ribe-segmented-bead-finds",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The glass beads of Ribe: evidence of local glass bead making and long-distance trade",
+  "url": "https://books.ub.uni-heidelberg.de/propylaeum/catalog/view/1105/1901/101300",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Torben Sode, Bernard Gratuze and James W. Lankton"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:fishamble-street-dublin-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-fishamble-reilly",
+      "role": "supports",
+      "locator": "Chapter 2, pp. 7–13, property boundaries, plot and house layouts, fifteen building levels; chapter 4, p. 38, Level 4, FS 20 (Plot 2, amber) and FS 18 (Plot 5, writing tablet, carved head, coin of Eadred); p. 82 for Level 4 as mid-tenth century. Fig. 9, p. 36, grid on Plot 3, used to orient the Fishamble Street excavation area."
+    },
+    {
+      "sourceId": "source:dublin-fishamble-amber",
+      "role": "supports",
+      "locator": "Excavations 1976:047, habitation area inside the banks, amber fragments and unfinished beads and pendants. These finds illustrate working at Fishamble Street more generally."
+    },
+    {
+      "sourceId": "source:dublin-finds",
+      "role": "supports",
+      "locator": "Collection overview, paragraphs on wooden pathways and property boundaries, reused ship timbers in dock walls, drains and paths; the Fishamble Street amber worker’s floor with several hundred flakes and splinters."
+    },
+    {
+      "sourceId": "source:dublin-fishamble-reilly",
+      "role": "derivation",
+      "locator": "Figure 9, p. 36. Irish Grid (EPSG:29903) reference E315275.628, N234030.713 at Plot 3 translates to about −6.2699, 53.3442. General excavation-area point for neighbouring plots, not the exact spot of the amber finds in Plot 2."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Eileen Reilly, Archaeopress.",
+    "sourceUrl": "https://www.archaeopress.com/Archaeopress/download/9781803276526",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

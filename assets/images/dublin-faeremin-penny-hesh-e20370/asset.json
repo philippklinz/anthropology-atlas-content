@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:dublin-faeremin-penny-hesh-e20370",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-faeremin-penny",
+      "role": "supports",
+      "locator": "PAS FindID 147193, HESH-E20370, image 203021. The PAS description, photograph and scale identify the Long Cross type modelled on Æthelred II, moneyer Faeremin, Dublin mint and Shropshire findspot. Record date field 1000–1010; image description, author and CC BY-SA 4.0 credit on the file page."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Beide Seiten eines Dubliner Pennys des Münzmeisters Faeremin",
+    "en": "Both faces of a Dublin penny of the moneyer Faeremin"
+  },
+  "alt": {
+    "de": "Der Münzfund aus Shropshire misst auf der Skala knapp zwei Zentimeter. Links ist der Kopf im Profil zu erkennen, rechts das lange Kreuz. Eine tiefe Falte durchzieht das Silber.",
+    "en": "The scale shows that this Shropshire find is just under two centimetres across. The head in profile is on the left and the long cross on the right. A deep crease runs through the silver."
+  },
+  "entityIds": [
+    "artifact:dublin-faeremin-penny-hesh-e20370"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Peter Reavill, Birmingham Museums Trust"
+    ],
+    "attribution": "Peter Reavill, Birmingham Museums Trust / The Portable Antiquities Scheme, The Trustees of the British Museum. Find HESH-E20370, photograph 203021. CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Late_Earlt_Medieval_Coin,_Silver_Hiberno-Norse_Long_cross_type_penny_of_Sihtric_Analafsson,_minted_in_Dublin_by_the_moneyer_Faeremin._%28FindID_147193%29.jpg",
+    "originNote": "Web edition of the original 1800 × 948 image. Resampled to 1420 × 748 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

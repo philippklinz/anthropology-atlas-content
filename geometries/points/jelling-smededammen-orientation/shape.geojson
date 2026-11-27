@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:jelling-smededammen-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4224,
+      55.7558
+    ]
+  }
+}

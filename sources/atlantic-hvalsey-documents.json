@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-hvalsey-documents",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Grönlands historiske mindesmærker III. Diplomer, nos. 49, 52 and 57",
+  "url": "https://runeberg.org/gronland/3/0158.html",
+  "sourceType": "book",
+  "language": "da",
+  "creators": [
+    "Finnur Magnússon",
+    "Carl Christian Rafn"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1845"
+}

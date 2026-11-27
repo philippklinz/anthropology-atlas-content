@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:timbers-from-storhaug-burial",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-bonde-stylegar-timbers",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 5, pp. 21–25, especially fig. 3 (separate felling dates for Storhaug loose timber, Oseberg hull and burial chamber), table 2 (ring series) and “Narrowing down the location of the shipbuilding site” (beech and probable origins in western Norway)."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:oseberg-storhaug-karmoy-map",
+      "role": "supports",
+      "locator": "“Oppdag skipsgravene” and the map “Kart over Grønhaug og Storhaug på Karmøy,” showing Storhaug north of Grønhaug beside the Karmsund."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Hölzer aus dem Storhauggrab",
+    "en": "Timbers from the Storhaug burial"
+  }
+}

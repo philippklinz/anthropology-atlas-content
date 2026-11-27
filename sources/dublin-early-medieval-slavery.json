@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-early-medieval-slavery",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Economy of Early Medieval Ireland",
+  "url": "https://researchrepository.ucd.ie/bitstreams/5a9cf00d-b8f0-4eb2-9f3a-3f5143351131/download",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Thomas Kerr, Finbar McCormick and Aidan O’Sullivan, Early Medieval Archaeology Project"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2013"
+}

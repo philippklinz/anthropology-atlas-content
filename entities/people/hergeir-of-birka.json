@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:hergeir-of-birka",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:birka-rimbert-ansgar",
+      "role": "supports",
+      "locator": "Chapters X–XI. Witmar as a witness, loss of the books en route, permission to preach, captive Christians, Herigar and his church. The narrative is used for the visit. Modern site identification follows the Swedish History Museum."
+    },
+    {
+      "sourceId": "source:birka-museum-rimbert",
+      "role": "supports",
+      "locator": "Opening paragraphs. Rimbert wrote about 865–875. The museum dates Ansgar and Witmar’s first journey to 830 and distinguishes it from Ansgar’s later visit."
+    },
+    {
+      "sourceId": "source:birka-malaren-land-uplift",
+      "role": "supports",
+      "locator": "Handelsplatsen Birka. Björkö stood at a Baltic inlet at the time of the trading settlement. The present lake resulted from land uplift. Also explains the deposits called Svarta jorden."
+    },
+    {
+      "sourceId": "source:birka-world-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 555-001, Birka on Björkö (not 555-002, Hovgården). A rounded site point is shared by the harbour, burial and hoard stations."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Hergeir von Birka",
+    "en": "Hergeir of Birka"
+  }
+}

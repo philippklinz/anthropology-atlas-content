@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:oseberg-storhaug",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-bonde-stylegar-timbers",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 5, pp. 21–25, especially fig. 3 (separate felling dates for Storhaug loose timber, Oseberg hull and burial chamber), table 2 (ring series) and “Narrowing down the location of the shipbuilding site” (beech and probable origins in western Norway)."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:oseberg-storhaug-karmoy-map",
+      "role": "supports",
+      "locator": "“Oppdag skipsgravene” and the map “Kart over Grønhaug og Storhaug på Karmøy,” showing Storhaug north of Grønhaug beside the Karmsund."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein datiertes Holz aus dem Grab von Storhaug",
+    "en": "A dated timber from the Storhaug burial"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 779,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 779,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:timbers-from-storhaug-burial",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:storhaug-karmoy"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:storhaug-karmoy-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die äußerste erhaltene Holzkante datiert das Fällen einer Eiche in den Sommer 779. Das Holz stammt aus dem Grabhügel auf Karmøy. Der Ort dient zum Vergleich mit dem um 820 gebauten Osebergschiff.",
+      "en": "The outer edge of a piece of oak dates the tree’s felling to summer 779. The timber was found in the mound on Karmøy. The site supplies material for comparison with the Oseberg ship built around 820."
+    }
+  }
+}

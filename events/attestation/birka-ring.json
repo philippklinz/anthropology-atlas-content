@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:birka-ring",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:birka-ring-shm",
+      "role": "supports",
+      "locator": "Object 106842_HST, accession 34000, Bj 515. Find context, excavator, 1877, silver and glass. The 2021 exhibition label gives the proposed reading of the Arabic inscription."
+    },
+    {
+      "sourceId": "source:birka-warmlander-ring",
+      "role": "supports",
+      "locator": "Scanning 37, pp. 131–137. Materials, p. 132 and supplementary fig. S1, for burial layout, oval brooches, clothes, position and approximate date. Results and figs. 1–3 for filing marks and composition. Discussion accompanying fig. 4 for the favoured dedication and the conditional reading “God willing” if a missing stroke is supplied."
+    },
+    {
+      "sourceId": "source:birka-ring-dig-56338",
+      "role": "supports",
+      "locator": "Media ID ba934209-835b-4b3c-ab7a-73126a4375a9, direct association with object 106842_HST, named photographer and CC BY 4.0 licence."
+    },
+    {
+      "sourceId": "source:birka-world-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 555-001, Birka on Björkö (not 555-002, Hovgården). A rounded site point is shared by the harbour, burial and hoard stations."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Ring kommt in Grab Bj 515",
+    "en": "A ring is placed in grave Bj 515"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 801,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 900,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:birka-bj-515-finger-ring",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:birka-on-bjorko"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:birka-on-bjorko-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Stolpes Grabungsdokumentation verzeichnet den Ring neben einer Schere. Die Gewandspangen stützen eine Datierung um die Mitte des 9. Jahrhunderts. Die Karte zeigt Birka, das Grab lag nördlich der Befestigung.",
+      "en": "Stolpe’s excavation record places the ring beside a pair of scissors. The brooch types suggest a date around the middle of the ninth century. The map marks Birka. The grave lay north of its fortress."
+    }
+  }
+}

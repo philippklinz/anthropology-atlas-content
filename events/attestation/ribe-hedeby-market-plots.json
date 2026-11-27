@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ribe-hedeby-market-plots",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ribe-market-and-coins",
+      "role": "supports",
+      "locator": "In The Fortified Viking Age, pp. 78–80, fig. 5 and tables 1–2. Riverbank lane before 720, plots 6–8 m wide, Rhineland barrels reused in wells, sequence of individual coin finds and the predominance of Series X from about 725."
+    },
+    {
+      "sourceId": "source:ribe-settlement-permanency",
+      "role": "supports",
+      "locator": "European Journal of Archaeology 18, pp. 497–523. The reassessment of the 1985–86 excavations at Sct Nicolajgade 8 uses domestic activity and building remains to propose early permanent occupation on part of the market site."
+    },
+    {
+      "sourceId": "source:ribe-glass-workshops",
+      "role": "supports",
+      "locator": "Archaeological and Anthropological Sciences 14, article 180. Site and materials, table 1 and figs. 1b, 7–8. ASR 9 Post Office site (55°19′44.7″N, 8°46′08.7″E). Early workshop c. 700–720, later workshop c. 760–790. White from bubbles in remelted gold-leaf backing glass and evidence for adding colourants on site."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Parzellen an einer Gasse",
+    "en": "Plots beside a narrow lane"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 700,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 719,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:ribe-reused-barrel-well-linings",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:ribe-marketplace"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ribe-marketplace-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Noch vor 720 lagen am Fluss schmale Parzellen beiderseits einer Gasse. Der Punkt liegt im ausgegrabenen Marktgebiet.",
+      "en": "By 720 narrow plots stood on either side of a lane by the river. The point marks the excavated market area."
+    }
+  }
+}

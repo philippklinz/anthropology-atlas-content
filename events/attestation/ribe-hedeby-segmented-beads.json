@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ribe-hedeby-segmented-beads",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ribe-trade-radiocarbon",
+      "role": "supports",
+      "locator": "Nature 601, pp. 392–396, abstract and DOI 10.1038/s41586-021-04240-5. Single-year radiocarbon calibration placed the expansion of long-distance trade at Ribe around AD 790 ± 10."
+    },
+    {
+      "sourceId": "source:ribe-floor-radiocarbon",
+      "role": "supports",
+      "locator": "Annual Report 2022, “Solar Event Sheds Light on Trade” immediately before “Farming the Desert”. The excavation team describes the AD 775 signal in a floor layer, 140 radiocarbon dates, and numerous imported beads at AD 790 ± 10. The photograph identifies segmented beads."
+    },
+    {
+      "sourceId": "source:ribe-segmented-bead-finds",
+      "role": "supports",
+      "locator": "Section “Segmented metal foil beads”, pp. 161 and 165 and fig. 5a–c (e.g. ASR9x113 59). Manufacture, silver foil, amber-brown and colourless outer glass, joined segments and the visible structure of broken specimens. Opening section on the continued small-scale production in the ninth century."
+    },
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Kuitems et al., Nature 601, pp. 388–391, fig. 2. Three cut timbers from L’Anse aux Meadows retain bark edges. The AD 993 radiocarbon event and annual rings establish felling in AD 1021."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Importierte Perlen in Ribe",
+    "en": "Imported beads at Ribe"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 780,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 800,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:ribe-segmented-glass-beads",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:ribe-marketplace"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ribe-marketplace-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Segmentierte Glasperlen aus dem Nahen Osten tauchen in größerer Zahl auf. Ein Radiokarbonsignal aus dem Jahr 775 verankert die zeitliche Einordnung der Schichten.",
+      "en": "Segmented beads from the Middle East appear in quantity. An atmospheric radiocarbon signal from 775 anchors the dating of the stratified finds."
+    }
+  }
+}

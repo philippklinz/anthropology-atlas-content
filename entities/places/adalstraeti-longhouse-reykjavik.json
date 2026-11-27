@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:adalstraeti-longhouse-reykjavik",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atlantic-adalstraeti-hall",
+      "role": "supports",
+      "locator": "The exhibition at Aðalstræti 16, in the original location of the tenth-century hall. The listing distinguishes the earlier wall fragment. Map point at 64.14749° N, 21.94251° W locates the exhibition on the archaeological site."
+    },
+    {
+      "sourceId": "source:atlantic-adalstraeti-excavation",
+      "role": "supports",
+      "locator": "FS243-00162, Summary, the paved structure at the eastern doorway. Appendix 4, Karen B. Milek, sections on preservation of occupation deposits and the central hearth. Floor deposits were sealed by collapsed turf roofing."
+    },
+    {
+      "sourceId": "source:atlantic-adalstraeti-floors",
+      "role": "supports",
+      "locator": "NORSEC 2, pp. 1–4 and Figs. 5–7. Square-metre sampling, sieving heavy fraction through 1 mm mesh, about 3% identifiable, taxa and calcination. Authors interpret spatial distributions as possible hearth raking and trampling near walls and benches."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Langhaus in der Aðalstræti, Reykjavík",
+    "en": "Aðalstræti longhouse, Reykjavík"
+  }
+}

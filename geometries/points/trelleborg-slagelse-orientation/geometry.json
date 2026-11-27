@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:trelleborg-slagelse-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:trelleborg-bonde-christensen",
+      "role": "supports",
+      "locator": "Aarbøger for Nordisk Oldkyndighed og Historie 1982 (issued 1984), pp. 111–152. Figure 8 and the English results and conclusion on pp. 145–147: four June/July felling estimates for timbers of the inner ditch barrier; D 701 from the outer bridge, August 980 to May 981; what these can date directly."
+    },
+    {
+      "sourceId": "source:trelleborg-houses-cemetery",
+      "role": "supports",
+      "locator": "Section “Trelleborg”, plan and text. Sixteen houses inside the rampart, cemetery with at least 157 men, women and children, and an alternative association with the village 200 metres away."
+    },
+    {
+      "sourceId": "source:trelleborg-icomos-ring-forts",
+      "role": "supports",
+      "locator": "Advisory-body evaluation, “Brief description” and statement of Outstanding Universal Value. Danish fortresses with broadly shared geometric layout and four gates, attribution during Harald’s reign and interpretive limits on their purpose."
+    },
+    {
+      "sourceId": "source:trelleborg-unesco-location",
+      "role": "derivation",
+      "locator": "World Heritage component 1660-004, central point."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: UNESCO World Heritage Centre.",
+    "sourceUrl": "https://whc.unesco.org/en/list/1660/maps/",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

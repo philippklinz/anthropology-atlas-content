@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:viking-york-edred",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-chronicle-tenth",
+      "role": "supports",
+      "locator": "Annals for 948, 952 and 954. Note whom the annalist casts as agents in receiving and expelling a king."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Nordhumbrier vertreiben Erik",
+    "en": "The Northumbrians expel Erik"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 954,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 954,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:erik-king-at-york",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:eadred-of-england",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:york-on-the-ouse"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:york-on-the-ouse-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Chronik nennt die Nordhumbrier als Handelnde und Eadred als neuen Herrscher. York dient als Orientierung für das Königtum. Ein Versammlungsort wird in der Quelle nicht genannt.",
+      "en": "The Chronicle credits the Northumbrians with expelling Erik and records Eadred’s succession. York marks the seat of kingship. The entry gives no meeting place."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-hvalsey-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ruin, Qaqortukulooq, Grønland. DMR-217737",
+  "url": "https://samlinger.natmus.dk/dmr/asset/217737",
+  "sourceType": "catalog",
+  "language": "da",
+  "creators": [
+    "Aage Roussell, Nationalmuseet, Danmark"
+  ],
+  "accessedAt": "2026-11-27"
+}

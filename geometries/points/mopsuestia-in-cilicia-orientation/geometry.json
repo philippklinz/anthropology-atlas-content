@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:mopsuestia-in-cilicia-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:birka-androshchuk-coin-hoards",
+      "role": "supports",
+      "locator": "Transactions 23, p. 60, description of the 1872 Birka hoard and the al-Maṣṣīṣa issue dated 963/64 by the author. Also the Volga Bulgar attributions. Pages 73–75 discuss the Byzantine frontier, the capture of al-Maṣṣīṣa in 965, service and payment as possible contexts."
+    },
+    {
+      "sourceId": "source:birka-uppland-sml-16b",
+      "role": "supports",
+      "locator": "Adelsö, no. 16B, SHM/KMK 5208:3. Wärner found the dish on 18 September 1872. Quotes Stolpe’s excavation notes with depth and counts of whole and broken coins. Lists al-Masisah, 963–967, and a second broadly dated late issue."
+    },
+    {
+      "sourceId": "source:birka-stolpe-report-1872",
+      "role": "supports",
+      "locator": "Report on the silver hoard, especially the inventory and discussion of Tornberg’s readings. Compares the readings 963 and 967 and distinguishes minting from the unknown date of burial."
+    },
+    {
+      "sourceId": "source:mopsuestia-mint-locality",
+      "role": "supports",
+      "locator": "Toponym entry 1443. Modern name Yakapınar (Misis), Barrington Atlas 67 B3, Pleiades 658538 and discussion of the settlement by the Pyramos. The city marks the district of production. The position of the coin workshop is unknown."
+    },
+    {
+      "sourceId": "source:mopsuestia-mint-locality",
+      "role": "derivation",
+      "locator": "Mopsuestia at Yakapınar (Misis). Cross-checked against Wikidata Q555923 (P625)."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Katholische Universität Eichstätt-Ingolstadt, Tabula Peutingeriana database.",
+    "sourceUrl": "https://www1.ku.de/ggf/ag/tabula_peutingeriana/trefferanzeige_en.php?id=1443",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:jelling-smededammen-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-boundary-palisade",
+      "role": "supports",
+      "locator": "“The palisade”, “The timber buildings” and “The rune-stones and burial mounds”, pp. 6–7. Area of 12.7 ha, oak planks and paired round posts, trench depth 1–1.2 m, traces of three buildings, southeastern wetland wood and estimate 958–985, probably around 968."
+    },
+    {
+      "sourceId": "source:jelling-palisade-smededammen",
+      "role": "supports",
+      "locator": "16 August 2013, paragraphs on the sampling by Niels Bonde and the Smededammen excavation. Eleven of twelve samples dated; one preserved wood immediately inside the bark. The 1.4 km circuit and most probable date around 968."
+    },
+    {
+      "sourceId": "source:jelling-pond-location",
+      "role": "derivation",
+      "locator": "DO-6476, Smededammen by the Vejle road, site orientation."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Nationalmuseet.",
+    "sourceUrl": "https://samlinger.natmus.dk/do/asset/6476",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

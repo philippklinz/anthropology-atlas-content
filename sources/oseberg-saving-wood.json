@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-saving-wood",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Oseberg find",
+  "url": "https://www.khm.uio.no/english/research/projects/saving-oseberg/oseberg-find/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Museum of Cultural History, University of Oslo"
+  ],
+  "accessedAt": "2026-11-27"
+}

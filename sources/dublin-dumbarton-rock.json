@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-dumbarton-rock",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dumbarton Castle, history and stories",
+  "url": "https://www.historicenvironment.scot/visit/all/dumbarton-castle/history-and-stories/",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "Historic Environment Scotland"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-parks-camp",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Culture and history. L’Anse aux Meadows National Historic Site",
+  "url": "https://parks.canada.ca/lhn-nhs/nl/meadows/culture",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Parks Canada"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jelling-hvass-monuments",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Jelling-monumenterne – deres historie og bevaring",
+  "url": "https://slks.dk/fileadmin/user_upload/kulturarv/publikationer/emneopdelt/verdensarv/Jelling-monumenterne_96s.pdf",
+  "sourceType": "book",
+  "language": "da",
+  "creators": [
+    "Steen Hvass, Kulturarvsstyrelsen"
+  ],
+  "accessedAt": "2026-11-27"
+}

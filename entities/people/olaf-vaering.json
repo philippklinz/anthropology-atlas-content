@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:olaf-vaering",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-vaering-excavation-crew",
+      "role": "supports",
+      "locator": "Historic excavation photograph CfO0176, C55000/1, 1904. Norwegian caption identifies foreman Aksel Stubstad, engineers Glende and Beck, and preparator Paul Johannesen. File record credits Olaf Væring and documents CC BY-SA 4.0."
+    },
+    {
+      "sourceId": "source:oseberg-grave-chamber-jensenius",
+      "role": "supports",
+      "locator": "Collegium Medievale 29, pp. 84–87, “Oseberggravningen”; fig. 2 and pp. 84–85 on five bark-edge samples, the two posts and ridge, the pressure-deformed chamber, and drawings by Glende and Beck."
+    },
+    {
+      "sourceId": "source:oseberg-discovery-gustafson",
+      "role": "supports",
+      "locator": "Opening account of Oskar Rom’s visit to Gustafson in August 1903; “An archaeological adventure” and “Important events” for the main excavation in June 1904."
+    },
+    {
+      "sourceId": "source:oseberg-fragments-and-silk",
+      "role": "supports",
+      "locator": "“What do the motifs on the Oseberg tapestry signify?”, “Exotic goods from Persia and Byzantium” and “The colours that disappeared”; clothing strips, the reversed silk, tools and Sofie Krafft’s 41 drawings of 110 silk pieces."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Olaf Væring",
+    "en": "Olaf Væring"
+  }
+}

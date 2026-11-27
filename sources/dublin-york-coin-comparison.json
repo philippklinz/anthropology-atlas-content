@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-york-coin-comparison",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Aspects of Anglo-Scandinavian York",
+  "url": "https://www.collections.yorkarchaeologicaltrust.co.uk/files/original/74470/GB2837-PUB-AY-08-04_Aspects-of-Anglo-Scandinavian-York_Hall-Rollason-Blackburn-Parsons-Fellows-Jensen-Hall-Kenward-OConnor-Tweddle-Mainman-Rogers.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Richard Hall and colleagues, York Archaeological Trust"
+  ],
+  "accessedAt": "2026-11-27"
+}

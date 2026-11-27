@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ribe-trade-radiocarbon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Single-year radiocarbon dating anchors Viking Age trade cycles in time",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34937937/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Bente Philippsen, Claus Feveile, Jesper Olsen and Søren M. Sindbæk"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2022"
+}

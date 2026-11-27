@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-greenland-fauna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Hunting, fishing and animal husbandry at The Farm Beneath The Sand, western Greenland",
+  "url": "https://tidsskrift.dk/meddrgroenland_man_soc/article/view/146800",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Inger Bødker Enghoff"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2003"
+}

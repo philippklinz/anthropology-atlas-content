@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hedeby-waterfront-museum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Viking Houses in Hedeby",
+  "url": "https://haithabu.de/file/plan-whh-08_2022_en_10szz-bd-re_rz_2.pdf",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Stiftung Schleswig-Holsteinische Landesmuseen Schloss Gottorf"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2022"
+}

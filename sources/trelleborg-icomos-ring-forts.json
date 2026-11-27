@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:trelleborg-icomos-ring-forts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Viking-Age Ring Fortresses (Denmark), No 1660",
+  "url": "https://whc.unesco.org/document/205714",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "International Council on Monuments and Sites (ICOMOS)"
+  ],
+  "accessedAt": "2026-11-27"
+}

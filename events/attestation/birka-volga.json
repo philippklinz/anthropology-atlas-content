@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:birka-volga",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:volga-ibn-fadlan-yaqut",
+      "role": "supports",
+      "locator": "Section Rūs, paragraphs 74–78 and pp. 27–29. Merchants at the Itil, houses on the bank, enslaved women, sable pelts, offerings and hoped-for buyer. The translation indicates where Yāqūt’s quotations parallel the Mashhad recension."
+    },
+    {
+      "sourceId": "source:volga-ibn-fadlan-dating",
+      "role": "supports",
+      "locator": "The Journey of Ibn Fadlan, 921–922, map. Pages 25–26, The reading of the caliph’s letter, for the embassy’s arrival in May 922. The market on the Volga, p. 40."
+    },
+    {
+      "sourceId": "source:volga-rusiyyah-montgomery",
+      "role": "supports",
+      "locator": "Introduction and annotated translation of the Rūsiyyah passage. The identification of the group seen by the envoy allows more than one interpretation."
+    },
+    {
+      "sourceId": "source:bolgar-world-heritage-map",
+      "role": "supports",
+      "locator": "Component 981-001, N54°58′44″ E49°03′23″. A regional point on the middle Volga. The archaeological site gives geographic orientation only."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ibn Faḍlān begegnet den Rūs an der Wolga",
+    "en": "Ibn Faḍlān meets the Rūs on the Volga"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 922,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 922,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:ahmad-ibn-fadlan",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "community:rus-merchants-in-ibn-fadlan",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:middle-volga-in-the-land-of-the-volga-bulgars"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:middle-volga-in-the-land-of-the-volga-bulgars-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Gesandte beschreibt Verkäufer und versklavte Frauen an einem Ufer der mittleren Wolga. Der Punkt bei Bolgar zeigt die Region. Der genaue Anlegeplatz ist unbekannt.",
+      "en": "The envoy describes sellers and enslaved women on the middle Volga. The point at Bolgar represents the region. The exact landing is unknown."
+    }
+  }
+}

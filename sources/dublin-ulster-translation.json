@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-ulster-translation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Annals of Ulster, English translation",
+  "url": "https://celt.ucc.ie/published/T100001A.html",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Seán Mac Airt and Gearóid Mac Niocaill (eds. and trans.), Dublin Institute for Advanced Studies; CELT, University College Cork"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1983"
+}

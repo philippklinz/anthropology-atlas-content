@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-fishamble-amber",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "1976:047. Dublin City, Fishamble Street",
+  "url": "https://excavations.ie/report/1976/Dublin/0032165/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "A. B. Ó Riordáin, Irish Antiquities Division, National Museum of Ireland"
+  ],
+  "accessedAt": "2026-11-27"
+}

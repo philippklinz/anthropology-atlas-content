@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:historical-museum-oslo-frederiks-gate",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-conservation-aquariums",
+      "role": "supports",
+      "locator": "“Various treatments”, “A temporary solution” and “Problem solved”, figs 2, 4–9: four animal heads and two sledge pulls, the two specially made aquariums commissioned in 1912, the wartime loss, Jørgen Eriksen’s copy and Annemor Rosenqvist’s treatment before the 1957 exhibition."
+    },
+    {
+      "sourceId": "source:oseberg-saving-wood",
+      "role": "supports",
+      "locator": "“Conservation”, “Alum treatment” and “Re-construction” explain groundwater and low oxygen, pressure damage, the risk of shrinkage, drying of better-preserved oak, and the contrasting treatment of fragile carvings."
+    },
+    {
+      "sourceId": "source:oseberg-historical-museum-site",
+      "role": "supports",
+      "locator": "Campus location SE06, Frederiksgate 2, map of the Historical Museum in central Oslo."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Historisches Museum, Kristiania (heute Oslo)",
+    "en": "Historical Museum, Kristiania (now Oslo)"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:birka-rimbert-ansgar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Rimbert, Life of Anskar",
+  "url": "https://sourcebooks.fordham.edu/basis/anskar.asp",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Rimbert. Translated by Charles H. Robinson"
+  ],
+  "accessedAt": "2026-11-27"
+}

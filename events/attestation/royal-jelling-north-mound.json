@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:royal-jelling-north-mound",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-hvass-monuments",
+      "role": "supports",
+      "locator": "Figures 2–6 and English summary under “Stone for his parents” and “Small silver cup”. Vertical and horizontal writing, reliefs, purple silk, and the 4.3 cm silver cup with gilding and entwined animals from the north mound."
+    },
+    {
+      "sourceId": "source:jelling-imer-dates",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 3(2), pp. 168–170, tables 1–2 and discussion immediately after table 2. Mid-tenth century up to c. 960 for Jelling 1. The chamber wood is reported as 958/59. Historical dating proposals for Jelling 2 differ."
+    },
+    {
+      "sourceId": "source:jelling-imer-thyra",
+      "role": "supports",
+      "locator": "Antiquity 97, 1262–1278. Table 1, introduction on the north mound, “Ravnunge-Tue and the Jelling stones”, figures 9–10, “Sources of error” and conclusion. Læborg’s signed dedication and proposed attribution of Jelling 2, weathering at Jelling 1, variants of Thyra’s epithet, and limits of the proposed reburial. The authors give 959/60 for wood from the chamber."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Silberbecher aus der Grabkammer",
+    "en": "A silver cup from the burial chamber"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 958,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 960,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:jelling-silver-cup",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:jelling-north-mound"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:jelling-north-mound-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Holz aus der Kammer im Nordhügel ist um 959 datiert. Ein kleiner verzierter Becher und Seidenreste sind erhalten. Wer hier bestattet war, bleibt offen.",
+      "en": "Wood from the North Mound chamber dates to about 959. A decorated cup and scraps of silk survive. The identity of the person or people buried here is uncertain."
+    }
+  }
+}

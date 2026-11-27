@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:royal-jelling-thyra",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-pair",
+      "role": "supports",
+      "locator": "“Gorm the Old authored Denmark’s name certificate” and “Two monuments from Danish history”. Gorm’s commissioning formula, the museum’s rendering of Thyra’s epithet, c. 950, and the photograph “The small Jelling stone” by Roberto Fortuna, CC BY-SA 2.0."
+    },
+    {
+      "sourceId": "source:jelling-imer-thyra",
+      "role": "supports",
+      "locator": "Antiquity 97, 1262–1278. Table 1, introduction on the north mound, “Ravnunge-Tue and the Jelling stones”, figures 9–10, “Sources of error” and conclusion. Læborg’s signed dedication and proposed attribution of Jelling 2, weathering at Jelling 1, variants of Thyra’s epithet, and limits of the proposed reburial. The authors give 959/60 for wood from the chamber."
+    },
+    {
+      "sourceId": "source:jelling-rune-investigations",
+      "role": "supports",
+      "locator": "Abstract of chapter 12 in Jelling – Monuments and Landscape, pp. 313–332. The smaller stone is no longer in its original position. Excavation during protection works in 2011 re-examined the central area and the position of the larger stone."
+    },
+    {
+      "sourceId": "source:jelling-imer-dates",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 3(2), pp. 168–170, tables 1–2 and discussion immediately after table 2. Mid-tenth century up to c. 960 for Jelling 1. The chamber wood is reported as 958/59. Historical dating proposals for Jelling 2 differ."
+    },
+    {
+      "sourceId": "source:jelling-hvass-monuments",
+      "role": "supports",
+      "locator": "Figures 2–6 and English summary under “Stone for his parents” and “Small silver cup”. Vertical and horizontal writing, reliefs, purple silk, and the 4.3 cm silver cup with gilding and entwined animals from the north mound."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Gorm erinnert an Thyra",
+    "en": "Gorm remembers Thyra"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 940,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 960,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:gorm-the-old",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:thyra-of-jelling",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:small-jelling-stone",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:jelling-rune-stones"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:jelling-rune-stones-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Gorm lässt seiner Frau Thyra einen Stein setzen. Die Karte markiert den heutigen Standort in Jelling. Der ursprüngliche Aufstellungsort ist ungewiss.",
+      "en": "Gorm commissions a stone for his wife Thyra. The map shows its present location at Jelling. Its original position is uncertain."
+    }
+  }
+}

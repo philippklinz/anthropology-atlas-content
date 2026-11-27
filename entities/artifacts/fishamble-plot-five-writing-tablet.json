@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:fishamble-plot-five-writing-tablet",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-fishamble-reilly",
+      "role": "supports",
+      "locator": "Chapter 2, pp. 7–13, property boundaries, plot and house layouts, fifteen building levels; chapter 4, p. 38, Level 4, FS 20 (Plot 2, amber) and FS 18 (Plot 5, writing tablet, carved head, coin of Eadred); p. 82 for Level 4 as mid-tenth century. Fig. 9, p. 36, grid on Plot 3, used to orient the Fishamble Street excavation area."
+    },
+    {
+      "sourceId": "source:dublin-fishamble-amber",
+      "role": "supports",
+      "locator": "Excavations 1976:047, habitation area inside the banks, amber fragments and unfinished beads and pendants. These finds illustrate working at Fishamble Street more generally."
+    },
+    {
+      "sourceId": "source:dublin-finds",
+      "role": "supports",
+      "locator": "Collection overview, paragraphs on wooden pathways and property boundaries, reused ship timbers in dock walls, drains and paths; the Fishamble Street amber worker’s floor with several hundred flakes and splinters."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Schreibtäfelchen aus Grundstück 5 an der Fishamble Street",
+    "en": "Writing tablet from Fishamble Street Plot 5"
+  }
+}

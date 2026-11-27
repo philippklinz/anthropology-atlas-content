@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:coppergate-wool-sock-1309",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-walton-coppergate-textiles",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/5, table 11 and pp. 341–345, figs 140–142. Context, needle binding, shaping the heel, worn sole and outline of a probable patch."
+    },
+    {
+      "sourceId": "source:york-wool-sock-1309",
+      "role": "supports",
+      "locator": "SC1981-7_SF13517, catalogue 1309; coverage c. 930–975, madder at the ankle and no dye elsewhere."
+    },
+    {
+      "sourceId": "source:york-coppergate-textile-production",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/11, pp. 1787–1788, 1800–1803 and figs 843–844. A 4B pit, dyes and needles, including their concentration on Tenement C and a previously unused silk offcut."
+    },
+    {
+      "sourceId": "source:york-coppergate-occupation",
+      "role": "supports",
+      "locator": "The Archaeology of York 8/5. Abstract and Period 4B on the properties; Structure 5/1, pp. 622–624 and fig. 212; provisional building chronology p. 798. The report dates wall timbers to winter 961/62 and identifies reused wood at the entrance."
+    },
+    {
+      "sourceId": "source:york-coppergate-her",
+      "role": "supports",
+      "locator": "Monument MYO5075, Location: British National Grid SE 6044 5169. Converted to WGS84 and rounded for orientation."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Nadelgebundene Socke, Coppergate 1309",
+    "en": "Needle-bound sock, Coppergate 1309"
+  }
+}

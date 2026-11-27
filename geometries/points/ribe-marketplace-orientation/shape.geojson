@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ribe-marketplace-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.7691,
+      55.3291
+    ]
+  }
+}

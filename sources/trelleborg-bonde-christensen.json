@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:trelleborg-bonde-christensen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Trelleborgs alder. Dendrokronologisk datering / The Age of Trelleborg. Dendrochronological Dating",
+  "url": "https://slaegtsbibliotek.dk/2025/954016.pdf",
+  "sourceType": "article",
+  "language": "da",
+  "creators": [
+    "Niels Bonde",
+    "Kjeld Christensen"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1984"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ribe-hedeby-antler-combs",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hedeby-antler-combs",
+      "role": "supports",
+      "locator": "Antiquity 97, pp. 1233–1248. Introduction, Classification and chronology, Results, Discussion and figs. 2–3. Type 5 sample of 49, 42 certain and 2 probable reindeer identifications. About 0.5% of identifiable workshop waste was reindeer. Trade in finished items and movement of personal possessions are both possibilities. Fig. 3 credits the photographs of four groups to Mariana Muñoz-Rodriguez."
+    },
+    {
+      "sourceId": "source:hedeby-settlement-kuladig",
+      "role": "supports",
+      "locator": "“Koordinate WGS84” gives 54.49104°N, 9.56623°E for the settlement. General orientation for the finds from different places plotted in Muñoz-Rodriguez et al., fig. 2."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Kämme aus Rentiergeweih",
+    "en": "Combs of reindeer antler"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 801,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 900,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:hedeby-type-five-antler-combs",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:hedeby-settlement"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hedeby-settlement-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die in Haithabu gefundenen Kämme eines frühwikingerzeitlichen Typs bestehen in der untersuchten Auswahl meist aus Rentiergeweih. Die Karte zeigt die Siedlung, in der die Stücke gefunden wurden.",
+      "en": "Most of the sampled combs of an early Viking Age type from Hedeby are made of reindeer antler. The map marks the settlement where they were found."
+    }
+  }
+}

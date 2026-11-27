@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:hedeby-type-five-combs",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hedeby-antler-combs",
+      "role": "supports",
+      "locator": "Antiquity 97, pp. 1233–1248. Introduction, Classification and chronology, Results, Discussion and figs. 2–3. Type 5 sample of 49, 42 certain and 2 probable reindeer identifications. About 0.5% of identifiable workshop waste was reindeer. Trade in finished items and movement of personal possessions are both possibilities. Fig. 3 credits the photographs of four groups to Mariana Muñoz-Rodriguez."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Geweihkämme aus Haithabu",
+    "en": "Antler combs from Hedeby"
+  },
+  "alt": {
+    "de": "Vier Aufnahmen von Kämmen des Typs 5. Zu sehen sind die Zahnplatten, die genieteten Verbindungsleisten sowie Kreis-, Linien- und Flechtornamente.",
+    "en": "Four photographs of Type 5 combs show the tooth plates, riveted connecting plates and the different ring, line and interlace patterns."
+  },
+  "entityIds": [
+    "artifact:hedeby-type-five-antler-combs",
+    "place:hedeby-settlement"
+  ],
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "Mariana Muñoz-Rodriguez"
+    ],
+    "attribution": "Photographs by Mariana Muñoz-Rodriguez, fig. 3 in Muñoz-Rodriguez et al., Antiquity 97 (2023), 1233–1248. CC BY 4.0. DOI 10.15184/aqy.2023.118. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.cambridge.org/core/journals/antiquity/article/in-the-footsteps-of-ohthere-biomolecular-analysis-of-early-viking-age-hair-combs-from-hedeby-haithabu/5200C00F0D7CED6850921343AF1F89C8#fig03",
+    "originNote": "Web edition of the original 1559 × 2015 image. Resampled to 1099 × 1420 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by/4.0/"
+  }
+}

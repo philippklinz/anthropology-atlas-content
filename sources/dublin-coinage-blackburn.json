@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-coinage-blackburn",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Currency under the Vikings. Part 4. The Dublin coinage c.995–1050",
+  "url": "https://www.britnumsoc.org/publications/Digital%20BNJ/pdfs/2008_BNJ_78_5.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Mark Blackburn, British Numismatic Society"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2008"
+}

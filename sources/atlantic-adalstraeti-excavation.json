@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-adalstraeti-excavation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Excavations at Aðalstræti, 2003",
+  "url": "https://www.geos.ed.ac.uk/~nabo/uploads/fsi/FS243-00162_Adalstraeti_2003.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Howell M. Roberts (editor), Fornleifastofnun Íslands"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2004"
+}

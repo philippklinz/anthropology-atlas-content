@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:volga-ibn-fadlan-yaqut",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Yāqūt’s quotations from the book of Ibn Faḍlān",
+  "url": "https://www.libraryofarabicliterature.org/assets/Mission-to-the-Volga-Yaqut-corrected-2014-03-14.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Aḥmad ibn Faḍlān, quoted by Yāqūt. Edited and translated by James E. Montgomery, Library of Arabic Literature"
+  ],
+  "accessedAt": "2026-11-27"
+}

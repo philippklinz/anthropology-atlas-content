@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:osberht-of-northumbria",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-chronicle-ninth",
+      "role": "supports",
+      "locator": "Annal for 867. The entry names the rival kings, describes fighting inside and outside York and reports the final peace."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Osberht von Northumbria",
+    "en": "Osberht of Northumbria"
+  }
+}

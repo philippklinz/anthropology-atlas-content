@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:amlaib-of-dublin-ninth-century",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-ulster-translation",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, two camps and continued presence; U870.6, four months at Ail Cluaithe; U871.2, Áth Cliath, the leaders, 200 ships and the three groups brought back as captives; U902.2 and U917.4, the defenders driven out and Sitriuc’s entry. U980.1 and U983.2, the battle of Tara and later coalitions."
+    },
+    {
+      "sourceId": "source:dumbarton-hillfort",
+      "role": "supports",
+      "locator": "SC1365, “Summary” and “Location”; twin summits, 1974–75 excavation, fifth trench on the eastern side, bedding trench, vitrified stone and three radiocarbon determinations in the sixth to ninth centuries. Site coordinates WGS84, 55.936756 N, 4.563298 W."
+    },
+    {
+      "sourceId": "source:dublin-dumbarton-rock",
+      "role": "supports",
+      "locator": "“Under siege”, identification of the 870 siege of the Rock, the Dublin leaders Olaf and Ivar, and forced removals following the four-month siege."
+    },
+    {
+      "sourceId": "source:dublin-early-medieval-slavery",
+      "role": "supports",
+      "locator": "EMAP Report 7.1, printed pp. 53–55, discussion of captive-taking, trade in enslaved people at Dublin, possibilities of domestic enslavement or onward sale, and the limits of the evidence for different destinations."
+    },
+    {
+      "sourceId": "source:dublin-city-defences",
+      "role": "supports",
+      "locator": "Section 2.1.1–2.1.2, printed pp. 3–4. The two placenames, proposed camp by the pool, events of 902 and 917 and changing focus around the Liffey shore at Fishamble Street and Wood Quay."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Amlaíb von Dublin im 9. Jahrhundert",
+    "en": "Amlaíb of Dublin in the ninth century"
+  }
+}

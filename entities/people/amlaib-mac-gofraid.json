@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:amlaib-mac-gofraid",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-cambridge-raven-penny",
+      "role": "supports",
+      "locator": "EMC 1065.0059, obverse and reverse. Entries for ruler, York mint, Raven / Small Cross type, moneyer Æthelferth, spelling on this specimen and weight of 1.17 g."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Amlaíb mac Gofraid",
+    "en": "Amlaíb mac Gofraid"
+  }
+}

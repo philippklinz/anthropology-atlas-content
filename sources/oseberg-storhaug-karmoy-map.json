@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-storhaug-karmoy-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Grønhaug på Karmøy",
+  "url": "https://www.rogfk.no/vare-tjenester/kulturminner-og-vern/kulturminner-i-rogaland/besok-et-kulturminne/gronhaug-i-karmoy-kommune/",
+  "sourceType": "website",
+  "language": "no",
+  "creators": [
+    "Rogaland fylkeskommune"
+  ],
+  "accessedAt": "2026-11-27"
+}

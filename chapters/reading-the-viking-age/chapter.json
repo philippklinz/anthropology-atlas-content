@@ -1,0 +1,912 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:reading-the-viking-age",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ribe-market-and-coins",
+      "role": "supports",
+      "locator": "In The Fortified Viking Age, pp. 78–80, fig. 5 and tables 1–2. Riverbank lane before 720, plots 6–8 m wide, Rhineland barrels reused in wells, sequence of individual coin finds and the predominance of Series X from about 725."
+    },
+    {
+      "sourceId": "source:ribe-settlement-permanency",
+      "role": "supports",
+      "locator": "European Journal of Archaeology 18, pp. 497–523. The reassessment of the 1985–86 excavations at Sct Nicolajgade 8 uses domestic activity and building remains to propose early permanent occupation on part of the market site."
+    },
+    {
+      "sourceId": "source:ribe-glass-workshops",
+      "role": "supports",
+      "locator": "Archaeological and Anthropological Sciences 14, article 180. Site and materials, table 1 and figs. 1b, 7–8. ASR 9 Post Office site (55°19′44.7″N, 8°46′08.7″E). Early workshop c. 700–720, later workshop c. 760–790. White from bubbles in remelted gold-leaf backing glass and evidence for adding colourants on site."
+    },
+    {
+      "sourceId": "source:birka-rimbert-ansgar",
+      "role": "supports",
+      "locator": "Chapters X–XI. Witmar as a witness, loss of the books en route, permission to preach, captive Christians, Herigar and his church. The narrative is used for the visit. Modern site identification follows the Swedish History Museum."
+    },
+    {
+      "sourceId": "source:birka-museum-rimbert",
+      "role": "supports",
+      "locator": "Opening paragraphs. Rimbert wrote about 865–875. The museum dates Ansgar and Witmar’s first journey to 830 and distinguishes it from Ansgar’s later visit."
+    },
+    {
+      "sourceId": "source:birka-malaren-land-uplift",
+      "role": "supports",
+      "locator": "Handelsplatsen Birka. Björkö stood at a Baltic inlet at the time of the trading settlement. The present lake resulted from land uplift. Also explains the deposits called Svarta jorden."
+    },
+    {
+      "sourceId": "source:birka-world-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 555-001, Birka on Björkö (not 555-002, Hovgården). A rounded site point is shared by the harbour, burial and hoard stations."
+    },
+    {
+      "sourceId": "source:oseberg-grave-chamber-jensenius",
+      "role": "supports",
+      "locator": "Collegium Medievale 29, pp. 84–87, “Oseberggravningen”; fig. 2 and pp. 84–85 on five bark-edge samples, the two posts and ridge, the pressure-deformed chamber, and drawings by Glende and Beck."
+    },
+    {
+      "sourceId": "source:oseberg-fragments-and-silk",
+      "role": "supports",
+      "locator": "“What do the motifs on the Oseberg tapestry signify?”, “Exotic goods from Persia and Byzantium” and “The colours that disappeared”; clothing strips, the reversed silk, tools and Sofie Krafft’s 41 drawings of 110 silk pieces."
+    },
+    {
+      "sourceId": "source:oseberg-texrec-textile-project",
+      "role": "supports",
+      "locator": "Project introduction and research areas 1–3. Over 80 figured fragments, visible motifs, faded dyes and questions about how the original scenes fitted together."
+    },
+    {
+      "sourceId": "source:oseberg-sleighs",
+      "role": "supports",
+      "locator": "Opening account of the burial and the four sleighs, followed by “Carvings and ornamentation”. The museum distinguishes three richly carved sleighs and discusses their use before burial."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:dublin-ulster-translation",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, two camps and continued presence; U870.6, four months at Ail Cluaithe; U871.2, Áth Cliath, the leaders, 200 ships and the three groups brought back as captives; U902.2 and U917.4, the defenders driven out and Sitriuc’s entry. U980.1 and U983.2, the battle of Tara and later coalitions."
+    },
+    {
+      "sourceId": "source:dublin-early-medieval-slavery",
+      "role": "supports",
+      "locator": "EMAP Report 7.1, printed pp. 53–55, discussion of captive-taking, trade in enslaved people at Dublin, possibilities of domestic enslavement or onward sale, and the limits of the evidence for different destinations."
+    },
+    {
+      "sourceId": "source:dublin-city-defences",
+      "role": "supports",
+      "locator": "Section 2.1.1–2.1.2, printed pp. 3–4. The two placenames, proposed camp by the pool, events of 902 and 917 and changing focus around the Liffey shore at Fishamble Street and Wood Quay."
+    },
+    {
+      "sourceId": "source:york-cambridge-raven-penny",
+      "role": "supports",
+      "locator": "EMC 1065.0059, obverse and reverse. Entries for ruler, York mint, Raven / Small Cross type, moneyer Æthelferth, spelling on this specimen and weight of 1.17 g."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    },
+    {
+      "sourceId": "source:jelling-stone",
+      "role": "supports",
+      "locator": "“The Jelling Stone”, translated inscription and photographs. The museum dates the raising to c. 965. Harald’s parents and claims about Denmark, Norway and Christianity, earlier Christian objects and Harald Klak’s baptism at Mainz in 826."
+    },
+    {
+      "sourceId": "source:jelling-imer-thyra",
+      "role": "supports",
+      "locator": "Antiquity 97, 1262–1278. Table 1, introduction on the north mound, “Ravnunge-Tue and the Jelling stones”, figures 9–10, “Sources of error” and conclusion. Læborg’s signed dedication and proposed attribution of Jelling 2, weathering at Jelling 1, variants of Thyra’s epithet, and limits of the proposed reburial. The authors give 959/60 for wood from the chamber."
+    },
+    {
+      "sourceId": "source:jelling-imer-dates",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 3(2), pp. 168–170, tables 1–2 and discussion immediately after table 2. Mid-tenth century up to c. 960 for Jelling 1. The chamber wood is reported as 958/59. Historical dating proposals for Jelling 2 differ."
+    },
+    {
+      "sourceId": "source:jelling-hvass-monuments",
+      "role": "supports",
+      "locator": "Figures 2–6 and English summary under “Stone for his parents” and “Small silver cup”. Vertical and horizontal writing, reliefs, purple silk, and the 4.3 cm silver cup with gilding and entwined animals from the north mound."
+    },
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Nature 601, pp. 388–391. Three worked pieces of wood, the metal-tool cuts and Norse depositional context, Table 1 and Fig. 2 on the radiocarbon signal and counting rings to the surviving outside edge. Published online in 2021."
+    },
+    {
+      "sourceId": "source:atlantic-parks-camp",
+      "role": "supports",
+      "locator": "“Discovery of the Site and Initial Excavations (1960–1968)”. Turf construction in eight buildings, bronze ring-headed pin in a cooking pit, stone lamp and spindle whorl in another building, ship nails and iron slag."
+    },
+    {
+      "sourceId": "source:atlantic-parks-bog-iron",
+      "role": "supports",
+      "locator": "Collection entry “Bog Iron Nail, L’Anse aux Meadows, Newfoundland”. Slag and iron from the excavated nail support smelting of local bog ore. The four nails illustrated on that page are reproductions."
+    },
+    {
+      "sourceId": "source:atlantic-vinland-saga-witnesses",
+      "role": "supports",
+      "locator": "Appendix 1, pp. 30–31, manuscript witnesses AM 544 4to and GKS 1005 fol., and “B. Differences”: one planned expedition in Eiríks saga rauða and four in Grœnlendinga saga."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-norse-farms",
+      "role": "supports",
+      "locator": "Introductory chronology, “Geographical areas of the Norse settlements and settlement pattern” and “Natural resources”. The written sources place one migration from Iceland to Southwest Greenland under Erik the Red around 985. The Western Settlement was in the Nuuk region; archaeological and radiocarbon evidence in the Eastern Settlement reaches at least the mid-fifteenth century."
+    },
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Printed pp. 183–186, keelson sample D2-4 and its final spring ring; pp. 187–189, “Parallels in Irish and English ship-finds”, esp. fig. 55 (Fishamble Street stems T357/T364 and corresponding elements of Skuldelev 2) and text on parallels in Danish-built vessels."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "Opening account, dating the build to around 1042 in the vicinity of Dublin through the oak tree rings."
+    },
+    {
+      "sourceId": "source:dublin-finds",
+      "role": "supports",
+      "locator": "Collection overview, paragraphs on wooden pathways and property boundaries, reused ship timbers in dock walls, drains and paths; the Fishamble Street amber worker’s floor with several hundred flakes and splinters."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-documents",
+      "role": "supports",
+      "locator": "Printed pp. 146, 148–149 and 152–153. P. 146 describes the transmitted attestations of 1409, 1414 and 1424. Document 49 gives the three Sunday banns, local and foreign witnesses, and the two clerics’ seals. Document 52 names the four men who attended in 1408 and attested in Iceland in 1414. Facsimile of the edition with facing original text and Danish translation."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-church",
+      "role": "supports",
+      "locator": "“Kirkens vinduer” on the round arched east window and other flat lintels; “Brylluppet i Hvalseyfjordens kirke” on the September 1408 wedding, the document at Garðar in 1409 and the journey back to Iceland."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-location",
+      "role": "supports",
+      "locator": "Collection item DMR-217737, ruin 1, group Ø83, NKAH 4427 (Hvalsey church). Location field 60.82883° N, 45.78261° W. Modern survey photograph dated 1935."
+    },
+    {
+      "sourceId": "source:ribe-segmented-bead-finds",
+      "role": "supports",
+      "locator": "Section “Segmented metal foil beads”, pp. 161 and 165 and fig. 5a–c (e.g. ASR9x113 59). Manufacture, silver foil, amber-brown and colourless outer glass, joined segments and the visible structure of broken specimens. Opening section on the continued small-scale production in the ninth century."
+    },
+    {
+      "sourceId": "source:birka-ring-shm",
+      "role": "supports",
+      "locator": "Object 106842_HST, accession 34000, Bj 515. Find context, excavator, 1877, silver and glass. The 2021 exhibition label gives the proposed reading of the Arabic inscription."
+    },
+    {
+      "sourceId": "source:birka-warmlander-ring",
+      "role": "supports",
+      "locator": "Scanning 37, pp. 131–137. Materials, p. 132 and supplementary fig. S1, for burial layout, oval brooches, clothes, position and approximate date. Results and figs. 1–3 for filing marks and composition. Discussion accompanying fig. 4 for the favoured dedication and the conditional reading “God willing” if a missing stroke is supplied."
+    },
+    {
+      "sourceId": "source:birka-ring-dig-56338",
+      "role": "supports",
+      "locator": "Media ID ba934209-835b-4b3c-ab7a-73126a4375a9, direct association with object 106842_HST, named photographer and CC BY 4.0 licence."
+    },
+    {
+      "sourceId": "source:york-walton-coppergate-textiles",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/5, table 11 and pp. 341–345, figs 140–142. Context, needle binding, shaping the heel, worn sole and outline of a probable patch."
+    },
+    {
+      "sourceId": "source:york-wool-sock-1309",
+      "role": "supports",
+      "locator": "SC1981-7_SF13517, catalogue 1309; coverage c. 930–975, madder at the ankle and no dye elsewhere."
+    },
+    {
+      "sourceId": "source:york-coppergate-textile-production",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/11, pp. 1787–1788, 1800–1803 and figs 843–844. A 4B pit, dyes and needles, including their concentration on Tenement C and a previously unused silk offcut."
+    },
+    {
+      "sourceId": "source:york-coppergate-occupation",
+      "role": "supports",
+      "locator": "The Archaeology of York 8/5. Abstract and Period 4B on the properties; Structure 5/1, pp. 622–624 and fig. 212; provisional building chronology p. 798. The report dates wall timbers to winter 961/62 and identifies reused wood at the entrance."
+    },
+    {
+      "sourceId": "source:york-coppergate-her",
+      "role": "supports",
+      "locator": "Monument MYO5075, Location: British National Grid SE 6044 5169. Converted to WGS84 and rounded for orientation."
+    },
+    {
+      "sourceId": "source:jelling-pair",
+      "role": "supports",
+      "locator": "“Gorm the Old authored Denmark’s name certificate” and “Two monuments from Danish history”. Gorm’s commissioning formula, the museum’s rendering of Thyra’s epithet, c. 950, and the photograph “The small Jelling stone” by Roberto Fortuna, CC BY-SA 2.0."
+    },
+    {
+      "sourceId": "source:jelling-rune-investigations",
+      "role": "supports",
+      "locator": "Abstract of chapter 12 in Jelling – Monuments and Landscape, pp. 313–332. The smaller stone is no longer in its original position. Excavation during protection works in 2011 re-examined the central area and the position of the larger stone."
+    },
+    {
+      "sourceId": "source:dumbarton-hillfort",
+      "role": "supports",
+      "locator": "SC1365, “Summary” and “Location”; twin summits, 1974–75 excavation, fifth trench on the eastern side, bedding trench, vitrified stone and three radiocarbon determinations in the sixth to ninth centuries. Site coordinates WGS84, 55.936756 N, 4.563298 W."
+    },
+    {
+      "sourceId": "source:dublin-dumbarton-rock",
+      "role": "supports",
+      "locator": "“Under siege”, identification of the 870 siege of the Rock, the Dublin leaders Olaf and Ivar, and forced removals following the four-month siege."
+    },
+    {
+      "sourceId": "source:atlantic-newfoundland-indigenous-hearth",
+      "role": "supports",
+      "locator": "Chapter 7, pp. 102–108, Figs. 7.2–4 and Table 7.1. Hearth 4A76P west of the brook, 15 grey-green chert flakes one metre west of the fire, the nail one metre southeast. With 1950 as BP reference, the reported two-sigma charcoal ranges are AD 900–910 and 960–1040 for Beta-252632 and AD 990–1150 for Beta-252633. The map uses their outer envelope; occupation was episodic. pp. 115–116 and Tables 7.5–6 describe birds on the other, upper terrace."
+    },
+    {
+      "sourceId": "source:atlantic-newfoundland-birds",
+      "role": "supports",
+      "locator": "Arctic Anthropology 49(1), pp. 68–87, DOI 10.1353/arc.2012.0015. Abstract and Table 1 discuss the site in relation to Beothuk ancestors, the charcoal determinations for hearth 4A76P2 and seasonal harvesting of birds."
+    },
+    {
+      "sourceId": "source:parks-indigenous",
+      "role": "supports",
+      "locator": "First two paragraphs. Archaeological evidence of Indigenous use over six millennia and Dorset camps on the south shore more than two centuries before the Norse."
+    }
+  ],
+  "labels": {
+    "de": "Menschen der Wikingerzeit",
+    "en": "People of the Viking Age"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:ribe-hedeby-market-plots",
+    "event:birka-birka-harbour",
+    "event:viking-age-oseberg",
+    "event:liffey-captives",
+    "event:viking-york-raven-penny",
+    "event:viking-age-jelling",
+    "event:viking-age-newfoundland",
+    "event:skuldelev-two-construction",
+    "event:north-atlantic-farms-hvalsey",
+    "asset:skuldelev-two-original-timbers"
+  ],
+  "recordIds": [
+    "artifact:birka-bj-515-finger-ring",
+    "artifact:coppergate-wool-sock-1309",
+    "artifact:lanse-aux-meadows-three-timbers",
+    "artifact:large-jelling-stone",
+    "artifact:oseberg-ship",
+    "artifact:oseberg-sleighs",
+    "artifact:ribe-reused-barrel-well-linings",
+    "artifact:skuldelev-two-longship",
+    "artifact:york-emc-1065-0059",
+    "asset:skuldelev-two-original-timbers",
+    "community:captives-brought-to-dublin-in-871",
+    "event:birka-birka-harbour",
+    "event:liffey-captives",
+    "event:north-atlantic-farms-hvalsey",
+    "event:ribe-hedeby-market-plots",
+    "event:skuldelev-two-construction",
+    "event:viking-age-jelling",
+    "event:viking-age-newfoundland",
+    "event:viking-age-oseberg",
+    "event:viking-york-raven-penny",
+    "geometry:birka-on-bjorko-orientation",
+    "geometry:jelling-rune-stones-orientation",
+    "geometry:lanse-aux-meadows-newfoundland-orientation",
+    "geometry:medieval-dublin-orientation",
+    "geometry:oseberg-burial-mound-orientation",
+    "geometry:qaqortukulooq-hvalsey-church-orientation",
+    "geometry:ribe-marketplace-orientation",
+    "geometry:york-on-the-ouse-orientation",
+    "person:aethelferth-york-moneyer",
+    "person:amlaib-mac-gofraid",
+    "person:amlaib-of-dublin-ninth-century",
+    "person:ansgar",
+    "person:gorm-the-old",
+    "person:harald-bluetooth",
+    "person:hergeir-of-birka",
+    "person:imar-of-dublin-ninth-century",
+    "person:sigridur-bjornsdottir-of-hvalsey",
+    "person:thorsteinn-olafsson-of-hvalsey",
+    "person:thyra-of-jelling",
+    "person:witmar-of-corbie",
+    "place:birka-on-bjorko",
+    "place:jelling-rune-stones",
+    "place:lanse-aux-meadows-newfoundland",
+    "place:medieval-dublin",
+    "place:oseberg-burial-mound",
+    "place:qaqortukulooq-hvalsey-church",
+    "place:ribe-marketplace",
+    "place:york-on-the-ouse",
+    "source:atlantic-greenland-norse-farms",
+    "source:atlantic-hvalsey-church",
+    "source:atlantic-hvalsey-documents",
+    "source:atlantic-hvalsey-location",
+    "source:atlantic-newfoundland-birds",
+    "source:atlantic-newfoundland-indigenous-hearth",
+    "source:atlantic-parks-bog-iron",
+    "source:atlantic-parks-camp",
+    "source:atlantic-vinland-saga-witnesses",
+    "source:birka-androshchuk-coin-hoards",
+    "source:birka-malaren-land-uplift",
+    "source:birka-museum-black-earth-hoards",
+    "source:birka-museum-rimbert",
+    "source:birka-rimbert-ansgar",
+    "source:birka-ring-dig-56338",
+    "source:birka-ring-shm",
+    "source:birka-stolpe-report-1872",
+    "source:birka-uppland-sml-16b",
+    "source:birka-warmlander-ring",
+    "source:birka-world-heritage-map",
+    "source:casiopeia-skuldelev-two-photo",
+    "source:dublin-city-defences",
+    "source:dublin-dumbarton-rock",
+    "source:dublin-early-medieval-slavery",
+    "source:dublin-finds",
+    "source:dublin-ulster-translation",
+    "source:dublin-waters",
+    "source:dublin-york-coin-comparison",
+    "source:dumbarton-hillfort",
+    "source:jelling-hvass-monuments",
+    "source:jelling-imer-dates",
+    "source:jelling-imer-thyra",
+    "source:jelling-location",
+    "source:jelling-pair",
+    "source:jelling-rune-investigations",
+    "source:jelling-stone",
+    "source:newfoundland-location",
+    "source:newfoundland-wood",
+    "source:oseberg-fragments-and-silk",
+    "source:oseberg-grave-chamber-jensenius",
+    "source:oseberg-location",
+    "source:oseberg-ship",
+    "source:oseberg-sleighs",
+    "source:oseberg-texrec-textile-project",
+    "source:parks-indigenous",
+    "source:ribe-floor-radiocarbon",
+    "source:ribe-glass-workshops",
+    "source:ribe-market-and-coins",
+    "source:ribe-segmented-bead-finds",
+    "source:ribe-settlement-permanency",
+    "source:ribe-trade-radiocarbon",
+    "source:skuldelev-channel-location",
+    "source:skuldelev-ship-study",
+    "source:skuldelev-two-museum",
+    "source:viking-word",
+    "source:york-cambridge-raven-penny",
+    "source:york-chronicle-ninth",
+    "source:york-chronicle-tenth",
+    "source:york-city-geonames",
+    "source:york-coppergate-her",
+    "source:york-coppergate-occupation",
+    "source:york-coppergate-textile-production",
+    "source:york-walton-coppergate-textiles",
+    "source:york-wool-sock-1309"
+  ],
+  "steps": [
+    {
+      "id": "ribe",
+      "textAnchor": "ribe",
+      "labels": {
+        "de": "frühes 8. Jahrhundert, vor 720 · Parzellen an einer Gasse",
+        "en": "early eighth century, before 720 · Plots beside a narrow lane"
+      },
+      "summary": {
+        "de": "Noch vor 720 lagen am Fluss schmale Parzellen beiderseits einer Gasse. Der Punkt liegt im ausgegrabenen Marktgebiet.",
+        "en": "By 720 narrow plots stood on either side of a lane by the river. The point marks the excavated market area."
+      },
+      "state": {
+        "camera": {
+          "longitude": 8.7691,
+          "latitude": 55.3291,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 700,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 719,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "birka",
+      "textAnchor": "birka",
+      "labels": {
+        "de": "um 830 · Ansgar und Witmar erreichen den Hafen",
+        "en": "around 830 · Ansgar and Witmar reach the harbour"
+      },
+      "summary": {
+        "de": "Rimbert schildert die Ankunft der beiden Mönche, die Gefangenen und den Ortsvorsteher Hergeir. Der Punkt bezeichnet die Handelsstadt auf Björkö.",
+        "en": "Rimbert recounts the monks’ arrival and describes captives and the town’s reeve, Hergeir. The point marks the trading settlement on Björkö."
+      },
+      "state": {
+        "camera": {
+          "longitude": 17.5426,
+          "latitude": 59.3351,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 829,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 831,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "oseberg",
+      "textAnchor": "oseberg",
+      "labels": {
+        "de": "834 · Die Kammer und die Gewebe der beiden Frauen",
+        "en": "834 · The chamber and the women’s textiles"
+      },
+      "summary": {
+        "de": "Das Holz der Kammer datiert die Bestattung in das Jahr 834. Gewebebänder, Seidenstreifen und Werkzeuge erschließen die Arbeit an Textilien, die bereits vor der Bestattung gebraucht wurden.",
+        "en": "The chamber timbers date the burial to 834. Woven bands, strips of silk and tools provide evidence of textile work and of the use of fabrics before burial."
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.453,
+          "latitude": 59.309,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 834,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 834,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "dublin",
+      "textAnchor": "dublin",
+      "labels": {
+        "de": "871 · Die Ankunft der Gefangenen",
+        "en": "871 · The arrival of the captives"
+      },
+      "summary": {
+        "de": "Die Annalen melden, dass Amlaíb und Ímar mit Gefangenen nach Áth Cliath kamen. Sie zählen Schiffe und nennen Gruppen von Verschleppten. Was aus den einzelnen Menschen wurde, steht dort nicht.",
+        "en": "The annals say that Amlaíb and Ímar brought captives to Áth Cliath. They count ships and name groups of people who were taken. Individual fates go unrecorded."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 871,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 871,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "york",
+      "textAnchor": "york",
+      "labels": {
+        "de": "939–941, Regierungszeit · Der Rabenpenny des Münzers Æthelferth",
+        "en": "939–941, reign · Æthelferth’s Raven penny"
+      },
+      "summary": {
+        "de": "Unter Amlaíb mac Gofraid begann in York die Prägung der Rabenpennys. Einzelne Stücke könnten noch unter seinem Nachfolger entstanden sein. Die Karte zeigt die Münzstadt.",
+        "en": "York began issuing Raven pennies under Amlaíb mac Gofraid. Some specimens may belong to his successor. The map identifies the mint town."
+      },
+      "state": {
+        "camera": {
+          "longitude": -1.08271,
+          "latitude": 53.95763,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 939,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 941,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "jelling",
+      "textAnchor": "jelling",
+      "labels": {
+        "de": "um 965 · Haralds Stein und die Hand des Runenmeisters",
+        "en": "around 965 · Harald’s stone and the carver’s hand"
+      },
+      "summary": {
+        "de": "Harald gedenkt seiner Eltern und beansprucht die Christianisierung der Dänen für sich. Die Rillen der Schrift legen nahe, dass Ravnunge-Tue die Runen schlug.",
+        "en": "Harald commemorates his parents and claims credit for the conversion of the Danes. The carved grooves suggest that Ravnunge-Tue cut the inscription."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.42,
+          "latitude": 55.756,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 960,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 970,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "newfoundland",
+      "textAnchor": "newfoundland",
+      "labels": {
+        "de": "1021 · Drei gefällte Bäume auf Neufundland",
+        "en": "1021 · Three trees felled in Newfoundland"
+      },
+      "summary": {
+        "de": "Die drei Hölzer datieren Arbeiten auf 1021. Nägel, Schlacke und Spinnwirtel bezeugen weitere Tätigkeiten im Lager, deren genaues Jahr offenbleibt.",
+        "en": "Three timbers date work at the camp to 1021. Nails, slag and a spindle whorl attest other activities there whose precise year is unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": -55.533,
+          "latitude": 51.595,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1021,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1021,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "shipwrights",
+      "textAnchor": "shipwrights",
+      "labels": {
+        "de": "1042 · Die Eiche für die Maststütze von Skuldelev 2",
+        "en": "1042 · The oak for the keelson of Skuldelev 2"
+      },
+      "summary": {
+        "de": "Die Eiche für die Maststütze fiel im Mai oder Juni 1042. Der Bau des Langschiffs wird im Raum Dublin vermutet. Zwei in der Stadt ausgegrabene Stevenstücke zeigen vergleichbare Arbeit an anderen Schiffen.",
+        "en": "The oak for the keelson was felled in May or June 1042. The longship was probably built in the Dublin region. Two stem timbers excavated in the town show comparable work on other vessels."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1042,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1042,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:skuldelev-two-original-timbers"
+    },
+    {
+      "id": "hvalsey",
+      "textAnchor": "hvalsey",
+      "labels": {
+        "de": "1408 · Die Hochzeit von Sigríður und Þorsteinn",
+        "en": "1408 · Sigríður and Þorsteinn marry"
+      },
+      "summary": {
+        "de": "Im September 1408 heirateten Sigríður Björnsdóttir und Þorsteinn Ólafsson in der Kirche von Hvalsey. Die Bestätigung der Geistlichen in Garðar und spätere Zeugenaussagen in Island betreffen dieselbe Ehe.",
+        "en": "In September 1408 Sigríður Björnsdóttir and Þorsteinn Ólafsson married in Hvalsey church. The Garðar clerics’ declaration and later testimony in Iceland concern the same marriage."
+      },
+      "state": {
+        "camera": {
+          "longitude": -45.7826,
+          "latitude": 60.8288,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1408,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1408,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Neun Stationen führen vom Markt am Fluss in Ribe über Gefangene in Dublin, eine Königsmünze und einen Runenstein bis zur nordischen Siedlung auf Neufundland. Ein Ausblick führt ins mittelalterliche Grönland.",
+      "en": "Nine stops lead from the riverside market in Ribe to captives in Dublin, a royal penny, a rune stone and Norse woodworking in Newfoundland. A final stop visits medieval Greenland."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "reading-guides",
+        "labels": {
+          "de": "Lesewege",
+          "en": "Reading guides"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      },
+      {
+        "id": "ships-and-sea-trade",
+        "labels": {
+          "de": "Schiffe und Seehandel",
+          "en": "Ships and maritime trade"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "scandinavia",
+        "labels": {
+          "de": "Skandinavien",
+          "en": "Scandinavia"
+        }
+      },
+      {
+        "id": "baltic-sea",
+        "labels": {
+          "de": "Ostsee",
+          "en": "Baltic Sea"
+        }
+      },
+      {
+        "id": "british-isles",
+        "labels": {
+          "de": "Britische und irische Inseln",
+          "en": "Britain and Ireland"
+        }
+      },
+      {
+        "id": "north-atlantic",
+        "labels": {
+          "de": "Nordatlantik",
+          "en": "North Atlantic"
+        }
+      },
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -18.9952,
+      "latitude": 56.2119,
+      "metersPerPixel": 14137,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 700,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 700,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1408,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1408,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

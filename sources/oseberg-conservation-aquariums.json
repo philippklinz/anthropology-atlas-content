@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-conservation-aquariums",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The long soak",
+  "url": "https://www.khm.uio.no/english/collections/objects/the-long-soak.html",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Museum of Cultural History, University of Oslo"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -26,6 +26,8 @@ Wie kommt ein Bäcker im Kapitel über die Franken vor? Eine Versammlung in Fran
 
 In der Nähe von Roskilde fanden Archäologen die Überreste mehrerer Schiffe. Im Rumpf des langen Schiffes, das heute Skuldelev 2 heißt, sind Eichenhölzer erhalten, deren Jahrringfolge gut zu irischen Vergleichsproben passt. An einem Stück ist sogar der äußerste, noch im Wachstum begriffene Ring erhalten. Das Jahr 1042 gehört deshalb zur Fällung. Wo die Zimmerleute das Schiff zu Wasser ließen, lässt sich weniger genau sagen. Im [irischen Kapitel](chapter:iona-and-the-gaelic-seas#dublin) liegen die möglichen Bauplätze in der Gegend um Dublin. Im [Wikinger-Kapitel](chapter:viking-ships-and-settlements#dublin) liest du dasselbe Holz mit Blick auf den späteren Fund im Fjord.
 
+Von diesem Schiff führt auch ein [Leseweg zu den Menschen der Wikingerzeit](chapter:reading-the-viking-age#shipwrights).
+
 ## Die Ladung eines gesunkenen Schiffs {#sinan}
 
 1323 war ein Handelsschiff unterwegs, das vor der koreanischen Küste sank. Die Funde bei Sinan geben Auskunft, die ein Königserlass kaum bewahrt hätte. Auf hölzernen Etiketten standen Datierungen oder Hinweise auf die Empfänger der Waren. Der [chinesische Hafen Qingyuan](chapter:cities-and-records-in-medieval-china#qingyuan) war wahrscheinlich der Ausgangshafen, [Sinan](chapter:goryeo-and-its-workshops#sinan) der Fundort. Der Name einer [Tempelgemeinschaft in Japan](chapter:court-and-coast-in-medieval-japan#tofukuji) führt zu Menschen, für die ein Teil der Ladung bestimmt war. Das Schiff erreichte sie nicht. Gerade die Unterbrechung seiner Fahrt verbindet hier drei Kapitel.

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-vaering-excavation-crew",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Osebergskipet, utgravning. Professor Gustafson og mannskapet (CfO0176)",
+  "url": "https://commons.wikimedia.org/wiki/File:CfO0176_museum_no._C55000_1_Osebergskipet_utgravning%2C_professor_Gustafson_og_mannskapet_%28Oseberg_ship_1904._Photo_Olaf_V%C3%A6ring%2C_Kulturhistorisk_museum_UiO_Oslo%2C_Norway._License_CC_BY-SA_4.0%29.jpg",
+  "sourceType": "archive",
+  "language": "no",
+  "creators": [
+    "Olaf Væring",
+    "Kulturhistorisk museum, Universitetet i Oslo"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1904"
+}

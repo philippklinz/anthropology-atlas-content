@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:storhaug-karmoy-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-bonde-stylegar-timbers",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 5, pp. 21–25, especially fig. 3 (separate felling dates for Storhaug loose timber, Oseberg hull and burial chamber), table 2 (ring series) and “Narrowing down the location of the shipbuilding site” (beech and probable origins in western Norway)."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:oseberg-storhaug-karmoy-map",
+      "role": "supports",
+      "locator": "“Oppdag skipsgravene” and the map “Kart over Grønhaug og Storhaug på Karmøy,” showing Storhaug north of Grønhaug beside the Karmsund."
+    },
+    {
+      "sourceId": "source:oseberg-storhaug-karmoy-map",
+      "role": "derivation",
+      "locator": "Local heritage map of the two burial grounds beside Karmsund, with the Storhaug site on the Gunnarshaug farm to the north."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Rogaland fylkeskommune.",
+    "sourceUrl": "https://www.rogfk.no/vare-tjenester/kulturminner-og-vern/kulturminner-i-rogaland/besok-et-kulturminne/gronhaug-i-karmoy-kommune/",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

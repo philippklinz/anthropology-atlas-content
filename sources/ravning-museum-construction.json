@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ravning-museum-construction",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ravningbroen",
+  "url": "https://www.vejlemuseerne.dk/besoeg-os/ravningbroen/",
+  "sourceType": "catalog",
+  "language": "da",
+  "creators": [
+    "Vejlemuseerne"
+  ],
+  "accessedAt": "2026-11-27"
+}

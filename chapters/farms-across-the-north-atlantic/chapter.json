@@ -1,0 +1,493 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:farms-across-the-north-atlantic",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atlantic-adalstraeti-hall",
+      "role": "supports",
+      "locator": "The exhibition at Aðalstræti 16, in the original location of the tenth-century hall. The listing distinguishes the earlier wall fragment. Map point at 64.14749° N, 21.94251° W locates the exhibition on the archaeological site."
+    },
+    {
+      "sourceId": "source:atlantic-adalstraeti-excavation",
+      "role": "supports",
+      "locator": "FS243-00162, Summary, the paved structure at the eastern doorway. Appendix 4, Karen B. Milek, sections on preservation of occupation deposits and the central hearth. Floor deposits were sealed by collapsed turf roofing."
+    },
+    {
+      "sourceId": "source:atlantic-adalstraeti-floors",
+      "role": "supports",
+      "locator": "NORSEC 2, pp. 1–4 and Figs. 5–7. Square-metre sampling, sieving heavy fraction through 1 mm mesh, about 3% identifiable, taxa and calcination. Authors interpret spatial distributions as possible hearth raking and trampling near walls and benches."
+    },
+    {
+      "sourceId": "source:atlantic-newfoundland-indigenous-hearth",
+      "role": "supports",
+      "locator": "Chapter 7, pp. 102–108, Figs. 7.2–4 and Table 7.1. Hearth 4A76P west of the brook, 15 grey-green chert flakes one metre west of the fire, the nail one metre southeast. With 1950 as BP reference, the reported two-sigma charcoal ranges are AD 900–910 and 960–1040 for Beta-252632 and AD 990–1150 for Beta-252633. The map uses their outer envelope; occupation was episodic. pp. 115–116 and Tables 7.5–6 describe birds on the other, upper terrace."
+    },
+    {
+      "sourceId": "source:atlantic-newfoundland-birds",
+      "role": "supports",
+      "locator": "Arctic Anthropology 49(1), pp. 68–87, DOI 10.1353/arc.2012.0015. Abstract and Table 1 discuss the site in relation to Beothuk ancestors, the charcoal determinations for hearth 4A76P2 and seasonal harvesting of birds."
+    },
+    {
+      "sourceId": "source:atlantic-parks-camp",
+      "role": "supports",
+      "locator": "“Discovery of the Site and Initial Excavations (1960–1968)”. Turf construction in eight buildings, bronze ring-headed pin in a cooking pit, stone lamp and spindle whorl in another building, ship nails and iron slag."
+    },
+    {
+      "sourceId": "source:atlantic-parks-bog-iron",
+      "role": "supports",
+      "locator": "Collection entry “Bog Iron Nail, L’Anse aux Meadows, Newfoundland”. Slag and iron from the excavated nail support smelting of local bog ore. The four nails illustrated on that page are reproductions."
+    },
+    {
+      "sourceId": "source:atlantic-vinland-saga-witnesses",
+      "role": "supports",
+      "locator": "Appendix 1, pp. 30–31, manuscript witnesses AM 544 4to and GKS 1005 fol., and “B. Differences”: one planned expedition in Eiríks saga rauða and four in Grœnlendinga saga."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-fauna",
+      "role": "supports",
+      "locator": "Meddelelser om Grønland, Man & Society 28, abstract and farm economy synthesis. Three phases, dental ages of dairy cattle, change from harbour to harp seal, 166 fish bones found exclusively in sieved samples; char, cod and capelin. The assemblage is not a quantitative measure of the diet."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-field",
+      "role": "supports",
+      "locator": "Antiquity 83, pp. 430–444. Fig. 1 and site introduction describe alluvial cover. Sampling and Replication, especially p. 439, report cattle, sheep and goat DNA in open-field core samples dated AD 1215–1285 and 1305–1365. The station follows the latter sediment sample."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-farm-location",
+      "role": "supports",
+      "locator": "Site description pp. 46–47 and Figs. 11–12. Farm at 64°06′ N, 50°05′ W in the valley at the head of Ameralla fjord. Coordinate refers to the archaeological locality, not to the soil core."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-farm-excavation",
+      "role": "supports",
+      "locator": "Collection no. DMR-216754, filename 003_33868.tif. Field photograph taken during the six excavation seasons of 1992–1997. Photographer and CC BY-SA 4.0 are identified in the record. The farm is mapped from the excavation research."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-norse-farms",
+      "role": "supports",
+      "locator": "Introductory chronology, “Geographical areas of the Norse settlements and settlement pattern” and “Natural resources”. The written sources place one migration from Iceland to Southwest Greenland under Erik the Red around 985. The Western Settlement was in the Nuuk region; archaeological and radiocarbon evidence in the Eastern Settlement reaches at least the mid-fifteenth century."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-documents",
+      "role": "supports",
+      "locator": "Printed pp. 146, 148–149 and 152–153. P. 146 describes the transmitted attestations of 1409, 1414 and 1424. Document 49 gives the three Sunday banns, local and foreign witnesses, and the two clerics’ seals. Document 52 names the four men who attended in 1408 and attested in Iceland in 1414. Facsimile of the edition with facing original text and Danish translation."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-church",
+      "role": "supports",
+      "locator": "“Kirkens vinduer” on the round arched east window and other flat lintels; “Brylluppet i Hvalseyfjordens kirke” on the September 1408 wedding, the document at Garðar in 1409 and the journey back to Iceland."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-location",
+      "role": "supports",
+      "locator": "Collection item DMR-217737, ruin 1, group Ø83, NKAH 4427 (Hvalsey church). Location field 60.82883° N, 45.78261° W. Modern survey photograph dated 1935."
+    },
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Nature 601, pp. 388–391. Three worked pieces of wood, the metal-tool cuts and Norse depositional context, Table 1 and Fig. 2 on the radiocarbon signal and counting rings to the surviving outside edge. Published online in 2021."
+    },
+    {
+      "sourceId": "source:parks-indigenous",
+      "role": "supports",
+      "locator": "First two paragraphs. Archaeological evidence of Indigenous use over six millennia and Dorset camps on the south shore more than two centuries before the Norse."
+    },
+    {
+      "sourceId": "source:newfoundland-location",
+      "role": "supports",
+      "locator": "Official national historic site point ACPWM, 51.5952777 N, 55.5330555 W; used for the site, not individual wood samples."
+    }
+  ],
+  "labels": {
+    "de": "Höfe und Feuerstellen am Nordatlantik",
+    "en": "Farms and hearths on the North Atlantic"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:north-atlantic-farms-adalstraeti",
+    "event:black-duck-brook-hearth",
+    "event:viking-age-newfoundland",
+    "event:north-atlantic-farms-farm-beneath-the-sand",
+    "event:north-atlantic-farms-hvalsey",
+    "asset:farm-beneath-the-sand-excavation"
+  ],
+  "recordIds": [
+    "artifact:adalstraeti-burnt-bone-assemblage",
+    "artifact:black-duck-brook-chert-flakes",
+    "artifact:gus-farm-faunal-assemblage",
+    "artifact:lanse-aux-meadows-three-timbers",
+    "asset:farm-beneath-the-sand-excavation",
+    "event:black-duck-brook-hearth",
+    "event:north-atlantic-farms-adalstraeti",
+    "event:north-atlantic-farms-farm-beneath-the-sand",
+    "event:north-atlantic-farms-hvalsey",
+    "event:viking-age-newfoundland",
+    "geometry:adalstraeti-longhouse-reykjavik-orientation",
+    "geometry:garden-under-sandet-western-settlement-orientation",
+    "geometry:lanse-aux-meadows-newfoundland-orientation",
+    "geometry:qaqortukulooq-hvalsey-church-orientation",
+    "person:sigridur-bjornsdottir-of-hvalsey",
+    "person:thorsteinn-olafsson-of-hvalsey",
+    "place:adalstraeti-longhouse-reykjavik",
+    "place:garden-under-sandet-western-settlement",
+    "place:lanse-aux-meadows-newfoundland",
+    "place:qaqortukulooq-hvalsey-church",
+    "source:atlantic-adalstraeti-excavation",
+    "source:atlantic-adalstraeti-floors",
+    "source:atlantic-adalstraeti-hall",
+    "source:atlantic-greenland-farm-excavation",
+    "source:atlantic-greenland-farm-location",
+    "source:atlantic-greenland-fauna",
+    "source:atlantic-greenland-field",
+    "source:atlantic-greenland-norse-farms",
+    "source:atlantic-hvalsey-church",
+    "source:atlantic-hvalsey-documents",
+    "source:atlantic-hvalsey-location",
+    "source:atlantic-newfoundland-birds",
+    "source:atlantic-newfoundland-indigenous-hearth",
+    "source:atlantic-parks-bog-iron",
+    "source:atlantic-parks-camp",
+    "source:atlantic-vinland-saga-witnesses",
+    "source:newfoundland-location",
+    "source:newfoundland-wood",
+    "source:parks-indigenous"
+  ],
+  "steps": [
+    {
+      "id": "adalstraeti",
+      "textAnchor": "adalstraeti",
+      "labels": {
+        "de": "10. Jahrhundert · Das Herdfeuer im Langhaus",
+        "en": "10th century · The hearth in the longhouse"
+      },
+      "summary": {
+        "de": "Im Fußboden einer Halle aus dem 10. Jahrhundert blieben winzige verbrannte Knochen erhalten. Der Punkt zeigt den erhaltenen Befund in der Aðalstræti.",
+        "en": "Tiny pieces of burnt bone survived in the floor of a tenth-century hall. The point marks the preserved excavation on Aðalstræti."
+      },
+      "state": {
+        "camera": {
+          "longitude": -21.9425,
+          "latitude": 64.1475,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 901,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1000,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "black-duck-brook",
+      "textAnchor": "black-duck-brook",
+      "labels": {
+        "de": "etwa 900–1150 · Eine indigene Feuerstelle am Bach",
+        "en": "roughly 900–1150 · An Indigenous hearth by the brook"
+      },
+      "summary": {
+        "de": "15 Hornsteinabschläge lagen westlich der Feuerstelle. Die Karte zeigt den Fundortkomplex und die äußeren Grenzen der beiden Holzkohledatierungen. Ob die Feuerstelle und die nordischen Häuser gleichzeitig genutzt wurden, bleibt offen.",
+        "en": "Fifteen chert flakes lay west of the hearth. The point locates the archaeological site. The window covers the outer limits of two charcoal dates; whether the hearth and the Norse buildings were used at the same time remains open."
+      },
+      "state": {
+        "camera": {
+          "longitude": -55.533,
+          "latitude": 51.595,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 900,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1150,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "newfoundland",
+      "textAnchor": "newfoundland",
+      "labels": {
+        "de": "1021 · Drei gefällte Bäume auf Neufundland",
+        "en": "1021 · Three trees felled in Newfoundland"
+      },
+      "summary": {
+        "de": "Die drei Hölzer datieren Arbeiten auf 1021. Nägel, Schlacke und Spinnwirtel bezeugen weitere Tätigkeiten im Lager, deren genaues Jahr offenbleibt.",
+        "en": "Three timbers date work at the camp to 1021. Nails, slag and a spindle whorl attest other activities there whose precise year is unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": -55.533,
+          "latitude": 51.595,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1021,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1021,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "farm-beneath-the-sand",
+      "textAnchor": "farm-beneath-the-sand",
+      "labels": {
+        "de": "1305–1365 · Vieh auf dem Hof unter dem Sand",
+        "en": "1305–1365 · Livestock at the Farm Beneath the Sand"
+      },
+      "summary": {
+        "de": "Eine Bodenschicht im Feld barg Erbmaterial von Rindern, Schafen und Ziegen. Das Zeitfenster gehört zur jüngeren der zwei unabhängig geprüften Proben. Der Punkt markiert den Hof in der Westsiedlung.",
+        "en": "Soil from the field contained DNA of cattle, sheep and goats. The window dates the younger of two independently tested samples. The point marks the farm in the Western Settlement."
+      },
+      "state": {
+        "camera": {
+          "longitude": -50.0833,
+          "latitude": 64.1,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1305,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1365,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:farm-beneath-the-sand-excavation"
+    },
+    {
+      "id": "hvalsey",
+      "textAnchor": "hvalsey",
+      "labels": {
+        "de": "1408 · Die Hochzeit von Sigríður und Þorsteinn",
+        "en": "1408 · Sigríður and Þorsteinn marry"
+      },
+      "summary": {
+        "de": "Im September 1408 heirateten Sigríður Björnsdóttir und Þorsteinn Ólafsson in der Kirche von Hvalsey. Die Bestätigung der Geistlichen in Garðar und spätere Zeugenaussagen in Island betreffen dieselbe Ehe.",
+        "en": "In September 1408 Sigríður Björnsdóttir and Þorsteinn Ólafsson married in Hvalsey church. The Garðar clerics’ declaration and later testimony in Iceland concern the same marriage."
+      },
+      "state": {
+        "camera": {
+          "longitude": -45.7826,
+          "latitude": 60.8288,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1408,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1408,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Langhausboden in Reykjavík, eine indigene Feuerstelle und ein Spinnwirtel in Neufundland erzählen von der Arbeit am Atlantik. In Grönland führen Tierknochen auf einen Bauernhof und Zeugenaussagen zu einer Hochzeit von 1408.",
+      "en": "A Reykjavík house floor, an Indigenous hearth and a spindle whorl in Newfoundland preserve traces of work around the Atlantic. In Greenland, animal bones lead to an inland farm and witnesses recall a wedding in 1408."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "farming-and-herding",
+        "labels": {
+          "de": "Ackerbau und Tierhaltung",
+          "en": "Cultivation and herding"
+        }
+      },
+      {
+        "id": "settlements",
+        "labels": {
+          "de": "Siedlungen",
+          "en": "Settlements"
+        }
+      },
+      {
+        "id": "seafaring",
+        "labels": {
+          "de": "Seefahrt",
+          "en": "Seafaring"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "north-atlantic",
+        "labels": {
+          "de": "Nordatlantik",
+          "en": "North Atlantic"
+        }
+      },
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -38.73775,
+      "latitude": 57.87125,
+      "metersPerPixel": 7246,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 900,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 900,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1408,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1408,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

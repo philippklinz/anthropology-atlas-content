@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:trelleborg-slagelse-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.2653,
+      55.3942
+    ]
+  }
+}

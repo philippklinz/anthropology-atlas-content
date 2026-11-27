@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-texrec-textile-project",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "TexRec – Virtual Reconstruction, Interpretation and Preservation of the Textile Artefacts from the Oseberg Find",
+  "url": "https://www.khm.uio.no/english/research/projects/texrec/index.html",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "Museum of Cultural History, University of Oslo"
+  ],
+  "accessedAt": "2026-11-27"
+}

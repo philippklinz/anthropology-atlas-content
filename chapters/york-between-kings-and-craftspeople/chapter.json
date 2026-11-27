@@ -1,0 +1,437 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:york-between-kings-and-craftspeople",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-chronicle-ninth",
+      "role": "supports",
+      "locator": "Annal for 867. The entry names the rival kings, describes fighting inside and outside York and reports the final peace."
+    },
+    {
+      "sourceId": "source:york-chronicle-tenth",
+      "role": "supports",
+      "locator": "Annals for 948, 952 and 954. Note whom the annalist casts as agents in receiving and expelling a king."
+    },
+    {
+      "sourceId": "source:dublin-york-coin-comparison",
+      "role": "supports",
+      "locator": "Rollason, historical sources, the capture in 866–867 and Northumbrian councillors; Blackburn, coinage under Olaf, fig. 82.2 and discussion of the Raven issue under the two Olafs. Craft synthesis, 16–22 Coppergate, pp. 476–481."
+    },
+    {
+      "sourceId": "source:york-cambridge-raven-penny",
+      "role": "supports",
+      "locator": "EMC 1065.0059, obverse and reverse. Entries for ruler, York mint, Raven / Small Cross type, moneyer Æthelferth, spelling on this specimen and weight of 1.17 g."
+    },
+    {
+      "sourceId": "source:york-coppergate-occupation",
+      "role": "supports",
+      "locator": "The Archaeology of York 8/5. Abstract and Period 4B on the properties; Structure 5/1, pp. 622–624 and fig. 212; provisional building chronology p. 798. The report dates wall timbers to winter 961/62 and identifies reused wood at the entrance."
+    },
+    {
+      "sourceId": "source:york-walton-coppergate-textiles",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/5, table 11 and pp. 341–345, figs 140–142. Context, needle binding, shaping the heel, worn sole and outline of a probable patch."
+    },
+    {
+      "sourceId": "source:york-wool-sock-1309",
+      "role": "supports",
+      "locator": "SC1981-7_SF13517, catalogue 1309; coverage c. 930–975, madder at the ankle and no dye elsewhere."
+    },
+    {
+      "sourceId": "source:york-coppergate-textile-production",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/11, pp. 1787–1788, 1800–1803 and figs 843–844. A 4B pit, dyes and needles, including their concentration on Tenement C and a previously unused silk offcut."
+    },
+    {
+      "sourceId": "source:york-coppergate-her",
+      "role": "supports",
+      "locator": "Monument MYO5075, Location: British National Grid SE 6044 5169. Converted to WGS84 and rounded for orientation."
+    },
+    {
+      "sourceId": "source:york-city-geonames",
+      "role": "supports",
+      "locator": "GeoNames 2633352, York city reference coordinates (53.95763, −1.08271). City-scale marker for historical events whose exact street is unknown."
+    },
+    {
+      "sourceId": "source:york-coppergate-doorway-figure",
+      "role": "supports",
+      "locator": "Hall and colleagues, The Archaeology of York 8/5 (2014), p. 624, fig. 212, scale interval 0.1 m. Photographs credited collectively on p. 802. The publisher's online catalogue (item 74471) licenses the report under CC BY 4.0."
+    }
+  ],
+  "labels": {
+    "de": "York zwischen Königsmünze und Werkbank",
+    "en": "York between the mint and the workshop"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:viking-york-york-wall",
+    "event:viking-york-coppergate",
+    "event:viking-york-raven-penny",
+    "event:viking-york-edred",
+    "event:viking-york-cellars",
+    "asset:coppergate-plank-house-doorway"
+  ],
+  "recordIds": [
+    "artifact:coppergate-structure-five-one",
+    "artifact:coppergate-wool-sock-1309",
+    "artifact:york-emc-1065-0059",
+    "asset:coppergate-plank-house-doorway",
+    "event:viking-york-cellars",
+    "event:viking-york-coppergate",
+    "event:viking-york-edred",
+    "event:viking-york-raven-penny",
+    "event:viking-york-york-wall",
+    "geometry:york-coppergate-16-22-orientation",
+    "geometry:york-on-the-ouse-orientation",
+    "person:aelle-of-northumbria",
+    "person:aethelferth-york-moneyer",
+    "person:amlaib-mac-gofraid",
+    "person:eadred-of-england",
+    "person:erik-king-at-york",
+    "person:osberht-of-northumbria",
+    "place:york-coppergate-16-22",
+    "place:york-on-the-ouse",
+    "source:dublin-york-coin-comparison",
+    "source:york-cambridge-raven-penny",
+    "source:york-chronicle-ninth",
+    "source:york-chronicle-tenth",
+    "source:york-city-geonames",
+    "source:york-coppergate-doorway-figure",
+    "source:york-coppergate-her",
+    "source:york-coppergate-occupation",
+    "source:york-coppergate-textile-production",
+    "source:york-walton-coppergate-textiles",
+    "source:york-wool-sock-1309"
+  ],
+  "steps": [
+    {
+      "id": "york-wall",
+      "textAnchor": "york-wall",
+      "labels": {
+        "de": "867 · Die beiden Könige fallen in York",
+        "en": "867 · Two Northumbrian kings die at York"
+      },
+      "summary": {
+        "de": "Osberht und Ælle fielen im März beim Kampf um York. Der Punkt bezeichnet die Stadt. Der Durchbruch lässt sich keinem bestimmten Tor zuweisen.",
+        "en": "Osberht and Ælle died in the fighting at York in March. The marker identifies the city. The account does not locate the breach at a particular gate."
+      },
+      "state": {
+        "camera": {
+          "longitude": -1.08271,
+          "latitude": 53.95763,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 867,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 867,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "coppergate",
+      "textAnchor": "coppergate",
+      "labels": {
+        "de": "etwa 930/935–975 · Eine Socke in einem Hinterhof",
+        "en": "c. 930/935–975 · A sock in a backyard"
+      },
+      "summary": {
+        "de": "Fund 1309 lag in einem Hinterhof der Phase 4B. Stiche umgeben die abgenutzte Sohle. Die Zeitspanne datiert die Fundschicht.",
+        "en": "Find 1309 came from a backyard in Phase 4B. Sewing outlines a patch beneath the worn sole. The date range applies to the deposit."
+      },
+      "state": {
+        "camera": {
+          "longitude": -1.08038,
+          "latitude": 53.95778,
+          "metersPerPixel": 85,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 930,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 975,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "raven-penny",
+      "textAnchor": "raven-penny",
+      "labels": {
+        "de": "939–941, Regierungszeit · Der Rabenpenny des Münzers Æthelferth",
+        "en": "939–941, reign · Æthelferth’s Raven penny"
+      },
+      "summary": {
+        "de": "Unter Amlaíb mac Gofraid begann in York die Prägung der Rabenpennys. Einzelne Stücke könnten noch unter seinem Nachfolger entstanden sein. Die Karte zeigt die Münzstadt.",
+        "en": "York began issuing Raven pennies under Amlaíb mac Gofraid. Some specimens may belong to his successor. The map identifies the mint town."
+      },
+      "state": {
+        "camera": {
+          "longitude": -1.08271,
+          "latitude": 53.95763,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 939,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 941,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "edred",
+      "textAnchor": "edred",
+      "labels": {
+        "de": "954 · Die Nordhumbrier vertreiben Erik",
+        "en": "954 · The Northumbrians expel Erik"
+      },
+      "summary": {
+        "de": "Die Chronik nennt die Nordhumbrier als Handelnde und Eadred als neuen Herrscher. York dient als Orientierung für das Königtum. Ein Versammlungsort wird in der Quelle nicht genannt.",
+        "en": "The Chronicle credits the Northumbrians with expelling Erik and records Eadred’s succession. York marks the seat of kingship. The entry gives no meeting place."
+      },
+      "state": {
+        "camera": {
+          "longitude": -1.08271,
+          "latitude": 53.95763,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 954,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 954,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "cellars",
+      "textAnchor": "cellars",
+      "labels": {
+        "de": "Winter 961/62 · Die Bohlen eines Hauses auf Grundstück A",
+        "en": "winter 961/62 · The wall planks of a house on plot A"
+      },
+      "summary": {
+        "de": "Die jüngsten erhaltenen Ringe ausgewählter Wandbohlen datieren ihre Fällung auf den Winter 961/62. Der Punkt zeigt das Haus, in dem die Hölzer verbaut wurden.",
+        "en": "Growth rings from wall planks date their felling to the winter of 961/62. The marker shows the house where the timber was used."
+      },
+      "state": {
+        "camera": {
+          "longitude": -1.08038,
+          "latitude": 53.95778,
+          "metersPerPixel": 85,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 961,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 962,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:coppergate-plank-house-doorway"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Zwei Könige fallen vor York. Ein Münzer setzt seinen Namen auf Silber. Unter der Coppergate bleiben die Sohle einer geflickten Socke und die Türschwelle eines Hauses erhalten.",
+      "en": "Two kings die in the fighting at York. A moneyer names himself on silver. A backyard yields a mended sock, and excavators uncover the threshold of a house on Coppergate."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "early-english-kingdoms",
+        "labels": {
+          "de": "Das mittelalterliche England",
+          "en": "Medieval England"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "british-isles",
+        "labels": {
+          "de": "Britische und irische Inseln",
+          "en": "Britain and Ireland"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -1.08154,
+      "latitude": 53.95771,
+      "metersPerPixel": 342,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 867,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 867,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 975,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 975,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

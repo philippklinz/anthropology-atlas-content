@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:liffey-hostages",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-tigernach-hostages",
+      "role": "supports",
+      "locator": "T979.2, capture of Domnall Claen; T980.3–4, Tara and the subsequent siege, agreed terms, named hostage, three days and nights, and the biblical simile (folio 15a2, printed pp. 341–342). T983.1 gives the later opposing coalitions."
+    },
+    {
+      "sourceId": "source:dublin-ulster-translation",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, two camps and continued presence; U870.6, four months at Ail Cluaithe; U871.2, Áth Cliath, the leaders, 200 ships and the three groups brought back as captives; U902.2 and U917.4, the defenders driven out and Sitriuc’s entry. U980.1 and U983.2, the battle of Tara and later coalitions."
+    },
+    {
+      "sourceId": "source:dublin-waters",
+      "role": "supports",
+      "locator": "Section 2.1.3, “Viking and Norman Dublin”, printed p. 9, on the Liffey crossing and the pool of the Poddle. The existing point represents the Dublin area rather than a shipyard, landing or mint building."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Domnall Cláen kommt frei",
+    "en": "The release of Domnall Cláen"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 980,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 980,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:domnall-claen-of-leinster",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:mael-sechnaill-mac-domnaill",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:eochaid-mac-ardgail",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:medieval-dublin"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:medieval-dublin-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Annalen von Tigernach nennen den König von Leinster unter den Geiseln, die nach der Belagerung Dublins durch Máel Sechnaill und Eochaid freikamen. Der Bericht zählt auch die ausgehandelten Bedingungen auf.",
+      "en": "The Annals of Tigernach name the king of Leinster among the hostages released after Máel Sechnaill and Eochaid besieged Dublin. The entry also lists the terms the victors obtained."
+    }
+  }
+}

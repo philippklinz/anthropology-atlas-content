@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:middle-volga-in-the-land-of-the-volga-bulgars-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      49.0564,
+      54.9789
+    ]
+  }
+}

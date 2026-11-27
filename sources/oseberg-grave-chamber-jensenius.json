@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-grave-chamber-jensenius",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Osebergskipets gravkammer",
+  "url": "https://ojs.novus.no/index.php/CM/article/download/1367/1352/1569",
+  "sourceType": "article",
+  "language": "no",
+  "creators": [
+    "Jørgen H. Jensenius"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2016"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schleswig-house-and-plots",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Von Haithabu nach Schleswig. Aktuelle Forschungen zur Gründung einer Metropole zwischen Wikinger- und Hansezeit",
+  "url": "https://journals.ub.uni-heidelberg.de/index.php/mitt-dgamn/article/download/17017/10832",
+  "sourceType": "article",
+  "language": "de",
+  "creators": [
+    "Ulrich Müller, Felix Rösch and Michaela Schimmer"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2014"
+}

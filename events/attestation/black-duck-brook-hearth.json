@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:black-duck-brook-hearth",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atlantic-newfoundland-indigenous-hearth",
+      "role": "supports",
+      "locator": "Chapter 7, pp. 102–108, Figs. 7.2–4 and Table 7.1. Hearth 4A76P west of the brook, 15 grey-green chert flakes one metre west of the fire, the nail one metre southeast. With 1950 as BP reference, the reported two-sigma charcoal ranges are AD 900–910 and 960–1040 for Beta-252632 and AD 990–1150 for Beta-252633. The map uses their outer envelope; occupation was episodic. pp. 115–116 and Tables 7.5–6 describe birds on the other, upper terrace."
+    },
+    {
+      "sourceId": "source:atlantic-newfoundland-birds",
+      "role": "supports",
+      "locator": "Arctic Anthropology 49(1), pp. 68–87, DOI 10.1353/arc.2012.0015. Abstract and Table 1 discuss the site in relation to Beothuk ancestors, the charcoal determinations for hearth 4A76P2 and seasonal harvesting of birds."
+    },
+    {
+      "sourceId": "source:parks-indigenous",
+      "role": "supports",
+      "locator": "First two paragraphs. Archaeological evidence of Indigenous use over six millennia and Dorset camps on the south shore more than two centuries before the Norse."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine indigene Feuerstelle am Bach",
+    "en": "An Indigenous hearth by the brook"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 900,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1150,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:black-duck-brook-chert-flakes",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:lanse-aux-meadows-newfoundland"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:lanse-aux-meadows-newfoundland-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "15 Hornsteinabschläge lagen westlich der Feuerstelle. Die Karte zeigt den Fundortkomplex und die äußeren Grenzen der beiden Holzkohledatierungen. Ob die Feuerstelle und die nordischen Häuser gleichzeitig genutzt wurden, bleibt offen.",
+      "en": "Fifteen chert flakes lay west of the hearth. The point locates the archaeological site. The window covers the outer limits of two charcoal dates; whether the hearth and the Norse buildings were used at the same time remains open."
+    }
+  }
+}

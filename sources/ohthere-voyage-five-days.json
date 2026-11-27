@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ohthere-voyage-five-days",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Voyages of Ohthere and Wulfstan, in An Old English Grammar and Exercise Book",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/An_old_English_grammar_and_exercise_book_with_inflections%2C_syntax%2C_selections_for_readings%2C_and_glossary_%28IA_cu31924027322928%29.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "C. Alphonso Smith (editor)"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1896"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:volga-rusiyyah-montgomery",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ibn Faḍlān and the Rūsiyyah",
+  "url": "https://www.lancaster.ac.uk/jais/volume/docs/vol3/v3_1_Montgomery.htm",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "James E. Montgomery, Journal of Arabic and Islamic Studies"
+  ],
+  "accessedAt": "2026-11-27"
+}

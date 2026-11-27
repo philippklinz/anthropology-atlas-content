@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ribe-floor-radiocarbon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Solar Event Sheds Light on Trade between the Islamic Middle East and Viking Age Scandinavia",
+  "url": "https://urbnet.au.dk/fileadmin/ingen_mappe_valgt/Annual_report_2022_public__enkeltsider_.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Centre for Urban Network Evolutions, Aarhus University"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2022"
+}

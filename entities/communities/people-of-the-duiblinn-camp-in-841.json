@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:people-of-the-duiblinn-camp-in-841",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dublin-ulster-irish",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, especially the twice-occurring longport and the phrase for the continuing presence at Duiblinn. Printed Irish text p. 300."
+    },
+    {
+      "sourceId": "source:dublin-ulster-translation",
+      "role": "supports",
+      "locator": "U841.4 and U842.2, two camps and continued presence; U870.6, four months at Ail Cluaithe; U871.2, Áth Cliath, the leaders, 200 ships and the three groups brought back as captives; U902.2 and U917.4, the defenders driven out and Sitriuc’s entry. U980.1 and U983.2, the battle of Tara and later coalitions."
+    },
+    {
+      "sourceId": "source:dublin-city-defences",
+      "role": "supports",
+      "locator": "Section 2.1.1–2.1.2, printed pp. 3–4. The two placenames, proposed camp by the pool, events of 902 and 917 and changing focus around the Liffey shore at Fishamble Street and Wood Quay."
+    },
+    {
+      "sourceId": "source:dublin-black-pool-site",
+      "role": "supports",
+      "locator": "“Dublin Your Knowledge”, pp. 86–88, map of the sites by the former black pool, proposed longphort on its south bank and explicit discussion of the debated location."
+    },
+    {
+      "sourceId": "source:dublin-waters",
+      "role": "supports",
+      "locator": "Section 2.1.3, “Viking and Norman Dublin”, printed p. 9, on the Liffey crossing and the pool of the Poddle. The existing point represents the Dublin area rather than a shipyard, landing or mint building."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Menschen im Schiffslager von Duiblinn 841",
+    "en": "People at the ship camp of Duiblinn in 841"
+  }
+}

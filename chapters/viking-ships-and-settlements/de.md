@@ -2,11 +2,15 @@
 
 Ein Loch für einen Niet kann zweierlei verraten. Es zeigt, wie ein Schiff zusammengefügt war. Sitzt daneben ein zweites, das für die erhaltene Planke überflüssig ist, hat hier womöglich schon einmal jemand eine Reparatur vorgenommen. An einem Langschiff im Roskilde-Fjord lässt sich so über Jahrzehnte hinweg Arbeit verfolgen. Von den Namen der Menschen, die daran arbeiteten, ist keiner überliefert. Auch „Wikinger“ hilft nur bedingt bei der Suche. Im Altnordischen konnte das Wort jemanden bezeichnen, der auf Raubfahrt ging. Zur Geschichte der skandinavischen Gesellschaften gehören ebenso die Schnitzer, Zimmerleute und Familien, die Schiffe ausrüsteten oder einem alten Schiff eine ganz andere Aufgabe gaben.
 
+Wer die Menschen an den Handelsplätzen, auf den Höfen und in den Werkstätten kennenlernen möchte, kann von hier dem Leseweg [Menschen der Wikingerzeit](chapter:reading-the-viking-age) folgen.
+
 ## Vier Schlitten für zwei Frauen {#oseberg}
 
 Bei Oseberg im heutigen Norwegen ließ man 834 ein Schiff an Land bringen und zwei Frauen darin bestatten. Das Schiff war ungefähr vierzehn Jahre zuvor gebaut worden. An jeder Seite hatte es fünfzehn Öffnungen für die Ruder. Zwischen den Dingen, die man den Frauen mitgab, standen vier Schlitten. An dreien sind selbst die Kufen mit Tieren verziert, deren Körper sich ineinander verschlingen. Die Schlitten hatten schon vor der Bestattung gedient. Menschen hatten die Figuren also für Gegenstände geschnitzt, die über den Boden gezogen werden sollten.
 
 An diesem Grab kann man zwei Fragen stellen, die unterschiedlich weit führen. Welche Arbeiten mussten abgeschlossen sein, bevor man den Hügel zuschüttete? Davon sprechen der Schiffsrumpf und die Schlitten sehr deutlich. Welches Amt hatten die Frauen bekleidet? Für wen hatte man die Stücke ursprünglich angefertigt? Die reiche Ausstattung weist auf eine herausgehobene Stellung. Die Namen der Frauen fehlen. Eine von ihnen „Königin“ zu nennen, würde eine offene Frage vorzeitig entscheiden.
+
+An [der Grabkammer und den umgenähten Seidenstreifen](chapter:oseberg-ship-burial#oseberg) lässt sich die Bestattung noch einmal aus der Nähe betrachten.
 
 ## Welche Familie Harald in den Stein schreiben ließ {#jelling}
 
@@ -14,17 +18,23 @@ In Jelling in Dänemark hatte eine Königsfamilie ein anderes Mittel, dafür zu 
 
 Harald sprach als König, der einen Anspruch sichtbar machte. Schon vor ihm gab es Christen in Dänemark. Erhaltene christliche Schmuckstücke und die Nachricht über die Taufe des dänischen Königs Harald Klak 826 in Mainz reichen in diese frühere Geschichte zurück. Die beiden Steine in Jelling zeigen, was diese Familie öffentlich von sich sagen ließ. Wollte man aus Haralds Worten für jedes Dorf ein Jahr der Bekehrung ableiten, fehlte dafür der Beleg.
 
+Auf [Gorms kleinerem Gedenkstein für Thyra](chapter:jelling-and-the-royal-builders#thyra) lässt sich lesen, was eine Generation vor Harald über dieselbe Frau gesagt wurde.
+
 ## Drei Bäume mit demselben letzten Jahr {#newfoundland}
 
 An der Nordspitze Neufundlands hinterließen Menschen im Bereich der nordischen Siedlung von L’Anse aux Meadows bearbeitete Holzstücke. Drei davon, von drei verschiedenen Bäumen, trugen Spuren von Metallwerkzeugen. An allen war die äußerste Holzkante mit dem letzten Jahresring erhalten. Das erwies sich bei der Datierung als entscheidend. Ein Anstieg von radioaktivem Kohlenstoff in der Atmosphäre hatte im Jahr 993 in Bäumen weit voneinander entfernter Regionen eine erkennbare Spur hinterlassen. Forschende fanden dieses Signal im Holz und zählten von dort die Ringe bis zum Rand. Alle drei Bäume waren 1021 gefällt worden.
 
 Dieses Jahr bezeichnet einen Moment, in dem an diesem Ort Holz verarbeitet wurde. Wann das erste Boot anlegte, bleibt offen. Die Bucht war schon seit Jahrtausenden Lebensraum indigener Gemeinschaften. Am südlichen Ufer sind unter anderem Lagerplätze der Dorset-Kultur belegt, die mehr als zwei Jahrhunderte vor der nordischen Anwesenheit liegen. Ein genaues Datum für drei Bäume zu haben, ist etwas anderes, als eine Begegnung zwischen Menschen auf den Tag ansetzen zu können.
 
+An [einer indigenen Feuerstelle bei Black Duck Brook](chapter:farms-across-the-north-atlantic#black-duck-brook) ergibt die Holzkohle eine breitere Datierung. Der Fundbericht zeigt, was sich daraus über die Nutzung derselben Bucht sagen lässt.
+
 ## Wer baute ein Langschiff an der Irischen See? {#dublin}
 
 Im Boden des Roskilde-Fjords fanden sich schließlich Teile eines anderen Schiffs. Die Jahrringe seines Holzes ließen sich besonders gut mit Vergleichsreihen aus Irland in Einklang bringen. Eine Eiche für das Kielschwein, die Maststütze im Innern des Rumpfes, fiel im Mai oder Juni 1042. Das Langschiff wurde damals oder bald darauf in Ostirland gebaut, wahrscheinlich im Raum Dublin. Auf der Karte siehst du die vermutete Baugegend. Den Arbeitsplatz der einzelnen Zimmerleute können wir nicht lokalisieren.
 
 Wir kennen weder den Auftraggeber noch den Namen, den die Mannschaft dem Schiff gab. Heute heißt es nach seinem dänischen Fundort **Skuldelev 2**. Für den Rumpf rechnet das Museum mit etwa dreißig Metern Länge und sechzig Rudern. Bereits die Entscheidung, ein solches Schiff vom Ufer abzustoßen, setzte voraus, dass man viele Menschen gleichzeitig zusammenbekam. Wo beschaffte eine Stadt an der Irischen See all die Materialien und Arbeitskraft? [In Dublin kannst du zum Blick vom Ufer wechseln.](chapter:iona-and-the-gaelic-seas#dublin)
+
+Was außer Schiffsarbeit den Alltag in Dublin prägte, ist an den [Häusern und Höfen der Fishamble Street](chapter:dublin-on-the-liffey#fishamble) zu sehen.
 
 ## Als der Rumpf die Durchfahrt versperrte {#peberrenden}
 

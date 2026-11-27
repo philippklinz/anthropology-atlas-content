@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jelling-north-mound-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tegning af nordhøjen i Jelling",
+  "url": "https://samlinger.natmus.dk/do/asset/1525",
+  "sourceType": "catalog",
+  "language": "da",
+  "creators": [
+    "Nationalmuseet, Danmarks Oldtid"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,537 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:jelling-and-the-royal-builders",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:jelling-stone",
+      "role": "supports",
+      "locator": "“The Jelling Stone”, translated inscription and photographs. The museum dates the raising to c. 965. Harald’s parents and claims about Denmark, Norway and Christianity, earlier Christian objects and Harald Klak’s baptism at Mainz in 826."
+    },
+    {
+      "sourceId": "source:jelling-pair",
+      "role": "supports",
+      "locator": "“Gorm the Old authored Denmark’s name certificate” and “Two monuments from Danish history”. Gorm’s commissioning formula, the museum’s rendering of Thyra’s epithet, c. 950, and the photograph “The small Jelling stone” by Roberto Fortuna, CC BY-SA 2.0."
+    },
+    {
+      "sourceId": "source:jelling-location",
+      "role": "supports",
+      "locator": "Geographical data table, property 697bis, N55° 45′ 23″ E9° 25′ 12″."
+    },
+    {
+      "sourceId": "source:jelling-imer-thyra",
+      "role": "supports",
+      "locator": "Antiquity 97, 1262–1278. Table 1, introduction on the north mound, “Ravnunge-Tue and the Jelling stones”, figures 9–10, “Sources of error” and conclusion. Læborg’s signed dedication and proposed attribution of Jelling 2, weathering at Jelling 1, variants of Thyra’s epithet, and limits of the proposed reburial. The authors give 959/60 for wood from the chamber."
+    },
+    {
+      "sourceId": "source:jelling-rune-investigations",
+      "role": "supports",
+      "locator": "Abstract of chapter 12 in Jelling – Monuments and Landscape, pp. 313–332. The smaller stone is no longer in its original position. Excavation during protection works in 2011 re-examined the central area and the position of the larger stone."
+    },
+    {
+      "sourceId": "source:jelling-imer-dates",
+      "role": "supports",
+      "locator": "Danish Journal of Archaeology 3(2), pp. 168–170, tables 1–2 and discussion immediately after table 2. Mid-tenth century up to c. 960 for Jelling 1. The chamber wood is reported as 958/59. Historical dating proposals for Jelling 2 differ."
+    },
+    {
+      "sourceId": "source:jelling-hvass-monuments",
+      "role": "supports",
+      "locator": "Figures 2–6 and English summary under “Stone for his parents” and “Small silver cup”. Vertical and horizontal writing, reliefs, purple silk, and the 4.3 cm silver cup with gilding and entwined animals from the north mound."
+    },
+    {
+      "sourceId": "source:jelling-north-mound-location",
+      "role": "supports",
+      "locator": "Object DO-1525. Description of the west-facing section and view of the burial chamber (Tabula I, 1823); Placering / Koordinater 55.75704, 9.41993. Location reference only."
+    },
+    {
+      "sourceId": "source:jelling-boundary-palisade",
+      "role": "supports",
+      "locator": "“The palisade”, “The timber buildings” and “The rune-stones and burial mounds”, pp. 6–7. Area of 12.7 ha, oak planks and paired round posts, trench depth 1–1.2 m, traces of three buildings, southeastern wetland wood and estimate 958–985, probably around 968."
+    },
+    {
+      "sourceId": "source:jelling-palisade-smededammen",
+      "role": "supports",
+      "locator": "16 August 2013, paragraphs on the sampling by Niels Bonde and the Smededammen excavation. Eleven of twelve samples dated; one preserved wood immediately inside the bark. The 1.4 km circuit and most probable date around 968."
+    },
+    {
+      "sourceId": "source:jelling-pond-location",
+      "role": "supports",
+      "locator": "Record DO-6476 identifies the pond as Smededammen. Placering / Koordinater 55.75584, 9.42238, approximate orientation at the pond, not the exact sampled plank."
+    },
+    {
+      "sourceId": "source:ravning-museum-construction",
+      "role": "supports",
+      "locator": "“Danmarks længste bro i tusind år” and “En imponerende konstruktion”. Measurements and construction, wood joints, variable post lengths, suggested traffic, local attribution to Harald and conventional date c. 980."
+    },
+    {
+      "sourceId": "source:ravning-christensen-age",
+      "role": "supports",
+      "locator": "KUML 52, figs 1 and 3; Danish discussion on pp. 216 and 220–221 and the English conclusion pp. 224–225. The last identified ring yields autumn 979 as a lower limit. Missing bark and revised sapwood statistics give a felling range of roughly 980–1010."
+    },
+    {
+      "sourceId": "source:ravning-bridge-coordinates",
+      "role": "supports",
+      "locator": "Q996217, coordinate location P625, 55°40′16.4″ N, 9°20′46.9″ E. Approximate site orientation."
+    },
+    {
+      "sourceId": "source:trelleborg-bonde-christensen",
+      "role": "supports",
+      "locator": "Aarbøger for Nordisk Oldkyndighed og Historie 1982 (issued 1984), pp. 111–152. Figure 8 and the English results and conclusion on pp. 145–147: four June/July felling estimates for timbers of the inner ditch barrier; D 701 from the outer bridge, August 980 to May 981; what these can date directly."
+    },
+    {
+      "sourceId": "source:trelleborg-houses-cemetery",
+      "role": "supports",
+      "locator": "Section “Trelleborg”, plan and text. Sixteen houses inside the rampart, cemetery with at least 157 men, women and children, and an alternative association with the village 200 metres away."
+    },
+    {
+      "sourceId": "source:trelleborg-icomos-ring-forts",
+      "role": "supports",
+      "locator": "Advisory-body evaluation, “Brief description” and statement of Outstanding Universal Value. Danish fortresses with broadly shared geometric layout and four gates, attribution during Harald’s reign and interpretive limits on their purpose."
+    },
+    {
+      "sourceId": "source:trelleborg-unesco-location",
+      "role": "supports",
+      "locator": "Geographical data, component 1660-004, Trelleborg in Zealand. Central point 55°23′39″ N, 11°15′55″ E and property maps."
+    }
+  ],
+  "labels": {
+    "de": "Königin Thyra und die Bauleute von Jelling",
+    "en": "Queen Thyra and the builders of Jelling"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:royal-jelling-thyra",
+    "event:royal-jelling-north-mound",
+    "event:viking-age-jelling",
+    "event:royal-jelling-palisade",
+    "event:royal-jelling-ravning",
+    "event:royal-jelling-trelleborg",
+    "asset:small-jelling-stone"
+  ],
+  "recordIds": [
+    "artifact:jelling-palisade-timbers",
+    "artifact:jelling-silver-cup",
+    "artifact:large-jelling-stone",
+    "artifact:ravning-bridge-posts",
+    "artifact:small-jelling-stone",
+    "artifact:trelleborg-ditch-timbers",
+    "asset:small-jelling-stone",
+    "event:royal-jelling-north-mound",
+    "event:royal-jelling-palisade",
+    "event:royal-jelling-ravning",
+    "event:royal-jelling-thyra",
+    "event:royal-jelling-trelleborg",
+    "event:viking-age-jelling",
+    "geometry:jelling-north-mound-orientation",
+    "geometry:jelling-rune-stones-orientation",
+    "geometry:jelling-smededammen-orientation",
+    "geometry:ravning-enge-bridge-orientation",
+    "geometry:trelleborg-slagelse-orientation",
+    "person:gorm-the-old",
+    "person:harald-bluetooth",
+    "person:thyra-of-jelling",
+    "place:jelling-north-mound",
+    "place:jelling-rune-stones",
+    "place:jelling-smededammen",
+    "place:ravning-enge-bridge",
+    "place:trelleborg-slagelse",
+    "source:jelling-boundary-palisade",
+    "source:jelling-hvass-monuments",
+    "source:jelling-imer-dates",
+    "source:jelling-imer-thyra",
+    "source:jelling-location",
+    "source:jelling-north-mound-location",
+    "source:jelling-pair",
+    "source:jelling-palisade-smededammen",
+    "source:jelling-pond-location",
+    "source:jelling-rune-investigations",
+    "source:jelling-stone",
+    "source:oseberg-ship",
+    "source:ravning-bridge-coordinates",
+    "source:ravning-christensen-age",
+    "source:ravning-museum-construction",
+    "source:trelleborg-bonde-christensen",
+    "source:trelleborg-houses-cemetery",
+    "source:trelleborg-icomos-ring-forts",
+    "source:trelleborg-unesco-location"
+  ],
+  "steps": [
+    {
+      "id": "thyra",
+      "textAnchor": "thyra",
+      "labels": {
+        "de": "um 950 · Gorm erinnert an Thyra",
+        "en": "around 950 · Gorm remembers Thyra"
+      },
+      "summary": {
+        "de": "Gorm lässt seiner Frau Thyra einen Stein setzen. Die Karte markiert den heutigen Standort in Jelling. Der ursprüngliche Aufstellungsort ist ungewiss.",
+        "en": "Gorm commissions a stone for his wife Thyra. The map shows its present location at Jelling. Its original position is uncertain."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.42,
+          "latitude": 55.756,
+          "metersPerPixel": 330,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 940,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 960,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:small-jelling-stone"
+    },
+    {
+      "id": "north-mound",
+      "textAnchor": "north-mound",
+      "labels": {
+        "de": "um 959 · Ein Silberbecher aus der Grabkammer",
+        "en": "around 959 · A silver cup from the burial chamber"
+      },
+      "summary": {
+        "de": "Holz aus der Kammer im Nordhügel ist um 959 datiert. Ein kleiner verzierter Becher und Seidenreste sind erhalten. Wer hier bestattet war, bleibt offen.",
+        "en": "Wood from the North Mound chamber dates to about 959. A decorated cup and scraps of silk survive. The identity of the person or people buried here is uncertain."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.4199,
+          "latitude": 55.757,
+          "metersPerPixel": 330,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 958,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 960,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "jelling",
+      "textAnchor": "jelling",
+      "labels": {
+        "de": "um 965 · Haralds Stein und die Hand des Runenmeisters",
+        "en": "around 965 · Harald’s stone and the carver’s hand"
+      },
+      "summary": {
+        "de": "Harald gedenkt seiner Eltern und beansprucht die Christianisierung der Dänen für sich. Die Rillen der Schrift legen nahe, dass Ravnunge-Tue die Runen schlug.",
+        "en": "Harald commemorates his parents and claims credit for the conversion of the Danes. The carved grooves suggest that Ravnunge-Tue cut the inscription."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.42,
+          "latitude": 55.756,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 960,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 970,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "palisade",
+      "textAnchor": "palisade",
+      "labels": {
+        "de": "wahrscheinlich um 968 · Eichenplanken am Smededammen",
+        "en": "probably around 968 · Oak planks at Smededammen"
+      },
+      "summary": {
+        "de": "Von zwölf Proben aus der Palisade ließen sich elf datieren. Die Spanne für das Fällen reicht von 958 bis 985, am wahrscheinlichsten ist 968. Der Punkt zeigt den Bereich des heutigen Teichs.",
+        "en": "Eleven of twelve samples from the palisade could be dated. Felling falls between 958 and 985, most probably around 968. The point marks the area of the present pond."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.4224,
+          "latitude": 55.7558,
+          "metersPerPixel": 330,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 958,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 985,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "ravning",
+      "textAnchor": "ravning",
+      "labels": {
+        "de": "etwa 980–1010 · Eine Holzbrücke über die Talwiesen",
+        "en": "roughly 980–1010 · A timber bridge across the valley"
+      },
+      "summary": {
+        "de": "Die Pfosten markieren eine etwa 760 Meter lange Brücke. Der jüngste gemessene Ring stammt von 979. Ohne erhaltene Rinde bleibt der Fällzeitpunkt ungefähr auf 980 bis 1010 eingegrenzt.",
+        "en": "Timber posts mark a bridge roughly 760 metres long. The latest ring measured dates to 979. With bark missing, felling can be placed only broadly around 980–1010."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.3464,
+          "latitude": 55.6712,
+          "metersPerPixel": 330,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 980,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1010,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "trelleborg",
+      "textAnchor": "trelleborg",
+      "labels": {
+        "de": "980/81 · Zwei Gräben derselben Baustelle",
+        "en": "980–981 · Two ditches at one building site"
+      },
+      "summary": {
+        "de": "Hölzer aus der Sperre im inneren Graben und von der Brücke über den äußeren belegen Bauarbeiten 980/81. Der Punkt zeigt die Ringburg bei Slagelse auf Seeland.",
+        "en": "Timbers from the inner ditch barrier and the bridge over the outer ditch place construction in 980–981. The point marks the ring fortress near Slagelse, Zealand."
+      },
+      "state": {
+        "camera": {
+          "longitude": 11.2653,
+          "latitude": 55.3942,
+          "metersPerPixel": 330,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 980,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 981,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Wer schlug die Runen zum Gedenken an Thyra? An zwei Steinen lässt sich die Hand eines Handwerkers verfolgen. Kammerhölzer, die Palisade am Dorfteich und zwei große Bauwerke erzählen von der Arbeit für die Könige von Jelling.",
+      "en": "Who cut the runes in memory of Thyra? The hand of a craftsperson can be traced across two stones. Chamber timbers, the palisade at a village pond and two great building sites reveal work on the scale of the Jelling kings."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "courts-and-envoys",
+        "labels": {
+          "de": "Höfe und Gesandte",
+          "en": "Courts and envoys"
+        }
+      },
+      {
+        "id": "religion",
+        "labels": {
+          "de": "Religion",
+          "en": "Religion"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "scandinavia",
+        "labels": {
+          "de": "Skandinavien",
+          "en": "Scandinavia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 10.30585,
+      "latitude": 55.5756,
+      "metersPerPixel": 377,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 940,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 940,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1010,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1010,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

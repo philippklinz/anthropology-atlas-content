@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ribe-hedeby-schleswig-house",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:schleswig-house-and-plots",
+      "role": "supports",
+      "locator": "Mitteilungen der DGAMN 27, pp. 25–29, esp. p. 28, figs. 1–2. Schild house erected in 1071 above nearly one metre of deposits. At Plessenstraße 83/3, separate excavation of plots with wattle fences and successive renewals at the waterfront."
+    },
+    {
+      "sourceId": "source:schleswig-schild-excavation-map",
+      "role": "supports",
+      "locator": "Figure 2 locates Schild (no. 5) in Schleswig old town, alongside the site at Plessenstraße 83/3 (no. 1) and the medieval waterfront. A rounded point on the old town peninsula provides orientation."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Haus in der Schleswiger Altstadt",
+    "en": "A house in Schleswig old town"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1071,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1071,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:schleswig-schild-timber-house",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:schleswig-schild"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:schleswig-schild-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "1071 wurde im heutigen Schleswiger Grabungsgebiet Schild ein Holzhaus errichtet. Unter dem Haus liegen ältere Ablagerungen menschlicher Tätigkeit. Der Kartenpunkt markiert das Grabungsviertel.",
+      "en": "A timber house was built in 1071 in the area of the modern Schild excavation. Older occupation deposits lay underneath. The map marks the excavation neighbourhood."
+    }
+  }
+}

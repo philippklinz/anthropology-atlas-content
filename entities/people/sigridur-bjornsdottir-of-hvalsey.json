@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:sigridur-bjornsdottir-of-hvalsey",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atlantic-hvalsey-documents",
+      "role": "supports",
+      "locator": "Printed pp. 146, 148–149 and 152–153. P. 146 describes the transmitted attestations of 1409, 1414 and 1424. Document 49 gives the three Sunday banns, local and foreign witnesses, and the two clerics’ seals. Document 52 names the four men who attended in 1408 and attested in Iceland in 1414. Facsimile of the edition with facing original text and Danish translation."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-church",
+      "role": "supports",
+      "locator": "“Kirkens vinduer” on the round arched east window and other flat lintels; “Brylluppet i Hvalseyfjordens kirke” on the September 1408 wedding, the document at Garðar in 1409 and the journey back to Iceland."
+    },
+    {
+      "sourceId": "source:atlantic-hvalsey-location",
+      "role": "supports",
+      "locator": "Collection item DMR-217737, ruin 1, group Ø83, NKAH 4427 (Hvalsey church). Location field 60.82883° N, 45.78261° W. Modern survey photograph dated 1935."
+    },
+    {
+      "sourceId": "source:atlantic-greenland-norse-farms",
+      "role": "supports",
+      "locator": "Introductory chronology, “Geographical areas of the Norse settlements and settlement pattern” and “Natural resources”. The written sources place one migration from Iceland to Southwest Greenland under Erik the Red around 985. The Western Settlement was in the Nuuk region; archaeological and radiocarbon evidence in the Eastern Settlement reaches at least the mid-fifteenth century."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Sigríður Björnsdóttir",
+    "en": "Sigríður Björnsdóttir"
+  }
+}

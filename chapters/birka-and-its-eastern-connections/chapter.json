@@ -1,0 +1,483 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:birka-and-its-eastern-connections",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:birka-rimbert-ansgar",
+      "role": "supports",
+      "locator": "Chapters X–XI. Witmar as a witness, loss of the books en route, permission to preach, captive Christians, Herigar and his church. The narrative is used for the visit. Modern site identification follows the Swedish History Museum."
+    },
+    {
+      "sourceId": "source:birka-museum-rimbert",
+      "role": "supports",
+      "locator": "Opening paragraphs. Rimbert wrote about 865–875. The museum dates Ansgar and Witmar’s first journey to 830 and distinguishes it from Ansgar’s later visit."
+    },
+    {
+      "sourceId": "source:birka-malaren-land-uplift",
+      "role": "supports",
+      "locator": "Handelsplatsen Birka. Björkö stood at a Baltic inlet at the time of the trading settlement. The present lake resulted from land uplift. Also explains the deposits called Svarta jorden."
+    },
+    {
+      "sourceId": "source:birka-world-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 555-001, Birka on Björkö (not 555-002, Hovgården). A rounded site point is shared by the harbour, burial and hoard stations."
+    },
+    {
+      "sourceId": "source:birka-ring-shm",
+      "role": "supports",
+      "locator": "Object 106842_HST, accession 34000, Bj 515. Find context, excavator, 1877, silver and glass. The 2021 exhibition label gives the proposed reading of the Arabic inscription."
+    },
+    {
+      "sourceId": "source:birka-warmlander-ring",
+      "role": "supports",
+      "locator": "Scanning 37, pp. 131–137. Materials, p. 132 and supplementary fig. S1, for burial layout, oval brooches, clothes, position and approximate date. Results and figs. 1–3 for filing marks and composition. Discussion accompanying fig. 4 for the favoured dedication and the conditional reading “God willing” if a missing stroke is supplied."
+    },
+    {
+      "sourceId": "source:birka-ring-dig-56338",
+      "role": "supports",
+      "locator": "Media ID ba934209-835b-4b3c-ab7a-73126a4375a9, direct association with object 106842_HST, named photographer and CC BY 4.0 licence."
+    },
+    {
+      "sourceId": "source:volga-ibn-fadlan-yaqut",
+      "role": "supports",
+      "locator": "Section Rūs, paragraphs 74–78 and pp. 27–29. Merchants at the Itil, houses on the bank, enslaved women, sable pelts, offerings and hoped-for buyer. The translation indicates where Yāqūt’s quotations parallel the Mashhad recension."
+    },
+    {
+      "sourceId": "source:volga-ibn-fadlan-dating",
+      "role": "supports",
+      "locator": "The Journey of Ibn Fadlan, 921–922, map. Pages 25–26, The reading of the caliph’s letter, for the embassy’s arrival in May 922. The market on the Volga, p. 40."
+    },
+    {
+      "sourceId": "source:volga-rusiyyah-montgomery",
+      "role": "supports",
+      "locator": "Introduction and annotated translation of the Rūsiyyah passage. The identification of the group seen by the envoy allows more than one interpretation."
+    },
+    {
+      "sourceId": "source:bolgar-world-heritage-map",
+      "role": "supports",
+      "locator": "Component 981-001, N54°58′44″ E49°03′23″. A regional point on the middle Volga. The archaeological site gives geographic orientation only."
+    },
+    {
+      "sourceId": "source:birka-androshchuk-coin-hoards",
+      "role": "supports",
+      "locator": "Transactions 23, p. 60, description of the 1872 Birka hoard and the al-Maṣṣīṣa issue dated 963/64 by the author. Also the Volga Bulgar attributions. Pages 73–75 discuss the Byzantine frontier, the capture of al-Maṣṣīṣa in 965, service and payment as possible contexts."
+    },
+    {
+      "sourceId": "source:birka-uppland-sml-16b",
+      "role": "supports",
+      "locator": "Adelsö, no. 16B, SHM/KMK 5208:3. Wärner found the dish on 18 September 1872. Quotes Stolpe’s excavation notes with depth and counts of whole and broken coins. Lists al-Masisah, 963–967, and a second broadly dated late issue."
+    },
+    {
+      "sourceId": "source:birka-stolpe-report-1872",
+      "role": "supports",
+      "locator": "Report on the silver hoard, especially the inventory and discussion of Tornberg’s readings. Compares the readings 963 and 967 and distinguishes minting from the unknown date of burial."
+    },
+    {
+      "sourceId": "source:mopsuestia-mint-locality",
+      "role": "supports",
+      "locator": "Toponym entry 1443. Modern name Yakapınar (Misis), Barrington Atlas 67 B3, Pleiades 658538 and discussion of the settlement by the Pyramos. The city marks the district of production. The position of the coin workshop is unknown."
+    },
+    {
+      "sourceId": "source:birka-museum-black-earth-hoards",
+      "role": "supports",
+      "locator": "Opening description of the 1872 iron dish and uncertainty of its precise findspot. Paragraph on the larger 1991 find with seven weights. Sections on coin pendants and the two wave lines under the ship on the Hedeby coin from grave Bj 526."
+    }
+  ],
+  "labels": {
+    "de": "Ein Ring und ein Dirham in Birka",
+    "en": "A ring and a dirham at Birka"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:birka-birka-harbour",
+    "event:birka-ring",
+    "event:birka-volga",
+    "event:birka-mint",
+    "event:birka-black-earth",
+    "asset:birka-bj-515-finger-ring"
+  ],
+  "recordIds": [
+    "artifact:birka-bj-515-finger-ring",
+    "artifact:birka-black-earth-silver-hoard-1872",
+    "artifact:birka-mopsuestia-dirham",
+    "asset:birka-bj-515-finger-ring",
+    "community:rus-merchants-in-ibn-fadlan",
+    "event:birka-birka-harbour",
+    "event:birka-black-earth",
+    "event:birka-mint",
+    "event:birka-ring",
+    "event:birka-volga",
+    "geometry:birka-on-bjorko-orientation",
+    "geometry:middle-volga-in-the-land-of-the-volga-bulgars-orientation",
+    "geometry:mopsuestia-in-cilicia-orientation",
+    "person:ahmad-ibn-fadlan",
+    "person:ansgar",
+    "person:hergeir-of-birka",
+    "person:warner-birka-excavation",
+    "person:witmar-of-corbie",
+    "place:birka-on-bjorko",
+    "place:middle-volga-in-the-land-of-the-volga-bulgars",
+    "place:mopsuestia-in-cilicia",
+    "source:birka-androshchuk-coin-hoards",
+    "source:birka-malaren-land-uplift",
+    "source:birka-museum-black-earth-hoards",
+    "source:birka-museum-rimbert",
+    "source:birka-rimbert-ansgar",
+    "source:birka-ring-dig-56338",
+    "source:birka-ring-shm",
+    "source:birka-stolpe-report-1872",
+    "source:birka-uppland-sml-16b",
+    "source:birka-warmlander-ring",
+    "source:birka-world-heritage-map",
+    "source:bolgar-world-heritage-map",
+    "source:mopsuestia-mint-locality",
+    "source:volga-ibn-fadlan-dating",
+    "source:volga-ibn-fadlan-yaqut",
+    "source:volga-rusiyyah-montgomery"
+  ],
+  "steps": [
+    {
+      "id": "birka-harbour",
+      "textAnchor": "birka-harbour",
+      "labels": {
+        "de": "um 830 · Ansgar und Witmar erreichen den Hafen",
+        "en": "around 830 · Ansgar and Witmar reach the harbour"
+      },
+      "summary": {
+        "de": "Rimbert schildert die Ankunft der beiden Mönche, die Gefangenen und den Ortsvorsteher Hergeir. Der Punkt bezeichnet die Handelsstadt auf Björkö.",
+        "en": "Rimbert recounts the monks’ arrival and describes captives and the town’s reeve, Hergeir. The point marks the trading settlement on Björkö."
+      },
+      "state": {
+        "camera": {
+          "longitude": 17.5426,
+          "latitude": 59.3351,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 829,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 831,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "ring",
+      "textAnchor": "ring",
+      "labels": {
+        "de": "9. Jahrhundert, wohl um 850 · Ein Ring kommt in Grab Bj 515",
+        "en": "ninth century, probably around 850 · A ring is placed in grave Bj 515"
+      },
+      "summary": {
+        "de": "Stolpes Grabungsdokumentation verzeichnet den Ring neben einer Schere. Die Gewandspangen stützen eine Datierung um die Mitte des 9. Jahrhunderts. Die Karte zeigt Birka, das Grab lag nördlich der Befestigung.",
+        "en": "Stolpe’s excavation record places the ring beside a pair of scissors. The brooch types suggest a date around the middle of the ninth century. The map marks Birka. The grave lay north of its fortress."
+      },
+      "state": {
+        "camera": {
+          "longitude": 17.5426,
+          "latitude": 59.3351,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 801,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 900,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:birka-bj-515-finger-ring"
+    },
+    {
+      "id": "volga",
+      "textAnchor": "volga",
+      "labels": {
+        "de": "922 · Ibn Faḍlān begegnet den Rūs an der Wolga",
+        "en": "922 · Ibn Faḍlān meets the Rūs on the Volga"
+      },
+      "summary": {
+        "de": "Der Gesandte beschreibt Verkäufer und versklavte Frauen an einem Ufer der mittleren Wolga. Der Punkt bei Bolgar zeigt die Region. Der genaue Anlegeplatz ist unbekannt.",
+        "en": "The envoy describes sellers and enslaved women on the middle Volga. The point at Bolgar represents the region. The exact landing is unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": 49.0564,
+          "latitude": 54.9789,
+          "metersPerPixel": 3600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 922,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 922,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "mint",
+      "textAnchor": "mint",
+      "labels": {
+        "de": "963–967 · Ein Dirham aus der Münzstadt al-Maṣṣīṣa",
+        "en": "963–967 · A dirham from the mint town of al-Maṣṣīṣa"
+      },
+      "summary": {
+        "de": "Der Fundkatalog gibt für die hamdanidische Prägung in al-Maṣṣīṣa 963–967 an. Androshchuk liest 963/64. Der Punkt bezeichnet die Stadt Mopsuestia, in der der Dirham entstand.",
+        "en": "The hoard catalogue gives the Hamdanid issue from al-Maṣṣīṣa a range of 963–967. Androshchuk reads 963/64. The point marks the town of Mopsuestia where the coin was struck."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.6195,
+          "latitude": 36.9578,
+          "metersPerPixel": 800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 963,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 967,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "black-earth",
+      "textAnchor": "black-earth",
+      "labels": {
+        "de": "1872 · Wärner entdeckt den Teller mit dem Silber",
+        "en": "1872 · Wärner uncovers the silver on its dish"
+      },
+      "summary": {
+        "de": "Am 18. September 1872 fand ein Arbeiter namens Wärner einen Teller voller Silber im einstigen Siedlungsgebiet von Birka. Das Fundjahr ist gesichert. Die genaue Fundstelle und das Jahr der Niederlegung sind unbekannt.",
+        "en": "On 18 September 1872 a workman named Wärner found a dishful of silver in the former settlement at Birka. The year of discovery is secure. The precise findspot and year of burial are unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": 17.5426,
+          "latitude": 59.3351,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1872,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1872,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Ring mit arabischer Inschrift lag in einem Grab bei Birka. Ein Dirham aus derselben Siedlung führt nach Kilikien. An der Wolga beschreibt Ibn Faḍlān die Geschäfte der Rūs und die Menschen, die sie zum Verkauf brachten.",
+      "en": "A ring with Arabic writing lay in a grave at Birka. A dirham from the settlement can be traced to Cilicia. On the Volga, Ibn Faḍlān describes the business done by Rūs traders, including the people they brought for sale."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "material-evidence",
+        "labels": {
+          "de": "Materielle Zeugnisse",
+          "en": "Material evidence"
+        }
+      },
+      {
+        "id": "trade",
+        "labels": {
+          "de": "Handel",
+          "en": "Trade"
+        }
+      },
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "scandinavia",
+        "labels": {
+          "de": "Skandinavien",
+          "en": "Scandinavia"
+        }
+      },
+      {
+        "id": "baltic-sea",
+        "labels": {
+          "de": "Ostsee",
+          "en": "Baltic Sea"
+        }
+      },
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 33.2995,
+      "latitude": 48.14645,
+      "metersPerPixel": 12918,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 801,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 801,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1872,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1872,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

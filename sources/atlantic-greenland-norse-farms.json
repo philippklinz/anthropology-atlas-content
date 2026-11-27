@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atlantic-greenland-norse-farms",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Norse. Prehistory of Greenland",
+  "url": "https://natmus.dk/organisation/forskning-og-kulturarv/nyere-tid-og-verdens-kulturer/etnografisk-samling/arktisk-forskning/prehistory-of-greenland/norse/",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "National Museum of Denmark"
+  ],
+  "accessedAt": "2026-11-27"
+}

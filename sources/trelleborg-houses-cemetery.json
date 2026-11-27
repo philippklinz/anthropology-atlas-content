@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:trelleborg-houses-cemetery",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Magnates’ residences and royal seats",
+  "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/power-and-aristocracy/magnates-residences-and-royal-seats/",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "National Museum of Denmark"
+  ],
+  "accessedAt": "2026-11-27"
+}

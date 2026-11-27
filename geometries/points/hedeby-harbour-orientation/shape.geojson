@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:hedeby-harbour-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.569,
+      54.492
+    ]
+  }
+}

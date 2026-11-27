@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:birka-museum-rimbert",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Vita Ansgarii",
+  "url": "https://birkaportalen.historiska.se/vad-ar-birka-hovgarden/skriftliga-kallor/vita-ansgarii/",
+  "sourceType": "article",
+  "language": "sv",
+  "creators": [
+    "Historiska museet, Birkaportalen"
+  ],
+  "accessedAt": "2026-11-27"
+}

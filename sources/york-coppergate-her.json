@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:york-coppergate-her",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Excavations at 16–22 Coppergate",
+  "url": "https://her.york.gov.uk/Monument/MYO5075",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "City of York Historic Environment Record"
+  ],
+  "accessedAt": "2026-11-27"
+}

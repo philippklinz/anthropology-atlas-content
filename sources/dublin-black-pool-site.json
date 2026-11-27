@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-black-pool-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "History on Your Doorstep, volume 6",
+  "url": "https://www.dublincity.ie/sites/default/files/2024-10/final_history-on-your-doorstep_v6_screen.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Dervilia Roche, Dublin City Council"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

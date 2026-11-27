@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:birka-ring-shm",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Allahringen",
+  "url": "https://samlingar.shm.se/object/A484E0B6-8FA6-4151-8539-9FC42F36D4E8",
+  "sourceType": "catalog",
+  "language": "sv",
+  "creators": [
+    "Statens historiska museer, Historiska museet"
+  ],
+  "accessedAt": "2026-11-27"
+}

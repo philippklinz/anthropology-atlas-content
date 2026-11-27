@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:hedeby-settlement-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hedeby-antler-combs",
+      "role": "supports",
+      "locator": "Antiquity 97, pp. 1233–1248. Introduction, Classification and chronology, Results, Discussion and figs. 2–3. Type 5 sample of 49, 42 certain and 2 probable reindeer identifications. About 0.5% of identifiable workshop waste was reindeer. Trade in finished items and movement of personal possessions are both possibilities. Fig. 3 credits the photographs of four groups to Mariana Muñoz-Rodriguez."
+    },
+    {
+      "sourceId": "source:hedeby-settlement-kuladig",
+      "role": "supports",
+      "locator": "“Koordinate WGS84” gives 54.49104°N, 9.56623°E for the settlement. General orientation for the finds from different places plotted in Muñoz-Rodriguez et al., fig. 2."
+    },
+    {
+      "sourceId": "source:hedeby-settlement-kuladig",
+      "role": "derivation",
+      "locator": "“Koordinate WGS84” gives 54.49104°N, 9.56623°E for the settlement. General orientation for the finds from different places plotted in Muñoz-Rodriguez et al., fig. 2."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Christian Weltecke, Archäologisches Landesamt Schleswig-Holstein.",
+    "sourceUrl": "https://www.kuladig.de/Objektansicht/KLD-271240",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

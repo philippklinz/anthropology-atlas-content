@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:york-chronicle-tenth",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Anglo-Saxon Chronicle, tenth century",
+  "url": "https://avalon.law.yale.edu/medieval/ang10.asp",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "The Anglo-Saxon Chronicle, English translation presented by the Avalon Project, Yale Law School"
+  ],
+  "accessedAt": "2026-11-27"
+}

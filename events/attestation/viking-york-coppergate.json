@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:viking-york-coppergate",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:york-walton-coppergate-textiles",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/5, table 11 and pp. 341–345, figs 140–142. Context, needle binding, shaping the heel, worn sole and outline of a probable patch."
+    },
+    {
+      "sourceId": "source:york-wool-sock-1309",
+      "role": "supports",
+      "locator": "SC1981-7_SF13517, catalogue 1309; coverage c. 930–975, madder at the ankle and no dye elsewhere."
+    },
+    {
+      "sourceId": "source:york-coppergate-textile-production",
+      "role": "supports",
+      "locator": "The Archaeology of York 17/11, pp. 1787–1788, 1800–1803 and figs 843–844. A 4B pit, dyes and needles, including their concentration on Tenement C and a previously unused silk offcut."
+    },
+    {
+      "sourceId": "source:york-coppergate-occupation",
+      "role": "supports",
+      "locator": "The Archaeology of York 8/5. Abstract and Period 4B on the properties; Structure 5/1, pp. 622–624 and fig. 212; provisional building chronology p. 798. The report dates wall timbers to winter 961/62 and identifies reused wood at the entrance."
+    },
+    {
+      "sourceId": "source:york-coppergate-her",
+      "role": "supports",
+      "locator": "Monument MYO5075, Location: British National Grid SE 6044 5169. Converted to WGS84 and rounded for orientation."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Socke in einem Hinterhof",
+    "en": "A sock in a backyard"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 930,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 975,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:coppergate-wool-sock-1309",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:york-coppergate-16-22"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:york-coppergate-16-22-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Fund 1309 lag in einem Hinterhof der Phase 4B. Stiche umgeben die abgenutzte Sohle. Die Zeitspanne datiert die Fundschicht.",
+      "en": "Find 1309 came from a backyard in Phase 4B. Sewing outlines a patch beneath the worn sole. The date range applies to the deposit."
+    }
+  }
+}

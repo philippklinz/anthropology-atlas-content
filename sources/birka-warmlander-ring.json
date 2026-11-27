@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:birka-warmlander-ring",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Analysis and interpretation of a unique Arabic finger ring from the Viking Age town of Birka, Sweden",
+  "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/sca.21189",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Sebastian K. T. S. Wärmländer and coauthors"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2015"
+}

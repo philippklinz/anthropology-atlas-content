@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:schleswig-schild-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.571,
+      54.5141
+    ]
+  }
+}

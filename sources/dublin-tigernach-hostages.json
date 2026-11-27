@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-tigernach-hostages",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Annals of Tigernach, entries for 979–983",
+  "url": "https://celt.ucc.ie/published/T100002A/text015.html",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Gearóid Mac Niocaill (trans.), CELT, University College Cork"
+  ],
+  "accessedAt": "2026-11-27"
+}

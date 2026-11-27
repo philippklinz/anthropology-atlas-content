@@ -1,0 +1,521 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:ribe-and-hedeby",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ribe-market-and-coins",
+      "role": "supports",
+      "locator": "In The Fortified Viking Age, pp. 78–80, fig. 5 and tables 1–2. Riverbank lane before 720, plots 6–8 m wide, Rhineland barrels reused in wells, sequence of individual coin finds and the predominance of Series X from about 725."
+    },
+    {
+      "sourceId": "source:ribe-settlement-permanency",
+      "role": "supports",
+      "locator": "European Journal of Archaeology 18, pp. 497–523. The reassessment of the 1985–86 excavations at Sct Nicolajgade 8 uses domestic activity and building remains to propose early permanent occupation on part of the market site."
+    },
+    {
+      "sourceId": "source:ribe-glass-workshops",
+      "role": "supports",
+      "locator": "Archaeological and Anthropological Sciences 14, article 180. Site and materials, table 1 and figs. 1b, 7–8. ASR 9 Post Office site (55°19′44.7″N, 8°46′08.7″E). Early workshop c. 700–720, later workshop c. 760–790. White from bubbles in remelted gold-leaf backing glass and evidence for adding colourants on site."
+    },
+    {
+      "sourceId": "source:ribe-segmented-bead-finds",
+      "role": "supports",
+      "locator": "Section “Segmented metal foil beads”, pp. 161 and 165 and fig. 5a–c (e.g. ASR9x113 59). Manufacture, silver foil, amber-brown and colourless outer glass, joined segments and the visible structure of broken specimens. Opening section on the continued small-scale production in the ninth century."
+    },
+    {
+      "sourceId": "source:ribe-trade-radiocarbon",
+      "role": "supports",
+      "locator": "Nature 601, pp. 392–396, abstract and DOI 10.1038/s41586-021-04240-5. Single-year radiocarbon calibration placed the expansion of long-distance trade at Ribe around AD 790 ± 10."
+    },
+    {
+      "sourceId": "source:ribe-floor-radiocarbon",
+      "role": "supports",
+      "locator": "Annual Report 2022, “Solar Event Sheds Light on Trade” immediately before “Farming the Desert”. The excavation team describes the AD 775 signal in a floor layer, 140 radiocarbon dates, and numerous imported beads at AD 790 ± 10. The photograph identifies segmented beads."
+    },
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Kuitems et al., Nature 601, pp. 388–391, fig. 2. Three cut timbers from L’Anse aux Meadows retain bark edges. The AD 993 radiocarbon event and annual rings establish felling in AD 1021."
+    },
+    {
+      "sourceId": "source:hedeby-antler-combs",
+      "role": "supports",
+      "locator": "Antiquity 97, pp. 1233–1248. Introduction, Classification and chronology, Results, Discussion and figs. 2–3. Type 5 sample of 49, 42 certain and 2 probable reindeer identifications. About 0.5% of identifiable workshop waste was reindeer. Trade in finished items and movement of personal possessions are both possibilities. Fig. 3 credits the photographs of four groups to Mariana Muñoz-Rodriguez."
+    },
+    {
+      "sourceId": "source:hedeby-settlement-kuladig",
+      "role": "supports",
+      "locator": "“Koordinate WGS84” gives 54.49104°N, 9.56623°E for the settlement. General orientation for the finds from different places plotted in Muñoz-Rodriguez et al., fig. 2."
+    },
+    {
+      "sourceId": "source:hedeby-harbour-excavation",
+      "role": "supports",
+      "locator": "Die Ausgrabungen in Haithabu 14. Discussion of the southern boundary, Struktur N7.6, with fig. 190: item 1778, a pointed split plank dated to 885 where a linear feature meets the bank revetment. The report traces the feature towards the harbour structures."
+    },
+    {
+      "sourceId": "source:hedeby-harbour-timber-series",
+      "role": "supports",
+      "locator": "CHNT 2018, abstract and references. The results join excavated positions, ring-pattern comparisons and felling dates and identify major construction in 881 and 885."
+    },
+    {
+      "sourceId": "source:hedeby-waterfront-museum",
+      "role": "supports",
+      "locator": "Visitor plan, “The Jetty” and “Platform”. Successive landing stages reached deeper water. Smaller links between jetties created trading space. The guide explains which features of the reconstruction represent choices."
+    },
+    {
+      "sourceId": "source:hedeby-harbour-data",
+      "role": "supports",
+      "locator": "European Harbour Data Repository 7, ID_place 27 “Haithabu Hafen”. The published coordinates for the harbour are 54.492°N, 9.569°E. DOI 10.22032/dbt.38393."
+    },
+    {
+      "sourceId": "source:ohthere-voyage-five-days",
+      "role": "supports",
+      "locator": "Printed p. 107, lines 6–15, Old English. Ohthere gives five days for the passage from Sciringes heal to the port at Hæðum and identifies lands and islands to port and starboard."
+    },
+    {
+      "sourceId": "source:schleswig-house-and-plots",
+      "role": "supports",
+      "locator": "Mitteilungen der DGAMN 27, pp. 25–29, esp. p. 28, figs. 1–2. Schild house erected in 1071 above nearly one metre of deposits. At Plessenstraße 83/3, separate excavation of plots with wattle fences and successive renewals at the waterfront."
+    },
+    {
+      "sourceId": "source:schleswig-schild-excavation-map",
+      "role": "supports",
+      "locator": "Figure 2 locates Schild (no. 5) in Schleswig old town, alongside the site at Plessenstraße 83/3 (no. 1) and the medieval waterfront. A rounded point on the old town peninsula provides orientation."
+    }
+  ],
+  "labels": {
+    "de": "Auf dem Markt von Ribe und am Hafen von Haithabu",
+    "en": "On the market street at Ribe and the waterfront at Hedeby"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:ribe-hedeby-market-plots",
+    "event:ribe-hedeby-beadmakers",
+    "event:ribe-hedeby-segmented-beads",
+    "event:ribe-hedeby-antler-combs",
+    "event:ribe-hedeby-harbour-timbers",
+    "event:ribe-hedeby-schleswig-house",
+    "asset:hedeby-type-five-combs"
+  ],
+  "recordIds": [
+    "artifact:hedeby-split-plank-1778",
+    "artifact:hedeby-type-five-antler-combs",
+    "artifact:ribe-glassworking-crucible-fragments",
+    "artifact:ribe-reused-barrel-well-linings",
+    "artifact:ribe-segmented-glass-beads",
+    "artifact:schleswig-schild-timber-house",
+    "asset:hedeby-type-five-combs",
+    "event:ribe-hedeby-antler-combs",
+    "event:ribe-hedeby-beadmakers",
+    "event:ribe-hedeby-harbour-timbers",
+    "event:ribe-hedeby-market-plots",
+    "event:ribe-hedeby-schleswig-house",
+    "event:ribe-hedeby-segmented-beads",
+    "geometry:hedeby-harbour-orientation",
+    "geometry:hedeby-settlement-orientation",
+    "geometry:ribe-marketplace-orientation",
+    "geometry:schleswig-schild-orientation",
+    "place:hedeby-harbour",
+    "place:hedeby-settlement",
+    "place:ribe-marketplace",
+    "place:schleswig-schild",
+    "source:hedeby-antler-combs",
+    "source:hedeby-harbour-data",
+    "source:hedeby-harbour-excavation",
+    "source:hedeby-harbour-timber-series",
+    "source:hedeby-settlement-kuladig",
+    "source:hedeby-waterfront-museum",
+    "source:newfoundland-wood",
+    "source:ohthere-voyage-five-days",
+    "source:ribe-floor-radiocarbon",
+    "source:ribe-glass-workshops",
+    "source:ribe-market-and-coins",
+    "source:ribe-segmented-bead-finds",
+    "source:ribe-settlement-permanency",
+    "source:ribe-trade-radiocarbon",
+    "source:schleswig-house-and-plots",
+    "source:schleswig-schild-excavation-map"
+  ],
+  "steps": [
+    {
+      "id": "market-plots",
+      "textAnchor": "market-plots",
+      "labels": {
+        "de": "frühes 8. Jahrhundert, vor 720 · Parzellen an einer Gasse",
+        "en": "early eighth century, before 720 · Plots beside a narrow lane"
+      },
+      "summary": {
+        "de": "Noch vor 720 lagen am Fluss schmale Parzellen beiderseits einer Gasse. Der Punkt liegt im ausgegrabenen Marktgebiet.",
+        "en": "By 720 narrow plots stood on either side of a lane by the river. The point marks the excavated market area."
+      },
+      "state": {
+        "camera": {
+          "longitude": 8.7691,
+          "latitude": 55.3291,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 700,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 719,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "beadmakers",
+      "textAnchor": "beadmakers",
+      "labels": {
+        "de": "etwa 760–790 · Ein Tiegel verrät die Farbe",
+        "en": "about 760–790 · Colour left in a crucible"
+      },
+      "summary": {
+        "de": "Die jüngere Perlenwerkstatt von Ribe verarbeitete gelbes, grünes und dunkles Glas. An Tiegelscherben aus der benachbarten Grabung lässt sich das Mischen von Farben vor Ort nachweisen.",
+        "en": "Ribe’s later bead workshop worked yellow, green and dark glass. Crucible fragments recovered in the neighbouring excavation preserve evidence for mixing colours on site."
+      },
+      "state": {
+        "camera": {
+          "longitude": 8.7691,
+          "latitude": 55.3291,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 760,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 790,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "segmented-beads",
+      "textAnchor": "segmented-beads",
+      "labels": {
+        "de": "um 790, ± 10 Jahre · Importierte Perlen in Ribe",
+        "en": "around 790, ± 10 years · Imported beads at Ribe"
+      },
+      "summary": {
+        "de": "Segmentierte Glasperlen aus dem Nahen Osten tauchen in größerer Zahl auf. Ein Radiokarbonsignal aus dem Jahr 775 verankert die zeitliche Einordnung der Schichten.",
+        "en": "Segmented beads from the Middle East appear in quantity. An atmospheric radiocarbon signal from 775 anchors the dating of the stratified finds."
+      },
+      "state": {
+        "camera": {
+          "longitude": 8.7691,
+          "latitude": 55.3291,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 780,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 800,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "antler-combs",
+      "textAnchor": "antler-combs",
+      "labels": {
+        "de": "9. Jahrhundert · Kämme aus Rentiergeweih",
+        "en": "ninth century · Combs of reindeer antler"
+      },
+      "summary": {
+        "de": "Die in Haithabu gefundenen Kämme eines frühwikingerzeitlichen Typs bestehen in der untersuchten Auswahl meist aus Rentiergeweih. Die Karte zeigt die Siedlung, in der die Stücke gefunden wurden.",
+        "en": "Most of the sampled combs of an early Viking Age type from Hedeby are made of reindeer antler. The map marks the settlement where they were found."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.5662,
+          "latitude": 54.491,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 801,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 900,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:hedeby-type-five-combs"
+    },
+    {
+      "id": "harbour-timbers",
+      "textAnchor": "harbour-timbers",
+      "labels": {
+        "de": "885 · Eine Bohle am Hafen von Haithabu",
+        "en": "885 · A plank at Hedeby’s waterfront"
+      },
+      "summary": {
+        "de": "Eine angespitzte Bohle an der südlichen Parzellengrenze ist auf 885 datiert. Der Orientierungspunkt markiert die Hafenanlagen.",
+        "en": "A pointed plank at the southern boundary of a plot dates to 885. The point marks the harbour installations."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.569,
+          "latitude": 54.492,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 885,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 885,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "schleswig-house",
+      "textAnchor": "schleswig-house",
+      "labels": {
+        "de": "1071 · Ein Haus in der Schleswiger Altstadt",
+        "en": "1071 · A house in Schleswig old town"
+      },
+      "summary": {
+        "de": "1071 wurde im heutigen Schleswiger Grabungsgebiet Schild ein Holzhaus errichtet. Unter dem Haus liegen ältere Ablagerungen menschlicher Tätigkeit. Der Kartenpunkt markiert das Grabungsviertel.",
+        "en": "A timber house was built in 1071 in the area of the modern Schild excavation. Older occupation deposits lay underneath. The map marks the excavation neighbourhood."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.571,
+          "latitude": 54.5141,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1071,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1071,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine weiße Perle aus Ribe verrät das Rezept ihrer Werkstatt. Kämme aus Haithabu und eine Bohle von 885 zeigen, wie Menschen Handel trieben und ihren Hafen umbauten. Die letzte Station liegt am anderen Ufer in Schleswig.",
+      "en": "A white bead reveals a Ribe workshop’s choice of glass. Antler combs and a plank dated to 885 show how people traded at Hedeby and rebuilt its waterfront. The last stop lies across the Schlei at Schleswig."
+    },
+    "topics": [
+      {
+        "id": "viking-age",
+        "labels": {
+          "de": "Wikingerzeit",
+          "en": "Viking Age"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      },
+      {
+        "id": "trade",
+        "labels": {
+          "de": "Handel",
+          "en": "Trade"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "scandinavia",
+        "labels": {
+          "de": "Skandinavien",
+          "en": "Scandinavia"
+        }
+      },
+      {
+        "id": "baltic-sea",
+        "labels": {
+          "de": "Ostsee",
+          "en": "Baltic Sea"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 9.17005,
+      "latitude": 54.91005,
+      "metersPerPixel": 484,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 700,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 700,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1071,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1071,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}
