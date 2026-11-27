@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:anatolian-workshops-divrigi-minbar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bakirer-divrigi-inscriptions-and-foundation",
+      "role": "supports",
+      "locator": "Printed pp. 87–90, “Documents for Dating the Building”. Transcribes and locates signatures, describes the twelve-pointed star and rail on the east face of the minbar, gives AH 638 and compares opinions on the 22-line mosque charter and the loss of the hospital deed."
+    },
+    {
+      "sourceId": "source:qantara-divrigi-inscriptions",
+      "role": "supports",
+      "locator": "Inscriptions, individual entries for the north and west mosque portals, mihrab dome, west hospital portal, mosque minbar balustrade and central star. Includes Arabic terms and English renderings."
+    },
+    {
+      "sourceId": "source:mwnf-divrigi-mosque-hospital",
+      "role": "supports",
+      "locator": "Description, passages on the north and west portals, pseudo-kündekari and openwork of the wooden minbar, and the three-iwan hospital with partial upper floor. How Monument was dated, two AH 626 inscriptions."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Name im zwölfzackigen Stern",
+    "en": "A signature in a twelve-pointed star"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1240,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1241,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:ahmet-shah-of-divrigi",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:ahmad-ibn-ibrahim-al-tiflisi",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:divrigi-minbar",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:great-mosque-and-hospital-divrigi"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:great-mosque-and-hospital-divrigi-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Auftrag und Signatur stehen an verschiedenen Stellen derselben Kanzel. Der Stern auf der Ostseite bewahrt den Namen Ahmeds aus Tiflis.",
+      "en": "Commission and signature occupy different places on the same pulpit. A star on the east side bears the name of Ahmad of Tiflis."
+    }
+  }
+}

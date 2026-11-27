@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-gesta-francorum-nicaea",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gesta Francorum: selections from the anonymous narrative of the First Crusade",
+  "url": "https://sourcebooks.web.fordham.edu/source/gesta-cde.asp",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Anonymous, English translation by August C. Krey, Fordham University Internet Medieval Sourcebook"
+  ],
+  "accessedAt": "2026-11-27"
+}

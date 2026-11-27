@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hurrem-endowment-charter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jerusalem-charter-tiem-2192",
+      "role": "supports",
+      "locator": "Inventory 2192. Description, provenance and colophon, AH 964. Fol. 1a for the tuğra, 9b–10a for the Jerusalem buildings, 12a–14b for expenditure, 49a for the founder’s seal and witnesses."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-singer",
+      "role": "supports",
+      "locator": "Introduction pp. 1–3, translation of the foundation conditions and map I.1 of the kitchen on the lane above al-Wad. Chapter 2, pp. 39–70, especially pp. 46–65 on revenues, employees and provisioning."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Goldlinien, Siegel und Löhne",
+    "en": "Gold ruling, seals and wages"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1556,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1557,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:hurrem-jerusalem-waqfiyya-2192",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:hurrem-sultan",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:constantinople"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:constantinople-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Hürrems Stiftungsbuch aus Istanbul nennt die Gebäude und die Ausgaben für Löhne und Reinigung. Der Kolophon datiert die Handschrift auf 964 AH.",
+      "en": "Hürrem’s foundation charter from Istanbul names the buildings and specifies spending on wages and cleaning. Its colophon dates it to AH 964."
+    }
+  }
+}

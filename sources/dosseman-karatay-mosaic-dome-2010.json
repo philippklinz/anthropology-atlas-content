@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dosseman-karatay-mosaic-dome-2010",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The tile mosaic above the court of the Karatay Madrasa",
+  "url": "https://commons.wikimedia.org/wiki/File:Konya_Karatay_Ceramics_Museum_interior_2010_2806.jpg",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Dosseman"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2010"
+}

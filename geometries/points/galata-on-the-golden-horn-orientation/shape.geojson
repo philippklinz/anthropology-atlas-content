@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:galata-on-the-golden-horn-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.974,
+      41.026
+    ]
+  }
+}

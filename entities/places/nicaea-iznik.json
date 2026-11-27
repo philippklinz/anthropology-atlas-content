@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:nicaea-iznik",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-alexiad-eleven",
+      "role": "supports",
+      "locator": "Book XI, chapters I–II, pp. 269–275 in this translation. Boutoumites’ negotiations, public reading of the sealed document, wife and sister of the sultan, the Turkish-speaking Monastras and Rhodomerus and admission to the churches ten at a time."
+    },
+    {
+      "sourceId": "source:rum-gesta-francorum-nicaea",
+      "role": "supports",
+      "locator": "Section 8, “The Victory at Nicea”, final paragraphs (Krey, pp. 101–103). Local movement of fodder and wood by water, demands for safe conduct with children and property, criticism of the emperor and distribution to the poor."
+    },
+    {
+      "sourceId": "source:rum-nicaea-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 745026, town of İznik, former Nicaea. City reference point, 40.42861° N, 29.72111° E."
+    },
+    {
+      "sourceId": "source:rum-dynastic-branches",
+      "role": "supports",
+      "locator": "Opening paragraphs on Qutalmish and Alp Arslan as representatives of different Seljuk branches, the meaning of Rūm, and Kılıç Arslan I’s seats of government at Nicaea and Konya."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Nikaia, das heutige İznik",
+    "en": "Nicaea, present-day İznik"
+  }
+}

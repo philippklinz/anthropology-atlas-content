@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-tibbetts-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Later Cartographic Developments",
+  "url": "https://press.uchicago.edu/books/hoc/HOC_V2_B1/HOC_VOLUME2_Book1_chapter6.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Gerald R. Tibbetts"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1992"
+}

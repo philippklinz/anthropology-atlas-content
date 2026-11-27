@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-lomellino-letter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Siege of Constantinople 1453: Seven Contemporary Accounts",
+  "url": "https://ci.nii.ac.jp/ncid/BA03474887?l=en",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "J. R. Melville Jones, translator"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1972"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-basar-fetih",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Fetih Sürecinde Bursa",
+  "url": "https://www.bursa.bel.tr/storage/medya/yayinlar/2ekc6otsd79c0cs.pdf",
+  "sourceType": "article",
+  "language": "tr",
+  "creators": [
+    "Fahameddin Başar"
+  ],
+  "accessedAt": "2026-11-27"
+}

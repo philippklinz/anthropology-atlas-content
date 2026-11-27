@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:jacopo-tiepolo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-venetian-treaty-edition",
+      "role": "supports",
+      "locator": "Document CCLVIII, pp. 221–225 of the 1856 edition, March 1220. The Latin text gives the two-year term and differentiates the undertakings of the sultan and of Jacopo Tiepolo. See p. 222 for the duty, the exempt goods and the separate provisions for wrecked Venetian ships and captured foreign vessels, and pp. 223–224 for the reciprocal undertakings."
+    },
+    {
+      "sourceId": "source:rum-roads-martin-venetian-treaty",
+      "role": "supports",
+      "locator": "English Historical Review 95, no. 375, pp. 321–330. Pp. 321–325 and n. 1 discuss the Latin reply, Venetian registers, seals and dating. Pp. 327–329 explain the rate, exempt goods, shipwreck clauses and mutual undertakings."
+    },
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Place 520998, Constantinopolis. Existing rounded point on the historic peninsula; this locates the seat of the Venetian official and does not identify a building."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Jacopo Tiepolo",
+    "en": "Jacopo Tiepolo"
+  }
+}

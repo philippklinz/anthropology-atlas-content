@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-redford-inscriptions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Reading Inscriptions on Seljuk Caravanserais",
+  "url": "https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-086-0/978-88-6969-086-0-ch-17.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Scott Redford, Edizioni Ca’ Foscari"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2016"
+}

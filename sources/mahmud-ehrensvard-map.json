@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-ehrensvard-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A Pilgrimage to the Mausoleum of Mahmud al-Kashghari",
+  "url": "https://srii.org/Documents/Docs/da37f8f53d0f444f87154c99f90ecb0b.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Ulla Ehrensvärd"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1992"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:sultan-han-aksaray-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-sultan-han-aksaray",
+      "role": "supports",
+      "locator": "Vol. 37, pp. 503–504. Portals and dated AH 626 inscription, raised courtyard masjid, raised platforms, lighting, water channels and conduit from Bağluca. Gives the earlier reading AH 667 for the repair."
+    },
+    {
+      "sourceId": "source:rum-roads-archnet-sultan-han",
+      "role": "supports",
+      "locator": "Site 4017, description of the Sultan Han between Konya and Aksaray. Courtyard with a free-standing masjid, twin stairway, hammam and covered hall."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "supports",
+      "locator": "Section Sultanhan, entrance inscriptions and courtyard. Embedded site map centred at 38.248279° N, 33.546923° E for orientation at the han."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-courtyard-photo",
+      "role": "supports",
+      "locator": "Own photograph, July 2008, original JPEG 4,142 × 2,330. The Summary identifies the small mosque in the centre of the courtyard. The Licensing section offers CC BY 3.0 Unported."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "derivation",
+      "locator": "Embedded map of Sultanhan, 38.248279° N, 33.546923° E. The point indicates the site in Sultanhanı, Aksaray Province."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Türkiye Kültür Portalı, Aksaray İl Kültür ve Turizm Müdürlüğü.",
+    "sourceUrl": "https://www.kulturportali.gov.tr/turkiye/aksaray/gezilecekyer/sultanhani",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

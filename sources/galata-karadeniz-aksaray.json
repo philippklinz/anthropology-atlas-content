@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-karadeniz-aksaray",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karaman Sürgünleri (1467–1474)",
+  "url": "https://dergipark.org.tr/tr/download/article-file/1329673",
+  "sourceType": "article",
+  "language": "tr",
+  "creators": [
+    "Hasan Basri Karadeniz"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2015"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-kashgar-geonames",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Kashgar, China",
+  "url": "https://www.geonames.org/1280849/kashgar.html",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "GeoNames"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:konya-alaeddin-minbar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:eyice-konya-alaeddin-minbar",
+      "role": "supports",
+      "locator": "Paragraphs beginning “Alâeddin Camii’nin içinde” and “Minberin şerefesinde”. Locations of the two royal names, Quran 40:16, dated balcony inscription, joinery and openwork. Eyice presents the sequence of the two commissions as a hypothesis."
+    },
+    {
+      "sourceId": "source:kesik-konya-mesud-inscription",
+      "role": "supports",
+      "locator": "Printed p. 134, transcription and discussion of the Konya minbar inscriptions, especially note 607. The master is associated with Ahlat and the work is dated Rajab AH 550."
+    },
+    {
+      "sourceId": "source:archnet-konya-alaeddin-complex",
+      "role": "supports",
+      "locator": "Site 3576. Description of the 1155 minbar and the rebuilding of the mosque in the early thirteenth century. Location, Alaettin Tepesi, with directions to the mosque at 37.873421 N, 32.492667 E."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Minbar der Alâeddin-Moschee von Konya",
+    "en": "Minbar of the Alâeddin Mosque, Konya"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-mihrab-gagnon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Yeşil Cami – Mihrab",
+  "url": "https://commons.wikimedia.org/wiki/File:Ye%C5%9Fil_Cami_-_Mihrab.jpg",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Bernard Gagnon"
+  ],
+  "accessedAt": "2026-11-27"
+}

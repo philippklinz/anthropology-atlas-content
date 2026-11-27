@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-karatay-hani",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karatay Hanı – Kayseri",
+  "url": "https://www.kulturportali.gov.tr/turkiye/kayseri/gezilecekyer/karatay-hani",
+  "sourceType": "catalog",
+  "language": "tr",
+  "creators": [
+    "Türkiye Kültür Portalı, Kayseri İl Kültür ve Turizm Müdürlüğü"
+  ],
+  "accessedAt": "2026-11-27"
+}

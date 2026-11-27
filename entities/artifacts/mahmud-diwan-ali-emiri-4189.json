@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:mahmud-diwan-ali-emiri-4189",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-horn-lexik",
+      "role": "supports",
+      "locator": "Dissertation, pp. 93–101. Dates and revisions, Cairo ownership note (CU 1), discussion on shared Kipchak and Turkmen forms in fifteen lines, attribution by handwriting, red rubrics and overwriting, vowel marks, colophon (CU 638, line 13) and alternatives Damascus or Cairo."
+    },
+    {
+      "sourceId": "source:mahmud-institution-diwan",
+      "role": "supports",
+      "locator": "Second edition. Imprint and pp. 19–21 for Millet Yazma Eser Kütüphanesi, Ali Emîrî Arabî 4189, court and dating. Eyewitness accounts pp. 21–32, especially Kilisli Rifat on broken binding, ordering and numbering the leaves pp. 30–31. Bibliography, entry for Kilisli’s first three-volume edition, Istanbul, 1333–1335 AH."
+    },
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-damascus-geonames",
+      "role": "supports",
+      "locator": "City record 170654, 33.51020 N, 36.29128 E. Place associated with the copyist in his subscription."
+    },
+    {
+      "sourceId": "source:mahmud-cairo-geonames",
+      "role": "supports",
+      "locator": "City record 360630, 30.06263 N, 31.24967 E. City named in the owner’s annotation."
+    },
+    {
+      "sourceId": "source:mahmud-ersoy-acquisition",
+      "role": "supports",
+      "locator": "Dil Araştırmaları 23, pp. 79–93, in particular sections “Emiri Efendi Kitabı İlk Nerede Gördü?” and “Kitabın Bulunuş Tarihi” and the comparative chronology. Kilisli’s bookshop account, Ali Emîrî’s coffeehouse account and dating alternatives. First two volumes in 1915."
+    },
+    {
+      "sourceId": "source:mahmud-kacalin-diwan",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 9, pp. 446–449. Opening paragraphs on dates and readership. Sections 1–8, followed by paragraph on past-tense verb headwords. Map paragraph and omissions (Çigil, Suvar). Final paragraph, extent of 319 leaves."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Dīwān-Handschrift, Ali Emîrî Arabî 4189",
+    "en": "Dīwān manuscript, Ali Emîrî Arabî 4189"
+  }
+}

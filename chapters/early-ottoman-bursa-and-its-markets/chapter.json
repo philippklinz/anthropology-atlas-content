@@ -1,0 +1,485 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:early-ottoman-bursa-and-its-markets",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-howard-ottoman-genesis",
+      "role": "supports",
+      "locator": "Chapter 1, pp. 9–12, especially pp. 10–11 and map 1.1. The destruction of the countryside, Orhan’s deed of 1324, Ibn Battuta’s visit in 1331–32, the capture generally dated to 1326 and the silver issue by the following year."
+    },
+    {
+      "sourceId": "source:bursa-basar-fetih",
+      "role": "supports",
+      "locator": "Printed pp. 132–135, especially pp. 134–135 and notes 23–28. The annalistic dates, predominance of AH 726, earlier proposals, and conflicting accounts by Oruç, Aşıkpaşazade, Neşri and Şükrullah of whether Osman lived to see the surrender."
+    },
+    {
+      "sourceId": "source:bursa-ibn-battuta-travels",
+      "role": "supports",
+      "locator": "Fordham Internet Medieval Sourcebook, passage on Bursa and the paragraph on Orkhan immediately following it. Compare the first-hand topographical description and the claim about the capture with the contemporary evidence discussed by Howard."
+    },
+    {
+      "sourceId": "source:bursa-cagaptay-prousa",
+      "role": "supports",
+      "locator": "In Remembering and Forgetting the Ancient City, chapter 7, pp. 167–169, figs 7.1–7.2. The walled hill, pre-Ottoman town, hot springs, east–west expansion, sites selected by Murad I and Bayezid I, and Bursa during the succession to Bayezid."
+    },
+    {
+      "sourceId": "source:bursa-heritage-site-locations",
+      "role": "supports",
+      "locator": "Coordinates table for components 1452-002 (tombs on the citadel hill), 1452-001 (Orhan Ghazi complex and khans) and 1452-006 (Green complex). Representative points refer to the listed properties."
+    },
+    {
+      "sourceId": "source:bursa-icomos-assessment",
+      "role": "supports",
+      "locator": "Advisory body evaluation, Description of the property, component 1 (Orhan Ghazi complex, school, bath, kitchen and later town hall), components 2, 3, 5, 6 and 8, and History and development."
+    },
+    {
+      "sourceId": "source:bursa-orhan-management-plan",
+      "role": "supports",
+      "locator": "Khans Area monument inventory, entries ‘Orhan Ghazi Mosque’, ‘Orhan Turkish Bath (Mirrored Bazaar)’ and ‘Emir Khan’. The door inscription recalls foundation in 1339, burning in 1413 and repair in 1417. The inn generated revenue for the complex."
+    },
+    {
+      "sourceId": "source:bursa-emir-han-inventory",
+      "role": "supports",
+      "locator": "Bursa architectural inventory A106, Ayrıntılı Tanımı. Windowless storerooms below, inhabited rooms with a window and hearth above, counts of rooms and the rear stable. The inventory records later restoration."
+    },
+    {
+      "sourceId": "source:bursa-cumalikizik-orhan-endowment",
+      "role": "supports",
+      "locator": "Bursa and Cumalıkızık property description. The village is identified as the waqf village belonging to the foundation of Orhan Ghazi."
+    },
+    {
+      "sourceId": "source:bursa-green-demiralp",
+      "role": "supports",
+      "locator": "Working no. TR 21, Description and How Monument was dated. Guest rooms with hearths and royal loge, portal inscription AH 822, cenotaph dated AH 824, inscription crediting the completion of decoration in Ramadan AH 827."
+    },
+    {
+      "sourceId": "source:bursa-blessing-tile-revetments",
+      "role": "supports",
+      "locator": "DOI 10.52214/uw.v32i.12541. Al-ʿUṣūr al-Wusṭā 32, pp. 387–390, figs 13–14 and discussion of the scope of the group signature, then pp. 394–397 on logistics and alternatives to an itinerant workshop."
+    },
+    {
+      "sourceId": "source:bursa-mihrab-gagnon",
+      "role": "supports",
+      "locator": "Photograph dated 3 June 2014, Summary and Licensing. The named subject is the prayer niche in Bursa's Green Mosque. Original image 3307 × 5072, offered by its author under CC BY-SA 3.0 among other licences."
+    },
+    {
+      "sourceId": "source:bursa-kavakli-house-register",
+      "role": "supports",
+      "locator": "Cihannüma 12/1, p. 15, section on women acting as agents and n. 37: BOA, MŞH. ŞSC. d., Bursa 2458, A/3, fol. 345a, Jumada II 885 / August 1480. The property, neighbourhood, names, guardianship of two orphans and the form of sale."
+    },
+    {
+      "sourceId": "source:bursa-gunalan-court-registers",
+      "role": "supports",
+      "locator": "VIII. Uluslararası Ahilik Sempozyumu, vol. II, pp. 172–173, nn. 22–23 (BŞS 4A, fol. 310, and 3A, fol. 174b): Fatma Hatun’s lease of the Doğangözü Han and Paşa Hatun’s dye-shop lease. P. 176, n. 42 (3A, fol. 345a): Nefise, Gülşah, Gülbahar and the names of the two wards."
+    },
+    {
+      "sourceId": "source:bursa-bayindir-redeemable-sale",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 6 (1992), pp. 20–22, especially p. 21, passage on bey‘ bi’l-istiğlâl: use, lease to the previous owner and redemption on repayment."
+    },
+    {
+      "sourceId": "source:bursa-kavakli-mosque-location",
+      "role": "supports",
+      "locator": "The history identifies the mosque as the district’s namesake; Hakkında and the map link give 40.18421 N, 29.0572042 E. Orientation in the quarter only, not the location of the house or court."
+    },
+    {
+      "sourceId": "source:bursa-koza-han-silk-bazaar",
+      "role": "supports",
+      "locator": "Description of the Koza Han: completion and opening on 30 September 1491, Bayezid II’s foundation for Istanbul, the two courtyards, fountain, prayer room, storehouses and stables."
+    },
+    {
+      "sourceId": "source:met-silks-ottoman-turkey",
+      "role": "supports",
+      "locator": "Nazanin Hedayat Munroe, ‘Silk Trade and Production’, esp. opening paragraphs on taxes and scales, Iranian raw silk, fifteenth-century Bursa weaving, velvet, ecclesiastical uses of Ottoman fabrics, and the difficulty assigning unsigned works to a weaver."
+    }
+  ],
+  "labels": {
+    "de": "Bursa zwischen Burg, Färberei und Seidenhof",
+    "en": "Bursa between the citadel, the dye shop and the silk market"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:ottoman-bursa-citadel",
+    "event:ottoman-bursa-orhan",
+    "event:ottoman-bursa-green-mosque",
+    "event:ottoman-bursa-court",
+    "event:anatolian-dynasties-bursa",
+    "asset:green-mosque-bursa-mihrab-gagnon"
+  ],
+  "recordIds": [
+    "artifact:bursa-green-mosque-mihrab",
+    "asset:green-mosque-bursa-mihrab-gagnon",
+    "event:anatolian-dynasties-bursa",
+    "event:ottoman-bursa-citadel",
+    "event:ottoman-bursa-court",
+    "event:ottoman-bursa-green-mosque",
+    "event:ottoman-bursa-orhan",
+    "geometry:bursa-green-mosque-complex-orientation",
+    "geometry:bursa-hisar-citadel-orientation",
+    "geometry:bursa-kavakli-quarter-orientation",
+    "geometry:bursa-orhan-foundation-orientation",
+    "geometry:koza-han-bursa-orientation",
+    "person:bayezid-ii",
+    "person:gulbahar-guardian-in-bursa",
+    "person:gulsah-agent-in-bursa",
+    "person:mehmed-i",
+    "person:nefise-daughter-of-isa",
+    "person:orhan-ghazi",
+    "person:osman-i",
+    "place:bursa-green-mosque-complex",
+    "place:bursa-hisar-citadel",
+    "place:bursa-kavakli-quarter",
+    "place:bursa-orhan-foundation",
+    "place:koza-han-bursa",
+    "source:bursa-basar-fetih",
+    "source:bursa-bayindir-redeemable-sale",
+    "source:bursa-blessing-tile-revetments",
+    "source:bursa-cagaptay-prousa",
+    "source:bursa-cumalikizik-orhan-endowment",
+    "source:bursa-emir-han-inventory",
+    "source:bursa-green-demiralp",
+    "source:bursa-gunalan-court-registers",
+    "source:bursa-heritage-site-locations",
+    "source:bursa-howard-ottoman-genesis",
+    "source:bursa-ibn-battuta-travels",
+    "source:bursa-icomos-assessment",
+    "source:bursa-kavakli-house-register",
+    "source:bursa-kavakli-mosque-location",
+    "source:bursa-koza-han-silk-bazaar",
+    "source:bursa-mihrab-gagnon",
+    "source:bursa-orhan-management-plan",
+    "source:met-silks-ottoman-turkey",
+    "source:wikidata-place-coordinates"
+  ],
+  "steps": [
+    {
+      "id": "citadel",
+      "textAnchor": "citadel",
+      "labels": {
+        "de": "meist 1326 · Orhan übernimmt die Burgstadt",
+        "en": "usually dated to 1326 · Orhan takes the fortified town"
+      },
+      "summary": {
+        "de": "Die Übergabe an Orhan wird gewöhnlich auf 1326 datiert. Spätere Chroniken und Kalender weichen beim Jahr und beim Tod seines Vaters Osman voneinander ab.",
+        "en": "Orhan’s capture of the town is usually dated to 1326. Later chronicles and calendars differ on the year and on whether his father Osman was still alive."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.0575,
+          "latitude": 40.18694,
+          "metersPerPixel": 115,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1322,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1327,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "orhan",
+      "textAnchor": "orhan",
+      "labels": {
+        "de": "1339 · Orhan baut vor den Mauern",
+        "en": "1339 · Orhan builds outside the walls"
+      },
+      "summary": {
+        "de": "1339 ließ Orhan vor der Burg eine Moschee errichten. Einnahmen aus einem Handelshof und aus dem Umland trugen seine Stiftung.",
+        "en": "In 1339 Orhan had a mosque built outside the citadel. A trading inn and property in the countryside helped support his foundation."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.06234,
+          "latitude": 40.18473,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1339,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1339,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "green-mosque",
+      "textAnchor": "green-mosque",
+      "labels": {
+        "de": "1424 · Die Ausstattung der Grünen Moschee ist vollendet",
+        "en": "1424 · The Green Mosque’s decoration is completed"
+      },
+      "summary": {
+        "de": "In der Loge des Sultans nennt eine Inschrift den August 1424 und Nakkaş Ali. An der Gebetsnische steht die Signatur der Meister von Täbris.",
+        "en": "An inscription in the sultan’s gallery gives August 1424 and names Nakkaş Ali. The prayer niche carries the signature of the masters of Tabriz."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.07472,
+          "latitude": 40.18167,
+          "metersPerPixel": 85,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1424,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1424,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:green-mosque-bursa-mihrab-gagnon"
+    },
+    {
+      "id": "court",
+      "textAnchor": "court",
+      "labels": {
+        "de": "1480 · Nefise lässt ein Hausgeschäft eintragen",
+        "en": "1480 · Nefise records a house transaction"
+      },
+      "summary": {
+        "de": "Gülşah vertritt Nefise bei einem Geschäft über 1.000 Dirham. Gülbahar handelt für zwei Waisen. Die Moschee bezeichnet das Viertel, in dem das Haus lag.",
+        "en": "Gülşah represents Nefise in a transaction for 1,000 dirhams. Gülbahar acts for two orphans. The mosque marks the quarter in which the house stood."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.0572,
+          "latitude": 40.18421,
+          "metersPerPixel": 95,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1480,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1480,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "bursa",
+      "textAnchor": "bursa",
+      "labels": {
+        "de": "1491 · Der Koza Han öffnet seine Tore",
+        "en": "1491 · The Koza Han opens"
+      },
+      "summary": {
+        "de": "Ein Handelshof mit einem eigenen Wirtschaftshof für Tiere und Waren nimmt den Betrieb auf. Bayezid II. bestimmte seine Einnahmen für Moscheen und Schulen in Istanbul.",
+        "en": "A trading inn opens with a service courtyard for animals and goods. Bayezid II assigned its revenues to mosques and schools in Istanbul."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.06361,
+          "latitude": 40.18444,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1491,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1491,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "In Bursa finanziert ein Handelshof Orhans Stiftung. Fliesen tragen die Signatur der Meister von Täbris, und im Viertel der Kavaklı-Moschee verkauft eine Freigelassene im Auftrag einer anderen Frau ein Haus.",
+      "en": "An inn supports Orhan’s foundation in Bursa. Tile makers sign their work as the masters of Tabriz, and a freedwoman acts for the owner of a house in the Kavaklı Mosque quarter."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "trade",
+        "labels": {
+          "de": "Handel",
+          "en": "Trade"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      },
+      {
+        "id": "charters-and-law",
+        "labels": {
+          "de": "Urkunden und Recht",
+          "en": "Charters and law"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 29.06596,
+      "latitude": 40.1843,
+      "metersPerPixel": 342,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1322,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1322,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1491,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1491,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

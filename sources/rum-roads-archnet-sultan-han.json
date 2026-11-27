@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-archnet-sultan-han",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sultan Han",
+  "url": "https://www.archnet.org/sites/4017",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Archnet, Aga Khan Documentation Center at MIT"
+  ],
+  "accessedAt": "2026-11-27"
+}

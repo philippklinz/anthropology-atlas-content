@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:green-mosque-bursa-mihrab-gagnon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-mihrab-gagnon",
+      "role": "supports",
+      "locator": "Photograph dated 3 June 2014, Summary and Licensing. The named subject is the prayer niche in Bursa's Green Mosque. Original image 3307 × 5072, offered by its author under CC BY-SA 3.0 among other licences."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Der Mihrab der Grünen Moschee in Bursa",
+    "en": "Prayer niche of the Green Mosque in Bursa"
+  },
+  "alt": {
+    "de": "Eine schmale, oben gestufte Gebetsnische ist von innen beleuchtet. Mehrere breite Bänder mit Fliesendekor rahmen sie bis hoch über die Köpfe der Besucher ein.",
+    "en": "Warm light picks out the stepped vault of a tall, narrow prayer niche. Broad bands of tilework rise around it high above the visitors’ heads."
+  },
+  "entityIds": [
+    "artifact:bursa-green-mosque-mihrab"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-3.0",
+    "creators": [
+      "Bernard Gagnon"
+    ],
+    "attribution": "Bernard Gagnon, Yeşil Cami – Mihrab, Bursa, 3 June 2014. Wikimedia Commons, CC BY-SA 3.0. https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ye%C5%9Fil_Cami_-_Mihrab.jpg",
+    "originNote": "Web edition of the original 3307 × 5072 image. Resampled to 926 × 1420 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by-sa/3.0/"
+  }
+}

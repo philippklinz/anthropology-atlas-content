@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:sultan-han-courtyard-mosque",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-sultan-han-aksaray",
+      "role": "supports",
+      "locator": "Vol. 37, pp. 503–504. Portals and dated AH 626 inscription, raised courtyard masjid, raised platforms, lighting, water channels and conduit from Bağluca. Gives the earlier reading AH 667 for the repair."
+    },
+    {
+      "sourceId": "source:rum-roads-archnet-sultan-han",
+      "role": "supports",
+      "locator": "Site 4017, description of the Sultan Han between Konya and Aksaray. Courtyard with a free-standing masjid, twin stairway, hammam and covered hall."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "supports",
+      "locator": "Section Sultanhan, entrance inscriptions and courtyard. Embedded site map centred at 38.248279° N, 33.546923° E for orientation at the han."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-courtyard-photo",
+      "role": "supports",
+      "locator": "Own photograph, July 2008, original JPEG 4,142 × 2,330. The Summary identifies the small mosque in the centre of the courtyard. The Licensing section offers CC BY 3.0 Unported."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Hofmoschee des Sultan Han bei Aksaray",
+    "en": "Courtyard mosque of the Sultan Han near Aksaray"
+  }
+}

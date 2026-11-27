@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mahmud-lexicon-istanbul",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-ersoy-acquisition",
+      "role": "supports",
+      "locator": "Dil Araştırmaları 23, pp. 79–93, in particular sections “Emiri Efendi Kitabı İlk Nerede Gördü?” and “Kitabın Bulunuş Tarihi” and the comparative chronology. Kilisli’s bookshop account, Ali Emîrî’s coffeehouse account and dating alternatives. First two volumes in 1915."
+    },
+    {
+      "sourceId": "source:mahmud-institution-diwan",
+      "role": "supports",
+      "locator": "Second edition. Imprint and pp. 19–21 for Millet Yazma Eser Kütüphanesi, Ali Emîrî Arabî 4189, court and dating. Eyewitness accounts pp. 21–32, especially Kilisli Rifat on broken binding, ordering and numbering the leaves pp. 30–31. Bibliography, entry for Kilisli’s first three-volume edition, Istanbul, 1333–1335 AH."
+    },
+    {
+      "sourceId": "source:mahmud-kacalin-diwan",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 9, pp. 446–449. Opening paragraphs on dates and readership. Sections 1–8, followed by paragraph on past-tense verb headwords. Map paragraph and omissions (Çigil, Suvar). Final paragraph, extent of 319 leaves."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Wie lose Blätter wieder ein Buch wurden",
+    "en": "Putting loose leaves back in order"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1915,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1915,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 1917,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1917,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:mahmud-diwan-ali-emiri-4189",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:kilisli-rifat-bilge",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:constantinople"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:constantinople-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Kilisli Rifat ordnete die losen Blätter der Handschrift. Zwischen 1915 und 1917 erschien seine Ausgabe in Istanbul in drei Bänden. Der Stadtpunkt bezeichnet den Erscheinungsort.",
+      "en": "Kilisli Rifat put the loose leaves in order. His three-volume edition appeared in Istanbul between 1915 and 1917. The city marks the place of publication."
+    }
+  }
+}

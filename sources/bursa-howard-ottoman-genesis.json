@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-howard-ottoman-genesis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A History of the Ottoman Empire",
+  "url": "https://assets.cambridge.org/97805218/98676/excerpt/9780521898676_excerpt.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Douglas A. Howard"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

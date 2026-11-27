@@ -1,0 +1,539 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:constantinople-and-galata-after-1453",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hagia-sophia-met",
+      "role": "supports",
+      "locator": "Building description and closing paragraphs on the conversion of Hagia Sophia to a mosque after the Ottoman conquest in 1453."
+    },
+    {
+      "sourceId": "source:istanbul-world-heritage-maps",
+      "role": "supports",
+      "locator": "Sultanahmet component 356bis-001, the historical peninsula. The existing canonical Hagia Sophia point marks the surviving cathedral and mosque."
+    },
+    {
+      "sourceId": "source:galata-sphrantzes-account",
+      "role": "supports",
+      "locator": "Chapter 1, pp. 47–48. The Greek and English of Sphrantzes’ brief statement about Tuesday 29 May and being absent at the emperor’s death. The authors distinguish his account from the expanded later chronicle."
+    },
+    {
+      "sourceId": "source:galata-sphrantzes-family",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–9 and n. 11, with references to Sphrantzes in Grecu's edition, pp. 98, 104, 106. Captivity, ransom of his wife, death of their son John in 1453 and of their daughter Thamar in 1455."
+    },
+    {
+      "sourceId": "source:galata-british-library-privilege",
+      "role": "supports",
+      "locator": "Egerton MS 2817, one item, 1453. The catalogue describes the Greek text, the sultan’s monogram and the Arabic-script date and vizier’s signature."
+    },
+    {
+      "sourceId": "source:galata-inalcik-pledge",
+      "role": "supports",
+      "locator": "Opening section, translation from the Paris Ottoman Turkish text, envoys with the keys, property and enslaved people, annual tax, bells, new churches and customs. Discussion of Lomellino’s letter and flight by sea at notes 26–30. Reprinted in Essays in Ottoman History, pp. 275–376."
+    },
+    {
+      "sourceId": "source:galata-mercan-genoese",
+      "role": "supports",
+      "locator": "Tarih İncelemeleri Dergisi 36/2, pp. 601–604, especially notes 59–65. Compares Lomellino, Doukas and Barbaro, describes taxation and names Greek, Italian and Ottoman witnesses to the grant."
+    },
+    {
+      "sourceId": "source:galata-lomellino-letter",
+      "role": "supports",
+      "locator": "Letter of Angelo Giovanni Lomellino from Pera to his brother, 23 June 1453, pp. 131–135. His nephew Imperiali and the defence of Constantinople, escape by sea, envoys at the sultan’s camp, advice to the doge and the refusal of ransom."
+    },
+    {
+      "sourceId": "source:galata-survey-1455",
+      "role": "supports",
+      "locator": "Galata survey, preamble and quarters Zani Drapora and Zani Dabdan, pp. 217–222. The register survives in fragments. The preamble specifies poll-tax liability, property confiscated for the treasury and rent. See Somer, pp. 114, 123–125, for the text and named entries."
+    },
+    {
+      "sourceId": "source:galata-somer-neighbourhoods",
+      "role": "supports",
+      "locator": "MA thesis, pp. 41–43 on the envoys, pp. 113–118 on the scope, dating and omissions of the survey. Sections 3.6.1–2, pp. 123–125, record Marya Maryana’s houses and oven, the brothers de Franchi, Fabyan and Anton di Laştergo. Note 760 identifies the Genoese notarial act for the smith."
+    },
+    {
+      "sourceId": "source:galata-tower-ministry",
+      "role": "supports",
+      "locator": "Museum location and map for the watchtower of medieval Pera (approximately 41.02565 N, 28.97413 E). The tower is a landmark for the historic district on the north shore. The places where the charter was delivered, the letter written and individual households stood are not identified."
+    },
+    {
+      "sourceId": "source:galata-lowry-resettlement",
+      "role": "supports",
+      "locator": "Osmanlı Araştırmaları 23, pp. 112–115, especially notes 50 and 54. Tursun Bey on applicants for free housing and wealthy individuals ordered to come. Aşıkpaşazade on recruitment by invitation followed by compulsory transfers of families."
+    },
+    {
+      "sourceId": "source:galata-karadeniz-aksaray",
+      "role": "supports",
+      "locator": "Belleten 79/284, pp. 80–82, especially p. 81 n. 44, quoting Aşıkpaşazade’s account of artisans’ households sent from Larende and Konya and of İshak Pasha sending households from Aksaray in 1471. The chronicler explicitly relates the Istanbul quarter to these deportees."
+    },
+    {
+      "sourceId": "source:galata-fatih-aksaray",
+      "role": "supports",
+      "locator": "Aksaray section, paragraphs on settlement near the Forum of the Ox and the larger extent of the historical quarter compared with today's administrative neighbourhood."
+    },
+    {
+      "sourceId": "source:galata-aksaray-district-map",
+      "role": "supports",
+      "locator": "Modern Aksaray district point 41.0083123 N, 28.9502838 E, rounded for orientation. Read with the municipality’s historical description. The boundaries and houses of the fifteenth-century neighbourhood cannot be inferred from the modern one."
+    },
+    {
+      "sourceId": "source:galata-effenberger-city-views",
+      "role": "supports",
+      "locator": "The Byzantine Harbours of Constantinople, pp. 19–24, figs. 2 and 4. Paper watermarks and pictorial evidence for the Düsseldorf copy’s date, Pera and Constantinople on fol. 54r, Valens aqueduct, Kontoskalion/Kadırgalimanı with basins, gate, five shipsheds and a galley."
+    },
+    {
+      "sourceId": "source:galata-duesseldorf-view",
+      "role": "supports",
+      "locator": "Düsseldorf, MS G 13, fol. 54r. Full 2,184 × 3,181 PNG and its file-history and licensing sections (faithful reproduction, Public Domain Mark). Dating and attribution to this copy are checked against Effenberger, fig. 2."
+    },
+    {
+      "sourceId": "source:galata-lomellino-letter-latin",
+      "role": "supports",
+      "locator": "Prima serie di documenti riguardanti la colonia di Pera, Atti della Società Ligure di Storia Patria XIII, doc. CXLIX, pp. 229–233. The dateline names Pera, 23 June 1453. Ships depart on p. 230, the nephew appears on p. 232."
+    }
+  ],
+  "labels": {
+    "de": "Ein Backofen in Galata. Konstantinopel nach 1453",
+    "en": "A baker’s oven in Galata. Constantinople after 1453"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:hagia-sophia-conversion-1453",
+    "event:ottoman-galata-galata-charter",
+    "event:ottoman-galata-lomellino-letter",
+    "event:ottoman-galata-survey",
+    "event:ottoman-galata-resettlement",
+    "event:ottoman-galata-two-shores",
+    "asset:duesseldorf-buondelmonti-view-of-constantinople-and-pera"
+  ],
+  "recordIds": [
+    "artifact:buondelmonti-duesseldorf-g13-f54r",
+    "artifact:galata-pledge-egerton-2817",
+    "artifact:ottoman-survey-of-galata-1455",
+    "asset:duesseldorf-buondelmonti-view-of-constantinople-and-pera",
+    "event:hagia-sophia-conversion-1453",
+    "event:ottoman-galata-galata-charter",
+    "event:ottoman-galata-lomellino-letter",
+    "event:ottoman-galata-resettlement",
+    "event:ottoman-galata-survey",
+    "event:ottoman-galata-two-shores",
+    "geometry:aksaray-quarter-istanbul-orientation",
+    "geometry:constantinople-orientation",
+    "geometry:galata-on-the-golden-horn-orientation",
+    "geometry:hagia-sophia-constantinople-orientation",
+    "person:angelo-giovanni-lomellino",
+    "person:ishak-pasha-aksaray",
+    "person:marya-maryana-of-galata",
+    "person:mehmed-ii",
+    "place:aksaray-quarter-istanbul",
+    "place:constantinople",
+    "place:galata-on-the-golden-horn",
+    "place:hagia-sophia-constantinople",
+    "source:fatih-ayasofya",
+    "source:galata-aksaray-district-map",
+    "source:galata-british-library-privilege",
+    "source:galata-duesseldorf-view",
+    "source:galata-effenberger-city-views",
+    "source:galata-fatih-aksaray",
+    "source:galata-inalcik-pledge",
+    "source:galata-karadeniz-aksaray",
+    "source:galata-lomellino-letter",
+    "source:galata-lomellino-letter-latin",
+    "source:galata-lowry-resettlement",
+    "source:galata-mercan-genoese",
+    "source:galata-somer-neighbourhoods",
+    "source:galata-sphrantzes-account",
+    "source:galata-sphrantzes-family",
+    "source:galata-survey-1455",
+    "source:galata-tower-ministry",
+    "source:gassman-wolfe-gothic-philippians",
+    "source:hagia-sophia-met",
+    "source:istanbul-world-heritage-maps",
+    "source:maclagan-city-constantinople",
+    "source:met-byzantium-periods",
+    "source:pleiades-ancient-places"
+  ],
+  "steps": [
+    {
+      "id": "hagia-sophia-1453",
+      "textAnchor": "hagia-sophia-1453",
+      "labels": {
+        "de": "1453 · Die Gemeinde verliert ihre Kathedrale",
+        "en": "1453 · A congregation loses its cathedral"
+      },
+      "summary": {
+        "de": "Mehmed lässt die Hagia Sophia zur Moschee einrichten. Was die Eroberung einer Familie in derselben Stadt abverlangte, bezeugt der gefangene Hofbeamte Georgios Sphrantzes.",
+        "en": "Mehmed converts Hagia Sophia into a mosque. The captive courtier George Sphrantzes records what conquest cost one family in the same city."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.98017,
+          "latitude": 41.00858,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1453,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1453,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "galata-charter",
+      "textAnchor": "galata-charter",
+      "labels": {
+        "de": "1. Juni 1453 · Mehmeds Zusage an Galata",
+        "en": "1 June 1453 · Mehmed’s pledge to Galata"
+      },
+      "summary": {
+        "de": "Nach der Übergabe der Schlüssel regelt eine Urkunde Eigentum, Abgaben, Handel und Gottesdienst. Die griechische Ausfertigung trägt das Herrscherzeichen Mehmeds.",
+        "en": "After the keys change hands a charter regulates property, taxation, trade and worship. The Greek instrument bears Mehmed’s imperial monogram."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.974,
+          "latitude": 41.026,
+          "metersPerPixel": 320,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1453,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1453,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "lomellino-letter",
+      "textAnchor": "lomellino-letter",
+      "labels": {
+        "de": "23. Juni 1453 · Lomellino schreibt an seinen Bruder",
+        "en": "23 June 1453 · Lomellino writes to his brother"
+      },
+      "summary": {
+        "de": "Der frühere Podestà berichtet aus Pera über die überstürzte Abfahrt der Schiffe und seinen gefangenen Neffen Imperiali. Den genauen Schreibort nennt er nicht.",
+        "en": "The former podestà writes from Pera about the ships’ hurried departure and his captive nephew Imperiali. He gives the town but no address."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.974,
+          "latitude": 41.026,
+          "metersPerPixel": 320,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1453,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1453,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "survey",
+      "textAnchor": "survey",
+      "labels": {
+        "de": "Dezember 1455 · Marya Maryanas drei Häuser",
+        "en": "December 1455 · Marya Maryana’s three houses"
+      },
+      "summary": {
+        "de": "In den Steueraufzeichnungen erscheinen die Witwe mit ihrem Backofen, der Schmied Anton und ein Gefangener, dessen Haus man eingezogen hatte. Der Punkt bezeichnet Galata, die einzelnen Baugrundstücke sind unbekannt.",
+        "en": "The tax register lists a widow and her oven, Anton the smith, and a captive whose house had been confiscated. The point marks Galata. The individual plots have not been located."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.974,
+          "latitude": 41.026,
+          "metersPerPixel": 320,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1455,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1455,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "resettlement",
+      "textAnchor": "resettlement",
+      "labels": {
+        "de": "1471 · İshak Pascha siedelt Familien aus Aksaray um",
+        "en": "1471 · İshak Pasha resettles families from Aksaray"
+      },
+      "summary": {
+        "de": "Eine Chronik führt den Namen des Istanbuler Viertels auf die 1471 zwangsweise aus der gleichnamigen zentralanatolischen Stadt umgesiedelten Haushalte zurück.",
+        "en": "A chronicler traces the Istanbul neighbourhood’s name to households brought there by force in 1471 from the central Anatolian town of Aksaray."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.95,
+          "latitude": 41.008,
+          "metersPerPixel": 320,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1471,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1471,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "two-shores",
+      "textAnchor": "two-shores",
+      "labels": {
+        "de": "um 1485–1490 · Pera und Konstantinopel auf einem Blatt",
+        "en": "c. 1485–1490 · Pera and Constantinople on a single sheet"
+      },
+      "summary": {
+        "de": "Die Düsseldorfer Handschrift des Inselbuchs von Buondelmonti zeigt beide Ufer und die Schiffsschuppen am Marmarameer. Der Kartenpunkt bezeichnet die dargestellte Stadt.",
+        "en": "The Düsseldorf copy of Buondelmonti’s book of islands shows both shores and the shipsheds on the Sea of Marmara. The point marks the city depicted."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.97,
+          "latitude": 41.01,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1485,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1490,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:duesseldorf-buondelmonti-view-of-constantinople-and-pera"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Hofbeamter kauft seine Frau frei, Genuesen bringen dem Sultan die Schlüssel von Galata, und die Witwe Marya Maryana erscheint mit drei Häusern im Steuerregister. Am anderen Ufer erinnert ein Viertel an Haushalte, die aus Anatolien hierherziehen mussten.",
+      "en": "A courtier ransoms his wife, Genoese envoys deliver the keys of Galata, and a widow called Marya Maryana appears in a tax register with three houses. Across the water, a district takes its name from families made to move from Anatolia."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "byzantine-empire",
+        "labels": {
+          "de": "Byzantinisches Reich",
+          "en": "Byzantine Empire"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      },
+      {
+        "id": "migrations",
+        "labels": {
+          "de": "Wanderungen",
+          "en": "Migrations"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      },
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 28.96509,
+      "latitude": 41.017,
+      "metersPerPixel": 342,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1453,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1453,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1490,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1490,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

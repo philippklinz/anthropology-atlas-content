@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hurrem-endowment-tunshuq",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jerusalem-tunshuq-archnet",
+      "role": "supports",
+      "locator": "Site 3733, opening paragraphs on Mujir al-Din, the burial in 1398 and the reuse of the palace in 1552. Description of the ground floor, cemetery across the street and subsequent additions."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-singer",
+      "role": "supports",
+      "locator": "Introduction pp. 1–3, translation of the foundation conditions and map I.1 of the kitchen on the lane above al-Wad. Chapter 2, pp. 39–70, especially pp. 46–65 on revenues, employees and provisioning."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Das Grab gegenüber dem Palast",
+    "en": "A tomb across the street"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1398,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1398,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:sitt-tunshuq",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:tunshuq-palace-and-tomb"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tunshuq-palace-and-tomb-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "1398 wurde Sitt Tunshuq ihrem Jerusalemer Palast gegenüber bestattet. Im 16. Jahrhundert nahm Hürrems Stiftung die ältere Residenz in ihren Komplex auf.",
+      "en": "Sitt Tunshuq was buried opposite her Jerusalem palace in 1398. Hürrem’s foundation later incorporated the older residence into its complex."
+    }
+  }
+}

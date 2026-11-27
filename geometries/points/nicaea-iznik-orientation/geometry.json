@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:nicaea-iznik-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-alexiad-eleven",
+      "role": "supports",
+      "locator": "Book XI, chapters I–II, pp. 269–275 in this translation. Boutoumites’ negotiations, public reading of the sealed document, wife and sister of the sultan, the Turkish-speaking Monastras and Rhodomerus and admission to the churches ten at a time."
+    },
+    {
+      "sourceId": "source:rum-gesta-francorum-nicaea",
+      "role": "supports",
+      "locator": "Section 8, “The Victory at Nicea”, final paragraphs (Krey, pp. 101–103). Local movement of fodder and wood by water, demands for safe conduct with children and property, criticism of the emperor and distribution to the poor."
+    },
+    {
+      "sourceId": "source:rum-nicaea-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 745026, town of İznik, former Nicaea. City reference point, 40.42861° N, 29.72111° E."
+    },
+    {
+      "sourceId": "source:rum-dynastic-branches",
+      "role": "supports",
+      "locator": "Opening paragraphs on Qutalmish and Alp Arslan as representatives of different Seljuk branches, the meaning of Rūm, and Kılıç Arslan I’s seats of government at Nicaea and Konya."
+    },
+    {
+      "sourceId": "source:rum-nicaea-coordinates",
+      "role": "derivation",
+      "locator": "GeoNames 745026, populated place on the east shore of Lake İznik."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Rounded to a schematic city point. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.geonames.org/745026/iznik.html",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

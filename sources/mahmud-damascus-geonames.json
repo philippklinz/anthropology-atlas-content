@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-damascus-geonames",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Damascus, Syria",
+  "url": "https://www.geonames.org/170654/damascus.html",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "GeoNames"
+  ],
+  "accessedAt": "2026-11-27"
+}

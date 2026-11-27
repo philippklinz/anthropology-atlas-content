@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:mahmud-al-kashgari",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-kacalin-diwan",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 9, pp. 446–449. Opening paragraphs on dates and readership. Sections 1–8, followed by paragraph on past-tense verb headwords. Map paragraph and omissions (Çigil, Suvar). Final paragraph, extent of 319 leaves."
+    },
+    {
+      "sourceId": "source:mahmud-institution-diwan",
+      "role": "supports",
+      "locator": "Second edition. Imprint and pp. 19–21 for Millet Yazma Eser Kütüphanesi, Ali Emîrî Arabî 4189, court and dating. Eyewitness accounts pp. 21–32, especially Kilisli Rifat on broken binding, ordering and numbering the leaves pp. 30–31. Bibliography, entry for Kilisli’s first three-volume edition, Istanbul, 1333–1335 AH."
+    },
+    {
+      "sourceId": "source:mahmud-horn-lexik",
+      "role": "supports",
+      "locator": "Dissertation, pp. 93–101. Dates and revisions, Cairo ownership note (CU 1), discussion on shared Kipchak and Turkmen forms in fifteen lines, attribution by handwriting, red rubrics and overwriting, vowel marks, colophon (CU 638, line 13) and alternatives Damascus or Cairo."
+    },
+    {
+      "sourceId": "source:mahmud-baghdad-geonames",
+      "role": "supports",
+      "locator": "City record 98182, 33.34058 N, 44.40088 E. Approximate location of the city addressed, not a specified palace."
+    },
+    {
+      "sourceId": "source:orkhon-ross-inscriptions",
+      "role": "supports",
+      "locator": "Kül Tegin monument, South 1–13 and the southeast colophon, pp. 862–865, 871. Bilge Qaghan addresses his listeners, and Yollug Tegin names his work at the memorial."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Mahmud von Kaschgar",
+    "en": "Mahmud of Kashgar"
+  }
+}

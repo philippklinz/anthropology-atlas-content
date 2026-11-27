@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-heritage-site-locations",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bursa and Cumalıkızık: the Birth of the Ottoman Empire – Maps and component parts",
+  "url": "https://whc.unesco.org/en/list/1452/maps/",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "accessedAt": "2026-11-27"
+}

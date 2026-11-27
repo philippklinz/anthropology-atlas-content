@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:kul-tegin-stele-in-the-museum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-kul-tegin-photograph",
+      "role": "supports",
+      "locator": "Summary, author and licensing, original photograph of 15 July 2015, portrait display 3,648 × 5,472 pixels. CC BY-SA 4.0. The stone and its fracture are visible in the museum display."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Die beschriftete Stele für Kül Tegin",
+    "en": "The inscribed stele for Kül Tegin"
+  },
+  "alt": {
+    "de": "Im Museum steht die helle Stele aufrecht. Eng gesetzte senkrechte Schriftzeilen ziehen sich über ihre breite Seite, quer durch die Mitte verläuft eine Bruchkante.",
+    "en": "The pale stone stands upright in the museum. Closely spaced vertical lines of writing cover its broad face, and a fracture crosses the middle."
+  },
+  "entityIds": [
+    "artifact:kul-tegin-stele"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Vezirtonyukuk"
+    ],
+    "attribution": "Vezirtonyukuk, Kultigin Monument of Orkhon Inscriptions, 15 July 2015, Wikimedia Commons. CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kultigin_Monument_of_Orkhon_Inscriptions.jpeg",
+    "originNote": "Web edition of the original 3648 × 5472 image. Resampled to 947 × 1420 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

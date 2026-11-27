@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:haseki-charter-manuscript-image",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Endowment Charter (Waqfiyya) of Haseki Hürrem Sultan, TIEM 2192, opening",
+  "url": "https://commons.wikimedia.org/wiki/File:Endowment_Charter_(%27Waqfiyya%27)_of_Haseki_H%C3%BCrrem_Sultan_(TIEM_2192).jpg",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Unidentified sixteenth-century scribe"
+  ],
+  "accessedAt": "2026-11-27"
+}

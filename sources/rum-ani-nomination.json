@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-ani-nomination",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ani Cultural Landscape, World Heritage nomination",
+  "url": "https://whc.unesco.org/uploads/nominations/1518.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Republic of Turkey, submitted to UNESCO"
+  ],
+  "accessedAt": "2026-11-27"
+}

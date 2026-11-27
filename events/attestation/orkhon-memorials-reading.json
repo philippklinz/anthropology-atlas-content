@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:orkhon-memorials-reading",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-thomsen-alphabet",
+      "role": "supports",
+      "locator": "Opening paragraphs, pp. 9–10. Thomsen describes his 1893 notice, distinguishing vowels from consonants and the three starting points tängri, Kül Tigin and türk. Bibliography in Tekin, p. 412, records the 1890 Finnish expedition and its 1892 facsimile publication."
+    },
+    {
+      "sourceId": "source:orkhon-thomsen-biography",
+      "role": "supports",
+      "locator": "Biographical section, paragraphs beginning “Vilhelm Thomsens ry” and “Redegørelsen”. December 1893 presentation to the Royal Danish Academy, and the later annotated edition."
+    },
+    {
+      "sourceId": "source:orkhon-tekin-grammar",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–11, and editions, pp. 261–289. Tonyukuk I W 1–7, I S 1–5 and II E 4–8 for the counsellor’s narrative. KT S 1–13, E 1–5, N 9–13 and NE, SE for the court address, dates, mourners and work. BK E 2–24, S 10–15, N 9–10 and SW for shared text, funerary gifts, marriages and the second colophon."
+    },
+    {
+      "sourceId": "source:orkhon-turanskaya-estampages",
+      "role": "supports",
+      "locator": "Abstract and catalogue in Vostok (Oriens), DOI 10.31857/S086919080020112-0. Klementz in 1897, Radloff’s 1899 edition with seventeen photographs of impressions, and the usefulness of preserved copies for disputed readings."
+    },
+    {
+      "sourceId": "source:orkhon-copenhagen-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 2618425, København, capital of Denmark. City reference point 55.67594° N, 12.56553° E, for the presentation to the Danish Academy."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Thomsen erläutert die Entzifferung",
+    "en": "Thomsen presents his decipherment"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1893,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1893,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:vilhelm-thomsen",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:copenhagen"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:copenhagen-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "In Kopenhagen stellt der Sprachwissenschaftler im Dezember 1893 die Entzifferung der alttürkischen Schrift vor. Zu den Wörtern, an denen er die Zeichen prüfte, gehörte der Name Kül Tegin.",
+      "en": "In Copenhagen in December 1893 the linguist presented his decipherment of the Old Turkic script. The words against which he tested the signs included Kül Tegin’s name."
+    }
+  }
+}

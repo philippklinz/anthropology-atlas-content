@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-survey-1455",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Survey of Istanbul 1455: The Text, English Translation, Analysis of the Text, Documents",
+  "url": "https://www.iskultur.com.tr/the-survey-of-istanbul-1455.aspx",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Halil İnalcık"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2012"
+}

@@ -1,0 +1,482 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:divrigi-and-the-workshops-of-konya",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:eyice-konya-alaeddin-minbar",
+      "role": "supports",
+      "locator": "Paragraphs beginning “Alâeddin Camii’nin içinde” and “Minberin şerefesinde”. Locations of the two royal names, Quran 40:16, dated balcony inscription, joinery and openwork. Eyice presents the sequence of the two commissions as a hypothesis."
+    },
+    {
+      "sourceId": "source:kesik-konya-mesud-inscription",
+      "role": "supports",
+      "locator": "Printed p. 134, transcription and discussion of the Konya minbar inscriptions, especially note 607. The master is associated with Ahlat and the work is dated Rajab AH 550."
+    },
+    {
+      "sourceId": "source:archnet-konya-alaeddin-complex",
+      "role": "supports",
+      "locator": "Site 3576. Description of the 1155 minbar and the rebuilding of the mosque in the early thirteenth century. Location, Alaettin Tepesi, with directions to the mosque at 37.873421 N, 32.492667 E."
+    },
+    {
+      "sourceId": "source:qantara-divrigi-inscriptions",
+      "role": "supports",
+      "locator": "Inscriptions, individual entries for the north and west mosque portals, mihrab dome, west hospital portal, mosque minbar balustrade and central star. Includes Arabic terms and English renderings."
+    },
+    {
+      "sourceId": "source:mwnf-divrigi-mosque-hospital",
+      "role": "supports",
+      "locator": "Description, passages on the north and west portals, pseudo-kündekari and openwork of the wooden minbar, and the three-iwan hospital with partial upper floor. How Monument was dated, two AH 626 inscriptions."
+    },
+    {
+      "sourceId": "source:bakirer-divrigi-inscriptions-and-foundation",
+      "role": "supports",
+      "locator": "Printed pp. 87–90, “Documents for Dating the Building”. Transcribes and locates signatures, describes the twelve-pointed star and rail on the east face of the minbar, gives AH 638 and compares opinions on the 22-line mosque charter and the loss of the hospital deed."
+    },
+    {
+      "sourceId": "source:gulsoy-divrigi-mosque-farms",
+      "role": "supports",
+      "locator": "Printed pp. 243–244, section C, paragraph straddling the two pages, especially n. 67. The author distinguishes the original grant in Muharram 641 by Ahmed Shah and Fatma Hatun (named villages and rural holdings) from later additions in the 1519 register."
+    },
+    {
+      "sourceId": "source:mwnf-konya-karatay-madrasa",
+      "role": "supports",
+      "locator": "Description, layout of the entrance, west teaching iwan and winter classrooms, student cells, central pool and oculus, lower hexagonal tiles and tiled pendentives. How Monument was dated gives AH 649 and identifies the endowment instrument dated 25 Jumada I 651."
+    },
+    {
+      "sourceId": "source:dogan-karatay-teaching-and-endowment",
+      "role": "supports",
+      "locator": "Printed pp. 435–436, section on Karatay; p. 436, table 3 and adjacent paragraphs give days of instruction, Sunni schools, salaries, first charges on revenue, and the inscriptions naming prophets in the dome supports. The discussion explicitly qualifies the astronomical interpretation."
+    },
+    {
+      "sourceId": "source:dosseman-karatay-mosaic-dome-2010",
+      "role": "supports",
+      "locator": "Original image file, author and licence information. Dosseman’s 2010 photograph looks upward into the interior of the dome of the Karatay madrasa in Konya."
+    }
+  ],
+  "labels": {
+    "de": "In den Werkstätten und Stiftungen von Konya und Divriği",
+    "en": "Inside the workshops and foundations of Konya and Divriği"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:anatolian-workshops-konya-pulpit",
+    "event:anatolian-dynasties-divrigi",
+    "event:anatolian-workshops-divrigi-minbar",
+    "event:anatolian-workshops-mosque-deed",
+    "event:anatolian-dynasties-konya",
+    "event:anatolian-workshops-foundation-deed",
+    "asset:karatay-madrasa-dome-tile-mosaic"
+  ],
+  "recordIds": [
+    "artifact:divrigi-minbar",
+    "artifact:karatay-madrasa-waqfiyya",
+    "artifact:konya-alaeddin-minbar",
+    "assertion:signed-minbar-in-divrigi",
+    "asset:karatay-madrasa-dome-tile-mosaic",
+    "event:anatolian-dynasties-divrigi",
+    "event:anatolian-dynasties-konya",
+    "event:anatolian-workshops-divrigi-minbar",
+    "event:anatolian-workshops-foundation-deed",
+    "event:anatolian-workshops-konya-pulpit",
+    "event:anatolian-workshops-mosque-deed",
+    "geometry:alaeddin-mosque-konya-orientation",
+    "geometry:great-mosque-and-hospital-divrigi-orientation",
+    "geometry:karatay-madrasa-konya-orientation",
+    "person:ahmad-ibn-ibrahim-al-tiflisi",
+    "person:ahmet-shah-of-divrigi",
+    "person:fatma-hatun-of-divrigi",
+    "person:jalal-al-din-karatay",
+    "person:turan-melek-of-divrigi",
+    "place:alaeddin-mosque-konya",
+    "place:great-mosque-and-hospital-divrigi",
+    "place:karatay-madrasa-konya",
+    "source:archnet-konya-alaeddin-complex",
+    "source:bakirer-divrigi-inscriptions-and-foundation",
+    "source:cambridge-anatolia-under-mongols",
+    "source:dogan-karatay-teaching-and-endowment",
+    "source:dosseman-karatay-mosaic-dome-2010",
+    "source:eyice-konya-alaeddin-minbar",
+    "source:gulsoy-divrigi-mosque-farms",
+    "source:kesik-konya-mesud-inscription",
+    "source:konya-karatay-tile-museum",
+    "source:mwnf-divrigi-mosque-hospital",
+    "source:mwnf-konya-karatay-madrasa",
+    "source:qantara-divrigi-inscriptions",
+    "source:unesco-divrigi-mosque-hospital-map"
+  ],
+  "steps": [
+    {
+      "id": "konya-pulpit",
+      "textAnchor": "konya-pulpit",
+      "labels": {
+        "de": "1155, Radschab 550 der Hidschra · Zwei Sultane an einer Kanzeltür",
+        "en": "1155, Rajab AH 550 · Two sultans on a pulpit door"
+      },
+      "summary": {
+        "de": "Die Tür und ihr Rahmen nennen Vater und Sohn. Eine weitere Inschrift datiert die Arbeit des Kanzelschnitzers aus Ahlat.",
+        "en": "Door and frame name father and son. A third inscription dates the work of the master from Ahlat."
+      },
+      "state": {
+        "camera": {
+          "longitude": 32.49267,
+          "latitude": 37.87342,
+          "metersPerPixel": 160,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1155,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1155,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "divrigi",
+      "textAnchor": "divrigi",
+      "labels": {
+        "de": "1228/29, Jahr 626 der Hidschra · Turan Melek nennt ihr Krankenhaus",
+        "en": "1228–29, AH 626 · Turan Melek names her hospital"
+      },
+      "summary": {
+        "de": "Am Nordportal der Moschee treten zwei Herrscher auf. Am Westportal des Hospitals bezeichnet Turan Melek das Haus als Stiftung zur Heilung.",
+        "en": "Two rulers appear at the north portal of the mosque. At the west hospital portal Turan Melek identifies her foundation as a house of healing."
+      },
+      "state": {
+        "camera": {
+          "longitude": 38.12183,
+          "latitude": 39.37127,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1228,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1229,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "divrigi-minbar",
+      "textAnchor": "divrigi-minbar",
+      "labels": {
+        "de": "1240/41, Jahr 638 der Hidschra · Ein Name im zwölfzackigen Stern",
+        "en": "1240–41, AH 638 · A signature in a twelve-pointed star"
+      },
+      "summary": {
+        "de": "Auftrag und Signatur stehen an verschiedenen Stellen derselben Kanzel. Der Stern auf der Ostseite bewahrt den Namen Ahmeds aus Tiflis.",
+        "en": "Commission and signature occupy different places on the same pulpit. A star on the east side bears the name of Ahmad of Tiflis."
+      },
+      "state": {
+        "camera": {
+          "longitude": 38.12183,
+          "latitude": 39.37127,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1240,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1241,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "mosque-deed",
+      "textAnchor": "mosque-deed",
+      "labels": {
+        "de": "Juli 1243, Muharram 641 der Hidschra · Fatma Hatun und die Erträge der Dörfer",
+        "en": "July 1243, Muharram AH 641 · Fatma Hatun and the village harvests"
+      },
+      "summary": {
+        "de": "Die Urkunde nennt Fatma Hatun und ihren Sohn als Stifter von Einkünften für die Moschee. Die Datierung gilt der Stiftung. Wann das erhaltene Blatt geschrieben wurde, ist umstritten.",
+        "en": "The deed names Fatma Hatun and her son as donors of revenues for the mosque. The date is that of their grant. Scholars disagree about when the surviving sheet was written."
+      },
+      "state": {
+        "camera": {
+          "longitude": 38.12183,
+          "latitude": 39.37127,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1243,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1243,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "konya",
+      "textAnchor": "konya",
+      "labels": {
+        "de": "1251/52, Jahr 649 der Hidschra · Eine Schule unter einer gefliesten Kuppel",
+        "en": "1251–52, AH 649 · A school under a tiled dome"
+      },
+      "summary": {
+        "de": "Erhaltene Fliesen und der Grundriss verorten die Lehrsäle, die Schülerkammern und die Öffnung über dem Hofbecken. Die Stiftungsurkunde nennt das Baujahr.",
+        "en": "Surviving tiles and the plan locate classrooms, student cells and the opening over the central pool. The foundation deed identifies the year of construction."
+      },
+      "state": {
+        "camera": {
+          "longitude": 32.4929,
+          "latitude": 37.87503,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1251,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1252,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:karatay-madrasa-dome-tile-mosaic"
+    },
+    {
+      "id": "foundation-deed",
+      "textAnchor": "foundation-deed",
+      "labels": {
+        "de": "Juli 1253, Jahr 651 der Hidschra · Fünf Unterrichtstage und Geld für Lampenöl",
+        "en": "July 1253, AH 651 · Five teaching days and money for lamp oil"
+      },
+      "summary": {
+        "de": "Die Urkunde regelt zuerst die laufenden Ausgaben und teilt den Rest den Lehrenden, dem Personal und den Studierenden zu. Die Bestimmungen geben auch die Unterrichtstage an.",
+        "en": "The deed assigns running costs first, then portions for teaching, upkeep and student support. Its terms also set out the teaching week."
+      },
+      "state": {
+        "camera": {
+          "longitude": 32.4929,
+          "latitude": 37.87503,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1253,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1253,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Holzschnitzer aus Tiflis setzt seinen Namen in einen Stern. Eine Fürstin bezeichnet ihr Krankenhaus, ein Dorf trägt zum Unterhalt einer Moschee bei, und Karatays Stiftungsurkunde bestimmt, wer in Konya lehren darf.",
+      "en": "A carver from Tiflis fits his name into a star. A princess identifies her hospital, a village helps sustain a mosque and Karatay’s deed sets the terms for teaching at Konya."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "religious-patronage",
+        "labels": {
+          "de": "Religiöse Stiftungen",
+          "en": "Religious patronage"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      },
+      {
+        "id": "charters-and-law",
+        "labels": {
+          "de": "Urkunden und Recht",
+          "en": "Charters and law"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 35.30725,
+      "latitude": 38.62235,
+      "metersPerPixel": 1530,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1155,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1155,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1253,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1253,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

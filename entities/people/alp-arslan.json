@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:alp-arslan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-aristakes-cities",
+      "role": "supports",
+      "locator": "Chapter 24, Armenian-era year 513, especially printed pp. 163–165 (Armenian pp. 134–136): two places of refuge, provisions, burial and usury. Chapter 25, pp. 167–171 (Armenian pp. 137–140): the names used for the two rulers, the captive’s release and his blinding."
+    },
+    {
+      "sourceId": "source:rum-ani-nomination",
+      "role": "supports",
+      "locator": "§1.d, geographical coordinates of the property (40°30′ N, 43°34′ E), and §3, Justification for Inscription, account of the Bagratid capital, Byzantine takeover in 1045, capture by Alp Arslan in 1064 and subsequent Shaddadid rule."
+    },
+    {
+      "sourceId": "source:rum-greenwood-armenian-cities",
+      "role": "supports",
+      "locator": "Author manuscript, discussion of the five city accounts including Ani, pp. 16–20, with particular attention to debt, interest, scriptural models and the differing urban societies depicted."
+    },
+    {
+      "sourceId": "source:rum-ani-walls-photo",
+      "role": "supports",
+      "locator": "File summary and licence review on Wikimedia Commons. The photographer dates the image 30 July 2008. CC BY 2.0 confirmed by Commons in June 2009, original file 3,072 × 2,304 px."
+    },
+    {
+      "sourceId": "source:rum-attaleiates-macrides",
+      "role": "supports",
+      "locator": "Appendix A in Carole Hillenbrand, Turkish Myth and Muslim Symbol. Historia, ed. Pérez Martín, 113.5–123.16. Opening passage on the wagons, the army’s provisions and the townspeople’s request to keep their property in return for surrender."
+    },
+    {
+      "sourceId": "source:rum-hillenbrand-twelfth-century",
+      "role": "supports",
+      "locator": "Turkish Myth and Muslim Symbol, ch. 2, pp. 26–31, Arabic mirror for princes Sirāj al-mulūk by al-Turtushi, translation and commentary. Reversal of the captive and captor in a question in the literary dialogue. The account belongs to the early twelfth century."
+    },
+    {
+      "sourceId": "source:rum-malazgirt-survey",
+      "role": "supports",
+      "locator": "“Malazgirt / Manazkert Citadel”, pp. 44–45, Location and Accessibility. The survey places the historic town’s citadel at 39.14692° N, 42.54504° E. This identifies the locality, whose walls also figure in Attaleiates, without assigning a location to the emperor’s capture."
+    },
+    {
+      "sourceId": "source:manzikert-attaleiates-camp-reports",
+      "role": "supports",
+      "locator": "Byzantinische Zeitschrift 105.2, pp. 834–835, n. 34. Conflicting reports arriving at the imperial camp, Attaleiates 125.15–126.10. DOI 10.1515/bz.2012.0033."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Alp Arslan",
+    "en": "Alp Arslan"
+  }
+}

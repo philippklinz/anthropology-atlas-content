@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jindas-rural-hinterland",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Jindās: A History of Lydda’s Rural Hinterland in the 15th to the 20th Centuries CE",
+  "url": "https://www.israeliarchaeology.org/wp-content/uploads/2021/12/01-Roy-Marom_16_11_2022.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Roy Marom"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2022"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-parker-imperial-inscription",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Deceased Köl Tegin’s Tablet, Chinese inscription in Inscriptions de l’Orkhon déchiffrées",
+  "url": "https://fr.wikisource.org/wiki/Page:Inscriptions_de_l%27Orkhon_d%C3%A9chiffr%C3%A9es.djvu/216",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "E. H. Parker (English translation), in Vilhelm Thomsen"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1896"
+}

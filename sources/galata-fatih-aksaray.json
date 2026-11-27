@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-fatih-aksaray",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tarihte Fatih",
+  "url": "https://www.fatih.bel.tr/tr/main/pages/tarihte-fatih/41",
+  "sourceType": "website",
+  "language": "tr",
+  "creators": [
+    "Fatih Belediyesi"
+  ],
+  "accessedAt": "2026-11-27"
+}

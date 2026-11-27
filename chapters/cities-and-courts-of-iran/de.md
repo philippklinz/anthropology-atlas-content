@@ -20,6 +20,8 @@ In der Freitagsmoschee von Isfahan lohnt es sich, vor dem Blick in die Mitte des
 
 Beide Bauherren beschäftigten Handwerker, die mit gebrannten Ziegeln große Lasten überbrücken konnten. Unter der südlichen Kuppel stehen mächtige, gebündelte Pfeiler. Im Norden gliedert sich das Mauerwerk in kleinere Bögen und geometrische Felder. Der südliche Raum hatte einen klaren Bezug zum Gebet. Welche Aufgabe der nördliche im Einzelnen erfüllte, wird weiterhin diskutiert. Die beiden Namen der Auftraggeber sind leichter zu ermitteln als der Alltag der Menschen, die sich dort aufhielten. Ein anderer seldschukischer Hof begegnet uns in [der Schule von Konya](chapter:turkic-dynasties-in-anatolia#konya).
 
+In Anatolien begegnet man später in [Konyas Kuppelraum über dem Hof der Karatay-Medrese](chapter:divrigi-and-the-workshops-of-konya#konya) anderen Auftraggebern und Handwerkern.
+
 ## Weshalb ein Buchbinder Ziegenleder brauchte {#tabriz}
 
 In Täbris stiftete der Wesir Raschid ad-Din unter den mongolischen Ilchanen einen Komplex mit Bibliothek, Papierherstellung und Lehrbetrieb. Die Stiftungsurkunde von 1309 schrieb die regelmäßige Abschrift eines Korans in dreißig Teilen und eines Werks über die Überlieferungen des Propheten vor. In einem Zusatz von 1313 nahm Raschid ad-Din seine eigenen Werke auf. Von ihnen sollten jeweils eine arabische und eine persische Fassung entstehen. Dazu zählte seine Weltgeschichte.

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-kacalin-diwan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dîvânü lugāti’t-Türk",
+  "url": "https://islamansiklopedisi.org.tr/divanu-lugatit-turk",
+  "sourceType": "article",
+  "language": "tr",
+  "creators": [
+    "Mustafa S. Kaçalin"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1994"
+}

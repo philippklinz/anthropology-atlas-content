@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-rum-edessa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-matthew-edessa-chronicle",
+      "role": "supports",
+      "locator": "Part II, year 547 of the Armenian era (1098), section on T‘oros and Baldwin, translator pp. 92–93, Armenian pagination g259–262. Arrival with sixty horsemen, gifts, two citadels, relics of Varag and Mak‘enik‘, written oath, death of T‘oros."
+    },
+    {
+      "sourceId": "source:rum-macevitt-edessans",
+      "role": "supports",
+      "locator": "Chapter 2, pp. 66–71, and particularly pp. 68 and 70: comparison of Matthew and the Syriac tradition, the Harran Gate, differing interests within Edessa, Baldwin’s dependence on the city’s aristocracy and the continued use of the Armenian administration."
+    },
+    {
+      "sourceId": "source:rum-edessa-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 298333, settlement of Şanlıurfa, former Edessa. City-level reference point 37.16708° N, 38.79392° E. The church and the specific part of the city wall cannot be positioned from this point."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Stadt geht an Balduin von Boulogne",
+    "en": "Baldwin of Boulogne gains Edessa"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1098,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1098,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:thoros-of-edessa",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:baldwin-of-boulogne",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:edessa-in-upper-mesopotamia"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:edessa-in-upper-mesopotamia-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Thoros will mit seiner Frau nach Melitene abziehen. Matthäus von Edessa berichtet vom Eid auf Kreuzreliquien, vom Brief an den Stadtherrn und davon, dass die Zusage gebrochen wurde.",
+      "en": "Thoros asked leave to depart for Melitene with his wife. Matthew describes the oath on relics, the letter to Thoros and the breach of that undertaking."
+    }
+  }
+}

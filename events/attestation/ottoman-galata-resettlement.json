@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ottoman-galata-resettlement",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:galata-karadeniz-aksaray",
+      "role": "supports",
+      "locator": "Belleten 79/284, pp. 80–82, especially p. 81 n. 44, quoting Aşıkpaşazade’s account of artisans’ households sent from Larende and Konya and of İshak Pasha sending households from Aksaray in 1471. The chronicler explicitly relates the Istanbul quarter to these deportees."
+    },
+    {
+      "sourceId": "source:galata-lowry-resettlement",
+      "role": "supports",
+      "locator": "Osmanlı Araştırmaları 23, pp. 112–115, especially notes 50 and 54. Tursun Bey on applicants for free housing and wealthy individuals ordered to come. Aşıkpaşazade on recruitment by invitation followed by compulsory transfers of families."
+    },
+    {
+      "sourceId": "source:galata-fatih-aksaray",
+      "role": "supports",
+      "locator": "Aksaray section, paragraphs on settlement near the Forum of the Ox and the larger extent of the historical quarter compared with today's administrative neighbourhood."
+    },
+    {
+      "sourceId": "source:galata-aksaray-district-map",
+      "role": "supports",
+      "locator": "Modern Aksaray district point 41.0083123 N, 28.9502838 E, rounded for orientation. Read with the municipality’s historical description. The boundaries and houses of the fifteenth-century neighbourhood cannot be inferred from the modern one."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "İshak Pascha siedelt Familien aus Aksaray um",
+    "en": "İshak Pasha resettles families from Aksaray"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1471,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1471,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:ishak-pasha-aksaray",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:aksaray-quarter-istanbul"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:aksaray-quarter-istanbul-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Eine Chronik führt den Namen des Istanbuler Viertels auf die 1471 zwangsweise aus der gleichnamigen zentralanatolischen Stadt umgesiedelten Haushalte zurück.",
+      "en": "A chronicler traces the Istanbul neighbourhood’s name to households brought there by force in 1471 from the central Anatolian town of Aksaray."
+    }
+  }
+}

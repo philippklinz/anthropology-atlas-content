@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:edessa-in-upper-mesopotamia-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.7939,
+      37.1671
+    ]
+  }
+}

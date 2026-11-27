@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-turan-karatay-deed",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Celâleddin Karatay, Vakıfları ve Vakfiyeleri",
+  "url": "https://dergipark.org.tr/tr/pub/ttkbelleten/article/1355977",
+  "sourceType": "article",
+  "language": "tr",
+  "creators": [
+    "Osman Turan"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1948"
+}

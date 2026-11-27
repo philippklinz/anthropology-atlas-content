@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-alexiad-eleven",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Alexiad, book XI",
+  "url": "https://sourcebooks.web.fordham.edu/basis/AnnaComnena-Alexiad11.asp",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Anna Komnene",
+    "Elizabeth A. S. Dawes (English translation)"
+  ],
+  "accessedAt": "2026-11-27"
+}

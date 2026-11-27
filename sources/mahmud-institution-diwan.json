@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-institution-diwan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dîvânu Lugâti’t-Türk. İnceleme – Tıpkıbasım",
+  "url": "https://ekitap.yek.gov.tr/Uploads/ProductsFiles/49edc3d1-4e82-4221-955f-64e12af7f006.pdf",
+  "sourceType": "book",
+  "language": "tr",
+  "creators": [
+    "Mustafa S. Kaçalin (ed.)",
+    "Türkiye Yazma Eserler Kurumu Başkanlığı"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

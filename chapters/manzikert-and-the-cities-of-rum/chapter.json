@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:manzikert-and-the-cities-of-rum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-aristakes-cities",
+      "role": "supports",
+      "locator": "Chapter 24, Armenian-era year 513, especially printed pp. 163–165 (Armenian pp. 134–136): two places of refuge, provisions, burial and usury. Chapter 25, pp. 167–171 (Armenian pp. 137–140): the names used for the two rulers, the captive’s release and his blinding."
+    },
+    {
+      "sourceId": "source:rum-ani-nomination",
+      "role": "supports",
+      "locator": "§1.d, geographical coordinates of the property (40°30′ N, 43°34′ E), and §3, Justification for Inscription, account of the Bagratid capital, Byzantine takeover in 1045, capture by Alp Arslan in 1064 and subsequent Shaddadid rule."
+    },
+    {
+      "sourceId": "source:rum-ani-walls-photo",
+      "role": "supports",
+      "locator": "File summary and licence review on Wikimedia Commons. The photographer dates the image 30 July 2008. CC BY 2.0 confirmed by Commons in June 2009, original file 3,072 × 2,304 px."
+    },
+    {
+      "sourceId": "source:rum-greenwood-armenian-cities",
+      "role": "supports",
+      "locator": "Author manuscript, discussion of the five city accounts including Ani, pp. 16–20, with particular attention to debt, interest, scriptural models and the differing urban societies depicted."
+    },
+    {
+      "sourceId": "source:rum-attaleiates-macrides",
+      "role": "supports",
+      "locator": "Appendix A in Carole Hillenbrand, Turkish Myth and Muslim Symbol. Historia, ed. Pérez Martín, 113.5–123.16. Opening passage on the wagons, the army’s provisions and the townspeople’s request to keep their property in return for surrender."
+    },
+    {
+      "sourceId": "source:rum-hillenbrand-twelfth-century",
+      "role": "supports",
+      "locator": "Turkish Myth and Muslim Symbol, ch. 2, pp. 26–31, Arabic mirror for princes Sirāj al-mulūk by al-Turtushi, translation and commentary. Reversal of the captive and captor in a question in the literary dialogue. The account belongs to the early twelfth century."
+    },
+    {
+      "sourceId": "source:rum-malazgirt-survey",
+      "role": "supports",
+      "locator": "“Malazgirt / Manazkert Citadel”, pp. 44–45, Location and Accessibility. The survey places the historic town’s citadel at 39.14692° N, 42.54504° E. This identifies the locality, whose walls also figure in Attaleiates, without assigning a location to the emperor’s capture."
+    },
+    {
+      "sourceId": "source:rum-alexiad-eleven",
+      "role": "supports",
+      "locator": "Book XI, chapters I–II, pp. 269–275 in this translation. Boutoumites’ negotiations, public reading of the sealed document, wife and sister of the sultan, the Turkish-speaking Monastras and Rhodomerus and admission to the churches ten at a time."
+    },
+    {
+      "sourceId": "source:rum-gesta-francorum-nicaea",
+      "role": "supports",
+      "locator": "Section 8, “The Victory at Nicea”, final paragraphs (Krey, pp. 101–103). Local movement of fodder and wood by water, demands for safe conduct with children and property, criticism of the emperor and distribution to the poor."
+    },
+    {
+      "sourceId": "source:rum-nicaea-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 745026, town of İznik, former Nicaea. City reference point, 40.42861° N, 29.72111° E."
+    },
+    {
+      "sourceId": "source:rum-dynastic-branches",
+      "role": "supports",
+      "locator": "Opening paragraphs on Qutalmish and Alp Arslan as representatives of different Seljuk branches, the meaning of Rūm, and Kılıç Arslan I’s seats of government at Nicaea and Konya."
+    },
+    {
+      "sourceId": "source:rum-matthew-edessa-chronicle",
+      "role": "supports",
+      "locator": "Part II, year 547 of the Armenian era (1098), section on T‘oros and Baldwin, translator pp. 92–93, Armenian pagination g259–262. Arrival with sixty horsemen, gifts, two citadels, relics of Varag and Mak‘enik‘, written oath, death of T‘oros."
+    },
+    {
+      "sourceId": "source:rum-macevitt-edessans",
+      "role": "supports",
+      "locator": "Chapter 2, pp. 66–71, and particularly pp. 68 and 70: comparison of Matthew and the Syriac tradition, the Harran Gate, differing interests within Edessa, Baldwin’s dependence on the city’s aristocracy and the continued use of the Armenian administration."
+    },
+    {
+      "sourceId": "source:rum-edessa-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 298333, settlement of Şanlıurfa, former Edessa. City-level reference point 37.16708° N, 38.79392° E. The church and the specific part of the city wall cannot be positioned from this point."
+    },
+    {
+      "sourceId": "source:eyice-konya-alaeddin-minbar",
+      "role": "supports",
+      "locator": "Paragraphs beginning “Alâeddin Camii’nin içinde” and “Minberin şerefesinde”. Locations of the two royal names, Quran 40:16, dated balcony inscription, joinery and openwork. Eyice presents the sequence of the two commissions as a hypothesis."
+    },
+    {
+      "sourceId": "source:kesik-konya-mesud-inscription",
+      "role": "supports",
+      "locator": "Printed p. 134, transcription and discussion of the Konya minbar inscriptions, especially note 607. The master is associated with Ahlat and the work is dated Rajab AH 550."
+    },
+    {
+      "sourceId": "source:archnet-konya-alaeddin-complex",
+      "role": "supports",
+      "locator": "Site 3576. Description of the 1155 minbar and the rebuilding of the mosque in the early thirteenth century. Location, Alaettin Tepesi, with directions to the mosque at 37.873421 N, 32.492667 E."
+    },
+    {
+      "sourceId": "source:manzikert-attaleiates-camp-reports",
+      "role": "supports",
+      "locator": "Byzantinische Zeitschrift 105.2, pp. 834–835, n. 34. Conflicting reports arriving at the imperial camp, Attaleiates 125.15–126.10. DOI 10.1515/bz.2012.0033."
+    }
+  ],
+  "labels": {
+    "de": "Wer nach Mantzikert die Stadttore öffnete",
+    "en": "Who opened the city gates after Manzikert?"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:cities-of-rum-ani",
+    "event:cities-of-rum-manzikert",
+    "event:cities-of-rum-nicaea",
+    "event:cities-of-rum-edessa",
+    "event:anatolian-workshops-konya-pulpit",
+    "asset:ani-city-walls-on-the-plateau"
+  ],
+  "recordIds": [
+    "artifact:konya-alaeddin-minbar",
+    "asset:ani-city-walls-on-the-plateau",
+    "event:anatolian-workshops-konya-pulpit",
+    "event:cities-of-rum-ani",
+    "event:cities-of-rum-edessa",
+    "event:cities-of-rum-manzikert",
+    "event:cities-of-rum-nicaea",
+    "geometry:alaeddin-mosque-konya-orientation",
+    "geometry:ani-on-the-akhurian-orientation",
+    "geometry:edessa-in-upper-mesopotamia-orientation",
+    "geometry:manzikert-by-lake-van-orientation",
+    "geometry:nicaea-iznik-orientation",
+    "person:alexios-i-komnenos",
+    "person:alp-arslan",
+    "person:baldwin-of-boulogne",
+    "person:romanos-iv-diogenes",
+    "person:thoros-of-edessa",
+    "place:alaeddin-mosque-konya",
+    "place:ani-on-the-akhurian",
+    "place:edessa-in-upper-mesopotamia",
+    "place:manzikert-by-lake-van",
+    "place:nicaea-iznik",
+    "source:archnet-konya-alaeddin-complex",
+    "source:eyice-konya-alaeddin-minbar",
+    "source:kesik-konya-mesud-inscription",
+    "source:manzikert-attaleiates-camp-reports",
+    "source:rum-alexiad-eleven",
+    "source:rum-ani-nomination",
+    "source:rum-ani-walls-photo",
+    "source:rum-aristakes-cities",
+    "source:rum-attaleiates-macrides",
+    "source:rum-dynastic-branches",
+    "source:rum-edessa-coordinates",
+    "source:rum-gesta-francorum-nicaea",
+    "source:rum-greenwood-armenian-cities",
+    "source:rum-hillenbrand-twelfth-century",
+    "source:rum-macevitt-edessans",
+    "source:rum-malazgirt-survey",
+    "source:rum-matthew-edessa-chronicle",
+    "source:rum-nicaea-coordinates"
+  ],
+  "steps": [
+    {
+      "id": "ani",
+      "textAnchor": "ani",
+      "labels": {
+        "de": "1064 · Alp Arslan nimmt Ani ein",
+        "en": "1064 · Alp Arslan captures Ani"
+      },
+      "summary": {
+        "de": "Aristakes erinnert an Männer und Frauen, die im Palast und in der inneren Festung Schutz suchten. Seine Klage über Ani richtet sich auch gegen das Geschäft mit den Schulden der Armen.",
+        "en": "Aristakes recalls people who sought refuge in the palace and inner fortress. His lament for Ani also reproaches those whose profits came from the debts of the poor."
+      },
+      "state": {
+        "camera": {
+          "longitude": 43.56667,
+          "latitude": 40.5,
+          "metersPerPixel": 220,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1064,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1064,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:ani-city-walls-on-the-plateau"
+    },
+    {
+      "id": "manzikert",
+      "textAnchor": "manzikert",
+      "labels": {
+        "de": "1071 · Ein Kaiser fällt in die Hand des Sultans",
+        "en": "1071 · The sultan takes an emperor captive"
+      },
+      "summary": {
+        "de": "Bei Mantzikert gerät Romanos IV. in die Gewalt Alp Arslans. Der Sultan lässt ihn frei. Der Punkt markiert die historisch belegte Stadt als Orientierung für das Geschehen in ihrer Umgebung.",
+        "en": "Romanos IV fell into Alp Arslan’s hands near Manzikert and was released. The location of the historic town serves as a reference point for the encounter in its vicinity."
+      },
+      "state": {
+        "camera": {
+          "longitude": 42.54504,
+          "latitude": 39.14692,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1071,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1071,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "nicaea",
+      "textAnchor": "nicaea",
+      "labels": {
+        "de": "1097 · Nikaia ergibt sich Kaiser Alexios",
+        "en": "1097 · Nicaea surrenders to Emperor Alexios"
+      },
+      "summary": {
+        "de": "Die griechische und die lateinische Erzählung über die Übergabe unterscheiden sich darin, wen sie in den Mittelpunkt rücken. Personen und Besitz sollten unter kaiserlichen Schutz kommen.",
+        "en": "Greek and Latin accounts of the surrender differ in whose interests they foreground. People and property were to come under imperial protection."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.72111,
+          "latitude": 40.42861,
+          "metersPerPixel": 245,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1097,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1097,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "edessa",
+      "textAnchor": "edessa",
+      "labels": {
+        "de": "1098 · Die Stadt geht an Balduin von Boulogne",
+        "en": "1098 · Baldwin of Boulogne gains Edessa"
+      },
+      "summary": {
+        "de": "Thoros will mit seiner Frau nach Melitene abziehen. Matthäus von Edessa berichtet vom Eid auf Kreuzreliquien, vom Brief an den Stadtherrn und davon, dass die Zusage gebrochen wurde.",
+        "en": "Thoros asked leave to depart for Melitene with his wife. Matthew describes the oath on relics, the letter to Thoros and the breach of that undertaking."
+      },
+      "state": {
+        "camera": {
+          "longitude": 38.79392,
+          "latitude": 37.16708,
+          "metersPerPixel": 245,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1098,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1098,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "konya",
+      "textAnchor": "konya",
+      "labels": {
+        "de": "1155, Radschab 550 der Hidschra · Masuds Sohn erscheint am Kanzelrahmen",
+        "en": "1155, Rajab AH 550 · Masud’s son is named on the pulpit frame"
+      },
+      "summary": {
+        "de": "Die Kanzel in Konya trägt die Namen Masuds I. und Kılıç Arslans II. Das Jahr des Herrscherwechsels ist auch das Jahr, in dem der Meister seine Arbeit datiert.",
+        "en": "The pulpit at Konya names Masud I and Kılıç Arslan II. The date on the master’s work falls within the year of the succession."
+      },
+      "state": {
+        "camera": {
+          "longitude": 32.49267,
+          "latitude": 37.87342,
+          "metersPerPixel": 160,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1155,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1155,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein armenischer Geistlicher klagt über die Gläubiger von Ani. Nikaia hört ein kaiserliches Versprechen, Edessa vertraut einem Eid. In Konya stehen die Namen zweier Sultane an derselben Kanzel.",
+      "en": "An Armenian cleric reproaches the creditors of Ani. Nicaea listens to an imperial promise and Edessa puts its trust in an oath. At Konya, two sultans share a pulpit doorway."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "anatolian-dynasties",
+        "labels": {
+          "de": "Anatolische Dynastien",
+          "en": "Anatolian dynasties"
+        }
+      },
+      {
+        "id": "byzantine-empire",
+        "labels": {
+          "de": "Byzantinisches Reich",
+          "en": "Byzantine Empire"
+        }
+      },
+      {
+        "id": "diplomacy",
+        "labels": {
+          "de": "Diplomatie",
+          "en": "Diplomacy"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      },
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 36.64389,
+      "latitude": 38.83354,
+      "metersPerPixel": 3752,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1064,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1064,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1155,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1155,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

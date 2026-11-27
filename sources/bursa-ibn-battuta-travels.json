@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-ibn-battuta-travels",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Abu Abdallah Ibn Battuta: Travels in Asia and Africa, 1325–1354",
+  "url": "https://sourcebooks.fordham.edu/source/batuta.asp",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Ibn Battuta, translated by H. A. R. Gibb"
+  ],
+  "accessedAt": "2026-11-27"
+}

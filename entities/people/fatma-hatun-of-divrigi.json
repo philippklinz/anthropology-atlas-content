@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:fatma-hatun-of-divrigi",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gulsoy-divrigi-mosque-farms",
+      "role": "supports",
+      "locator": "Printed pp. 243–244, section C, paragraph straddling the two pages, especially n. 67. The author distinguishes the original grant in Muharram 641 by Ahmed Shah and Fatma Hatun (named villages and rural holdings) from later additions in the 1519 register."
+    },
+    {
+      "sourceId": "source:bakirer-divrigi-inscriptions-and-foundation",
+      "role": "supports",
+      "locator": "Printed pp. 87–90, “Documents for Dating the Building”. Transcribes and locates signatures, describes the twelve-pointed star and rail on the east face of the minbar, gives AH 638 and compares opinions on the 22-line mosque charter and the loss of the hospital deed."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Fatma Hatun von Divriği",
+    "en": "Fatma Hatun of Divriği"
+  }
+}

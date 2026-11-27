@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-baghdad-geonames",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Baghdad, Iraq",
+  "url": "https://www.geonames.org/98182/baghdad.html",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "GeoNames"
+  ],
+  "accessedAt": "2026-11-27"
+}

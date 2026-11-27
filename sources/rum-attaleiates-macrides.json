@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-attaleiates-macrides",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The account of the battle of Manzikert by Michael Attaleiates",
+  "url": "https://www.cambridge.org/core/books/abs/turkish-myth-and-muslim-symbol/account-of-the-battle-of-manzikert-by-michael-attaleiates-translated-by-ruth-macrides/EA0813D0B0350098D7E4F22178BAD932",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Michael Attaleiates",
+    "Ruth Macrides (English translation)"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2007"
+}

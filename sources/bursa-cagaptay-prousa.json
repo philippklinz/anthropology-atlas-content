@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-cagaptay-prousa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Prousa to Bursa: The reinvention of an Ottoman capital",
+  "url": "https://books.casematepublishing.com/Remembering_and_Forgetting.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Suna Çağaptay"
+  ],
+  "accessedAt": "2026-11-27"
+}

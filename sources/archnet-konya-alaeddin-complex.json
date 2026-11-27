@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:archnet-konya-alaeddin-complex",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Alaeddin Külliyesi, Konya",
+  "url": "https://www.archnet.org/sites/3576",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Archnet, Aga Khan Documentation Center at MIT"
+  ],
+  "accessedAt": "2026-11-27"
+}

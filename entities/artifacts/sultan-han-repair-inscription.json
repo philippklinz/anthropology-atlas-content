@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:sultan-han-repair-inscription",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-sultan-han-repair",
+      "role": "supports",
+      "locator": "Catalogue headings Kitabe and Onarım Durumu on the location of the inscriptions, fire and the trustee Sirâcüddin Ahmed. Note 5 compares Konyalı’s AH 667 with Aslanapa’s and Dursun’s AH 677. Notes 2–3 identify the work on the builder’s medallion and repair inscription."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-aksaray",
+      "role": "supports",
+      "locator": "Vol. 37, pp. 503–504. Portals and dated AH 626 inscription, raised courtyard masjid, raised platforms, lighting, water channels and conduit from Bağluca. Gives the earlier reading AH 667 for the repair."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "supports",
+      "locator": "Section Sultanhan, entrance inscriptions and courtyard. Embedded site map centred at 38.248279° N, 33.546923° E for orientation at the han."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Reparaturinschrift am Sultan Han bei Aksaray",
+    "en": "Repair inscription of the Sultan Han near Aksaray"
+  }
+}

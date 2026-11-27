@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-effenberger-city-views",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Constantinople/İstanbul: The Early Pictorial Sources",
+  "url": "https://books.ub.uni-heidelberg.de/propylaeum/catalog/view/911/1531/96873",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Arne Effenberger"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:nefise-daughter-of-isa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-kavakli-house-register",
+      "role": "supports",
+      "locator": "Cihannüma 12/1, p. 15, section on women acting as agents and n. 37: BOA, MŞH. ŞSC. d., Bursa 2458, A/3, fol. 345a, Jumada II 885 / August 1480. The property, neighbourhood, names, guardianship of two orphans and the form of sale."
+    },
+    {
+      "sourceId": "source:bursa-gunalan-court-registers",
+      "role": "supports",
+      "locator": "VIII. Uluslararası Ahilik Sempozyumu, vol. II, pp. 172–173, nn. 22–23 (BŞS 4A, fol. 310, and 3A, fol. 174b): Fatma Hatun’s lease of the Doğangözü Han and Paşa Hatun’s dye-shop lease. P. 176, n. 42 (3A, fol. 345a): Nefise, Gülşah, Gülbahar and the names of the two wards."
+    },
+    {
+      "sourceId": "source:bursa-bayindir-redeemable-sale",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 6 (1992), pp. 20–22, especially p. 21, passage on bey‘ bi’l-istiğlâl: use, lease to the previous owner and redemption on repayment."
+    },
+    {
+      "sourceId": "source:bursa-kavakli-mosque-location",
+      "role": "supports",
+      "locator": "The history identifies the mosque as the district’s namesake; Hakkında and the map link give 40.18421 N, 29.0572042 E. Orientation in the quarter only, not the location of the house or court."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Nefise, Tochter des İsa",
+    "en": "Nefise, daughter of İsa"
+  }
+}

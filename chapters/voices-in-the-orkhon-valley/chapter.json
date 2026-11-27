@@ -1,0 +1,465 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:voices-in-the-orkhon-valley",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-tekin-grammar",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–11, and editions, pp. 261–289. Tonyukuk I W 1–7, I S 1–5 and II E 4–8 for the counsellor’s narrative. KT S 1–13, E 1–5, N 9–13 and NE, SE for the court address, dates, mourners and work. BK E 2–24, S 10–15, N 9–10 and SW for shared text, funerary gifts, marriages and the second colophon."
+    },
+    {
+      "sourceId": "source:orkhon-ross-inscriptions",
+      "role": "supports",
+      "locator": "Monument I, S 1–13, N 9–13, NE and SE, pp. 862–865, 870–871. The NE inscription separates the funeral from completion in the following animal year. The SE colophon records twenty days. Note 2, pp. 872–873, gives the reciprocal Türgesh marriages on monument II."
+    },
+    {
+      "sourceId": "source:orkhon-sinor-klyashtorny",
+      "role": "supports",
+      "locator": "Chapter 14, pp. 335–336, “Resurgence of the Türk Empire”, and pp. 336–339, “Political and social structure” and “Relations with China”. Defeat in 630, Tang service, Ilterish and Tonyukuk in the 680s, and relocation of the political centre to Ötüken."
+    },
+    {
+      "sourceId": "source:orkhon-tonyukuk-dating",
+      "role": "supports",
+      "locator": "Söylem 9.1, p. 385, paragraph on the Tonyukuk inscriptions. Lists proposed years 715 (Giraud), 716 (Clauson), 720–725 (Tekin), 726 (Bazin) and 732–734 (Sertkaya and Aydın). The date window represents alternative proposals."
+    },
+    {
+      "sourceId": "source:orkhon-mert-bain-tsokto",
+      "role": "supports",
+      "locator": "IX. Uluslararası Türk Dili Kurultayı, vol. 2, pp. 1393–1395, especially the first paragraph of the site description, p. 1394. Locates the complex 46.5 km southeast of Ulaanbaatar at 47°41′40.42″ N, 107°28′33.09″ E."
+    },
+    {
+      "sourceId": "source:orkhon-coordinate",
+      "role": "supports",
+      "locator": "Orkhon Valley Cultural Landscape Management Plan, §3.1.5, pp. 25–26, site coordinate table, row 1, “Turkish Memorials of Khöshöö Tsaidam”. The Kul tegin and Bilge Khan rows give 47°33′24.91″ N with 102°49′53.85″ E and 102°50′11.58″ E. The printed latitude and longitude column headings are transposed. A rounded midpoint orients the reader to the paired complexes."
+    },
+    {
+      "sourceId": "source:orkhon-smahelova-entrance",
+      "role": "supports",
+      "locator": "Dissertation, §2.5.2.1, “The entrance part (Trench 2, 8, 9)”, pp. 35–37, figs. 5–6. Plan of the eastern approach, photographs of the ram statues and fragments of roof tile and red plaster."
+    },
+    {
+      "sourceId": "source:orkhon-parker-imperial-inscription",
+      "role": "supports",
+      "locator": "Appendix, printed pp. 212–216, particularly p. 214, paragraphs on the relationship with the Tang and on the qağan as an adopted son. The emperor extends that kinship language to Kül Tegin, the younger brother."
+    },
+    {
+      "sourceId": "source:orkhon-thomsen-alphabet",
+      "role": "supports",
+      "locator": "Opening paragraphs, pp. 9–10. Thomsen describes his 1893 notice, distinguishing vowels from consonants and the three starting points tängri, Kül Tigin and türk. Bibliography in Tekin, p. 412, records the 1890 Finnish expedition and its 1892 facsimile publication."
+    },
+    {
+      "sourceId": "source:orkhon-thomsen-biography",
+      "role": "supports",
+      "locator": "Biographical section, paragraphs beginning “Vilhelm Thomsens ry” and “Redegørelsen”. December 1893 presentation to the Royal Danish Academy, and the later annotated edition."
+    },
+    {
+      "sourceId": "source:orkhon-turanskaya-estampages",
+      "role": "supports",
+      "locator": "Abstract and catalogue in Vostok (Oriens), DOI 10.31857/S086919080020112-0. Klementz in 1897, Radloff’s 1899 edition with seventeen photographs of impressions, and the usefulness of preserved copies for disputed readings."
+    },
+    {
+      "sourceId": "source:orkhon-copenhagen-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 2618425, København, capital of Denmark. City reference point 55.67594° N, 12.56553° E, for the presentation to the Danish Academy."
+    },
+    {
+      "sourceId": "source:orkhon-kul-tegin-photograph",
+      "role": "supports",
+      "locator": "Summary, author and licensing, original photograph of 15 July 2015, portrait display 3,648 × 5,472 pixels. CC BY-SA 4.0. The stone and its fracture are visible in the museum display."
+    }
+  ],
+  "labels": {
+    "de": "Wer auf den Gedenksteinen der Türk spricht",
+    "en": "The voices on the Türk memorial stones"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:orkhon-memorials-tonyukuk",
+    "event:orkhon-memorials-mourning",
+    "event:orkhon-memorials-kul-tegin",
+    "event:orkhon-memorials-bilge",
+    "event:orkhon-memorials-reading",
+    "asset:kul-tegin-stele-in-the-museum"
+  ],
+  "recordIds": [
+    "artifact:bilge-qagan-stele",
+    "artifact:kul-tegin-stele",
+    "artifact:tonyukuk-pillars",
+    "assertion:old-turkic-at-khoshoo-tsaidam",
+    "assertion:old-turkic-runiform-at-kul-tegin",
+    "asset:kul-tegin-stele-in-the-museum",
+    "event:orkhon-memorials-bilge",
+    "event:orkhon-memorials-kul-tegin",
+    "event:orkhon-memorials-mourning",
+    "event:orkhon-memorials-reading",
+    "event:orkhon-memorials-tonyukuk",
+    "geometry:bain-tsokto-tonyukuk-orientation",
+    "geometry:copenhagen-orientation",
+    "geometry:khoshoo-tsaidam-memorials-orientation",
+    "language:old-turkic",
+    "person:bilge-qagan",
+    "person:kul-tegin",
+    "person:tonyukuk",
+    "person:vilhelm-thomsen",
+    "person:yollug-tegin",
+    "place:bain-tsokto-tonyukuk",
+    "place:copenhagen",
+    "place:khoshoo-tsaidam-memorials",
+    "script:old-turkic-runiform",
+    "source:orkhon-coordinate",
+    "source:orkhon-copenhagen-coordinates",
+    "source:orkhon-kul-tegin-photograph",
+    "source:orkhon-mert-bain-tsokto",
+    "source:orkhon-parker-imperial-inscription",
+    "source:orkhon-ross-inscriptions",
+    "source:orkhon-sinor-klyashtorny",
+    "source:orkhon-smahelova-entrance",
+    "source:orkhon-tekin-grammar",
+    "source:orkhon-thomsen-alphabet",
+    "source:orkhon-thomsen-biography",
+    "source:orkhon-tonyukuk-dating",
+    "source:orkhon-turanskaya-estampages"
+  ],
+  "steps": [
+    {
+      "id": "tonyukuk",
+      "textAnchor": "tonyukuk",
+      "labels": {
+        "de": "715–734, Datierung umstritten · Tonyukuk lässt seinen Rückblick festhalten",
+        "en": "715–734, dating disputed · Tonyukuk commissions his account"
+      },
+      "summary": {
+        "de": "Auf zwei Pfeilern setzt der alte Ratgeber seinen Anteil an der Reichsgründung neben den des Herrschers. Die Datierung reicht je nach Vorschlag von 715 bis 734.",
+        "en": "The ageing counsellor sets his part in establishing the realm beside the ruler’s on two pillars. Proposed dates range from 715 to 734."
+      },
+      "state": {
+        "camera": {
+          "longitude": 107.47586,
+          "latitude": 47.69456,
+          "metersPerPixel": 120,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 715,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 734,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "mourning",
+      "textAnchor": "mourning",
+      "labels": {
+        "de": "731 · Bilges Hof erinnert sich an die Trauergäste",
+        "en": "731 · Bilge’s court remembers the mourners"
+      },
+      "summary": {
+        "de": "Die spätere Inschrift nennt den neunten Monat des Schafjahres und zählt die Gesandtschaften auf. Der Kartenpunkt bezeichnet die Gedenkanlagen, an denen der Bericht erhalten blieb.",
+        "en": "The later inscription names the ninth month of the Sheep Year and lists the delegations. The marker locates the memorials where this account was preserved."
+      },
+      "state": {
+        "camera": {
+          "longitude": 102.834,
+          "latitude": 47.557,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 731,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 731,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "kul-tegin",
+      "textAnchor": "kul-tegin",
+      "labels": {
+        "de": "732 · Die Stele für Kül Tegin wird fertig",
+        "en": "732 · Kül Tegin’s stele is completed"
+      },
+      "summary": {
+        "de": "Neben Bilges alttürkischer Ansprache steht die chinesische Würdigung des Tang-Kaisers. Yollug Tegin vermerkt zwanzig Tage Arbeit an Stein und Wand.",
+        "en": "Bilge’s address in Old Turkic shares the stone with the Tang emperor’s Chinese tribute. Yollug Tegin records twenty days of work on stone and wall."
+      },
+      "state": {
+        "camera": {
+          "longitude": 102.834,
+          "latitude": 47.557,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 732,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 732,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:kul-tegin-stele-in-the-museum"
+    },
+    {
+      "id": "bilge",
+      "textAnchor": "bilge",
+      "labels": {
+        "de": "735 · Ein Sohn gedenkt Bilge Qağans",
+        "en": "735 · A son commemorates Bilge Qağan"
+      },
+      "summary": {
+        "de": "Die Stele für den 734 verstorbenen Herrscher wiederholt Teile des älteren Denkmals. Sein Sohn berichtet von der Totenfeier im folgenden Schweinejahr.",
+        "en": "The stele for the ruler who died in 734 repeats passages from the earlier monument. His son records the funeral in the following Year of the Pig."
+      },
+      "state": {
+        "camera": {
+          "longitude": 102.834,
+          "latitude": 47.557,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 735,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 735,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "reading",
+      "textAnchor": "reading",
+      "labels": {
+        "de": "1893 · Thomsen erläutert die Entzifferung",
+        "en": "1893 · Thomsen presents his decipherment"
+      },
+      "summary": {
+        "de": "In Kopenhagen stellt der Sprachwissenschaftler im Dezember 1893 die Entzifferung der alttürkischen Schrift vor. Zu den Wörtern, an denen er die Zeichen prüfte, gehörte der Name Kül Tegin.",
+        "en": "In Copenhagen in December 1893 the linguist presented his decipherment of the Old Turkic script. The words against which he tested the signs included Kül Tegin’s name."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.56553,
+          "latitude": 55.67594,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1893,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1893,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Ratgeber zählt die ersten Gefolgsleute, ein Bruder die Trauergäste. An den Gedenksteinen der Türk lässt sich sogar lesen, wie viele Tage der Schreiber für seine Arbeit brauchte.",
+      "en": "A counsellor counts the earliest followers and a brother names the mourners. On the memorial stones of the Türk, even the scribe tells us how long his work took."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "courts-and-envoys",
+        "labels": {
+          "de": "Höfe und Gesandte",
+          "en": "Courts and envoys"
+        }
+      },
+      {
+        "id": "material-evidence",
+        "labels": {
+          "de": "Materielle Zeugnisse",
+          "en": "Material evidence"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      },
+      {
+        "id": "nineteenth-century",
+        "labels": {
+          "de": "19. Jahrhundert",
+          "en": "19th century"
+        },
+        "description": {
+          "de": "1801–1900. Ein kalendarischer Zeitbereich; regionale Epochen können ihn unterschiedlich gliedern.",
+          "en": "1801–1900. A calendar grouping; regional periods may divide it differently."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "inner-asia",
+        "labels": {
+          "de": "Innerasien",
+          "en": "Inner Asia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 60.02069,
+      "latitude": 51.61647,
+      "metersPerPixel": 20500,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 715,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 715,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1893,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1893,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

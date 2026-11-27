@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-edessa-coordinates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Şanlıurfa, Türkiye",
+  "url": "https://www.geonames.org/298333/sanliurfa.html",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "GeoNames"
+  ],
+  "accessedAt": "2026-11-27"
+}

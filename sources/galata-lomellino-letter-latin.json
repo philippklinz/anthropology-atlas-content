@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-lomellino-letter-latin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Letter from Angelo Giovanni Lomellino at Pera, 23 June 1453",
+  "url": "https://www.storiapatriagenova.it/Docs/Biblioteca_Digitale/SB/619ed2f0c43179836ebfd1c242eb3493/Estratti/8beb6061d6dca536a2940bef560b211a.pdf#page=133",
+  "sourceType": "archive",
+  "language": "la",
+  "creators": [
+    "Angelo Giovanni Lomellino",
+    "Luigi Tommaso Belgrano (ed.)"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1877"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:manzikert-by-lake-van-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.545,
+      39.1469
+    ]
+  }
+}

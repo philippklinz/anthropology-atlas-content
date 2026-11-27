@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ottoman-galata-lomellino-letter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:galata-lomellino-letter",
+      "role": "supports",
+      "locator": "Letter of Angelo Giovanni Lomellino from Pera to his brother, 23 June 1453, pp. 131–135. His nephew Imperiali and the defence of Constantinople, escape by sea, envoys at the sultan’s camp, advice to the doge and the refusal of ransom."
+    },
+    {
+      "sourceId": "source:galata-inalcik-pledge",
+      "role": "supports",
+      "locator": "Opening section, translation from the Paris Ottoman Turkish text, envoys with the keys, property and enslaved people, annual tax, bells, new churches and customs. Discussion of Lomellino’s letter and flight by sea at notes 26–30. Reprinted in Essays in Ottoman History, pp. 275–376."
+    },
+    {
+      "sourceId": "source:galata-mercan-genoese",
+      "role": "supports",
+      "locator": "Tarih İncelemeleri Dergisi 36/2, pp. 601–604, especially notes 59–65. Compares Lomellino, Doukas and Barbaro, describes taxation and names Greek, Italian and Ottoman witnesses to the grant."
+    },
+    {
+      "sourceId": "source:galata-lomellino-letter-latin",
+      "role": "supports",
+      "locator": "Prima serie di documenti riguardanti la colonia di Pera, Atti della Società Ligure di Storia Patria XIII, doc. CXLIX, pp. 229–233. The dateline names Pera, 23 June 1453. Ships depart on p. 230, the nephew appears on p. 232."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Lomellino schreibt an seinen Bruder",
+    "en": "Lomellino writes to his brother"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1453,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1453,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:angelo-giovanni-lomellino",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:galata-on-the-golden-horn"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:galata-on-the-golden-horn-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der frühere Podestà berichtet aus Pera über die überstürzte Abfahrt der Schiffe und seinen gefangenen Neffen Imperiali. Den genauen Schreibort nennt er nicht.",
+      "en": "The former podestà writes from Pera about the ships’ hurried departure and his captive nephew Imperiali. He gives the town but no address."
+    }
+  }
+}

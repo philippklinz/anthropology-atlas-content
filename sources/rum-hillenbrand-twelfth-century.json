@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-hillenbrand-twelfth-century",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The twelfth-century accounts of the battle of Manzikert",
+  "url": "https://www.cambridge.org/core/books/abs/turkish-myth-and-muslim-symbol/twelfthcentury-accounts-of-the-battle-of-manzikert/CAEB932B2951191A359F2958E5A46C5B",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Carole Hillenbrand"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2007"
+}

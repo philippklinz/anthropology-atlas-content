@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-aristakes-cities",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "History, chapters 24 and 25",
+  "url": "https://www.attalus.org/armenian/a10.htm",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Aristakes of Lastivert",
+    "Robert Bedrosian (translation from Classical Armenian)"
+  ],
+  "accessedAt": "2026-11-27"
+}

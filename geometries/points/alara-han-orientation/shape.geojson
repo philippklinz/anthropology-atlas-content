@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:alara-han-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.7242,
+      36.6925
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mahmud-lexicon-balasagun",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-tibbetts-map",
+      "role": "supports",
+      "locator": "The History of Cartography, vol. 2, book 1, ch. 6, pp. 153, 155. Text, note 68 and fig. 6.17 on orientation, changing scale, colour scheme and unique surviving copy."
+    },
+    {
+      "sourceId": "source:mahmud-ehrensvard-map",
+      "role": "supports",
+      "locator": "Meddelanden 17, Swedish Research Institute in Istanbul, pp. 65–67. Annotated diagram and key on p. 67, especially no. 13 Kashgar, no. 21 Egypt and no. 23 the Maghreb and al-Andalus."
+    },
+    {
+      "sourceId": "source:mahmud-kacalin-diwan",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 9, pp. 446–449. Opening paragraphs on dates and readership. Sections 1–8, followed by paragraph on past-tense verb headwords. Map paragraph and omissions (Çigil, Suvar). Final paragraph, extent of 319 leaves."
+    },
+    {
+      "sourceId": "source:mahmud-burana-unesco",
+      "role": "supports",
+      "locator": "Component 1442-009, City of Balasagun (Site of Burana), N 42°44′48″, E 75°15′01″. Modern archaeological location for the city portrayed in the Dīwān."
+    },
+    {
+      "sourceId": "source:mahmud-map-manuscript",
+      "role": "supports",
+      "locator": "Summary, licensing, and 31 January 2024 current revision, 15:50 UTC, 3226 × 2780 px. Public Domain Mark for the photographic reproduction. Compare Tibbetts, fig. 6.17 for the identification and orientation."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Stadt in der Mitte der Weltkarte",
+    "en": "A city near the centre of the world map"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1072,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1077,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:mahmuds-diwan-work",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:balasagun-at-burana"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:balasagun-at-burana-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Weltkarte rückt Balasagun und seine Umgebung in die Mitte. Der Punkt bezeichnet die dargestellte Stadt. Das erhaltene Kartenbild steht in der Abschrift von 1266.",
+      "en": "The world map gives Balasagun and its surroundings a central place. The marker locates the city portrayed. The surviving drawing belongs to the 1266 copy."
+    }
+  }
+}

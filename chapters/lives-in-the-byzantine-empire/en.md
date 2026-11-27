@@ -26,4 +26,6 @@ In 1204 a western crusading army captured Constantinople. Decades of Latin rule 
 
 In 1453 the Ottomans took the city. Sultan Mehmed II had Hagia Sophia converted into a mosque. The people who had celebrated the Christian liturgy here lost their cathedral. The dome, marble panels and columns remained on the same spot. The [Ottoman account of this moment](chapter:turkic-dynasties-in-anatolia#hagia-sophia-1453) looks at what people using the building for prayer now needed in that space.
 
+Across the Golden Horn, Galata’s residents negotiated their position in [a charter issued in Greek by Mehmed](chapter:constantinople-and-galata-after-1453#galata-charter).
+
 [More paths through historical sources](chapter:reading-history-through-objects)

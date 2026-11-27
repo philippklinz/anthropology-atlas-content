@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-turanskaya-estampages",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Early Estampages of the Tonyukuk Inscription Identified in the Collection of Central Asia and Siberia of the IOM, RAS",
+  "url": "https://vostokoriens.ru/articles/the-early-estampages-of-the-tonyukuk-inscription-identified-in-the/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Anna Turanskaya"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2022"
+}

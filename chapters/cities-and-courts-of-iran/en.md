@@ -20,6 +20,8 @@ In the Friday Mosque of Isfahan it is worth looking north and south before turni
 
 Both patrons employed builders who could span a broad space in fired brick. Massive, clustered supports carry the southern dome. Under the northern dome the brickwork breaks up into smaller arches and geometric fields. We can readily see how the southern chamber related to prayer. What the northern chamber was used for remains open to debate. It is easier to identify the two patrons than to describe what the people who frequented this place did there. Another Seljuk court enters the story in [a school at Konya](chapter:turkic-dynasties-in-anatolia#konya).
 
+Further west and later in time, a different set of patrons and craftspeople worked on [the domed court of Konya’s Karatay madrasa](chapter:divrigi-and-the-workshops-of-konya#konya).
+
 ## Why a bookbinder needed goatskin {#tabriz}
 
 At Tabriz the vizier Rashid al-Din endowed a complex under the Mongol Ilkhans that housed a library, papermaking and teaching. His endowment deed of 1309 provided for the regular copying of a Qur’an in thirty parts and of a work on traditions of the Prophet. An addition in 1313 brought his own writings into the arrangement. Each was to be produced in an Arabic and a Persian version. They included his history of the world.

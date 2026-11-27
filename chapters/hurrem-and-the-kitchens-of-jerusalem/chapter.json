@@ -1,0 +1,433 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:hurrem-and-the-kitchens-of-jerusalem",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jerusalem-tunshuq-archnet",
+      "role": "supports",
+      "locator": "Site 3733, opening paragraphs on Mujir al-Din, the burial in 1398 and the reuse of the palace in 1552. Description of the ground floor, cemetery across the street and subsequent additions."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-singer",
+      "role": "supports",
+      "locator": "Introduction pp. 1–3, translation of the foundation conditions and map I.1 of the kitchen on the lane above al-Wad. Chapter 2, pp. 39–70, especially pp. 46–65 on revenues, employees and provisioning."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-service",
+      "role": "supports",
+      "locator": "Journal of Interdisciplinary History 35.3, pp. 485–487 with note 8. The Jerusalem menu, the night before Friday, portions and the order in which the staff, residents and poor ate. DOI 10.1162/0022195052564252. Author’s accessible copy."
+    },
+    {
+      "sourceId": "source:jerusalem-charter-tiem-2192",
+      "role": "supports",
+      "locator": "Inventory 2192. Description, provenance and colophon, AH 964. Fol. 1a for the tuğra, 9b–10a for the Jerusalem buildings, 12a–14b for expenditure, 49a for the founder’s seal and witnesses."
+    },
+    {
+      "sourceId": "source:jindas-rural-hinterland",
+      "role": "supports",
+      "locator": "Lod, Lydda, Diospolis 1, p. 4 (site, Israel Grid 19125/65282), pp. 8–10 with figs. 3–4 and table 1 (1552 shares and 1596/97 survey), pp. 11–12 (December 1606, Jerusalem sijill 84:27)."
+    },
+    {
+      "sourceId": "source:haseki-palestine-toponymy",
+      "role": "supports",
+      "locator": "Zeitschrift des Deutschen Palästina-Vereins 139.2, pp. 258–289. Author manuscript §§1–2, 195 names in the endowment deed, entries for al-Ludd and Bayt Iksā and its field."
+    },
+    {
+      "sourceId": "source:haseki-charter-manuscript-image",
+      "role": "supports",
+      "locator": "Opening pages of inventory 2192. File description, 1244 × 1024 and public-domain reproduction statement."
+    },
+    {
+      "sourceId": "source:haseki-kitchen-palobserver",
+      "role": "supports",
+      "locator": "HassekiSultanImaret3.JPG, own photograph, 6 April 2011. File details and CC0 dedication. The photograph documents the interior in 2011."
+    }
+  ],
+  "labels": {
+    "de": "Hürrem Sultans Küche in Jerusalem",
+    "en": "Hürrem Sultan’s kitchen in Jerusalem"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:hurrem-endowment-tunshuq",
+    "event:hurrem-endowment-jindas",
+    "event:hurrem-endowment-charter",
+    "event:hurrem-endowment-portions",
+    "event:hurrem-endowment-cotton",
+    "asset:haseki-jerusalem-waqfiyya-opening",
+    "asset:haseki-jerusalem-kitchen-interior"
+  ],
+  "recordIds": [
+    "artifact:hurrem-jerusalem-waqfiyya-2192",
+    "assertion:arabic-in-hurrems-istanbul-waqfiyya",
+    "asset:haseki-jerusalem-kitchen-interior",
+    "asset:haseki-jerusalem-waqfiyya-opening",
+    "community:jindas-cotton-growers",
+    "event:hurrem-endowment-charter",
+    "event:hurrem-endowment-cotton",
+    "event:hurrem-endowment-jindas",
+    "event:hurrem-endowment-portions",
+    "event:hurrem-endowment-tunshuq",
+    "geometry:constantinople-orientation",
+    "geometry:haseki-imaret-jerusalem-orientation",
+    "geometry:jindas-near-lydda-orientation",
+    "geometry:tunshuq-palace-and-tomb-orientation",
+    "language:arabic",
+    "organization:haseki-jerusalem-waqf",
+    "person:hurrem-sultan",
+    "person:sitt-tunshuq",
+    "place:constantinople",
+    "place:haseki-imaret-jerusalem",
+    "place:jindas-near-lydda",
+    "place:tunshuq-palace-and-tomb",
+    "source:gassman-wolfe-gothic-philippians",
+    "source:haseki-charter-manuscript-image",
+    "source:haseki-kitchen-palobserver",
+    "source:haseki-palestine-toponymy",
+    "source:jerusalem-charter-tiem-2192",
+    "source:jerusalem-kitchen-service",
+    "source:jerusalem-kitchen-singer",
+    "source:jerusalem-tunshuq-archnet",
+    "source:jindas-rural-hinterland",
+    "source:pleiades-ancient-places"
+  ],
+  "steps": [
+    {
+      "id": "tunshuq",
+      "textAnchor": "tunshuq",
+      "labels": {
+        "de": "1398 · Das Grab gegenüber dem Palast",
+        "en": "1398 · A tomb across the street"
+      },
+      "summary": {
+        "de": "1398 wurde Sitt Tunshuq ihrem Jerusalemer Palast gegenüber bestattet. Im 16. Jahrhundert nahm Hürrems Stiftung die ältere Residenz in ihren Komplex auf.",
+        "en": "Sitt Tunshuq was buried opposite her Jerusalem palace in 1398. Hürrem’s foundation later incorporated the older residence into its complex."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.2321,
+          "latitude": 31.7788,
+          "metersPerPixel": 125,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1398,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1398,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "jindas",
+      "textAnchor": "jindas",
+      "labels": {
+        "de": "1552 · Anteile am Ertrag eines Dorfes",
+        "en": "1552 · Shares in a village’s income"
+      },
+      "summary": {
+        "de": "Die Urkunde von 1552 nennt Dörfer, Fluren und Anteile der Stiftung bei Lydda. In Jindās bestanden die Ansprüche mehrerer Stiftungen nebeneinander.",
+        "en": "The 1552 deed lists villages, tracts of farmland and shares in the district of Lydda. Several endowments had claims on income from Jindās."
+      },
+      "state": {
+        "camera": {
+          "longitude": 34.906,
+          "latitude": 31.9681,
+          "metersPerPixel": 125,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1552,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1552,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "charter",
+      "textAnchor": "charter",
+      "labels": {
+        "de": "1556–1557 · Goldlinien, Siegel und Löhne",
+        "en": "1556–1557 · Gold ruling, seals and wages"
+      },
+      "summary": {
+        "de": "Hürrems Stiftungsbuch aus Istanbul nennt die Gebäude und die Ausgaben für Löhne und Reinigung. Der Kolophon datiert die Handschrift auf 964 AH.",
+        "en": "Hürrem’s foundation charter from Istanbul names the buildings and specifies spending on wages and cleaning. Its colophon dates it to AH 964."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.975,
+          "latitude": 41.009,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1556,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1557,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:haseki-jerusalem-waqfiyya-opening"
+    },
+    {
+      "id": "portions",
+      "textAnchor": "portions",
+      "labels": {
+        "de": "1557 · Eine Schale für zwei",
+        "en": "1557 · One bowl between two"
+      },
+      "summary": {
+        "de": "Die Stiftungsbestimmungen von 1557 sehen für zwei Arme zusammen eine Kelle Suppe vor. Personal und Herbergsgäste erhielten andere Portionen.",
+        "en": "The foundation terms of 1557 allowed two poor people one ladle of soup between them. Employees and hostel guests had different portions."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.2322,
+          "latitude": 31.7788,
+          "metersPerPixel": 125,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1557,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1557,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:haseki-jerusalem-kitchen-interior"
+    },
+    {
+      "id": "cotton",
+      "textAnchor": "cotton",
+      "labels": {
+        "de": "1606 · Vier Bauern beziffern die Baumwollernte",
+        "en": "1606 · Four farmers put a figure on the cotton harvest"
+      },
+      "summary": {
+        "de": "Im Dezember 1606 kamen die Ernterechte in Jindās vor ein Jerusalemer Gericht. Vier Bauern korrigierten die Angaben zum Ertrag. Die Karte zeigt das Dorf.",
+        "en": "In December 1606 a Jerusalem court heard a dispute over cotton at Jindās. Four growers corrected the reported yield. The map marks their village."
+      },
+      "state": {
+        "camera": {
+          "longitude": 34.906,
+          "latitude": 31.9681,
+          "metersPerPixel": 125,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1606,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1606,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine Stiftungsurkunde, ein Speiseplan und vier Baumwollbauern erklären, wie aus Einnahmen palästinensischer Dörfer Brot und Suppe für Jerusalem wurden.",
+      "en": "An endowment charter, a menu and four cotton growers show how income from Palestinian villages helped provide bread and soup in Jerusalem."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "religious-patronage",
+        "labels": {
+          "de": "Religiöse Stiftungen",
+          "en": "Religious patronage"
+        }
+      },
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "farming-and-herding",
+        "labels": {
+          "de": "Ackerbau und Tierhaltung",
+          "en": "Cultivation and herding"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "early-modern",
+        "labels": {
+          "de": "Frühe Neuzeit",
+          "en": "Early modern period"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      },
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 32.1036,
+      "latitude": 36.3939,
+      "metersPerPixel": 5329,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1398,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1398,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1606,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1606,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:baghdad-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.4009,
+      33.3406
+    ]
+  }
+}

@@ -1,0 +1,847 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:reading-turkic-and-ottoman-worlds",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-tekin-grammar",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–11, and editions, pp. 261–289. Tonyukuk I W 1–7, I S 1–5 and II E 4–8 for the counsellor’s narrative. KT S 1–13, E 1–5, N 9–13 and NE, SE for the court address, dates, mourners and work. BK E 2–24, S 10–15, N 9–10 and SW for shared text, funerary gifts, marriages and the second colophon."
+    },
+    {
+      "sourceId": "source:orkhon-ross-inscriptions",
+      "role": "supports",
+      "locator": "Monument I, S 1–13, N 9–13, NE and SE, pp. 862–865, 870–871. The NE inscription separates the funeral from completion in the following animal year. The SE colophon records twenty days. Note 2, pp. 872–873, gives the reciprocal Türgesh marriages on monument II."
+    },
+    {
+      "sourceId": "source:orkhon-smahelova-entrance",
+      "role": "supports",
+      "locator": "Dissertation, §2.5.2.1, “The entrance part (Trench 2, 8, 9)”, pp. 35–37, figs. 5–6. Plan of the eastern approach, photographs of the ram statues and fragments of roof tile and red plaster."
+    },
+    {
+      "sourceId": "source:orkhon-parker-imperial-inscription",
+      "role": "supports",
+      "locator": "Appendix, printed pp. 212–216, particularly p. 214, paragraphs on the relationship with the Tang and on the qağan as an adopted son. The emperor extends that kinship language to Kül Tegin, the younger brother."
+    },
+    {
+      "sourceId": "source:orkhon-coordinate",
+      "role": "supports",
+      "locator": "Orkhon Valley Cultural Landscape Management Plan, §3.1.5, pp. 25–26, site coordinate table, row 1, “Turkish Memorials of Khöshöö Tsaidam”. The Kul tegin and Bilge Khan rows give 47°33′24.91″ N with 102°49′53.85″ E and 102°50′11.58″ E. The printed latitude and longitude column headings are transposed. A rounded midpoint orients the reader to the paired complexes."
+    },
+    {
+      "sourceId": "source:orkhon-kul-tegin-photograph",
+      "role": "supports",
+      "locator": "Summary, author and licensing, original photograph of 15 July 2015, portrait display 3,648 × 5,472 pixels. CC BY-SA 4.0. The stone and its fracture are visible in the museum display."
+    },
+    {
+      "sourceId": "source:rum-attaleiates-macrides",
+      "role": "supports",
+      "locator": "Appendix A in Carole Hillenbrand, Turkish Myth and Muslim Symbol. Historia, ed. Pérez Martín, 113.5–123.16. Opening passage on the wagons, the army’s provisions and the townspeople’s request to keep their property in return for surrender."
+    },
+    {
+      "sourceId": "source:rum-aristakes-cities",
+      "role": "supports",
+      "locator": "Chapter 24, Armenian-era year 513, especially printed pp. 163–165 (Armenian pp. 134–136): two places of refuge, provisions, burial and usury. Chapter 25, pp. 167–171 (Armenian pp. 137–140): the names used for the two rulers, the captive’s release and his blinding."
+    },
+    {
+      "sourceId": "source:rum-hillenbrand-twelfth-century",
+      "role": "supports",
+      "locator": "Turkish Myth and Muslim Symbol, ch. 2, pp. 26–31, Arabic mirror for princes Sirāj al-mulūk by al-Turtushi, translation and commentary. Reversal of the captive and captor in a question in the literary dialogue. The account belongs to the early twelfth century."
+    },
+    {
+      "sourceId": "source:rum-malazgirt-survey",
+      "role": "supports",
+      "locator": "“Malazgirt / Manazkert Citadel”, pp. 44–45, Location and Accessibility. The survey places the historic town’s citadel at 39.14692° N, 42.54504° E. This identifies the locality, whose walls also figure in Attaleiates, without assigning a location to the emperor’s capture."
+    },
+    {
+      "sourceId": "source:manzikert-attaleiates-camp-reports",
+      "role": "supports",
+      "locator": "Byzantinische Zeitschrift 105.2, pp. 834–835, n. 34. Conflicting reports arriving at the imperial camp, Attaleiates 125.15–126.10. DOI 10.1515/bz.2012.0033."
+    },
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-kacalin-diwan",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 9, pp. 446–449. Opening paragraphs on dates and readership. Sections 1–8, followed by paragraph on past-tense verb headwords. Map paragraph and omissions (Çigil, Suvar). Final paragraph, extent of 319 leaves."
+    },
+    {
+      "sourceId": "source:mahmud-institution-diwan",
+      "role": "supports",
+      "locator": "Second edition. Imprint and pp. 19–21 for Millet Yazma Eser Kütüphanesi, Ali Emîrî Arabî 4189, court and dating. Eyewitness accounts pp. 21–32, especially Kilisli Rifat on broken binding, ordering and numbering the leaves pp. 30–31. Bibliography, entry for Kilisli’s first three-volume edition, Istanbul, 1333–1335 AH."
+    },
+    {
+      "sourceId": "source:mahmud-horn-lexik",
+      "role": "supports",
+      "locator": "Dissertation, pp. 93–101. Dates and revisions, Cairo ownership note (CU 1), discussion on shared Kipchak and Turkmen forms in fifteen lines, attribution by handwriting, red rubrics and overwriting, vowel marks, colophon (CU 638, line 13) and alternatives Damascus or Cairo."
+    },
+    {
+      "sourceId": "source:mahmud-baghdad-geonames",
+      "role": "supports",
+      "locator": "City record 98182, 33.34058 N, 44.40088 E. Approximate location of the city addressed, not a specified palace."
+    },
+    {
+      "sourceId": "source:orkhon-ross-inscriptions",
+      "role": "supports",
+      "locator": "Kül Tegin monument, South 1–13 and the southeast colophon, pp. 862–865, 871. Bilge Qaghan addresses his listeners, and Yollug Tegin names his work at the memorial."
+    },
+    {
+      "sourceId": "source:qantara-divrigi-inscriptions",
+      "role": "supports",
+      "locator": "Inscriptions, individual entries for the north and west mosque portals, mihrab dome, west hospital portal, mosque minbar balustrade and central star. Includes Arabic terms and English renderings."
+    },
+    {
+      "sourceId": "source:mwnf-divrigi-mosque-hospital",
+      "role": "supports",
+      "locator": "Description, passages on the north and west portals, pseudo-kündekari and openwork of the wooden minbar, and the three-iwan hospital with partial upper floor. How Monument was dated, two AH 626 inscriptions."
+    },
+    {
+      "sourceId": "source:bakirer-divrigi-inscriptions-and-foundation",
+      "role": "supports",
+      "locator": "Printed pp. 87–90, “Documents for Dating the Building”. Transcribes and locates signatures, describes the twelve-pointed star and rail on the east face of the minbar, gives AH 638 and compares opinions on the 22-line mosque charter and the loss of the hospital deed."
+    },
+    {
+      "sourceId": "source:rum-roads-turan-karatay-deed",
+      "role": "supports",
+      "locator": "Belleten 12/45. Pp. 55–58 on kitchen and staff, 63–67 on income and shops, 84 on the 10.64 m scroll and its two faces. Edition of the Arabic deed and addenda pp. 90–108, Turkish translation pp. 109–128, esp. pp. 113–115, lines 145–230, on pay, equipment and beneficiaries, and p. 117, lines 293–295, on the written deed in 645 AH."
+    },
+    {
+      "sourceId": "source:rum-roads-rogers-waqf",
+      "role": "supports",
+      "locator": "Anatolian Studies 26, pp. 69–103, especially n. 32 on the two portals, the inscription of 638 AH, the disagreement over Karatay’s building role and the deed inscribed in 645 AH."
+    },
+    {
+      "sourceId": "source:rum-roads-karatay-hani",
+      "role": "supports",
+      "locator": "Karatay Hanı, paragraphs on the hall with rock-cut troughs and tethering holes, the two entrance inscriptions and the foundation’s provisions. Embedded map centres on the monument at 38.643978° N, 35.935351° E."
+    },
+    {
+      "sourceId": "source:bursa-orhan-management-plan",
+      "role": "supports",
+      "locator": "Khans Area monument inventory, entries ‘Orhan Ghazi Mosque’, ‘Orhan Turkish Bath (Mirrored Bazaar)’ and ‘Emir Khan’. The door inscription recalls foundation in 1339, burning in 1413 and repair in 1417. The inn generated revenue for the complex."
+    },
+    {
+      "sourceId": "source:bursa-emir-han-inventory",
+      "role": "supports",
+      "locator": "Bursa architectural inventory A106, Ayrıntılı Tanımı. Windowless storerooms below, inhabited rooms with a window and hearth above, counts of rooms and the rear stable. The inventory records later restoration."
+    },
+    {
+      "sourceId": "source:bursa-icomos-assessment",
+      "role": "supports",
+      "locator": "Advisory body evaluation, Description of the property, component 1 (Orhan Ghazi complex, school, bath, kitchen and later town hall), components 2, 3, 5, 6 and 8, and History and development."
+    },
+    {
+      "sourceId": "source:bursa-cumalikizik-orhan-endowment",
+      "role": "supports",
+      "locator": "Bursa and Cumalıkızık property description. The village is identified as the waqf village belonging to the foundation of Orhan Ghazi."
+    },
+    {
+      "sourceId": "source:bursa-cagaptay-prousa",
+      "role": "supports",
+      "locator": "In Remembering and Forgetting the Ancient City, chapter 7, pp. 167–169, figs 7.1–7.2. The walled hill, pre-Ottoman town, hot springs, east–west expansion, sites selected by Murad I and Bayezid I, and Bursa during the succession to Bayezid."
+    },
+    {
+      "sourceId": "source:galata-british-library-privilege",
+      "role": "supports",
+      "locator": "Egerton MS 2817, one item, 1453. The catalogue describes the Greek text, the sultan’s monogram and the Arabic-script date and vizier’s signature."
+    },
+    {
+      "sourceId": "source:galata-inalcik-pledge",
+      "role": "supports",
+      "locator": "Opening section, translation from the Paris Ottoman Turkish text, envoys with the keys, property and enslaved people, annual tax, bells, new churches and customs. Discussion of Lomellino’s letter and flight by sea at notes 26–30. Reprinted in Essays in Ottoman History, pp. 275–376."
+    },
+    {
+      "sourceId": "source:galata-mercan-genoese",
+      "role": "supports",
+      "locator": "Tarih İncelemeleri Dergisi 36/2, pp. 601–604, especially notes 59–65. Compares Lomellino, Doukas and Barbaro, describes taxation and names Greek, Italian and Ottoman witnesses to the grant."
+    },
+    {
+      "sourceId": "source:galata-somer-neighbourhoods",
+      "role": "supports",
+      "locator": "MA thesis, pp. 41–43 on the envoys, pp. 113–118 on the scope, dating and omissions of the survey. Sections 3.6.1–2, pp. 123–125, record Marya Maryana’s houses and oven, the brothers de Franchi, Fabyan and Anton di Laştergo. Note 760 identifies the Genoese notarial act for the smith."
+    },
+    {
+      "sourceId": "source:galata-tower-ministry",
+      "role": "supports",
+      "locator": "Museum location and map for the watchtower of medieval Pera (approximately 41.02565 N, 28.97413 E). The tower is a landmark for the historic district on the north shore. The places where the charter was delivered, the letter written and individual households stood are not identified."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-singer",
+      "role": "supports",
+      "locator": "Introduction pp. 1–3, translation of the foundation conditions and map I.1 of the kitchen on the lane above al-Wad. Chapter 2, pp. 39–70, especially pp. 46–65 on revenues, employees and provisioning."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-service",
+      "role": "supports",
+      "locator": "Journal of Interdisciplinary History 35.3, pp. 485–487 with note 8. The Jerusalem menu, the night before Friday, portions and the order in which the staff, residents and poor ate. DOI 10.1162/0022195052564252. Author’s accessible copy."
+    },
+    {
+      "sourceId": "source:jerusalem-charter-tiem-2192",
+      "role": "supports",
+      "locator": "Inventory 2192. Description, provenance and colophon, AH 964. Fol. 1a for the tuğra, 9b–10a for the Jerusalem buildings, 12a–14b for expenditure, 49a for the founder’s seal and witnesses."
+    },
+    {
+      "sourceId": "source:bursa-kavakli-house-register",
+      "role": "supports",
+      "locator": "Cihannüma 12/1, p. 15, section on women acting as agents and n. 37: BOA, MŞH. ŞSC. d., Bursa 2458, A/3, fol. 345a, Jumada II 885 / August 1480. The property, neighbourhood, names, guardianship of two orphans and the form of sale."
+    },
+    {
+      "sourceId": "source:bursa-gunalan-court-registers",
+      "role": "supports",
+      "locator": "VIII. Uluslararası Ahilik Sempozyumu, vol. II, pp. 172–173, nn. 22–23 (BŞS 4A, fol. 310, and 3A, fol. 174b): Fatma Hatun’s lease of the Doğangözü Han and Paşa Hatun’s dye-shop lease. P. 176, n. 42 (3A, fol. 345a): Nefise, Gülşah, Gülbahar and the names of the two wards."
+    },
+    {
+      "sourceId": "source:bursa-bayindir-redeemable-sale",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 6 (1992), pp. 20–22, especially p. 21, passage on bey‘ bi’l-istiğlâl: use, lease to the previous owner and redemption on repayment."
+    },
+    {
+      "sourceId": "source:bursa-kavakli-mosque-location",
+      "role": "supports",
+      "locator": "The history identifies the mosque as the district’s namesake; Hakkında and the map link give 40.18421 N, 29.0572042 E. Orientation in the quarter only, not the location of the house or court."
+    },
+    {
+      "sourceId": "source:galata-survey-1455",
+      "role": "supports",
+      "locator": "Galata survey, preamble and quarters Zani Drapora and Zani Dabdan, pp. 217–222. The register survives in fragments. The preamble specifies poll-tax liability, property confiscated for the treasury and rent. See Somer, pp. 114, 123–125, for the text and named entries."
+    }
+  ],
+  "labels": {
+    "de": "Von den Orchoninschriften zur osmanischen Stadt",
+    "en": "From the Orkhon inscriptions to the Ottoman city"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:orkhon-memorials-kul-tegin",
+    "event:cities-of-rum-manzikert",
+    "event:mahmud-lexicon-baghdad",
+    "event:anatolian-dynasties-divrigi",
+    "event:rum-caravans-karatay-deed",
+    "event:ottoman-bursa-orhan",
+    "event:ottoman-galata-galata-charter",
+    "event:hurrem-endowment-portions",
+    "asset:kul-tegin-stele-in-the-museum",
+    "asset:haseki-jerusalem-kitchen-interior"
+  ],
+  "recordIds": [
+    "artifact:galata-pledge-egerton-2817",
+    "artifact:karatay-caravanserai-deed",
+    "artifact:kul-tegin-stele",
+    "artifact:ottoman-survey-of-galata-1455",
+    "asset:haseki-jerusalem-kitchen-interior",
+    "asset:kul-tegin-stele-in-the-museum",
+    "event:anatolian-dynasties-divrigi",
+    "event:cities-of-rum-manzikert",
+    "event:hurrem-endowment-portions",
+    "event:mahmud-lexicon-baghdad",
+    "event:orkhon-memorials-kul-tegin",
+    "event:ottoman-bursa-court",
+    "event:ottoman-bursa-orhan",
+    "event:ottoman-galata-galata-charter",
+    "event:ottoman-galata-survey",
+    "event:rum-caravans-karatay-deed",
+    "geometry:baghdad-orientation",
+    "geometry:bursa-kavakli-quarter-orientation",
+    "geometry:bursa-orhan-foundation-orientation",
+    "geometry:galata-on-the-golden-horn-orientation",
+    "geometry:great-mosque-and-hospital-divrigi-orientation",
+    "geometry:haseki-imaret-jerusalem-orientation",
+    "geometry:karatay-han-near-kayseri-orientation",
+    "geometry:khoshoo-tsaidam-memorials-orientation",
+    "geometry:manzikert-by-lake-van-orientation",
+    "organization:haseki-jerusalem-waqf",
+    "person:ahmet-shah-of-divrigi",
+    "person:alp-arslan",
+    "person:bilge-qagan",
+    "person:gulbahar-guardian-in-bursa",
+    "person:gulsah-agent-in-bursa",
+    "person:jalal-al-din-karatay",
+    "person:kul-tegin",
+    "person:mahmud-al-kashgari",
+    "person:marya-maryana-of-galata",
+    "person:mehmed-ii",
+    "person:nefise-daughter-of-isa",
+    "person:orhan-ghazi",
+    "person:romanos-iv-diogenes",
+    "person:turan-melek-of-divrigi",
+    "person:yollug-tegin",
+    "place:baghdad",
+    "place:bursa-kavakli-quarter",
+    "place:bursa-orhan-foundation",
+    "place:galata-on-the-golden-horn",
+    "place:great-mosque-and-hospital-divrigi",
+    "place:haseki-imaret-jerusalem",
+    "place:karatay-han-near-kayseri",
+    "place:khoshoo-tsaidam-memorials",
+    "place:manzikert-by-lake-van",
+    "source:bakirer-divrigi-inscriptions-and-foundation",
+    "source:bursa-basar-fetih",
+    "source:bursa-bayindir-redeemable-sale",
+    "source:bursa-cagaptay-prousa",
+    "source:bursa-cumalikizik-orhan-endowment",
+    "source:bursa-emir-han-inventory",
+    "source:bursa-gunalan-court-registers",
+    "source:bursa-heritage-site-locations",
+    "source:bursa-howard-ottoman-genesis",
+    "source:bursa-ibn-battuta-travels",
+    "source:bursa-icomos-assessment",
+    "source:bursa-kavakli-house-register",
+    "source:bursa-kavakli-mosque-location",
+    "source:bursa-orhan-management-plan",
+    "source:cambridge-anatolia-under-mongols",
+    "source:fatih-ayasofya",
+    "source:galata-british-library-privilege",
+    "source:galata-inalcik-pledge",
+    "source:galata-lomellino-letter",
+    "source:galata-lomellino-letter-latin",
+    "source:galata-mercan-genoese",
+    "source:galata-somer-neighbourhoods",
+    "source:galata-survey-1455",
+    "source:galata-tower-ministry",
+    "source:hagia-sophia-met",
+    "source:haseki-kitchen-palobserver",
+    "source:haseki-palestine-toponymy",
+    "source:jerusalem-charter-tiem-2192",
+    "source:jerusalem-kitchen-service",
+    "source:jerusalem-kitchen-singer",
+    "source:jindas-rural-hinterland",
+    "source:konya-karatay-tile-museum",
+    "source:maclagan-city-constantinople",
+    "source:mahmud-baghdad-geonames",
+    "source:mahmud-dankoff-compendium",
+    "source:mahmud-horn-lexik",
+    "source:mahmud-institution-diwan",
+    "source:mahmud-kacalin-diwan",
+    "source:manzikert-attaleiates-camp-reports",
+    "source:met-byzantium-periods",
+    "source:mwnf-divrigi-mosque-hospital",
+    "source:mwnf-konya-karatay-madrasa",
+    "source:orkhon-coordinate",
+    "source:orkhon-kul-tegin-photograph",
+    "source:orkhon-parker-imperial-inscription",
+    "source:orkhon-ross-inscriptions",
+    "source:orkhon-smahelova-entrance",
+    "source:orkhon-tekin-grammar",
+    "source:qantara-divrigi-inscriptions",
+    "source:rum-ani-nomination",
+    "source:rum-ani-walls-photo",
+    "source:rum-aristakes-cities",
+    "source:rum-attaleiates-macrides",
+    "source:rum-greenwood-armenian-cities",
+    "source:rum-hillenbrand-twelfth-century",
+    "source:rum-malazgirt-survey",
+    "source:rum-roads-karatay-hani",
+    "source:rum-roads-redford-inscriptions",
+    "source:rum-roads-rogers-waqf",
+    "source:rum-roads-turan-karatay-deed",
+    "source:unesco-divrigi-mosque-hospital-map"
+  ],
+  "steps": [
+    {
+      "id": "orkhon",
+      "textAnchor": "orkhon",
+      "labels": {
+        "de": "732 · Die Stele für Kül Tegin wird fertig",
+        "en": "732 · Kül Tegin’s stele is completed"
+      },
+      "summary": {
+        "de": "Neben Bilges alttürkischer Ansprache steht die chinesische Würdigung des Tang-Kaisers. Yollug Tegin vermerkt zwanzig Tage Arbeit an Stein und Wand.",
+        "en": "Bilge’s address in Old Turkic shares the stone with the Tang emperor’s Chinese tribute. Yollug Tegin records twenty days of work on stone and wall."
+      },
+      "state": {
+        "camera": {
+          "longitude": 102.834,
+          "latitude": 47.557,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 732,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 732,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:kul-tegin-stele-in-the-museum"
+    },
+    {
+      "id": "manzikert",
+      "textAnchor": "manzikert",
+      "labels": {
+        "de": "1071 · Ein Kaiser fällt in die Hand des Sultans",
+        "en": "1071 · The sultan takes an emperor captive"
+      },
+      "summary": {
+        "de": "Bei Mantzikert gerät Romanos IV. in die Gewalt Alp Arslans. Der Sultan lässt ihn frei. Der Punkt markiert die historisch belegte Stadt als Orientierung für das Geschehen in ihrer Umgebung.",
+        "en": "Romanos IV fell into Alp Arslan’s hands near Manzikert and was released. The location of the historic town serves as a reference point for the encounter in its vicinity."
+      },
+      "state": {
+        "camera": {
+          "longitude": 42.54504,
+          "latitude": 39.14692,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1071,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1071,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "baghdad",
+      "textAnchor": "baghdad",
+      "labels": {
+        "de": "1072 bis etwa 1074/77 · Was ein Leser in Bagdad mit dem Mond anfangen konnte",
+        "en": "1072 to c. 1074/77 · What the moon could teach a reader in Baghdad"
+      },
+      "summary": {
+        "de": "Unter ay erläutert Mahmud einen Vers und ein Sprichwort. Der Punkt steht für den Abbasidenhof, an den er sich wandte. Die genaue Zeit seiner letzten Überarbeitung ist umstritten.",
+        "en": "Mahmud explains a verse and a proverb under ay. The city marks the Abbasid court he addressed. The date of his final revision is disputed."
+      },
+      "state": {
+        "camera": {
+          "longitude": 44.40088,
+          "latitude": 33.34058,
+          "metersPerPixel": 550,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1072,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1077,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "divrigi",
+      "textAnchor": "divrigi",
+      "labels": {
+        "de": "1228/29, Jahr 626 der Hidschra · Turan Melek nennt ihr Krankenhaus",
+        "en": "1228–29, AH 626 · Turan Melek names her hospital"
+      },
+      "summary": {
+        "de": "Am Nordportal der Moschee treten zwei Herrscher auf. Am Westportal des Hospitals bezeichnet Turan Melek das Haus als Stiftung zur Heilung.",
+        "en": "Two rulers appear at the north portal of the mosque. At the west hospital portal Turan Melek identifies her foundation as a house of healing."
+      },
+      "state": {
+        "camera": {
+          "longitude": 38.12183,
+          "latitude": 39.37127,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1228,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1229,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "caravanserai",
+      "textAnchor": "caravanserai",
+      "labels": {
+        "de": "1247 · Wer für die Schuhe aufkam",
+        "en": "1247 · Who paid for the shoes"
+      },
+      "summary": {
+        "de": "Karatays Urkunde bestimmt Einkünfte, Löhne, Speisen und Futter für den Betrieb des Hans. Sie nennt sogar das Leder für die Schuhe der Reisenden. Der Punkt zeigt die versorgte Herberge.",
+        "en": "Karatay’s deed lays down sources of income, wages, meals and fodder for the inn. It even provides for the leather in travellers’ shoes. The marker locates the endowed inn."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.93535,
+          "latitude": 38.64398,
+          "metersPerPixel": 145,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1247,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1247,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "bursa",
+      "textAnchor": "bursa",
+      "labels": {
+        "de": "1339 · Orhan baut vor den Mauern",
+        "en": "1339 · Orhan builds outside the walls"
+      },
+      "summary": {
+        "de": "1339 ließ Orhan vor der Burg eine Moschee errichten. Einnahmen aus einem Handelshof und aus dem Umland trugen seine Stiftung.",
+        "en": "In 1339 Orhan had a mosque built outside the citadel. A trading inn and property in the countryside helped support his foundation."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.06234,
+          "latitude": 40.18473,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1339,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1339,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "galata",
+      "textAnchor": "galata",
+      "labels": {
+        "de": "1. Juni 1453 · Mehmeds Zusage an Galata",
+        "en": "1 June 1453 · Mehmed’s pledge to Galata"
+      },
+      "summary": {
+        "de": "Nach der Übergabe der Schlüssel regelt eine Urkunde Eigentum, Abgaben, Handel und Gottesdienst. Die griechische Ausfertigung trägt das Herrscherzeichen Mehmeds.",
+        "en": "After the keys change hands a charter regulates property, taxation, trade and worship. The Greek instrument bears Mehmed’s imperial monogram."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.974,
+          "latitude": 41.026,
+          "metersPerPixel": 320,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1453,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1453,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "jerusalem",
+      "textAnchor": "jerusalem",
+      "labels": {
+        "de": "1557 · Eine Schale für zwei",
+        "en": "1557 · One bowl between two"
+      },
+      "summary": {
+        "de": "Die Stiftungsbestimmungen von 1557 sehen für zwei Arme zusammen eine Kelle Suppe vor. Personal und Herbergsgäste erhielten andere Portionen.",
+        "en": "The foundation terms of 1557 allowed two poor people one ladle of soup between them. Employees and hostel guests had different portions."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.2322,
+          "latitude": 31.7788,
+          "metersPerPixel": 125,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1557,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1557,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:haseki-jerusalem-kitchen-interior"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Acht Stationen verbinden eine zweisprachige Stele, armenische und byzantinische Chroniken, ein Wörterbuch, anatolische Stiftungen und die Küche einer osmanischen Stadt.",
+      "en": "Eight stops connect a bilingual stele, Armenian and Byzantine chronicles, a dictionary, Anatolian endowments and a kitchen in Ottoman Jerusalem."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "reading-guides",
+        "labels": {
+          "de": "Lesewege",
+          "en": "Reading guides"
+        }
+      },
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      },
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      },
+      {
+        "id": "early-modern",
+        "labels": {
+          "de": "Frühe Neuzeit",
+          "en": "Early modern period"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "inner-asia",
+        "labels": {
+          "de": "Innerasien",
+          "en": "Inner Asia"
+        }
+      },
+      {
+        "id": "mesopotamia",
+        "labels": {
+          "de": "Mesopotamien",
+          "en": "Mesopotamia"
+        }
+      },
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      },
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      },
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 65.904,
+      "latitude": 39.6679,
+      "metersPerPixel": 19777,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 732,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 732,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1557,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1557,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

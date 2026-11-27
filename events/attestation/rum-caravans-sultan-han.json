@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:rum-caravans-sultan-han",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-sultan-han-aksaray",
+      "role": "supports",
+      "locator": "Vol. 37, pp. 503–504. Portals and dated AH 626 inscription, raised courtyard masjid, raised platforms, lighting, water channels and conduit from Bağluca. Gives the earlier reading AH 667 for the repair."
+    },
+    {
+      "sourceId": "source:rum-roads-archnet-sultan-han",
+      "role": "supports",
+      "locator": "Site 4017, description of the Sultan Han between Konya and Aksaray. Courtyard with a free-standing masjid, twin stairway, hammam and covered hall."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "supports",
+      "locator": "Section Sultanhan, entrance inscriptions and courtyard. Embedded site map centred at 38.248279° N, 33.546923° E for orientation at the han."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-courtyard-photo",
+      "role": "supports",
+      "locator": "Own photograph, July 2008, original JPEG 4,142 × 2,330. The Summary identifies the small mosque in the centre of the courtyard. The Licensing section offers CC BY 3.0 Unported."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Moschee über dem Hof",
+    "en": "A mosque above the courtyard"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1229,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1229,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:kayqubad-i-of-rum",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:sultan-han-courtyard-mosque",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:sultan-han-aksaray"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sultan-han-aksaray-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Kaiqubad I. lässt auf der Straße nach Aksaray einen Han mit offener Hoffläche, erhöhtem Gebetsraum und einer Halle für Menschen und Tiere errichten.",
+      "en": "Kayqubad I commissions an inn on the road to Aksaray. It has an open courtyard, an elevated prayer room and a covered hall for people and animals."
+    }
+  }
+}

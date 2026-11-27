@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:eyice-konya-alaeddin-minbar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Alâeddin Camii (Konya)",
+  "url": "https://islamansiklopedisi.org.tr/alaeddin-camii--konya",
+  "sourceType": "article",
+  "language": "tr",
+  "creators": [
+    "Semavi Eyice, TDV İslâm Ansiklopedisi"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1989"
+}

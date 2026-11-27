@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-orhan-management-plan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bursa and Cumalıkızık Management Plan",
+  "url": "https://alanbaskanligi.bursa.bel.tr/wp-content/uploads/2012/02/YONETIM-PLANI-2013-ENG.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Bursa Metropolitan Municipality"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2013"
+}

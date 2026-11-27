@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:rum-caravans-sultan-han-repairs",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-sultan-han-repair",
+      "role": "supports",
+      "locator": "Catalogue headings Kitabe and Onarım Durumu on the location of the inscriptions, fire and the trustee Sirâcüddin Ahmed. Note 5 compares Konyalı’s AH 667 with Aslanapa’s and Dursun’s AH 677. Notes 2–3 identify the work on the builder’s medallion and repair inscription."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-aksaray",
+      "role": "supports",
+      "locator": "Vol. 37, pp. 503–504. Portals and dated AH 626 inscription, raised courtyard masjid, raised platforms, lighting, water channels and conduit from Bağluca. Gives the earlier reading AH 667 for the repair."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "supports",
+      "locator": "Section Sultanhan, entrance inscriptions and courtyard. Embedded site map centred at 38.248279° N, 33.546923° E for orientation at the han."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein zweites Datum am Sultan Han",
+    "en": "A second date at the Sultan Han"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1278,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1279,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:siraj-al-din-ahmad-of-sultan-han",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:sultan-han-repair-inscription",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:sultan-han-aksaray"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sultan-han-aksaray-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Eine Zeile unter dem Türsturz erinnert an den Verwalter, der das beschädigte Tor instand setzen ließ. Die jüngere Lesung der Jahreszahl ergibt 1278/79.",
+      "en": "A line below the lintel records the administrator who had the damaged gate repaired. The more recent reading of its date gives 1278/79."
+    }
+  }
+}

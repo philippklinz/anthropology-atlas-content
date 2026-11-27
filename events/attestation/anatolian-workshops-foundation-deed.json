@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:anatolian-workshops-foundation-deed",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dogan-karatay-teaching-and-endowment",
+      "role": "supports",
+      "locator": "Printed pp. 435–436, section on Karatay; p. 436, table 3 and adjacent paragraphs give days of instruction, Sunni schools, salaries, first charges on revenue, and the inscriptions naming prophets in the dome supports. The discussion explicitly qualifies the astronomical interpretation."
+    },
+    {
+      "sourceId": "source:mwnf-konya-karatay-madrasa",
+      "role": "supports",
+      "locator": "Description, layout of the entrance, west teaching iwan and winter classrooms, student cells, central pool and oculus, lower hexagonal tiles and tiled pendentives. How Monument was dated gives AH 649 and identifies the endowment instrument dated 25 Jumada I 651."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Fünf Unterrichtstage und Geld für Lampenöl",
+    "en": "Five teaching days and money for lamp oil"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1253,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1253,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:jalal-al-din-karatay",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:karatay-madrasa-waqfiyya",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:karatay-madrasa-konya"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:karatay-madrasa-konya-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Urkunde regelt zuerst die laufenden Ausgaben und teilt den Rest den Lehrenden, dem Personal und den Studierenden zu. Die Bestimmungen geben auch die Unterrichtstage an.",
+      "en": "The deed assigns running costs first, then portions for teaching, upkeep and student support. Its terms also set out the teaching week."
+    }
+  }
+}

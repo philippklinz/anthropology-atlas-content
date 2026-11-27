@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-tekin-grammar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A Grammar of Orkhon Turkic",
+  "url": "https://altaica.ru/LIBRARY/Tekin%20Talat/Tekin_A%20Grammar%20of%20Orkhon%20Turkic%201968.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Talat Tekin"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1968"
+}

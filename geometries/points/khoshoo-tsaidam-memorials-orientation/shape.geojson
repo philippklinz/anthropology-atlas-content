@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:khoshoo-tsaidam-memorials-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.834,
+      47.557
+    ]
+  }
+}

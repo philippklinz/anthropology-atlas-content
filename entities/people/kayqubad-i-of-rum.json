@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:kayqubad-i-of-rum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-venetian-treaty-edition",
+      "role": "supports",
+      "locator": "Document CCLVIII, pp. 221–225 of the 1856 edition, March 1220. The Latin text gives the two-year term and differentiates the undertakings of the sultan and of Jacopo Tiepolo. See p. 222 for the duty, the exempt goods and the separate provisions for wrecked Venetian ships and captured foreign vessels, and pp. 223–224 for the reciprocal undertakings."
+    },
+    {
+      "sourceId": "source:rum-roads-martin-venetian-treaty",
+      "role": "supports",
+      "locator": "English Historical Review 95, no. 375, pp. 321–330. Pp. 321–325 and n. 1 discuss the Latin reply, Venetian registers, seals and dating. Pp. 327–329 explain the rate, exempt goods, shipwreck clauses and mutual undertakings."
+    },
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Place 520998, Constantinopolis. Existing rounded point on the historic peninsula; this locates the seat of the Venetian official and does not identify a building."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-aksaray",
+      "role": "supports",
+      "locator": "Vol. 37, pp. 503–504. Portals and dated AH 626 inscription, raised courtyard masjid, raised platforms, lighting, water channels and conduit from Bağluca. Gives the earlier reading AH 667 for the repair."
+    },
+    {
+      "sourceId": "source:rum-roads-archnet-sultan-han",
+      "role": "supports",
+      "locator": "Site 4017, description of the Sultan Han between Konya and Aksaray. Courtyard with a free-standing masjid, twin stairway, hammam and covered hall."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "supports",
+      "locator": "Section Sultanhan, entrance inscriptions and courtyard. Embedded site map centred at 38.248279° N, 33.546923° E for orientation at the han."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-courtyard-photo",
+      "role": "supports",
+      "locator": "Own photograph, July 2008, original JPEG 4,142 × 2,330. The Summary identifies the small mosque in the centre of the courtyard. The Licensing section offers CC BY 3.0 Unported."
+    },
+    {
+      "sourceId": "source:rum-roads-altun-alara",
+      "role": "supports",
+      "locator": "Entry Alara Hanı, text on the riverbank and Alanya–Konya road, AH 629 inscription, central passage and surrounding ranges, proposed uses of the outer and inner spaces, fountain and prayer room."
+    },
+    {
+      "sourceId": "source:rum-roads-redford-inscriptions",
+      "role": "supports",
+      "locator": "In A mari usque ad mare, pp. 221–234. §2, pp. 222–223, on building scale, the Mongol victory and Karatay. §3, pp. 223–224, on the Alara Han inscription, regional setting and claims over Armenians and Franks."
+    },
+    {
+      "sourceId": "source:rum-roads-alara-location",
+      "role": "supports",
+      "locator": "GPS coordinates of the caravanserai (36.692501° N, 31.724199° E) above the Description section. The article distinguishes the building from the nearby castle, river and waterfall."
+    },
+    {
+      "sourceId": "source:rum-roads-rogers-waqf",
+      "role": "supports",
+      "locator": "Anatolian Studies 26, pp. 69–103, especially n. 32 on the two portals, the inscription of 638 AH, the disagreement over Karatay’s building role and the deed inscribed in 645 AH."
+    },
+    {
+      "sourceId": "source:rum-roads-karatay-hani",
+      "role": "supports",
+      "locator": "Karatay Hanı, paragraphs on the hall with rock-cut troughs and tethering holes, the two entrance inscriptions and the foundation’s provisions. Embedded map centres on the monument at 38.643978° N, 35.935351° E."
+    },
+    {
+      "sourceId": "source:cambridge-anatolia-under-mongols",
+      "role": "supports",
+      "locator": "The Cambridge History of Turkey, vol. 1, chapter 3, sections on Köse Dağ in 1243 and the consequences for Seljuk government."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Kaiqubad I. von Rum",
+    "en": "Kayqubad I of Rum"
+  }
+}

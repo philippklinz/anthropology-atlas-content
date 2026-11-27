@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-rum-manzikert",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-attaleiates-macrides",
+      "role": "supports",
+      "locator": "Appendix A in Carole Hillenbrand, Turkish Myth and Muslim Symbol. Historia, ed. Pérez Martín, 113.5–123.16. Opening passage on the wagons, the army’s provisions and the townspeople’s request to keep their property in return for surrender."
+    },
+    {
+      "sourceId": "source:rum-aristakes-cities",
+      "role": "supports",
+      "locator": "Chapter 24, Armenian-era year 513, especially printed pp. 163–165 (Armenian pp. 134–136): two places of refuge, provisions, burial and usury. Chapter 25, pp. 167–171 (Armenian pp. 137–140): the names used for the two rulers, the captive’s release and his blinding."
+    },
+    {
+      "sourceId": "source:rum-hillenbrand-twelfth-century",
+      "role": "supports",
+      "locator": "Turkish Myth and Muslim Symbol, ch. 2, pp. 26–31, Arabic mirror for princes Sirāj al-mulūk by al-Turtushi, translation and commentary. Reversal of the captive and captor in a question in the literary dialogue. The account belongs to the early twelfth century."
+    },
+    {
+      "sourceId": "source:rum-malazgirt-survey",
+      "role": "supports",
+      "locator": "“Malazgirt / Manazkert Citadel”, pp. 44–45, Location and Accessibility. The survey places the historic town’s citadel at 39.14692° N, 42.54504° E. This identifies the locality, whose walls also figure in Attaleiates, without assigning a location to the emperor’s capture."
+    },
+    {
+      "sourceId": "source:manzikert-attaleiates-camp-reports",
+      "role": "supports",
+      "locator": "Byzantinische Zeitschrift 105.2, pp. 834–835, n. 34. Conflicting reports arriving at the imperial camp, Attaleiates 125.15–126.10. DOI 10.1515/bz.2012.0033."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Kaiser fällt in die Hand des Sultans",
+    "en": "The sultan takes an emperor captive"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1071,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1071,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:alp-arslan",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:romanos-iv-diogenes",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:manzikert-by-lake-van"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:manzikert-by-lake-van-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Bei Mantzikert gerät Romanos IV. in die Gewalt Alp Arslans. Der Sultan lässt ihn frei. Der Punkt markiert die historisch belegte Stadt als Orientierung für das Geschehen in ihrer Umgebung.",
+      "en": "Romanos IV fell into Alp Arslan’s hands near Manzikert and was released. The location of the historic town serves as a reference point for the encounter in its vicinity."
+    }
+  }
+}

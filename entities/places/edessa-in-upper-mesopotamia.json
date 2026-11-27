@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:edessa-in-upper-mesopotamia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-matthew-edessa-chronicle",
+      "role": "supports",
+      "locator": "Part II, year 547 of the Armenian era (1098), section on T‘oros and Baldwin, translator pp. 92–93, Armenian pagination g259–262. Arrival with sixty horsemen, gifts, two citadels, relics of Varag and Mak‘enik‘, written oath, death of T‘oros."
+    },
+    {
+      "sourceId": "source:rum-macevitt-edessans",
+      "role": "supports",
+      "locator": "Chapter 2, pp. 66–71, and particularly pp. 68 and 70: comparison of Matthew and the Syriac tradition, the Harran Gate, differing interests within Edessa, Baldwin’s dependence on the city’s aristocracy and the continued use of the Armenian administration."
+    },
+    {
+      "sourceId": "source:rum-edessa-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 298333, settlement of Şanlıurfa, former Edessa. City-level reference point 37.16708° N, 38.79392° E. The church and the specific part of the city wall cannot be positioned from this point."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Edessa, das heutige Şanlıurfa",
+    "en": "Edessa, present-day Şanlıurfa"
+  }
+}

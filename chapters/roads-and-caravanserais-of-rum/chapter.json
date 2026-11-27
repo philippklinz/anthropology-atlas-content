@@ -1,0 +1,522 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:roads-and-caravanserais-of-rum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-venetian-treaty-edition",
+      "role": "supports",
+      "locator": "Document CCLVIII, pp. 221–225 of the 1856 edition, March 1220. The Latin text gives the two-year term and differentiates the undertakings of the sultan and of Jacopo Tiepolo. See p. 222 for the duty, the exempt goods and the separate provisions for wrecked Venetian ships and captured foreign vessels, and pp. 223–224 for the reciprocal undertakings."
+    },
+    {
+      "sourceId": "source:rum-roads-martin-venetian-treaty",
+      "role": "supports",
+      "locator": "English Historical Review 95, no. 375, pp. 321–330. Pp. 321–325 and n. 1 discuss the Latin reply, Venetian registers, seals and dating. Pp. 327–329 explain the rate, exempt goods, shipwreck clauses and mutual undertakings."
+    },
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Place 520998, Constantinopolis. Existing rounded point on the historic peninsula; this locates the seat of the Venetian official and does not identify a building."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-aksaray",
+      "role": "supports",
+      "locator": "Vol. 37, pp. 503–504. Portals and dated AH 626 inscription, raised courtyard masjid, raised platforms, lighting, water channels and conduit from Bağluca. Gives the earlier reading AH 667 for the repair."
+    },
+    {
+      "sourceId": "source:rum-roads-archnet-sultan-han",
+      "role": "supports",
+      "locator": "Site 4017, description of the Sultan Han between Konya and Aksaray. Courtyard with a free-standing masjid, twin stairway, hammam and covered hall."
+    },
+    {
+      "sourceId": "source:rum-roads-sultanhani-map",
+      "role": "supports",
+      "locator": "Section Sultanhan, entrance inscriptions and courtyard. Embedded site map centred at 38.248279° N, 33.546923° E for orientation at the han."
+    },
+    {
+      "sourceId": "source:rum-roads-altun-alara",
+      "role": "supports",
+      "locator": "Entry Alara Hanı, text on the riverbank and Alanya–Konya road, AH 629 inscription, central passage and surrounding ranges, proposed uses of the outer and inner spaces, fountain and prayer room."
+    },
+    {
+      "sourceId": "source:rum-roads-alara-location",
+      "role": "supports",
+      "locator": "GPS coordinates of the caravanserai (36.692501° N, 31.724199° E) above the Description section. The article distinguishes the building from the nearby castle, river and waterfall."
+    },
+    {
+      "sourceId": "source:rum-roads-redford-inscriptions",
+      "role": "supports",
+      "locator": "In A mari usque ad mare, pp. 221–234. §2, pp. 222–223, on building scale, the Mongol victory and Karatay. §3, pp. 223–224, on the Alara Han inscription, regional setting and claims over Armenians and Franks."
+    },
+    {
+      "sourceId": "source:rum-roads-rogers-waqf",
+      "role": "supports",
+      "locator": "Anatolian Studies 26, pp. 69–103, especially n. 32 on the two portals, the inscription of 638 AH, the disagreement over Karatay’s building role and the deed inscribed in 645 AH."
+    },
+    {
+      "sourceId": "source:rum-roads-karatay-hani",
+      "role": "supports",
+      "locator": "Karatay Hanı, paragraphs on the hall with rock-cut troughs and tethering holes, the two entrance inscriptions and the foundation’s provisions. Embedded map centres on the monument at 38.643978° N, 35.935351° E."
+    },
+    {
+      "sourceId": "source:rum-roads-turan-karatay-deed",
+      "role": "supports",
+      "locator": "Belleten 12/45. Pp. 55–58 on kitchen and staff, 63–67 on income and shops, 84 on the 10.64 m scroll and its two faces. Edition of the Arabic deed and addenda pp. 90–108, Turkish translation pp. 109–128, esp. pp. 113–115, lines 145–230, on pay, equipment and beneficiaries, and p. 117, lines 293–295, on the written deed in 645 AH."
+    },
+    {
+      "sourceId": "source:cambridge-anatolia-under-mongols",
+      "role": "supports",
+      "locator": "The Cambridge History of Turkey, vol. 1, chapter 3, sections on Köse Dağ in 1243 and the consequences for Seljuk government."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-repair",
+      "role": "supports",
+      "locator": "Catalogue headings Kitabe and Onarım Durumu on the location of the inscriptions, fire and the trustee Sirâcüddin Ahmed. Note 5 compares Konyalı’s AH 667 with Aslanapa’s and Dursun’s AH 677. Notes 2–3 identify the work on the builder’s medallion and repair inscription."
+    },
+    {
+      "sourceId": "source:rum-roads-sultan-han-courtyard-photo",
+      "role": "supports",
+      "locator": "Own photograph, July 2008, original JPEG 4,142 × 2,330. The Summary identifies the small mosque in the centre of the courtyard. The Licensing section offers CC BY 3.0 Unported."
+    }
+  ],
+  "labels": {
+    "de": "Unterwegs im Sultanat von Rum",
+    "en": "On the road in the Sultanate of Rum"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:rum-caravans-merchant-treaty",
+    "event:rum-caravans-sultan-han",
+    "event:rum-caravans-alara",
+    "event:rum-caravans-karatay-portal",
+    "event:rum-caravans-karatay-deed",
+    "event:rum-caravans-sultan-han-repairs",
+    "asset:sultan-han-aksaray-courtyard-mosque-photograph"
+  ],
+  "recordIds": [
+    "artifact:alara-han-foundation-inscription",
+    "artifact:karatay-caravanserai-deed",
+    "artifact:sultan-han-courtyard-mosque",
+    "artifact:sultan-han-repair-inscription",
+    "artifact:venetian-seljuk-treaty-1220",
+    "asset:sultan-han-aksaray-courtyard-mosque-photograph",
+    "event:rum-caravans-alara",
+    "event:rum-caravans-karatay-deed",
+    "event:rum-caravans-karatay-portal",
+    "event:rum-caravans-merchant-treaty",
+    "event:rum-caravans-sultan-han",
+    "event:rum-caravans-sultan-han-repairs",
+    "geometry:alara-han-orientation",
+    "geometry:constantinople-orientation",
+    "geometry:karatay-han-near-kayseri-orientation",
+    "geometry:sultan-han-aksaray-orientation",
+    "person:jacopo-tiepolo",
+    "person:jalal-al-din-karatay",
+    "person:kaykhusraw-ii-of-rum",
+    "person:kayqubad-i-of-rum",
+    "person:siraj-al-din-ahmad-of-sultan-han",
+    "place:alara-han",
+    "place:constantinople",
+    "place:karatay-han-near-kayseri",
+    "place:sultan-han-aksaray",
+    "source:cambridge-anatolia-under-mongols",
+    "source:gassman-wolfe-gothic-philippians",
+    "source:konya-karatay-tile-museum",
+    "source:mwnf-konya-karatay-madrasa",
+    "source:pleiades-ancient-places",
+    "source:rum-roads-alara-location",
+    "source:rum-roads-altun-alara",
+    "source:rum-roads-archnet-sultan-han",
+    "source:rum-roads-karatay-hani",
+    "source:rum-roads-martin-venetian-treaty",
+    "source:rum-roads-redford-inscriptions",
+    "source:rum-roads-rogers-waqf",
+    "source:rum-roads-sultan-han-aksaray",
+    "source:rum-roads-sultan-han-courtyard-photo",
+    "source:rum-roads-sultan-han-repair",
+    "source:rum-roads-sultanhani-map",
+    "source:rum-roads-turan-karatay-deed",
+    "source:rum-roads-venetian-treaty-edition"
+  ],
+  "steps": [
+    {
+      "id": "merchant-treaty",
+      "textAnchor": "merchant-treaty",
+      "labels": {
+        "de": "März 1220 · Was kostete eine Ladung Getreide?",
+        "en": "March 1220 · What duty on a cargo of grain?"
+      },
+      "summary": {
+        "de": "Venedigs Statthalter antwortet auf ein Schreiben von Sultan Kaiqubad I. Getreide bleibt zollfrei. Auch für Schiffbrüchige gilt der vereinbarte Schutz.",
+        "en": "Venice’s governor replies to Sultan Kayqubad I. Grain is exempt from duty, and the agreement extends protection to shipwreck survivors."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.97,
+          "latitude": 41.01,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1220,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1220,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "sultan-han",
+      "textAnchor": "sultan-han",
+      "labels": {
+        "de": "1229 · Eine Moschee über dem Hof",
+        "en": "1229 · A mosque above the courtyard"
+      },
+      "summary": {
+        "de": "Kaiqubad I. lässt auf der Straße nach Aksaray einen Han mit offener Hoffläche, erhöhtem Gebetsraum und einer Halle für Menschen und Tiere errichten.",
+        "en": "Kayqubad I commissions an inn on the road to Aksaray. It has an open courtyard, an elevated prayer room and a covered hall for people and animals."
+      },
+      "state": {
+        "camera": {
+          "longitude": 33.54692,
+          "latitude": 38.24828,
+          "metersPerPixel": 150,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1229,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1229,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:sultan-han-aksaray-courtyard-mosque-photograph"
+    },
+    {
+      "id": "alara",
+      "textAnchor": "alara",
+      "labels": {
+        "de": "629 AH · 1231/32 · Was der Sultan am Fluss Alara verkünden ließ",
+        "en": "AH 629 · 1231/32 · What the sultan proclaimed on the Alara River"
+      },
+      "summary": {
+        "de": "In seiner Bauinschrift erhebt Kaiqubad I. Ansprüche auf Armenier und Franken. Hinter dem Eingang liegen ein Brunnen und ein Gebetsraum.",
+        "en": "Kayqubad I claims authority over Armenians and Franks in his foundation inscription. A fountain recess and a prayer room stand just inside the entrance."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.7242,
+          "latitude": 36.6925,
+          "metersPerPixel": 145,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1231,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1232,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "karatay-portal",
+      "textAnchor": "karatay-portal",
+      "labels": {
+        "de": "638 AH · 1240/41 · Zwei Sultane an den Toren des Karatay Han",
+        "en": "AH 638 · 1240/41 · Two sultans at the gates of the Karatay Han"
+      },
+      "summary": {
+        "de": "Das äußere Tor nennt Kaichusrau II. und ein Datum, die Halle seinen Vater Kaiqubad I. In der Halle sind Futtertröge und Löcher zum Anbinden von Tieren erhalten.",
+        "en": "The outer gate names Kaykhusraw II and gives the year. The hall names his father, Kayqubad I, and still has its feeding troughs and tethering holes."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.93535,
+          "latitude": 38.64398,
+          "metersPerPixel": 145,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1240,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1241,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "karatay-deed",
+      "textAnchor": "karatay-deed",
+      "labels": {
+        "de": "1247 · Wer für die Schuhe aufkam",
+        "en": "1247 · Who paid for the shoes"
+      },
+      "summary": {
+        "de": "Karatays Urkunde bestimmt Einkünfte, Löhne, Speisen und Futter für den Betrieb des Hans. Sie nennt sogar das Leder für die Schuhe der Reisenden. Der Punkt zeigt die versorgte Herberge.",
+        "en": "Karatay’s deed lays down sources of income, wages, meals and fodder for the inn. It even provides for the leather in travellers’ shoes. The marker locates the endowed inn."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.93535,
+          "latitude": 38.64398,
+          "metersPerPixel": 145,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1247,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1247,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "sultan-han-repairs",
+      "textAnchor": "sultan-han-repairs",
+      "labels": {
+        "de": "1278/79 nach jüngerer Lesung · Ein zweites Datum am Sultan Han",
+        "en": "1278/79, more recent reading · A second date at the Sultan Han"
+      },
+      "summary": {
+        "de": "Eine Zeile unter dem Türsturz erinnert an den Verwalter, der das beschädigte Tor instand setzen ließ. Die jüngere Lesung der Jahreszahl ergibt 1278/79.",
+        "en": "A line below the lintel records the administrator who had the damaged gate repaired. The more recent reading of its date gives 1278/79."
+      },
+      "state": {
+        "camera": {
+          "longitude": 33.54692,
+          "latitude": 38.24828,
+          "metersPerPixel": 150,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1278,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1279,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Was schuldete ein Kaufmann am Zoll, wer bezahlte das Futter für sein Tier? Eine venezianische Antwort, drei steinerne Herbergen und die Lohnsätze einer Stiftungsurkunde führen von der Küste auf die anatolische Hochebene.",
+      "en": "What did a merchant owe in duty, and who paid for an animal’s feed? A Venetian reply, three stone inns and the wages specified by a founder lead inland from the coast to the Anatolian plateau."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "trade",
+        "labels": {
+          "de": "Handel",
+          "en": "Trade"
+        }
+      },
+      {
+        "id": "foodways",
+        "labels": {
+          "de": "Ernährung",
+          "en": "Foodways"
+        }
+      },
+      {
+        "id": "charters-and-law",
+        "labels": {
+          "de": "Urkunden und Recht",
+          "en": "Charters and law"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      },
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 32.45267,
+      "latitude": 38.85125,
+      "metersPerPixel": 2492,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1220,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1220,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1279,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1279,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

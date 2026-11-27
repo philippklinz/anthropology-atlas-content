@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-tower-ministry",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "İstanbul Galata Tower Museum",
+  "url": "https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/22341-istanbul-galata-tower-museum/22341/4",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Ministry of Culture and Tourism of the Republic of Türkiye, Turkish Museums"
+  ],
+  "accessedAt": "2026-11-27"
+}

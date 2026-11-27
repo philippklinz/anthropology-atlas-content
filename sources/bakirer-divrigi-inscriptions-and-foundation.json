@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bakirer-divrigi-inscriptions-and-foundation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Great Mosque and Hospital of Divriği, in UNESCO World Heritage in Turkey",
+  "url": "https://unesco.org.tr/Content_Files/Content/Yayinlar/unesco_dma_kitap.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Ömür Bakırer, Turkish National Commission for UNESCO"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2013"
+}

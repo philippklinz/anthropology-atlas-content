@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:manzikert-attaleiates-camp-reports",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Was Michael Attaleiates present at the battle of Mantzikert?",
+  "url": "https://www.researchgate.net/publication/270750745_Was_Michael_Attaleiates_present_at_the_battle_of_Mantzikert",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Antonios Vratimos"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2012"
+}

@@ -26,4 +26,6 @@ Im Jahr 1204 eroberte ein westliches Kreuzfahrerheer Konstantinopel. Die folgend
 
 1453 nahmen die Osmanen die Stadt ein. Sultan Mehmed II. ließ die Hagia Sophia in eine Moschee umwandeln. Die Menschen, die bisher hier die christliche Liturgie gefeiert hatten, verloren ihre Kathedrale. Die Kuppel, die Marmorplatten und die Säulen standen weiterhin am selben Ort. Auf der [osmanischen Seite dieser Geschichte](chapter:turkic-dynasties-in-anatolia#hagia-sophia-1453) lässt sich nachlesen, was in dem übernommenen Raum für das Gebet gebraucht wurde.
 
+Auf der anderen Seite des Goldenen Horns sicherten Einwohner Galatas ihre Stellung in einer [griechischsprachigen Urkunde Mehmeds](chapter:constantinople-and-galata-after-1453#galata-charter).
+
 [Weitere Wege durch historische Quellen](chapter:reading-history-through-objects)

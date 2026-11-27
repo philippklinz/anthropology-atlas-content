@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:cairo-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-horn-lexik",
+      "role": "supports",
+      "locator": "Dissertation, pp. 93–101. Dates and revisions, Cairo ownership note (CU 1), discussion on shared Kipchak and Turkmen forms in fifteen lines, attribution by handwriting, red rubrics and overwriting, vowel marks, colophon (CU 638, line 13) and alternatives Damascus or Cairo."
+    },
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-cairo-geonames",
+      "role": "supports",
+      "locator": "City record 360630, 30.06263 N, 31.24967 E. City named in the owner’s annotation."
+    },
+    {
+      "sourceId": "source:mahmud-cairo-geonames",
+      "role": "derivation",
+      "locator": "City record 360630, 30.06263 N, 31.24967 E. City named in the owner’s annotation."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Rounded to a schematic city point. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.geonames.org/360630/cairo.html",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

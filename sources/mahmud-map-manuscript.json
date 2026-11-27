@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-map-manuscript",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "World map in the sole manuscript of Dīwān lughāt al-Turk",
+  "url": "https://commons.wikimedia.org/wiki/File:D%C4%ABw%C4%81n_Lugh%C4%81t_al-Turk_(original).jpg",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Manuscript of 1266 after Mahmud al-Kashgari, Istanbul, Millet Yazma Eser Kütüphanesi, Ali Emîrî Arabî 4189"
+  ],
+  "accessedAt": "2026-11-27"
+}

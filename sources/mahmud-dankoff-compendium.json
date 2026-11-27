@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-dankoff-compendium",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Compendium of the Turkic Dialects (Dīwān Luġāt at-Turk), Part I",
+  "url": "https://altaica.ru/LIBRARY/turks/Dankoff_Mahmud_1.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Mahmud al-Kashgari",
+    "Robert Dankoff and James Kelly (edition and translation)"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1982"
+}

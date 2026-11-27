@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-martin-venetian-treaty",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Venetian-Seljuk Treaty of 1220",
+  "url": "https://dergipark.org.tr/tr/download/article-file/1679308",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "M. E. Martin"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1980"
+}

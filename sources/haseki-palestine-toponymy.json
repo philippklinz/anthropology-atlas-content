@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:haseki-palestine-toponymy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Early-Ottoman Palestinian Toponymy: A Linguistic Analysis of the (Micro-)Toponyms in Haseki Sultan’s Endowment Deed (1552)",
+  "url": "https://escholarship.org/content/qt0cs6f5k5/qt0cs6f5k5.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Roy Marom",
+    "Ran Zadok"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2023"
+}

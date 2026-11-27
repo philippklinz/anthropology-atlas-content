@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:haseki-imaret-jerusalem",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jerusalem-kitchen-singer",
+      "role": "supports",
+      "locator": "Introduction pp. 1–3, translation of the foundation conditions and map I.1 of the kitchen on the lane above al-Wad. Chapter 2, pp. 39–70, especially pp. 46–65 on revenues, employees and provisioning."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-service",
+      "role": "supports",
+      "locator": "Journal of Interdisciplinary History 35.3, pp. 485–487 with note 8. The Jerusalem menu, the night before Friday, portions and the order in which the staff, residents and poor ate. DOI 10.1162/0022195052564252. Author’s accessible copy."
+    },
+    {
+      "sourceId": "source:jerusalem-charter-tiem-2192",
+      "role": "supports",
+      "locator": "Inventory 2192. Description, provenance and colophon, AH 964. Fol. 1a for the tuğra, 9b–10a for the Jerusalem buildings, 12a–14b for expenditure, 49a for the founder’s seal and witnesses."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hürrem Sultans Stiftung in Jerusalem",
+    "en": "Hürrem Sultan’s foundation in Jerusalem"
+  }
+}

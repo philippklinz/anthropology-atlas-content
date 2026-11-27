@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:jindas-near-lydda",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jindas-rural-hinterland",
+      "role": "supports",
+      "locator": "Lod, Lydda, Diospolis 1, p. 4 (site, Israel Grid 19125/65282), pp. 8–10 with figs. 3–4 and table 1 (1552 shares and 1596/97 survey), pp. 11–12 (December 1606, Jerusalem sijill 84:27)."
+    },
+    {
+      "sourceId": "source:haseki-palestine-toponymy",
+      "role": "supports",
+      "locator": "Zeitschrift des Deutschen Palästina-Vereins 139.2, pp. 258–289. Author manuscript §§1–2, 195 names in the endowment deed, entries for al-Ludd and Bayt Iksā and its field."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Jindās bei Lydda",
+    "en": "Jindās near Lydda"
+  }
+}

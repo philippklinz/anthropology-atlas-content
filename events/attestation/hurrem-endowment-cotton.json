@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hurrem-endowment-cotton",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jindas-rural-hinterland",
+      "role": "supports",
+      "locator": "Lod, Lydda, Diospolis 1, p. 4 (site, Israel Grid 19125/65282), pp. 8–10 with figs. 3–4 and table 1 (1552 shares and 1596/97 survey), pp. 11–12 (December 1606, Jerusalem sijill 84:27)."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Vier Bauern beziffern die Baumwollernte",
+    "en": "Four farmers put a figure on the cotton harvest"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1606,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1606,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:jindas-cotton-growers",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:jindas-near-lydda"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:jindas-near-lydda-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Im Dezember 1606 kamen die Ernterechte in Jindās vor ein Jerusalemer Gericht. Vier Bauern korrigierten die Angaben zum Ertrag. Die Karte zeigt das Dorf.",
+      "en": "In December 1606 a Jerusalem court heard a dispute over cotton at Jindās. Four growers corrected the reported yield. The map marks their village."
+    }
+  }
+}

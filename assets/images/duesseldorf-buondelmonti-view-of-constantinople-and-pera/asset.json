@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:duesseldorf-buondelmonti-view-of-constantinople-and-pera",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:galata-duesseldorf-view",
+      "role": "supports",
+      "locator": "Düsseldorf, MS G 13, fol. 54r. Full 2,184 × 3,181 PNG and its file-history and licensing sections (faithful reproduction, Public Domain Mark). Dating and attribution to this copy are checked against Effenberger, fig. 2."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Pera und Konstantinopel im Düsseldorfer Inselbuch",
+    "en": "Pera and Constantinople in the Düsseldorf Book of Islands"
+  },
+  "alt": {
+    "de": "Eine spätmittelalterliche Federzeichnung zeigt unten das ummauerte Konstantinopel. Über dem Wasser steht der Name Pera neben einem von Häusern umgebenen Turm. Der Bosporus reicht bis an den oberen Blattrand.",
+    "en": "A late medieval pen drawing shows walled Constantinople below. Across the water the name Pera appears beside a tower surrounded by houses. The Bosporus reaches the upper edge of the sheet."
+  },
+  "entityIds": [
+    "artifact:buondelmonti-duesseldorf-g13-f54r",
+    "place:constantinople",
+    "place:galata-on-the-golden-horn"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Unidentified fifteenth-century draughtsman in the tradition of Cristoforo Buondelmonti"
+    ],
+    "attribution": "Düsseldorf, manuscript of the City of Düsseldorf on loan to the Universitäts- und Landesbibliothek, G 13, fol. 54r, c. 1485–1490. Anonymous draughtsman working in the Buondelmonti tradition. Faithful public-domain reproduction via Wikimedia Commons. https://creativecommons.org/publicdomain/mark/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Constantinople_by_Cristoforo_Buondelmonti,_D%C3%BCsseldorf_copy.png",
+    "originNote": "Web edition of the original 2184 × 3181 image. Resampled to 975 × 1420 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ottoman-bursa-court",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-kavakli-house-register",
+      "role": "supports",
+      "locator": "Cihannüma 12/1, p. 15, section on women acting as agents and n. 37: BOA, MŞH. ŞSC. d., Bursa 2458, A/3, fol. 345a, Jumada II 885 / August 1480. The property, neighbourhood, names, guardianship of two orphans and the form of sale."
+    },
+    {
+      "sourceId": "source:bursa-gunalan-court-registers",
+      "role": "supports",
+      "locator": "VIII. Uluslararası Ahilik Sempozyumu, vol. II, pp. 172–173, nn. 22–23 (BŞS 4A, fol. 310, and 3A, fol. 174b): Fatma Hatun’s lease of the Doğangözü Han and Paşa Hatun’s dye-shop lease. P. 176, n. 42 (3A, fol. 345a): Nefise, Gülşah, Gülbahar and the names of the two wards."
+    },
+    {
+      "sourceId": "source:bursa-bayindir-redeemable-sale",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 6 (1992), pp. 20–22, especially p. 21, passage on bey‘ bi’l-istiğlâl: use, lease to the previous owner and redemption on repayment."
+    },
+    {
+      "sourceId": "source:bursa-kavakli-mosque-location",
+      "role": "supports",
+      "locator": "The history identifies the mosque as the district’s namesake; Hakkında and the map link give 40.18421 N, 29.0572042 E. Orientation in the quarter only, not the location of the house or court."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Nefise lässt ein Hausgeschäft eintragen",
+    "en": "Nefise records a house transaction"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1480,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1480,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:nefise-daughter-of-isa",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:gulsah-agent-in-bursa",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:gulbahar-guardian-in-bursa",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:bursa-kavakli-quarter"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:bursa-kavakli-quarter-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Gülşah vertritt Nefise bei einem Geschäft über 1.000 Dirham. Gülbahar handelt für zwei Waisen. Die Moschee bezeichnet das Viertel, in dem das Haus lag.",
+      "en": "Gülşah represents Nefise in a transaction for 1,000 dirhams. Gülbahar acts for two orphans. The mosque marks the quarter in which the house stood."
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:orkhon-memorials-mourning",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-tekin-grammar",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–11, and editions, pp. 261–289. Tonyukuk I W 1–7, I S 1–5 and II E 4–8 for the counsellor’s narrative. KT S 1–13, E 1–5, N 9–13 and NE, SE for the court address, dates, mourners and work. BK E 2–24, S 10–15, N 9–10 and SW for shared text, funerary gifts, marriages and the second colophon."
+    },
+    {
+      "sourceId": "source:orkhon-ross-inscriptions",
+      "role": "supports",
+      "locator": "Monument I, S 1–13, N 9–13, NE and SE, pp. 862–865, 870–871. The NE inscription separates the funeral from completion in the following animal year. The SE colophon records twenty days. Note 2, pp. 872–873, gives the reciprocal Türgesh marriages on monument II."
+    },
+    {
+      "sourceId": "source:orkhon-coordinate",
+      "role": "supports",
+      "locator": "Orkhon Valley Cultural Landscape Management Plan, §3.1.5, pp. 25–26, site coordinate table, row 1, “Turkish Memorials of Khöshöö Tsaidam”. The Kul tegin and Bilge Khan rows give 47°33′24.91″ N with 102°49′53.85″ E and 102°50′11.58″ E. The printed latitude and longitude column headings are transposed. A rounded midpoint orients the reader to the paired complexes."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Bilges Hof erinnert sich an die Trauergäste",
+    "en": "Bilge’s court remembers the mourners"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 731,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 731,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:kul-tegin",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:bilge-qagan",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:khoshoo-tsaidam-memorials"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:khoshoo-tsaidam-memorials-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die spätere Inschrift nennt den neunten Monat des Schafjahres und zählt die Gesandtschaften auf. Der Kartenpunkt bezeichnet die Gedenkanlagen, an denen der Bericht erhalten blieb.",
+      "en": "The later inscription names the ninth month of the Sheep Year and lists the delegations. The marker locates the memorials where this account was preserved."
+    }
+  }
+}

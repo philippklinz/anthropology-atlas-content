@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hurrem-endowment-jindas",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jindas-rural-hinterland",
+      "role": "supports",
+      "locator": "Lod, Lydda, Diospolis 1, p. 4 (site, Israel Grid 19125/65282), pp. 8–10 with figs. 3–4 and table 1 (1552 shares and 1596/97 survey), pp. 11–12 (December 1606, Jerusalem sijill 84:27)."
+    },
+    {
+      "sourceId": "source:haseki-palestine-toponymy",
+      "role": "supports",
+      "locator": "Zeitschrift des Deutschen Palästina-Vereins 139.2, pp. 258–289. Author manuscript §§1–2, 195 names in the endowment deed, entries for al-Ludd and Bayt Iksā and its field."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Anteile am Ertrag eines Dorfes",
+    "en": "Shares in a village’s income"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1552,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1552,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "organization:haseki-jerusalem-waqf",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:jindas-near-lydda"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:jindas-near-lydda-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Urkunde von 1552 nennt Dörfer, Fluren und Anteile der Stiftung bei Lydda. In Jindās bestanden die Ansprüche mehrerer Stiftungen nebeneinander.",
+      "en": "The 1552 deed lists villages, tracts of farmland and shares in the district of Lydda. Several endowments had claims on income from Jindās."
+    }
+  }
+}

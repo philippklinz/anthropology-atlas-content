@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-sims-williams-kanjaki",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Kanjaki",
+  "url": "https://www.iranicaonline.org/articles/kanjaki/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Nicholas Sims-Williams"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2010"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:haseki-kitchen-palobserver",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Interior of the Haseki Sultan imaret, Jerusalem",
+  "url": "https://commons.wikimedia.org/wiki/File:HassekiSultanImaret3.JPG",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Palobserver"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2011"
+}

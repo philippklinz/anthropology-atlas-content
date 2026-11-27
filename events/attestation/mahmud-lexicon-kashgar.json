@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mahmud-lexicon-kashgar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-sims-williams-kanjaki",
+      "role": "supports",
+      "locator": "Encyclopaedia Iranica, vol. XV, fasc. 5, p. 502. Villages around Kashgar and limits on reconstructing the earlier language from Iranian-looking names for plants and vessels, including kändük."
+    },
+    {
+      "sourceId": "source:mahmud-kacalin-diwan",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 9, pp. 446–449. Opening paragraphs on dates and readership. Sections 1–8, followed by paragraph on past-tense verb headwords. Map paragraph and omissions (Çigil, Suvar). Final paragraph, extent of 319 leaves."
+    },
+    {
+      "sourceId": "source:mahmud-kashgar-geonames",
+      "role": "supports",
+      "locator": "City record 1280849, 39.46718 N, 75.98675 E. Reference point for unnamed villages around the oasis."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Wort für die Trinkschale",
+    "en": "A word for a drinking bowl"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1072,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1077,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:mahmuds-diwan-work",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:kashgar"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:kashgar-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Mahmud verzeichnet Kanjaki in den Dörfern um Kaschgar. Die Karte zeigt die Oase, der Zeitraum die Niederschrift seiner Beobachtungen.",
+      "en": "Mahmud records Kanjaki in the villages around Kashgar. The marker locates the oasis and the dates refer to his written account."
+    }
+  }
+}

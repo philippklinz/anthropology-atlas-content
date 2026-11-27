@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-sultan-han-aksaray",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sultan Hanı (Aksaray)",
+  "url": "https://islamansiklopedisi.org.tr/sultan-hani--aksaray",
+  "sourceType": "article",
+  "language": "tr",
+  "creators": [
+    "Abdüsselam Uluçam, TDV İslâm Ansiklopedisi"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2009"
+}

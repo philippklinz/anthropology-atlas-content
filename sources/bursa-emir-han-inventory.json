@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-emir-han-inventory",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Emir (Bey) Hanı",
+  "url": "https://www.kulturportali.gov.tr/turkiye/bursa/kulturenvanteri/emir-bey-hani",
+  "sourceType": "catalog",
+  "language": "tr",
+  "creators": [
+    "Republic of Türkiye, Ministry of Culture and Tourism"
+  ],
+  "accessedAt": "2026-11-27"
+}

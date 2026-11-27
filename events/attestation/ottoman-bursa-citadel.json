@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ottoman-bursa-citadel",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-howard-ottoman-genesis",
+      "role": "supports",
+      "locator": "Chapter 1, pp. 9–12, especially pp. 10–11 and map 1.1. The destruction of the countryside, Orhan’s deed of 1324, Ibn Battuta’s visit in 1331–32, the capture generally dated to 1326 and the silver issue by the following year."
+    },
+    {
+      "sourceId": "source:bursa-basar-fetih",
+      "role": "supports",
+      "locator": "Printed pp. 132–135, especially pp. 134–135 and notes 23–28. The annalistic dates, predominance of AH 726, earlier proposals, and conflicting accounts by Oruç, Aşıkpaşazade, Neşri and Şükrullah of whether Osman lived to see the surrender."
+    },
+    {
+      "sourceId": "source:bursa-ibn-battuta-travels",
+      "role": "supports",
+      "locator": "Fordham Internet Medieval Sourcebook, passage on Bursa and the paragraph on Orkhan immediately following it. Compare the first-hand topographical description and the claim about the capture with the contemporary evidence discussed by Howard."
+    },
+    {
+      "sourceId": "source:bursa-cagaptay-prousa",
+      "role": "supports",
+      "locator": "In Remembering and Forgetting the Ancient City, chapter 7, pp. 167–169, figs 7.1–7.2. The walled hill, pre-Ottoman town, hot springs, east–west expansion, sites selected by Murad I and Bayezid I, and Bursa during the succession to Bayezid."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Orhan übernimmt die Burgstadt",
+    "en": "Orhan takes the fortified town"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1322,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1327,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:orhan-ghazi",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:osman-i",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:bursa-hisar-citadel"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:bursa-hisar-citadel-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Übergabe an Orhan wird gewöhnlich auf 1326 datiert. Spätere Chroniken und Kalender weichen beim Jahr und beim Tod seines Vaters Osman voneinander ab.",
+      "en": "Orhan’s capture of the town is usually dated to 1326. Later chronicles and calendars differ on the year and on whether his father Osman was still alive."
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-matthew-edessa-chronicle",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Chronicle of Matthew of Edessa",
+  "url": "https://archive.org/details/ChronicleMatthewEdessa",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Matthew of Edessa",
+    "Robert Bedrosian (translation from Classical Armenian)"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

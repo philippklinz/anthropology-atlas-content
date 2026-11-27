@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:sultan-han-aksaray-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.5469,
+      38.2483
+    ]
+  }
+}

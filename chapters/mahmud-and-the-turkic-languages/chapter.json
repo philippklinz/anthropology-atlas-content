@@ -1,0 +1,556 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:mahmud-and-the-turkic-languages",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-sims-williams-kanjaki",
+      "role": "supports",
+      "locator": "Encyclopaedia Iranica, vol. XV, fasc. 5, p. 502. Villages around Kashgar and limits on reconstructing the earlier language from Iranian-looking names for plants and vessels, including kändük."
+    },
+    {
+      "sourceId": "source:mahmud-kacalin-diwan",
+      "role": "supports",
+      "locator": "TDV İslâm Ansiklopedisi, vol. 9, pp. 446–449. Opening paragraphs on dates and readership. Sections 1–8, followed by paragraph on past-tense verb headwords. Map paragraph and omissions (Çigil, Suvar). Final paragraph, extent of 319 leaves."
+    },
+    {
+      "sourceId": "source:mahmud-horn-lexik",
+      "role": "supports",
+      "locator": "Dissertation, pp. 93–101. Dates and revisions, Cairo ownership note (CU 1), discussion on shared Kipchak and Turkmen forms in fifteen lines, attribution by handwriting, red rubrics and overwriting, vowel marks, colophon (CU 638, line 13) and alternatives Damascus or Cairo."
+    },
+    {
+      "sourceId": "source:mahmud-institution-diwan",
+      "role": "supports",
+      "locator": "Second edition. Imprint and pp. 19–21 for Millet Yazma Eser Kütüphanesi, Ali Emîrî Arabî 4189, court and dating. Eyewitness accounts pp. 21–32, especially Kilisli Rifat on broken binding, ordering and numbering the leaves pp. 30–31. Bibliography, entry for Kilisli’s first three-volume edition, Istanbul, 1333–1335 AH."
+    },
+    {
+      "sourceId": "source:mahmud-ersoy-acquisition",
+      "role": "supports",
+      "locator": "Dil Araştırmaları 23, pp. 79–93, in particular sections “Emiri Efendi Kitabı İlk Nerede Gördü?” and “Kitabın Bulunuş Tarihi” and the comparative chronology. Kilisli’s bookshop account, Ali Emîrî’s coffeehouse account and dating alternatives. First two volumes in 1915."
+    },
+    {
+      "sourceId": "source:mahmud-tibbetts-map",
+      "role": "supports",
+      "locator": "The History of Cartography, vol. 2, book 1, ch. 6, pp. 153, 155. Text, note 68 and fig. 6.17 on orientation, changing scale, colour scheme and unique surviving copy."
+    },
+    {
+      "sourceId": "source:mahmud-ehrensvard-map",
+      "role": "supports",
+      "locator": "Meddelanden 17, Swedish Research Institute in Istanbul, pp. 65–67. Annotated diagram and key on p. 67, especially no. 13 Kashgar, no. 21 Egypt and no. 23 the Maghreb and al-Andalus."
+    },
+    {
+      "sourceId": "source:mahmud-kashgar-geonames",
+      "role": "supports",
+      "locator": "City record 1280849, 39.46718 N, 75.98675 E. Reference point for unnamed villages around the oasis."
+    },
+    {
+      "sourceId": "source:mahmud-baghdad-geonames",
+      "role": "supports",
+      "locator": "City record 98182, 33.34058 N, 44.40088 E. Approximate location of the city addressed, not a specified palace."
+    },
+    {
+      "sourceId": "source:mahmud-burana-unesco",
+      "role": "supports",
+      "locator": "Component 1442-009, City of Balasagun (Site of Burana), N 42°44′48″, E 75°15′01″. Modern archaeological location for the city portrayed in the Dīwān."
+    },
+    {
+      "sourceId": "source:mahmud-damascus-geonames",
+      "role": "supports",
+      "locator": "City record 170654, 33.51020 N, 36.29128 E. Place associated with the copyist in his subscription."
+    },
+    {
+      "sourceId": "source:mahmud-cairo-geonames",
+      "role": "supports",
+      "locator": "City record 360630, 30.06263 N, 31.24967 E. City named in the owner’s annotation."
+    },
+    {
+      "sourceId": "source:mahmud-map-manuscript",
+      "role": "supports",
+      "locator": "Summary, licensing, and 31 January 2024 current revision, 15:50 UTC, 3226 × 2780 px. Public Domain Mark for the photographic reproduction. Compare Tibbetts, fig. 6.17 for the identification and orientation."
+    },
+    {
+      "sourceId": "source:orkhon-ross-inscriptions",
+      "role": "supports",
+      "locator": "Kül Tegin monument, South 1–13 and the southeast colophon, pp. 862–865, 871. Bilge Qaghan addresses his listeners, and Yollug Tegin names his work at the memorial."
+    }
+  ],
+  "labels": {
+    "de": "Mahmud von Kaschgar hört den Leuten zu",
+    "en": "Mahmud of Kashgar listens to people speak"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:mahmud-lexicon-kashgar",
+    "event:mahmud-lexicon-baghdad",
+    "event:mahmud-lexicon-balasagun",
+    "event:mahmud-lexicon-copyist",
+    "event:mahmud-lexicon-cairo",
+    "event:mahmud-lexicon-istanbul",
+    "asset:mahmud-world-map-ali-emiri-4189"
+  ],
+  "recordIds": [
+    "artifact:mahmud-diwan-ali-emiri-4189",
+    "artifact:mahmuds-diwan-work",
+    "asset:mahmud-world-map-ali-emiri-4189",
+    "event:mahmud-lexicon-baghdad",
+    "event:mahmud-lexicon-balasagun",
+    "event:mahmud-lexicon-cairo",
+    "event:mahmud-lexicon-copyist",
+    "event:mahmud-lexicon-istanbul",
+    "event:mahmud-lexicon-kashgar",
+    "geometry:baghdad-orientation",
+    "geometry:balasagun-at-burana-orientation",
+    "geometry:cairo-orientation",
+    "geometry:constantinople-orientation",
+    "geometry:damascus-orientation",
+    "geometry:kashgar-orientation",
+    "person:kilisli-rifat-bilge",
+    "person:mahmud-al-kashgari",
+    "person:muhammad-al-sawi-diwan-copyist",
+    "place:baghdad",
+    "place:balasagun-at-burana",
+    "place:cairo",
+    "place:constantinople",
+    "place:damascus",
+    "place:kashgar",
+    "source:gassman-wolfe-gothic-philippians",
+    "source:mahmud-baghdad-geonames",
+    "source:mahmud-burana-unesco",
+    "source:mahmud-cairo-geonames",
+    "source:mahmud-damascus-geonames",
+    "source:mahmud-dankoff-compendium",
+    "source:mahmud-ehrensvard-map",
+    "source:mahmud-ersoy-acquisition",
+    "source:mahmud-horn-lexik",
+    "source:mahmud-institution-diwan",
+    "source:mahmud-kacalin-diwan",
+    "source:mahmud-kashgar-geonames",
+    "source:mahmud-map-manuscript",
+    "source:mahmud-sims-williams-kanjaki",
+    "source:mahmud-tibbetts-map",
+    "source:orkhon-ross-inscriptions",
+    "source:pleiades-ancient-places"
+  ],
+  "steps": [
+    {
+      "id": "kashgar",
+      "textAnchor": "kashgar",
+      "labels": {
+        "de": "Aufzeichnung in den 1070er Jahren · Ein Wort für die Trinkschale",
+        "en": "Account written in the 1070s · A word for a drinking bowl"
+      },
+      "summary": {
+        "de": "Mahmud verzeichnet Kanjaki in den Dörfern um Kaschgar. Die Karte zeigt die Oase, der Zeitraum die Niederschrift seiner Beobachtungen.",
+        "en": "Mahmud records Kanjaki in the villages around Kashgar. The marker locates the oasis and the dates refer to his written account."
+      },
+      "state": {
+        "camera": {
+          "longitude": 75.98675,
+          "latitude": 39.46718,
+          "metersPerPixel": 740,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1072,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1077,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "baghdad",
+      "textAnchor": "baghdad",
+      "labels": {
+        "de": "1072 bis etwa 1074/77 · Was ein Leser in Bagdad mit dem Mond anfangen konnte",
+        "en": "1072 to c. 1074/77 · What the moon could teach a reader in Baghdad"
+      },
+      "summary": {
+        "de": "Unter ay erläutert Mahmud einen Vers und ein Sprichwort. Der Punkt steht für den Abbasidenhof, an den er sich wandte. Die genaue Zeit seiner letzten Überarbeitung ist umstritten.",
+        "en": "Mahmud explains a verse and a proverb under ay. The city marks the Abbasid court he addressed. The date of his final revision is disputed."
+      },
+      "state": {
+        "camera": {
+          "longitude": 44.40088,
+          "latitude": 33.34058,
+          "metersPerPixel": 550,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1072,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1077,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "balasagun",
+      "textAnchor": "balasagun",
+      "labels": {
+        "de": "Entwurf in den 1070er Jahren, Abschrift 1266 · Die Stadt in der Mitte der Weltkarte",
+        "en": "Design of the 1070s, manuscript of 1266 · A city near the centre of the world map"
+      },
+      "summary": {
+        "de": "Die Weltkarte rückt Balasagun und seine Umgebung in die Mitte. Der Punkt bezeichnet die dargestellte Stadt. Das erhaltene Kartenbild steht in der Abschrift von 1266.",
+        "en": "The world map gives Balasagun and its surroundings a central place. The marker locates the city portrayed. The surviving drawing belongs to the 1266 copy."
+      },
+      "state": {
+        "camera": {
+          "longitude": 75.25028,
+          "latitude": 42.74667,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1072,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1077,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:mahmud-world-map-ali-emiri-4189"
+    },
+    {
+      "id": "copyist",
+      "textAnchor": "copyist",
+      "labels": {
+        "de": "1266 · Der Mann, der mit roter Tinte arbeitete",
+        "en": "1266 · A copyist at work in red ink"
+      },
+      "summary": {
+        "de": "Das Schlusswort nennt Muhammad aus Sawa, später Damaskus, und datiert seine Abschrift auf 1266. Als Arbeitsort kommen Damaskus und Kairo in Betracht.",
+        "en": "The colophon names Muhammad of Sawa, later of Damascus, and dates the copy to 1266. Damascus and Cairo have both been proposed as the place of copying."
+      },
+      "state": {
+        "camera": {
+          "longitude": 36.29128,
+          "latitude": 33.5102,
+          "metersPerPixel": 700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1266,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1266,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "cairo",
+      "textAnchor": "cairo",
+      "labels": {
+        "de": "803 der Hidschra (1400/01) · Ein Streit am Rand der Titelseite",
+        "en": "AH 803 (1400–01) · An argument on a title page"
+      },
+      "summary": {
+        "de": "Ein Besitzvermerk nennt Kairo und das Jahr 803 der Hidschra. Ob die benachbarte Notiz über Turkmenisch und Kiptschakisch von demselben Leser stammt, ist umstritten.",
+        "en": "An ownership note names Cairo and the year AH 803. Scholars disagree whether a nearby note about Turkmen and Kipchak was written by the same reader."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.24967,
+          "latitude": 30.06263,
+          "metersPerPixel": 480,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1400,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1401,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "istanbul",
+      "textAnchor": "istanbul",
+      "labels": {
+        "de": "1915–1917 · Wie lose Blätter wieder ein Buch wurden",
+        "en": "1915–1917 · Putting loose leaves back in order"
+      },
+      "summary": {
+        "de": "Kilisli Rifat ordnete die losen Blätter der Handschrift. Zwischen 1915 und 1917 erschien seine Ausgabe in Istanbul in drei Bänden. Der Stadtpunkt bezeichnet den Erscheinungsort.",
+        "en": "Kilisli Rifat put the loose leaves in order. His three-volume edition appeared in Istanbul between 1915 and 1917. The city marks the place of publication."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.97,
+          "latitude": 41.01,
+          "metersPerPixel": 320,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 1915,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1915,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 1917,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1917,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Kinderspiel, ein Mehlgefäß und ein Sprichwort über den Vollmond führen in Mahmuds Wörterbuch. Am Rand der einzigen Handschrift streiten sich die Leser um die Sprache, in der es geschrieben ist.",
+      "en": "A children’s game, a flour jar and a saying about the full moon lead into Mahmud’s dictionary. In the margins of the only surviving copy, readers dispute the language of the book."
+    },
+    "topics": [
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
+      },
+      {
+        "id": "books-and-writing",
+        "labels": {
+          "de": "Bücher und Schrift",
+          "en": "Books and writing"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      },
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "inner-asia",
+        "labels": {
+          "de": "Innerasien",
+          "en": "Inner Asia"
+        }
+      },
+      {
+        "id": "mesopotamia",
+        "labels": {
+          "de": "Mesopotamien",
+          "en": "Mesopotamia"
+        }
+      },
+      {
+        "id": "levant",
+        "labels": {
+          "de": "Levante",
+          "en": "Levant"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      },
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 52.47837,
+      "latitude": 36.40465,
+      "metersPerPixel": 13163,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1072,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1072,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1917,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1917,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

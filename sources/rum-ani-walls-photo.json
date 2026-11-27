@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-ani-walls-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Walls of Ani",
+  "url": "https://commons.wikimedia.org/wiki/File:Walls_of_Ani.jpg",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Marko Anastasov"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2008"
+}

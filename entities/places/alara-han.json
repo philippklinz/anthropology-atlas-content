@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:alara-han",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-altun-alara",
+      "role": "supports",
+      "locator": "Entry Alara Hanı, text on the riverbank and Alanya–Konya road, AH 629 inscription, central passage and surrounding ranges, proposed uses of the outer and inner spaces, fountain and prayer room."
+    },
+    {
+      "sourceId": "source:rum-roads-redford-inscriptions",
+      "role": "supports",
+      "locator": "In A mari usque ad mare, pp. 221–234. §2, pp. 222–223, on building scale, the Mongol victory and Karatay. §3, pp. 223–224, on the Alara Han inscription, regional setting and claims over Armenians and Franks."
+    },
+    {
+      "sourceId": "source:rum-roads-alara-location",
+      "role": "supports",
+      "locator": "GPS coordinates of the caravanserai (36.692501° N, 31.724199° E) above the Description section. The article distinguishes the building from the nearby castle, river and waterfall."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Alara Han am Alara-Fluss",
+    "en": "Alara Han on the Alara River"
+  }
+}

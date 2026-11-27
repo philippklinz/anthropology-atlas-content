@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:karatay-madrasa-waqfiyya",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dogan-karatay-teaching-and-endowment",
+      "role": "supports",
+      "locator": "Printed pp. 435–436, section on Karatay; p. 436, table 3 and adjacent paragraphs give days of instruction, Sunni schools, salaries, first charges on revenue, and the inscriptions naming prophets in the dome supports. The discussion explicitly qualifies the astronomical interpretation."
+    },
+    {
+      "sourceId": "source:mwnf-konya-karatay-madrasa",
+      "role": "supports",
+      "locator": "Description, layout of the entrance, west teaching iwan and winter classrooms, student cells, central pool and oculus, lower hexagonal tiles and tiled pendentives. How Monument was dated gives AH 649 and identifies the endowment instrument dated 25 Jumada I 651."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Stiftungsurkunde der Karatay-Medrese",
+    "en": "Endowment deed of the Karatay Madrasa"
+  }
+}

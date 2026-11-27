@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mahmud-burana-unesco",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Silk Roads: the Routes Network of Chang’an–Tianshan Corridor. Maps",
+  "url": "https://whc.unesco.org/en/list/1442/maps/",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:jindas-near-lydda-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      34.906,
+      31.9681
+    ]
+  }
+}

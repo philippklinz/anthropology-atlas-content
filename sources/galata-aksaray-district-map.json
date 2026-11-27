@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-aksaray-district-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Aksaray Mahallesi Haritası — Fatih, İstanbul",
+  "url": "https://harita.org/istanbul/fatih/aksaray/",
+  "sourceType": "dataset",
+  "language": "tr",
+  "creators": [
+    "harita.org"
+  ],
+  "accessedAt": "2026-11-27"
+}

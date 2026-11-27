@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:tonyukuk-pillars",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-tekin-grammar",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–11, and editions, pp. 261–289. Tonyukuk I W 1–7, I S 1–5 and II E 4–8 for the counsellor’s narrative. KT S 1–13, E 1–5, N 9–13 and NE, SE for the court address, dates, mourners and work. BK E 2–24, S 10–15, N 9–10 and SW for shared text, funerary gifts, marriages and the second colophon."
+    },
+    {
+      "sourceId": "source:orkhon-sinor-klyashtorny",
+      "role": "supports",
+      "locator": "Chapter 14, pp. 335–336, “Resurgence of the Türk Empire”, and pp. 336–339, “Political and social structure” and “Relations with China”. Defeat in 630, Tang service, Ilterish and Tonyukuk in the 680s, and relocation of the political centre to Ötüken."
+    },
+    {
+      "sourceId": "source:orkhon-tonyukuk-dating",
+      "role": "supports",
+      "locator": "Söylem 9.1, p. 385, paragraph on the Tonyukuk inscriptions. Lists proposed years 715 (Giraud), 716 (Clauson), 720–725 (Tekin), 726 (Bazin) and 732–734 (Sertkaya and Aydın). The date window represents alternative proposals."
+    },
+    {
+      "sourceId": "source:orkhon-mert-bain-tsokto",
+      "role": "supports",
+      "locator": "IX. Uluslararası Türk Dili Kurultayı, vol. 2, pp. 1393–1395, especially the first paragraph of the site description, p. 1394. Locates the complex 46.5 km southeast of Ulaanbaatar at 47°41′40.42″ N, 107°28′33.09″ E."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Tonyukuks Inschriftenpfeiler",
+    "en": "Tonyukuk’s inscribed pillars"
+  }
+}

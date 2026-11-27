@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:divrigi-minbar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bakirer-divrigi-inscriptions-and-foundation",
+      "role": "supports",
+      "locator": "Printed pp. 87–90, “Documents for Dating the Building”. Transcribes and locates signatures, describes the twelve-pointed star and rail on the east face of the minbar, gives AH 638 and compares opinions on the 22-line mosque charter and the loss of the hospital deed."
+    },
+    {
+      "sourceId": "source:qantara-divrigi-inscriptions",
+      "role": "supports",
+      "locator": "Inscriptions, individual entries for the north and west mosque portals, mihrab dome, west hospital portal, mosque minbar balustrade and central star. Includes Arabic terms and English renderings."
+    },
+    {
+      "sourceId": "source:mwnf-divrigi-mosque-hospital",
+      "role": "supports",
+      "locator": "Description, passages on the north and west portals, pseudo-kündekari and openwork of the wooden minbar, and the three-iwan hospital with partial upper floor. How Monument was dated, two AH 626 inscriptions."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Minbar der Großen Moschee von Divriği",
+    "en": "Minbar of the Great Mosque at Divriği"
+  }
+}

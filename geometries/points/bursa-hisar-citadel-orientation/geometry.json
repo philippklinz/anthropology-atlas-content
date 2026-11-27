@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:bursa-hisar-citadel-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-howard-ottoman-genesis",
+      "role": "supports",
+      "locator": "Chapter 1, pp. 9–12, especially pp. 10–11 and map 1.1. The destruction of the countryside, Orhan’s deed of 1324, Ibn Battuta’s visit in 1331–32, the capture generally dated to 1326 and the silver issue by the following year."
+    },
+    {
+      "sourceId": "source:bursa-basar-fetih",
+      "role": "supports",
+      "locator": "Printed pp. 132–135, especially pp. 134–135 and notes 23–28. The annalistic dates, predominance of AH 726, earlier proposals, and conflicting accounts by Oruç, Aşıkpaşazade, Neşri and Şükrullah of whether Osman lived to see the surrender."
+    },
+    {
+      "sourceId": "source:bursa-ibn-battuta-travels",
+      "role": "supports",
+      "locator": "Fordham Internet Medieval Sourcebook, passage on Bursa and the paragraph on Orkhan immediately following it. Compare the first-hand topographical description and the claim about the capture with the contemporary evidence discussed by Howard."
+    },
+    {
+      "sourceId": "source:bursa-cagaptay-prousa",
+      "role": "supports",
+      "locator": "In Remembering and Forgetting the Ancient City, chapter 7, pp. 167–169, figs 7.1–7.2. The walled hill, pre-Ottoman town, hot springs, east–west expansion, sites selected by Murad I and Bayezid I, and Bursa during the succession to Bayezid."
+    },
+    {
+      "sourceId": "source:bursa-heritage-site-locations",
+      "role": "derivation",
+      "locator": "UNESCO 1452-002, tombs within the citadel, 40°11′13″ N, 29°03′27″ E. Orientation on the walled hill; precise location of the surrender unknown."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: UNESCO World Heritage Centre.",
+    "sourceUrl": "https://whc.unesco.org/en/list/1452/maps/",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

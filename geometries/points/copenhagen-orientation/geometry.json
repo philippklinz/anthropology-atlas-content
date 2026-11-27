@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:copenhagen-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-thomsen-alphabet",
+      "role": "supports",
+      "locator": "Opening paragraphs, pp. 9–10. Thomsen describes his 1893 notice, distinguishing vowels from consonants and the three starting points tängri, Kül Tigin and türk. Bibliography in Tekin, p. 412, records the 1890 Finnish expedition and its 1892 facsimile publication."
+    },
+    {
+      "sourceId": "source:orkhon-thomsen-biography",
+      "role": "supports",
+      "locator": "Biographical section, paragraphs beginning “Vilhelm Thomsens ry” and “Redegørelsen”. December 1893 presentation to the Royal Danish Academy, and the later annotated edition."
+    },
+    {
+      "sourceId": "source:orkhon-tekin-grammar",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–11, and editions, pp. 261–289. Tonyukuk I W 1–7, I S 1–5 and II E 4–8 for the counsellor’s narrative. KT S 1–13, E 1–5, N 9–13 and NE, SE for the court address, dates, mourners and work. BK E 2–24, S 10–15, N 9–10 and SW for shared text, funerary gifts, marriages and the second colophon."
+    },
+    {
+      "sourceId": "source:orkhon-turanskaya-estampages",
+      "role": "supports",
+      "locator": "Abstract and catalogue in Vostok (Oriens), DOI 10.31857/S086919080020112-0. Klementz in 1897, Radloff’s 1899 edition with seventeen photographs of impressions, and the usefulness of preserved copies for disputed readings."
+    },
+    {
+      "sourceId": "source:orkhon-copenhagen-coordinates",
+      "role": "supports",
+      "locator": "GeoNames 2618425, København, capital of Denmark. City reference point 55.67594° N, 12.56553° E, for the presentation to the Danish Academy."
+    },
+    {
+      "sourceId": "source:orkhon-copenhagen-coordinates",
+      "role": "derivation",
+      "locator": "GeoNames 2618425, city reference point for Copenhagen."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Rounded to a schematic city point. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.geonames.org/2618425/copenhagen.html",
+    "originNote": "A schematic point at the named site or district. See the station and the coordinate reference for its interpretation."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-thomsen-biography",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Vilhelm Thomsen, Dansk Biografisk Leksikon",
+  "url": "https://biografiskleksikon.lex.dk/Vilhelm_Thomsen",
+  "sourceType": "article",
+  "language": "da",
+  "creators": [
+    "Dansk Biografisk Leksikon, Lex"
+  ],
+  "accessedAt": "2026-11-27"
+}

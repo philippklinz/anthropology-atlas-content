@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jerusalem-tunshuq-archnet",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Qasr wa-Turbat al-Sitt Tunshuq al-Muzaffariyya",
+  "url": "https://www.archnet.org/sites/3733",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Archnet"
+  ],
+  "accessedAt": "2026-11-27"
+}

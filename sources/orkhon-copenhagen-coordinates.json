@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-copenhagen-coordinates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Copenhagen, Denmark",
+  "url": "https://www.geonames.org/2618425/copenhagen.html",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "GeoNames"
+  ],
+  "accessedAt": "2026-11-27"
+}

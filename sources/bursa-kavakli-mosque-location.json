@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-kavakli-mosque-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Kavaklı Cami",
+  "url": "https://rota.bursa.com.tr/mekanlar/kavakli-cami-276",
+  "sourceType": "catalog",
+  "language": "tr",
+  "creators": [
+    "Bursa Metropolitan Municipality"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ani-on-the-akhurian-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.5667,
+      40.5
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:anatolian-workshops-konya-pulpit",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:eyice-konya-alaeddin-minbar",
+      "role": "supports",
+      "locator": "Paragraphs beginning “Alâeddin Camii’nin içinde” and “Minberin şerefesinde”. Locations of the two royal names, Quran 40:16, dated balcony inscription, joinery and openwork. Eyice presents the sequence of the two commissions as a hypothesis."
+    },
+    {
+      "sourceId": "source:kesik-konya-mesud-inscription",
+      "role": "supports",
+      "locator": "Printed p. 134, transcription and discussion of the Konya minbar inscriptions, especially note 607. The master is associated with Ahlat and the work is dated Rajab AH 550."
+    },
+    {
+      "sourceId": "source:archnet-konya-alaeddin-complex",
+      "role": "supports",
+      "locator": "Site 3576. Description of the 1155 minbar and the rebuilding of the mosque in the early thirteenth century. Location, Alaettin Tepesi, with directions to the mosque at 37.873421 N, 32.492667 E."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Zwei Sultane an einer Kanzeltür",
+    "en": "Two sultans on a pulpit door"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1155,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1155,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:konya-alaeddin-minbar",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:alaeddin-mosque-konya"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:alaeddin-mosque-konya-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Tür und ihr Rahmen nennen Vater und Sohn. Eine weitere Inschrift datiert die Arbeit des Kanzelschnitzers aus Ahlat.",
+      "en": "Door and frame name father and son. A third inscription dates the work of the master from Ahlat."
+    }
+  }
+}

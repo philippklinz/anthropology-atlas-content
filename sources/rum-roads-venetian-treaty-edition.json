@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-venetian-treaty-edition",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Urkunden zur älteren Handels- und Staatsgeschichte der Republik Venedig, 2. Teil (1205–1255)",
+  "url": "https://www.cambridge.org/core/books/urkunden-zur-alteren-handels-und-staatsgeschichte-der-republik-venedig/882C2A33D728D61642A30879EE34EF1D",
+  "sourceType": "book",
+  "language": "la",
+  "creators": [
+    "Gottlieb Lukas Friedrich Tafel",
+    "Georg Martin Thomas"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1856"
+}

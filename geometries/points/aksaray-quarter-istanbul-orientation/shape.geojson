@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:aksaray-quarter-istanbul-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.95,
+      41.008
+    ]
+  }
+}

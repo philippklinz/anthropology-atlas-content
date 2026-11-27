@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-duesseldorf-view",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Map of Constantinople in Cristoforo Buondelmonti’s Liber insularum archipelagi, Düsseldorf copy",
+  "url": "https://commons.wikimedia.org/wiki/File:Map_of_Constantinople_by_Cristoforo_Buondelmonti,_D%C3%BCsseldorf_copy.png",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Unidentified fifteenth-century draughtsman in the Buondelmonti tradition. Manuscript of the City of Düsseldorf on loan to Universitäts- und Landesbibliothek Düsseldorf"
+  ],
+  "accessedAt": "2026-11-27"
+}

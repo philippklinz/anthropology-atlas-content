@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:anatolian-workshops-mosque-deed",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gulsoy-divrigi-mosque-farms",
+      "role": "supports",
+      "locator": "Printed pp. 243–244, section C, paragraph straddling the two pages, especially n. 67. The author distinguishes the original grant in Muharram 641 by Ahmed Shah and Fatma Hatun (named villages and rural holdings) from later additions in the 1519 register."
+    },
+    {
+      "sourceId": "source:bakirer-divrigi-inscriptions-and-foundation",
+      "role": "supports",
+      "locator": "Printed pp. 87–90, “Documents for Dating the Building”. Transcribes and locates signatures, describes the twelve-pointed star and rail on the east face of the minbar, gives AH 638 and compares opinions on the 22-line mosque charter and the loss of the hospital deed."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Fatma Hatun und die Erträge der Dörfer",
+    "en": "Fatma Hatun and the village harvests"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1243,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1243,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:fatma-hatun-of-divrigi",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:ahmet-shah-of-divrigi",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:great-mosque-and-hospital-divrigi"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:great-mosque-and-hospital-divrigi-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Urkunde nennt Fatma Hatun und ihren Sohn als Stifter von Einkünften für die Moschee. Die Datierung gilt der Stiftung. Wann das erhaltene Blatt geschrieben wurde, ist umstritten.",
+      "en": "The deed names Fatma Hatun and her son as donors of revenues for the mosque. The date is that of their grant. Scholars disagree about when the surviving sheet was written."
+    }
+  }
+}

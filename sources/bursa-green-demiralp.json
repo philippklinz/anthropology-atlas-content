@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-green-demiralp",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Yeşil Külliye (Green Complex)",
+  "url": "https://islamicart.museumwnf.org/database_item.php?id=monument%3BISL%3Btr%3BMon01%3B13%3Ben",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Yekta Demiralp, Museum With No Frontiers"
+  ],
+  "accessedAt": "2026-11-27"
+}

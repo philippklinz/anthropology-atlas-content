@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:bursa-green-mosque-mihrab",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-green-demiralp",
+      "role": "supports",
+      "locator": "Working no. TR 21, Description and How Monument was dated. Guest rooms with hearths and royal loge, portal inscription AH 822, cenotaph dated AH 824, inscription crediting the completion of decoration in Ramadan AH 827."
+    },
+    {
+      "sourceId": "source:bursa-blessing-tile-revetments",
+      "role": "supports",
+      "locator": "DOI 10.52214/uw.v32i.12541. Al-ʿUṣūr al-Wusṭā 32, pp. 387–390, figs 13–14 and discussion of the scope of the group signature, then pp. 394–397 on logistics and alternatives to an itinerant workshop."
+    },
+    {
+      "sourceId": "source:bursa-orhan-management-plan",
+      "role": "supports",
+      "locator": "Khans Area monument inventory, entries ‘Orhan Ghazi Mosque’, ‘Orhan Turkish Bath (Mirrored Bazaar)’ and ‘Emir Khan’. The door inscription recalls foundation in 1339, burning in 1413 and repair in 1417. The inn generated revenue for the complex."
+    },
+    {
+      "sourceId": "source:bursa-cagaptay-prousa",
+      "role": "supports",
+      "locator": "In Remembering and Forgetting the Ancient City, chapter 7, pp. 167–169, figs 7.1–7.2. The walled hill, pre-Ottoman town, hot springs, east–west expansion, sites selected by Murad I and Bayezid I, and Bursa during the succession to Bayezid."
+    },
+    {
+      "sourceId": "source:bursa-mihrab-gagnon",
+      "role": "supports",
+      "locator": "Photograph dated 3 June 2014, Summary and Licensing. The named subject is the prayer niche in Bursa's Green Mosque. Original image 3307 × 5072, offered by its author under CC BY-SA 3.0 among other licences."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Der Mihrab der Grünen Moschee in Bursa",
+    "en": "Mihrab of the Green Mosque in Bursa"
+  }
+}

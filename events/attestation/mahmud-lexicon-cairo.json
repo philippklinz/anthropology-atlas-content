@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mahmud-lexicon-cairo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mahmud-horn-lexik",
+      "role": "supports",
+      "locator": "Dissertation, pp. 93–101. Dates and revisions, Cairo ownership note (CU 1), discussion on shared Kipchak and Turkmen forms in fifteen lines, attribution by handwriting, red rubrics and overwriting, vowel marks, colophon (CU 638, line 13) and alternatives Damascus or Cairo."
+    },
+    {
+      "sourceId": "source:mahmud-dankoff-compendium",
+      "role": "supports",
+      "locator": "Introduction pp. 6–14, 23–25 on dates, manuscript and hands. Preface and dialects, pp. 70–85, especially p. 84 on settlements around Kashgar. Entries ötüš (game), adaš (close friend), idiš (drinking bowl, wider sense among the named groups) and uwuš (crumbs), p. 104. Āy (moon, month, summer verse and full-moon proverb), p. 119. Kändük (Känčäk flour container), p. 357. The map is inset between pp. 82 and 83."
+    },
+    {
+      "sourceId": "source:mahmud-cairo-geonames",
+      "role": "supports",
+      "locator": "City record 360630, 30.06263 N, 31.24967 E. City named in the owner’s annotation."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Streit am Rand der Titelseite",
+    "en": "An argument on a title page"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1400,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1401,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:mahmud-diwan-ali-emiri-4189",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:cairo"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:cairo-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Ein Besitzvermerk nennt Kairo und das Jahr 803 der Hidschra. Ob die benachbarte Notiz über Turkmenisch und Kiptschakisch von demselben Leser stammt, ist umstritten.",
+      "en": "An ownership note names Cairo and the year AH 803. Scholars disagree whether a nearby note about Turkmen and Kipchak was written by the same reader."
+    }
+  }
+}

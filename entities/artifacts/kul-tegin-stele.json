@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:kul-tegin-stele",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:orkhon-tekin-grammar",
+      "role": "supports",
+      "locator": "Introduction, pp. 8–11, and editions, pp. 261–289. Tonyukuk I W 1–7, I S 1–5 and II E 4–8 for the counsellor’s narrative. KT S 1–13, E 1–5, N 9–13 and NE, SE for the court address, dates, mourners and work. BK E 2–24, S 10–15, N 9–10 and SW for shared text, funerary gifts, marriages and the second colophon."
+    },
+    {
+      "sourceId": "source:orkhon-ross-inscriptions",
+      "role": "supports",
+      "locator": "Monument I, S 1–13, N 9–13, NE and SE, pp. 862–865, 870–871. The NE inscription separates the funeral from completion in the following animal year. The SE colophon records twenty days. Note 2, pp. 872–873, gives the reciprocal Türgesh marriages on monument II."
+    },
+    {
+      "sourceId": "source:orkhon-smahelova-entrance",
+      "role": "supports",
+      "locator": "Dissertation, §2.5.2.1, “The entrance part (Trench 2, 8, 9)”, pp. 35–37, figs. 5–6. Plan of the eastern approach, photographs of the ram statues and fragments of roof tile and red plaster."
+    },
+    {
+      "sourceId": "source:orkhon-parker-imperial-inscription",
+      "role": "supports",
+      "locator": "Appendix, printed pp. 212–216, particularly p. 214, paragraphs on the relationship with the Tang and on the qağan as an adopted son. The emperor extends that kinship language to Kül Tegin, the younger brother."
+    },
+    {
+      "sourceId": "source:orkhon-coordinate",
+      "role": "supports",
+      "locator": "Orkhon Valley Cultural Landscape Management Plan, §3.1.5, pp. 25–26, site coordinate table, row 1, “Turkish Memorials of Khöshöö Tsaidam”. The Kul tegin and Bilge Khan rows give 47°33′24.91″ N with 102°49′53.85″ E and 102°50′11.58″ E. The printed latitude and longitude column headings are transposed. A rounded midpoint orients the reader to the paired complexes."
+    },
+    {
+      "sourceId": "source:orkhon-kul-tegin-photograph",
+      "role": "supports",
+      "locator": "Summary, author and licensing, original photograph of 15 July 2015, portrait display 3,648 × 5,472 pixels. CC BY-SA 4.0. The stone and its fracture are visible in the museum display."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Stele für Kül Tegin",
+    "en": "Kül Tegin stele"
+  }
+}

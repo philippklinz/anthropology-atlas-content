@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-sultanhani-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sultanhan – Aksaray",
+  "url": "https://www.kulturportali.gov.tr/turkiye/aksaray/gezilecekyer/sultanhani",
+  "sourceType": "catalog",
+  "language": "tr",
+  "creators": [
+    "Türkiye Kültür Portalı, Aksaray İl Kültür ve Turizm Müdürlüğü"
+  ],
+  "accessedAt": "2026-11-27"
+}

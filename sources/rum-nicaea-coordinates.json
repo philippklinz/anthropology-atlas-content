@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-nicaea-coordinates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "İznik, Türkiye",
+  "url": "https://www.geonames.org/745026/iznik.html",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "GeoNames"
+  ],
+  "accessedAt": "2026-11-27"
+}

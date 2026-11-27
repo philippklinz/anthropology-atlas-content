@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:buondelmonti-duesseldorf-g13-f54r",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:galata-effenberger-city-views",
+      "role": "supports",
+      "locator": "The Byzantine Harbours of Constantinople, pp. 19–24, figs. 2 and 4. Paper watermarks and pictorial evidence for the Düsseldorf copy’s date, Pera and Constantinople on fol. 54r, Valens aqueduct, Kontoskalion/Kadırgalimanı with basins, gate, five shipsheds and a galley."
+    },
+    {
+      "sourceId": "source:galata-duesseldorf-view",
+      "role": "supports",
+      "locator": "Düsseldorf, MS G 13, fol. 54r. Full 2,184 × 3,181 PNG and its file-history and licensing sections (faithful reproduction, Public Domain Mark). Dating and attribution to this copy are checked against Effenberger, fig. 2."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Konstantinopel und Pera im Inselbuch, Düsseldorf, G 13, Bl. 54r",
+    "en": "Constantinople and Pera in the Book of Islands, Düsseldorf, G 13, fol. 54r"
+  }
+}

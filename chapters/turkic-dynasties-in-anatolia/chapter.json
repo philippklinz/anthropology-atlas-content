@@ -284,6 +284,13 @@
           "de": "Städtisches Leben",
           "en": "Urban life"
         }
+      },
+      {
+        "id": "turkic-and-ottoman-history",
+        "labels": {
+          "de": "Türkische und osmanische Geschichte",
+          "en": "Turkic and Ottoman history"
+        }
       }
     ],
     "periods": [

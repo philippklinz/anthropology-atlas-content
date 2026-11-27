@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:bursa-hisar-citadel-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.0575,
+      40.1869
+    ]
+  }
+}

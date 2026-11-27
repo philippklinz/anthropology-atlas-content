@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-dynastic-branches",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Timeline: Seljuk of Rum (Anatolia)",
+  "url": "https://www.archnet.org/collections/2373",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "Archnet, Aga Khan Documentation Center at MIT"
+  ],
+  "accessedAt": "2026-11-27"
+}

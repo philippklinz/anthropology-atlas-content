@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-sultan-han-repair",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sultan Han",
+  "url": "https://www.anadoluselcuklumimarisi.com/360/veri-tabani/sultan-han",
+  "sourceType": "catalog",
+  "language": "tr",
+  "creators": [
+    "Anadolu Selçuklu Mimarisi"
+  ],
+  "accessedAt": "2026-11-27"
+}

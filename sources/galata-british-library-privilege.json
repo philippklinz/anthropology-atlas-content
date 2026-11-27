@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-british-library-privilege",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Grant by Mahomet II., Sultan of the Ottoman Turks, to the Genoese inhabitants of Galata",
+  "url": "https://searcharchives.bl.uk/catalog/032-001984873",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "British Library, Archives and Manuscripts Catalogue"
+  ],
+  "accessedAt": "2026-11-27"
+}

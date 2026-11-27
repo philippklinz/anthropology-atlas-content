@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:cairo-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.2497,
+      30.0626
+    ]
+  }
+}

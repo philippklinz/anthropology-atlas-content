@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hurrem-endowment-portions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jerusalem-kitchen-singer",
+      "role": "supports",
+      "locator": "Introduction pp. 1–3, translation of the foundation conditions and map I.1 of the kitchen on the lane above al-Wad. Chapter 2, pp. 39–70, especially pp. 46–65 on revenues, employees and provisioning."
+    },
+    {
+      "sourceId": "source:jerusalem-kitchen-service",
+      "role": "supports",
+      "locator": "Journal of Interdisciplinary History 35.3, pp. 485–487 with note 8. The Jerusalem menu, the night before Friday, portions and the order in which the staff, residents and poor ate. DOI 10.1162/0022195052564252. Author’s accessible copy."
+    },
+    {
+      "sourceId": "source:jerusalem-charter-tiem-2192",
+      "role": "supports",
+      "locator": "Inventory 2192. Description, provenance and colophon, AH 964. Fol. 1a for the tuğra, 9b–10a for the Jerusalem buildings, 12a–14b for expenditure, 49a for the founder’s seal and witnesses."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Schale für zwei",
+    "en": "One bowl between two"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1557,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1557,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "organization:haseki-jerusalem-waqf",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:haseki-imaret-jerusalem"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:haseki-imaret-jerusalem-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Stiftungsbestimmungen von 1557 sehen für zwei Arme zusammen eine Kelle Suppe vor. Personal und Herbergsgäste erhielten andere Portionen.",
+      "en": "The foundation terms of 1557 allowed two poor people one ladle of soup between them. Employees and hostel guests had different portions."
+    }
+  }
+}

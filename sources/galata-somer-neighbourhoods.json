@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-somer-neighbourhoods",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pera/Galata: Neighbourhoods and Churches of a Late Medieval Genoese City",
+  "url": "https://www.levantineheritage.com/pdf/Pera-Galata-neighbourhoods-and-churches-Somer.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Nazife Selma Somer, Koç University"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

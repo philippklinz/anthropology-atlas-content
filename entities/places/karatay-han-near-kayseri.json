@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:karatay-han-near-kayseri",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-roads-rogers-waqf",
+      "role": "supports",
+      "locator": "Anatolian Studies 26, pp. 69–103, especially n. 32 on the two portals, the inscription of 638 AH, the disagreement over Karatay’s building role and the deed inscribed in 645 AH."
+    },
+    {
+      "sourceId": "source:rum-roads-redford-inscriptions",
+      "role": "supports",
+      "locator": "In A mari usque ad mare, pp. 221–234. §2, pp. 222–223, on building scale, the Mongol victory and Karatay. §3, pp. 223–224, on the Alara Han inscription, regional setting and claims over Armenians and Franks."
+    },
+    {
+      "sourceId": "source:rum-roads-karatay-hani",
+      "role": "supports",
+      "locator": "Karatay Hanı, paragraphs on the hall with rock-cut troughs and tethering holes, the two entrance inscriptions and the foundation’s provisions. Embedded map centres on the monument at 38.643978° N, 35.935351° E."
+    },
+    {
+      "sourceId": "source:cambridge-anatolia-under-mongols",
+      "role": "supports",
+      "locator": "The Cambridge History of Turkey, vol. 1, chapter 3, sections on Köse Dağ in 1243 and the consequences for Seljuk government."
+    },
+    {
+      "sourceId": "source:rum-roads-turan-karatay-deed",
+      "role": "supports",
+      "locator": "Belleten 12/45. Pp. 55–58 on kitchen and staff, 63–67 on income and shops, 84 on the 10.64 m scroll and its two faces. Edition of the Arabic deed and addenda pp. 90–108, Turkish translation pp. 109–128, esp. pp. 113–115, lines 145–230, on pay, equipment and beneficiaries, and p. 117, lines 293–295, on the written deed in 645 AH."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Karatay Han östlich von Kayseri",
+    "en": "Karatay Han east of Kayseri"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursa-icomos-assessment",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bursa and Cumalikizik (Turkey), No 1452",
+  "url": "https://whc.unesco.org/document/152712",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "ICOMOS"
+  ],
+  "accessedAt": "2026-11-27"
+}

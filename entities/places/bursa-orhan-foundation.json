@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:bursa-orhan-foundation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-orhan-management-plan",
+      "role": "supports",
+      "locator": "Khans Area monument inventory, entries ‘Orhan Ghazi Mosque’, ‘Orhan Turkish Bath (Mirrored Bazaar)’ and ‘Emir Khan’. The door inscription recalls foundation in 1339, burning in 1413 and repair in 1417. The inn generated revenue for the complex."
+    },
+    {
+      "sourceId": "source:bursa-emir-han-inventory",
+      "role": "supports",
+      "locator": "Bursa architectural inventory A106, Ayrıntılı Tanımı. Windowless storerooms below, inhabited rooms with a window and hearth above, counts of rooms and the rear stable. The inventory records later restoration."
+    },
+    {
+      "sourceId": "source:bursa-icomos-assessment",
+      "role": "supports",
+      "locator": "Advisory body evaluation, Description of the property, component 1 (Orhan Ghazi complex, school, bath, kitchen and later town hall), components 2, 3, 5, 6 and 8, and History and development."
+    },
+    {
+      "sourceId": "source:bursa-cumalikizik-orhan-endowment",
+      "role": "supports",
+      "locator": "Bursa and Cumalıkızık property description. The village is identified as the waqf village belonging to the foundation of Orhan Ghazi."
+    },
+    {
+      "sourceId": "source:bursa-cagaptay-prousa",
+      "role": "supports",
+      "locator": "In Remembering and Forgetting the Ancient City, chapter 7, pp. 167–169, figs 7.1–7.2. The walled hill, pre-Ottoman town, hot springs, east–west expansion, sites selected by Murad I and Bayezid I, and Bursa during the succession to Bayezid."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Orhans Stiftung und das Handelsviertel von Bursa",
+    "en": "Orhan’s foundation and the khans district, Bursa"
+  }
+}

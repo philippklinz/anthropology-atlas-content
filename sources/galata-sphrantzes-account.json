@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-sphrantzes-account",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Siege and the Fall of Constantinople in 1453: Historiography, Topography, and Military Studies",
+  "url": "https://api.pageplace.de/preview/DT0400.9781317016090_A29962533/preview-9781317016090_A29962533.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Marios Philippides",
+    "Walter K. Hanak"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2011"
+}

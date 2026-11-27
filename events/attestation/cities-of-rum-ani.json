@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-rum-ani",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rum-aristakes-cities",
+      "role": "supports",
+      "locator": "Chapter 24, Armenian-era year 513, especially printed pp. 163–165 (Armenian pp. 134–136): two places of refuge, provisions, burial and usury. Chapter 25, pp. 167–171 (Armenian pp. 137–140): the names used for the two rulers, the captive’s release and his blinding."
+    },
+    {
+      "sourceId": "source:rum-ani-nomination",
+      "role": "supports",
+      "locator": "§1.d, geographical coordinates of the property (40°30′ N, 43°34′ E), and §3, Justification for Inscription, account of the Bagratid capital, Byzantine takeover in 1045, capture by Alp Arslan in 1064 and subsequent Shaddadid rule."
+    },
+    {
+      "sourceId": "source:rum-greenwood-armenian-cities",
+      "role": "supports",
+      "locator": "Author manuscript, discussion of the five city accounts including Ani, pp. 16–20, with particular attention to debt, interest, scriptural models and the differing urban societies depicted."
+    },
+    {
+      "sourceId": "source:rum-ani-walls-photo",
+      "role": "supports",
+      "locator": "File summary and licence review on Wikimedia Commons. The photographer dates the image 30 July 2008. CC BY 2.0 confirmed by Commons in June 2009, original file 3,072 × 2,304 px."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Alp Arslan nimmt Ani ein",
+    "en": "Alp Arslan captures Ani"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1064,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1064,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:alp-arslan",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:ani-on-the-akhurian"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ani-on-the-akhurian-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Aristakes erinnert an Männer und Frauen, die im Palast und in der inneren Festung Schutz suchten. Seine Klage über Ani richtet sich auch gegen das Geschäft mit den Schulden der Armen.",
+      "en": "Aristakes recalls people who sought refuge in the palace and inner fortress. His lament for Ani also reproaches those whose profits came from the debts of the poor."
+    }
+  }
+}

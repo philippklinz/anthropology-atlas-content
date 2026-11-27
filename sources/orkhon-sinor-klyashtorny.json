@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-sinor-klyashtorny",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Türk Empire, in History of Civilizations of Central Asia, vol. III",
+  "url": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_III%20silk%20road_the%20turk%20empire.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Denis Sinor",
+    "Sergey G. Klyashtorny"
+  ],
+  "accessedAt": "2026-11-27"
+}

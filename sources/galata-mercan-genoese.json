@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:galata-mercan-genoese",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "From the Genoese to the Perots: The Genoese Community in Byzantine/Ottoman Constantinople (14th–15th c.)",
+  "url": "https://dergipark.org.tr/en/download/article-file/2163955",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Fatma Özden Mercan"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2021"
+}

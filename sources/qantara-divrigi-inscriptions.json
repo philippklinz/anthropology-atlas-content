@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:qantara-divrigi-inscriptions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Mosque-hospital at Divrigi, decoration",
+  "url": "https://www.qantara-med.org/public/show_document.php?do_id=1208&lang=en",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Qantara, Institut du monde arabe"
+  ],
+  "accessedAt": "2026-11-27"
+}

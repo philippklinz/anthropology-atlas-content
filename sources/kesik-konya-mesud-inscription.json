@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kesik-konya-mesud-inscription",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "I. Rükneddin Mesud (1116–1155), in Türkiye Selçukluları ve Konya, I",
+  "url": "https://isamveri.org/pdfsbv/D01986/2023_I/2023_KESIKM.pdf",
+  "sourceType": "book",
+  "language": "tr",
+  "creators": [
+    "Muharrem Kesik"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2023"
+}

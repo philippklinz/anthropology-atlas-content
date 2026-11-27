@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ottoman-galata-survey",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:galata-survey-1455",
+      "role": "supports",
+      "locator": "Galata survey, preamble and quarters Zani Drapora and Zani Dabdan, pp. 217–222. The register survives in fragments. The preamble specifies poll-tax liability, property confiscated for the treasury and rent. See Somer, pp. 114, 123–125, for the text and named entries."
+    },
+    {
+      "sourceId": "source:galata-somer-neighbourhoods",
+      "role": "supports",
+      "locator": "MA thesis, pp. 41–43 on the envoys, pp. 113–118 on the scope, dating and omissions of the survey. Sections 3.6.1–2, pp. 123–125, record Marya Maryana’s houses and oven, the brothers de Franchi, Fabyan and Anton di Laştergo. Note 760 identifies the Genoese notarial act for the smith."
+    },
+    {
+      "sourceId": "source:galata-mercan-genoese",
+      "role": "supports",
+      "locator": "Tarih İncelemeleri Dergisi 36/2, pp. 601–604, especially notes 59–65. Compares Lomellino, Doukas and Barbaro, describes taxation and names Greek, Italian and Ottoman witnesses to the grant."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Marya Maryanas drei Häuser",
+    "en": "Marya Maryana’s three houses"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1455,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1455,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:marya-maryana-of-galata",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:ottoman-survey-of-galata-1455",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:galata-on-the-golden-horn"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:galata-on-the-golden-horn-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "In den Steueraufzeichnungen erscheinen die Witwe mit ihrem Backofen, der Schmied Anton und ein Gefangener, dessen Haus man eingezogen hatte. Der Punkt bezeichnet Galata, die einzelnen Baugrundstücke sind unbekannt.",
+      "en": "The tax register lists a widow and her oven, Anton the smith, and a captive whose house had been confiscated. The point marks Galata. The individual plots have not been located."
+    }
+  }
+}

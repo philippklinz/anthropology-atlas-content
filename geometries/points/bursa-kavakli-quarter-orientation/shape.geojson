@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:bursa-kavakli-quarter-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.0572,
+      40.1842
+    ]
+  }
+}

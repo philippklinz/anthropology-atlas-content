@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rum-roads-alara-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Alara Han Caravanserai",
+  "url": "https://www.turkisharchaeonews.net/object/alara-han-caravanserai",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "Izabela Miszczak, Turkish Archaeological News"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

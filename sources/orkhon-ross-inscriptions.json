@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-ross-inscriptions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Orkhon Inscriptions: Being a Translation of Professor Vilhelm Thomsen’s Final Danish Rendering",
+  "url": "https://peachv.org/images/Steppe/SteppeTurkOrkhonInscriptions.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Vilhelm Thomsen",
+    "E. Denison Ross (English translation)"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1930"
+}

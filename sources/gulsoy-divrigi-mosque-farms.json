@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gulsoy-divrigi-mosque-farms",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Malatya, Divriği ve Darende Sancaklarının I. Selim Devri Tahrîri (1519)",
+  "url": "https://isamveri.org/pdfsbv/D292673/2019/2019_GULSOYE.pdf",
+  "sourceType": "book",
+  "language": "tr",
+  "creators": [
+    "Ersin Gülsoy, in Yavuz Sultan Selim Dönemi ve Bursa, ed. Nilüfer Alkan Günay"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2019"
+}
