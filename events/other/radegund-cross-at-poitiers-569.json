@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:radegund-cross-at-poitiers-569",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-poitiers-cross-er1931",
+      "role": "supports",
+      "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+    },
+    {
+      "sourceId": "source:flierman-williard-radegund-letters",
+      "role": "supports",
+      "locator": "Introduction and “Playing the crowd”, “Beyond the gates”, “Reaching east”: Fortunatus and Baudonivia, the donations (Vita I.12–13), the Rule and communal gifts, and the eastern mission (Vita II.16)."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Der Empfang der Kreuzreliquie in Poitiers",
+    "en": "The reception of the cross relic at Poitiers"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 569,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 569,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:radegund-of-poitiers",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:szafranowski-poitiers-cross-er1931",
+          "role": "supports",
+          "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+        }
+      ]
+    },
+    {
+      "entityId": "person:eufronius-of-tours",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:szafranowski-poitiers-cross-er1931",
+          "role": "supports",
+          "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:poitiers-pictavis"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:poitiers-pictavis-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Gregor beschreibt den Empfang durch Eufronius und seinen Klerus. Die Datierung der vorausgegangenen Gesandtschaft auf 568 gilt als wahrscheinlich.",
+    "en": "Gregory describes the reception by Eufronius and his clergy. The preceding mission is usually placed around 568."
+  }
+}

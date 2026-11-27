@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:clovis-near-poitiers-507",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-tours-histories-ii-37",
+      "role": "supports",
+      "locator": "II.37. Passage through Touraine, hay taken from a poor man, defeat and death of Alaric and the losses among men from the Auvergne."
+    },
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47 and 56–61. Distance from Poitiers in Gregory’s narrative, Vouillé and Voulon among the proposed battle locations."
+    }
+  ],
+  "subjectId": "person:clovis-i",
+  "predicate": "located-at",
+  "objectId": "region:poitiers-battlefield-context",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 507,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 507,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:battlefield-near-poitiers-507",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der zehnte Meilenstein lässt mehrere Lokalisierungen zu. Beide Kapitel verwenden dieselbe Umrissfläche für diese Unsicherheit.",
+      "en": "The tenth milestone admits several possible locations. Both chapters use the same outline for this uncertainty."
+    }
+  },
+  "note": {
+    "de": "Chlodwig stand 507 Alarich II. in der Gegend von Poitiers gegenüber.",
+    "en": "Clovis faced Alaric II near Poitiers in 507."
+  }
+}

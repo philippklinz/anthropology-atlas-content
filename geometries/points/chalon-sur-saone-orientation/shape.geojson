@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:chalon-sur-saone-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.85,
+      46.78
+    ]
+  }
+}

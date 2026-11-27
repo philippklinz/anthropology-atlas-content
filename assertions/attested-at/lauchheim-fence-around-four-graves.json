@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:lauchheim-fence-around-four-graves",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:schoenenberg-farmsteads-and-fence-lines",
+      "role": "supports",
+      "locator": "pp. 298–302, figs. 4a–c. Reconstructed successive fence lines in the south-eastern sector. Phase II encloses four graves, including graves 24 and 25 dated to the last third of the seventh century."
+    }
+  ],
+  "subjectId": "artifact:lauchheim-second-farm-fence",
+  "predicate": "attested-at",
+  "objectId": "place:lauchheim-southeastern-farmstead",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 667,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 700,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Schematischer Nahbereich am Südostrand der Siedlung. Die Hoffläche und einzelne Gräber sind im Grabungsplan genauer zu sehen.",
+      "en": "Schematic vicinity on the south-eastern edge of the settlement. The excavated farm features and individual graves are mapped in the site plan."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:lauchheim-southeastern-farm-vicinity",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Der zweite Zaun umschloss vier Gräber. Zwei Kammern sind ins letzte Drittel des siebten Jahrhunderts datiert. Anfang und Ende der Zaunnutzung bleiben offen.",
+    "en": "The second fence enclosed four graves. Two chambers date to the last third of the seventh century. The years when the fence went up and came down remain open."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:merovingian-orleans",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:szafranowski-orleans-er1039",
+      "role": "supports",
+      "locator": "ER 1039, canon 5, Latin and translation: proceeds of gifts and fields from the king for buildings, support of priests and the poor, or ransoming captives."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q6548, P625, rounded to 0.01 degree."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Orléans",
+    "en": "Orléans"
+  },
+  "summary": {
+    "de": "In der Stadt an der Loire tagten 511 Bischöfe verschiedener gallischer Provinzen.",
+    "en": "Bishops from several Gallic provinces assembled in this Loire city in 511."
+  }
+}

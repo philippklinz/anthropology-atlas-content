@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:tournai-saint-brice-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q21493502, statement P625: rounded orientation coordinate."
+    },
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt markiert die spätere Kirche im Viertel Saint-Brice. Für die Lage der Gräber ist der Plan des Grabungsberichts maßgeblich.",
+    "en": "The point marks the later church in the Saint-Brice quarter. The excavation plan locates the graves relative to it."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q21493502 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q21493502",
+    "originNote": "Rounded Wikidata coordinate of the reference site. The historical feature is not surveyed here."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:connected-communities-clippiacum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "dataset",
+  "title": "Saint-Ouen-sur-Seine: Dagobert at Clippiaco",
+  "creators": [
+    "Connected Communities in Early Medieval Europe"
+  ],
+  "url": "https://www.earlymedievaleurope.org/attestation.php?attestationid=1135",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Geographical commentary with Latin text and English translation of a separate episode at the royal estate."
+}

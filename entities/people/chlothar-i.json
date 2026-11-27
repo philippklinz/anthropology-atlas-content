@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:chlothar-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.20–21. Childebert’s sickness and burial at Paris, Chlothar’s acquisition of the kingdom and treasure and his later burial by his four sons at Soissons."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+    },
+    {
+      "sourceId": "source:connected-communities-paris-399",
+      "role": "supports",
+      "locator": "Attestation 399. Gregory IV.20 for the death and burial of Childebert in Paris in 558."
+    },
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.40–42, especially pp. 34–35. Frankish succession in 613, the desertion of Sigibert’s army, the capture and death of Brunhild, and the account of Chlothar II taking power over the kingdoms."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chlothar I.",
+    "en": "Chlothar I"
+  },
+  "summary": {
+    "de": "Sohn Chlodwigs. Nach dem Tod Childeberts 558 vereinte er die Herrschaft bis zu seinem eigenen Tod 561.",
+    "en": "Son of Clovis. Following Childebert’s death in 558 he held the whole kingship until his own death in 561."
+  }
+}

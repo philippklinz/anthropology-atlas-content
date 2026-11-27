@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:bishops-at-first-council-of-orleans",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:halfond-vouille-orleans-conciliar-tradition",
+      "role": "supports",
+      "locator": "pp. 161–163, especially p. 163 and n. 60. Cyprian of Bordeaux and five further bishops attended both Agde in 506 and Orléans in 511; canon 5 and prisoners."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Die Bischöfe des Ersten Konzils von Orléans",
+    "en": "Bishops of the First Council of Orléans"
+  },
+  "summary": {
+    "de": "32 Bischöfe aus sieben gallischen Provinzen. Unter ihnen finden sich sechs Teilnehmer der Versammlung von Agde.",
+    "en": "Thirty-two bishops from seven Gallic provinces, including six who had attended the council at Agde."
+  }
+}

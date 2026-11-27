@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:radegund-entering-convent-ms-250",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:inha-poitiers-ms-250-folio-31v",
+      "role": "supports",
+      "locator": "Folio 31v, Poitiers BM 250 (136), Lieu de conservation, Période de création and Descripteurs iconographiques: Poitiers, c. 1100, Radegund withdrawing to the monastery."
+    },
+    {
+      "sourceId": "source:commons-radegund-entering-the-convent",
+      "role": "supports",
+      "locator": "Summary and licensing; file history, 2 May 2008: digital image from the municipal library at Poitiers, 1,082 × 850 px, faithful photographic reproduction under the Public Domain Mark."
+    }
+  ],
+  "assetType": "image",
+  "file": "folio-31v-detail.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Radegundes Klostereintritt, Miniatur aus Poitiers um 1100",
+    "en": "Radegund entering the convent, Poitiers miniature, c. 1100"
+  },
+  "alt": {
+    "de": "Radegunde hebt vor einer Arkade die Hand. Hinter ihr drängen sich Figuren, deren Köpfe in Reihen über den Bildgrund reichen.",
+    "en": "Radegund raises one hand in front of an arch. A crowd gathers behind her, its many heads arranged in rows."
+  },
+  "entityIds": [
+    "artifact:poitiers-ms-250-entry-into-the-convent",
+    "person:radegund-of-poitiers"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Unknown medieval illuminator, Poitiers (c. 1100)"
+    ],
+    "attribution": "Unknown illuminator. Poitiers, Bibliothèque municipale, MS 250 (136), fol. 31v. Image from Wikimedia Commons, Public Domain Mark 1.0 (PD-Art).",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Radegonde_se_retire_dans_le_monast%C3%A8re_d%C3%A9di%C3%A9_%C3%A0_la_Vierge.JPG",
+    "originNote": "Unmodified original 1,082 × 850 JPEG of a detail of the miniature. The source identifies a faithful reproduction of two-dimensional public-domain art. https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

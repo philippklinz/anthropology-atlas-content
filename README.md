@@ -2,7 +2,7 @@
 
 Independent historical content for the [Anthropology Atlas engine](https://github.com/philippklinz/anthropology-atlas-engine).
 
-Forty-two historical chapters are available in German and English.
+Fifty-two historical chapters are available in German and English.
 
 - [The Cradle of Humankind: early Homo sapiens in Africa](docs/research/cradle-of-humankind.md), including fossil evidence, stone tools and explicit dating uncertainty.
 - [Early Routes out of Africa: Misliya, Skhul, Qafzeh and Al Wusta](docs/research/early-routes-out-of-africa.md), with fossil evidence, environmental context and explicit dating limits.
@@ -45,7 +45,13 @@ Forty-two historical chapters are available in German and English.
 - [Ravenna under Theoderic](chapters/theoderic-and-ravenna/en.md), with the palace mosaic and the history of the aqueduct.
 - [From Toulouse to Toledo](chapters/visigoths-toulouse-to-toledo/en.md), including the royal foundation at Recópolis and Queen Baddo’s subscription in 589.
 
-The dataset contains 1,411 records, including 401 entities, 190 events, 124 assertions, 182 geometries, 365 sources, 61 images, two models, one interpretation group, 42 chapters and 43 packages. The historical records are research drafts. Chapter citations and map annotations describe the evidence and its precision.
+- [The Merovingians and the Frankish kingdoms](chapters/reading-merovingian-francia/en.md), with twelve dated stops linking nine other readings and both perspectives on Vouillé in 507.
+- [Childeric at Tournai](chapters/childeric-at-tournai/en.md), [Clovis and his bishops](chapters/clovis-and-his-bishops/en.md) and [the partitions of the Frankish kingdoms](chapters/partitioning-the-frankish-kingdoms/en.md), from a signet in a grave to shared cities and royal seats.
+- [Brunhild, Fredegund and Andelot](chapters/merovingian-queens-and-the-treaty/en.md) and [Radegund and the women of Poitiers](chapters/radegund-and-poitiers/en.md), with passages linked across the funeral and the treaty of 587.
+- [Frankish gold coins](chapters/merovingian-gold-coins/en.md) and [a village on the Jagst](chapters/life-in-a-merovingian-village/en.md), with both faces of a Dorestad coin and a household bed turned into a coffin.
+- [Dagobert and Saint-Denis](chapters/dagobert-and-saint-denis/en.md) and [the last Merovingian king](chapters/the-last-merovingian-king/en.md), including a surviving papyrus, two judgments for the same abbot and a return to Saint-Denis in 754.
+
+The dataset contains 1,795 records, including 515 entities, 238 events, 166 assertions, 227 geometries, 473 sources, 68 images, two models, one interpretation group, 52 chapters and 53 packages. The historical records are research drafts. Chapter citations and map annotations describe the evidence and its precision.
 
 `published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it. The early-dispersal package reuses Homo sapiens and Levallois identities through its explicit dependency on `package:human-origins`. The human-encounters package depends on the same owner for Homo sapiens and introduces cited genetic relationships between individual specimens and biological lineages.
 
@@ -81,4 +87,4 @@ All processing runs in the browser; selected files are not uploaded. The tool ca
 
 ## Chapter discovery
 
-All 42 chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. Ohalo II appears in the food and shelter chapters with a single canonical place record. Shubayqa 1 links the deglaciation chapter with the use of the hearths at the same site. The Palaeolithic and postglacial groups overlap in “As the Ice Retreats.” Uruk appears in the city and writing chapters through a single shared place and orientation point. Amarna appears in the court letters and shipwreck chapters with separately dated evidence. See [chapter discovery](docs/research/chapter-discovery.md) and the plans for the [Palaeolithic](docs/planning/palaeolithic.md), [postglacial lifeways](docs/planning/postglacial-lifeways.md), [early cities](docs/planning/early-cities-networks.md) and [kingdoms and trade networks](docs/planning/kingdoms-and-trade-networks.md).
+All 52 chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. Ohalo II appears in the food and shelter chapters with a single canonical place record. Shubayqa 1 links the deglaciation chapter with the use of the hearths at the same site. The Palaeolithic and postglacial groups overlap in “As the Ice Retreats.” Uruk appears in the city and writing chapters through a single shared place and orientation point. Amarna appears in the court letters and shipwreck chapters with separately dated evidence. See [chapter discovery](docs/research/chapter-discovery.md) and the plans for the [Palaeolithic](docs/planning/palaeolithic.md), [postglacial lifeways](docs/planning/postglacial-lifeways.md), [early cities](docs/planning/early-cities-networks.md) and [kingdoms and trade networks](docs/planning/kingdoms-and-trade-networks.md).

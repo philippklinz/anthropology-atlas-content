@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:oegstgeest-well-twelve-timber",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jezeer-oegstgeest-excavation",
+      "role": "supports",
+      "locator": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date."
+    }
+  ],
+  "subjectId": "artifact:oegstgeest-well-twelve",
+  "predicate": "attested-at",
+  "objectId": "place:oegstgeest-nieuw-rhijngeest-zuid",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 665,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 679,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Holz von Brunnen 12 ergibt 672 ± 7. Der Punkt bezeichnet die Grabungsfläche, der Befund liegt an der Südwand von Haus 2.",
+      "en": "The well timber dates to 672 ± 7. The point represents the excavation site. The well cut the south wall of house 2."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:oegstgeest-nieuw-rhijngeest-zuid-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Das Holz von Brunnen 12 ergibt 672 ± 7. Der Punkt bezeichnet die Grabungsfläche, der Befund liegt an der Südwand von Haus 2.",
+    "en": "The well timber dates to 672 ± 7. The point represents the excavation site. The well cut the south wall of house 2."
+  }
+}

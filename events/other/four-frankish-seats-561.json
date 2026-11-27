@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:four-frankish-seats-561",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.20–21. Childebert’s sickness and burial at Paris, Chlothar’s acquisition of the kingdom and treasure and his later burial by his four sons at Soissons."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+    },
+    {
+      "sourceId": "source:widdowson-merovingian-partitions",
+      "role": "supports",
+      "locator": "Abstract. Questions the degree to which Gregory’s pairing of 511 and 561 reflects formal settlements. His narrative served the political arguments of a later generation."
+    },
+    {
+      "sourceId": "source:loseby-civitas-and-frankish-regions",
+      "role": "supports",
+      "locator": "pp. 223–225, 237–239 and nn. 64–67. Shares in cities and aristocratic loyalty in the Treaty of Andelot. Gregory’s use of Burgundy and Austrasia, absence of Neustria in his work, and the emergence of the three regional kingdoms."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Vier Brüder, vier Königssitze",
+    "en": "Four brothers, four royal seats"
+  },
+  "note": {
+    "de": "Gregor ordnet nach dem Tod Chlothars I. vier Städte den Anteilen seiner Söhne zu. Alle vier Ortsbezüge bezeichnen Sitze, der Verhandlungsort bleibt offen.",
+    "en": "After Chlothar I’s death Gregory assigns four cities to his sons’ shares. All four references denote seats. The place of negotiation is unknown."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 561,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 561,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:charibert-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+        }
+      ]
+    },
+    {
+      "entityId": "person:guntram",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+        }
+      ]
+    },
+    {
+      "entityId": "person:chilperic-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+        }
+      ]
+    },
+    {
+      "entityId": "person:sigibert-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-paris",
+    "place:merovingian-orleans",
+    "place:merovingian-soissons",
+    "place:merovingian-reims"
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

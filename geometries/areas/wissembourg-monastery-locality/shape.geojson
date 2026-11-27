@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": "geometry:wissembourg-monastery-locality",
+  "properties": {},
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          7.91,
+          49.025
+        ],
+        [
+          7.933,
+          49.015
+        ],
+        [
+          7.977,
+          49.018
+        ],
+        [
+          7.992,
+          49.046
+        ],
+        [
+          7.97,
+          49.065
+        ],
+        [
+          7.921,
+          49.062
+        ],
+        [
+          7.91,
+          49.025
+        ]
+      ]
+    ]
+  }
+}

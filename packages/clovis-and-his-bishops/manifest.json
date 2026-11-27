@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:clovis-and-his-bishops",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Chlodwig und seine Bischöfe",
+    "en": "Clovis and his bishops"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:maritime-shared",
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "artifact:avitus-letter-on-clovis-baptism",
+    "artifact:clovis-letter-on-captives",
+    "artifact:remigius-advice-letter-to-clovis",
+    "assertion:bishops-at-orleans-511",
+    "assertion:clovis-at-tours-508",
+    "assertion:clovis-near-poitiers-507",
+    "assertion:cyprian-of-bordeaux-at-agde-506",
+    "assertion:cyprian-of-bordeaux-at-orleans-511",
+    "assertion:reims-episcopal-seat-under-remigius",
+    "chapter:clovis-and-his-bishops",
+    "community:bishops-at-first-council-of-orleans",
+    "event:anastasius-confers-honours-on-clovis",
+    "event:avitus-congratulates-clovis",
+    "event:clovis-baptism-at-christmas",
+    "event:clovis-honours-at-tours-508",
+    "event:clovis-writes-on-captives",
+    "event:first-council-of-orleans-511",
+    "event:remigius-advises-clovis",
+    "geometry:merovingian-orleans-orientation",
+    "geometry:merovingian-orleans-urban-context",
+    "geometry:merovingian-reims-orientation",
+    "geometry:merovingian-tours-orientation",
+    "geometry:merovingian-tours-urban-context",
+    "organization:episcopal-see-of-reims",
+    "person:anastasius-i",
+    "person:avitus-of-vienne",
+    "person:cyprian-of-bordeaux",
+    "person:remigius-of-reims",
+    "place:merovingian-orleans",
+    "place:merovingian-reims",
+    "place:merovingian-tours",
+    "source:avitus-of-vienne-letter-46",
+    "source:barrett-woudhuysen-remigius-clovis",
+    "source:clovis-letter-to-the-bishops-bk1",
+    "source:cologne-clovis-bishops-bk1",
+    "source:gregory-histories-krusch-levison",
+    "source:halfond-orleans-first-council",
+    "source:halfond-vouille-orleans-conciliar-tradition",
+    "source:mathisen-clovis-anastasius-508",
+    "source:saint-remi-reims-baptistery",
+    "source:schenck-reims-in-merowingischer-zeit",
+    "source:shanzer-dating-baptism-of-clovis",
+    "source:szafranowski-orleans-er1039",
+    "source:wood-arians-catholics-and-vouille"
+  ],
+  "entryChapterIds": [
+    "chapter:clovis-and-his-bishops"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "migration-maps"
+  ]
+}

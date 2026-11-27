@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:autun-siege-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.3,
+      46.94
+    ]
+  }
+}

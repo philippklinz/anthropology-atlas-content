@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:cahors-cadurcis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    },
+    {
+      "sourceId": "source:baroin-marriage-and-property-2013",
+      "role": "supports",
+      "locator": "pp. 103–104: Galswinth, marriage property, the immediate grant of Cahors to Brunhild and the four other cities retained by Guntram for his lifetime."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q23047, coordinate location (P625). Rounded to two decimal places."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Cahors am Lot",
+    "en": "Cahors on the Lot"
+  },
+  "summary": {
+    "de": "Im Vertrag von Andelot wird Brunichild das sofortige Recht an Cahors zugesprochen.",
+    "en": "The Andelot agreement grants Brunhild immediate rights in Cahors."
+  }
+}

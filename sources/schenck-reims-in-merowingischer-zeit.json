@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schenck-reims-in-merowingischer-zeit",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Reims in merowingischer Zeit: Stadt, Civitas, Bistum",
+  "sourceType": "book",
+  "creators": [
+    "Guntram Freiherr Schenk zu Schweinsberg"
+  ],
+  "containerTitle": "Rheinische Friedrich-Wilhelms-Universität Bonn, dissertation",
+  "url": "https://www.mgh-bibliothek.de/dokumente/0/092793.pdf",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Part II discusses the episcopate of Remigius, his own testimony on its length and the dating evidence.",
+  "published": "1971"
+}

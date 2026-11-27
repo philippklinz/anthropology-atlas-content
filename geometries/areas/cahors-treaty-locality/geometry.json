@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:cahors-treaty-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:baroin-marriage-and-property-2013",
+      "role": "supports",
+      "locator": "pp. 103–104: Galswinth, marriage property, the immediate grant of Cahors to Brunhild and the four other cities retained by Guntram for his lifetime."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q23047, P625, rounded city reference."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Fläche hebt die im Vertrag genannte Stadt hervor. Die Grenzen ihres Territoriums und der Aufenthalt der Königin lassen sich aus dieser Klausel nicht kartieren.",
+    "en": "The area highlights the city named in the treaty. This clause cannot locate its territorial boundaries or the queen’s whereabouts."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial outline for orientation at atlas scale. No boundary was traced."
+  }
+}

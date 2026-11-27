@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:lauchheim-wasserfurche",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 220–223, figs. 1–2 and n. 4. Two neighbouring sites and more than 1,300 graves used from the final third of the fifth century to the end of the seventh."
+    },
+    {
+      "sourceId": "source:lad-lauchheim-wasserfurche",
+      "role": "supports",
+      "locator": "Project description, cemetery plan and photograph caption for grave 90. A disc brooch and beads from a necklace at chest level, first half of the seventh century."
+    },
+    {
+      "sourceId": "source:lauchheim-site-location-boards",
+      "role": "derivation",
+      "locator": "Two boards, maps labelled “Lage des alamannischen Gräberfelds im heutigen Stadtplan” and “Lage der alamannischen Siedlung im heutigen Stadtplan”. Orientation of the cemetery uphill and the farm area nearer the river; no excavation perimeter was digitised."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Wikidata Q50639077, coordinate location (P625), 48°52′17.040″N 10°13′54.120″E, used as the reference point for the cemetery. The two site plans locate Mittelhofen relative to it."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Lauchheim, Gräberfeld Wasserfurche",
+    "en": "Wasserfurche cemetery, Lauchheim"
+  },
+  "summary": {
+    "de": "Gräberfeld am Hang oberhalb der Jagst, etwa 200 Meter vom Siedlungsareal Mittelhofen entfernt.",
+    "en": "Burial ground on the slope above the Jagst, about 200 metres from the settlement area at Mittelhofen."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:merovingian-orleans-urban-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:szafranowski-orleans-er1039",
+      "role": "supports",
+      "locator": "ER 1039, canon 5, Latin and translation: proceeds of gifts and fields from the king for buildings, support of priests and the poor, or ransoming captives."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Ein grober Ausschnitt um Orléans verortet die Bischofsversammlung. Die Umrisslinie gibt die Lage des Versammlungsgebäudes und die Außengrenzen der Stadt nicht vor.",
+    "en": "A broad outline around Orléans locates the episcopal assembly. It leaves open the exact venue and the limits of the town."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic urban context",
+    "originNote": "Original editorial outline around a rounded city reference point. No map boundary traced."
+  }
+}

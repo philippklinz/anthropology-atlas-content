@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:vezeronce-in-the-viennois",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "III.6 and III.18. The pursuit at Visorontia, Godomar’s recovery of his kingdom, Clotild’s care for the boys and the fate of Chlodomer’s sons. The call imitating the king’s men is Gregory’s account of his death."
+    },
+    {
+      "sourceId": "source:connected-communities-vezeronce-282",
+      "role": "supports",
+      "locator": "Attestation 282. Gregory III.6, town identification, year 524 and named participants."
+    },
+    {
+      "sourceId": "source:isere-helmet-of-vezeronce",
+      "role": "supports",
+      "locator": "Écrans 3–7, printed pp. 19–22. Peat-bog find in 1870, battle of 524, the hypothetical identification with Chlodomer, gilding, six T-shaped bands and rivets."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Vézeronce im Gebiet von Vienne",
+    "en": "Vézeronce in the territory of Vienne"
+  },
+  "summary": {
+    "de": "Bei Vézeronce-Curtin im heutigen Département Isère wird Gregors Visorontia verortet. Die Quelle nennt das Gebiet der Stadt Vienne.",
+    "en": "Gregory’s Visorontia is identified with the locality of Vézeronce-Curtin in present-day Isère. The text places it in the territory of Vienne."
+  }
+}

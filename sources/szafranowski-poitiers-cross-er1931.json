@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:szafranowski-poitiers-cross-er1931",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Queen Radegundis sends clerics to obtain relics, and Eufronius deposits them in Poitiers",
+  "sourceType": "archive",
+  "creators": [
+    "Jerzy Szafranowski"
+  ],
+  "url": "https://presbytersproject.ihuw.pl/index.php?SourceID=1931&id=6",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin and English excerpt of Gregory, Histories IX.40, with discussion of the chronology and the clergy.",
+  "containerTitle": "Presbyters in the Late Antique West, University of Warsaw"
+}

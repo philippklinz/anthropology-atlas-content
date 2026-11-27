@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:cross-relic-at-sainte-croix",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-poitiers-cross-er1931",
+      "role": "supports",
+      "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+    },
+    {
+      "sourceId": "source:flierman-williard-radegund-letters",
+      "role": "supports",
+      "locator": "Introduction and “Playing the crowd”, “Beyond the gates”, “Reaching east”: Fortunatus and Baudonivia, the donations (Vita I.12–13), the Rule and communal gifts, and the eastern mission (Vita II.16)."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Die in Poitiers verehrte Kreuzreliquie",
+    "en": "Cross relic venerated at Poitiers"
+  },
+  "summary": {
+    "de": "Für 569 ist der Empfang eines als Teil des Kreuzes Christi verehrten Holzstücks in Radegundes Kloster bezeugt.",
+    "en": "The reception at Radegund’s convent of a piece of wood venerated as part of Christ’s cross is attested in 569."
+  }
+}

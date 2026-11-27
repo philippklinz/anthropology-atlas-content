@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:grandes-chroniques-dynastic-change",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sainte-genevieve-ms782-107r-image",
+      "role": "supports",
+      "locator": "MS 782, fol. 107r, c. 1274. Object data, dimensions, source and public-domain reproduction; the catalogue and Hedeman below discuss the iconography."
+    },
+    {
+      "sourceId": "source:initiale-grandes-chroniques-ms782",
+      "role": "supports",
+      "locator": "Dating 1274 or soon afterwards, Saint-Denis. See the two records for f. 107 (decor 69170 upper register; 15146 lower register)."
+    },
+    {
+      "sourceId": "source:hedeman-royal-image-folio-107",
+      "role": "supports",
+      "locator": "Chapter 1, “The Royal House and the Abbey of Saint-Denis: A Shared History”, pp. 28–29, fig. 15 and notes 59–61: Stephen II crowns Pippin in the upper scene, Childeric takes the habit below, and the sequence gives prominence to Saint-Denis."
+    },
+    {
+      "sourceId": "source:initiale-f107r-pippins-coronation",
+      "role": "supports",
+      "locator": "Upper register, “Sujet”, “Mot clé” and “Notes”: Pippin kneels before a pope who puts a crown on his head; compare the lower register, notice 15146."
+    },
+    {
+      "sourceId": "source:initiale-f107r-monastic-habit",
+      "role": "supports",
+      "locator": "Lower register, “Sujet” and “Notes”: the catalogue adopts Hedeman’s Childeric identification and records an alternative reading by Boinet and Garnier, who identify Pippin’s brother Carloman."
+    }
+  ],
+  "assetType": "image",
+  "file": "ms782-f107r.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Krone und Klostergewand in den Grandes Chroniques, um 1274",
+    "en": "Crown and monastic habit in the Grandes Chroniques, c. 1274"
+  },
+  "alt": {
+    "de": "Zwei Szenen auf rotem Grund. Oben setzt ein Papst dem knienden Pippin eine Krone auf. Unten wartet ein Mann vor drei Mönchen, ein anderer hält eine Krone. Der Wartende wird als Childerich III. oder als Pippins Bruder Karlmann gedeutet.",
+    "en": "Two scenes against a red ground. Above, a pope places a crown on the kneeling Pippin. Below, a man stands before three monks while another holds a crown. The waiting figure has been identified as Childeric III or as Pippin’s brother Carloman."
+  },
+  "entityIds": [
+    "artifact:grandes-chroniques-pippin-and-childeric"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Anonymous illuminator, c. 1274",
+      "Bibliothèque Sainte-Geneviève, Paris (reproduction)"
+    ],
+    "attribution": "Grandes Chroniques de France, Paris, Bibliothèque Sainte-Geneviève, MS 782, fol. 107r, c. 1274. Reproduction via Wikimedia Commons, public domain.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Etienne_II_couronne_P%C3%A9pin-Child%C3%A9ric_III_d%C3%A9pos%C3%A9.jpg",
+    "originNote": "Complete Commons reproduction of the miniature and its first lines of text, reduced proportionally from 1045 × 1228 to 960 pixels wide for display, without recropping."
+  }
+}

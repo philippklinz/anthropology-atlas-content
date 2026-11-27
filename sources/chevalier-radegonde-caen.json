@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:chevalier-radegonde-caen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Radegonde",
+  "sourceType": "archive",
+  "creators": [
+    "Louis Chevalier"
+  ],
+  "url": "https://thesauri.unicaen.fr/autorites/saints/doc/pddn_hagio.202110061928562430200.html",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Authority entry for the founder, recording her death at Poitiers on 13 August 587.",
+  "containerTitle": "Thesauri, Pôle Document numérique, Université de Caen Normandie"
+}

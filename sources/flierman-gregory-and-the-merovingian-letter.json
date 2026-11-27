@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:flierman-gregory-and-the-merovingian-letter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gregory of Tours and the Merovingian letter",
+  "sourceType": "article",
+  "creators": [
+    "Robert Flierman"
+  ],
+  "url": "https://doi.org/10.1080/03044181.2021.1893800",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Analyses how Gregory arranges the letters in his presentation of the Poitiers affair.",
+  "published": "2021",
+  "identifiers": {
+    "doi": "10.1080/03044181.2021.1893800"
+  },
+  "containerTitle": "Journal of Medieval History 47"
+}

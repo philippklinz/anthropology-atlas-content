@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:capitulary-at-soissons-744",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soissons-capitulary-744",
+      "role": "supports",
+      "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    }
+  ],
+  "subjectId": "artifact:soissons-capitulary-744",
+  "predicate": "attested-at",
+  "objectId": "place:merovingian-soissons",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 744,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 744,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Fläche umfasst den Sitz der Versammlung. Der Text macht keine Angabe zu Childerichs Aufenthaltsort.",
+      "en": "The area marks the meeting place. The preamble gives no location for Childeric himself."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-soissons-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Einleitung überliefert Ort und Namen der Herrschaftsträger.",
+    "en": "The preamble supplies the meeting place and names the men exercising authority."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:merovingian-tours-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.69,
+      47.39
+    ]
+  }
+}

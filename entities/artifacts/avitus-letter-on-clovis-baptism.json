@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:avitus-letter-on-clovis-baptism",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:avitus-of-vienne-letter-46",
+      "role": "supports",
+      "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+    },
+    {
+      "sourceId": "source:shanzer-dating-baptism-of-clovis",
+      "role": "supports",
+      "locator": "pp. 29–31, 47–49 and 55–56. The traditional 496 chronology, the proposed identification of Avitus’s captives and the argument for Christmas 508."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Der Taufbrief des Avitus",
+    "en": "Avitus’s letter on Clovis’s baptism"
+  },
+  "summary": {
+    "de": "Der Gratulationsbrief verbindet die Geburt Christi mit der Taufe des Königs. Er enthält keine Jahresangabe.",
+    "en": "The congratulatory letter links the Nativity with the king’s baptism and gives no year."
+  }
+}

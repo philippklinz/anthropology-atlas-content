@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:didimia-of-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+      "role": "supports",
+      "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "X.16, from De palla quod repotarent to donatrix Didimia confirmavit: a silk wrap brought de parentibus (from her kin) was given to the abbess. The account distinguishes the original wrap, the altar covering and the trim."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Didimia von Poitiers",
+    "en": "Didimia of Poitiers"
+  },
+  "summary": {
+    "de": "Der Bericht über die Verhandlung nennt sie als Zeugin. Sie bestätigte, dass sie den von ihren Angehörigen mitgebrachten seidenen Überwurf der Äbtissin geschenkt hatte.",
+    "en": "The report of the hearing names her as a witness. She confirmed that she had brought a silk wrap from her relatives and given it to the abbess."
+  }
+}

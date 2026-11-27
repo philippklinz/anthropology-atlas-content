@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:venantius-fortunatus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fortunatus-milk-to-agnes",
+      "role": "supports",
+      "locator": "Carmina XI.19, Latin text, translation, recipient and historical context: milk and other delicacies, a doctor’s orders and the closing greeting."
+    },
+    {
+      "sourceId": "source:flierman-williard-radegund-letters",
+      "role": "supports",
+      "locator": "Introduction and “Playing the crowd”, “Beyond the gates”, “Reaching east”: Fortunatus and Baudonivia, the donations (Vita I.12–13), the Rule and communal gifts, and the eastern mission (Vita II.16)."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Venantius Fortunatus",
+    "en": "Venantius Fortunatus"
+  },
+  "summary": {
+    "de": "Der Dichter war mit Agnes und Radegunde befreundet. Er schrieb Briefe in Versen und nach Radegundes Tod eine Lebensbeschreibung.",
+    "en": "A poet and friend of Agnes and Radegund. He wrote verse letters and, after Radegund’s death, an account of her life."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gregory-frankish-queens-thorpe-extracts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gregory of Tours: The World of the Franks (especially Queens and Marriage)",
+  "sourceType": "book",
+  "creators": [
+    "Gregory of Tours",
+    "Lewis Thorpe (translator)"
+  ],
+  "url": "https://home.uncg.edu/~rebarton/frankish-queens.htm",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Teaching selection, including the Paris episodes. References below give individual books and chapters.",
+  "containerTitle": "University of North Carolina Greensboro"
+}

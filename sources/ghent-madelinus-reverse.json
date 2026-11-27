@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ghent-madelinus-reverse",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Triëns, Dorestad, Madelinus, Merovingisch Rijk. BRKZ.NUM.000273 (reverse)",
+  "sourceType": "catalog",
+  "creators": [
+    "Ghent University Library, De Bast collection"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Tri%C3%ABns,_Dorestad,_Madelinus,_Merovingisch_Rijk._600-670_barcode_800000085493_(2).jpg",
+  "language": "nl",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Object 800000085493, reverse photograph and transcription, two rows of pellets beneath the cross. File licensing section, CC0 1.0."
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:initiale-f107r-monastic-habit",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Paris, Bibl. Sainte-Geneviève, 0782, f. 107: Childéric III, déposé, prenant l’habit",
+  "sourceType": "catalog",
+  "creators": [
+    "Institut de recherche et d’histoire des textes (notices BSG and IRHT)"
+  ],
+  "url": "https://initiale.irht.cnrs.fr/decor/15146",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Initiale. Catalogue de manuscrits enluminés"
+}

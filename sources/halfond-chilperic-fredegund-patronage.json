@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:halfond-chilperic-fredegund-patronage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sis Quoque Catholicis Religionis Apex: The Ecclesiastical Patronage of Chilperic I and Fredegund",
+  "sourceType": "article",
+  "creators": [
+    "Gregory I. Halfond"
+  ],
+  "url": "https://doi.org/10.1017/S0009640711001776",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Study of the couple’s episcopal support and donations.",
+  "published": "2012",
+  "identifiers": {
+    "doi": "10.1017/S0009640711001776"
+  },
+  "containerTitle": "Church History 81.1, pp. 48–76"
+}

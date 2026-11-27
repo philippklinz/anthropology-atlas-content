@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:burial-at-saint-brice",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:esmonde-cleary-childeric-burial",
+      "role": "supports",
+      "locator": "pp. 383–384, “The Franks and northern Gaul”: grave across the river from the fortifications, dress fastener, military symbolism, arms, ring and three horse pits."
+    },
+    {
+      "sourceId": "source:fischer-lind-childeric-coins",
+      "role": "supports",
+      "locator": "p. 3, introduction: date of the burial, composition of the hoard, four illustrated pierced silver coins, examination after removal from the ground and the authors’ interpretation of the selection; Table II: mints and rulers, including Leo I at Constantinople and Julius Nepos at Ravenna."
+    },
+    {
+      "sourceId": "source:bnf-tournai-signet-56-460",
+      "role": "supports",
+      "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+    },
+    {
+      "sourceId": "source:barreveld-identifying-royalty",
+      "role": "supports",
+      "locator": "Sections “Princely tombs” and “King Childeric”: selection of grave goods by the living, limits of identification by seal and the inference of a capital from a burial."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Bestattung bei Tournai, Childerich zugeschrieben",
+    "en": "Burial at Tournai attributed to Childeric"
+  },
+  "note": {
+    "de": "Die Grabbeigaben sprechen für ein Begräbnis um 481/482. Der König wird vor allem über die Inschrift auf dem Siegelring identifiziert.",
+    "en": "The grave goods support a burial about 481/482. The identification of the king rests chiefly on the inscription on the signet."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 481,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 482,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:childeric-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:esmonde-cleary-childeric-burial",
+          "role": "supports",
+          "locator": "pp. 383–384, “The Franks and northern Gaul”: grave across the river from the fortifications, dress fastener, military symbolism, arms, ring and three horse pits."
+        },
+        {
+          "sourceId": "source:bnf-tournai-signet-56-460",
+          "role": "supports",
+          "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+        },
+        {
+          "sourceId": "source:barreveld-identifying-royalty",
+          "role": "supports",
+          "locator": "Sections “Princely tombs” and “King Childeric”: selection of grave goods by the living, limits of identification by seal and the inference of a capital from a burial."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:tournai-saint-brice"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tournai-saint-brice-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Siegelschrift und Datierung verbinden den Toten mit Childerich. Ein königliches Siegel konnte allerdings von einem Beauftragten benutzt werden.",
+      "en": "The seal legend and dating link the deceased with Childeric, although a royal signet could be used by a representative."
+    }
+  }
+}

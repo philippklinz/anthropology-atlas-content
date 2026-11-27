@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:connected-communities-andelot-951",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Andelot-Blancheville, attestation 951",
+  "sourceType": "dataset",
+  "creators": [
+    "Connected Communities in Early Medieval Europe"
+  ],
+  "url": "https://earlymedievaleurope.org/attestation.php?attestationid=951",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The place attestation connects the Latin opening of the agreement to modern Andelot-Blancheville.",
+  "containerTitle": "Connected Communities in Early Medieval Europe"
+}

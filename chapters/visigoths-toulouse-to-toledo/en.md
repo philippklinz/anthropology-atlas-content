@@ -6,11 +6,13 @@ A woman’s name appears in the record of an assembly at Toledo. Queen Baddo spe
 
 In September 506 bishops gathered at Agde, near the mouth of the Hérault on the Mediterranean. King Alaric II had given permission. Caesarius, bishop of Arles, presided. Priests and deacons had come too, representing bishops who could not attend in person. These men belonged to the Nicene church. The Visigothic court had a tradition of Homoian Christianity. Among other things, the two traditions differed in how they described the relationship between God the Father and the Son. A king and his bishops could disagree on that question and still find ways to do business together.
 
-## Who died near Poitiers?
+## Who died near Poitiers? {#vouille}
 
 In 507 the Frankish king Clovis defeated Alaric II near Poitiers. Alaric died, and the victors took most of Visigothic Aquitaine. Decades later, Bishop Gregory of Tours wrote about the men who fell. Some had come from the Auvergne with Apollinaris. Gregory singled out members of senatorial families among the dead. Asking only about Franks and Goths makes it easy to overlook the ties these men had to particular cities and families in Roman Gaul. Gregory also says that after a winter in Bordeaux, Clovis took Alaric’s treasure from Toulouse. He gives no inventory of what it contained.
 
 Gregory placed the battlefield at the tenth milestone from Poitiers. From which road were those miles counted? Both Vouillé, northwest of the city, and Voulon, farther south, have been proposed. The shaded area around Poitiers therefore covers several possible locations. Identifying a single field within it would require more evidence than the texts supply.
+
+For Clovis the road from the battlefield led to the shrine of Saint Martin in Tours. [What did the Frankish king do with his victory?](chapter:clovis-and-his-bishops#vouille)
 
 ## The cost of going to court
 

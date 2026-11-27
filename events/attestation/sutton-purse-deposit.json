@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:sutton-purse-deposit",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:british-museum-sutton-hoo-gold",
+      "role": "supports",
+      "locator": "Room 41, Gold coins. The 37 struck coins, three blanks and two ingots, Frankish mints and a suggested deposit between 610 and 635."
+    },
+    {
+      "sourceId": "source:grierson-sutton-hoo-coins",
+      "role": "supports",
+      "locator": "Antiquity 44, pp. 14–18, opening paragraphs. Separate weights for struck coins, the three blanks and the two rectangular ingots."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Der Beutel kommt ins Schiffsgrab",
+    "en": "The purse is placed in the ship burial"
+  },
+  "note": {
+    "de": "Das British Museum setzt die einmalige Niederlegung in die Jahre 610–635.",
+    "en": "The British Museum places the single deposit within the years 610–635."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 610,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 635,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:sutton-hoo-purse-gold",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:sutton-hoo-mound-one"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:sutton-hoo-mound-one-orientation",
+      "role": "location"
+    }
+  ]
+}

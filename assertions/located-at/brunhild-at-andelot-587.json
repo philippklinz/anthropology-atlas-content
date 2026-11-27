@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:brunhild-at-andelot-587",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:connected-communities-andelot-951",
+      "role": "supports",
+      "locator": "Attestation 951: the three named visitors at Andelao in 587, identified with Andelot-Blancheville."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    }
+  ],
+  "subjectId": "person:brunhild-of-austrasia",
+  "predicate": "located-at",
+  "objectId": "place:andelot-blancheville",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 587,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 587,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:andelot-meeting-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Ortsname ist überliefert. Die Fläche fasst die Gegend um Andelot zusammen. Das Versammlungsgebäude ist unbekannt.",
+      "en": "The place name survives. The area indicates the vicinity of Andelot. The site of the meeting within it is unknown."
+    }
+  },
+  "note": {
+    "de": "Die Einleitung des im November 587 vereinbarten Vertrags nennt Brunichild in Andelot.",
+    "en": "The opening of the agreement made in November 587 names Brunhild at Andelot."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:connected-communities-tournai-saint-brice",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "dataset",
+  "title": "Tournai – quartier Saint-Brice (site 375)",
+  "creators": [
+    "Connected Communities in Early Medieval Europe"
+  ],
+  "url": "https://www.earlymedievaleurope.org/site.php?egv=1&siteid=375",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Database entry compiles excavation seasons, human and horse burials, beads and glass vessels. It reports that the percentage excavated is unknown."
+}

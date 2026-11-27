@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:childeric-iii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soissons-capitulary-744",
+      "role": "supports",
+      "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    },
+    {
+      "sourceId": "source:telma-pippin-attigny-751",
+      "role": "supports",
+      "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Childerich III.",
+    "en": "Childeric III"
+  },
+  "summary": {
+    "de": "Das Kapitular von Soissons zählt nach seinem zweiten, das Urteil aus Attigny nach seinem neunten Königsjahr.",
+    "en": "The Soissons capitulary counts from his second year as king, and the Attigny judgment from his ninth."
+  }
+}

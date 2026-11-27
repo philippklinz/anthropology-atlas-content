@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:andelot-pact-text",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    },
+    {
+      "sourceId": "source:capitularia-pactum-andelot-bk-6",
+      "role": "supports",
+      "locator": "BK 6, Date, Captions and Transmission: November 587 and preservation in Gregory IX.20. Nineteenth-century editions give the 29th; the map uses the year."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Der Wortlaut des Vertrags von Andelot",
+    "en": "Text of the Andelot agreement"
+  },
+  "summary": {
+    "de": "Die Vereinbarung vom November 587 ist als Abschrift in Gregors Geschichtsbüchern überliefert.",
+    "en": "The November 587 agreement survives as a copy in Gregory’s Histories."
+  }
+}

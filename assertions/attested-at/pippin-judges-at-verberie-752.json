@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:pippin-judges-at-verberie-752",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:muehlbacher-pippin-verberie-752",
+      "role": "supports",
+      "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+    },
+    {
+      "sourceId": "source:costambeys-innes-maclean-carolingian-kingship",
+      "role": "supports",
+      "locator": "Opening, “Replacing the ruling dynasty”: Pippin’s two documentary titles, the limits on dating the change, contemporary Roman evidence and the retrospective accounts produced under Carolingian rule."
+    }
+  ],
+  "subjectId": "artifact:verberie-judgment-752",
+  "predicate": "attested-at",
+  "objectId": "place:verberie-on-the-oise",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 752,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 752,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der 1. März fällt in das ausgewählte Jahr 752. Der Text nennt den Gerichtsort.",
+      "en": "The hearing on 1 March falls in the selected year 752. The charter names the place where judgment was given."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:verberie-on-the-oise-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Lobas Schenkung wird in einer Urkunde aus der Pfalz von Verberie verhandelt.",
+    "en": "The case about Loba’s gift is recorded at the palace of Verberie."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:childebert-death-and-succession-558",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.20–21. Childebert’s sickness and burial at Paris, Chlothar’s acquisition of the kingdom and treasure and his later burial by his four sons at Soissons."
+    },
+    {
+      "sourceId": "source:connected-communities-paris-399",
+      "role": "supports",
+      "locator": "Attestation 399. Gregory IV.20 for the death and burial of Childebert in Paris in 558."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Childebert stirbt in Paris",
+    "en": "Childebert dies at Paris"
+  },
+  "note": {
+    "de": "Childebert stirbt in Paris und wird in der Kirche Saint-Vincent bestattet. Chlothar erbt seinen Schatz und sein Reich.",
+    "en": "Childebert dies at Paris and is buried at Saint Vincent. Chlothar takes over his brother’s treasure and kingdom."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 558,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 558,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:childebert-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "IV.20–21. Childebert’s sickness and burial at Paris, Chlothar’s acquisition of the kingdom and treasure and his later burial by his four sons at Soissons."
+        }
+      ]
+    },
+    {
+      "entityId": "person:chlothar-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "IV.20–21. Childebert’s sickness and burial at Paris, Chlothar’s acquisition of the kingdom and treasure and his later burial by his four sons at Soissons."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-paris"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

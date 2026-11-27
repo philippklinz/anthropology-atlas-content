@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schoenenberg-farmsteads-and-fence-lines",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Haus und Hof im archäologischen Befund in Südwestdeutschland",
+  "sourceType": "article",
+  "creators": [
+    "Valerie Schoenenberg"
+  ],
+  "url": "https://www.academia.edu/44487809/Haus_und_Hof_im_arch%C3%A4ologischen_Befund_in_S%C3%BCdwestdeutschland",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Author’s copy of the study of farmsteads, textile finds in fills, and successive fences. The figure sequence distinguishes stratigraphic order from absolute dating.",
+  "published": "2017",
+  "containerTitle": "Recht und Kultur im frühmittelalterlichen Alemannien, pp. 275–306",
+  "identifiers": {
+    "doi": "10.1515/9783110459432-011"
+  }
+}

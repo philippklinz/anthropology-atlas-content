@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:theft-of-childeric-signet-1831",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-tournai-signet-56-460",
+      "role": "supports",
+      "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+    },
+    {
+      "sourceId": "source:bnf-richelieu-cabinet-history",
+      "role": "supports",
+      "locator": "“Histoire du Cabinet”, “L’installation du cabinet au sein de la bibliothèque”: gallery above the rue Colbert open to visitors from 1741 and occupied until 1865."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Der goldene Siegelring verschwindet in Paris",
+    "en": "The gold signet disappears in Paris"
+  },
+  "note": {
+    "de": "Beim Einbruch in das Münzkabinett am 5. November ging der goldene Originalring verloren. Ältere Abdrücke bewahren sein Bild.",
+    "en": "The original gold ring was lost in the break-in at the coin cabinet on 5 November. Earlier impressions preserve its design."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1831,
+        "month": 11,
+        "day": 5
+      },
+      "latest": {
+        "year": 1831,
+        "month": 11,
+        "day": 5
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:tournai-childeric-signet",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:bnf-tournai-signet-56-460",
+          "role": "supports",
+          "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:paris-richelieu-coin-cabinet"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:paris-richelieu-cabinet-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

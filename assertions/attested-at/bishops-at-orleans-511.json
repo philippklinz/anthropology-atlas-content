@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:bishops-at-orleans-511",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:szafranowski-orleans-er1039",
+      "role": "supports",
+      "locator": "ER 1039, canon 5, Latin and translation: proceeds of gifts and fields from the king for buildings, support of priests and the poor, or ransoming captives."
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian calendar rules. 10 July 511 Julian corresponds to 12 July in the proleptic Gregorian calendar used for computation."
+    }
+  ],
+  "subjectId": "community:bishops-at-first-council-of-orleans",
+  "predicate": "attested-at",
+  "objectId": "place:merovingian-orleans",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 511,
+        "month": 7,
+        "day": 12
+      },
+      "latest": {
+        "year": 511,
+        "month": 7,
+        "day": 12
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "10 July 511",
+        "calendar": "julian",
+        "conversionNote": "Two days later in the proleptic Gregorian computation calendar."
+      }
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-orleans-urban-context",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Ein grober Ausschnitt um Orléans verortet die Bischofsversammlung. Die Umrisslinie gibt die Lage des Versammlungsgebäudes und die Außengrenzen der Stadt nicht vor.",
+      "en": "A broad outline around Orléans locates the episcopal assembly. It leaves open the exact venue and the limits of the town."
+    }
+  },
+  "note": {
+    "de": "Die Akten und die Unterschriften verorten die beteiligten Bischöfe beim Konzil von 511.",
+    "en": "The acts and subscriptions place the participating bishops at the 511 council."
+  }
+}

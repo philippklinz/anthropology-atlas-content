@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:brunhild-of-austrasia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-paris-brunhild-v-1",
+      "role": "supports",
+      "locator": "V.1, opening and notes: Brunhild and her children in Paris, Childebert’s removal and Christmas accession in 575, subsequent separation of the family."
+    },
+    {
+      "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+      "role": "supports",
+      "locator": "A Note on Genealogy and IV.27–28, 51: Chlothar’s sons, the marriages of Sigibert and Chilperic, and the death of Sigibert."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    },
+    {
+      "sourceId": "source:baroin-marriage-and-property-2013",
+      "role": "supports",
+      "locator": "pp. 103–104: Galswinth, marriage property, the immediate grant of Cahors to Brunhild and the four other cities retained by Guntram for his lifetime."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Brunichild (Brunhild)",
+    "en": "Brunhild of Austrasia"
+  },
+  "summary": {
+    "de": "Tochter des westgotischen Königs Athanagild und Mutter Childeberts II. Der Vertrag von Andelot nennt sie in seiner Einleitung und regelt ihren Anspruch auf Cahors.",
+    "en": "Daughter of the Visigothic king Athanagild and mother of Childebert II. The Andelot treaty names her in its preamble and settles her claim to Cahors."
+  }
+}

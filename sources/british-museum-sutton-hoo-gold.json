@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:british-museum-sutton-hoo-gold",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The world of Sutton Hoo: Members and Supporters trail",
+  "sourceType": "catalog",
+  "creators": [
+    "British Museum"
+  ],
+  "url": "https://www.britishmuseum.org/sites/default/files/2021-06/sutton_hoo_members_supporters_trail.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Room 41, Gold coins. The 37 struck coins, three blanks and two ingots, Frankish mints and a suggested deposit between 610 and 635.",
+  "published": "2021"
+}

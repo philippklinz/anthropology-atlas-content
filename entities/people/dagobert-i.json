@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:dagobert-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-dagobert-iticina",
+      "role": "supports",
+      "locator": "ARTEM 4504, Archives nationales K 1 no. 5, transmission, place, regest and ll. 1–3. Address to the duke, the domesticus Gaganricus and the agents, the estate and its former owners. The dated header gives 15 March 633."
+    },
+    {
+      "sourceId": "source:artem-dagobert-ursinus",
+      "role": "supports",
+      "locator": "ARTEM 4507, Archives nationales AE II 3 (K 1 no. 9), regest and ll. 1–4. Petition, brothers, inherited property and Rouergue. Place of issue unidentified. This edition gives 637."
+    },
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.79, pp. 66–67, including n. 1. Illness at Épinay, Aega, Nanthild, Clovis and burial at Saint-Denis. Wallace-Hadrill follows Courtois in dating the death to 638."
+    },
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Dagobert I.",
+    "en": "Dagobert I"
+  },
+  "summary": {
+    "de": "Der König bestätigte Erbteilungen und förderte die Basilika von Saint-Denis. Dort ließ ihn seine Familie beisetzen.",
+    "en": "The king confirmed divisions of family property and supported the basilica of Saint-Denis, where he was buried."
+  }
+}

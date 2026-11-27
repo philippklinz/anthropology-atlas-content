@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:soissons-capitulary-744",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pippini principis capitulare Suessionense, opening clause",
+  "sourceType": "archive",
+  "creators": [
+    "Alfred Boretius (editor)",
+    "Regnum Francorum Online"
+  ],
+  "url": "https://francia.ahlfeldt.se/page/documents/4631",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "MGH Capitularia regum Francorum I, no. 12"
+}

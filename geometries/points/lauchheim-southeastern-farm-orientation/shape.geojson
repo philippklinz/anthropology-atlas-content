@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:lauchheim-southeastern-farm-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2337,
+      48.8729
+    ]
+  }
+}

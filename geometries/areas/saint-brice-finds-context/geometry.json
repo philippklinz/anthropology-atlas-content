@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:saint-brice-finds-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    },
+    {
+      "sourceId": "source:esmonde-cleary-childeric-burial",
+      "role": "supports",
+      "locator": "pp. 383–384, “The Franks and northern Gaul”: grave across the river from the fortifications, dress fastener, military symbolism, arms, ring and three horse pits."
+    }
+  ],
+  "geometryType": "Polygon",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die kleine schematische Fläche bezeichnet das Viertel am Fundort. Das Grabungsareal und der frühmittelalterliche Friedhof hatten andere Grenzen.",
+    "en": "The small schematic area locates the neighbourhood around the find. The excavation trenches and the early medieval cemetery had different boundaries."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic outline",
+    "originNote": "Drawn to indicate the cited locality. No historical boundary or copyrighted excavation plan was traced."
+  }
+}

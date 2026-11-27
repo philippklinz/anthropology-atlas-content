@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:oegstgeest-nieuw-rhijngeest-zuid-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.45,
+      52.17
+    ]
+  }
+}

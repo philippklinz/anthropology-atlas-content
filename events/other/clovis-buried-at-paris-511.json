@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:clovis-buried-at-paris-511",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Chlodwig wird in Paris bestattet",
+    "en": "Clovis is buried in Paris"
+  },
+  "note": {
+    "de": "Gregor nennt die Apostelkirche als Grabstätte. Der Stadtpunkt verortet die Bestattung getrennt von der Nachfolge seiner Söhne.",
+    "en": "Gregory names the church of the Holy Apostles as Clovis’s burial place. The city marker locates the burial separately from his sons’ succession."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 511,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 511,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:clovis-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-paris"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

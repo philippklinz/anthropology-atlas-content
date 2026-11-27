@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:paris-richelieu-coin-cabinet",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-richelieu-cabinet-history",
+      "role": "supports",
+      "locator": "“Histoire du Cabinet”, “L’installation du cabinet au sein de la bibliothèque”: gallery above the rue Colbert open to visitors from 1741 and occupied until 1865."
+    },
+    {
+      "sourceId": "source:bnf-tournai-signet-56-460",
+      "role": "supports",
+      "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Paris, damaliges königliches Münzkabinett",
+    "en": "Paris, former royal coin cabinet"
+  },
+  "summary": {
+    "de": "Der Sammlungssaal lag bis 1865 über der Rue Colbert am Standort Richelieu.",
+    "en": "The collection occupied a gallery above the rue Colbert at the Richelieu site until 1865."
+  }
+}

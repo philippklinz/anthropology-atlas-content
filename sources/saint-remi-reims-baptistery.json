@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:saint-remi-reims-baptistery",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Comme un Rémois dans l’eau. Une histoire de l’eau à Reims, de A à Z",
+  "sourceType": "catalog",
+  "creators": [
+    "Musée Saint-Remi, Reims"
+  ],
+  "containerTitle": "Exhibition booklet, Musée Saint-Remi",
+  "url": "https://musees-reims.fr/IMG/pdf/le_petit_journal_-_comme_un_remois_dans_l_eau__une_histoire_de_l_eau_a_r.pdf",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The entry on baptism distinguishes the 1995 archaeological find from the traditional attribution to Clovis.",
+  "published": "2022"
+}

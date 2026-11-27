@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:oegstgeest-nieuw-rhijngeest-zuid-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jezeer-oegstgeest-excavation",
+      "role": "supports",
+      "locator": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für die im Beleg ausgewiesene Fundstelle oder den Ort.",
+    "en": "Rounded reference point for the site or town identified in the source."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic orientation",
+    "originNote": "Editorial generalisation of a cited location. Coordinates are rounded for the atlas."
+  }
+}

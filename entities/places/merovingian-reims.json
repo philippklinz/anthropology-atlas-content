@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:merovingian-reims",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+      "role": "supports",
+      "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+    },
+    {
+      "sourceId": "source:saint-remi-reims-baptistery",
+      "role": "supports",
+      "locator": "Entry Baptême: the baptistery identified in the 1995 excavations beneath the cathedral and its proposed association with Clovis."
+    },
+    {
+      "sourceId": "source:schenck-reims-in-merowingischer-zeit",
+      "role": "supports",
+      "locator": "Part II, “Bischof Remigius”, first paragraph and n. 1. The episcopate spans Clovis’s reign; the bishop’s own reference to its length in EA 3."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q41876, P625, rounded to 0.01 degree."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Reims",
+    "en": "Reims"
+  },
+  "summary": {
+    "de": "Bischofssitz des Remigius. Unter der heutigen Kathedrale sind Reste eines Baptisteriums erhalten.",
+    "en": "Episcopal seat of Remigius. Remains of a baptistery lie below the present cathedral."
+  }
+}

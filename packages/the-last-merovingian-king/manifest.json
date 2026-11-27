@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:the-last-merovingian-king",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Der letzte Merowingerkönig",
+    "en": "The last Merovingian king"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:dagobert-and-saint-denis",
+    "package:maritime-shared",
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "artifact:attigny-judgment-751",
+    "artifact:grandes-chroniques-pippin-and-childeric",
+    "artifact:grimhild-wissembourg-donation",
+    "artifact:soissons-capitulary-744",
+    "artifact:verberie-judgment-752",
+    "assertion:capitulary-at-soissons-744",
+    "assertion:grimhild-charter-at-wissembourg-743",
+    "assertion:pippin-elevation-reported-at-soissons",
+    "assertion:pippin-hearing-at-attigny-751",
+    "assertion:pippin-judges-at-verberie-752",
+    "assertion:stephen-at-saint-denis-754",
+    "asset:grandes-chroniques-dynastic-change",
+    "chapter:the-last-merovingian-king",
+    "community:franks-at-pippins-elevation-in-the-annals",
+    "community:pippin-and-his-sons-at-saint-denis",
+    "event:grimhild-donation-wissembourg-743",
+    "event:pippin-hears-fulrad-at-attigny-751",
+    "event:pippin-hears-fulrad-at-verberie-752",
+    "event:pippin-succession-in-the-annals",
+    "event:soissons-capitulary-childerics-second-year",
+    "event:stephen-anoints-pippin-and-sons-754",
+    "geometry:attigny-on-the-aisne-locality",
+    "geometry:attigny-on-the-aisne-orientation",
+    "geometry:merovingian-soissons-locality",
+    "geometry:merovingian-soissons-orientation",
+    "geometry:verberie-on-the-oise-locality",
+    "geometry:verberie-on-the-oise-orientation",
+    "geometry:wissembourg-monastery-locality",
+    "geometry:wissembourg-monastery-orientation",
+    "person:childeric-iii",
+    "person:fulrad-of-saint-denis",
+    "person:grimhild-of-the-wissembourg-charter",
+    "person:loba-of-the-verberie-judgment",
+    "person:pippin-iii",
+    "person:pope-stephen-ii",
+    "place:attigny-on-the-aisne",
+    "place:merovingian-soissons",
+    "place:verberie-on-the-oise",
+    "place:wissembourg-monastery",
+    "source:briggs-rome-to-carolingians",
+    "source:costambeys-innes-maclean-carolingian-kingship",
+    "source:deutsche-biographie-einhard",
+    "source:einhard-life-of-charlemagne",
+    "source:grimhild-wissembourg-cartulary",
+    "source:hedeman-royal-image-folio-107",
+    "source:heidrich-attigny-judgment",
+    "source:initiale-f107r-monastic-habit",
+    "source:initiale-f107r-pippins-coronation",
+    "source:initiale-grandes-chroniques-ms782",
+    "source:muehlbacher-pippin-verberie-752",
+    "source:obrien-origins-royal-anointing",
+    "source:royal-frankish-annals-early-entries",
+    "source:saint-denis-royal-abbey-eighth-century",
+    "source:sainte-genevieve-ms782-107r-image",
+    "source:scholz-free-women-frankish-realm",
+    "source:soissons-capitulary-744",
+    "source:telma-pippin-attigny-751",
+    "source:weidemann-merovingian-chronology"
+  ],
+  "entryChapterIds": [
+    "chapter:the-last-merovingian-king"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "migration-maps"
+  ]
+}

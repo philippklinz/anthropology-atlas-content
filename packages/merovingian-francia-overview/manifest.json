@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:merovingian-francia-overview",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Die Merowinger und das Frankenreich",
+    "en": "The Merovingians and the Frankish kingdoms"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:childeric-at-tournai",
+    "package:clovis-and-his-bishops",
+    "package:dagobert-and-saint-denis",
+    "package:life-in-a-merovingian-village",
+    "package:maritime-shared",
+    "package:merovingian-gold-coins",
+    "package:merovingian-queens-and-the-treaty",
+    "package:partitioning-the-frankish-kingdoms",
+    "package:radegund-and-poitiers",
+    "package:the-last-merovingian-king",
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "chapter:reading-merovingian-francia"
+  ],
+  "entryChapterIds": [
+    "chapter:reading-merovingian-francia"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "image-viewer",
+    "migration-maps",
+    "network-basic"
+  ]
+}

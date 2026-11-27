@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:madelinus-ghent-tremissis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ghent-madelinus-obverse",
+      "role": "supports",
+      "locator": "Object 800000085493, De Bast 113. Obverse, weight 1.19 g, diameter 12 mm, collection range 600–670 and CC0 file statement."
+    },
+    {
+      "sourceId": "source:ghent-madelinus-reverse",
+      "role": "supports",
+      "locator": "Object 800000085493, reverse photograph and transcription, two rows of pellets beneath the cross. File licensing section, CC0 1.0."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Dorestader Goldmünze der Sammlung De Bast",
+    "en": "Dorestad gold coin in the De Bast collection"
+  },
+  "summary": {
+    "de": "Die Genter Münze BRKZ.NUM.000273 misst 12 mm, wiegt 1,19 g und nennt Dorestad und Madelinus.",
+    "en": "Ghent coin BRKZ.NUM.000273 measures 12 mm, weighs 1.19 g and names Dorestad and Madelinus."
+  },
+  "assetIds": [
+    "asset:madelinus-ghent-both-sides"
+  ]
+}

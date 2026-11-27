@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:theuderic-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Theuderich I.",
+    "en": "Theuderic I"
+  },
+  "summary": {
+    "de": "Sohn Chlodwigs und Vater Theudeberts. Gregor ordnet seinen Herrschaftssitz rückblickend Reims zu.",
+    "en": "Son of Clovis and father of Theudebert. Gregory retrospectively associates his seat with Reims."
+  }
+}

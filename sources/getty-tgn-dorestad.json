@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:getty-tgn-dorestad",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Wijk-bij-Duurstede (inhabited place), TGN 7017400",
+  "sourceType": "dataset",
+  "creators": [
+    "Getty Research Institute"
+  ],
+  "url": "https://vocab.getty.edu/page/tgn/7017400",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "TGN 7017400, historical name Dorestad and orientation at 51.9833° N, 5.3500° E."
+}

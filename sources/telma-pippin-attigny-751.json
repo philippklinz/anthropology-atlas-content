@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:telma-pippin-attigny-751",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Judgment of Pippin, mayor of the palace, for Saint-Denis",
+  "sourceType": "archive",
+  "creators": [
+    "Institut de recherche et d’histoire des textes"
+  ],
+  "url": "https://telma.irht.cnrs.fr/outils/originaux/charte2921/",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Chartes originales antérieures à 1121 conservées en France"
+}

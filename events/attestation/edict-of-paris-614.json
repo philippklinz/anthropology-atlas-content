@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:edict-of-paris-614",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:capitularia-chlothar-edict-bk9",
+      "role": "supports",
+      "locator": "BK 9, Date and Transmission. Editions by Pertz and Boretius date the edict to 18 October 614. Manuscript Berlin, Staatsbibliothek, Phill. 1743."
+    },
+    {
+      "sourceId": "source:boretius-chlothar-edict-paris",
+      "role": "supports",
+      "locator": "No. 9, p. 22, c. 12, and p. 23, final subscription and dating clause. Judges from other provinces or regions, restitution from their own goods, and Paris as the place of issue."
+    },
+    {
+      "sourceId": "source:connected-communities-paris-1173",
+      "role": "supports",
+      "locator": "Attestation 1173. Closing clause of the edict of Chlothar II, issue at Paris in 614."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Chlothar II. erlässt ein Edikt in Paris",
+    "en": "Chlothar II issues an edict at Paris"
+  },
+  "note": {
+    "de": "Die Schlussformel gibt Paris als Ausstellungsort an. Kapitel 12 sieht die Erstattung widerrechtlich entzogener Güter aus dem Besitz des verantwortlichen Richters vor.",
+    "en": "The dating clause gives Paris as the place of issue. Chapter 12 requires restitution from the property of a judge who wrongfully seized goods."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 614,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 614,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:chlothar-ii",
+      "role": "author",
+      "sourceRefs": [
+        {
+          "sourceId": "source:boretius-chlothar-edict-paris",
+          "role": "supports",
+          "locator": "No. 9, p. 22, c. 12, and p. 23, final subscription and dating clause. Judges from other provinces or regions, restitution from their own goods, and Paris as the place of issue."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:edict-of-paris-614",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:boretius-chlothar-edict-paris",
+          "role": "supports",
+          "locator": "No. 9, p. 22, c. 12, and p. 23, final subscription and dating clause. Judges from other provinces or regions, restitution from their own goods, and Paris as the place of issue."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-paris"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

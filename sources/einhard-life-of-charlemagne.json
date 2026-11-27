@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:einhard-life-of-charlemagne",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Life of Charlemagne",
+  "sourceType": "book",
+  "creators": [
+    "Einhard",
+    "Samuel Epes Turner (translator)"
+  ],
+  "url": "https://sourcebooks.web.fordham.edu/basis/einhard.asp",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Internet Medieval Sourcebook, Fordham University",
+  "published": "1880"
+}

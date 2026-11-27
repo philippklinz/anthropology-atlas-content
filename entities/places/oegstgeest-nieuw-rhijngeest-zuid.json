@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:oegstgeest-nieuw-rhijngeest-zuid",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jezeer-oegstgeest-excavation",
+      "role": "supports",
+      "locator": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Oegstgeest, Nieuw Rhijngeest-Zuid",
+    "en": "Oegstgeest, Nieuw Rhijngeest-Zuid"
+  },
+  "summary": {
+    "de": "Siedlung an einem alten Rheinarm mit Brunnen und wiederverwendetem Schiffsholz.",
+    "en": "Settlement on an old branch of the Rhine with wells containing reused ship timbers."
+  }
+}

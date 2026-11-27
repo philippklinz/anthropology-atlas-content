@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cmn-history-saint-denis-basilica",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "website",
+  "title": "La basilique Saint-Denis, symbole royal et architectural",
+  "creators": [
+    "Centre des monuments nationaux"
+  ],
+  "url": "https://www.saint-denis-basilique.fr/decouvrir/histoire-du-monument",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The custodian’s history of the monument dates the death of Dagobert to 639."
+}

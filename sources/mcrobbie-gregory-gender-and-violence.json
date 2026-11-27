@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mcrobbie-gregory-gender-and-violence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gender and violence in Gregory of Tours’ Decem libri historiarum",
+  "sourceType": "book",
+  "creators": [
+    "Jennifer McRobbie"
+  ],
+  "url": "https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/3151/JenniferMcRobbiePhDThesis.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Doctoral thesis. The discussion of Gregory’s narrative contrasts the negotiations of 587 with the embassy of 588.",
+  "containerTitle": "University of St Andrews"
+}

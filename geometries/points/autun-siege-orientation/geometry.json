@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:autun-siege-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:french-administrative-commune-centres",
+      "role": "derivation",
+      "locator": "GET /communes/71014?fields=centre, present-day municipal centroid rounded to two decimals."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "III.11. Chlothar and Childebert besiege Augustodunum. Godomar flees. Gregory links the siege with the acquisition of Burgundy."
+    },
+    {
+      "sourceId": "source:connected-communities-autun-292",
+      "role": "supports",
+      "locator": "Attestation 292. Gregory III.11, Latin and translation, siege of Autun and flight of Godomar. The record indexes the event under 534."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für Autun. Wo genau die Belagerer ihr Lager aufschlugen, ist nicht überliefert.",
+    "en": "Rounded point for Autun. The site of the besiegers’ camp is unknown."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Editorial orientation rounded from the French public commune-centre reference. Historical structures and perimeters are undetermined."
+  }
+}

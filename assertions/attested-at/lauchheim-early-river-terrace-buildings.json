@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:lauchheim-early-river-terrace-buildings",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lad-lauchheim-mittelhofen",
+      "role": "supports",
+      "locator": "Opening paragraphs and excavation plan. Settlement traces, sixth to eleventh centuries, 200 metres downslope from the cemetery. Both surface buildings and sunken buildings are documented."
+    },
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 222–224, 231, figs. 3–4. Successive houses, few datable finds from postholes, sixth-century material and the long life of the settlement."
+    }
+  ],
+  "subjectId": "artifact:lauchheim-timber-buildings",
+  "predicate": "attested-at",
+  "objectId": "place:lauchheim-mittelhofen",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 501,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 600,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Markierung bezeichnet die Flussterrasse bei Mittelhofen. Bebauung und Zäune änderten sich über Generationen.",
+      "en": "The marker identifies the river terrace at Mittelhofen. Buildings and fences changed over generations."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:lauchheim-river-terrace-vicinity",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Funde belegen Siedlungstätigkeit auf der Terrasse im sechsten Jahrhundert. Bau und Abbruch eines bestimmten Hauses lassen sich hier keinem Einzeljahr zuordnen. Die Besiedlung dauerte über dieses Zeitfenster hinaus an.",
+    "en": "Finds document settlement on the terrace in the sixth century. The construction or dismantling of an individual house cannot be assigned to a particular year here. Occupation continued beyond this window."
+  }
+}

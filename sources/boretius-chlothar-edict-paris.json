@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:boretius-chlothar-edict-paris",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "Chlotharii II edictum, no. 9",
+  "creators": [
+    "Alfred Boretius (editor)"
+  ],
+  "url": "https://www.dmgh.de/mgh_capit_1/index.htm#page/20/mode/1up",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Edition of the royal edict with its articles, subscriptions and place of issue.",
+  "published": "1883",
+  "containerTitle": "Monumenta Germaniae Historica, Capitularia regum Francorum 1, pp. 20–23"
+}

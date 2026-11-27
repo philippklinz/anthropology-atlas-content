@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:nanthild",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atsma-vezin-saint-denis-654",
+      "role": "supports",
+      "locator": "pp. 353–355, particularly p. 354. Royal confirmation of Landry’s privilege, sung praise on the model of Agaune, signatories and the king’s parents."
+    },
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    },
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.79, pp. 66–67, including n. 1. Illness at Épinay, Aega, Nanthild, Clovis and burial at Saint-Denis. Wallace-Hadrill follows Courtois in dating the death to 638."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Königin Nanthild",
+    "en": "Queen Nanthild"
+  },
+  "summary": {
+    "de": "Nanthild war die Mutter Chlodwigs II. Ihr Sohn nannte sie bei ihrem Namen, als er 654 die Bestattung seiner Eltern in Saint-Denis erwähnte.",
+    "en": "Clovis II’s mother. Her son referred to her by name in 654 when he mentioned his parents’ burial in Saint-Denis."
+  }
+}

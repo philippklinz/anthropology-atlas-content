@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:andelot-blancheville",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:connected-communities-andelot-951",
+      "role": "supports",
+      "locator": "Attestation 951: the three named visitors at Andelao in 587, identified with Andelot-Blancheville."
+    },
+    {
+      "sourceId": "source:capitularia-pactum-andelot-bk-6",
+      "role": "supports",
+      "locator": "BK 6, Date, Captions and Transmission: November 587 and preservation in Gregory IX.20. Nineteenth-century editions give the 29th; the map uses the year."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q1332796, coordinate location (P625). Rounded to two decimal places."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Andelot (Haute-Marne)",
+    "en": "Andelot (Haute-Marne)"
+  },
+  "summary": {
+    "de": "In Andelot trafen sich im November 587 Guntram, Childebert und Brunichild.",
+    "en": "Guntram, Childebert and Brunhild met at Andelot in November 587."
+  }
+}

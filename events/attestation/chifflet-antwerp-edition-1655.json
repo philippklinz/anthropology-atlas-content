@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:chifflet-antwerp-edition-1655",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Catalogue essay by Olivier Latteur (January 2025), “Contenu”, paragraphs on the 1653 construction site, Chifflet’s medical career, the Plantin-Moretus edition and the Habsburg–Bourbon argument."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Chifflets Anastasis erscheint in Antwerpen",
+    "en": "Chifflet’s Anastasis appears in Antwerp"
+  },
+  "note": {
+    "de": "Die Untersuchung enthält eine Tafel mit dem Siegelring und eine Gegenüberstellung verschiedener goldener Insekten.",
+    "en": "The volume includes a plate of the seal ring and a comparison of several gold insect forms."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1655,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1655,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:jean-jacques-chifflet",
+      "role": "author",
+      "sourceRefs": [
+        {
+          "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+          "role": "supports",
+          "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+        },
+        {
+          "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+          "role": "supports",
+          "locator": "Catalogue essay by Olivier Latteur (January 2025), “Contenu”, paragraphs on the 1653 construction site, Chifflet’s medical career, the Plantin-Moretus edition and the Habsburg–Bourbon argument."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:anastasis-childerici-1655",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+          "role": "supports",
+          "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:antwerp-plantin-moretus"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:antwerp-press-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

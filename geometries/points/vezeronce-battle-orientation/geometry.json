@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vezeronce-battle-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:french-administrative-commune-centres",
+      "role": "derivation",
+      "locator": "GET /communes/38543?fields=centre, present-day municipal centroid rounded to two decimals."
+    },
+    {
+      "sourceId": "source:connected-communities-vezeronce-282",
+      "role": "supports",
+      "locator": "Attestation 282. Gregory III.6, town identification, year 524 and named participants."
+    },
+    {
+      "sourceId": "source:isere-helmet-of-vezeronce",
+      "role": "supports",
+      "locator": "Écrans 3–7, printed pp. 19–22. Peat-bog find in 1870, battle of 524, the hypothetical identification with Chlodomer, gilding, six T-shaped bands and rivets."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den Raum der heutigen Gemeinde Vézeronce-Curtin. Der genaue Ort des Gefechts bleibt offen.",
+    "en": "The point locates the vicinity of the modern commune of Vézeronce-Curtin. The precise battlefield is unknown."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Editorial orientation rounded from the French public commune-centre reference. Historical structures and perimeters are undetermined."
+  }
+}

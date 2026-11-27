@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:soissons-capitulary-childerics-second-year",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soissons-capitulary-744",
+      "role": "supports",
+      "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "In Soissons zählt Pippin nach Childerichs Regierungsjahr",
+    "en": "At Soissons Pippin dates by Childeric’s reign"
+  },
+  "note": {
+    "de": "Als Aussteller des Kapitulars von Soissons datiert Pippin die Versammlung im März 744 nach Childerichs zweitem Königsjahr. Ob der König anwesend war, geht aus dieser Formel nicht hervor.",
+    "en": "Pippin issued the capitulary of Soissons, dating the assembly in March 744 to Childeric’s second regnal year. The formula leaves the king’s attendance an open question."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 744,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 744,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:pippin-iii",
+      "role": "author",
+      "sourceRefs": [
+        {
+          "sourceId": "source:soissons-capitulary-744",
+          "role": "supports",
+          "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:soissons-capitulary-744",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:soissons-capitulary-744",
+          "role": "supports",
+          "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:merovingian-soissons"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-soissons-orientation",
+      "role": "location"
+    }
+  ]
+}

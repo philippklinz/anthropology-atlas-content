@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:verberie-on-the-oise",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:muehlbacher-pippin-verberie-752",
+      "role": "supports",
+      "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q815701, coordinate location (P625), rounded to two decimal places."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Verberie an der Oise",
+    "en": "Verberie on the Oise"
+  },
+  "summary": {
+    "de": "Pippins Urteil für Saint-Denis von 752 nennt die Pfalz in Verberie.",
+    "en": "Pippin’s judgment for Saint-Denis in 752 names the palace at Verberie."
+  }
+}

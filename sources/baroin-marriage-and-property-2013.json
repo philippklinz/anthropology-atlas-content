@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:baroin-marriage-and-property-2013",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Le couple en droit au haut Moyen Âge : autour de l’affectio maritalis et des relations patrimoniales",
+  "sourceType": "article",
+  "creators": [
+    "Agathe Baroin"
+  ],
+  "url": "https://journals.openedition.org/medievales/pdf/7109",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Legal analysis of the marriage property and subsequent claims of Galswinth and Brunhild.",
+  "published": "2013",
+  "identifiers": {
+    "doi": "10.4000/medievales.7109"
+  },
+  "containerTitle": "Médiévales 65"
+}

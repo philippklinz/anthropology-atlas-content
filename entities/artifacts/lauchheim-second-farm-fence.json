@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:lauchheim-second-farm-fence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:schoenenberg-farmsteads-and-fence-lines",
+      "role": "supports",
+      "locator": "pp. 298–302, figs. 4a–c. Reconstructed successive fence lines in the south-eastern sector. Phase II encloses four graves, including graves 24 and 25 dated to the last third of the seventh century."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Zweiter Zaunverlauf im Südosthof",
+    "en": "Second fence line of the south-eastern farmstead"
+  },
+  "summary": {
+    "de": "Im Rekonstruktionsplan umschließt die Einfriedung vier Gräber, darunter Grab 24 und 25.",
+    "en": "The reconstructed enclosure contains four burials, including graves 24 and 25."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:pippin-hearing-at-attigny-751",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heidrich-attigny-judgment",
+      "role": "supports",
+      "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+    },
+    {
+      "sourceId": "source:telma-pippin-attigny-751",
+      "role": "supports",
+      "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    }
+  ],
+  "subjectId": "artifact:attigny-judgment-751",
+  "predicate": "attested-at",
+  "objectId": "place:attigny-on-the-aisne",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 751,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 751,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Schauplatz des Verfahrens am 20. Juni, im Jahresfenster 751 dargestellt. Heute liegt das Pergament in Paris.",
+      "en": "The hearing of 20 June, shown within 751. The parchment is kept in Paris today."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:attigny-on-the-aisne-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Pfalz von Attigny erscheint im Gerichtsurteil Pippins.",
+    "en": "The court record locates Pippin’s hearing at the palace of Attigny."
+  }
+}

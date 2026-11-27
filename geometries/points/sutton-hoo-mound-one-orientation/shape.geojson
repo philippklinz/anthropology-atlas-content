@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:sutton-hoo-mound-one-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.34,
+      52.09
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:artem-dagobert-iticina",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "archive",
+  "title": "Dagobert I and the estate of Iticina",
+  "creators": [
+    "Cédric Giraud",
+    "Jean-Baptiste Renault",
+    "Benoît-Michel Tock"
+  ],
+  "url": "https://telma.irht.cnrs.fr/outils/originaux/charte4504/",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The ARTEM/CMJS record describes the original papyrus and transcribes the surviving Latin with gaps and editorial restorations.",
+  "containerTitle": "Chartes originales antérieures à 1121 conservées en France (IRHT/CNRS)",
+  "published": "2010"
+}

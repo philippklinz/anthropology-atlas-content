@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:geschichtsquellen-gesta-dagoberti",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "archive",
+  "title": "Gesta Dagoberti I regis Francorum",
+  "creators": [
+    "Bayerische Akademie der Wissenschaften"
+  ],
+  "url": "https://geschichtsquellen.de/werk/2481",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Repertory entry distinguishing the period described from the composition of the monastic biography.",
+  "containerTitle": "Geschichtsquellen des deutschen Mittelalters"
+}

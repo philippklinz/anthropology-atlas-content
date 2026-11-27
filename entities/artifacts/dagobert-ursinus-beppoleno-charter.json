@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:dagobert-ursinus-beppoleno-charter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-dagobert-ursinus",
+      "role": "supports",
+      "locator": "ARTEM 4507, Archives nationales AE II 3 (K 1 no. 9), regest and ll. 1–4. Petition, brothers, inherited property and Rouergue. Place of issue unidentified. This edition gives 637."
+    },
+    {
+      "sourceId": "source:koelzer-merovingian-charters-2001",
+      "role": "supports",
+      "locator": "DD Mer. 28, pp. 75–77 (Paris plot); 32, pp. 87–89, especially ll. 3–7 (Ursinus, Beppoleno, maternal estate and mancipia; original ratification dated 629–637); 41, pp. 108–110 (Iticina, probably October 632, possibly into 633); 85, pp. 216–218 (royal privilege)."
+    },
+    {
+      "sourceId": "source:cluny-merovingian-charters-2016",
+      "role": "supports",
+      "locator": "List of works, section II “Le pouvoir et ses témoignages”, nos. 15–16, catalogue pp. 25–26. Dimensions and date of Clovis II’s charter and the 629–639 range for Dagobert’s AE II 3."
+    },
+    {
+      "sourceId": "source:archives-nationales-dagobert-papyrus-facsimile",
+      "role": "supports",
+      "locator": "Description, collection, accession number AE/II/3 (K//1/9), source, permission and image history. The Archives nationales supplied the photograph; the current 1024 × 496 image is oriented for reading."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Dagoberts Bestätigung für Ursinus und Beppoleno",
+    "en": "Dagobert’s confirmation for Ursinus and Beppoleno"
+  },
+  "summary": {
+    "de": "Das Papyrusoriginal dokumentiert die königliche Bestätigung eines Familienerbes. Die kritische Edition grenzt die Entstehung auf 629–637 ein. Der Ausstellungsort ist unbekannt.",
+    "en": "The original papyrus records the royal ratification of a family division. The critical edition dates it within 629–637. Its place of issue is unknown."
+  }
+}

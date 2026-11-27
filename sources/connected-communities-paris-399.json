@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:connected-communities-paris-399",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "dataset",
+  "title": "Paris – Saint-Germain-des-Prés, attestation 399",
+  "creators": [
+    "Connected Communities in Early Medieval Europe"
+  ],
+  "url": "https://earlymedievaleurope.org/attestation.php?attestationid=399",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Gregory IV.20 for the death and burial of Childebert in Paris in 558."
+}

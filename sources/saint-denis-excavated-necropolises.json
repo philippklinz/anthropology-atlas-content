@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:saint-denis-excavated-necropolises",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "website",
+  "title": "La nécropole, cité des morts",
+  "creators": [
+    "Ministère de la Culture",
+    "Unité d’archéologie de la Ville de Saint-Denis"
+  ],
+  "url": "https://archeologie.culture.gouv.fr/saint-denis/fr/la-necropole-cite-des-morts",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Archaeological synthesis distinguishing the earlier basilica, the aristocratic cemetery within it and the excavated graves to its north.",
+  "containerTitle": "Saint-Denis, une ville au Moyen Âge"
+}

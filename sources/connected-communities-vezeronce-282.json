@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:connected-communities-vezeronce-282",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "dataset",
+  "title": "Vézeronce, attestation 282",
+  "creators": [
+    "Connected Communities in Early Medieval Europe"
+  ],
+  "url": "https://earlymedievaleurope.org/attestation.php?attestationid=282",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Gregory III.6, town identification, year 524 and named participants."
+}

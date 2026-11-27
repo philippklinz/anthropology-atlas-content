@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:grimhild-donation-wissembourg-743",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:grimhild-wissembourg-cartulary",
+      "role": "supports",
+      "locator": "Place of issue, two possessions, cartulary transmission and the closing formula dating by Carloman and Pippin. Different editions assign different days early in 743."
+    },
+    {
+      "sourceId": "source:scholz-free-women-frankish-realm",
+      "role": "supports",
+      "locator": "p. 123, section 3 and notes 80–82: Grimhild’s property, intention, request for the charter and first place in the witnesses. The study follows the January dating."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Grimhild gibt Besitz an Weißenburg",
+    "en": "Grimhild gives property to Wissembourg"
+  },
+  "note": {
+    "de": "Grimhild schenkte dem Kloster Besitz. Sein Urkundenbuch bewahrt eine Abschrift ihrer Verfügung mit der Datierung nach Karlmann und Pippin.",
+    "en": "Grimhild donated property to the monastery. Its cartulary preserves a copy of her grant, dated by Carloman and Pippin."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 743,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 743,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:grimhild-of-the-wissembourg-charter",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:scholz-free-women-frankish-realm",
+          "role": "supports",
+          "locator": "p. 123, section 3 and notes 80–82: Grimhild’s property, intention, request for the charter and first place in the witnesses. The study follows the January dating."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:grimhild-wissembourg-donation",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:grimhild-wissembourg-cartulary",
+          "role": "supports",
+          "locator": "Place of issue, two possessions, cartulary transmission and the closing formula dating by Carloman and Pippin. Different editions assign different days early in 743."
+        },
+        {
+          "sourceId": "source:scholz-free-women-frankish-realm",
+          "role": "supports",
+          "locator": "p. 123, section 3 and notes 80–82: Grimhild’s property, intention, request for the charter and first place in the witnesses. The study follows the January dating."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:wissembourg-monastery"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:wissembourg-monastery-orientation",
+      "role": "location"
+    }
+  ]
+}

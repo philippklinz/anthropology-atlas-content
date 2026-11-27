@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:lauchheim-necklace-in-grave-90",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lad-lauchheim-wasserfurche",
+      "role": "supports",
+      "locator": "Project description, cemetery plan and photograph caption for grave 90. A disc brooch and beads from a necklace at chest level, first half of the seventh century."
+    }
+  ],
+  "subjectId": "artifact:lauchheim-grave-90-beads",
+  "predicate": "attested-at",
+  "objectId": "place:lauchheim-wasserfurche",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 601,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 650,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Markierung dient der Orientierung am Hang westlich von Lauchheim. Für die genaue Grabanordnung siehe den publizierten Grabungsplan.",
+      "en": "The marker locates the hillside west of Lauchheim. The published excavation plan shows the layouts of the individual graves."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:lauchheim-cemetery-vicinity",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Denkmalpflege ordnet Grab 90 der ersten Hälfte des siebten Jahrhunderts zu. Perlen und Scheibenfibel kamen im Brustbereich zum Vorschein.",
+    "en": "The heritage office dates grave 90 to the first half of the seventh century. Beads and a disc brooch came to light at chest level."
+  }
+}

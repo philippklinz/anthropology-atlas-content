@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:archives-nationales-dagobert-papyrus-facsimile",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "archive",
+  "title": "Diplôme de Dagobert Ier. Archives nationales AE/II/3",
+  "creators": [
+    "Archives nationales (France)"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Dipl%C3%B4me_de_Dagobert_Ier_(628)._-_Archives_Nationales_-_AE-II-3.jpg",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Institutional facsimile of the petition of Ursinus. The date in the historic file title differs from the dating in the 2016 Cluny exhibition catalogue.",
+  "containerTitle": "Archives nationales / Wikimedia Commons"
+}

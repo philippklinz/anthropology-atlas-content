@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:anastasis-childerici-1655",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Catalogue essay by Olivier Latteur (January 2025), “Contenu”, paragraphs on the 1653 construction site, Chifflet’s medical career, the Plantin-Moretus edition and the Habsburg–Bourbon argument."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Chifflets bebildertes Buch von 1655",
+    "en": "Chifflet’s illustrated book of 1655"
+  },
+  "summary": {
+    "de": "Die bei Plantin-Moretus in Antwerpen gedruckte Untersuchung bewahrt Ansichten des verschollenen Siegelrings.",
+    "en": "Printed by Plantin-Moretus in Antwerp, the study preserves views of the lost seal ring."
+  }
+}

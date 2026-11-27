@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:halfond-vouille-orleans-conciliar-tradition",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Vouillé, Orléans (511), and the Origins of the Frankish Conciliar Tradition",
+  "sourceType": "article",
+  "creators": [
+    "Gregory I. Halfond"
+  ],
+  "containerTitle": "The Battle of Vouillé, 507 CE: Where France Began",
+  "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781614510994.151/pdf?licenseType=open-access",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Compares the two groups of council participants and the provisions made for captives.",
+  "published": "2012",
+  "identifiers": {
+    "doi": "10.1515/9781614510994.151"
+  }
+}

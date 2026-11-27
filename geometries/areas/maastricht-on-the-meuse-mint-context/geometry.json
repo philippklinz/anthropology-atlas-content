@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:maastricht-on-the-meuse-mint-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:getty-tgn-maastricht",
+      "role": "derivation",
+      "locator": "TGN 7006862, coordinates 50.8500° N, 5.6833° E. These locate the modern city."
+    },
+    {
+      "sourceId": "source:maastricht-museum-early-crafts",
+      "role": "supports",
+      "locator": "Sections Artisanal centre and Trade centre. Glass, pottery, textiles and antler working, and twelve named Maastricht moneyers."
+    },
+    {
+      "sourceId": "source:museum-thorn-madelinus",
+      "role": "supports",
+      "locator": "Object description, first paragraph. Found near Thorn in 2009, struck at Maastricht around 625, its two inscriptions and moneyer."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Schraffur bezeichnet die Gegend der auf der Münze genannten Stadt. Die Lage der Werkstatt ist unbekannt.",
+    "en": "Hatching marks the vicinity of the town named on the coin. The position of the workshop is unknown."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic orientation",
+    "originNote": "Editorial generalisation of a cited location. Coordinates are rounded for the atlas."
+  }
+}

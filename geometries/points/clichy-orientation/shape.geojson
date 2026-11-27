@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:clichy-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.319,
+      48.913
+    ]
+  }
+}

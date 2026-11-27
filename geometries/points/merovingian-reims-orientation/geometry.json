@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:merovingian-reims-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+      "role": "supports",
+      "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+    },
+    {
+      "sourceId": "source:saint-remi-reims-baptistery",
+      "role": "supports",
+      "locator": "Entry Baptême: the baptistery identified in the 1995 excavations beneath the cathedral and its proposed association with Clovis."
+    },
+    {
+      "sourceId": "source:schenck-reims-in-merowingischer-zeit",
+      "role": "supports",
+      "locator": "Part II, “Bischof Remigius”, first paragraph and n. 1. The episcopate spans Clovis’s reign; the bishop’s own reference to its length in EA 3."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q41876, P625, rounded to 0.01 degree."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt verortet die heutige Stadt. Ein bestimmtes historisches Gebäude lässt sich damit nicht bestimmen.",
+    "en": "The point locates the modern town. It does not identify any particular historical building."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q41876 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q41876",
+    "originNote": "Rounded Wikidata coordinate for the modern settlement, for city-level orientation."
+  }
+}

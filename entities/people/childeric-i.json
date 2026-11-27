@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:childeric-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-tournai-signet-56-460",
+      "role": "supports",
+      "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+    },
+    {
+      "sourceId": "source:esmonde-cleary-childeric-burial",
+      "role": "supports",
+      "locator": "pp. 383–384, “The Franks and northern Gaul”: grave across the river from the fortifications, dress fastener, military symbolism, arms, ring and three horse pits."
+    },
+    {
+      "sourceId": "source:fischer-lind-childeric-coins",
+      "role": "supports",
+      "locator": "p. 3, introduction: date of the burial, composition of the hoard, four illustrated pierced silver coins, examination after removal from the ground and the authors’ interpretation of the selection; Table II: mints and rulers, including Leo I at Constantinople and Julius Nepos at Ravenna."
+    },
+    {
+      "sourceId": "source:barreveld-identifying-royalty",
+      "role": "supports",
+      "locator": "Sections “Princely tombs” and “King Childeric”: selection of grave goods by the living, limits of identification by seal and the inference of a capital from a burial."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Childerich I.",
+    "en": "Childeric I"
+  },
+  "summary": {
+    "de": "Vater Chlodwigs. Ein Siegelring mit seinem Namen gab der reichen Bestattung in Tournai ihre geläufige Zuordnung.",
+    "en": "Father of Clovis. A signet bearing his name led to the usual identification of the richly furnished burial at Tournai."
+  }
+}

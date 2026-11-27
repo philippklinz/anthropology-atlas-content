@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:lauchheim-grave-27-museum-bed",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:alm-lauchheim-grave-27-bed",
+      "role": "supports",
+      "locator": "Objektfotografie and Copyright → Hauptbild for inventory 1989-0011-0769-9000. The holding museum licenses its main image under CC BY-SA 4.0. No individual photographer is credited on the record."
+    },
+    {
+      "sourceId": "source:alm-lauchheim-grave-27-bed",
+      "role": "supports",
+      "locator": "Object data and Beschreibung, inventory 1989-0011-0769-9000. Mortised bed, wooden dowels and wedge, single bottom board, red and black decoration, leather and plant fibres, and gables added for the burial."
+    }
+  ],
+  "assetType": "image",
+  "file": "stollenbett.png",
+  "mediaType": "image/png",
+  "labels": {
+    "de": "Das Bett aus Grab 27",
+    "en": "The bed from grave 27"
+  },
+  "alt": {
+    "de": "Dunkles Holzbett mit eingeritzten Kreisbögen auf der langen Seitenwand und einem giebelartigen Brett am vorderen Ende.",
+    "en": "Dark wooden bed with arcs incised in its long side and a gabled board at the nearer end."
+  },
+  "entityIds": [
+    "artifact:lauchheim-grave-27-bed",
+    "place:lauchheim-southeastern-farmstead"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "creators": [
+      "Archäologisches Landesmuseum Baden-Württemberg"
+    ],
+    "attribution": "Archäologisches Landesmuseum Baden-Württemberg, Konstanz · Stollenbett, Inv. 1989-0011-0769-9000 · CC BY-SA 4.0",
+    "sourceUrl": "https://www.alm-konstanz.de/digitale-sammlung/objekt/stollenbett-1989-0011-0769-9000",
+    "originNote": "Unmodified 890 × 890 PNG main image from the museum’s object record. Copyright → Hauptbild identifies CC BY-SA 4.0; no individual photographer is named. https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:chifflet-tournai-bees-1655",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    },
+    {
+      "sourceId": "source:bnf-tournai-bee-56-449",
+      "role": "supports",
+      "locator": "Inv. 56.449, Description, Mesures and Mode d’acquisition: gold and garnet, loop for fastening, 1.6 cm, 1.95 g, reported numbers at discovery and presentation, two recovered after the theft."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "derivation",
+      "locator": "Namur copy R6A.0608. “Droits”, “Détenteur des droits” and “Droits d’accès”: public-domain, open-access digitisation by the Bibliothèque universitaire Moretus Plantin."
+    }
+  ],
+  "assetType": "image",
+  "file": "plate.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Die goldenen Insekten unter Chifflets Lupe",
+    "en": "Chifflet examines the gold insects"
+  },
+  "alt": {
+    "de": "Buchseite mit lateinischem Text. Die Tafel darunter zeigt zwei Reihen von je vier goldenen Insekten, abwechselnd aufrecht und kopfüber. Die obere Gruppe trägt eingezeichnete Augen.",
+    "en": "A page of Latin text with an engraving below. Two rows show four insects each, alternately upright and upside down. The upper group has eyes marked on the heads."
+  },
+  "entityIds": [
+    "artifact:tournai-gold-insect-ornaments",
+    "artifact:anastasis-childerici-1655"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Jean-Jacques Chifflet (author)",
+      "Officina Plantiniana Balthasaris Moreti (publisher)",
+      "Université de Namur, Bibliothèque universitaire Moretus Plantin (digitisation)"
+    ],
+    "attribution": "Jean-Jacques Chifflet, Anastasis Childerici I, Antwerp, 1655, p. 322 · UNamur, Bibliothèque universitaire Moretus Plantin, R6A.0608 · public domain",
+    "sourceUrl": "https://neptun.unamur.be/ark:/83449/007c2615e0",
+    "originNote": "Full leaf exported to JPEG at 160 dpi from digital page 348 of the library PDF. The library marks the digitisation PublicDomain and OpenAccess."
+  }
+}

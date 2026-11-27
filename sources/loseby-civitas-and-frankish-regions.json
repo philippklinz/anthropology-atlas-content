@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:loseby-civitas-and-frankish-regions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Lost cities. The end of the civitas-system in Frankish Gaul",
+  "creators": [
+    "Simon T. Loseby"
+  ],
+  "url": "https://pdfs.semanticscholar.org/aa91/cb4a4a8e6a2a9c66ef9b796ebe03cf2900dd.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Study of the civic territory and its changing place in the political and social geography of Frankish Gaul.",
+  "published": "2013",
+  "containerTitle": "Gallien in Spätantike und Frühmittelalter. Kulturgeschichte einer Region"
+}

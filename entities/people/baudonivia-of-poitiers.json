@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:baudonivia-of-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:flierman-williard-radegund-letters",
+      "role": "supports",
+      "locator": "Introduction and “Playing the crowd”, “Beyond the gates”, “Reaching east”: Fortunatus and Baudonivia, the donations (Vita I.12–13), the Rule and communal gifts, and the eastern mission (Vita II.16)."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Baudonivia von Poitiers",
+    "en": "Baudonivia of Poitiers"
+  },
+  "summary": {
+    "de": "Die Autorin gehörte der Frauengemeinschaft von Poitiers an. Bald nach 600 verfasste sie eine zweite Lebensbeschreibung der Gründerin.",
+    "en": "A member of the women’s community at Poitiers, Baudonivia wrote a second account of its founder’s life shortly after 600."
+  }
+}

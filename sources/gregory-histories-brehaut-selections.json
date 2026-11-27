@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gregory-histories-brehaut-selections",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "History of the Franks, selections",
+  "sourceType": "book",
+  "creators": [
+    "Gregory of Tours",
+    "Ernest Brehaut (translator)"
+  ],
+  "url": "https://sourcebooks.fordham.edu/basis/gregory-hist.asp",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The selected translation includes the full text of the agreement in IX.20 and the surrounding narrative.",
+  "published": "1916",
+  "containerTitle": "Internet Medieval Sourcebook, Fordham University"
+}

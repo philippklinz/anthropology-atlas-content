@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:clovis-writes-on-captives",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:clovis-letter-to-the-bishops-bk1",
+      "role": "supports",
+      "locator": "No. 1, pp. 1–2: opening list of protected people and church property; injunction on ring-sealed episcopal letters for captives taken under the king’s peace and the truth of petitions."
+    },
+    {
+      "sourceId": "source:cologne-clovis-bishops-bk1",
+      "role": "supports",
+      "locator": "BK 1, Date and Transmission. Boretius dates the royal letter 507–511; the manuscripts place it in the canonical tradition."
+    },
+    {
+      "sourceId": "source:wood-arians-catholics-and-vouille",
+      "role": "supports",
+      "locator": "pp. 139–141: Gregory’s story about taking hay in Touraine, compared with the orders described in the royal letter."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Chlodwig schreibt über Gefangene",
+    "en": "Clovis writes about captives"
+  },
+  "note": {
+    "de": "Der König erinnert an Befehle für den Feldzug und verlangt ein gesiegeltes Schreiben für bestimmte Fälle. Der Ausstellungsort bleibt offen.",
+    "en": "The king recalls orders given for the campaign and requires a sealed letter in certain cases. The place of issue remains open."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 507,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 511,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:clovis-i",
+      "role": "author",
+      "sourceRefs": [
+        {
+          "sourceId": "source:clovis-letter-to-the-bishops-bk1",
+          "role": "supports",
+          "locator": "No. 1, pp. 1–2: opening list of protected people and church property; injunction on ring-sealed episcopal letters for captives taken under the king’s peace and the truth of petitions."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:clovis-letter-on-captives",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:clovis-letter-to-the-bishops-bk1",
+          "role": "supports",
+          "locator": "No. 1, pp. 1–2: opening list of protected people and church property; injunction on ring-sealed episcopal letters for captives taken under the king’s peace and the truth of petitions."
+        },
+        {
+          "sourceId": "source:cologne-clovis-bishops-bk1",
+          "role": "supports",
+          "locator": "BK 1, Date and Transmission. Boretius dates the royal letter 507–511; the manuscripts place it in the canonical tradition."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

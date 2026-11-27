@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:briggs-rome-to-carolingians",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "From Rome to the Carolingians",
+  "sourceType": "book",
+  "creators": [
+    "Robin Briggs"
+  ],
+  "url": "https://catalogimages.wiley.com/images/db/pdf/9780631214496.excerpt.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "A History of North-Western Europe, chapter 1"
+}

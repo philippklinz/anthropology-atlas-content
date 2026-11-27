@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:lauchheim-mittelhofen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lad-lauchheim-mittelhofen",
+      "role": "supports",
+      "locator": "Opening paragraphs and excavation plan. Settlement traces, sixth to eleventh centuries, 200 metres downslope from the cemetery. Both surface buildings and sunken buildings are documented."
+    },
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 222–224, 231, figs. 3–4. Successive houses, few datable finds from postholes, sixth-century material and the long life of the settlement."
+    },
+    {
+      "sourceId": "source:lauchheim-site-location-boards",
+      "role": "derivation",
+      "locator": "Two boards, maps labelled “Lage des alamannischen Gräberfelds im heutigen Stadtplan” and “Lage der alamannischen Siedlung im heutigen Stadtplan”. Orientation of the cemetery uphill and the farm area nearer the river; no excavation perimeter was digitised."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Wikidata Q50639077, coordinate location (P625), 48°52′17.040″N 10°13′54.120″E, used as the reference point for the cemetery. The two site plans locate Mittelhofen relative to it."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Lauchheim, Siedlung Mittelhofen",
+    "en": "Mittelhofen settlement, Lauchheim"
+  },
+  "summary": {
+    "de": "Ausgegrabene Siedlung auf einer niedrigen Terrasse an der Jagst westlich des heutigen Lauchheim.",
+    "en": "Excavated settlement on a low terrace of the Jagst, west of modern Lauchheim."
+  }
+}

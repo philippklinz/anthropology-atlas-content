@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:cyprian-of-bordeaux",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-vouille-orleans-conciliar-tradition",
+      "role": "supports",
+      "locator": "pp. 161–163, especially p. 163 and n. 60. Cyprian of Bordeaux and five further bishops attended both Agde in 506 and Orléans in 511; canon 5 and prisoners."
+    },
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Cyprian von Bordeaux",
+    "en": "Cyprian of Bordeaux"
+  },
+  "summary": {
+    "de": "Bischof von Bordeaux, der bei den Konzilien in Agde 506 und Orléans 511 bezeugt ist.",
+    "en": "Bishop of Bordeaux attested at both the Council of Agde in 506 and the Council of Orléans in 511."
+  }
+}

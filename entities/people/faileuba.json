@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:faileuba",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Faileuba",
+    "en": "Faileuba"
+  },
+  "summary": {
+    "de": "Der Vertrag sicherte Childeberts Frau Schutz und die Verfügung über ihren Besitz zu, falls ihr Mann vor Guntram sterben sollte.",
+    "en": "The pact promised Childebert’s wife protection and a right to dispose of her property if her husband died before Guntram."
+  }
+}

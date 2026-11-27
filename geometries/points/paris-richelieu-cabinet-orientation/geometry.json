@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:paris-richelieu-cabinet-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q28495553, statement P625: rounded orientation coordinate."
+    },
+    {
+      "sourceId": "source:bnf-richelieu-cabinet-history",
+      "role": "supports",
+      "locator": "“Histoire du Cabinet”, “L’installation du cabinet au sein de la bibliothèque”: gallery above the rue Colbert open to visitors from 1741 and occupied until 1865."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den Gebäudekomplex Richelieu. Das Münzkabinett von 1831 lag über der Rue Colbert und wurde 1865 umgebaut.",
+    "en": "The point denotes the Richelieu complex. The 1831 gallery stood over the rue Colbert and was dismantled in 1865."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q28495553 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q28495553",
+    "originNote": "Rounded Wikidata coordinate of the reference site. The historical feature is not surveyed here."
+  }
+}

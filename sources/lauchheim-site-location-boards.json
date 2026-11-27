@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:lauchheim-site-location-boards",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Alamannisches Gräberfeld in der Flur „Wasserfurche“ / Alamannische Siedlung in der Flur „Mittelhofen“",
+  "sourceType": "website",
+  "creators": [
+    "Stadt Lauchheim",
+    "Alamannenmuseum Ellwangen",
+    "Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart"
+  ],
+  "url": "https://www.lauchheim.de/fileadmin/Dateien/Dateien/Willkommen_in_Lauchhim/2022-11-15_Infotafeln_Alamannen.pdf",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Public interpretation panels. Both location maps are used for site orientation; the panels are linked only.",
+  "published": "2022"
+}

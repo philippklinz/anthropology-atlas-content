@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:lauchheim-grave-90-beads",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lad-lauchheim-wasserfurche",
+      "role": "supports",
+      "locator": "Project description, cemetery plan and photograph caption for grave 90. A disc brooch and beads from a necklace at chest level, first half of the seventh century."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Kettenperlen aus Grab 90 in Wasserfurche",
+    "en": "Necklace beads from Wasserfurche grave 90"
+  },
+  "summary": {
+    "de": "Im Brustbereich lagen die Perlen zusammen mit einer Scheibenfibel.",
+    "en": "The necklace beads lay with a disc brooch at chest level."
+  }
+}

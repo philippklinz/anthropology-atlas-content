@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:dagobert-charter-clichy-632-633",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-dagobert-iticina",
+      "role": "supports",
+      "locator": "ARTEM 4504, Archives nationales K 1 no. 5, transmission, place, regest and ll. 1–3. Address to the duke, the domesticus Gaganricus and the agents, the estate and its former owners. The dated header gives 15 March 633."
+    },
+    {
+      "sourceId": "source:koelzer-merovingian-charters-2001",
+      "role": "supports",
+      "locator": "DD Mer. 28, pp. 75–77 (Paris plot); 32, pp. 87–89, especially ll. 3–7 (Ursinus, Beppoleno, maternal estate and mancipia; original ratification dated 629–637); 41, pp. 108–110 (Iticina, probably October 632, possibly into 633); 85, pp. 216–218 (royal privilege)."
+    },
+    {
+      "sourceId": "source:connected-communities-clippiacum",
+      "role": "supports",
+      "locator": "Attestation 1135, place and original wording Clippiaco. The modern identification is Saint-Ouen-sur-Seine; the translation renders the place Clichy. Used for geographical orientation only."
+    }
+  ],
+  "subjectId": "artifact:dagobert-iticina-charter",
+  "predicate": "attested-at",
+  "objectId": "place:clichy",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 632,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 633,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Ausschnitt umfasst das Gebiet bei Clichy und Vieux Saint-Ouen an der Seine. Er lässt die Lage einzelner Räume des frühmittelalterlichen Hofes offen.",
+      "en": "This area covers Clichy and Vieux Saint-Ouen along the Seine. The location of individual buildings of the early medieval court remains open."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:clichy-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Der Ortsname des Ausstellers gehört zu Clippiacum. Das von der Urkunde betroffene Landgut Iticina liegt anderswo im Pariser Umland.",
+    "en": "The place of issue is Clippiacum. Iticina, the estate concerned in the charter, lay elsewhere in the Paris region."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:partitioning-the-frankish-kingdoms",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Vier Brüder und ein Drittel von Paris",
+    "en": "Four brothers and a third of Paris"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:clovis-and-his-bishops",
+    "package:dagobert-and-saint-denis",
+    "package:merovingian-queens-and-the-treaty",
+    "package:the-last-merovingian-king",
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "artifact:edict-of-paris-614",
+    "artifact:vezeronce-spangenhelm",
+    "assertion:charibert-paris-561",
+    "assertion:chilperic-soissons-561",
+    "assertion:chlothar-edict-issued-in-paris-614",
+    "assertion:guntram-orleans-561",
+    "assertion:sigibert-reims-561",
+    "chapter:partitioning-the-frankish-kingdoms",
+    "event:childebert-death-and-succession-558",
+    "event:chlodomer-at-vezeronce-524",
+    "event:chlothar-sole-rule-613",
+    "event:clovis-buried-at-paris-511",
+    "event:clovis-sons-share-the-kingdom-511",
+    "event:edict-of-paris-614",
+    "event:four-frankish-seats-561",
+    "event:siege-of-autun-and-burgundian-conquest",
+    "geometry:autun-siege-orientation",
+    "geometry:reims-royal-seat-context",
+    "geometry:vezeronce-battle-orientation",
+    "person:charibert-i",
+    "person:childebert-i",
+    "person:chilperic-i",
+    "person:chlodomer",
+    "person:chlothar-i",
+    "person:godomar-of-burgundy",
+    "person:sigibert-i",
+    "person:theuderic-i",
+    "place:autun-augustodunum",
+    "place:vezeronce-in-the-viennois",
+    "polity:chariberts-share-of-561",
+    "polity:chilperics-share-of-561",
+    "polity:guntrams-share-of-561",
+    "polity:sigiberts-share-of-561",
+    "source:beylie-vezeronce-grenoble-1909",
+    "source:boretius-chlothar-edict-paris",
+    "source:capitularia-chlothar-edict-bk9",
+    "source:connected-communities-autun-292",
+    "source:connected-communities-paris-1173",
+    "source:connected-communities-paris-399",
+    "source:connected-communities-vezeronce-282",
+    "source:isere-helmet-of-vezeronce",
+    "source:loseby-civitas-and-frankish-regions",
+    "source:widdowson-merovingian-partitions",
+    "source:wiseman-autun-and-burgundy-534"
+  ],
+  "entryChapterIds": [
+    "chapter:partitioning-the-frankish-kingdoms"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

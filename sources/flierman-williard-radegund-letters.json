@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:flierman-williard-radegund-letters",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Letters, gifts and messengers. The epistolary strategies of St Radegund",
+  "sourceType": "article",
+  "creators": [
+    "Robert Flierman",
+    "Hope Williard"
+  ],
+  "url": "https://doi.org/10.1111/emed.12776",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "A comparison of the Lives, the Rule and the circulation of clothing, food, letters and relics.",
+  "published": "2025",
+  "identifiers": {
+    "doi": "10.1111/emed.12776"
+  },
+  "containerTitle": "Early Medieval Europe 33.3"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:sutton-hoo-mound-one",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:national-trust-sutton-hoo-mound-one",
+      "role": "derivation",
+      "locator": "Monument 00400 / MNA108959, grid reference TM 2877 4869. Orientation point for Mound 1."
+    },
+    {
+      "sourceId": "source:british-museum-sutton-hoo-gold",
+      "role": "supports",
+      "locator": "Room 41, Gold coins. The 37 struck coins, three blanks and two ingots, Frankish mints and a suggested deposit between 610 and 635."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Sutton Hoo, Hügel 1",
+    "en": "Sutton Hoo, Mound 1"
+  },
+  "summary": {
+    "de": "Unter dem Hügel in Suffolk blieb die Kammer eines Schiffsgrabes erhalten.",
+    "en": "The mound in Suffolk covered the chamber of a ship burial."
+  }
+}

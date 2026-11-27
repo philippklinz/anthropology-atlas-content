@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:saint-denis-plot-paris-625",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-chlothar-paris-625",
+      "role": "supports",
+      "locator": "ARTEM 4505, Archives nationales K 1 no. 7/1, regest and ll. 3–7. Abbot Dodo, the donor Dagobert, whose father was Baddo, and a plot described as within the walls of Paris."
+    }
+  ],
+  "subjectId": "place:paris-plot-of-baddos-son",
+  "predicate": "located-at",
+  "objectId": "place:merovingian-paris",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 625,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 625,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Gerundete Orientierung für das Stadtgebiet im Zentrum von Paris. Der Umriss zeichnet keine Befestigung und keine Parzelle nach.",
+      "en": "Rounded orientation for the urban locality in central Paris. The outline leaves the walls and individual properties undetermined."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Bestätigung nennt ein Grundstück innerhalb der Mauern von Paris. Das Kartenjahr gehört zur Urkunde.",
+    "en": "The confirmation identifies land inside the walls of Paris. The mapped date is the date of the charter."
+  }
+}

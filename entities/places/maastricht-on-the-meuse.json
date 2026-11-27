@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:maastricht-on-the-meuse",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:getty-tgn-maastricht",
+      "role": "derivation",
+      "locator": "TGN 7006862, coordinates 50.8500° N, 5.6833° E. These locate the modern city."
+    },
+    {
+      "sourceId": "source:maastricht-museum-early-crafts",
+      "role": "supports",
+      "locator": "Sections Artisanal centre and Trade centre. Glass, pottery, textiles and antler working, and twelve named Maastricht moneyers."
+    },
+    {
+      "sourceId": "source:museum-thorn-madelinus",
+      "role": "supports",
+      "locator": "Object description, first paragraph. Found near Thorn in 2009, struck at Maastricht around 625, its two inscriptions and moneyer."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Maastricht an der Maas",
+    "en": "Maastricht on the Meuse"
+  },
+  "summary": {
+    "de": "Ein Ortsname auf Goldmünzen und archäologische Funde verbinden Maastricht mit mehreren Handwerken.",
+    "en": "A mint name on gold coins and archaeological evidence connect Maastricht to several trades."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:cahors-cadurcis-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.44,
+      44.45
+    ]
+  }
+}

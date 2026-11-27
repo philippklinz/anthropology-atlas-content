@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:radegund-letter-of-protection",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radegund-letter-to-all-bishops",
+      "role": "supports",
+      "locator": "Gregory IX.42; Epistolae 914, first paragraphs and final appeal: Chlothar’s resources, Agnes’s election, obedience of the founder, protection of property, and burial in the church dedicated to Mary even if unfinished."
+    },
+    {
+      "sourceId": "source:flierman-gregory-and-the-merovingian-letter",
+      "role": "supports",
+      "locator": "Section on the nuns of Poitiers, pp. 136–142; narrative setting of the 589 appeal, inserted letters in IX.39–42 and the episcopal tribunal of 590 in X.16."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Radegundes Brief zum Schutz des Klosters",
+    "en": "Radegund’s letter for the protection of her convent"
+  },
+  "summary": {
+    "de": "Gregor überliefert Radegundes Appell an die Bischöfe, Agnes und die Ausstattung der Gemeinschaft nach ihrem Tod zu schützen.",
+    "en": "Gregory preserves Radegund’s appeal to bishops to protect Agnes and the community’s endowment after her death."
+  }
+}

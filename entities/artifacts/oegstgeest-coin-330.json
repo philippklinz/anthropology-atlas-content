@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:oegstgeest-coin-330",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jezeer-oegstgeest-excavation",
+      "role": "supports",
+      "locator": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Die nachgeprägte Münze, Fund 330",
+    "en": "The imitation coin, find 330"
+  },
+  "summary": {
+    "de": "Der Grabungsbericht verzeichnet 1,22 Gramm Gewicht und 39 Prozent Gold. Die geschätzte Prägezeit um 650–660 datiert die Herstellung.",
+    "en": "The excavation report gives a weight of 1.22 grams and 39 per cent gold. Its proposed date of around 650–660 refers to manufacture."
+  }
+}

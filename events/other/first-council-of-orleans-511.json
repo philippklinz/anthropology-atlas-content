@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:first-council-of-orleans-511",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:szafranowski-orleans-er1039",
+      "role": "supports",
+      "locator": "ER 1039, canon 5, Latin and translation: proceeds of gifts and fields from the king for buildings, support of priests and the poor, or ransoming captives."
+    },
+    {
+      "sourceId": "source:halfond-vouille-orleans-conciliar-tradition",
+      "role": "supports",
+      "locator": "pp. 161–163, especially p. 163 and n. 60. Cyprian of Bordeaux and five further bishops attended both Agde in 506 and Orléans in 511; canon 5 and prisoners."
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian calendar rules. 10 July 511 Julian corresponds to 12 July in the proleptic Gregorian calendar used for computation."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Erstes Konzil von Orléans",
+    "en": "First Council of Orléans"
+  },
+  "note": {
+    "de": "Die von Chlodwig einberufene Versammlung schloss am 10. Juli 511. Kanon 5 regelt die Verwendung der Einkünfte aus königlichen Schenkungen.",
+    "en": "The council convened by Clovis concluded on 10 July 511. Canon 5 regulates how the proceeds from royal gifts could be used."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 511,
+        "month": 7,
+        "day": 12
+      },
+      "latest": {
+        "year": 511,
+        "month": 7,
+        "day": 12
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "10 July 511",
+        "calendar": "julian",
+        "conversionNote": "Two days later in the proleptic Gregorian computation calendar."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:bishops-at-first-council-of-orleans",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:halfond-orleans-first-council",
+          "role": "supports",
+          "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+        }
+      ]
+    },
+    {
+      "entityId": "person:cyprian-of-bordeaux",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:halfond-vouille-orleans-conciliar-tradition",
+          "role": "supports",
+          "locator": "pp. 161–163, especially p. 163 and n. 60. Cyprian of Bordeaux and five further bishops attended both Agde in 506 and Orléans in 511; canon 5 and prisoners."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:merovingian-orleans"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-orleans-orientation",
+      "role": "location"
+    }
+  ]
+}

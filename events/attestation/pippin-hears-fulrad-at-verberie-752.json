@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:pippin-hears-fulrad-at-verberie-752",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:muehlbacher-pippin-verberie-752",
+      "role": "supports",
+      "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+    },
+    {
+      "sourceId": "source:costambeys-innes-maclean-carolingian-kingship",
+      "role": "supports",
+      "locator": "Opening, “Replacing the ruling dynasty”: Pippin’s two documentary titles, the limits on dating the change, contemporary Roman evidence and the retrospective accounts produced under Carolingian rule."
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and proleptic Gregorian leap-year rules: in June 751 and March 752 the Gregorian date is four days later."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Pippin urteilt als König in Verberie",
+    "en": "Pippin gives judgment as king at Verberie"
+  },
+  "note": {
+    "de": "Abt Fulrad machte Lobas Schenkung an Saint-Denis geltend. Am 1. März 752 erkannte ihr Sohn Gislemar sie vor Pippins Gericht an. Das Urteil nennt Pippin König der Franken.",
+    "en": "Abbot Fulrad pressed the claim of Saint-Denis to Loba’s gift. On 1 March 752 her son Gislemar acknowledged it before Pippin’s court. The judgment styles Pippin king of the Franks."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 752,
+        "month": 3,
+        "day": 5
+      },
+      "latest": {
+        "year": 752,
+        "month": 3,
+        "day": 5
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "01.03.752",
+        "calendar": "julian",
+        "conversionNote": "The corresponding proleptic Gregorian date is four days later."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:pippin-iii",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:muehlbacher-pippin-verberie-752",
+          "role": "supports",
+          "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+        }
+      ]
+    },
+    {
+      "entityId": "person:fulrad-of-saint-denis",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:muehlbacher-pippin-verberie-752",
+          "role": "supports",
+          "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:verberie-judgment-752",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:muehlbacher-pippin-verberie-752",
+          "role": "supports",
+          "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:verberie-on-the-oise"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:verberie-on-the-oise-orientation",
+      "role": "location"
+    }
+  ]
+}

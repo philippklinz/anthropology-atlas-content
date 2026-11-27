@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:grierson-sutton-hoo-coins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Purpose of the Sutton Hoo Coins",
+  "sourceType": "article",
+  "creators": [
+    "Philip Grierson"
+  ],
+  "url": "https://doi.org/10.1017/S0003598X0004093X",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Antiquity 44, pp. 14–18, opening paragraphs. Separate weights for struck coins, the three blanks and the two rectangular ingots.",
+  "published": "1970"
+}

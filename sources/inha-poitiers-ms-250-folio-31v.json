@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:inha-poitiers-ms-250-folio-31v",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Vie de Sainte Radegonde, L’entrée de Radegonde au monastère, Poitiers BM 250 (136) f. 31v",
+  "sourceType": "catalog",
+  "creators": [
+    "Institut national d’histoire de l’art"
+  ],
+  "url": "https://fabriques.inha.fr/s/fva/item/8cfdd1c6-c4e0-4df2-b067-18bccb2595ab",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Object record for the illumination, with shelfmark, place of production, date (1095–1105), scene identification and analyses of its pigments.",
+  "containerTitle": "Fabrique de l’art. Couleurs et matériaux de l’enluminure"
+}

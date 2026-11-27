@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:fredegund-at-paris-584",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+      "role": "supports",
+      "locator": "VI.46 and VII.4–5, 7: Chilperic’s death in 584, Paris, sanctuary under Ragnemod, the golden dish, messengers to Guntram and the infant Chlothar."
+    },
+    {
+      "sourceId": "source:halfond-chilperic-fredegund-patronage",
+      "role": "supports",
+      "locator": "Abstract, pp. 48–49: seventeen episcopal supporters, donations and Gregory’s portrayal of Chilperic and Fredegund."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Fredegunde sucht in Paris Schutz",
+    "en": "Fredegund seeks sanctuary in Paris"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 584,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 584,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:fredegund",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+          "role": "supports",
+          "locator": "VI.46 and VII.4–5, 7: Chilperic’s death in 584, Paris, sanctuary under Ragnemod, the golden dish, messengers to Guntram and the infant Chlothar."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-paris"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Nach Chilperichs Tod nimmt Ragnemod die Königin in seiner Bischofskirche auf. Von Paris aus lässt sie Guntram um Beistand bitten.",
+    "en": "After Chilperic’s death Ragnemod receives the queen at his cathedral. From Paris she sends to Guntram for support."
+  }
+}

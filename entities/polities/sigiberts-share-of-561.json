@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "polity:sigiberts-share-of-561",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+    },
+    {
+      "sourceId": "source:widdowson-merovingian-partitions",
+      "role": "supports",
+      "locator": "Abstract. Questions the degree to which Gregory’s pairing of 511 and 561 reflects formal settlements. His narrative served the political arguments of a later generation."
+    },
+    {
+      "sourceId": "source:loseby-civitas-and-frankish-regions",
+      "role": "supports",
+      "locator": "pp. 223–225, 237–239 and nn. 64–67. Shares in cities and aristocratic loyalty in the Treaty of Andelot. Gregory’s use of Burgundy and Austrasia, absence of Neustria in his work, and the emergence of the three regional kingdoms."
+    }
+  ],
+  "entityType": "polity",
+  "labels": {
+    "de": "Sigiberts Reichsanteil 561",
+    "en": "Sigibert’s share of the kingdom in 561"
+  },
+  "summary": {
+    "de": "Gregor nennt Reims als Königssitz in dem Anteil, den Sigibert 561 erhielt.",
+    "en": "Gregory names Reims as the royal seat in the share Sigibert received in 561."
+  }
+}

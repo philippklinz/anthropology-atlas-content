@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:maastricht-on-the-meuse-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      5.68,
+      50.85
+    ]
+  }
+}

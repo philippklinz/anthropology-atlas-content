@@ -1,0 +1,485 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:the-last-merovingian-king",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:scholz-free-women-frankish-realm",
+      "role": "supports",
+      "locator": "p. 123, section 3 and notes 80–82: Grimhild’s property, intention, request for the charter and first place in the witnesses. The study follows the January dating."
+    },
+    {
+      "sourceId": "source:grimhild-wissembourg-cartulary",
+      "role": "supports",
+      "locator": "Place of issue, two possessions, cartulary transmission and the closing formula dating by Carloman and Pippin. Different editions assign different days early in 743."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    },
+    {
+      "sourceId": "source:briggs-rome-to-carolingians",
+      "role": "supports",
+      "locator": "Discussion of the late seventh century: the Pippinids as mayors in Austrasia and Neustria, and Charles Martel’s exercise of power before 741."
+    },
+    {
+      "sourceId": "source:soissons-capitulary-744",
+      "role": "supports",
+      "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+    },
+    {
+      "sourceId": "source:telma-pippin-attigny-751",
+      "role": "supports",
+      "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+    },
+    {
+      "sourceId": "source:heidrich-attigny-judgment",
+      "role": "supports",
+      "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+    },
+    {
+      "sourceId": "source:muehlbacher-pippin-verberie-752",
+      "role": "supports",
+      "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+    },
+    {
+      "sourceId": "source:costambeys-innes-maclean-carolingian-kingship",
+      "role": "supports",
+      "locator": "Opening, “Replacing the ruling dynasty”: Pippin’s two documentary titles, the limits on dating the change, contemporary Roman evidence and the retrospective accounts produced under Carolingian rule."
+    },
+    {
+      "sourceId": "source:royal-frankish-annals-early-entries",
+      "role": "supports",
+      "locator": "Entries 749 and 750: petition to Zacharias, elevation at Soissons, Boniface and the tonsure of Childeric. Entries 753–754: papal visit, anointing of Pippin and both sons."
+    },
+    {
+      "sourceId": "source:obrien-origins-royal-anointing",
+      "role": "supports",
+      "locator": "“The Carolingians”, opening paragraphs and notes 35–37, 46: late testimony about 751, Boniface, and papal letters recalling the anointing of Pippin and his sons in 754."
+    },
+    {
+      "sourceId": "source:saint-denis-royal-abbey-eighth-century",
+      "role": "supports",
+      "locator": "“Un programme architectural voulu par les Carolingiens”, first two paragraphs: the basilica as the site of the 754 ceremony and later rebuilding under Fulrad."
+    },
+    {
+      "sourceId": "source:einhard-life-of-charlemagne",
+      "role": "supports",
+      "locator": "Preface and chapters 1–2: the author’s personal obligations to Charles, replies supplied to the kings, the ox cart, and the rise of the mayors."
+    },
+    {
+      "sourceId": "source:deutsche-biographie-einhard",
+      "role": "supports",
+      "locator": "Biographical heading: born around 770, confidant of Charles and historian."
+    },
+    {
+      "sourceId": "source:sainte-genevieve-ms782-107r-image",
+      "role": "supports",
+      "locator": "MS 782, fol. 107r, c. 1274. Object data, dimensions, source and public-domain reproduction; the catalogue and Hedeman below discuss the iconography."
+    },
+    {
+      "sourceId": "source:initiale-grandes-chroniques-ms782",
+      "role": "supports",
+      "locator": "Dating 1274 or soon afterwards, Saint-Denis. See the two records for f. 107 (decor 69170 upper register; 15146 lower register)."
+    },
+    {
+      "sourceId": "source:hedeman-royal-image-folio-107",
+      "role": "supports",
+      "locator": "Chapter 1, “The Royal House and the Abbey of Saint-Denis: A Shared History”, pp. 28–29, fig. 15 and notes 59–61: Stephen II crowns Pippin in the upper scene, Childeric takes the habit below, and the sequence gives prominence to Saint-Denis."
+    },
+    {
+      "sourceId": "source:initiale-f107r-pippins-coronation",
+      "role": "supports",
+      "locator": "Upper register, “Sujet”, “Mot clé” and “Notes”: Pippin kneels before a pope who puts a crown on his head; compare the lower register, notice 15146."
+    },
+    {
+      "sourceId": "source:initiale-f107r-monastic-habit",
+      "role": "supports",
+      "locator": "Lower register, “Sujet” and “Notes”: the catalogue adopts Hedeman’s Childeric identification and records an alternative reading by Boinet and Garnier, who identify Pippin’s brother Carloman."
+    }
+  ],
+  "labels": {
+    "de": "Der letzte Merowingerkönig",
+    "en": "The last Merovingian king"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 5.16,
+      "latitude": 49.25,
+      "metersPerPixel": 3000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 743,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 743,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 754,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 754,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "wissembourg",
+      "textAnchor": "wissembourg",
+      "labels": {
+        "de": "743 · Grimhilds Schenkung",
+        "en": "743 · Grimhild’s gift"
+      },
+      "summary": {
+        "de": "Eine Frau lässt ihren Entschluss in der klösterlichen Überlieferung festhalten.",
+        "en": "A donor has her decision recorded in the abbey’s archive."
+      },
+      "state": {
+        "camera": {
+          "longitude": 7.95,
+          "latitude": 49.04,
+          "metersPerPixel": 640,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 743,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 743,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "soissons",
+      "textAnchor": "soissons",
+      "labels": {
+        "de": "744 · Zwei Namen im selben Satz",
+        "en": "744 · Two names in one sentence"
+      },
+      "summary": {
+        "de": "Pippin spricht, Childerichs Regierungsjahr gibt das Datum.",
+        "en": "Pippin speaks. Childeric’s regnal year supplies the date."
+      },
+      "state": {
+        "camera": {
+          "longitude": 3.32,
+          "latitude": 49.38,
+          "metersPerPixel": 680,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 744,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 744,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "attigny-soissons",
+      "textAnchor": "attigny-soissons",
+      "labels": {
+        "de": "751 · Urkunde und spätere Erzählung",
+        "en": "751 · A charter and a later narrative"
+      },
+      "summary": {
+        "de": "In Attigny entscheidet Pippin als Hausmeier. Die Reichsannalen verlegen die Königserhebung nach Soissons.",
+        "en": "Pippin hears a case at Attigny as mayor. The later annals place his elevation at Soissons."
+      },
+      "state": {
+        "camera": {
+          "longitude": 3.93,
+          "latitude": 49.43,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 751,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 751,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "verberie",
+      "textAnchor": "verberie",
+      "labels": {
+        "de": "752 · Als König vor Gericht",
+        "en": "752 · At court as king"
+      },
+      "summary": {
+        "de": "Abt Fulrad begegnet einem bekannten Richter mit neuem Titel.",
+        "en": "Abbot Fulrad encounters a familiar judge bearing a new title."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.73,
+          "latitude": 49.31,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 752,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 752,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "saint-denis",
+      "textAnchor": "saint-denis",
+      "labels": {
+        "de": "754 · Pippins Söhne empfangen die Salbung",
+        "en": "754 · Pippin’s sons receive anointing"
+      },
+      "summary": {
+        "de": "Der Papst salbt einen regierenden König und dessen beide Söhne.",
+        "en": "The pope anoints a reigning king and both of his sons."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.36,
+          "latitude": 48.94,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 754,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 754,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      },
+      "assetId": "asset:grandes-chroniques-dynastic-change"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Zwei Gerichtsverfahren, derselbe Abt und ein neuer Königstitel. Was die Urkunden über Childerichs Ende verraten, lässt sich mit dem Ochsenwagen in Einhards Erzählung vergleichen.",
+      "en": "Two court cases, the same abbot and a new royal title. Compare what the charters tell us about the end of Childeric’s reign with the ox cart in Einhard’s account."
+    },
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "merovingians",
+        "labels": {
+          "de": "Merowinger",
+          "en": "Merovingians"
+        }
+      }
+    ]
+  },
+  "focusIds": [
+    "person:grimhild-of-the-wissembourg-charter",
+    "event:grimhild-donation-wissembourg-743",
+    "event:soissons-capitulary-childerics-second-year",
+    "artifact:attigny-judgment-751",
+    "event:pippin-succession-in-the-annals",
+    "person:childeric-iii",
+    "event:pippin-hears-fulrad-at-verberie-752",
+    "person:loba-of-the-verberie-judgment",
+    "event:stephen-anoints-pippin-and-sons-754",
+    "asset:grandes-chroniques-dynastic-change"
+  ],
+  "recordIds": [
+    "artifact:attigny-judgment-751",
+    "artifact:grandes-chroniques-pippin-and-childeric",
+    "artifact:grimhild-wissembourg-donation",
+    "artifact:soissons-capitulary-744",
+    "artifact:verberie-judgment-752",
+    "assertion:capitulary-at-soissons-744",
+    "assertion:grimhild-charter-at-wissembourg-743",
+    "assertion:pippin-elevation-reported-at-soissons",
+    "assertion:pippin-hearing-at-attigny-751",
+    "assertion:pippin-judges-at-verberie-752",
+    "assertion:stephen-at-saint-denis-754",
+    "asset:grandes-chroniques-dynastic-change",
+    "community:franks-at-pippins-elevation-in-the-annals",
+    "community:pippin-and-his-sons-at-saint-denis",
+    "event:grimhild-donation-wissembourg-743",
+    "event:pippin-hears-fulrad-at-attigny-751",
+    "event:pippin-hears-fulrad-at-verberie-752",
+    "event:pippin-succession-in-the-annals",
+    "event:soissons-capitulary-childerics-second-year",
+    "event:stephen-anoints-pippin-and-sons-754",
+    "geometry:attigny-on-the-aisne-locality",
+    "geometry:attigny-on-the-aisne-orientation",
+    "geometry:merovingian-soissons-locality",
+    "geometry:merovingian-soissons-orientation",
+    "geometry:saint-denis-basilica-locality",
+    "geometry:saint-denis-basilica-orientation",
+    "geometry:verberie-on-the-oise-locality",
+    "geometry:verberie-on-the-oise-orientation",
+    "geometry:wissembourg-monastery-locality",
+    "geometry:wissembourg-monastery-orientation",
+    "person:childeric-iii",
+    "person:fulrad-of-saint-denis",
+    "person:grimhild-of-the-wissembourg-charter",
+    "person:loba-of-the-verberie-judgment",
+    "person:pippin-iii",
+    "person:pope-stephen-ii",
+    "place:attigny-on-the-aisne",
+    "place:merovingian-soissons",
+    "place:saint-denis-basilica",
+    "place:verberie-on-the-oise",
+    "place:wissembourg-monastery",
+    "source:artem-clovis-parents-saint-denis",
+    "source:briggs-rome-to-carolingians",
+    "source:cmn-history-saint-denis-basilica",
+    "source:cmn-saint-denis-site-coordinate",
+    "source:costambeys-innes-maclean-carolingian-kingship",
+    "source:deutsche-biographie-einhard",
+    "source:einhard-life-of-charlemagne",
+    "source:grimhild-wissembourg-cartulary",
+    "source:hedeman-royal-image-folio-107",
+    "source:heidrich-attigny-judgment",
+    "source:initiale-f107r-monastic-habit",
+    "source:initiale-f107r-pippins-coronation",
+    "source:initiale-grandes-chroniques-ms782",
+    "source:muehlbacher-pippin-verberie-752",
+    "source:obrien-origins-royal-anointing",
+    "source:royal-frankish-annals-early-entries",
+    "source:saint-denis-excavated-necropolises",
+    "source:saint-denis-royal-abbey-eighth-century",
+    "source:sainte-genevieve-ms782-107r-image",
+    "source:scholz-free-women-frankish-realm",
+    "source:soissons-capitulary-744",
+    "source:telma-pippin-attigny-751",
+    "source:usno-calendars",
+    "source:wallace-hadrill-fredegar-fourth-book",
+    "source:weidemann-merovingian-chronology",
+    "source:wikidata-place-coordinates"
+  ]
+}

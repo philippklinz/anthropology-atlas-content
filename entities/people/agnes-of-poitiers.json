@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:agnes-of-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radegund-letter-to-all-bishops",
+      "role": "supports",
+      "locator": "Gregory IX.42; Epistolae 914, first paragraphs and final appeal: Chlothar’s resources, Agnes’s election, obedience of the founder, protection of property, and burial in the church dedicated to Mary even if unfinished."
+    },
+    {
+      "sourceId": "source:fortunatus-milk-to-agnes",
+      "role": "supports",
+      "locator": "Carmina XI.19, Latin text, translation, recipient and historical context: milk and other delicacies, a doctor’s orders and the closing greeting."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Agnes von Poitiers",
+    "en": "Agnes of Poitiers"
+  },
+  "summary": {
+    "de": "In ihrem Brief schildert Radegunde die Wahl von Agnes zur Äbtissin. Fortunatus schrieb ihr Gedichte über die kleinen Geschenke, die sie ihm schickte.",
+    "en": "Radegund’s letter describes Agnes’s election as abbess. Fortunatus wrote to her in verse about the gifts she sent him."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:poitiers-convent-hearing-590",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+      "role": "supports",
+      "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "X.16, from De palla quod repotarent to donatrix Didimia confirmavit: a silk wrap brought de parentibus (from her kin) was given to the abbess. The account distinguishes the original wrap, the altar covering and the trim."
+    },
+    {
+      "sourceId": "source:flierman-gregory-and-the-merovingian-letter",
+      "role": "supports",
+      "locator": "Section on the nuns of Poitiers, pp. 136–142; narrative setting of the 589 appeal, inserted letters in IX.39–42 and the episcopal tribunal of 590 in X.16."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Vor den Bischöfen in Poitiers",
+    "en": "The hearing before the bishops in Poitiers"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 590,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 590,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:leubovera-of-poitiers",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+          "role": "supports",
+          "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+        }
+      ]
+    },
+    {
+      "entityId": "person:clotild-nun-of-poitiers",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+          "role": "supports",
+          "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+        }
+      ]
+    },
+    {
+      "entityId": "person:basina-nun-of-poitiers",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+          "role": "supports",
+          "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+        }
+      ]
+    },
+    {
+      "entityId": "person:didimia-of-poitiers",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+          "role": "supports",
+          "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+        },
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "X.16, from De palla quod repotarent to donatrix Didimia confirmavit: a silk wrap brought de parentibus (from her kin) was given to the abbess. The account distinguishes the original wrap, the altar covering and the trim."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:poitiers-pictavis"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:poitiers-pictavis-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Die Bischöfe übermittelten den Königen ihren Bericht über das Verfahren zwischen Leubovera und den Nonnen. Didimia bestätigte, dass sie ihren seidenen Überwurf der Äbtissin Leubovera geschenkt hatte.",
+    "en": "The bishops sent the kings their account of the proceedings between Leubovera and the nuns. Didimia confirmed that she had given her silk wrap to Abbess Leubovera."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:clovis-ii-confirms-saint-denis-654",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    },
+    {
+      "sourceId": "source:atsma-vezin-saint-denis-654",
+      "role": "supports",
+      "locator": "pp. 353–355, particularly p. 354. Royal confirmation of Landry’s privilege, sung praise on the model of Agaune, signatories and the king’s parents."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Chlodwig II. verfügt den Lobgesang für seine Eltern",
+    "en": "Clovis II provides for sung praise in memory of his parents"
+  },
+  "note": {
+    "de": "In der Urkunde aus Clichy für Saint-Denis werden der Schutz des kirchlichen Besitzes und der fortdauernde Lobgesang miteinander verknüpft.",
+    "en": "The act from Clichy for Saint-Denis connects the protection of the community’s possessions with an unbroken succession of sung praises."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 654,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 654,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:clovis-ii",
+      "role": "author"
+    },
+    {
+      "entityId": "artifact:clovis-ii-saint-denis-privilege",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:nanthild",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:dagobert-i",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:clichy",
+    "place:saint-denis-basilica"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:clichy-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

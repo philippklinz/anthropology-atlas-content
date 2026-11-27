@@ -6,11 +6,13 @@ Im Protokoll einer Versammlung in Toledo steht der Name einer Frau. Baddo, die K
 
 Im September 506 kamen Bischöfe in Agde zusammen, nahe der Mündung des Hérault ins Mittelmeer. König Alarich II. hatte ihnen die Erlaubnis erteilt. Der Bischof Caesarius von Arles leitete die Versammlung. Auch Priester und Diakone waren angereist, um abwesende Bischöfe zu vertreten. Diese Männer gehörten der nizänischen Kirche an. Am westgotischen Hof war die homöische Richtung des Christentums verbreitet. Die beiden Traditionen unterschieden sich unter anderem darin, wie sie das Verhältnis zwischen Gottvater und Sohn beschrieben. Der Hof und die Bischöfe konnten in solchen Fragen verschiedener Meinung sein und dennoch miteinander regieren und verhandeln.
 
-## Wer fiel bei Vouillé?
+## Wer fiel bei Vouillé? {#vouille}
 
 507 besiegte der Frankenkönig Chlodwig Alarich II. in der Gegend von Poitiers. Alarich kam ums Leben, und der größte Teil des westgotischen Aquitaniens ging an die Sieger. Jahrzehnte später schrieb Bischof Gregor von Tours über die Toten. Er erwähnt Männer aus der Auvergne, die sich mit Apollinaris eingefunden hatten, darunter Angehörige senatorischer Familien. Wer nur nach Franken und Goten fragt, übersieht leicht diese Männer mit ihren Bindungen an Städte und Familien des römischen Gallien. Gregor erzählt auch, Chlodwig habe nach einem Winter in Bordeaux den Schatz Alarichs aus Toulouse geholt. Was genau darin lag, führt er hier nicht auf.
 
 Für die Lage der Schlacht nennt Gregor einen zehnten Meilenstein von Poitiers. Doch auf welcher Straße zählte man die Meilen? Sowohl Vouillé nordwestlich der Stadt als auch Voulon weiter südlich wurden vorgeschlagen. Auf der Karte umfasst die markierte Gegend deshalb mehrere mögliche Schauplätze. Einen bestimmten Acker als Schlachtfeld zu identifizieren, würde weitere Belege erfordern.
+
+Für Chlodwig führte der Weg vom Schlachtfeld zum Heiligtum des heiligen Martin in Tours. [Was machte der fränkische König aus seinem Sieg?](chapter:clovis-and-his-bishops#vouille)
 
 ## Was kostete ein Gerichtsverfahren?
 

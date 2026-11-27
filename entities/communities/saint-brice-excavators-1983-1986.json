@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:saint-brice-excavators-1983-1986",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    },
+    {
+      "sourceId": "source:connected-communities-tournai-saint-brice",
+      "role": "supports",
+      "locator": "Site 375, Excavations, Cemetery, Beads and Glass vessels: four campaigns 1983–1986, 21 horses, 11 amber beads in four graves and several kinds of drinking vessel."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Die Grabungsteams von Saint-Brice",
+    "en": "The Saint-Brice excavation teams"
+  },
+  "summary": {
+    "de": "Bei vier Kampagnen von 1983 bis 1986 untersuchten Archäologen die Umgebung des 1653 entdeckten Grabes.",
+    "en": "In four seasons from 1983 to 1986 archaeologists investigated the neighbourhood of the grave discovered in 1653."
+  }
+}

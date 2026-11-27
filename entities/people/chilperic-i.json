@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:chilperic-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+    },
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.40–42, especially pp. 34–35. Frankish succession in 613, the desertion of Sigibert’s army, the capture and death of Brunhild, and the account of Chlothar II taking power over the kingdoms."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chilperich I.",
+    "en": "Chilperic I"
+  },
+  "summary": {
+    "de": "Sohn Chlothars I. Nach einem ersten Versuch, sich Paris zu sichern, erhielt er bei der Teilung Soissons.",
+    "en": "Son of Chlothar I. After a first attempt to secure Paris he received Soissons in the division."
+  }
+}

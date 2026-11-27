@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:sainte-genevieve-ms782-107r-image",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Grandes Chroniques de France: miniature in MS 782, fol. 107r",
+  "sourceType": "object",
+  "creators": [
+    "Anonymous illuminator",
+    "Bibliothèque Sainte-Geneviève, Paris (collection and reproduction)"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Etienne_II_couronne_P%C3%A9pin-Child%C3%A9ric_III_d%C3%A9pos%C3%A9.jpg",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Bibliothèque Sainte-Geneviève, Paris; reproduction via Wikimedia Commons"
+}

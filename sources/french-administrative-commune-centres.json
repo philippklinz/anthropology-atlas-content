@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:french-administrative-commune-centres",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "dataset",
+  "title": "API Découpage administratif. Communes",
+  "creators": [
+    "Service public français"
+  ],
+  "url": "https://geo.api.gouv.fr/decoupage-administratif/communes",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The centre field of each municipality gives a present-day geographic reference. Modern municipal boundaries are not used as historical boundaries."
+}

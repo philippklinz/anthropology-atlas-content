@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:merovingian-tours-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "Book II.37, final sentence, and II.38. Gifts to Saint Martin, the documents from Anastasius, royal dress and public distribution of gold and silver in Tours."
+    },
+    {
+      "sourceId": "source:mathisen-clovis-anastasius-508",
+      "role": "supports",
+      "locator": "pp. 79–83 and 105–109. Account of the 508 visit in Histories II.37–38, ceremonial clothing, largesse and competing readings of the emperor’s honours."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q288, P625, rounded to 0.01 degree."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt verortet die heutige Stadt. Ein bestimmtes historisches Gebäude lässt sich damit nicht bestimmen.",
+    "en": "The point locates the modern town. It does not identify any particular historical building."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q288 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q288",
+    "originNote": "Rounded Wikidata coordinate for the modern settlement, for city-level orientation."
+  }
+}

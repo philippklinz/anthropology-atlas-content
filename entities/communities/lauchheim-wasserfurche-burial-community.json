@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:lauchheim-wasserfurche-burial-community",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 220–223, figs. 1–2 and n. 4. Two neighbouring sites and more than 1,300 graves used from the final third of the fifth century to the end of the seventh."
+    },
+    {
+      "sourceId": "source:lad-lauchheim-wasserfurche",
+      "role": "supports",
+      "locator": "Project description, cemetery plan and photograph caption for grave 90. A disc brooch and beads from a necklace at chest level, first half of the seventh century."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Die Bestattenden am Hang von Wasserfurche",
+    "en": "The people who buried their dead at Wasserfurche"
+  },
+  "summary": {
+    "de": "Über Generationen nutzten Menschen den Friedhof am Hang. Für die einzelnen Verwandtschaftsverhältnisse bedarf es eigener Belege.",
+    "en": "People used the cemetery on the slope for generations. Particular family relationships require separate evidence."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:radegund-of-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radegund-letter-to-all-bishops",
+      "role": "supports",
+      "locator": "Gregory IX.42; Epistolae 914, first paragraphs and final appeal: Chlothar’s resources, Agnes’s election, obedience of the founder, protection of property, and burial in the church dedicated to Mary even if unfinished."
+    },
+    {
+      "sourceId": "source:flierman-williard-radegund-letters",
+      "role": "supports",
+      "locator": "Introduction and “Playing the crowd”, “Beyond the gates”, “Reaching east”: Fortunatus and Baudonivia, the donations (Vita I.12–13), the Rule and communal gifts, and the eastern mission (Vita II.16)."
+    },
+    {
+      "sourceId": "source:chevalier-radegonde-caen",
+      "role": "supports",
+      "locator": "Notice pddn_hagio.202110061928562430200, Mort and Éléments d’identification: Radegund died at Poitiers in August 587."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Radegunde von Poitiers",
+    "en": "Radegund of Poitiers"
+  },
+  "summary": {
+    "de": "Als Frau aus dem thüringischen Königshaus heiratete sie Chlothar I. und gründete später eine Frauengemeinschaft in Poitiers. Ihr Brief nennt Agnes als Äbtissin.",
+    "en": "Born into the Thuringian royal family, she married Chlothar I and later founded a women’s community at Poitiers. Her letter names Agnes as abbess."
+  }
+}

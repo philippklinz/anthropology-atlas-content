@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:oegstgeest-coin-striking",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jezeer-oegstgeest-excavation",
+      "role": "supports",
+      "locator": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Geschätzte Prägezeit von Fund 330",
+    "en": "Estimated striking date of find 330"
+  },
+  "note": {
+    "de": "Der Goldgehalt liefert die Datierung. Der Bericht lokalisiert den neuzeitlichen Fund und lässt den Prägeort offen.",
+    "en": "Gold content informs the date. The report identifies the modern findspot and leaves the mint unknown."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 650,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 660,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:oegstgeest-coin-330",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Datierung beruht auf dem Vergleich des Goldgehalts mit anderen Münzen.",
+      "en": "The proposed date is based on comparison of gold content with other coins."
+    }
+  }
+}

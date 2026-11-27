@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:initiale-grandes-chroniques-ms782",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Paris, Bibliothèque Sainte-Geneviève, 0782: Grandes chroniques de France",
+  "sourceType": "catalog",
+  "creators": [
+    "Institut de recherche et d’histoire des textes, Section des Manuscrits enluminés"
+  ],
+  "url": "https://initiale.irht.cnrs.fr/en/codex/3242",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Initiale. Catalogue of illuminated manuscripts"
+}

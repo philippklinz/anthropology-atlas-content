@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hedeman-royal-image-folio-107",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Royal Image: Illustrations of the Grandes Chroniques de France, 1274–1422",
+  "sourceType": "book",
+  "creators": [
+    "Anne D. Hedeman"
+  ],
+  "url": "https://publishing.cdlib.org/ucpressebooks/public/book/the-royal-image-illustrations-of-the-grandes-chroniques-de-france-1274-1422.html",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "California Studies in the History of Art, University of California Press",
+  "published": "1991"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:saint-denis-basilica-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:saint-denis-excavated-necropolises",
+      "role": "supports",
+      "locator": "Sections “La basilique et ses deux nécropoles” and “Naissance du monastère”. Building extensions, 1959 discovery of the grave attributed to Arnegunde, more than 200 excavated northern burials, plaster sarcophagi and Dagobert’s patronage."
+    },
+    {
+      "sourceId": "source:cmn-history-saint-denis-basilica",
+      "role": "supports",
+      "locator": "Introduction to the royal burials and section on the Merovingian basilica. Dagobert’s burial, present-day site and the date 639 used by the institution."
+    },
+    {
+      "sourceId": "source:cmn-saint-denis-site-coordinate",
+      "role": "supports",
+      "locator": "Accès, Coordonnées GPS, printed p. 6. Site coordinate 48.9355° N, 2.3598° E, rounded for the orientation point. The plan of the early church is not mapped."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundete Umgebung der Basilika in Saint-Denis. Das Ortszeichen und der Umriss verorten den Kirchenplatz; sie geben keinen archäologischen Grundriss wieder.",
+    "en": "Rounded vicinity of the basilica at Saint-Denis. The point and outline locate the church site; individual archaeological features are not drawn."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Rounded editorial orientation for a locality. No modern or ancient parcel or boundary has been traced."
+  }
+}

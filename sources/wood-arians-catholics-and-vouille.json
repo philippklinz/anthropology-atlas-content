@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wood-arians-catholics-and-vouille",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Arians, Catholics, and Vouillé",
+  "sourceType": "article",
+  "creators": [
+    "Ian Wood"
+  ],
+  "containerTitle": "The Battle of Vouillé, 507 CE: Where France Began",
+  "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781614510994.139/pdf?licenseType=open-access",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Compares Gregory’s religious presentation of the campaign with the surviving royal letter.",
+  "published": "2012",
+  "identifiers": {
+    "doi": "10.1515/9781614510994.139"
+  }
+}

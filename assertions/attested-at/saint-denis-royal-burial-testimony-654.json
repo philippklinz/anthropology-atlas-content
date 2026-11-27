@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:saint-denis-royal-burial-testimony-654",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    },
+    {
+      "sourceId": "source:atsma-vezin-saint-denis-654",
+      "role": "supports",
+      "locator": "pp. 353–355, particularly p. 354. Royal confirmation of Landry’s privilege, sung praise on the model of Agaune, signatories and the king’s parents."
+    }
+  ],
+  "subjectId": "artifact:dagobert-i-grave",
+  "predicate": "attested-at",
+  "objectId": "place:saint-denis-basilica",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 654,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 654,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Gerundete Umgebung der Basilika in Saint-Denis. Das Ortszeichen und der Umriss verorten den Kirchenplatz; sie geben keinen archäologischen Grundriss wieder.",
+      "en": "Rounded vicinity of the basilica at Saint-Denis. The point and outline locate the church site; individual archaeological features are not drawn."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:saint-denis-basilica-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Im Jahr 654 bezeugt der Sohn die Ruhestätte beider Eltern. Die Markierung bezeichnet den Zeitpunkt seiner Aussage, Jahre nach der Bestattung.",
+    "en": "In 654 the son identifies the resting place of both parents. This observation is dated to his statement, years after the burial."
+  }
+}

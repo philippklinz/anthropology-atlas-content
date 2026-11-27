@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:clovis-letter-on-captives",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:clovis-letter-to-the-bishops-bk1",
+      "role": "supports",
+      "locator": "No. 1, pp. 1–2: opening list of protected people and church property; injunction on ring-sealed episcopal letters for captives taken under the king’s peace and the truth of petitions."
+    },
+    {
+      "sourceId": "source:cologne-clovis-bishops-bk1",
+      "role": "supports",
+      "locator": "BK 1, Date and Transmission. Boretius dates the royal letter 507–511; the manuscripts place it in the canonical tradition."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Chlodwigs Brief über die Gefangenen",
+    "en": "Clovis’s letter on captives"
+  },
+  "summary": {
+    "de": "Ein in Abschriften erhaltener königlicher Text über den Schutz bestimmter Personengruppen, Gefangene und die mit Siegelringen beglaubigten Schreiben von Bischöfen.",
+    "en": "A royal text surviving in copies on the protection of certain groups, captives and letters authenticated with bishops’ signet rings."
+  }
+}

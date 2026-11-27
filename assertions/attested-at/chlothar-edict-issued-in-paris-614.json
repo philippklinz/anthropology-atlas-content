@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:chlothar-edict-issued-in-paris-614",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:boretius-chlothar-edict-paris",
+      "role": "supports",
+      "locator": "No. 9, p. 22, c. 12, and p. 23, final subscription and dating clause. Judges from other provinces or regions, restitution from their own goods, and Paris as the place of issue."
+    },
+    {
+      "sourceId": "source:capitularia-chlothar-edict-bk9",
+      "role": "supports",
+      "locator": "BK 9, Date and Transmission. Editions by Pertz and Boretius date the edict to 18 October 614. Manuscript Berlin, Staatsbibliothek, Phill. 1743."
+    },
+    {
+      "sourceId": "source:connected-communities-paris-1173",
+      "role": "supports",
+      "locator": "Attestation 1173. Closing clause of the edict of Chlothar II, issue at Paris in 614."
+    }
+  ],
+  "subjectId": "artifact:edict-of-paris-614",
+  "predicate": "attested-at",
+  "objectId": "place:merovingian-paris",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 614,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 614,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Ortsangabe verortet die Ausstellung auf Stadtebene.",
+      "en": "The place name locates the issue of the edict at city scale."
+    }
+  },
+  "note": {
+    "de": "Paris steht in der Schlussformel des königlichen Edikts als Ausstellungsort.",
+    "en": "The dating clause names Paris as the place where the king issued the edict."
+  }
+}

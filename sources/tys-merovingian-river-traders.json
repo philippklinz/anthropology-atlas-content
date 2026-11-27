@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tys-merovingian-river-traders",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Maritime and River Traders, Landing Places, and Emporia Ports in the Merovingian Period in and Around the Low Countries",
+  "sourceType": "article",
+  "creators": [
+    "Dries Tys"
+  ],
+  "url": "https://doi.org/10.1093/oxfordhb/9780190234188.013.26",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The Oxford Handbook of the Merovingian World, pp. 772–774 and figs. 34.1–34.3. River settlements, two moneyers at Dorestad before its later port, Madelinus in the 630s and 640s and possible uses for gold coins.",
+  "published": "2020"
+}

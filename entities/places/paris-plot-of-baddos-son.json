@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:paris-plot-of-baddos-son",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-chlothar-paris-625",
+      "role": "supports",
+      "locator": "ARTEM 4505, Archives nationales K 1 no. 7/1, regest and ll. 3–7. Abbot Dodo, the donor Dagobert, whose father was Baddo, and a plot described as within the walls of Paris."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Pariser Grundstück des Sohnes Baddos",
+    "en": "Paris plot inherited by Baddo’s son"
+  },
+  "summary": {
+    "de": "Das von einem Sohn Baddos geerbte Grundstück lag nach der königlichen Bestätigung von 625 innerhalb der Stadtmauern. Die genaue Parzelle bleibt unbekannt.",
+    "en": "The confirmation of 625 places land inherited by Baddo’s son inside the city walls. The precise plot is unknown."
+  }
+}

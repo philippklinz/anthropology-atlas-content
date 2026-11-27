@@ -1,0 +1,390 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:radegund-and-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radegund-letter-to-all-bishops",
+      "role": "supports",
+      "locator": "Gregory IX.42; Epistolae 914, first paragraphs and final appeal: Chlothar’s resources, Agnes’s election, obedience of the founder, protection of property, and burial in the church dedicated to Mary even if unfinished."
+    },
+    {
+      "sourceId": "source:fortunatus-milk-to-agnes",
+      "role": "supports",
+      "locator": "Carmina XI.19, Latin text, translation, recipient and historical context: milk and other delicacies, a doctor’s orders and the closing greeting."
+    },
+    {
+      "sourceId": "source:szafranowski-poitiers-cross-er1931",
+      "role": "supports",
+      "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+    },
+    {
+      "sourceId": "source:flierman-williard-radegund-letters",
+      "role": "supports",
+      "locator": "Introduction and “Playing the crowd”, “Beyond the gates”, “Reaching east”: Fortunatus and Baudonivia, the donations (Vita I.12–13), the Rule and communal gifts, and the eastern mission (Vita II.16)."
+    },
+    {
+      "sourceId": "source:gregory-radegund-funeral-attestation-933",
+      "role": "supports",
+      "locator": "Attestation 933, Gregory, Glory of the Confessors 104: he went to Radegund’s community at Poitiers on hearing of her death."
+    },
+    {
+      "sourceId": "source:chevalier-radegonde-caen",
+      "role": "supports",
+      "locator": "Notice pddn_hagio.202110061928562430200, Mort and Éléments d’identification: Radegund died at Poitiers in August 587."
+    },
+    {
+      "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+      "role": "supports",
+      "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+    },
+    {
+      "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+      "role": "supports",
+      "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "X.16, from De palla quod repotarent to donatrix Didimia confirmavit: a silk wrap brought de parentibus (from her kin) was given to the abbess. The account distinguishes the original wrap, the altar covering and the trim."
+    },
+    {
+      "sourceId": "source:flierman-gregory-and-the-merovingian-letter",
+      "role": "supports",
+      "locator": "Section on the nuns of Poitiers, pp. 136–142; narrative setting of the 589 appeal, inserted letters in IX.39–42 and the episcopal tribunal of 590 in X.16."
+    },
+    {
+      "sourceId": "source:inha-poitiers-ms-250-folio-31v",
+      "role": "supports",
+      "locator": "Folio 31v, Poitiers BM 250 (136), Lieu de conservation, Période de création and Descripteurs iconographiques: Poitiers, c. 1100, Radegund withdrawing to the monastery."
+    },
+    {
+      "sourceId": "source:commons-radegund-entering-the-convent",
+      "role": "supports",
+      "locator": "Summary and licensing; file history, 2 May 2008: digital image from the municipal library at Poitiers, 1,082 × 850 px, faithful photographic reproduction under the Public Domain Mark."
+    }
+  ],
+  "labels": {
+    "de": "Radegunde und die Frauen von Poitiers",
+    "en": "Radegund and the women of Poitiers"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "asset:radegund-entering-convent-ms-250",
+    "artifact:radegund-letter-of-protection",
+    "person:agnes-of-poitiers",
+    "event:radegund-cross-at-poitiers-569",
+    "event:radegund-funeral-at-poitiers-587",
+    "event:poitiers-nuns-at-tours-589",
+    "event:poitiers-convent-hearing-590",
+    "person:didimia-of-poitiers",
+    "artifact:didimia-silk-coverlet"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 0.52,
+      "latitude": 46.98,
+      "metersPerPixel": 1600,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 569,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 569,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 590,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 590,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "located-at",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "cross",
+      "textAnchor": "cross",
+      "labels": {
+        "de": "569 · Die Reliquie trifft ein",
+        "en": "569 · The relic arrives"
+      },
+      "summary": {
+        "de": "Eufronius von Tours brachte die Reliquie in das Kloster von Poitiers.",
+        "en": "Eufronius of Tours brought the relic into the Poitiers convent."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.34,
+          "latitude": 46.58,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 569,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 569,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "funeral",
+      "textAnchor": "funeral",
+      "labels": {
+        "de": "587 · Ein Bischof kommt aus Tours",
+        "en": "587 · A bishop comes from Tours"
+      },
+      "summary": {
+        "de": "Gregor kam beim Tod der Gründerin nach Poitiers.",
+        "en": "Gregory came to Poitiers when the founder died."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.34,
+          "latitude": 46.58,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 587,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 587,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "tours",
+      "textAnchor": "tours",
+      "labels": {
+        "de": "589 · Die Nonnen sprechen bei Gregor vor",
+        "en": "589 · The nuns approach Gregory"
+      },
+      "summary": {
+        "de": "Gregor schildert den Versuch einer Gruppe von Nonnen, ihre Beschwerden aus Poitiers anderswo vorzutragen.",
+        "en": "Gregory recounts the nuns’ attempt to take their complaints to someone outside Poitiers."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.69,
+          "latitude": 47.39,
+          "metersPerPixel": 520,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 589,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 589,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "hearing",
+      "textAnchor": "hearing",
+      "labels": {
+        "de": "590 · Didimia als Zeugin",
+        "en": "590 · Didimia as a witness"
+      },
+      "summary": {
+        "de": "Im Bericht aus Poitiers bekommt die Seidenspende eine Zeugin mit Namen.",
+        "en": "The report from Poitiers names a woman who testified about her gift of silk."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.34,
+          "latitude": 46.58,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 590,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 590,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine Äbtissin schickt Milch, ein Bischof bringt eine Reliquie, eine Nonne sagt über ein Stück Seide aus. Briefe und ein Urteil erlauben Einblicke in das Leben hinter den Klostertoren.",
+      "en": "An abbess sends milk, a bishop brings a relic and a nun testifies about a piece of silk. Letters and a verdict give a glimpse of life behind the convent gates."
+    },
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "merovingians",
+        "labels": {
+          "de": "Merowinger",
+          "en": "Merovingians"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:cross-relic-at-sainte-croix",
+    "artifact:didimia-silk-coverlet",
+    "artifact:poitiers-ms-250-entry-into-the-convent",
+    "artifact:radegund-letter-of-protection",
+    "assertion:cross-relic-received-at-poitiers-569",
+    "assertion:didimia-at-poitiers-hearing-590",
+    "assertion:gregory-at-radegund-funeral-587",
+    "assertion:poitiers-nuns-in-tours-589",
+    "asset:radegund-entering-convent-ms-250",
+    "community:nuns-from-poitiers-at-tours",
+    "event:poitiers-convent-hearing-590",
+    "event:poitiers-nuns-at-tours-589",
+    "event:radegund-cross-at-poitiers-569",
+    "event:radegund-funeral-at-poitiers-587",
+    "geometry:merovingian-tours-orientation",
+    "geometry:merovingian-tours-urban-context",
+    "geometry:poitiers-convent-and-hearing-locality",
+    "geometry:poitiers-pictavis-orientation",
+    "person:agnes-of-poitiers",
+    "person:basina-nun-of-poitiers",
+    "person:baudonivia-of-poitiers",
+    "person:clotild-nun-of-poitiers",
+    "person:didimia-of-poitiers",
+    "person:eufronius-of-tours",
+    "person:gregory-of-tours",
+    "person:leubovera-of-poitiers",
+    "person:radegund-of-poitiers",
+    "person:venantius-fortunatus",
+    "place:merovingian-tours",
+    "place:poitiers-pictavis",
+    "source:chevalier-radegonde-caen",
+    "source:commons-radegund-entering-the-convent",
+    "source:flierman-gregory-and-the-merovingian-letter",
+    "source:flierman-williard-radegund-letters",
+    "source:fortunatus-milk-to-agnes",
+    "source:gregory-histories-krusch-levison",
+    "source:gregory-poitiers-episcopal-verdict-x-16",
+    "source:gregory-poitiers-nuns-at-tours-ix-39",
+    "source:gregory-radegund-funeral-attestation-933",
+    "source:gregory-tours-histories-ii-37",
+    "source:inha-poitiers-ms-250-folio-31v",
+    "source:mathisen-campus-vogladensis-2012",
+    "source:mathisen-clovis-anastasius-508",
+    "source:radegund-letter-to-all-bishops",
+    "source:szafranowski-poitiers-cross-er1931",
+    "source:wikidata-place-coordinates"
+  ]
+}
