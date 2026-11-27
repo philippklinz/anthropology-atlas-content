@@ -1,0 +1,35 @@
+# Gatun Lake and the towns that had to move
+
+When Panama inaugurated Nueva Gorgona on its Pacific coast in December 1913, a resident named Tomás Posada spoke for his neighbors. They needed someone to deliver the timbers of their dismantled houses. The families had reached the coast. The pieces of their homes were still in storage. Seen from this shore, the history of Gatun Lake takes in several different ways to lose a town. One village lay under the dam itself. Others disappeared under water. People also had to leave towns that stood well above the new shoreline.
+
+## Gatún moves for the first time {#gatun}
+
+At old Gatún, river craft met the [railroad across the isthmus](chapter:roads-rivers-and-the-panama-railroad#railway). Growers on the Gatún, Trinidad and Chagres rivers could bring their bananas here by boat. Some produce found local buyers, and some went on by rail. This arrangement was already in place when the US canal administration arrived in 1904. Its weekly paper later took stock of what had stood in the village at the time of its removal. The inventory included a church, a priest's house, a school, about a dozen small shops and ninety or more dwellings. Some roofs were palm thatch, others sheet metal.
+
+As construction reached the river flats, people began taking their houses apart. Most of the buildings went back up at a new site a short distance east. By 1908 the old village had been abandoned. Earth and rock for the Gatun Dam soon covered the ground on which it had stood. Moving from old Gatún to Nuevo Gatún still left a family within the Canal Zone. It was possible to take the timber of the old house along. One thing the inventory could never price was the value of having a buyer or a boat landing at the door.
+
+## The trains move before the water arrives {#railway-diversion}
+
+On 15 February 1912 the Panama Railroad put a new stretch of track into service between Gatún and Matachín. Six days earlier construction at Gatún had closed off the Chagres. As the water backed up, it gradually flooded much of the old line. People could lose their train service while they could still walk to their front doors on dry ground. In December 1911 the *Canal Record* had reported that people along the route were already dismantling buildings for reassembly elsewhere. The prospect of the tracks being torn up determined when some households moved.
+
+The new Gatún station had a two-story building with a ticket office, baggage room and telegraph office, beside a covered boarding platform. The old line had served different communities. Frijoles, a stop on the old line, had counted 784 residents in 1908. At nearby Bohío, once a French canal headquarters, traders brought in vegetables by canoe and pack animal, exchanging them for groceries and liquor. The lake would submerge Bohío. The same *Canal Record* account that preserves this detail assured readers that clearing the river settlements would sacrifice nothing of value.
+
+## Gorgona's houses and Tomás Posada's list {#gorgona}
+
+A color stereograph shows a street in old Gorgona twice, in a pair of almost identical views. Steps lead down to the uneven surface of the street. Long wooden balconies project above the people standing outside. The lake would cover the space between those buildings. The next town to bear the name lay a considerable distance from that shore. In July 1913 the Panamanian government bought a property of two hundred hectares on the Pacific coast. Families came to the new settlement from several Canal Zone communities. Other residents of the Zone moved to Panama City and its outskirts.
+
+President Belisario Porras and the national band attended the dedication of Nueva Gorgona on 30 December. The bishop dedicated a memorial tablet near the center of town. A contemporary estimate put the population at between five and six hundred. Many still lived in temporary quarters. Tomás Posada's list offers an account of what the dignitaries left behind when the ceremony was over. Residents needed a sufficient supply of water, land to cultivate and a bridge across the Chame River. They also needed the building materials from storage site number six delivered to the coast. The Republic had purchased the land and the town had inherited a name. Whether families could draw drinking water, build a house and put in a crop remained pressing questions.
+
+## Chagres looks for a new harbor {#chagres}
+
+At the Caribbean mouth of the Chagres, people lived and worked in a port below Fort San Lorenzo, downstream of the reservoir. On 5 December 1912 President William Howard Taft had claimed all land within the Canal Zone for the canal and its associated works. In 1914 even the residents of dry Nuevo Gatún were told to move again. In the town of Empire, or Emperador, Antonio Enseñat sought compensation for losing his leasehold. The joint Panamanian and US land commission decided that it had jurisdiction to hear him. Its opinion established where he could bring a claim. The amount of his loss was a separate question.
+
+On 8 December 1915 Governor George Goethals asked Porras for the land at the mouth of the Chagres to protect the canal. He thought farmers and fishers would have little trouble settling in another coastal town. Panama's foreign ministry stressed the historical significance of the fort. On 31 January 1916 Mayor Alejandro Galván and other residents went along the coast to look for a place to resettle. In the record of their visit they recalled that Chagres was the historic seat of their district. They chose a site at the mouth of the Lagarto River, across from the village of Lagarto. In June a tug brought some thirty people there with their belongings and animals. Descendants recalled that other families chose to settle in other towns.
+
+## The fields on Barro Colorado {#barro-colorado}
+
+Near the site of Bohío, rising water cut off a group of hills above the Chagres and made an island. For years the gray trunks of drowned trees stood in its inlets. On 17 April 1923 Canal Zone governor Jay J. Morrow set aside Barro Colorado as a biological reserve. Researchers could reach it by boat and work in a laboratory on the slope above the shore. The botanist Paul Standley described the succession of ships that could be seen through its windows. For the island's few small farmers the reserve brought a different change. Their holdings were bought out.
+
+In 1927 Standley described patches of nearly level ground where shrubs and weeds covered abandoned fields. Older forest stood on some of the slopes and in the ravines. To study the forest across the island meant taking account of what had been done to each patch of ground. A botanical survey thus preserved something that is hard to make out on a map of the finished lake. Some of today's wooded shores were once farmland. The lake still serves shipping and supplies [drinking water in Panama](chapter:a-wider-canal-and-its-fresh-water#rainfall). Its shores also record the lives of people who once planted and made their homes there.
+
+[Return to the Panama Canal reading guide](chapter:reading-the-panama-canal#gatun)
