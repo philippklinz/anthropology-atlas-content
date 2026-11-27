@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:emperor-decius",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radoslavova-abritus-2011",
+      "role": "supports",
+      "locator": "p. 23, opening discussion of Dexippus and later historians"
+    },
+    {
+      "sourceId": "source:razgrad-abritus-reserve",
+      "role": "supports",
+      "locator": "Description of the ancient city and the summer 251 battle in its vicinity"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Kaiser Decius",
+    "en": "Emperor Decius"
+  },
+  "summary": {
+    "de": "Römischer Kaiser, der 251 mit seinem Sohn Herennius Etruscus bei Abritus fiel.",
+    "en": "Roman emperor killed near Abritus in 251 together with his son Herennius Etruscus."
+  }
+}

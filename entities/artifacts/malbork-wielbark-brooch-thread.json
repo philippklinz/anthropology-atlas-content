@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:malbork-wielbark-brooch-thread",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:maik-wielbark-textiles-2023",
+      "role": "supports",
+      "locator": "pp. 161–163, table 1, grave 2012/57, and p. 173, Nitka. Twelve textiles and one thread from nine graves. A mineralised Z-twist thread survived on the brooch pin, with degraded cloth beneath the bow."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Der Faden an der Fibel aus Grab 2012/57",
+    "en": "The thread on the brooch from grave 2012/57"
+  },
+  "summary": {
+    "de": "Auf der Nadel einer Messingfibel blieb ein mineralisierter, Z-gedrehter Faden erhalten. Er lässt sich unter den Textilfunden von Malbork-Wielbark als Stück Nr. 3 nachschlagen.",
+    "en": "A mineralised thread with a Z twist survived on the pin of a brass brooch. It is catalogued as textile find no. 3 from Malbork-Wielbark."
+  }
+}

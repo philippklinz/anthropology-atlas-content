@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:durostorum-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "derivation",
+      "locator": "Pleiades place 216800. Representative location of the ancient city in the published places CSV export; coordinates rounded to 0.01 degree."
+    },
+    {
+      "sourceId": "source:leveniotis-kalafikis-marcianople-2024",
+      "role": "supports",
+      "locator": "pp. 371–378, especially pp. 374–376 and nn. 55–59: approach to Marcianopolis and the case for a battle early in 377"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Orientierung am antiken Stadtgebiet. Die Entfernung zu einem konkreten Ereignis ist unbekannt.",
+      "en": "Urban reference point. Its distance from a particular historical event is unknown."
+    }
+  },
+  "processingNote": {
+    "de": "Das heutige Silistra in Bulgarien verortet den Flussabschnitt. Die genaue Stelle der Überfahrten von 376 bleibt offen.",
+    "en": "Modern Silistra in Bulgaria locates this part of the river. The precise places where people crossed in 376 remain open."
+  },
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "A. G. Poulter"
+    ],
+    "attribution": "A. G. Poulter / Pleiades 216800, CC BY 3.0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://pleiades.stoa.org/places/216800",
+    "originNote": "Rounded adaptation of the Pleiades representative point; licence https://creativecommons.org/licenses/by/3.0/."
+  }
+}

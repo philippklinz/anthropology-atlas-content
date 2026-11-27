@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:alaric-ii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    },
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47, 56–61: date of the battle, Alaric’s death, Gregory’s tenth milestone and rival identifications at Vouillé and Voulon."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Alarich II.",
+    "en": "Alaric II"
+  },
+  "summary": {
+    "de": "Er erlaubte den nizänischen Bischöfen 506, in Agde zu tagen. Im folgenden Jahr fiel er im Kampf bei Poitiers.",
+    "en": "He permitted the Nicene bishops to meet at Agde in 506. He fell in battle near Poitiers the following year."
+  }
+}

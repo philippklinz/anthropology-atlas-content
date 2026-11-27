@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ariminum-rimini-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.56,
+      44.06
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:tolosa-toulouse-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "derivation",
+      "locator": "Pleiades place 246694. Representative location of the ancient city in the published places CSV export; coordinates rounded to 0.01 degree."
+    },
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "Opening paragraphs, p. 65 and notes 1–2: recall from Hispania, Aquitanica Secunda and neighbouring cities, Toulouse and the open question of settlement density"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Orientierung am antiken Stadtgebiet. Die Entfernung zu einem konkreten Ereignis ist unbekannt.",
+      "en": "Urban reference point. Its distance from a particular historical event is unknown."
+    }
+  },
+  "processingNote": {
+    "de": "Die Stadt an der Garonne war ein Zentrum gotischer Könige in Gallien. Der Punkt markiert weder einen Verhandlungsort des Jahres 418 noch einzelne Landzuweisungen.",
+    "en": "The city on the Garonne became a centre of Gothic kings in Gaul. The point locates neither negotiations in 418 nor individual allotments."
+  },
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "H. S. Sivan",
+      "S. J. Keay",
+      "R. W. Mathisen"
+    ],
+    "attribution": "H. S. Sivan, S. J. Keay, R. W. Mathisen / Pleiades 246694, CC BY 3.0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://pleiades.stoa.org/places/246694",
+    "originNote": "Rounded adaptation of the Pleiades representative point; licence https://creativecommons.org/licenses/by/3.0/."
+  }
+}

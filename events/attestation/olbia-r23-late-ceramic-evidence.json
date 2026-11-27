@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:olbia-r23-late-ceramic-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "pp. 34–35, Post-antiquity horizon of Trench R-23, and fig. 19 on the chronology of imported pottery",
+      "note": {
+        "de": "Die Datierung und die Gefäßgruppen gelten für den untersuchten Teil der Zitadelle.",
+        "en": "The dates and pottery groups apply to this excavated part of the citadel."
+      }
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Olbia · Gefäße aus der alten Zitadelle",
+    "en": "Olbia · vessels from the former citadel"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 301,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 450,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:olbia-r23-late-pottery",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Datierung der gesamten Fundschicht. Jedes Gefäß kann nur einen Teil dieser langen Zeitspanne repräsentieren.",
+      "en": "Date of the assemblage as a whole. Each vessel may represent only a small part of this span."
+    }
+  },
+  "note": {
+    "de": "Amphorentypen und rotes Tafelgeschirr datieren den Fundzusammenhang. Hinzu kommen graue und handgeformte Gefäße.",
+    "en": "Types of amphora and red tableware help date the excavated context. The finds also include grey and hand-built wares."
+  },
+  "placeIds": [
+    "place:olbia-pontica"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:olbia-pontica-orientation",
+      "role": "findspot"
+    }
+  ]
+}

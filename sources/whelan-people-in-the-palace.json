@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:whelan-people-in-the-palace",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "Our People in the Palace: Official Churchgoing and Patronage at Post-Imperial Courts",
+  "creators": [
+    "Robin Whelan"
+  ],
+  "url": "https://doi.org/10.1017/9781009714693.011",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Chapter 7 in Serving the Christian State in Late Antiquity, Cambridge University Press, pp. 242–265. Figures 7.1–7.2 and the introduction discuss the mosaic, religious affiliations at court and competing readings of the surviving hands.",
+  "published": "2026"
+}

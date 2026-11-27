@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:gotones-early-roman-accounts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tacitus-germania-44",
+      "role": "supports",
+      "locator": "Germania 44.1, Gotones and neighbouring peoples",
+      "note": {
+        "de": "Die Namensform und die relative Lage stehen im antiken Text.",
+        "en": "The ancient text gives the name and a position relative to other groups."
+      }
+    },
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Chapter 7, pp. 229–230, Historical interpretations: Germania 44 and Ptolemy III.5.7–9",
+      "note": {
+        "de": "Cieśliński erklärt, wie aus den antiken Ortsangaben eine Verortung am Unterlauf der Weichsel erschlossen wird.",
+        "en": "Cieśliński explains how ancient relative locations can be used to infer a lower Vistula setting."
+      }
+    },
+    {
+      "sourceId": "source:ptolemy-geography-european-sarmatia",
+      "role": "supports",
+      "locator": "Book III.5, Description of European Sarmatia. Western limit at the Vistula, then the peoples near the Vistula below the Venedae."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Gotonen der frühen römischen Berichte",
+    "en": "Gotones in early Roman accounts"
+  },
+  "summary": {
+    "de": "Bei Tacitus bezeugter Gruppenname. Weitere antike Ortsangaben und archäologische Befunde führen in die Region der unteren Weichsel.",
+    "en": "A group name recorded by Tacitus. Other ancient geographical evidence and archaeology point to the lower Vistula region."
+  }
+}

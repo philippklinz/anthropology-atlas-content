@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:african-settlement-442",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, 442, peace with Valentinian and division of Africa."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Time Line, pp. xiii–xiv, entries 405/6, 428/29, 430, 435, 439, 442 and 484–496."
+    }
+  ],
+  "eventType": "treaty",
+  "labels": {
+    "de": "Vertrag zwischen Geiserich und Valentinian III.",
+    "en": "Geiseric and Valentinian III reach an agreement"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 442,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 442,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:geiseric",
+      "role": "signatory"
+    },
+    {
+      "entityId": "person:valentinian-iii",
+      "role": "signatory"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Der Vertrag teilte die Herrschaft über afrikanische Gebiete. Bereits 435 hatte eine frühere Vereinbarung einen Teil Afrikas zur Ansiedlung zugewiesen.",
+    "en": "The treaty divided authority over African territories. An earlier agreement of 435 had already assigned part of Africa for settlement."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:uppsala-silver-bible-cross-references",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Silver Bible added to Memory of the World Register",
+  "sourceType": "article",
+  "creators": [
+    "Anna Malmberg"
+  ],
+  "url": "https://www.uu.se/en/news/2011/2011-05-26-silver-bible-added-to-memory-of-the-world-register",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Uppsala University’s account of the Gospel cross-reference system at the foot of the manuscript pages.",
+  "published": "2011-05-26",
+  "publisher": "Uppsala University"
+}

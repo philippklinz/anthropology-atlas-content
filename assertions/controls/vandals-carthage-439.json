@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandals-carthage-439",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entries for 439 and 442: seizure of Carthage followed by the treaty."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entries 439 and 442."
+    }
+  ],
+  "subjectId": "polity:vandal-kingdom-in-africa",
+  "predicate": "controls",
+  "objectId": "place:carthage",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 439,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 439,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 441,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 441,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Markiert ist die Stadt mit ihrem nahen Umfeld. Diese kleinräumige Darstellung dient als gesicherter Anhaltspunkt für die Jahre vor dem Vertrag von 442 und setzt der tatsächlichen Macht des Königs keine räumliche Grenze.",
+      "en": "The outline marks the city and its immediate surroundings, a secure reference point before the 442 treaty. It leaves open the actual extent of the king’s power in those years."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandals-carthage-439",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Geiserich nahm Karthago 439 ein. Die Kontrolle über die Hafenstadt ist vor dem zweiten Vertrag mit der weströmischen Regierung belegt. Mit der Inbesitznahme gewann der König einen wichtigen politischen und wirtschaftlichen Mittelpunkt.",
+    "en": "Geiseric seized Carthage in 439. Control of the port is attested before the second agreement with the western Roman government. Its capture gave the king a major political and economic centre."
+  }
+}

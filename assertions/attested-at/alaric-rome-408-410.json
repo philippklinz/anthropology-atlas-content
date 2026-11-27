@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:alaric-rome-408-410",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.37–42, especially V.39.1: Rome’s approaches and the supply link on the Tiber in the first siege; V.48–51: renewed negotiations."
+    },
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Extract: Italian campaign from 408, shifting alliances, rupture of negotiations, sack of Rome in August 410."
+    }
+  ],
+  "subjectId": "community:alarics-followers",
+  "predicate": "attested-at",
+  "objectId": "region:rome-and-lower-tiber",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 408,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 408,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 410,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 410,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Fläche fasst mehrere Episoden um die Stadt und ihre Zugänge zusammen. Zwischen den Belagerungen wurde verhandelt. Sie kennzeichnet weder eine dreijährige Dauerbelagerung noch ein gotisches Siedlungsgebiet in Latium.",
+      "en": "The area groups separate episodes around the city and its approaches. Negotiations took place between sieges. The window represents neither a continuous three-year siege nor a Gothic settlement territory in Latium."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:alaric-rome-408-410",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Alarichs Gefolgschaft setzte Rom zwischen 408 und 410 wiederholt unter Druck. Der Zugang zur Versorgung auf dem Tiber war für die Verhandlungen wichtig. Im August 410 plünderten die Angreifer die Stadt.",
+    "en": "Alaric’s following repeatedly put pressure on Rome between 408 and 410. Access to provisions on the Tiber mattered in negotiations. In August 410 the attackers sacked the city."
+  }
+}

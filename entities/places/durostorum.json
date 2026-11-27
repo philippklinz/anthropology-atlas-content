@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:durostorum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Record 216800: representative location and ancient place name in the published places CSV export."
+    },
+    {
+      "sourceId": "source:leveniotis-kalafikis-marcianople-2024",
+      "role": "supports",
+      "locator": "pp. 371–378, especially pp. 374–376 and nn. 55–59: approach to Marcianopolis and the case for a battle early in 377"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Durostorum am unteren Donaulauf",
+    "en": "Durostorum on the lower Danube"
+  },
+  "summary": {
+    "de": "Das heutige Silistra in Bulgarien verortet den Flussabschnitt. Die genaue Stelle der Überfahrten von 376 bleibt offen.",
+    "en": "Modern Silistra in Bulgaria locates this part of the river. The precise places where people crossed in 376 remain open."
+  }
+}

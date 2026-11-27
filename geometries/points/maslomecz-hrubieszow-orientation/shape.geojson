@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:maslomecz-hrubieszow-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.9062,
+      50.7298
+    ]
+  }
+}

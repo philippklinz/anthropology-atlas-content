@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:komariv-middle-dniester",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:petrauskas-avramenko-komariv-2019",
+      "role": "supports",
+      "locator": "pp. 68–71, site description and figs. 1–2, settlement and cemetery by the middle Dniester"
+    },
+    {
+      "sourceId": "source:rumyantseva-komariv-glass-2023",
+      "role": "supports",
+      "locator": "pp. 51–69, abstract, chemical groups and conclusions on raw glass supply and chronology",
+      "note": {
+        "de": "Die Analyse der 42 Proben unterscheidet Herkunftsregionen des Rohglases und erkennt Altglasverwertung.",
+        "en": "The 42-sample analysis distinguishes sources of raw glass and identifies the use of cullet."
+      }
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Komariv am mittleren Dnister",
+    "en": "Komariv on the middle Dniester"
+  },
+  "summary": {
+    "de": "Siedlungs- und Werkstattkomplex am rechten Ufer des mittleren Dnister in der heutigen Ukraine.",
+    "en": "Settlement and workshop complex on the right bank of the middle Dniester, in present-day Ukraine."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandals-iberian-settlements-411-418",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 411 and 416–418: Gallaecia shared by Vandals and Suebi, Silings in Baetica, warfare and political change in 418."
+    }
+  ],
+  "subjectId": "community:vandals-in-the-fifth-century",
+  "predicate": "attested-at",
+  "objectId": "region:gallaecia-and-baetica",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 411,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 411,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 418,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 418,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die zwei Flächen greifen Ausschnitte der genannten Provinzen heraus. Örtliche Verteilungen zwischen Gruppen und römischen Bewohnern sind unbekannt. Hydatius beschreibt für 418 das Ende der eigenständigen silingischen Macht.",
+      "en": "The two outlines select parts of the named provinces. The local distribution of groups and Roman residents is unknown. Hydatius places the end of an independent Siling power in 418."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandals-iberian-settlements-411-418",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Für 411 nennt Hydatius zwei weit auseinanderliegende Regionen. In Gallaecia lebten Vandalen und Sueben, die Silingen siedelten in Baetica. Damit bezeichnet der gemeinsame Name „Vandalen“ in dieser Phase verschiedene politische Gruppen.",
+    "en": "For 411 Hydatius names two regions far apart. Vandals and Suebi shared Gallaecia, while the Silings settled in Baetica. At this point the umbrella name “Vandals” covers distinct political groups."
+  }
+}

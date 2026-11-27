@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:theudis-toledo-law-546",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Document 12, Decretum Theudis regis, pp. 262–264: expenses, witnesses, horses, inclusion in the Theodosian collection and Toledo dating clause."
+    },
+    {
+      "sourceId": "source:barroso-cabrera-throne-and-altar",
+      "role": "supports",
+      "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Calendar notes. The proleptic Gregorian computational date is two days after the conventional Julian date in November 546 and May 589."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Theudis regelt die Gerichtskosten",
+    "en": "Theudis regulates the cost of litigation"
+  },
+  "note": {
+    "de": "Seine Verfügung aus Toledo nennt Kosten für Zeugen und für die Reisen von Amtsträgern. Die Edition datiert das Gesetz auf den 24. November 546.",
+    "en": "His Toledo decree discusses expenses for witnesses and officials’ travel. The edition dates the law to 24 November 546."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 546,
+        "month": 11,
+        "day": 26
+      },
+      "latest": {
+        "year": 546,
+        "month": 11,
+        "day": 26
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "24.11.546",
+        "calendar": "julian",
+        "conversionNote": "Two days later in the proleptic Gregorian computation calendar."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:theudis",
+      "role": "author",
+      "sourceRefs": [
+        {
+          "sourceId": "source:canellas-hispano-visigothic-documents",
+          "role": "supports",
+          "locator": "Document 12, Decretum Theudis regis, pp. 262–264: expenses, witnesses, horses, inclusion in the Theodosian collection and Toledo dating clause."
+        },
+        {
+          "sourceId": "source:barroso-cabrera-throne-and-altar",
+          "role": "supports",
+          "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:theudis-decree-on-court-fees",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:canellas-hispano-visigothic-documents",
+          "role": "supports",
+          "locator": "Document 12, Decretum Theudis regis, pp. 262–264: expenses, witnesses, horses, inclusion in the Theodosian collection and Toledo dating clause."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:toletum-toledo"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:toletum-toledo-orientation",
+      "role": "location"
+    }
+  ]
+}

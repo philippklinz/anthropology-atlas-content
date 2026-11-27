@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:theoderic-verona-encounter-489",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    },
+    {
+      "sourceId": "source:venning-western-europe-2018",
+      "role": "supports",
+      "locator": "Part 1, pp. 19–21, entries for Italy under 489, 490, 492 and 493. Verona, the siege of Ravenna and the additional naval blockade from 492."
+    }
+  ],
+  "eventType": "battle",
+  "labels": {
+    "de": "Die Heere treffen vor Verona aufeinander",
+    "en": "The armies meet outside Verona"
+  },
+  "note": {
+    "de": "Die Erzählung verortet Odoakers befestigtes Lager in der Ebene vor Verona. Nach der Niederlage wich er nach Ravenna aus. Der Kartenpunkt bezeichnet die Stadt.",
+    "en": "The account places Odoacer’s fortified camp on a plain outside Verona. After the defeat he withdrew to Ravenna. The point marks the city."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 489,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 489,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:theoderic-the-amal",
+      "role": "commander"
+    },
+    {
+      "entityId": "person:odoacer",
+      "role": "commander"
+    }
+  ],
+  "placeIds": [
+    "place:verona"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:verona-urban-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

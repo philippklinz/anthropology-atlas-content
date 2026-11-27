@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wikidata-place-coordinates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Wikidata geographical coordinates (P625)",
+  "sourceType": "dataset",
+  "creators": [
+    "Wikidata contributors"
+  ],
+  "url": "https://www.wikidata.org/wiki/Property:P625",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Coordinate locations for Q191396 (Agde), Q6616 (Poitiers), Q5836 (Toledo) and Q1236430 (Reccopolis), consulted individually for geographic orientation. Wikidata structured data are available under CC0."
+}

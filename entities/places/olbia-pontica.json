@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:olbia-pontica",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "pp. 34–35, Post-antiquity horizon of Trench R-23, and fig. 19 on the chronology of imported pottery",
+      "note": {
+        "de": "Die Datierung und die Gefäßgruppen gelten für den untersuchten Teil der Zitadelle.",
+        "en": "The dates and pottery groups apply to this excavated part of the citadel."
+      }
+    },
+    {
+      "sourceId": "source:lcp-olbia-pontica",
+      "role": "derivation",
+      "locator": "Site information, coordinate 46.691506384467 N, 31.9023786793675 E"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Olbia am Südlichen Bug",
+    "en": "Olbia on the Southern Bug"
+  },
+  "summary": {
+    "de": "Antike Stadt an der Flussmündung bei Parutyne. Der Grabungsschnitt R-23 liegt im südöstlichen Teil der ehemaligen Zitadelle.",
+    "en": "Ancient city on the estuary near Parutyne. Trench R-23 lies in the southeastern part of the former citadel."
+  }
+}

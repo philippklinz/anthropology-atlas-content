@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:alaric-ii-army-near-poitiers-507",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-tours-histories-ii-37",
+      "role": "supports",
+      "locator": "II.37: tenth milestone outside Poitiers, men from the Auvergne and senatorial families among the dead; treasure taken from Toulouse after the winter at Bordeaux."
+    },
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47, 56–61: date of the battle, Alaric’s death, Gregory’s tenth milestone and rival identifications at Vouillé and Voulon."
+    }
+  ],
+  "subjectId": "community:forces-of-alaric-ii-at-poitiers",
+  "predicate": "attested-at",
+  "objectId": "region:poitiers-battlefield-context",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 507,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 507,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Fläche schließt die Gegenden von Vouillé und Voulon sowie Poitiers als antiken Bezugspunkt ein. Für die Ausdehnung oder Stellung der Heere fehlen sichere Ortsangaben.",
+      "en": "The area takes in Vouillé and Voulon as well as Poitiers, the ancient reference point. The positions and extent of the armies remain unknown."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:battlefield-near-poitiers-507",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Alarichs Heer ist 507 im Raum Poitiers bezeugt. Gregors Entfernungsangabe lässt mehrere Deutungen zu.",
+    "en": "Alaric’s army is attested near Poitiers in 507. Gregory’s estimate of distance admits several interpretations."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:delegates-at-agde-506",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    }
+  ],
+  "subjectId": "community:bishops-and-delegates-at-agde",
+  "predicate": "attested-at",
+  "objectId": "place:agatha-agde",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 506,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 506,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Ausschnitt um Agde verortet die Versammlung. Das genaue Gebäude der Sitzung und die Grenzen der Diözese bleiben offen.",
+      "en": "The Agde outline locates the assembly. It leaves open the individual meeting place and the boundaries of the diocese."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:agde-council-context-506",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Im September 506 berieten die mit königlicher Genehmigung angereisten Geistlichen in Agde.",
+    "en": "With royal permission, the clergy gathered at Agde in September 506."
+  }
+}

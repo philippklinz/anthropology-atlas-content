@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:fritigern-adrianople-378",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.12.3–11 and XXXI.13: Valens at Adrianople, march out to the Gothic wagon enclosure and battle."
+    }
+  ],
+  "subjectId": "community:refugees-and-fritigerns-coalition",
+  "predicate": "attested-at",
+  "objectId": "region:adrianople-countryside",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 378,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 378,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Fläche kennzeichnet das Umland des heutigen Edirne als Orientierung. Der Verlauf der Front, die Lage einzelner Wagen und der genaue Kampfplatz bleiben offen.",
+      "en": "The outline locates the countryside of present-day Edirne for orientation. The battle line, the positions of individual wagons and the precise battlefield remain uncertain."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:fritigern-adrianople-378",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Im August 378 traf das römische Heer vor Adrianopel auf Fritigerns Verband. Ammianus schildert die Wagen, Verhandlungen und den späteren Einsatz der Reiterei. Das Heerlager und die Stadt waren verschiedene Orte.",
+    "en": "In August 378 the Roman army encountered Fritigern’s coalition outside Adrianople. Ammianus describes the wagons, negotiations and the subsequent intervention of cavalry. The camp and the city were separate places."
+  }
+}

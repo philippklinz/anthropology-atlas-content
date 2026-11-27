@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:komariv-middle-dniester-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:saag-komariv-site-supplement",
+      "role": "derivation",
+      "locator": "Supplement, Komariv, p. 92, Location: 48.535183 N, 26.9676 E, cemetery/site reference"
+    },
+    {
+      "sourceId": "source:petrauskas-avramenko-komariv-2019",
+      "role": "supports",
+      "locator": "pp. 68–71, site description and figs. 1–2, settlement and cemetery by the middle Dniester"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 3000,
+    "note": {
+      "de": "Gerundeter publizierter Referenzpunkt für den Fundkomplex. Gräberfeld und Werkstätten liegen innerhalb dieser regionalen Orientierung.",
+      "en": "Rounded published reference for the site complex. Cemetery and workshops lie within this local orientation area."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter publizierter Referenzpunkt für den Fundkomplex. Gräberfeld und Werkstätten liegen innerhalb dieser regionalen Orientierung.",
+    "en": "Rounded published reference for the site complex. Cemetery and workshops lie within this local orientation area."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · geographic orientation point",
+    "originNote": "Original point rounded from the referenced published location."
+  }
+}

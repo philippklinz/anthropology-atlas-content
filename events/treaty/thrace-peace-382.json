@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:thrace-peace-382",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:errington-theodosius-goths",
+      "role": "supports",
+      "locator": "pp. 10–11, 18–21: Themistius’ audience, the negotiated peace, changing positions and unresolved legal, military, fiscal and geographical details"
+    }
+  ],
+  "eventType": "treaty",
+  "labels": {
+    "de": "Friedensschluss in Thrakien",
+    "en": "Peace in Thrace"
+  },
+  "note": {
+    "de": "Der Kaiserhof pries die Aussicht auf erneuten Ackerbau. Der Umfang der Ansiedlung, die Nutzungsrechte und steuerliche Bedingungen sind unklar. Ein genauer Verhandlungsort lässt sich hier nicht kartieren.",
+    "en": "The imperial court praised the prospect of farming resuming. The extent of settlement, rights to the land and taxation remain unclear. A precise meeting site cannot be mapped here."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 382,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 382,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:saturninus-382",
+      "role": "mediator",
+      "sourceRefs": [
+        {
+          "sourceId": "source:errington-theodosius-goths",
+          "role": "supports",
+          "locator": "pp. 10–11, 18–21: Themistius’ audience, the negotiated peace, changing positions and unresolved legal, military, fiscal and geographical details"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

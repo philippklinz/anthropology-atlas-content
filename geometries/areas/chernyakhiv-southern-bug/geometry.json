@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:chernyakhiv-southern-bug",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "p. 202, map 1: early Chernyakhiv distribution and cited grave assemblages; p. 226, map 6: hatched second-half-third-century distribution."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Ausschnitt ordnet Gräber und Siedlungen räumlich ein. Aus ihrer Verbreitung allein lassen sich Zugehörigkeit zu einem Heer und politische Grenzen nicht ableiten.",
+    "en": "The area provides a geographic context for cemeteries and settlements. Their distribution alone cannot establish military affiliation or political borders."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:possidius-of-calama",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:possidius-life-augustine",
+      "role": "supports",
+      "locator": "Chapters XXVIII–XXX, siege, death and Augustine’s reply to Honoratus (especially §1)."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Possidius von Calama",
+    "en": "Possidius of Calama"
+  },
+  "summary": {
+    "de": "Bischof und Biograf des Augustinus. Er nahm während der Belagerung Zuflucht in Hippo und überliefert einen Brief über die Pflichten der Geistlichen.",
+    "en": "A bishop and Augustine’s biographer. He took refuge in Hippo during the siege and preserves a letter about the obligations of the clergy."
+  }
+}

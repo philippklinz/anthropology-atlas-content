@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:alaric-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Entry extract: c. 395–410, addition of survivors from Radagaisus’ force, negotiations with the empire, operations in Italy and the sack on 24 August 410"
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "5.48.1–3: Jovius meets Alaric at Ariminum and sends demands including annual gold, grain and settlement to the emperor"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Alarich",
+    "en": "Alaric I"
+  },
+  "summary": {
+    "de": "Anführer eines sich wandelnden Verbandes. Zwischen etwa 395 und 410 verhandelte und kämpfte er mit römischen Regierungen um Versorgung und eine dauerhafte Ansiedlung.",
+    "en": "Leader of a changing coalition. Between about 395 and 410 he fought and negotiated with Roman governments over supplies and a lasting settlement."
+  }
+}

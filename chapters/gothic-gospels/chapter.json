@@ -1,0 +1,391 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:gothic-gospels",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:auxentius-life-of-wulfila",
+      "role": "supports",
+      "locator": "Personal recollection beginning Quem condigne laudare; trilingual writing in Et haec omnia; seven years, expulsion, reception under Constantius and crossing of the Danube in Ubi et post multorum."
+    },
+    {
+      "sourceId": "source:krause-slocum-wulfila",
+      "role": "supports",
+      "locator": "Opening section Wulfila, excerpt of Philostorgius, Ecclesiastical History 2.5 in Photius’ epitome, followed by the conditional calculation of 347–348."
+    },
+    {
+      "sourceId": "source:schaeferdiek-germanic-christianities",
+      "role": "supports",
+      "locator": "pp. 52–54, especially p. 53 on the 340s persecution, reception under Constantius, vicinity of Nicopolis ad Istrum, and the later crossing in 376."
+    },
+    {
+      "sourceId": "source:gassman-wolfe-gothic-philippians",
+      "role": "supports",
+      "locator": "p. 532, introduction and notes 4–8 on Wulfila and his endorsement of the Homoian creed in Constantinople in 360."
+    },
+    {
+      "sourceId": "source:miller-oxford-gothic-grammar",
+      "role": "supports",
+      "locator": "Chapter 1, discussion immediately before §1.5 and §1.5 on the division of translation work and the codices; §2.1, table 2.1, on letter shapes, order and numeral values."
+    },
+    {
+      "sourceId": "source:project-wulfila-matthew-6-9",
+      "role": "supports",
+      "locator": "Word analysis of atta, unsar and himinam on fol. 4v (facsimile 8); weihnai begins the next petition on fol. 5r (facsimile 9)."
+    },
+    {
+      "sourceId": "source:project-wulfila-john-12-38",
+      "role": "supports",
+      "locator": "John 12:38, fol. 78r (facsimile 99). The tokens hauseinai and unsarai give the second possessive example in its inflected form."
+    },
+    {
+      "sourceId": "source:uppsala-history-of-codex-argenteus",
+      "role": "supports",
+      "locator": "Opening paragraphs, Materials, and Codex argenteus’ journey: likely early-sixth-century Ravenna production; material and script; leaf counts, Uppsala and the Speyer find."
+    },
+    {
+      "sourceId": "source:uppsala-silver-bible-cross-references",
+      "role": "supports",
+      "locator": "Object description following the interview with Lars Munkhammar, particularly the four arches, one for each evangelist, and their use as Gospel cross-references."
+    },
+    {
+      "sourceId": "source:project-wulfila-gothic-manuscripts",
+      "role": "supports",
+      "locator": "Entries 1 (Codex Argenteus, Uppsala DG 1, Gospel order) and 13 (Fragmentum Spirense, end of Mark 16)."
+    },
+    {
+      "sourceId": "source:uppsala-codex-argenteus-john-photo",
+      "role": "supports",
+      "locator": "Image description, attribution and CC0 licensing; source digitisation Uppsala University Library, Alvin record 60279."
+    }
+  ],
+  "labels": {
+    "de": "Wulfila und die Silberbibel der Goten",
+    "en": "Wulfila and the Gothic Silver Bible"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "asset:codex-argenteus-john-page",
+    "person:wulfila",
+    "artifact:codex-argenteus",
+    "event:wulfila-crossing-into-moesia",
+    "event:wulfila-constantinople-creed-360",
+    "event:copying-the-codex-argenteus",
+    "language:gothic",
+    "script:gothic-alphabet"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 20.1,
+      "latitude": 43.0,
+      "metersPerPixel": 2500,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 347,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 347,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": 530,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 530,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "nicopolis",
+      "textAnchor": "nicopolis",
+      "labels": {
+        "de": "Nicopolis · Aufnahme in Moesien",
+        "en": "Nicopolis · refuge in Moesia"
+      },
+      "summary": {
+        "de": "Südlich der Donau fand die Gruppe um Wulfila unter Constantius II. Aufnahme.",
+        "en": "The group accompanying Wulfila found refuge south of the Danube under Constantius II."
+      },
+      "state": {
+        "camera": {
+          "longitude": 25.6,
+          "latitude": 43.4,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 347,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 347,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 348,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 348,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "constantinople",
+      "textAnchor": "constantinople",
+      "labels": {
+        "de": "Konstantinopel · ein Bekenntnis",
+        "en": "Constantinople · a creed"
+      },
+      "summary": {
+        "de": "Das Konzil von 360 verbindet den Bischof mit der kaiserlichen Hauptstadt.",
+        "en": "The council of 360 places the bishop in the imperial capital."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.97,
+          "latitude": 41.01,
+          "metersPerPixel": 330,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 360,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 360,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 360,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 360,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "ravenna",
+      "textAnchor": "ravenna",
+      "labels": {
+        "de": "Ravenna · die Silberbibel",
+        "en": "Ravenna · the Silver Bible"
+      },
+      "summary": {
+        "de": "Italien ist die gesicherte Herkunft des Buches. Uppsala nennt Ravenna als wahrscheinlichen Herstellungsort.",
+        "en": "The book comes from Italy. Uppsala identifies Ravenna as its likely place of production."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.2,
+          "latitude": 44.42,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 500,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 500,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 530,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 530,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events"
+        ]
+      },
+      "assetId": "asset:codex-argenteus-john-page"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Schüler erinnert sich an Wulfila an der Donau. In einem späteren Evangeliar aus Italien lassen sich einzelne gotische Wörter bis auf die abgebildete Seite verfolgen.",
+      "en": "A pupil remembers Wulfila at the Danube. A later Gospel book made in Italy lets us follow individual Gothic words down to the photographed page."
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "balkans",
+        "labels": {
+          "de": "Balkan",
+          "en": "Balkans"
+        }
+      },
+      {
+        "id": "italy",
+        "labels": {
+          "de": "Italien",
+          "en": "Italy"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "writing",
+        "labels": {
+          "de": "Schrift",
+          "en": "Writing"
+        }
+      },
+      {
+        "id": "religion",
+        "labels": {
+          "de": "Religion",
+          "en": "Religion"
+        }
+      },
+      {
+        "id": "goths",
+        "labels": {
+          "de": "Goten",
+          "en": "Goths"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:codex-argenteus",
+    "assertion:gothic-script-in-the-silver-bible",
+    "assertion:wulfila-uses-gothic",
+    "asset:codex-argenteus-john-page",
+    "community:wulfilas-refugees",
+    "event:copying-the-codex-argenteus",
+    "event:wulfila-constantinople-creed-360",
+    "event:wulfila-crossing-into-moesia",
+    "geometry:constantinople-orientation",
+    "geometry:nicopolis-ad-istrum-orientation",
+    "geometry:ravenna-orientation",
+    "language:gothic",
+    "person:wulfila",
+    "place:constantinople",
+    "place:nicopolis-ad-istrum",
+    "place:ravenna",
+    "script:gothic-alphabet",
+    "source:auxentius-life-of-wulfila",
+    "source:gassman-wolfe-gothic-philippians",
+    "source:krause-slocum-wulfila",
+    "source:miller-oxford-gothic-grammar",
+    "source:pleiades-ancient-places",
+    "source:project-wulfila-gothic-manuscripts",
+    "source:project-wulfila-john-12-38",
+    "source:project-wulfila-matthew-6-9",
+    "source:schaeferdiek-germanic-christianities",
+    "source:uppsala-codex-argenteus-john-photo",
+    "source:uppsala-history-of-codex-argenteus",
+    "source:uppsala-silver-bible-cross-references",
+    "source:zosimus-new-history-5"
+  ]
+}

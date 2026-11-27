@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:refugees-lower-danube-376",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.4.1–11 and XXXI.5.1–4: reception of Tervingian refugees, the river crossing and the separate crossing by Greuthungian groups."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Kartenausschnitt umfasst einen Abschnitt der unteren Donau. Ammianus nennt keine Koordinaten einer Landestelle. Verschiedene Gruppen konnten den Fluss an unterschiedlichen Stellen überqueren.",
+    "en": "The map selects a stretch of the lower Danube. Ammianus supplies no landing-site coordinates. Different groups could have crossed at different places."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

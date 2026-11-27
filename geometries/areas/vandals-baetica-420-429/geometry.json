@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-baetica-420-429",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 420, 428 and 429: movement from Gallaecia to Baetica, Hispalis and departure from the Baetican coast."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Ausschnitt im Guadalquivirtal verortet einen Teil Baeticas. Von hier lässt sich weder ein genauer Einschiffungshafen noch ein jährliches Aufenthaltsgebiet ableiten.",
+    "en": "The Guadalquivir valley window locates part of Baetica. It does not identify a specific port of embarkation or establish a year-by-year area of residence."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

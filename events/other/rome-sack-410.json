@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:rome-sack-410",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Entry extract: c. 395–410, addition of survivors from Radagaisus’ force, negotiations with the empire, operations in Italy and the sack on 24 August 410"
+    },
+    {
+      "sourceId": "source:jerome-letter-127",
+      "role": "supports",
+      "locator": "Letter 127.12–14: news from Rome, the attack on Marcella, Principia and refuge at the basilica of Paul; letter addressed to Principia after the event"
+    },
+    {
+      "sourceId": "source:augustine-city-of-god-i",
+      "role": "supports",
+      "locator": "Book I, chapters 1 and 7: the argument about the sack and protection for fugitives in churches"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes on the Julian and Gregorian calendars. From March 300 to February 500 the proleptic Gregorian date is one day ahead of the Julian date, including in August 378 and 410."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Alarichs Truppen plündern Rom",
+    "en": "Alaric’s forces sack Rome"
+  },
+  "note": {
+    "de": "Die Einnahme Roms begann am 24. August 410. Hieronymus schilderte später Marcella und Principia während der Plünderung. Augustinus berichtete von Zuflucht in Kirchen.",
+    "en": "The capture of Rome began on 24 August 410. Jerome later described what happened to Marcella and Principia during the sack. Augustine recorded the use of churches as refuges."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 410,
+        "month": 8,
+        "day": 25
+      },
+      "latest": {
+        "year": 410,
+        "month": 8,
+        "day": 25
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "24.8.410",
+        "calendar": "julian",
+        "conversionNote": "One day later in the proleptic Gregorian calculation calendar. The display retains the conventional historical Julian day."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:alaric-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:heather-alaric-2015",
+          "role": "supports",
+          "locator": "Entry extract: c. 395–410, addition of survivors from Radagaisus’ force, negotiations with the empire, operations in Italy and the sack on 24 August 410"
+        }
+      ]
+    },
+    {
+      "entityId": "person:marcella-of-rome",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:jerome-letter-127",
+          "role": "supports",
+          "locator": "Letter 127.12–14: news from Rome, the attack on Marcella, Principia and refuge at the basilica of Paul; letter addressed to Principia after the event"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:rome"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:rome-orientation",
+      "role": "location"
+    }
+  ]
+}

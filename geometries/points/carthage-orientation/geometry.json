@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:carthage-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rpc-carthage-location",
+      "role": "supports",
+      "locator": "City 999, latitude 36.847009 and longitude 10.312944."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 3000,
+    "note": {
+      "de": "Orientierung im Stadtgebiet.",
+      "en": "Orientation within the city area."
+    }
+  },
+  "processingNote": {
+    "de": "Der Punkt ist auf zwei Dezimalstellen gerundet und bezeichnet die Stadt als Ganzes.",
+    "en": "The point is rounded to two decimal places and identifies the city as a whole."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic orientation point",
+    "originNote": "Manually rounded city coordinate from the cited gazetteer."
+  }
+}

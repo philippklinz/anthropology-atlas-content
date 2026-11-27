@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-iberian-settlements-411-418",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 411 and 416–418: Gallaecia shared by Vandals and Suebi, Silings in Baetica, warfare and political change in 418."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiPolygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die zwei Flächen greifen Ausschnitte der genannten Provinzen heraus. Örtliche Verteilungen zwischen Gruppen und römischen Bewohnern sind unbekannt. Hydatius beschreibt für 418 das Ende der eigenständigen silingischen Macht.",
+    "en": "The two outlines select parts of the named provinces. The local distribution of groups and Roman residents is unknown. Hydatius places the end of an independent Siling power in 418."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

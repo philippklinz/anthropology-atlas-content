@@ -3,7 +3,9 @@
   "defaultLanguage": "de",
   "defaultRecordLicense": "GPL-2.0",
   "packageIds": [
+    "package:alaric-rome-and-aquitaine",
     "package:columbus-first-voyage",
+    "package:danube-crossing-and-adrianople",
     "package:danube-farming-and-contact",
     "package:darwin-beagle",
     "package:deglaciation",
@@ -25,6 +27,9 @@
     "package:east-asian-lifeways",
     "package:east-asian-urban-lifeways",
     "package:first-circumnavigation",
+    "package:gothic-gospels",
+    "package:goths-black-sea",
+    "package:goths-lower-vistula",
     "package:human-encounters",
     "package:human-origins",
     "package:ice-age-life",
@@ -32,9 +37,13 @@
     "package:kingdom-of-kerma",
     "package:late-bronze-age-diplomacy",
     "package:late-shang-anyang",
+    "package:migration-period-overview",
     "package:postglacial-dwellings",
     "package:san-lorenzo-monuments",
+    "package:theoderic-and-ravenna",
     "package:ugarit-and-late-bronze-age-crises",
-    "package:uluburun-cargo"
+    "package:uluburun-cargo",
+    "package:vandals-rhine-to-carthage",
+    "package:visigoths-toulouse-to-toledo"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rumyantseva-komariv-glass-2023",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Raw Glass and Glassworking Practices Beyond the Roman limes: A Case Study of the Late Roman Workshop in Komarov (Middle Dniester, Western Ukraine)",
+  "sourceType": "article",
+  "creators": [
+    "Olga Rumyantseva",
+    "Alexander Trifonov",
+    "Dmitry Khanin",
+    "Maria Chervyakovskaya",
+    "Vasiliy Chervyakovskiy"
+  ],
+  "url": "https://real.mtak.hu/169080/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Acta Archaeologica Academiae Scientiarum Hungaricae 74(1), pp. 51–69. Chemical analysis of 42 raw glass samples identifies groups of Egyptian and Levantine origin and evidence of recycling.",
+  "published": "2023",
+  "identifiers": {
+    "doi": "10.1556/072.2023.00004"
+  }
+}

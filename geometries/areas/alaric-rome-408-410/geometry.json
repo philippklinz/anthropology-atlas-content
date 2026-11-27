@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:alaric-rome-408-410",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.37–42, especially V.39.1: Rome’s approaches and the supply link on the Tiber in the first siege; V.48–51: renewed negotiations."
+    },
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Extract: Italian campaign from 408, shifting alliances, rupture of negotiations, sack of Rome in August 410."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Fläche fasst mehrere Episoden um die Stadt und ihre Zugänge zusammen. Zwischen den Belagerungen wurde verhandelt. Sie kennzeichnet weder eine dreijährige Dauerbelagerung noch ein gotisches Siedlungsgebiet in Latium.",
+    "en": "The area groups separate episodes around the city and its approaches. Negotiations took place between sieges. The window represents neither a continuous three-year siege nor a Gothic settlement territory in Latium."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

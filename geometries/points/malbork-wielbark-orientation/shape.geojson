@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:malbork-wielbark-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      19.0103,
+      53.995
+    ]
+  }
+}

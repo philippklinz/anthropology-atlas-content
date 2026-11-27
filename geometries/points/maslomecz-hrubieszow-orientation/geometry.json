@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:maslomecz-hrubieszow-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:vici-maslomecz-44269",
+      "role": "derivation",
+      "locator": "Map data 44269, modern museum at 50.729767 N, 23.906218 E"
+    },
+    {
+      "sourceId": "source:ncn-maslomecz-hrubieszow",
+      "role": "supports",
+      "locator": "Project 2024/55/B/HS3/01985, synopsis p. 1, paragraphs 1–3, dating and research coverage"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 3500,
+    "note": {
+      "de": "Der Punkt am heutigen Freilichtmuseum dient zur Orientierung in der Fundlandschaft um das Dorf. Die einzelnen Gräber liegen an mehreren Stellen.",
+      "en": "The modern open-air museum orients the reader within the archaeological landscape around the village. The graves occur at several sites."
+    }
+  },
+  "processingNote": {
+    "de": "Der Punkt am heutigen Freilichtmuseum dient zur Orientierung in der Fundlandschaft um das Dorf. Die einzelnen Gräber liegen an mehreren Stellen.",
+    "en": "The modern open-air museum orients the reader within the archaeological landscape around the village. The graves occur at several sites."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · geographic orientation point",
+    "originNote": "Original point rounded from the referenced published location."
+  }
+}

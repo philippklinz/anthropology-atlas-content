@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:errington-theodosius-goths",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Theodosius and the Goths",
+  "sourceType": "article",
+  "creators": [
+    "R. Malcolm Errington"
+  ],
+  "url": "https://publications.dainst.org/journals/chiron/article/view/1019",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "The full text, especially pp. 18–21, compares fragmentary reports and official speeches. The author separates the eventual peace from questions left open about land, tax and service.",
+  "published": "1996",
+  "containerTitle": "Chiron 26"
+}

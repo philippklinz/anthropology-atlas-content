@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:theoderic-the-amal",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Introduction, opening paragraphs through note 4. Odoacer in 476, the eastern emperor Zeno’s mandate, the Italian campaign in 489, the agreement and killing in 493, and Theoderic’s death in 526."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Theoderich der Amaler",
+    "en": "Theoderic the Amal"
+  },
+  "summary": {
+    "de": "Der gotische König und römische Konsul führte im Auftrag Zenons ein Heer nach Italien. Zwischen seinem Einzug in Ravenna 493 und seinem Tod 526 regierte er von der einstigen Kaiserresidenz aus.",
+    "en": "The Gothic king and Roman consul led an army to Italy under a commission from Zeno. He governed from the former imperial residence after entering Ravenna in 493, and died in 526."
+  }
+}

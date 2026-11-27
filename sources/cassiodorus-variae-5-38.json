@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cassiodorus-variae-5-38",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "Variae, Book V, letter 38. Theoderic to the landholders",
+  "creators": [
+    "Cassiodorus"
+  ],
+  "url": "https://ancienttexts.org/library/latinlibrary/cassiodorus/varia5.html",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin text, V.38.1–2. Compare Theodor Mommsen (ed.), Cassiodori Senatoris Variae, MGH Auctores antiquissimi XII, Berlin, 1894, p. 164. A royal instruction preserved in the later letter collection.",
+  "published": "Sixth century CE"
+}

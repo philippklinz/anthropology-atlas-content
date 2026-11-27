@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:gothic-settlement-aquitaine-418",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "p. 65, opening paragraphs and n. 1: Aquitanica Secunda between the Loire and Garonne estuaries, Toulouse, and disputed neighbouring communities."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiPolygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der eine Ausschnitt liegt zwischen den Mündungen von Loire und Garonne, der andere um Toulouse. Die übrigen betroffenen Gemeinden und die Verteilung der Ansiedlung entziehen sich einer genauen Kartierung.",
+    "en": "One selected area lies between the Loire and Garonne estuaries, the other around Toulouse. The other communities involved and the pattern of actual residence cannot be precisely mapped."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

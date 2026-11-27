@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:komariv-middle-dniester-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.968,
+      48.535
+    ]
+  }
+}

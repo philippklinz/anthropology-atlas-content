@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tolosa-toulouse",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Record 246694: representative location and ancient place name in the published places CSV export."
+    },
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "Opening paragraphs, p. 65 and notes 1–2: recall from Hispania, Aquitanica Secunda and neighbouring cities, Toulouse and the open question of settlement density"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tolosa, das heutige Toulouse",
+    "en": "Tolosa, modern Toulouse"
+  },
+  "summary": {
+    "de": "Die Stadt an der Garonne war ein Zentrum gotischer Könige in Gallien. Der Punkt markiert weder einen Verhandlungsort des Jahres 418 noch einzelne Landzuweisungen.",
+    "en": "The city on the Garonne became a centre of Gothic kings in Gaul. The point locates neither negotiations in 418 nor individual allotments."
+  }
+}

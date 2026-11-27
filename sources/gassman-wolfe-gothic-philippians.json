@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gassman-wolfe-gothic-philippians",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "‘A Thing Like God’: Re-Reading Gothic Philippians 2.6–8",
+  "sourceType": "article",
+  "creators": [
+    "Mattias P. Gassman",
+    "Brendan Wolfe"
+  ],
+  "url": "https://doi.org/10.1017/S0028688524000353",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "New Testament Studies 70, pp. 531–545. The paper discusses the historical creed alongside the meaning of particular translation choices.",
+  "published": "2024",
+  "containerTitle": "New Testament Studies",
+  "identifiers": {
+    "DOI": "10.1017/S0028688524000353"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-gaul-406-409",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entries 405/6 and 406–9: Rhine crossing followed by a period in Gaul."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Das breite Kartenfenster gibt die Reichweite der Ortsangabe „Gallien“ an. Es umfasst einen Ausschnitt des Landes zwischen Rhein und Pyrenäen. Dichte, Verteilung und Zugwege der Beteiligten bleiben offen.",
+    "en": "The broad window conveys the scale of the geographical label “Gaul”, selecting part of the land between the Rhine and the Pyrenees. The density, distribution and routes of the participants remain open."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

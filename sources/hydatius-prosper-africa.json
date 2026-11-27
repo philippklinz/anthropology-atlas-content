@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hydatius-prosper-africa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Migrazioni e stanziamenti · chronicles of Hydatius and Prosper of Aquitaine",
+  "sourceType": "archive",
+  "creators": [
+    "Hydatius",
+    "Prosper of Aquitaine",
+    "Reti Medievali"
+  ],
+  "url": "https://www.rm.unina.it/didattica/fonti/anto_ame/cap_II/II_5_or.htm",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Source anthology II.5, part A, Hydatius s.a. 409–429 (MGH AA XI, pp. 17–21); part B, Prosper s.a. 427–442 (MGH AA IX, pp. 472–479). The two entries for the African crossing do not assign it the same year. Links to the anthology’s Italian translations accompany the Latin.",
+  "published": "fifth century, modern edition excerpts",
+  "publisher": "Reti Medievali, Università di Napoli Federico II"
+}

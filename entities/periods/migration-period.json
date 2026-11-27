@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "period:migration-period",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:meier-migration-period-2016",
+      "role": "supports",
+      "locator": "Sections ‘Völker, Stämme, Volksstämme’ and ‘Wanderungen’ on the conventional 375–568 frame, changing groups and negotiations with the empire."
+    },
+    {
+      "sourceId": "source:pohl-origin-and-migration-2018",
+      "role": "supports",
+      "locator": "pp. 192–195. Jordanes, Getica 4.25–29, sixth-century setting, possible oral elements and the limits of the Scandinavian origin narrative."
+    }
+  ],
+  "entityType": "period",
+  "labels": {
+    "de": "Völkerwanderungszeit",
+    "en": "Migration Period"
+  },
+  "summary": {
+    "de": "Die oft gewählten Eckdaten 375 und 568 verbinden die Expansion der Hunnen und den Zug der Langobarden nach Italien. An der Donau, in Gallien und in Nordafrika verliefen die politischen Umbrüche zu unterschiedlichen Zeiten. Der Epochenname entstand rückblickend. Wer eine einzelne Gruppe verfolgt, trifft unterwegs auf Familien, Soldaten, Unterhändler und Menschen, die längst an einem Zielort lebten.",
+    "en": "The frequently used dates 375 and 568 connect Hunnic expansion and the Lombards’ entry into Italy. Political changes on the Danube, in Gaul and in North Africa followed different timetables. Later writers gave the period its name. Following a single group brings families, soldiers, envoys and long-established local inhabitants into view."
+  }
+}

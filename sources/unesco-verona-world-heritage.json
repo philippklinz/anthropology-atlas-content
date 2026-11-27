@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-verona-world-heritage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "catalog",
+  "title": "City of Verona. Geographical data",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/797/maps/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "World Heritage list entry 797rev. The site coordinate identifies the modern historic city as a geographic reference for ancient Verona."
+}

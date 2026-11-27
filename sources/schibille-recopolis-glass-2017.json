@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schibille-recopolis-glass-2017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The glass from Recópolis: an analytical approach",
+  "sourceType": "article",
+  "creators": [
+    "Nadine Schibille",
+    "Amaya Gómez de la Torre-Verdejo",
+    "Chloe Duckworth",
+    "David Govantes Edwards",
+    "Jorge de Juan Ares",
+    "Lauro Olmo Enciso"
+  ],
+  "url": "https://eventos.fct.unl.pt/glassac2017/files/actas_glassac.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Post-Roman Glass in the Iberian Peninsula session. Three workshops, separate dating, and comparison samples from production and domestic contexts.",
+  "published": "2017",
+  "containerTitle": "Proceedings of the 5th GLASSAC International Conference"
+}

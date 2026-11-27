@@ -1,0 +1,572 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:vandals-rhine-to-carthage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:steinacher-jerome-rhine-2025",
+      "role": "supports",
+      "locator": "pp. 547–551, crossing at the Rhine, competing dates and the purposes of Jerome’s letter."
+    },
+    {
+      "sourceId": "source:fafinski-jerome-rhine-2025",
+      "role": "supports",
+      "locator": "Comparison of Orosius, Prosper and Frigeridus following notes 58–62; uncertainty about the point of crossing."
+    },
+    {
+      "sourceId": "source:jerome-letter-123",
+      "role": "supports",
+      "locator": "Letter 123, sections 1 and 16, the addressee and catalogue of attacked cities."
+    },
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries 409, 411, 416–420, 428–429; B, Prosper, entries 430, 435, 439 and 442."
+    },
+    {
+      "sourceId": "source:possidius-life-augustine",
+      "role": "supports",
+      "locator": "Chapters XXVIII–XXX, siege, death and Augustine’s reply to Honoratus (especially §1)."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Time Line, pp. xiii–xiv, entries 405/6, 428/29, 430, 435, 439, 442 and 484–496."
+    },
+    {
+      "sourceId": "source:kelsey-carthage-1979",
+      "role": "supports",
+      "locator": "The International Campaign to Save Carthage, opening paragraph, and Trade, paragraphs 1–3."
+    },
+    {
+      "sourceId": "source:albertini-tablets-courtois-1952",
+      "role": "supports",
+      "locator": "Act XIII, pp. 259–261, ll. 1–6 and 29–38. Parties, crops, formula and marks; parts of the middle are lost."
+    },
+    {
+      "sourceId": "source:grierson-albertini-1959",
+      "role": "supports",
+      "locator": "p. 73, introductory paragraph on dating, uncertain discovery location and legal texts on wood."
+    },
+    {
+      "sourceId": "source:fentress-numidian-peasants-2026",
+      "role": "supports",
+      "locator": "pp. 1–2, the grain tax, the wooden archive and continuities of Mancian cultivation rights."
+    }
+  ],
+  "labels": {
+    "de": "Vandalen und Alanen vom Rhein nach Karthago",
+    "en": "Vandals and Alans from the Rhine to Carthage"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:rhine-crossing-405-406",
+    "event:hispania-provincial-settlements-411",
+    "person:geiseric",
+    "event:siege-of-hippo-430-431",
+    "event:carthage-taken-439",
+    "artifact:albertini-tablets"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 1.7,
+      "latitude": 42.4,
+      "metersPerPixel": 6100,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 405,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 405,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 496,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 496,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "migrations",
+      "attested-at",
+      "controls"
+    ]
+  },
+  "steps": [
+    {
+      "id": "rhine",
+      "textAnchor": "rhine",
+      "labels": {
+        "de": "Gallien am Rhein",
+        "en": "Gaul on the Rhine"
+      },
+      "summary": {
+        "de": "Der Chronist nennt den Fluss. Genaue Übergangsstelle und Jahr bleiben umstritten.",
+        "en": "The chronicle names the river. The exact crossing point and the year remain uncertain."
+      },
+      "state": {
+        "camera": {
+          "longitude": 4,
+          "latitude": 47.5,
+          "metersPerPixel": 4000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 405,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 405,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 409,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 409,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "hispania",
+      "textAnchor": "hispania",
+      "labels": {
+        "de": "Hispania und seine Provinzen",
+        "en": "Hispania and its provinces"
+      },
+      "summary": {
+        "de": "409 erfasst die Chronik die Ankunft. Erst für 411 nennt sie Regionen wie Gallaecia und Baetica.",
+        "en": "The chronicle records an arrival in 409. Not until the entry for 411 does it name regions such as Gallaecia and Baetica."
+      },
+      "state": {
+        "camera": {
+          "longitude": -3.5,
+          "latitude": 40,
+          "metersPerPixel": 3800,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 411,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 411,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "baetica",
+      "textAnchor": "baetica",
+      "labels": {
+        "de": "Hispalis und die Küste der Baetica",
+        "en": "Hispalis and the coast of Baetica"
+      },
+      "summary": {
+        "de": "Hydatius nennt die Stadt für 428. Den Hafen, von dem Geiserich 429 in See stach, nennt er nicht.",
+        "en": "Hydatius names the city in his entry for 428. His account of Geiseric sailing in 429 leaves the port unnamed."
+      },
+      "state": {
+        "camera": {
+          "longitude": -5.5,
+          "latitude": 36.7,
+          "metersPerPixel": 3000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 428,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 428,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 429,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 429,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "hippo-regius",
+      "textAnchor": "hippo-regius",
+      "labels": {
+        "de": "Hippo Regius",
+        "en": "Hippo Regius"
+      },
+      "summary": {
+        "de": "Possidius schildert die Belagerung aus der Sicht eines Bischofs in der Stadt.",
+        "en": "Possidius describes the siege from the perspective of a bishop inside the city."
+      },
+      "state": {
+        "camera": {
+          "longitude": 7.75,
+          "latitude": 36.88,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 430,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 430,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "carthage",
+      "textAnchor": "carthage",
+      "labels": {
+        "de": "Karthago",
+        "en": "Carthage"
+      },
+      "summary": {
+        "de": "Die Einnahme der Stadt und die diplomatische Einigung über die Gebiete fielen in verschiedene Jahre.",
+        "en": "The capture of the city and the diplomatic settlement over territory took place in different years."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.6,
+          "latitude": 36.4,
+          "metersPerPixel": 1500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 439,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 439,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 442,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 442,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "albertini",
+      "textAnchor": "albertini",
+      "labels": {
+        "de": "Ein Vertrag auf Holz",
+        "en": "A contract on wood"
+      },
+      "summary": {
+        "de": "Im Grenzgebiet des heutigen Algerien und Tunesien kamen die Tafeln ans Licht. Der genaue Fundort bleibt offen.",
+        "en": "The tablets came to light near the modern Algerian–Tunisian border. The exact findspot remains uncertain."
+      },
+      "state": {
+        "camera": {
+          "longitude": 8.2,
+          "latitude": 34.7,
+          "metersPerPixel": 2700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 493,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 493,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 496,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 496,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Wie gelangten vandalische und alanische Gruppen vom Rhein nach Karthago? Chroniken, ein Brief aus der Zeit der Belagerung von Hippo und ein auf Holz erhaltener Kaufvertrag machen Menschen an den einzelnen Stationen sichtbar.",
+      "en": "How did Vandal and Alan groups reach Carthage from the Rhine? Chronicles, a letter from the siege of Hippo and a contract on wood bring individual lives into view along the way."
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      },
+      {
+        "id": "iberian-peninsula",
+        "labels": {
+          "de": "Iberische Halbinsel",
+          "en": "Iberian Peninsula"
+        }
+      },
+      {
+        "id": "north-africa",
+        "labels": {
+          "de": "Nordafrika",
+          "en": "North Africa"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:albertini-tablets",
+    "assertion:vandal-african-provinces-442-496",
+    "assertion:vandals-african-agreement-435",
+    "assertion:vandals-baetica-420-429",
+    "assertion:vandals-carthage-439",
+    "assertion:vandals-gallaecia-419",
+    "assertion:vandals-gaul-406-409",
+    "assertion:vandals-hippo-430",
+    "assertion:vandals-hispania-409-410",
+    "assertion:vandals-iberian-settlements-411-418",
+    "community:alans-in-the-west",
+    "community:suebes-in-hispania",
+    "community:vandals-in-the-fifth-century",
+    "event:african-settlement-442",
+    "event:alan-survivors-join-gunderic",
+    "event:albertini-deeds-493-496",
+    "event:carthage-taken-439",
+    "event:geiseric-crossing-429",
+    "event:hispalis-gunderic",
+    "event:hispania-entry-409",
+    "event:hispania-provincial-settlements-411",
+    "event:rhine-crossing-405-406",
+    "event:siege-of-hippo-430-431",
+    "geometry:carthage-orientation",
+    "geometry:hippo-regius-orientation",
+    "geometry:seville-orientation",
+    "geometry:vandal-african-provinces-442-496",
+    "geometry:vandals-african-agreement-435",
+    "geometry:vandals-baetica-420-429",
+    "geometry:vandals-carthage-439",
+    "geometry:vandals-gallaecia-419",
+    "geometry:vandals-gaul-406-409",
+    "geometry:vandals-hippo-430",
+    "geometry:vandals-hispania-409-410",
+    "geometry:vandals-iberian-settlements-411-418",
+    "person:augustine-of-hippo",
+    "person:geiseric",
+    "person:possidius-of-calama",
+    "person:valentinian-iii",
+    "place:carthage",
+    "place:hippo-regius",
+    "place:seville",
+    "polity:vandal-kingdom-in-africa",
+    "region:baetica",
+    "region:carthage-and-tunisian-provinces",
+    "region:gallaecia-and-baetica",
+    "region:gaul-in-the-chronicles",
+    "region:hispania-in-the-chronicles",
+    "region:western-roman-africa",
+    "source:albertini-tablets-courtois-1952",
+    "source:fafinski-jerome-rhine-2025",
+    "source:fentress-numidian-peasants-2026",
+    "source:grierson-albertini-1959",
+    "source:hydatius-prosper-africa",
+    "source:jerome-letter-123",
+    "source:kelsey-carthage-1979",
+    "source:ministerio-cultura-hispalis",
+    "source:pigafetta-stanley",
+    "source:possidius-life-augustine",
+    "source:rpc-carthage-location",
+    "source:sirar-hippo-regius",
+    "source:steinacher-jerome-rhine-2025",
+    "source:whelan-vandal-africa-timeline"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:abritus-near-razgrad-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:chre-razgrad-12425",
+      "role": "derivation",
+      "locator": "Location, 43.521 N, 26.552 E, explicitly centred on the city"
+    },
+    {
+      "sourceId": "source:razgrad-abritus-reserve",
+      "role": "supports",
+      "locator": "Description of the ancient city and the summer 251 battle in its vicinity"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 22000,
+    "note": {
+      "de": "Der Punkt gibt die Stadt Abritus bei Rasgrad an. Der Schauplatz der Schlacht von 251 liegt in der weiteren Umgebung.",
+      "en": "The point locates Abritus near Razgrad. The battle of 251 took place in the surrounding countryside."
+    }
+  },
+  "processingNote": {
+    "de": "Der Punkt gibt die Stadt Abritus bei Rasgrad an. Der Schauplatz der Schlacht von 251 liegt in der weiteren Umgebung.",
+    "en": "The point locates Abritus near Razgrad. The battle of 251 took place in the surrounding countryside."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · geographic orientation point",
+    "originNote": "Original point rounded from the referenced published location."
+  }
+}

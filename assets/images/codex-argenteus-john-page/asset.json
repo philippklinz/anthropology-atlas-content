@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:codex-argenteus-john-page",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:uppsala-codex-argenteus-john-photo",
+      "role": "derivation",
+      "locator": "Image description, attribution and CC0 licensing; source digitisation Uppsala University Library, Alvin record 60279."
+    },
+    {
+      "sourceId": "source:project-wulfila-john-12-38",
+      "role": "supports",
+      "locator": "John 12:38, fol. 78r (facsimile 99). The tokens hauseinai and unsarai give the second possessive example in its inflected form."
+    },
+    {
+      "sourceId": "source:uppsala-silver-bible-cross-references",
+      "role": "supports",
+      "locator": "Object description following the interview with Lars Munkhammar, particularly the four arches, one for each evangelist, and their use as Gospel cross-references."
+    }
+  ],
+  "assetType": "image",
+  "file": "john-page.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Johannes auf Purpurpergament · Blatt 78r",
+    "en": "John on purple parchment · folio 78r"
+  },
+  "alt": {
+    "de": "Johannes 12,37–43 auf Blatt 78r. Unter den verblassten silbernen und goldenen Schriftzeilen auf purpurfarbenem Grund stehen vier kleine Säulenbögen mit Verweisen.",
+    "en": "John 12.37–43 on folio 78r. Four small arches with Gospel references sit beneath faded silver and gold lettering on purple parchment."
+  },
+  "entityIds": [
+    "artifact:codex-argenteus"
+  ],
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Uppsala University Library"
+    ],
+    "attribution": "Uppsala University Library, DG 1, fol. 78r. CC0 1.0, via Wikimedia Commons.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Codex_Argenteus_page.jpg",
+    "originNote": "Wikimedia Commons supplies the library’s photograph (Alvin 60279) under CC0. This is the unretouched 960-pixel-wide JPEG rendition, which preserves the full page."
+  }
+}

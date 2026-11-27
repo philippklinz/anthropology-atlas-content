@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:whelan-vandal-africa-timeline",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Being Christian in Vandal Africa: Time Line",
+  "sourceType": "book",
+  "creators": [
+    "Robin Whelan"
+  ],
+  "url": "https://www.degruyterbrill.com/document/doi/10.1515/9780520968684-003/pdf?licenseType=free",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Time Line, pp. xiii–xiv of Being Christian in Vandal Africa: The Politics of Orthodoxy in the Post-Imperial West. Includes alternative years for crossings and distinguishes the treaties of 435 and 442.",
+  "published": "2018",
+  "publisher": "University of California Press"
+}

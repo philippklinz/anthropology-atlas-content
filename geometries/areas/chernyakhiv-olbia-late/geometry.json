@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:chernyakhiv-olbia-late",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "Trench R-23, discussion and conclusion, pp. 33–35 and fig. 19: imported amphorae and red-slip wares date the horizon to the fourth–first half of fifth centuries."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der kleine Umriss kennzeichnet das Umfeld des Fundorts bei Parutyne. Die Untersuchung beschreibt einen Grabungsschnitt; sein Befund belegt weder eine überall gleichzeitige Besiedlung noch einen genauen Zeitpunkt innerhalb des Datierungsfensters.",
+    "en": "The small outline marks the area around the site near Parutyne. The study concerns one excavation trench. The assemblage gives a dating window rather than year-by-year occupation across the area."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

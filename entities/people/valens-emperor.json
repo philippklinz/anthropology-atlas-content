@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:valens-emperor",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.3.8–31.4.13: competing responses to Hunnic pressure, request to Valens, Roman interest in recruitment, boats and rafts, food shortages and refusal of the Greuthungian request"
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Kaiser Valens",
+    "en": "Emperor Valens"
+  },
+  "summary": {
+    "de": "Römischer Kaiser im Osten. Er erlaubte 376 terwingischen Gruppen die Überfahrt und fiel 378 bei Hadrianopolis.",
+    "en": "Roman emperor in the East. He authorised the Tervingian crossing in 376 and died at Hadrianopolis in 378."
+  }
+}

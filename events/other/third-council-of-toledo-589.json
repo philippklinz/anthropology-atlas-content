@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:third-council-of-toledo-589",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+    },
+    {
+      "sourceId": "source:ferreiro-third-council-toledo",
+      "role": "supports",
+      "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+    },
+    {
+      "sourceId": "source:szada-reccared-edict-er363",
+      "role": "supports",
+      "locator": "ER 363, About the source: Homoian and Nicene Christians, Reccared’s conversion in 587, the 589 council and manuscript recensions."
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Calendar notes. The proleptic Gregorian computational date is two days after the conventional Julian date in November 546 and May 589."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Rekkared und Baddo beim Dritten Konzil von Toledo",
+    "en": "Reccared and Baddo at the Third Council of Toledo"
+  },
+  "note": {
+    "de": "Beim Konzil am 8. Mai traten das Königspaar und Bischöfe aus Hispanien und Gallien auf. Das Protokoll überliefert Baddos eigene Erklärung.",
+    "en": "The royal couple and bishops from Hispania and Gaul took part in the council on 8 May. The record preserves Baddo’s own declaration."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 589,
+        "month": 5,
+        "day": 10
+      },
+      "latest": {
+        "year": 589,
+        "month": 5,
+        "day": 10
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "8.5.589",
+        "calendar": "julian",
+        "conversionNote": "Two days later in the proleptic Gregorian computation calendar."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:reccared-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:canellas-hispano-visigothic-documents",
+          "role": "supports",
+          "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+        },
+        {
+          "sourceId": "source:ferreiro-third-council-toledo",
+          "role": "supports",
+          "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+        }
+      ]
+    },
+    {
+      "entityId": "person:queen-baddo",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:canellas-hispano-visigothic-documents",
+          "role": "supports",
+          "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+        },
+        {
+          "sourceId": "source:ferreiro-third-council-toledo",
+          "role": "supports",
+          "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+        }
+      ]
+    },
+    {
+      "entityId": "community:third-council-of-toledo-assembly",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:canellas-hispano-visigothic-documents",
+          "role": "supports",
+          "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+        },
+        {
+          "sourceId": "source:ferreiro-third-council-toledo",
+          "role": "supports",
+          "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:toletum-toledo"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:toletum-toledo-orientation",
+      "role": "location"
+    }
+  ]
+}

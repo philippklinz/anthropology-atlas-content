@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:maslomecz-communities",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ncn-maslomecz-hrubieszow",
+      "role": "supports",
+      "locator": "Project 2024/55/B/HS3/01985, synopsis p. 1, paragraphs 1–3, dating and research coverage"
+    },
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Chapter 7, Settlement changes, pp. 224–228 and figs. 3, 8"
+    },
+    {
+      "sourceId": "source:golubinski-maslomecz-2026",
+      "role": "supports",
+      "locator": "Fig. 1B and pp. 2–3, Background, cemeteries Masłomęcz 15 and Gródek 1C. Page 6, Kinship analysis, three women from grave 20, different maternal lineages, possible third-degree links in two pairs."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Masłomęcz · Gräber und Siedlungen",
+    "en": "Masłomęcz · graves and settlements"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 175,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 200,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 375,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 400,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "community:maslomecz-archaeological-group",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Zeitraum folgt der regionalen Einordnung der Projektübersicht. Er umfasst mehrere Fundstellen und mögliche örtliche Unterschiede.",
+      "en": "The span follows the regional chronology in the project synopsis. It covers several sites and allows for local variation."
+    }
+  },
+  "note": {
+    "de": "Bestattungen und Siedlungsreste der Masłomęcz-Gruppe lassen sich ab dem späten zweiten Jahrhundert im Becken von Hrubieszów nachweisen.",
+    "en": "Burials and settlement remains of the Masłomęcz group can be traced in the Hrubieszów Basin from the late second century."
+  },
+  "placeIds": [
+    "place:maslomecz-hrubieszow"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:maslomecz-hrubieszow-orientation",
+      "role": "findspot"
+    }
+  ]
+}

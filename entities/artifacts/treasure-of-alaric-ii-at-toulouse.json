@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:treasure-of-alaric-ii-at-toulouse",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-tours-histories-ii-37",
+      "role": "supports",
+      "locator": "II.37: tenth milestone outside Poitiers, men from the Auvergne and senatorial families among the dead; treasure taken from Toulouse after the winter at Bordeaux."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Der von Gregor erwähnte Schatz Alarichs II.",
+    "en": "Alaric II’s treasure in Gregory’s account"
+  },
+  "summary": {
+    "de": "Gregor nennt Toulouse und den Winteraufenthalt Chlodwigs in Bordeaux. Eine Bestandsliste liefert die Passage nicht.",
+    "en": "Gregory names Toulouse and Clovis’s winter at Bordeaux. The passage offers no inventory."
+  }
+}

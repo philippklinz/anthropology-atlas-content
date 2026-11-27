@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "language:gothic",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:miller-oxford-gothic-grammar",
+      "role": "supports",
+      "locator": "Chapter 1, discussion immediately before §1.5 and §1.5 on the division of translation work and the codices; §2.1, table 2.1, on letter shapes, order and numeral values."
+    },
+    {
+      "sourceId": "source:project-wulfila-matthew-6-9",
+      "role": "supports",
+      "locator": "Word analysis of atta, unsar and himinam on fol. 4v (facsimile 8); weihnai begins the next petition on fol. 5r (facsimile 9)."
+    },
+    {
+      "sourceId": "source:project-wulfila-john-12-38",
+      "role": "supports",
+      "locator": "John 12:38, fol. 78r (facsimile 99). The tokens hauseinai and unsarai give the second possessive example in its inflected form."
+    }
+  ],
+  "entityType": "language",
+  "labels": {
+    "de": "Gotisch",
+    "en": "Gothic"
+  },
+  "summary": {
+    "de": "Eine ostgermanische Sprache. Die Evangelienhandschrift in Uppsala bewahrt zusammenhängende gotische Sätze aus einer Übersetzung griechischer Texte.",
+    "en": "An East Germanic language. The Gospel manuscript in Uppsala preserves connected Gothic sentences from a translation of Greek texts."
+  },
+  "samples": [
+    {
+      "text": "𐌰𐍄𐍄𐌰 𐌿𐌽𐍃𐌰𐍂",
+      "languageTag": "got",
+      "scriptId": "script:gothic-alphabet",
+      "transliteration": "atta unsar",
+      "transliterationSystem": "Roman transcription used by Project Wulfila, with editorial word division",
+      "translation": {
+        "de": "unser Vater",
+        "en": "our father"
+      },
+      "direction": "ltr",
+      "sourceRefs": [
+        {
+          "sourceId": "source:project-wulfila-matthew-6-9",
+          "role": "supports",
+          "locator": "Word analysis of atta, unsar and himinam on fol. 4v (facsimile 8); weihnai begins the next petition on fol. 5r (facsimile 9)."
+        },
+        {
+          "sourceId": "source:miller-oxford-gothic-grammar",
+          "role": "supports",
+          "locator": "Chapter 1, discussion immediately before §1.5 and §1.5 on the division of translation work and the codices; §2.1, table 2.1, on letter shapes, order and numeral values."
+        }
+      ]
+    }
+  ]
+}

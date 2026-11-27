@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:constantinople",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Place 520998, title and representative point (reprPoint) in the official Pleiades JSON export."
+    },
+    {
+      "sourceId": "source:gassman-wolfe-gothic-philippians",
+      "role": "supports",
+      "locator": "p. 532, introduction and notes 4–8 on Wulfila and his endorsement of the Homoian creed in Constantinople in 360."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Konstantinopel",
+    "en": "Constantinople"
+  },
+  "summary": {
+    "de": "Kaiserresidenz am Bosporus im heutigen Istanbul. Der Punkt auf der historischen Halbinsel zeigt die Stadt, in der sich 360 die Bischöfe versammelten. Das Versammlungsgebäude wird nicht lokalisiert.",
+    "en": "Imperial capital on the Bosporus in modern Istanbul. The point on the historic peninsula marks the city where the bishops met in 360. Their specific meeting place is unknown here."
+  }
+}

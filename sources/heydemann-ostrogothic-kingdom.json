@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:heydemann-ostrogothic-kingdom",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "The Ostrogothic Kingdom: Ideologies and Transitions",
+  "creators": [
+    "Gerda Heydemann"
+  ],
+  "url": "https://epub.oeaw.ac.at/0xc1aa5572_0x003918d9.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Accepted manuscript of the chapter in A Companion to Ostrogothic Italy, ed. J. Arnold, M. S. Bjornlie and K. Sessa, Brill, pp. 15–46. The reference locators use the manuscript sections and notes. DOI 10.1163/9789004315938_003.",
+  "published": "2016"
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:alan-survivors-join-gunderic",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, 416–418, campaigns under Wallia and death of Addax."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Überlebende Alanen suchen Schutz bei Gunderich",
+    "en": "Alan survivors seek Gunderic’s protection"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 418,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 418,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:alans-in-the-west",
+      "role": "participant"
+    },
+    {
+      "entityId": "community:vandals-in-the-fifth-century",
+      "role": "participant"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Nach den Kämpfen unter Wallia treten die Überlebenden in Gunderichs Schutz ein. Die Nachricht betrifft einen Verband in Hispanien.",
+    "en": "After Wallia’s campaigns the surviving group placed itself under Gunderic’s protection. The entry concerns a particular group in Hispania."
+  }
+}

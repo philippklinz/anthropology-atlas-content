@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:danube-crossing-and-adrianople",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.3.8–31.4.13: competing responses to Hunnic pressure, request to Valens, Roman interest in recruitment, boats and rafts, food shortages and refusal of the Greuthungian request"
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+    },
+    {
+      "sourceId": "source:leveniotis-kalafikis-marcianople-2024",
+      "role": "supports",
+      "locator": "pp. 371–378, especially pp. 374–376 and nn. 55–59: approach to Marcianopolis and the case for a battle early in 377"
+    },
+    {
+      "sourceId": "source:errington-theodosius-goths",
+      "role": "supports",
+      "locator": "pp. 10–11, 18–21: Themistius’ audience, the negotiated peace, changing positions and unresolved legal, military, fiscal and geographical details"
+    }
+  ],
+  "labels": {
+    "de": "An der Donau – Zuflucht, Hunger und ein Krieg",
+    "en": "At the Danube – refuge, hunger and war"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "person:fritigern",
+    "event:lower-danube-crossing-376",
+    "event:marcianopolis-rising",
+    "event:adrianople-378",
+    "event:thrace-peace-382"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 27.05,
+      "latitude": 42.9,
+      "metersPerPixel": 1900,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 376,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 376,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 382,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 382,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "migrations",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "lower-danube",
+      "textAnchor": "lower-danube",
+      "labels": {
+        "de": "376 · Die Überfahrten",
+        "en": "376 · The crossings"
+      },
+      "summary": {
+        "de": "Viele Menschen überquerten den Fluss. Der Kartenausschnitt bei Silistra zeigt den Schauplatz in der Region.",
+        "en": "Many people crossed the river. The map window around Silistra locates the setting in the region."
+      },
+      "state": {
+        "camera": {
+          "longitude": 27.26,
+          "latitude": 44.12,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 376,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 376,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "marcianopolis",
+      "textAnchor": "marcianopolis",
+      "labels": {
+        "de": "376/377 · Ein Gastmahl in Marcianopolis",
+        "en": "376/377 · A banquet at Marcianopolis"
+      },
+      "summary": {
+        "de": "Der römische Bericht verfolgt gleichzeitig die Vorgänge am Stadttor und am Tisch des Befehlshabers.",
+        "en": "The Roman account follows events at the city gate and at the commander’s table at the same time."
+      },
+      "state": {
+        "camera": {
+          "longitude": 27.59,
+          "latitude": 43.23,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 376,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 376,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 377,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 377,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "hadrianopolis",
+      "textAnchor": "hadrianopolis",
+      "labels": {
+        "de": "378 · Die Schlacht bei Hadrianopolis",
+        "en": "378 · The battle near Adrianople"
+      },
+      "summary": {
+        "de": "In der Nähe des heutigen Edirne verlor das römische Heer die Schlacht und seinen Kaiser.",
+        "en": "Near modern Edirne the Roman army lost the battle and its emperor."
+      },
+      "state": {
+        "camera": {
+          "longitude": 26.56,
+          "latitude": 41.68,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 378,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 378,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "thrace",
+      "textAnchor": "thrace",
+      "labels": {
+        "de": "382 · Der Frieden in Thrakien",
+        "en": "382 · Peace in Thrace"
+      },
+      "summary": {
+        "de": "Was das Abkommen über einzelne Siedlungsplätze oder Steuern festlegte, ist nur unvollständig überliefert.",
+        "en": "The terms of settlement and taxation survive only in incomplete accounts."
+      },
+      "state": {
+        "camera": {
+          "longitude": 26.1,
+          "latitude": 42.7,
+          "metersPerPixel": 2400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 382,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 382,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Vom Gesuch an der römischen Grenze bis zum Frieden von 382. Ein Gastmahl, die Schlacht bei Hadrianopolis und zwei römische Autoren eröffnen unterschiedliche Zugänge zur Geschichte.",
+      "en": "From a petition at the Roman frontier to the peace of 382. A banquet, the battle near Adrianople and the writings of two Roman authors open different windows on the events."
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "balkans",
+        "labels": {
+          "de": "Balkan",
+          "en": "Balkans"
+        }
+      },
+      {
+        "id": "lower-danube",
+        "labels": {
+          "de": "Untere Donau",
+          "en": "Lower Danube"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "goths",
+        "labels": {
+          "de": "Goten",
+          "en": "Goths"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "assertion:fritigern-adrianople-378",
+    "assertion:refugees-lower-danube-376",
+    "community:refugees-and-fritigerns-coalition",
+    "event:adrianople-378",
+    "event:lower-danube-crossing-376",
+    "event:marcianopolis-rising",
+    "event:thrace-peace-382",
+    "geometry:durostorum-orientation",
+    "geometry:fritigern-adrianople-378",
+    "geometry:hadrianopolis-edirne-orientation",
+    "geometry:marcianopolis-orientation",
+    "geometry:refugees-lower-danube-376",
+    "person:fritigern",
+    "person:saturninus-382",
+    "person:valens-emperor",
+    "place:durostorum",
+    "place:hadrianopolis-edirne",
+    "place:marcianopolis",
+    "region:adrianople-countryside",
+    "region:lower-danube-frontier",
+    "source:ammianus-res-gestae-31",
+    "source:errington-theodosius-goths",
+    "source:leveniotis-kalafikis-marcianople-2024",
+    "source:pleiades-ancient-places",
+    "source:usno-calendars"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:malbork-wielbark-burial-sequence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:luczkiewicz-wielbark-2021",
+      "role": "supports",
+      "locator": "The cemetery, figs. 2–4; Palaeoenvironmental data, figs. 5–6",
+      "note": {
+        "de": "Hier sind Bestattungen, Untersuchungen an Urnen und das Pollendiagramm dokumentiert.",
+        "en": "The team documents the burials, urn analysis and pollen diagram here."
+      }
+    },
+    {
+      "sourceId": "source:maik-wielbark-textiles-2023",
+      "role": "supports",
+      "locator": "pp. 161–163, table 1, grave 2012/57, and p. 173, Nitka. Twelve textiles and one thread from nine graves. A mineralised Z-twist thread survived on the brooch pin, with degraded cloth beneath the bow."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Malbork-Wielbark · Generationen auf einem Gräberfeld",
+    "en": "Malbork-Wielbark · generations at one cemetery"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": -174,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": -124,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 401,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 425,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:malbork-wielbark-funerary-urns",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:malbork-wielbark-brooch-thread",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Zeitfenster gilt dem gesamten Gräberfeld. Einzelne Urnen und Gräber haben eigene, kürzere Datierungen.",
+      "en": "The time window covers the full cemetery sequence. Individual urns and graves have their own, shorter dates."
+    }
+  },
+  "note": {
+    "de": "Bestattungen reichen hier von etwa der Mitte des zweiten Jahrhunderts v. Chr. bis an den Anfang des fünften Jahrhunderts n. Chr. Die Folge enthält Brand- und Körpergräber.",
+    "en": "Burials extend from around the middle of the second century BCE into the early fifth century CE. The sequence includes cremations and inhumations."
+  },
+  "placeIds": [
+    "place:malbork-wielbark"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:malbork-wielbark-orientation",
+      "role": "findspot"
+    }
+  ]
+}

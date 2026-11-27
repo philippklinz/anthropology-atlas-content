@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "polity:vandal-kingdom-in-africa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Time Line, pp. xiii–xiv, entries 405/6, 428/29, 430, 435, 439, 442 and 484–496."
+    },
+    {
+      "sourceId": "source:kelsey-carthage-1979",
+      "role": "supports",
+      "locator": "The International Campaign to Save Carthage, opening paragraph, and Trade, paragraphs 1–3."
+    }
+  ],
+  "entityType": "polity",
+  "labels": {
+    "de": "Vandalenreich in Nordafrika",
+    "en": "Vandal kingdom in North Africa"
+  },
+  "summary": {
+    "de": "Das von Karthago aus regierte Königreich kontrollierte wichtige Häfen und Agrargebiete. Die 439 eroberte Stadt blieb bis 533 seine Hauptstadt.",
+    "en": "The kingdom governed from Carthage controlled important ports and agricultural lands. The city, taken in 439, remained its capital until 533."
+  }
+}

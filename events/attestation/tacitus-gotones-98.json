@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:tacitus-gotones-98",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tacitus-germania-44",
+      "role": "supports",
+      "locator": "Germania 44.1, Gotones and neighbouring peoples",
+      "note": {
+        "de": "Die Namensform und die relative Lage stehen im antiken Text.",
+        "en": "The ancient text gives the name and a position relative to other groups."
+      }
+    },
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Chapter 7, pp. 229–230, Historical interpretations: Germania 44 and Ptolemy III.5.7–9",
+      "note": {
+        "de": "Cieśliński erklärt, wie aus den antiken Ortsangaben eine Verortung am Unterlauf der Weichsel erschlossen wird.",
+        "en": "Cieśliński explains how ancient relative locations can be used to infer a lower Vistula setting."
+      }
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tacitus beschreibt die Gotonen",
+    "en": "Tacitus describes the Gotones"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 98,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 98,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:gotones-early-roman-accounts",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Jahr bezieht sich auf die Abfassung der Germania. Tacitus gibt keine Koordinaten für eine Siedlung.",
+      "en": "The year refers to the composition of Germania. Tacitus gives no coordinates for a settlement."
+    }
+  },
+  "note": {
+    "de": "Kapitel 44 der Germania ordnet die Gotonen unter ihren Nachbarn ein. Erst der Vergleich mit weiteren Texten erlaubt eine Annäherung an die untere Weichsel.",
+    "en": "Section 44 of Germania places the Gotones in relation to their neighbours. Comparison with other texts suggests a location on the lower Vistula."
+  }
+}

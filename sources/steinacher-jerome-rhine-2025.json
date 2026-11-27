@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:steinacher-jerome-rhine-2025",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ethnische Topoi und gallische Geschichte(n): Der 123. Brief des Hieronymus",
+  "sourceType": "book",
+  "creators": [
+    "Roland Steinacher"
+  ],
+  "url": "https://www.uibk.ac.at/iup/buch_pdfs/kult_magie_ritual/10.15203-99106-163-2.pdf",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Chapter in Kult – Magie – Ritual. See pp. 547–551 on dating, the crossing site, the tradition of a frozen river and the intended recipient of the letter.",
+  "published": "2025",
+  "publisher": "Innsbruck University Press"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:grierson-albertini-1959",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Tablettes Albertini and the Value of the solidus in the fifth and sixth centuries A.D.",
+  "sourceType": "article",
+  "creators": [
+    "Philip Grierson"
+  ],
+  "url": "https://doi.org/10.2307/297625",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Journal of Roman Studies 49, pp. 73–80. The opening of the article gives the dates and find region and surveys the range of deeds.",
+  "published": "1959",
+  "publisher": "Society for the Promotion of Roman Studies"
+}

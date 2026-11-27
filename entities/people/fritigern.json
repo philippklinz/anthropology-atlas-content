@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:fritigern",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Fritigern",
+    "en": "Fritigern"
+  },
+  "summary": {
+    "de": "Terwingischer Anführer. Ammianus nennt ihn beim Gastmahl in Marcianopolis und im Zusammenhang mit den Verhandlungen und Kämpfen bei Hadrianopolis.",
+    "en": "Tervingian leader. Ammianus names him at the banquet in Marcianopolis and in connection with the negotiations and fighting around Hadrianopolis."
+  }
+}

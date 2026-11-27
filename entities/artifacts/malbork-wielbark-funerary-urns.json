@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:malbork-wielbark-funerary-urns",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:luczkiewicz-wielbark-2021",
+      "role": "supports",
+      "locator": "The cemetery, figs. 2–4; Palaeoenvironmental data, figs. 5–6",
+      "note": {
+        "de": "Hier sind Bestattungen, Untersuchungen an Urnen und das Pollendiagramm dokumentiert.",
+        "en": "The team documents the burials, urn analysis and pollen diagram here."
+      }
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Urnen von Malbork-Wielbark",
+    "en": "Funerary urns from Malbork-Wielbark"
+  },
+  "summary": {
+    "de": "Zu den Funden gehören Gefäße, in denen verbrannte menschliche Überreste beigesetzt wurden. Materialanalysen weisen auf eine Herstellung für diesen Zweck hin.",
+    "en": "The excavated vessels include containers for cremated human remains. Material analyses suggest some were made expressly for burial."
+  }
+}

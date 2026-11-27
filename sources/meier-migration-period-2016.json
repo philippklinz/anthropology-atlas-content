@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:meier-migration-period-2016",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Die „Völkerwanderung“",
+  "creators": [
+    "Mischa Meier"
+  ],
+  "sourceType": "article",
+  "url": "https://www.bpb.de/shop/zeitschriften/apuz/229813/die-voelkerwanderung/",
+  "accessedAt": "2026-11-27",
+  "published": "2016",
+  "language": "de",
+  "containerTitle": "Aus Politik und Zeitgeschichte 26–27/2016",
+  "bibliographicNote": "German-language introduction to the history of the period label, changing groups and the part played by the Roman Empire."
+}

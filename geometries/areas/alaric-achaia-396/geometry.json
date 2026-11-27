@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:alaric-achaia-396",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "pp. 69–73, introduction and “The itinerary of Alaric”: campaign in Achaea in 396, Athens, Corinth and the disagreements among ancient accounts."
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.5–7: Alaric in southern Greece, Athens and passage to the Peloponnese."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiPolygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Zwei Umgebungsflächen verorten die Städte. Sie bilden weder die Marschroute noch das Ausmaß möglicher Zerstörungen ab.",
+    "en": "Two reference areas locate the cities. The boundaries represent neither the march nor the reach of any destruction."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

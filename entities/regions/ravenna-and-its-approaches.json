@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:ravenna-and-its-approaches",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 53–56. Camp in the Pineta, reported price of a measure of wheat, difficulties during the siege, entry into Ravenna and Odoacer’s death."
+    },
+    {
+      "sourceId": "source:venning-western-europe-2018",
+      "role": "supports",
+      "locator": "Part 1, pp. 19–21, entries for Italy under 489, 490, 492 and 493. Verona, the siege of Ravenna and the additional naval blockade from 492."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Zugänge nach Ravenna",
+    "en": "Approaches to Ravenna"
+  },
+  "summary": {
+    "de": "Die Quellen zur Belagerung nennen einen Pinienwald und später den Zugang über See. Die spätantike Uferlinie und die einzelnen Befestigungen lassen sich mit diesen Angaben allein kaum lokalisieren.",
+    "en": "The siege accounts mention a pine wood and, later, access by sea. Their information alone gives little purchase on the late antique shoreline or individual fortifications."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jerome-letter-127",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Letter 127 to Principia, in memory of Marcella",
+  "sourceType": "book",
+  "creators": [
+    "Jerome",
+    "W. H. Fremantle and collaborators (translation)"
+  ],
+  "url": "https://www.newadvent.org/fathers/3001127.htm",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Sections 12–14 recount the siege and the experiences of Marcella and Principia. Written after the sack for a commemorative purpose. Jerome presents his account as based on reports from others.",
+  "published": "412 CE; English translation in NPNF, 2nd series, vol. 6"
+}

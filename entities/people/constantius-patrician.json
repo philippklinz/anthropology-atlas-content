@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:constantius-patrician",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "Opening paragraphs, p. 65 and notes 1–2: recall from Hispania, Aquitanica Secunda and neighbouring cities, Toulouse and the open question of settlement density"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Constantius, römischer Heermeister",
+    "en": "Constantius, Roman commander"
+  },
+  "summary": {
+    "de": "Der Heermeister veranlasste 418 die Rückkehr gotischer Truppen aus Hispanien und ihre Ansiedlung in Gallien.",
+    "en": "The commander arranged the recall of Gothic troops from Hispania in 418 and their settlement in Gaul."
+  }
+}

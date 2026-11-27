@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wielbark-malbork-simc-0152017",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Osada Wielbark, gmina Malbork, SIMC 0152017",
+  "sourceType": "dataset",
+  "creators": [
+    "Polska w liczbach"
+  ],
+  "url": "https://www.polskawliczbach.pl/osada_Wielbark",
+  "language": "pl",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Modern settlement coordinates used as a geographic reference for the neighbouring archaeological site."
+}

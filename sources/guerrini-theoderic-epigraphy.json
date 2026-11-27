@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:guerrini-theoderic-epigraphy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Theodericus rex nelle testimonianze epigrafiche",
+  "creators": [
+    "Paola Guerrini"
+  ],
+  "url": "https://www.academia.edu/8787926/P_GUERRINI_Theodericus_rex_nelle_testimonianze_epigrafiche_in_Temporis_Signa_VI_2011_pp_133_174",
+  "language": "it",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Temporis Signa VI, pp. 133–174. Figure 3 and catalogue no. 5 describe the inscribed lead pipes from Ravenna. The article prints the text, discusses the findspot and cites Cassiodorus’s chronicle under 502.",
+  "published": "2011"
+}

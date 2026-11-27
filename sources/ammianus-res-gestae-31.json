@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ammianus-res-gestae-31",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Roman History, Book XXXI",
+  "sourceType": "book",
+  "creators": [
+    "Ammianus Marcellinus",
+    "C. D. Yonge (translator)"
+  ],
+  "url": "https://www.tertullian.org/fathers/ammianus_31_book31.htm",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Near-contemporary Roman narrative in an English translation. Book 31.3–6 covers the displacement, admission, food crisis and rising; 31.12–13 preserves conflicting stories about the emperor’s death. The author assigns blame and does not supply testimony from the families concerned.",
+  "published": "Late fourth century CE; English translation 1862"
+}

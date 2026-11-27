@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:sirar-hippo-regius",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "SIRAR: Hippo Regius – Annaba",
+  "sourceType": "dataset",
+  "creators": [
+    "Sylloge Inscriptionum Religionis Africae Romanae"
+  ],
+  "url": "https://humanidadesdigitales.uc3m.es/s/nuevo-sirar/item/44779",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Location record 44779, country, ancient name and coordinates. Used to locate the city rather than a particular event within it.",
+  "published": "online gazetteer",
+  "publisher": "Universidad Carlos III de Madrid"
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:siege-of-hippo-430-431",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:possidius-life-augustine",
+      "role": "supports",
+      "locator": "XXVIII, closure by land and sea for nearly fourteen months and Possidius’s presence; XXIX–XXX."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Time Line, pp. xiii–xiv, entries 405/6, 428/29, 430, 435, 439, 442 and 484–496."
+    }
+  ],
+  "eventType": "battle",
+  "labels": {
+    "de": "Belagerung von Hippo Regius",
+    "en": "Siege of Hippo Regius"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 430,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 430,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 431,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 431,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "community:vandals-in-the-fifth-century",
+      "role": "attacker"
+    },
+    {
+      "entityId": "person:possidius-of-calama",
+      "role": "observer"
+    },
+    {
+      "entityId": "person:augustine-of-hippo",
+      "role": "observer"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Possidius berichtet als Augenzeuge aus der Stadt. Augustinus starb 430 während der Belagerung.",
+    "en": "Possidius writes as a witness from inside the city. Augustine died in 430 during the siege."
+  },
+  "placeIds": [
+    "place:hippo-regius"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hippo-regius-orientation",
+      "role": "location"
+    }
+  ]
+}

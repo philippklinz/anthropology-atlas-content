@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:adrianople-countryside",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.12.3–11 and XXXI.13: Valens at Adrianople, march out to the Gothic wagon enclosure and battle."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Umland von Adrianopel",
+    "en": "Countryside around Adrianople"
+  },
+  "summary": {
+    "de": "Der antike Stadtkern liegt im heutigen Edirne. Ammianus beschreibt den Marsch aus der Stadt zum Gefecht in der Umgebung.",
+    "en": "The ancient city lies at modern Edirne. Ammianus describes the march from the city to battle in the surrounding countryside."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hispania-provincial-settlements-411",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, 411, distribution by province."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Hydatius verortet Gruppen in römischen Provinzen",
+    "en": "Hydatius locates groups in Roman provinces"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 411,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 411,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:alans-in-the-west",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "community:vandals-in-the-fifth-century",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "community:suebes-in-hispania",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Gallaecia, Baetica, Lusitania und Carthaginiensis sind römische Provinzbezeichnungen. Ihr Name allein bestimmt keine Verbreitung der Bevölkerung.",
+    "en": "Gallaecia, Baetica, Lusitania and Carthaginiensis are Roman provincial names. The names alone give no population distribution."
+  }
+}

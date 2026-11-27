@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:theoderic-kingship-in-italy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Introduction, opening paragraphs through note 4. Odoacer in 476, the eastern emperor Zeno’s mandate, the Italian campaign in 489, the agreement and killing in 493, and Theoderic’s death in 526."
+    },
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Paragraphs around notes 84–88. Athalaric, his minority and his mother Amalasuentha’s regency, the accession letters and the promised continuation of rights."
+    }
+  ],
+  "subjectId": "person:theoderic-the-amal",
+  "predicate": "holds-office-in",
+  "objectId": "polity:ostrogothic-kingdom-in-italy",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 493,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 493,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 526,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 526,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "493 rief das Heer Theoderich nach dem Einzug in Ravenna zum König in Italien aus. Als Anführer der Goten trug er den Königstitel bereits zuvor.",
+    "en": "The army acclaimed Theoderic as king in Italy after his entry into Ravenna in 493. He had already held the royal title as leader of the Goths."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:uppsala-codex-argenteus-john-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Codex Argenteus page, John 12:37–43",
+  "sourceType": "catalog",
+  "creators": [
+    "Uppsala University Library"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Codex_Argenteus_page.jpg",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "The Wikimedia Commons reproduction is a single page from Uppsala University Library, shelfmark DG 1. The upper right corner is numbered 78. The file is explicitly marked CC0."
+}

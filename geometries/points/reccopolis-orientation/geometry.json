@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:reccopolis-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:castilla-la-mancha-recopolis",
+      "role": "supports",
+      "locator": "Introduction and Sobre este lugar: foundation in 578 in honour of the king’s son, the commercial street rising to the palace and church, and the site near Zorita de los Canes."
+    },
+    {
+      "sourceId": "source:schibille-recopolis-glass-2017",
+      "role": "supports",
+      "locator": "Introduction, paragraphs 1–3: three furnaces south of the palace, earliest workshop dated from the foundation to the first half of the seventh century, vessels, crucibles and workshop and residential samples."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q1236430, coordinate location (P625), rounded to 0.01 degree."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für den Ort. Die Lage eines einzelnen Gebäudes bleibt offen.",
+    "en": "Rounded reference point for the place. The location of an individual building remains open."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q1236430 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q1236430",
+    "originNote": "Wikidata structured coordinate rounded to two decimal places."
+  }
+}

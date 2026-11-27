@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:clovis-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-tours-histories-ii-37",
+      "role": "supports",
+      "locator": "II.37: tenth milestone outside Poitiers, men from the Auvergne and senatorial families among the dead; treasure taken from Toulouse after the winter at Bordeaux."
+    },
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47, 56–61: date of the battle, Alaric’s death, Gregory’s tenth milestone and rival identifications at Vouillé and Voulon."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chlodwig I.",
+    "en": "Clovis I"
+  },
+  "summary": {
+    "de": "Der Frankenkönig besiegte Alarich II. im Jahr 507. Gregor von Tours berichtet auch von seinem Zugriff auf den Schatz in Toulouse.",
+    "en": "The Frankish king defeated Alaric II in 507. Gregory of Tours also records his seizure of treasure at Toulouse."
+  }
+}

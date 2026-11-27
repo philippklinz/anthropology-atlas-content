@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandals-gaul-406-409",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entries 405/6 and 406–9: Rhine crossing followed by a period in Gaul."
+    }
+  ],
+  "subjectId": "community:vandals-in-the-fifth-century",
+  "predicate": "attested-at",
+  "objectId": "region:gaul-in-the-chronicles",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 406,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 406,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 409,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 409,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Das breite Kartenfenster gibt die Reichweite der Ortsangabe „Gallien“ an. Es umfasst einen Ausschnitt des Landes zwischen Rhein und Pyrenäen. Dichte, Verteilung und Zugwege der Beteiligten bleiben offen.",
+      "en": "The broad window conveys the scale of the geographical label “Gaul”, selecting part of the land between the Rhine and the Pyrenees. The density, distribution and routes of the participants remain open."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandals-gaul-406-409",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Nach dem Rheinübergang halten Berichte Vandalen und weitere Gruppen in Gallien fest. Im Jahr 409 sind Gruppen bereits südlich der Pyrenäen bezeugt. Nicht jeder für Gallien überlieferte Überfall lässt sich den Vandalen zuordnen.",
+    "en": "After the Rhine crossing, accounts place Vandals and other groups in Gaul. During 409 groups are already attested south of the Pyrenees. Not every attack reported in Gaul can be attributed to Vandals."
+  }
+}

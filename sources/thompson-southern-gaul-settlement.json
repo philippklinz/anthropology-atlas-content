@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:thompson-southern-gaul-settlement",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Settlement of the Barbarians in Southern Gaul",
+  "sourceType": "article",
+  "creators": [
+    "E. A. Thompson"
+  ],
+  "url": "https://doi.org/10.2307/297966",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Published extract, opening paragraphs and notes 1–2 (ancient notices in Prosper and Hydatius). Identifies the 418 settlement in Aquitanica Secunda and neighbouring cities, including Toulouse, and discusses uncertainty about its extent and distribution.",
+  "published": "1956",
+  "containerTitle": "The Journal of Roman Studies 46, 65–75",
+  "identifiers": {
+    "doi": "10.2307/297966"
+  }
+}

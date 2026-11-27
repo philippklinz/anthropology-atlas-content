@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:hadrianopolis-edirne-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.56,
+      41.68
+    ]
+  }
+}

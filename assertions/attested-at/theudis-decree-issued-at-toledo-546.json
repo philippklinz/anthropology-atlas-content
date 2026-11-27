@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:theudis-decree-issued-at-toledo-546",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Document 12, Decretum Theudis regis, pp. 262–264: expenses, witnesses, horses, inclusion in the Theodosian collection and Toledo dating clause."
+    },
+    {
+      "sourceId": "source:barroso-cabrera-throne-and-altar",
+      "role": "supports",
+      "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+    }
+  ],
+  "subjectId": "artifact:theudis-decree-on-court-fees",
+  "predicate": "attested-at",
+  "objectId": "place:toletum-toledo",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 546,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 546,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Urkunde und die Konzilsakten nennen Toledo. Die schematische Umgebung der Stadt lässt den Standort der königlichen Kanzlei und des Konzilsgebäudes offen.",
+      "en": "The decree and the acts name Toledo. The schematic city area leaves open the sites of the royal chancery and the council building."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:toledo-law-and-council-context",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Ortsangabe der Verfügung bezeichnet den Ausstellungsort des Gesetzes von 546. Eine überlieferte Abschrift wird in León aufbewahrt.",
+    "en": "The decree names the city of issue in 546. A surviving copy is kept at León."
+  }
+}

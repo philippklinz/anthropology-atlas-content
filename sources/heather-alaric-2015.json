@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:heather-alaric-2015",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Alaric",
+  "sourceType": "article",
+  "creators": [
+    "Peter Heather"
+  ],
+  "url": "https://doi.org/10.1093/acrefore/9780199381135.013.237",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Read the published entry extract on the changing composition of Alaric’s following, its demands, the sack of Rome on 24 August 410 and Alaric’s death later that year.",
+  "published": "2015",
+  "containerTitle": "Oxford Classical Dictionary",
+  "identifiers": {
+    "doi": "10.1093/acrefore/9780199381135.013.237"
+  }
+}

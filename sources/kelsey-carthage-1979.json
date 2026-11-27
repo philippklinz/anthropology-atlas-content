@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kelsey-carthage-1979",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Carthage Then and Now",
+  "sourceType": "catalog",
+  "creators": [
+    "Kelsey Museum of Archaeology, University of Michigan"
+  ],
+  "url": "https://lsa.umich.edu/content/dam/kelsey-assets/kelsey-publications/pdfs/Carthage-Then-and-Now.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Exhibition catalogue, introduction on successive governments and section Trade on the harbours, warehouses and evidence for grain exports.",
+  "published": "1979",
+  "publisher": "University of Michigan"
+}

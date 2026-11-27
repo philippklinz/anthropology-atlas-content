@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:vandals-rhine-to-carthage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Vandalen und Alanen vom Rhein nach Karthago",
+    "en": "Vandals and Alans from the Rhine to Carthage"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:first-circumnavigation"
+  ],
+  "recordIds": [
+    "artifact:albertini-tablets",
+    "assertion:vandal-african-provinces-442-496",
+    "assertion:vandals-african-agreement-435",
+    "assertion:vandals-baetica-420-429",
+    "assertion:vandals-carthage-439",
+    "assertion:vandals-gallaecia-419",
+    "assertion:vandals-gaul-406-409",
+    "assertion:vandals-hippo-430",
+    "assertion:vandals-hispania-409-410",
+    "assertion:vandals-iberian-settlements-411-418",
+    "chapter:vandals-rhine-to-carthage",
+    "community:alans-in-the-west",
+    "community:suebes-in-hispania",
+    "community:vandals-in-the-fifth-century",
+    "event:african-settlement-442",
+    "event:alan-survivors-join-gunderic",
+    "event:albertini-deeds-493-496",
+    "event:carthage-taken-439",
+    "event:geiseric-crossing-429",
+    "event:hispalis-gunderic",
+    "event:hispania-entry-409",
+    "event:hispania-provincial-settlements-411",
+    "event:rhine-crossing-405-406",
+    "event:siege-of-hippo-430-431",
+    "geometry:carthage-orientation",
+    "geometry:hippo-regius-orientation",
+    "geometry:vandal-african-provinces-442-496",
+    "geometry:vandals-african-agreement-435",
+    "geometry:vandals-baetica-420-429",
+    "geometry:vandals-carthage-439",
+    "geometry:vandals-gallaecia-419",
+    "geometry:vandals-gaul-406-409",
+    "geometry:vandals-hippo-430",
+    "geometry:vandals-hispania-409-410",
+    "geometry:vandals-iberian-settlements-411-418",
+    "person:augustine-of-hippo",
+    "person:geiseric",
+    "person:possidius-of-calama",
+    "person:valentinian-iii",
+    "place:carthage",
+    "place:hippo-regius",
+    "polity:vandal-kingdom-in-africa",
+    "region:baetica",
+    "region:carthage-and-tunisian-provinces",
+    "region:gallaecia-and-baetica",
+    "region:gaul-in-the-chronicles",
+    "region:hispania-in-the-chronicles",
+    "region:western-roman-africa",
+    "source:albertini-tablets-courtois-1952",
+    "source:fafinski-jerome-rhine-2025",
+    "source:fentress-numidian-peasants-2026",
+    "source:grierson-albertini-1959",
+    "source:hydatius-prosper-africa",
+    "source:jerome-letter-123",
+    "source:kelsey-carthage-1979",
+    "source:ministerio-cultura-hispalis",
+    "source:possidius-life-augustine",
+    "source:rpc-carthage-location",
+    "source:sirar-hippo-regius",
+    "source:steinacher-jerome-rhine-2025",
+    "source:whelan-vandal-africa-timeline"
+  ],
+  "entryChapterIds": [
+    "chapter:vandals-rhine-to-carthage"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic"
+  ]
+}

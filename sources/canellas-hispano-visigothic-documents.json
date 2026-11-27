@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canellas-hispano-visigothic-documents",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Diplomática hispano-visigoda: colección documental",
+  "sourceType": "archive",
+  "creators": [
+    "Ángel Canellas López"
+  ],
+  "url": "https://ifc.dpz.es/recursos/publicaciones/04/18/8canellas.pdf",
+  "language": "es",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin texts with editorial headings and manuscript witnesses. Documents 12, 35 and 36 preserve the decrees of Theudis and Reccared and the profession with Queen Baddo’s subscription.",
+  "containerTitle": "Cuadernos de Historia Jerónimo Zurita 33–34"
+}

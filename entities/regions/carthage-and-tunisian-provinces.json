@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:carthage-and-tunisian-provinces",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, pp. xiii–xiv: settlement of 442, Proconsularis, Byzacena and Numidia; late fifth-century rulers and events at Carthage."
+    },
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 442: demarcation agreed by Valentinian and Geiseric. Prosper gives no map of the frontier."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Karthago, Africa Proconsularis und Byzacena",
+    "en": "Carthage, Africa Proconsularis and Byzacena"
+  },
+  "summary": {
+    "de": "Karthago, die Küstenstädte und die agrarisch genutzten Ebenen im heutigen Tunesien wurden zum Zentrum des vandalischen Reiches. Weitere Gebiete lagen unter anderem in Numidien.",
+    "en": "Carthage, coastal cities and the agricultural plains of present-day Tunisia became central to the Vandal kingdom. It also held territory farther afield, including parts of Numidia."
+  }
+}

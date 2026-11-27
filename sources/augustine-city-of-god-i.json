@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:augustine-city-of-god-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The City of God, Book I",
+  "sourceType": "book",
+  "creators": [
+    "Augustine of Hippo",
+    "Marcus Dods (translator)"
+  ],
+  "url": "https://pages.uoregon.edu/sshoemak/321/texts/City_of_God.htm",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Book I, particularly chapters 1 and 7. Augustine uses the shelter provided in Christian sanctuaries in his argument about the sack and the position of Christianity in Rome.",
+  "published": "Fifth century CE; English translation 1871"
+}

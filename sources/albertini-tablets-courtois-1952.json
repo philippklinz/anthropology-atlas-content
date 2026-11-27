@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:albertini-tablets-courtois-1952",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tablettes Albertini. Actes privés de l’époque vandale (fin du Ve siècle)",
+  "sourceType": "archive",
+  "creators": [
+    "Christian Courtois",
+    "Louis Leschi",
+    "Charles Perrat",
+    "Charles Saumagne"
+  ],
+  "url": "https://droitromain.univ-grenoble-alpes.fr/Pdf/TAlbertini_Saumagne.pdf",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin transcriptions with French editorial commentary. Document XIII, pp. 259–261, records a sale by Processanus and Siddina and the closing subscription by Donatianus. The edition signals gaps and reconstructed letters.",
+  "published": "1952",
+  "publisher": "Arts et métiers graphiques (Paris), digitised text hosted by Université Grenoble Alpes"
+}

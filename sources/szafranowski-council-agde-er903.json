@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:szafranowski-council-agde-er903",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Council of Agde (506), canon 9",
+  "sourceType": "archive",
+  "creators": [
+    "Jerzy Szafranowski"
+  ],
+  "url": "https://presbytersproject.ihuw.pl/index.php?id=6&SourceID=903",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "ER 903 gives the council text and a historical introduction based on Munier’s edition and Klingshirn’s study.",
+  "published": "2017",
+  "containerTitle": "Presbyters in the Late Antique West, University of Warsaw"
+}

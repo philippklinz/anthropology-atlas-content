@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:golubinski-maslomecz-2026",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Cosmopolitanism in the depths of Barbaricum evidenced by archaeogenomic data from the Late Iron Age Goth community of the Masłomęcz group",
+  "sourceType": "article",
+  "creators": [
+    "Michał Golubiński",
+    "Mateusz Baca",
+    "Danijela Popović",
+    "Leo Speidel",
+    "Stephan Schiffels",
+    "Barbara Niezabitowska-Wiśniewska",
+    "Andrzej Kokowski",
+    "Martyna Molak"
+  ],
+  "url": "https://pure.mpg.de/rest/items/item_3696229_1/component/file_3696230/content",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Genome Biology 27, article 50. The geographic inventory in figure 1B and results concerning the individuals from grave 20 are used here.",
+  "published": "2026",
+  "identifiers": {
+    "doi": "10.1186/s13059-026-03969-4"
+  }
+}

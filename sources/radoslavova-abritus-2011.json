@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:radoslavova-abritus-2011",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Battle at Abritus in AD 251: Written Sources, Archaeological and Numismatic Data",
+  "sourceType": "article",
+  "creators": [
+    "Galena Radoslavova",
+    "Georgi Dzanev",
+    "Nikolay Nikolov"
+  ],
+  "url": "https://www.archaeologia-bulgarica.com/wp-content/uploads/2016/01/PDF_website_Archelogia_Bulgarica_3_2011.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Archaeologia Bulgarica XV/3, pp. 23–49. The publisher’s issue excerpt includes the opening discussion of the surviving written testimony, including Dexippus.",
+  "published": "2011"
+}

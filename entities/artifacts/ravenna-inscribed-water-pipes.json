@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ravenna-inscribed-water-pipes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:guerrini-theoderic-epigraphy",
+      "role": "supports",
+      "locator": "pp. 138–139, fig. 3, notes 28–31 and catalogue no. 5. Location at Via di Roma and Via Guaccimanni, lead pipe stamps and Cassiodorus, Chronica, entry for 502."
+    },
+    {
+      "sourceId": "source:cassiodorus-variae-5-38",
+      "role": "supports",
+      "locator": "V.38, heading and §§1–2. Landholders are ordered to remove saplings by the roots from Ravenna’s aqueduct. The letter discusses drinking and bathing water."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Ravennas Bleirohre mit dem Stempel Theoderichs",
+    "en": "Ravenna’s lead pipes stamped for Theoderic"
+  },
+  "summary": {
+    "de": "An der Via di Roma in Ravenna gefundene Rohrstücke tragen eine zweizeilige Inschrift, die dem König die Wiederherstellung der Versorgung zuschreibt. Die Fundstelle gehört zum Umfeld des Palastviertels.",
+    "en": "Pipe sections found on Via di Roma in Ravenna carry a two-line inscription crediting the king with restoring the water supply. The findspot lies in the vicinity of the palace district."
+  }
+}

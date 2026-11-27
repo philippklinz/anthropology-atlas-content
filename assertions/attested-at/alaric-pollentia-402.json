@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:alaric-pollentia-402",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "p. 69, survey of Claudian: poem celebrating Stilicho’s victory at Pollentia in 402."
+    },
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Extract: first shift of Alaric’s campaigns to Italy in 402."
+    }
+  ],
+  "subjectId": "community:alarics-followers",
+  "predicate": "attested-at",
+  "objectId": "region:northern-italian-campaign",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 402,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 402,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Fläche bei Pollenzo verortet eine Episode des Feldzugs. Für das genaue Schlachtfeld ist sie zu grob.",
+      "en": "The area around Pollenzo locates one episode of the campaign. Its scale is too coarse to identify a precise battlefield."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:alaric-pollentia-402",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Bei Pollentia gerieten Alarichs Leute 402 mit Stilichos Armee aneinander. Claudian feierte Stilicho in einem Gedicht. Auch die Überlieferung eines Kampfes konnte eine politische Aufgabe erfüllen.",
+    "en": "Near Pollentia in 402, Alaric’s forces fought Stilicho’s army. Claudian celebrated Stilicho in a poem. The telling of a battle itself served a political purpose."
+  }
+}

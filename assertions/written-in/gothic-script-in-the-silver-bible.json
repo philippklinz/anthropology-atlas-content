@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:gothic-script-in-the-silver-bible",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:project-wulfila-matthew-6-9",
+      "role": "supports",
+      "locator": "Word analysis of atta, unsar and himinam on fol. 4v (facsimile 8); weihnai begins the next petition on fol. 5r (facsimile 9)."
+    },
+    {
+      "sourceId": "source:project-wulfila-john-12-38",
+      "role": "supports",
+      "locator": "John 12:38, fol. 78r (facsimile 99). The tokens hauseinai and unsarai give the second possessive example in its inflected form."
+    },
+    {
+      "sourceId": "source:miller-oxford-gothic-grammar",
+      "role": "supports",
+      "locator": "Chapter 1, discussion immediately before §1.5 and §1.5 on the division of translation work and the codices; §2.1, table 2.1, on letter shapes, order and numeral values."
+    }
+  ],
+  "subjectId": "language:gothic",
+  "predicate": "written-in",
+  "objectId": "script:gothic-alphabet",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 500,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 530,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Form atta unsar auf Blatt 4v und unsarai auf Blatt 78r sind zwei Beispiele aus derselben Handschrift.",
+    "en": "The sequence atta unsar on folio 4v and unsarai on folio 78r provide examples from the same manuscript."
+  }
+}

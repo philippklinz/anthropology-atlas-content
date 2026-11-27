@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:goths-black-sea",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Goten in der Welt des Schwarzen Meeres",
+    "en": "The Goths in the Black Sea World"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:goths-lower-vistula",
+    "package:danube-crossing-and-adrianople"
+  ],
+  "recordIds": [
+    "artifact:komariv-raw-glass-samples",
+    "artifact:olbia-r23-late-pottery",
+    "artifact:ulow-herennia-etruscilla-aureus",
+    "assertion:chernyakhiv-carpathians-to-dnieper",
+    "assertion:chernyakhiv-olbia-late",
+    "assertion:chernyakhiv-southern-bug",
+    "assertion:komariv-raw-glass-context",
+    "assertion:olbia-r23-ceramic-context",
+    "assertion:ulow-aureus-find-context",
+    "chapter:goths-black-sea",
+    "community:gothic-army-at-abritus",
+    "event:battle-near-abritus-251",
+    "event:komariv-glassworking-evidence",
+    "event:olbia-r23-late-ceramic-evidence",
+    "geometry:abritus-near-razgrad-orientation",
+    "geometry:chernyakhiv-carpathians-to-dnieper",
+    "geometry:chernyakhiv-olbia-late",
+    "geometry:chernyakhiv-southern-bug",
+    "geometry:komariv-middle-dniester-orientation",
+    "geometry:olbia-pontica-orientation",
+    "geometry:ulow-roztocze-orientation",
+    "person:emperor-decius",
+    "place:abritus-near-razgrad",
+    "place:komariv-middle-dniester",
+    "place:olbia-pontica",
+    "place:ulow-roztocze",
+    "region:chernyakhiv-find-distribution",
+    "region:north-pontic-and-carpathian-basins",
+    "source:bursche-myzgin-abritus-2020",
+    "source:chre-razgrad-12425",
+    "source:didenko-olbia-2024",
+    "source:harhoiu-dacia-2021",
+    "source:kulikowski-northern-barbarians-2005",
+    "source:lcp-olbia-pontica",
+    "source:petrauskas-avramenko-komariv-2019",
+    "source:radoslavova-abritus-2011",
+    "source:razgrad-abritus-reserve",
+    "source:rumyantseva-komariv-glass-2023",
+    "source:saag-komariv-site-supplement",
+    "source:ulow-simc-0902694"
+  ],
+  "entryChapterIds": [
+    "chapter:goths-black-sea"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic"
+  ]
+}

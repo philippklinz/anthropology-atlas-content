@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:venning-western-europe-2018",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "A Chronology of Early Medieval Western Europe, 450–1066",
+  "creators": [
+    "Timothy Venning"
+  ],
+  "url": "https://api.pageplace.de/preview/DT0400.9781351589178_A31470680/preview-9781351589178_A31470680.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Routledge. First chronological section, entries for Italy. The contemporary narratives and modern chronology are used together.",
+  "published": "2018"
+}

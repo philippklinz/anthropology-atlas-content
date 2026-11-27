@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:third-council-assembly-at-toledo-589",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+    },
+    {
+      "sourceId": "source:ferreiro-third-council-toledo",
+      "role": "supports",
+      "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+    },
+    {
+      "sourceId": "source:szada-reccared-edict-er363",
+      "role": "supports",
+      "locator": "ER 363, About the source: Homoian and Nicene Christians, Reccared’s conversion in 587, the 589 council and manuscript recensions."
+    }
+  ],
+  "subjectId": "community:third-council-of-toledo-assembly",
+  "predicate": "attested-at",
+  "objectId": "place:toletum-toledo",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 589,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 589,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Urkunde und die Konzilsakten nennen Toledo. Die schematische Umgebung der Stadt lässt den Standort der königlichen Kanzlei und des Konzilsgebäudes offen.",
+      "en": "The decree and the acts name Toledo. The schematic city area leaves open the sites of the royal chancery and the council building."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:toledo-law-and-council-context",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Konzilsakten nennen Toledo als Sitz der Versammlung und überliefern die Unterzeichnungen von König und Königin.",
+    "en": "The acts name Toledo as the meeting place and preserve the king’s and queen’s subscriptions."
+  }
+}

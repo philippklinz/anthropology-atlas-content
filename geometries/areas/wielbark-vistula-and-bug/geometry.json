@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:wielbark-vistula-and-bug",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "pp. 225–227, fig. 8 and Settlement changes: lower Vistula continuity and eastern Polish sites in the second half of the second century, especially the Liwiec–Bug confluence."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiPolygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Beide Teilflächen fassen ausgewählte Befunde zusammen. Der Wechsel der Kartenansicht um 150 ordnet die Funde einer groben Phase zu. Einzelne Siedlungen, Familien und Traditionen folgten unterschiedlichen Zeitplänen.",
+    "en": "Both areas group selected finds. The map change around 150 is a broad phase division. Individual settlements, families and traditions followed different chronologies."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

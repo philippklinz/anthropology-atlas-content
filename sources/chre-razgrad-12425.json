@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:chre-razgrad-12425",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "RAZGRAD 7 · Coin Hoards of the Roman Empire 12425",
+  "sourceType": "dataset",
+  "creators": [
+    "Coin Hoards of the Roman Empire Project, Ashmolean Museum"
+  ],
+  "url": "https://chre.ashmus.ox.ac.uk/hoard/12425",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The location tab supplies a town-centred reference point. It does not purport to survey the battlefield."
+}

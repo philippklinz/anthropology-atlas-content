@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:possidius-life-augustine",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Life of St. Augustine",
+  "sourceType": "archive",
+  "creators": [
+    "Possidius of Calama",
+    "Herbert T. Weiskotten (translator)"
+  ],
+  "url": "https://www.tertullian.org/fathers/possidius_life_of_augustine_02_text.htm",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "English edition of the fifth-century biography. Chapters XXVIII–XXIX describe the siege and last illness; chapter XXX preserves the bishop’s response to Honoratus about clergy, departure and duty of care.",
+  "published": "fifth century, English edition 1919"
+}

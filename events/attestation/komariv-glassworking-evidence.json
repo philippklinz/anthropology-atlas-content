@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:komariv-glassworking-evidence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rumyantseva-komariv-glass-2023",
+      "role": "supports",
+      "locator": "pp. 51–69, abstract, chemical groups and conclusions on raw glass supply and chronology",
+      "note": {
+        "de": "Die Analyse der 42 Proben unterscheidet Herkunftsregionen des Rohglases und erkennt Altglasverwertung.",
+        "en": "The 42-sample analysis distinguishes sources of raw glass and identifies the use of cullet."
+      }
+    },
+    {
+      "sourceId": "source:petrauskas-avramenko-komariv-2019",
+      "role": "supports",
+      "locator": "pp. 68–71, site description and figs. 1–2, settlement and cemetery by the middle Dniester"
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Komariv · Werkstoffe aus der Ferne",
+    "en": "Komariv · raw materials from afar"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 301,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 425,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:komariv-raw-glass-samples",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Zeitfenster des vierten bis frühen fünften Jahrhunderts folgt der chemisch untersuchten Fundgruppe.",
+      "en": "The fourth- to early fifth-century window follows the assemblage examined in the chemical study."
+    }
+  },
+  "note": {
+    "de": "Die untersuchten Rohglasgruppen weisen auf Ägypten und die Levante. Daneben wurde in der Werkstatt Altglas verarbeitet.",
+    "en": "The analysed raw glass groups point to Egypt and the Levant. The workshop also processed recycled glass."
+  },
+  "placeIds": [
+    "place:komariv-middle-dniester"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:komariv-middle-dniester-orientation",
+      "role": "findspot"
+    }
+  ]
+}

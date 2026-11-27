@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:project-wulfila-john-12-38",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gothic Bible, John 12:38",
+  "sourceType": "catalog",
+  "creators": [
+    "Project Wulfila, University of Antwerp"
+  ],
+  "url": "https://www.wulfila.be/gothic/browse/text/02/12/38.html",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Word-by-word edition of the same page reproduced in the chapter. The possessive belongs to the same lemma as unsar in Matthew 6:9."
+}

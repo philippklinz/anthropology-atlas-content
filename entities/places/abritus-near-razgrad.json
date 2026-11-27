@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:abritus-near-razgrad",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:razgrad-abritus-reserve",
+      "role": "supports",
+      "locator": "Description of the ancient city and the summer 251 battle in its vicinity"
+    },
+    {
+      "sourceId": "source:radoslavova-abritus-2011",
+      "role": "supports",
+      "locator": "p. 23, opening discussion of Dexippus and later historians"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Abritus bei Rasgrad",
+    "en": "Abritus near Razgrad"
+  },
+  "summary": {
+    "de": "Römische Stadt im heutigen Nordosten Bulgariens. Die Schlacht des Jahres 251 fand in ihrer Umgebung statt.",
+    "en": "Roman city in present-day northeastern Bulgaria. The battle of 251 took place in the surrounding area."
+  }
+}

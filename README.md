@@ -2,7 +2,7 @@
 
 Independent historical content for the [Anthropology Atlas engine](https://github.com/philippklinz/anthropology-atlas-engine).
 
-Thirty-three historical chapters are available in German and English:
+Forty-two historical chapters are available in German and English.
 
 - [The Cradle of Humankind: early Homo sapiens in Africa](docs/research/cradle-of-humankind.md), including fossil evidence, stone tools and explicit dating uncertainty.
 - [Early Routes out of Africa: Misliya, Skhul, Qafzeh and Al Wusta](docs/research/early-routes-out-of-africa.md), with fossil evidence, environmental context and explicit dating limits.
@@ -37,8 +37,15 @@ Thirty-three historical chapters are available in German and English:
 - [Columbus's first Atlantic voyage, 1492–1493](docs/research/columbus-first-voyage.md), including inhabited Caribbean societies and the disputed identification of Guanahani.
 - [The first circumnavigation, 1519–1522](docs/research/first-circumnavigation.md).
 - [Darwin and the second Beagle voyage, 1831–1836](docs/research/darwin-beagle.md), including his four Galápagos island stays.
+- [Reading the Migration Period on the Map](chapters/reading-the-migration-period/en.md), an overview with ten dated stops and links to eight chapters.
+- [Goths on the lower Vistula](chapters/goths-lower-vistula/en.md) and [the Black Sea region](chapters/goths-black-sea/en.md), with cemetery textiles, pottery and glassworking.
+- [Wulfila and the Gothic Silver Bible](chapters/gothic-gospels/en.md), including a photographed page of the manuscript in Uppsala.
+- [At the Danube](chapters/danube-crossing-and-adrianople/en.md) and [Alaric, Rome and Aquitaine](chapters/alaric-rome-and-aquitaine/en.md), from the crossings of 376 to settlement in Gaul in 418.
+- [From the Rhine to Carthage](chapters/vandals-rhine-to-carthage/en.md), a contemporary comparison following Vandal and Alan groups across the western empire.
+- [Ravenna under Theoderic](chapters/theoderic-and-ravenna/en.md), with the palace mosaic and the history of the aqueduct.
+- [From Toulouse to Toledo](chapters/visigoths-toulouse-to-toledo/en.md), including the royal foundation at Recópolis and Queen Baddo’s subscription in 589.
 
-The dataset contains 1,082 records, including 304 entities, 149 events, 87 assertions, 131 geometries, 284 sources, 59 images, one interpretation group, thirty-three chapters and thirty-four packages. The records are **research drafts**. The source records and chapter notes document sources, map precision and outstanding interpretations.
+The dataset contains 1,411 records, including 401 entities, 190 events, 124 assertions, 182 geometries, 365 sources, 61 images, two models, one interpretation group, 42 chapters and 43 packages. The historical records are research drafts. Chapter citations and map annotations describe the evidence and its precision.
 
 `published/catalog.json` serves these chapters to the atlas. Synthetic fixtures remain in the engine’s test area. Reused Rio Bay and Cape of Good Hope identities, their geometries and two supporting sources have one canonical owner in `package:maritime-shared`; voyage packages declare explicit dependencies on it. The early-dispersal package reuses Homo sapiens and Levallois identities through its explicit dependency on `package:human-origins`. The human-encounters package depends on the same owner for Homo sapiens and introduces cited genetic relationships between individual specimens and biological lineages.
 
@@ -74,4 +81,4 @@ All processing runs in the browser; selected files are not uploaded. The tool ca
 
 ## Chapter discovery
 
-All thirty-three chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. Ohalo II appears in the food and shelter chapters with a single canonical place record. Shubayqa 1 links the deglaciation chapter with the use of the hearths at the same site. The Palaeolithic and postglacial groups overlap in “As the Ice Retreats.” Uruk appears in the city and writing chapters through a single shared place and orientation point. Amarna appears in the court letters and shipwreck chapters with separately dated evidence. See [chapter discovery](docs/research/chapter-discovery.md) and the plans for the [Palaeolithic](docs/planning/palaeolithic.md), [postglacial lifeways](docs/planning/postglacial-lifeways.md), [early cities](docs/planning/early-cities-networks.md) and [kingdoms and trade networks](docs/planning/kingdoms-and-trade-networks.md).
+All 42 chapters define explicit `recordIds` membership and bilingual discovery summaries, periods, regions and topics. Membership is independent of package ownership. The engine opens a searchable overview, supports multiple chapter selection, and scopes the atlas and directory to that selection. Ohalo II appears in the food and shelter chapters with a single canonical place record. Shubayqa 1 links the deglaciation chapter with the use of the hearths at the same site. The Palaeolithic and postglacial groups overlap in “As the Ice Retreats.” Uruk appears in the city and writing chapters through a single shared place and orientation point. Amarna appears in the court letters and shipwreck chapters with separately dated evidence. See [chapter discovery](docs/research/chapter-discovery.md) and the plans for the [Palaeolithic](docs/planning/palaeolithic.md), [postglacial lifeways](docs/planning/postglacial-lifeways.md), [early cities](docs/planning/early-cities-networks.md) and [kingdoms and trade networks](docs/planning/kingdoms-and-trade-networks.md).

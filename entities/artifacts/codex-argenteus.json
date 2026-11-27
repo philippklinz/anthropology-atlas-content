@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:codex-argenteus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:uppsala-history-of-codex-argenteus",
+      "role": "supports",
+      "locator": "Opening paragraphs, Materials, and Codex argenteus’ journey: likely early-sixth-century Ravenna production; material and script; leaf counts, Uppsala and the Speyer find."
+    },
+    {
+      "sourceId": "source:project-wulfila-gothic-manuscripts",
+      "role": "supports",
+      "locator": "Entries 1 (Codex Argenteus, Uppsala DG 1, Gospel order) and 13 (Fragmentum Spirense, end of Mark 16)."
+    },
+    {
+      "sourceId": "source:uppsala-codex-argenteus-john-photo",
+      "role": "supports",
+      "locator": "Image description, attribution and CC0 licensing; source digitisation Uppsala University Library, Alvin record 60279."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Codex Argenteus · die Silberbibel",
+    "en": "Codex Argenteus · the Silver Bible"
+  },
+  "summary": {
+    "de": "In Italien angefertigte Evangelienhandschrift auf purpurfarbenem Pergament. Die erhaltenen Blätter befinden sich in Uppsala und Speyer.",
+    "en": "Gospel manuscript made in Italy on purple parchment. The surviving leaves are kept in Uppsala and Speyer."
+  },
+  "assetIds": [
+    "asset:codex-argenteus-john-page"
+  ]
+}

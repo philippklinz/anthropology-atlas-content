@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:refugees-lower-danube-376",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.4.1–11 and XXXI.5.1–4: reception of Tervingian refugees, the river crossing and the separate crossing by Greuthungian groups."
+    }
+  ],
+  "subjectId": "community:refugees-and-fritigerns-coalition",
+  "predicate": "attested-at",
+  "objectId": "region:lower-danube-frontier",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 376,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 376,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Kartenausschnitt umfasst einen Abschnitt der unteren Donau. Ammianus nennt keine Koordinaten einer Landestelle. Verschiedene Gruppen konnten den Fluss an unterschiedlichen Stellen überqueren.",
+      "en": "The map selects a stretch of the lower Danube. Ammianus supplies no landing-site coordinates. Different groups could have crossed at different places."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:refugees-lower-danube-376",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Im Jahr 376 ließ Valens einen Teil der gotischen Schutzsuchenden über die Donau setzen. Ammianus erzählt von tagelangen Überfahrten, überlasteten Booten und später auch von Greutungen, die selbständig den Strom überquerten.",
+    "en": "In 376 Valens allowed some Gothic refugees across the Danube. Ammianus describes ferries working for days, overloaded boats and a separate crossing by Greuthungi."
+  }
+}

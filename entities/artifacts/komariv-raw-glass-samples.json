@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:komariv-raw-glass-samples",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rumyantseva-komariv-glass-2023",
+      "role": "supports",
+      "locator": "pp. 51–69, abstract, chemical groups and conclusions on raw glass supply and chronology",
+      "note": {
+        "de": "Die Analyse der 42 Proben unterscheidet Herkunftsregionen des Rohglases und erkennt Altglasverwertung.",
+        "en": "The 42-sample analysis distinguishes sources of raw glass and identifies the use of cullet."
+      }
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Rohglasproben aus Komariv",
+    "en": "Raw glass samples from Komariv"
+  },
+  "summary": {
+    "de": "42 chemisch untersuchte Proben geben Einblick in die Herkunft des farblosen Glases, das in der Siedlung verarbeitet wurde.",
+    "en": "42 chemically analysed samples give a picture of the origins of colourless glass worked at the settlement."
+  }
+}

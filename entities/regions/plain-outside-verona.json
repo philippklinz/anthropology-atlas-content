@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:plain-outside-verona",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Ebene vor Verona",
+    "en": "Plain outside Verona"
+  },
+  "summary": {
+    "de": "Der anonyme Chronist beschreibt den Raum vor den Toren Veronas als den Ort, an dem Odoaker sein Lager aufschlug. Die Lage des einzelnen Lagers bleibt offen.",
+    "en": "The anonymous chronicler describes the ground outside Verona as the setting of Odoacer’s camp. The site of the camp itself remains undetermined."
+  }
+}

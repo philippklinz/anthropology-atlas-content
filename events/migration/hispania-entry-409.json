@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hispania-entry-409",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, 409."
+    }
+  ],
+  "eventType": "migration",
+  "labels": {
+    "de": "Alanen, Vandalen und Sueben erreichen Hispanien",
+    "en": "Alans, Vandals and Sueves enter Hispania"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 409,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 409,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:alans-in-the-west",
+      "role": "moving-community"
+    },
+    {
+      "entityId": "community:vandals-in-the-fifth-century",
+      "role": "moving-community"
+    },
+    {
+      "entityId": "community:suebes-in-hispania",
+      "role": "moving-community"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Hydatius nennt die drei Gruppen und die Ankunft in Hispanien. Einzelne Pässe und Orte nennt der Eintrag nicht.",
+    "en": "Hydatius records the arrival of three groups in Hispania. The entry gives no specific passes or towns."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:council-at-agde-506",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Konzil von Agde",
+    "en": "Council of Agde"
+  },
+  "note": {
+    "de": "Die Teilnehmer tagten unter Caesarius von Arles mit Genehmigung Alarichs II.",
+    "en": "The participants met under Caesarius of Arles with permission from Alaric II."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 506,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 506,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:caesarius-of-arles",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:szafranowski-council-agde-er903",
+          "role": "supports",
+          "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+        }
+      ]
+    },
+    {
+      "entityId": "community:bishops-and-delegates-at-agde",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:szafranowski-council-agde-er903",
+          "role": "supports",
+          "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:agatha-agde"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:agatha-agde-orientation",
+      "role": "location"
+    }
+  ]
+}

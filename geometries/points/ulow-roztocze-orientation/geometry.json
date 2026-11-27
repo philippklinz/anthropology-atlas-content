@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:ulow-roztocze-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ulow-simc-0902694",
+      "role": "derivation",
+      "locator": "Wieś Ulów – Podstawowe informacje, GPS 23.290000 E, 50.470833 N and SIMC identifier 0902694."
+    },
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "pp. 195–196 on the imperial treasury hypothesis, p. 199 and fig. 2 on p. 201, p. 219 on the nine aureus fragments and cut gold from burial 19 at Ulów site 7."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der gerundete Punkt verortet das heutige Dorf Ulów. Die Quelle gibt hier die Lage der Ortschaft an.",
+    "en": "The rounded point locates the modern village of Ulów. The cited coordinates refer to the settlement."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · geographic orientation point",
+    "originNote": "Original point rounded from the referenced published location."
+  }
+}

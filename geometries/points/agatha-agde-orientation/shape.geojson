@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:agatha-agde-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.48,
+      43.31
+    ]
+  }
+}

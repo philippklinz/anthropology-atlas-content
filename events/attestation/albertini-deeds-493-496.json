@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:albertini-deeds-493-496",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:grierson-albertini-1959",
+      "role": "supports",
+      "locator": "p. 73, introductory paragraph on dating, uncertain discovery location and legal texts on wood."
+    },
+    {
+      "sourceId": "source:albertini-tablets-courtois-1952",
+      "role": "supports",
+      "locator": "Act XIII, pp. 259–261, ll. 1–6 and 29–38. Parties, crops, formula and marks; parts of the middle are lost."
+    },
+    {
+      "sourceId": "source:fentress-numidian-peasants-2026",
+      "role": "supports",
+      "locator": "pp. 1–2, the grain tax, the wooden archive and continuities of Mancian cultivation rights."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Auf Holz geschriebene Verträge",
+    "en": "Contracts written on wood"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 493,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 493,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 496,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 496,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:albertini-tablets",
+      "role": "attested-entity"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Datiert ist die Abfassung der erhaltenen Urkunden. Dokument XIII nennt für 494 die Eheleute Processanus und Siddina, einen Acker mit Ölbäumen und Feigen und den Schreiber Donatianus. Der genaue Fundort ist offen.",
+    "en": "The dates cover the writing of the surviving deeds. Document XIII names Processanus and Siddina, land with olive and fig trees, and the scribe Donatianus in 494. The exact findspot is uncertain."
+  }
+}

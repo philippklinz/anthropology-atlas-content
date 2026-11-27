@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:maslomecz-hrubieszow-find-zone",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golubinski-maslomecz-2026",
+      "role": "supports",
+      "locator": "Fig. 1B and pp. 2–3, Background. Distribution of excavated settlements and cemeteries including Masłomęcz and Gródek in the eastern Hrubieszów Basin."
+    },
+    {
+      "sourceId": "source:ncn-maslomecz-hrubieszow",
+      "role": "supports",
+      "locator": "Project 2024/55/B/HS3/01985, synopsis p. 1, paragraphs 1–2. Regional group in the eastern Hrubieszów Basin from the late second to late fourth century CE."
+    }
+  ],
+  "subjectId": "region:maslomecz-find-region",
+  "predicate": "extent-of",
+  "objectId": "region:vistula-bug-basins",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 175,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 200,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 375,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 400,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der schematische Umriss umfasst die Umgebung der beiden untersuchten Gräberfelder Masłomęcz und Gródek. Die einzelnen Fundplätze wurden zu unterschiedlichen Zeiten genutzt. Die Linie ist eine redaktionelle Auswahl innerhalb einer größeren archäologischen Fundlandschaft.",
+      "en": "The schematic outline takes in the surroundings of two excavated cemeteries, Masłomęcz and Gródek. Individual sites were used at different times. The line marks an editorial selection within a larger archaeological distribution."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:maslomecz-hrubieszow-find-zone",
+      "role": "extent"
+    }
+  ],
+  "note": {
+    "de": "Im östlichen Becken von Hrubieszów sind Fundstellen vom späten zweiten bis zum späten vierten Jahrhundert belegt. Bei Masłomęcz und Gródek wurden zwei große Gräberfelder untersucht.",
+    "en": "Sites in the eastern Hrubieszów Basin are attested from the late second to the late fourth century. Two large burial grounds have been excavated near Masłomęcz and Gródek."
+  }
+}

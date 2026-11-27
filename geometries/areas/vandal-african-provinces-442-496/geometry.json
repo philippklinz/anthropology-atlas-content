@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandal-african-provinces-442-496",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, pp. xiii–xiv: settlement of 442, Proconsularis, Byzacena and Numidia; late fifth-century rulers and events at Carthage."
+    },
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 442: demarcation agreed by Valentinian and Geiseric. Prosper gives no map of the frontier."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Ausgewählt sind Karthago und Teile des Hinterlands im heutigen Tunesien. Weitere Gebiete, unter anderem in Numidien, lagen außerhalb dieses Ausschnitts. Das Jahr 496 begrenzt das Kapitel; das Reich bestand weiter.",
+    "en": "Carthage and parts of its hinterland in present-day Tunisia are selected. Other territories, including parts of Numidia, fall outside this window. The year 496 closes the chapter; the kingdom continued."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

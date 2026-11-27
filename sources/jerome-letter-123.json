@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jerome-letter-123",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Letter 123 to Ageruchia",
+  "sourceType": "archive",
+  "creators": [
+    "Jerome",
+    "W. H. Fremantle and others (translators)"
+  ],
+  "url": "https://www.newadvent.org/fathers/3001123.htm",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Sections 1, 15–16 frame the polemic on remarriage and name cities in Gaul. English translation in Nicene and Post-Nicene Fathers, second series, volume 6.",
+  "published": "late antiquity, English edition 1893"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:geiseric",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, 428–429; B, Prosper, 439."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Time Line, pp. xiii–xiv, entries 405/6, 428/29, 430, 435, 439, 442 and 484–496."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Geiserich",
+    "en": "Geiseric"
+  },
+  "summary": {
+    "de": "Gunderichs Bruder und Nachfolger. Unter Geiserich setzte der Verband von Hispanien nach Afrika über und nahm 439 Karthago ein.",
+    "en": "Gunderic’s brother and successor. His followers crossed from Hispania to Africa and took Carthage in 439."
+  }
+}

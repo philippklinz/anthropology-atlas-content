@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:reccopolis-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.89,
+      40.32
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:theoderic-verona-489",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    },
+    {
+      "sourceId": "source:unesco-verona-world-heritage",
+      "role": "supports",
+      "locator": "Geographical data, property 797rev. World Heritage site coordinate at Verona: 45°26′19″ N, 10°59′38″ E. Used only to orient the reader to the urban locality."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Quelle nennt die Ebene vor Verona. Die Fläche dient als Orientierung zum Umfeld der Stadt. Der genaue Platz von Lager und Gefecht ist unbekannt.",
+    "en": "The source names the plain outside Verona. The outline locates the area around the city. The exact position of the camp and engagement remains unknown."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Rounded geographical orientation. The coordinates were chosen editorially. No historic boundary, excavation plan or heritage property outline was traced."
+  }
+}

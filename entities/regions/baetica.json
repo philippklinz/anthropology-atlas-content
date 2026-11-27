@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:baetica",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 420, 428 and 429: movement from Gallaecia to Baetica, Hispalis and departure from the Baetican coast."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Baetica",
+    "en": "Baetica"
+  },
+  "summary": {
+    "de": "In der südlichen Provinz lagen das Tal des Baetis, des heutigen Guadalquivir, und Hispalis, das heutige Sevilla. Von der Küste dieser Provinz aus beschreibt Hydatius die Überfahrt nach Afrika.",
+    "en": "The southern province included the Baetis valley, today the Guadalquivir, and Hispalis, modern Seville. Hydatius places the departure for Africa on its coast."
+  }
+}

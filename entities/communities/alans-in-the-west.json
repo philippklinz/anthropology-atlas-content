@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:alans-in-the-west",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 409, 411 and 418."
+    },
+    {
+      "sourceId": "source:fafinski-jerome-rhine-2025",
+      "role": "supports",
+      "locator": "Comparison of Orosius, Prosper and Frigeridus following notes 58–62; uncertainty about the point of crossing."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Alanische Gruppen im römischen Westen",
+    "en": "Alan groups in the Roman West"
+  },
+  "summary": {
+    "de": "Quellen unterscheiden mehrere Verbände. Nach dem Tod des Königs Addax schlossen sich Überlebende in Hispanien Gunderich an.",
+    "en": "The sources distinguish several groups. In Hispania, survivors joined Gunderic after the death of King Addax."
+  }
+}

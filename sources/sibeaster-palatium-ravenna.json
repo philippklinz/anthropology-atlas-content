@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:sibeaster-palatium-ravenna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "object",
+  "title": "Palatium.jpg. Sant’Apollinare Nuovo, Ravenna",
+  "creators": [
+    "Sibeaster"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Palatium.jpg",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The photographer identifies this as their own work and releases it into the public domain worldwide. File history gives the original as 1,632 × 1,224 pixels, uploaded 29 June 2009.",
+  "published": "June 2009"
+}

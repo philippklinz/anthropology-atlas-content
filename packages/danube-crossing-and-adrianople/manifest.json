@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:danube-crossing-and-adrianople",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "An der Donau – Zuflucht, Hunger und ein Krieg",
+    "en": "At the Danube – refuge, hunger and war"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:maritime-shared"
+  ],
+  "recordIds": [
+    "assertion:fritigern-adrianople-378",
+    "assertion:refugees-lower-danube-376",
+    "chapter:danube-crossing-and-adrianople",
+    "community:refugees-and-fritigerns-coalition",
+    "event:adrianople-378",
+    "event:lower-danube-crossing-376",
+    "event:marcianopolis-rising",
+    "event:thrace-peace-382",
+    "geometry:durostorum-orientation",
+    "geometry:fritigern-adrianople-378",
+    "geometry:hadrianopolis-edirne-orientation",
+    "geometry:marcianopolis-orientation",
+    "geometry:refugees-lower-danube-376",
+    "person:fritigern",
+    "person:saturninus-382",
+    "person:valens-emperor",
+    "place:durostorum",
+    "place:hadrianopolis-edirne",
+    "place:marcianopolis",
+    "region:adrianople-countryside",
+    "region:lower-danube-frontier",
+    "source:ammianus-res-gestae-31",
+    "source:errington-theodosius-goths",
+    "source:leveniotis-kalafikis-marcianople-2024",
+    "source:pleiades-ancient-places"
+  ],
+  "entryChapterIds": [
+    "chapter:danube-crossing-and-adrianople"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "migration-maps"
+  ]
+}

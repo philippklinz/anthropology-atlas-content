@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:luczkiewicz-wielbark-2021",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Goths, the Wielbark Culture and over 100 years of research on the eponymous site",
+  "sourceType": "article",
+  "creators": [
+    "Piotr Łuczkiewicz",
+    "Jörg Kleemann",
+    "Michał Jankowski",
+    "Agnieszka M. Noryśkiewicz",
+    "Marcin Sykuła",
+    "Aneta Kuzioła"
+  ],
+  "url": "https://doi.org/10.15184/aqy.2021.14",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Antiquity 95(380), e9. The excavation team reports the long sequence, changes in funerary practice, tests on pottery and pollen evidence.",
+  "published": "2021",
+  "identifiers": {
+    "doi": "10.15184/aqy.2021.14"
+  }
+}

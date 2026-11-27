@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:lower-danube-crossing-376",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.3.8–31.4.13: competing responses to Hunnic pressure, request to Valens, Roman interest in recruitment, boats and rafts, food shortages and refusal of the Greuthungian request"
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+    },
+    {
+      "sourceId": "source:leveniotis-kalafikis-marcianople-2024",
+      "role": "supports",
+      "locator": "pp. 371–378, especially pp. 374–376 and nn. 55–59: approach to Marcianopolis and the case for a battle early in 377"
+    }
+  ],
+  "eventType": "migration",
+  "labels": {
+    "de": "Überfahrten an der unteren Donau",
+    "en": "Crossings of the lower Danube"
+  },
+  "note": {
+    "de": "Terwingische Gruppen erhielten die Erlaubnis zum Übergang. Später setzten auch Greutungen über. Der Punkt bei Silistra dient der Orientierung am Fluss.",
+    "en": "Tervingian groups received permission to cross. Greuthungi crossed later as well. The point near Silistra is a reference location on the river."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 376,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 376,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:refugees-and-fritigerns-coalition",
+      "role": "moving-community",
+      "sourceRefs": [
+        {
+          "sourceId": "source:ammianus-res-gestae-31",
+          "role": "supports",
+          "locator": "31.3.8–31.4.13: competing responses to Hunnic pressure, request to Valens, Roman interest in recruitment, boats and rafts, food shortages and refusal of the Greuthungian request"
+        }
+      ]
+    },
+    {
+      "entityId": "person:fritigern",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:ammianus-res-gestae-31",
+          "role": "supports",
+          "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:durostorum-orientation",
+      "role": "location"
+    }
+  ]
+}

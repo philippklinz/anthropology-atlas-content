@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:goths-lower-vistula",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Frühe Goten an der Weichsel",
+    "en": "Early Goths on the Vistula"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:malbork-wielbark-brooch-thread",
+    "artifact:malbork-wielbark-funerary-urns",
+    "assertion:maslomecz-group-in-hrubieszow",
+    "assertion:maslomecz-hrubieszow-find-zone",
+    "assertion:wielbark-lower-vistula",
+    "assertion:wielbark-vistula-and-bug",
+    "chapter:goths-lower-vistula",
+    "community:gotones-early-roman-accounts",
+    "community:maslomecz-archaeological-group",
+    "event:malbork-wielbark-burial-sequence",
+    "event:maslomecz-communities",
+    "event:tacitus-gotones-98",
+    "geometry:malbork-wielbark-orientation",
+    "geometry:maslomecz-hrubieszow-find-zone",
+    "geometry:maslomecz-hrubieszow-orientation",
+    "geometry:wielbark-lower-vistula",
+    "geometry:wielbark-vistula-and-bug",
+    "place:malbork-wielbark",
+    "place:maslomecz-hrubieszow",
+    "region:maslomecz-find-region",
+    "region:vistula-bug-basins",
+    "region:wielbark-find-distribution",
+    "source:cieslinski-wielbark-2016",
+    "source:dhm-europas-mitte-um-1000",
+    "source:golubinski-maslomecz-2026",
+    "source:luczkiewicz-wielbark-2021",
+    "source:maik-wielbark-textiles-2023",
+    "source:ncn-maslomecz-hrubieszow",
+    "source:ptolemy-geography-european-sarmatia",
+    "source:tacitus-germania-44",
+    "source:vici-maslomecz-44269",
+    "source:wielbark-malbork-simc-0152017"
+  ],
+  "entryChapterIds": [
+    "chapter:goths-lower-vistula"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic"
+  ]
+}

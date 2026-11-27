@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:migration-period-overview",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Die Völkerwanderung auf der Karte lesen",
+    "en": "Reading the Migration Period on the Map"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:alaric-rome-and-aquitaine",
+    "package:danube-crossing-and-adrianople",
+    "package:gothic-gospels",
+    "package:goths-black-sea",
+    "package:goths-lower-vistula",
+    "package:theoderic-and-ravenna",
+    "package:vandals-rhine-to-carthage",
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "chapter:reading-the-migration-period",
+    "period:migration-period",
+    "source:meier-migration-period-2016",
+    "source:pohl-origin-and-migration-2018"
+  ],
+  "entryChapterIds": [
+    "chapter:reading-the-migration-period"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "migration-maps"
+  ]
+}

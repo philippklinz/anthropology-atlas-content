@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:hadrianopolis-edirne-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "derivation",
+      "locator": "Pleiades place 501428. Representative location of the ancient city in the published places CSV export; coordinates rounded to 0.01 degree."
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Orientierung am antiken Stadtgebiet. Die Entfernung zu einem konkreten Ereignis ist unbekannt.",
+      "en": "Urban reference point. Its distance from a particular historical event is unknown."
+    }
+  },
+  "processingNote": {
+    "de": "Die Stadt dient als Bezugspunkt für die Schlacht in ihrer Umgebung im August 378. Die Lage einzelner Truppenteile lässt sich daraus nicht ableiten.",
+    "en": "The city locates the vicinity of the battle in August 378. The point cannot identify individual troop positions."
+  },
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "E. N. Borza"
+    ],
+    "attribution": "E. N. Borza / Pleiades 501428, CC BY 3.0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://pleiades.stoa.org/places/501428",
+    "originNote": "Rounded adaptation of the Pleiades representative point; licence https://creativecommons.org/licenses/by/3.0/."
+  }
+}

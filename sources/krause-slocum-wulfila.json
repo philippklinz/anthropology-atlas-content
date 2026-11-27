@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:krause-slocum-wulfila",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gothic Online, Lesson 8: Wulfila",
+  "sourceType": "website",
+  "creators": [
+    "Todd B. Krause",
+    "Jonathan Slocum"
+  ],
+  "url": "https://lrc.la.utexas.edu/eieol/gotol/80",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "The translation excerpt is from Peter Heather and John Matthews, The Goths in the Fourth Century (1991). The lesson distinguishes the ancient tradition about letters and translation from the proposed date of the move.",
+  "publisher": "Linguistics Research Center, University of Texas at Austin"
+}

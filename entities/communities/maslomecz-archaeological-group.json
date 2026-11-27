@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:maslomecz-archaeological-group",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ncn-maslomecz-hrubieszow",
+      "role": "supports",
+      "locator": "Project 2024/55/B/HS3/01985, synopsis p. 1, paragraphs 1–3, dating and research coverage"
+    },
+    {
+      "sourceId": "source:golubinski-maslomecz-2026",
+      "role": "supports",
+      "locator": "Fig. 1B and pp. 2–3, Background. Distribution of excavated settlements and cemeteries including Masłomęcz and Gródek in the eastern Hrubieszów Basin."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Gemeinschaften der Masłomęcz-Gruppe",
+    "en": "Communities of the Masłomęcz group"
+  },
+  "summary": {
+    "de": "Archäologische Sammelbezeichnung für die Menschen, deren Gräber und Siedlungsreste im Becken von Hrubieszów untersucht wurden.",
+    "en": "An archaeological term for the people whose graves and settlement remains were studied in the Hrubieszów Basin."
+  }
+}

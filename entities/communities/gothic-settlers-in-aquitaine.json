@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:gothic-settlers-in-aquitaine",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "p. 65, opening paragraphs and n. 1: Aquitanica Secunda between the Loire and Garonne estuaries, Toulouse, and disputed neighbouring communities."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Gotische Gruppen der Ansiedlung von 418",
+    "en": "Gothic groups in the settlement of 418"
+  },
+  "summary": {
+    "de": "Die Ansiedlung in Südwestgallien erfolgte nach Alarichs Tod unter seinen Nachfolgern. Ihre regionalen und wirtschaftlichen Bedingungen sind nur teilweise bekannt.",
+    "en": "The settlement in southwestern Gaul took place after Alaric’s death, under his successors. Its local and economic arrangements are only partly known."
+  }
+}

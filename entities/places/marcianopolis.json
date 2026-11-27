@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:marcianopolis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Record 216878: representative location and ancient place name in the published places CSV export."
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Marcianopolis bei Dewnja",
+    "en": "Marcianopolis near Devnya"
+  },
+  "summary": {
+    "de": "Hier trafen Fritigern und Alavivus den römischen Befehlshaber Lupicinus. Die Stadt liegt im heutigen Bulgarien.",
+    "en": "Here Fritigern and Alavivus met the Roman commander Lupicinus. The city is in present-day Bulgaria."
+  }
+}
