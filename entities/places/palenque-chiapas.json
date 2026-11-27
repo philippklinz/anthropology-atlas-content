@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:palenque-chiapas",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skidmore-palenque",
+      "role": "supports",
+      "locator": "Sections Lady Sak K’uk’ and K’inich Janaab Pakal I, fig. 112, the Oval Palace Tablet, and the entry specifying Long Count 9.9.2.4.8 (615), birth in 603, accession aged twelve and the debated regency."
+    },
+    {
+      "sourceId": "source:palace-cast",
+      "role": "supports",
+      "locator": "Object description: oval tablet, House E, Sak K’uk’ offering a royal headdress to her son; nineteenth-century cast from the original."
+    },
+    {
+      "sourceId": "source:palenque-site",
+      "role": "supports",
+      "locator": "World Heritage property 411. Location line for Palenque in Chiapas and coordinates 17°28′59.988″ N, 92°2′60″ W; an orientation for the site."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Palenque, Chiapas",
+    "en": "Palenque, Chiapas"
+  }
+}

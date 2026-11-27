@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:medieval-dublin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "First three paragraphs, covering crew, oak, tentative origin in the Dublin area around 1042, and 60 oars."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Raum Dublin, Ostküste Irlands",
+    "en": "Dublin region, eastern Ireland"
+  }
+}

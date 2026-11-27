@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cortes-welcome",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Cortés on Meeting Moctezuma",
+  "sourceType": "archive",
+  "creators": [
+    "Hernán Cortés; American Historical Association, Nancy Fitch (resource editor)"
+  ],
+  "url": "https://www.historians.org/resource/cortes-on-meeting-moctezuma/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:genomes-huns",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ancient genomes reveal trans-Eurasian connections between the European Huns and the Xiongnu Empire",
+  "sourceType": "article",
+  "creators": [
+    "Guido Alberto Gnecchi-Ruscone, Zsófia Rácz and colleagues"
+  ],
+  "url": "https://pure.mpg.de/rest/items/item_3637676/component/file_3637677/content",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2025"
+}

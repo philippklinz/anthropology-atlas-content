@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:newberry-popol",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Popol Vuh",
+  "sourceType": "website",
+  "creators": [
+    "Newberry Library"
+  ],
+  "url": "https://www.newberry.org/collection/research-guide/popol-vuh",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

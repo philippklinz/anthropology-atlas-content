@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:medieval-iberia-granada-lions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:granada-lions",
+      "role": "supports",
+      "locator": "Opening four paragraphs. Work on the palace began in the late 1370s or early 1380s; the twelve-sided basin, the inscription of Ibn Zamrak’s verses, and differences between the lions’ faces and tails."
+    },
+    {
+      "sourceId": "source:granada-poem",
+      "role": "supports",
+      "locator": "Poema de la Fuente de los Leones. Ibn Zamrak’s eulogy of the sultan, garden and fountain inscribed in its white marble basin."
+    },
+    {
+      "sourceId": "source:granada-court",
+      "role": "supports",
+      "locator": "Courtyard, fountain and central cylinder balancing water inflow and outflow; palace in Muhammad V’s second reign, 1362–1391."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Palasthof für Muhammad V.",
+    "en": "A palace courtyard for Muhammad V"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:fountain-of-the-lions-granada",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:court-of-the-lions-alhambra-granada"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:court-of-the-lions-alhambra-granada-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1375,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1384,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Sultan ließ um 1380 mit dem Bau beginnen. Ibn Zamraks Gedicht steht am Becken des Löwenbrunnens. Der Beginn der Arbeiten ist nur ungefähr datiert.",
+      "en": "The sultan initiated construction around 1380. Ibn Zamrak’s poem is inscribed on the fountain basin. The start of the works can only be dated approximately."
+    }
+  }
+}

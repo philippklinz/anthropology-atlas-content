@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:templo-mayor-tenochtitlan-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dedication-plaque",
+      "role": "supports",
+      "locator": "Curator’s object description, the numeral and reed for 1487, the two rulers Tízoc and Ahuítzotl making blood offerings, the bundle between them and the probable ceremonial-square display."
+    },
+    {
+      "sourceId": "source:templo-site",
+      "role": "supports",
+      "locator": "Archaeological zone, Guatemala 60, Centro Histórico, and Datos generales, site of the principal building of ancient Tenochtitlan."
+    },
+    {
+      "sourceId": "source:mexico-met",
+      "role": "supports",
+      "locator": "Overview; Key Events, ca. 1427 and ca. 1431. Tenochtitlan’s alliance with Texcoco and Tlacopan, Azcapotzalco, indirect rule, tribute and Tlaxcala’s autonomy. Earlier enlargements of the main temple."
+    },
+    {
+      "sourceId": "source:templo-site",
+      "role": "derivation",
+      "locator": "Templo Mayor archaeological zone, Guatemala 60 in the historic centre of Mexico City. Orientation is the precinct of the ancient temple."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: Sistema de Información Cultural, Secretaría de Cultura and INAH.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?estado_id=9&table=zona_arqueologica&table_id=28"
+  }
+}

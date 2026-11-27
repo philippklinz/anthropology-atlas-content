@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:aquileia-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3675,
+      45.7683
+    ]
+  }
+}

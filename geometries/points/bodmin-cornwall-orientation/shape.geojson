@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:bodmin-cornwall-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.7174,
+      50.4721
+    ]
+  }
+}

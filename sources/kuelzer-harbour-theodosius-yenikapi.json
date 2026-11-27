@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kuelzer-harbour-theodosius-yenikapi",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Harbour of Theodosius in Yenikapı, İstanbul: A Harbour Area Through the Ages",
+  "sourceType": "book",
+  "creators": [
+    "Andreas Külzer"
+  ],
+  "url": "https://books.ub.uni-heidelberg.de/propylaeum/catalog/view/911/1531/96875",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

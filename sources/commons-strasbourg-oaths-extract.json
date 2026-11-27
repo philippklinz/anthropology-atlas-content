@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:commons-strasbourg-oaths-extract",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Serments de Strasbourg, photographic extract from Latin 9768",
+  "sourceType": "catalog",
+  "creators": [
+    "Bibliothèque nationale de France; Wikimedia Commons"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Serments_de_Strasbourg.jpg",
+  "language": "fr",
+  "accessedAt": "2026-11-27"
+}

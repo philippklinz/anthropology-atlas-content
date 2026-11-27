@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:conlan-mongol-scrolls",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Myth, Memory, and the Scrolls of the Mongol Invasions of Japan",
+  "sourceType": "article",
+  "creators": [
+    "Thomas D. Conlan"
+  ],
+  "url": "https://tconlan.scholar.princeton.edu/sites/g/files/toruqf3991/files/tconlan/files/conlan_myth_memory_.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:henry-iii-proclamation-1258",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:henry-proclamation",
+      "role": "supports",
+      "locator": "Edition and comparison of the Huntingdonshire and Oxfordshire texts; address to clergy and laity, majority of councillors, open sealed writ to be kept locally and final dating at London."
+    },
+    {
+      "sourceId": "source:burton-proclamation",
+      "role": "supports",
+      "locator": "Chapter on the reform period, printed pp. 38–40, especially p. 39 nn. 1–2 and p. 40 n. 2. The 18 October letter, English and French witnesses, Burton annalist’s Latin version and a payment of 50s to Robert of Fulham on 7 November for work in English and French."
+    },
+    {
+      "sourceId": "source:london-getty",
+      "role": "supports",
+      "locator": "Coordinates and historical-geography note for the medieval City. A town-level reference only."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Bekanntmachung Heinrichs III. vom 18. Oktober 1258",
+    "en": "Proclamation of Henry III, 18 October 1258"
+  }
+}

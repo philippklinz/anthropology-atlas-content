@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:court-of-the-lions-alhambra-granada-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.5892,
+      37.1771
+    ]
+  }
+}

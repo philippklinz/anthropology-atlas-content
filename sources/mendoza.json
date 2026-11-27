@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mendoza",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Codex Mendoza, Bodleian Library MS. Arch. Selden. A. 1",
+  "sourceType": "archive",
+  "creators": [
+    "Bodleian Libraries, University of Oxford"
+  ],
+  "url": "https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:medieval-china-kaifeng",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:meng-yuanlao-dongjing",
+      "role": "supports",
+      "locator": "序 (preface), arrival in 崇寧癸未 and flight after the war. 卷之四, 食店 (book IV, Restaurants), orders, bowls and wages. National Library of China, NLC892-411999008778-118945."
+    },
+    {
+      "sourceId": "source:alimov-meng-yuanlao",
+      "role": "supports",
+      "locator": "Kunstkamera 4 (30), pp. 6–15, especially pp. 6–8 on the preface, Meng’s arrival and his flight from Kaifeng in 1127. English abstract."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Meng Yuanlao kommt nach Kaifeng",
+    "en": "Meng Yuanlao arrives in Kaifeng"
+  },
+  "participants": [
+    {
+      "entityId": "person:meng-yuanlao",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:kaifeng-eastern-capital-of-the-northern-song"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:kaifeng-eastern-capital-of-the-northern-song-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1103,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1103,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Meng kommt mit seiner Familie in die östliche Hauptstadt. Später erinnert er sich an die Speisehäuser und an die Kellner, die jede Schale dem richtigen Gast bringen mussten.",
+      "en": "Meng comes with his family to the Eastern Capital. His later account remembers the restaurants and the servers who had to deliver every bowl to the right guest."
+    }
+  }
+}

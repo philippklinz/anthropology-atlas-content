@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:hagia-sophia-constantinople-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.9802,
+      41.0086
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tenochtitlan-southern-approach-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.133,
+      19.428
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-city-of-nishapur",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The City of Nishapur",
+  "sourceType": "book",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/-/media/files/learn/for%20educators/publications%20for%20educators/islamic%20teacher%20resource/unit6.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

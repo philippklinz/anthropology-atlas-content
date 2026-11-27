@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iranica-foundation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Rabʿ-e Rašidi",
+  "sourceType": "article",
+  "creators": [
+    "Sheila S. Blair, Encyclopaedia Iranica"
+  ],
+  "url": "https://www.iranicaonline.org/articles/rab-e-rashidi/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2016"
+}

@@ -1,0 +1,399 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:goryeo-and-its-workshops",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nmk-goryeo-glory",
+      "role": "supports",
+      "locator": "Opening paragraph: Song embassy to Gaegyeong in June 1123, Xu Jing’s stay, presentation to Huizong, the loss of the illustrations."
+    },
+    {
+      "sourceId": "source:nmk-lion-incense-burner",
+      "role": "supports",
+      "locator": "Section on the Celadon Incense Burner with Lion Cover, National Treasure 60, 26.3 cm, and Xu Jing’s account. Photograph and description of the path of the smoke."
+    },
+    {
+      "sourceId": "source:kaesong-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, 1278rev-001: Manwoldae Palace and Kaesong Chomsongdae."
+    },
+    {
+      "sourceId": "source:nmk-sadang-ri-kiln",
+      "role": "supports",
+      "locator": "Exhibition introduction, 1964 discovery of celadon tiles, 1964–1977 excavations, kiln structures, equipment, court supply and over 100,000 finds."
+    },
+    {
+      "sourceId": "source:met-goryeo-celadon",
+      "role": "supports",
+      "locator": "Paragraphs on glaze, Gangjin and Buan, the flowering of production in the twelfth century and the technique of clay inlay."
+    },
+    {
+      "sourceId": "source:nmk-celadon-roof-tile",
+      "role": "supports",
+      "locator": "Accession Jeung2344. Goryosa account of the Yangijeong pavilion in 1157, distinguished from the surviving comparison tile."
+    },
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    },
+    {
+      "sourceId": "source:kim-sinan-boxes",
+      "role": "supports",
+      "locator": "Dendrochronologia 31, pp. 266–272. Abstract, species identification and matching of 21 boxes to western Japanese cedar chronologies."
+    },
+    {
+      "sourceId": "source:bnf-jikji-printing",
+      "role": "supports",
+      "locator": "“What is Jikji?” Two volumes, only the second extant from the 1377 edition, and the 1378 woodblock edition."
+    },
+    {
+      "sourceId": "source:cheongju-museum-metal-type",
+      "role": "supports",
+      "locator": "Section “The oldest movable metal type book” and captioned examples of tilted 人 and missing 動. Baegun, Seokchan, Daljam, Myodeok and the Heungdeoksa printing."
+    },
+    {
+      "sourceId": "source:todd-sinan-cargo-tags",
+      "role": "supports",
+      "locator": "Photograph, 7 May 2015, Sinan Shipwreck Gallery, National Museum of Korea. Commons file history, author, CC0 1.0 dedication and Flickr licence review. The temple name 東福寺 is legible on the middle-right and right-hand tags."
+    }
+  ],
+  "labels": {
+    "de": "Ein Löwe aus Ton und eine Nonne im Druckvermerk",
+    "en": "A clay lion and a nun in a printer’s record"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:goryeo-gaegyeong",
+    "event:goryeo-sadang",
+    "event:goryeo-sinan",
+    "event:goryeo-heungdeoksa",
+    "asset:sinan-tofukuji-cargo-tags",
+    "person:xu-jing",
+    "community:sadang-ri-potters",
+    "artifact:sinan-merchant-ship",
+    "artifact:sinan-bronze-weight"
+  ],
+  "steps": [
+    {
+      "id": "gaegyeong",
+      "textAnchor": "gaegyeong",
+      "labels": {
+        "de": "1123 · Xu Jing besucht Goryeos Hauptstadt",
+        "en": "1123 · Xu Jing visits the capital of Goryeo"
+      },
+      "summary": {
+        "de": "Der Gesandte reist nach Gaegyeong und beschreibt später ein löwenförmiges Räuchergefäß. Die Palastanlage Manwoldae verortet die Hauptstadt. Wo er das Gefäß sah, ist unbekannt.",
+        "en": "The envoy comes to Gaegyeong and later describes a lion incense burner. The Manwoldae palace site locates the capital. Where he saw the burner is unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": 126.54244,
+          "latitude": 37.98591,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1123,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1123,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "sadang",
+      "textAnchor": "sadang",
+      "labels": {
+        "de": "12. Jahrhundert · Die Brennöfen von Sadang-ri",
+        "en": "12th century · The kilns at Sadang-ri"
+      },
+      "summary": {
+        "de": "In den Werkstätten bei Gangjin entstehen Seladongefäße und glasierte Dachziegel. Über die Arbeit gibt die Keramik aus den Ausgrabungen Auskunft. Einzelne Ziegel lassen sich keinem Baujahr zuweisen.",
+        "en": "The kilns near Gangjin produce celadon vessels and glazed roof tiles. Excavated ceramics preserve evidence of the work. No particular year of manufacture can be assigned to an individual tile."
+      },
+      "state": {
+        "camera": {
+          "longitude": 126.8146,
+          "latitude": 34.5085,
+          "metersPerPixel": 1900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1101,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1200,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "sinan",
+      "textAnchor": "sinan",
+      "labels": {
+        "de": "1323 · Ein Handelsschiff sinkt vor Sinan",
+        "en": "1323 · A merchant ship sinks off Sinan"
+      },
+      "summary": {
+        "de": "Das Schiff sinkt zwischen den Inseln Imjado und Jeungdo. Sein Rumpf, die beschrifteten Anhänger und die Hölzer der Packkisten werden am Fundort geborgen.",
+        "en": "The ship sinks between Imjado and Jeungdo. Its hull, inscribed tags and wooden cargo boxes are recovered at the wreck site."
+      },
+      "state": {
+        "camera": {
+          "longitude": 126.085,
+          "latitude": 35.02083,
+          "metersPerPixel": 1600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1323,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1323,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:sinan-tofukuji-cargo-tags"
+    },
+    {
+      "id": "heungdeoksa",
+      "textAnchor": "heungdeoksa",
+      "labels": {
+        "de": "1377 · Myodeok hilft, das Jikji zu drucken",
+        "en": "1377 · Myodeok helps pay for the printing of Jikji"
+      },
+      "summary": {
+        "de": "Im Kloster Heungdeoksa erscheint eine Sammlung buddhistischer Lehrworte mit beweglichen Metalllettern. Der erhaltene zweite Band nennt die Nonne Myodeok unter den Beteiligten.",
+        "en": "A collection of Buddhist teachings is printed with movable metal type at Heungdeoksa. The surviving second volume names the nun Myodeok among the contributors."
+      },
+      "state": {
+        "camera": {
+          "longitude": 127.47194,
+          "latitude": 36.64389,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1377,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1377,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Gesandter beschreibt einen Löwen aus Seladon. Töpfer glasieren Dachziegel, Holzkisten schützen Porzellan auf einer Seereise und eine Nonne bezahlt den Druck eines Buchs mit. Vier Arbeiten aus der Zeit Goryeos.",
+      "en": "An envoy describes a celadon lion. Potters glaze roof tiles, wooden crates guard a cargo of porcelain and a nun helps pay for a printed book. Four kinds of work in the time of Goryeo."
+    },
+    "topics": [
+      {
+        "id": "goryeo",
+        "labels": {
+          "de": "Goryeo",
+          "en": "Goryeo"
+        }
+      },
+      {
+        "id": "books-and-writing",
+        "labels": {
+          "de": "Bücher und Schrift",
+          "en": "Books and writing"
+        }
+      },
+      {
+        "id": "ships-and-sea-trade",
+        "labels": {
+          "de": "Schiffe und Seehandel",
+          "en": "Ships and maritime trade"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 126.77847,
+      "latitude": 36.24721,
+      "metersPerPixel": 1966,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1101,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1101,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1377,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1377,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:jikji-heungdeoksa-print",
+    "artifact:sinan-bronze-weight",
+    "artifact:sinan-merchant-ship",
+    "artifact:sinan-wooden-cargo-tags",
+    "asset:sinan-tofukuji-cargo-tags",
+    "community:sadang-ri-potters",
+    "event:goryeo-gaegyeong",
+    "event:goryeo-heungdeoksa",
+    "event:goryeo-sadang",
+    "event:goryeo-sinan",
+    "geometry:gaegyeong-palace-district-in-present-day-kaesong-orientation",
+    "geometry:gangjin-kiln-area-near-sadang-ri-orientation",
+    "geometry:heungdeoksa-monastery-near-cheongju-orientation",
+    "geometry:sinan-wreck-site-between-imjado-and-jeungdo-orientation",
+    "person:myodeok",
+    "person:xu-jing",
+    "place:gaegyeong-palace-district-in-present-day-kaesong",
+    "place:gangjin-kiln-area-near-sadang-ri",
+    "place:heungdeoksa-monastery-near-cheongju",
+    "place:sinan-wreck-site-between-imjado-and-jeungdo",
+    "polity:goryeo",
+    "source:aks-goryeo",
+    "source:bnf-jikji-printing",
+    "source:bunka-bunei",
+    "source:cheongju-museum-metal-type",
+    "source:fan-li-sinan-port",
+    "source:grand-canal-ningbo-map",
+    "source:happo-port",
+    "source:kaesong-heritage-map",
+    "source:kim-sinan-boxes",
+    "source:met-goryeo-celadon",
+    "source:national-archives-khubilai",
+    "source:nmk-celadon-roof-tile",
+    "source:nmk-goryeo-glory",
+    "source:nmk-lion-incense-burner",
+    "source:nmk-sadang-ri-kiln",
+    "source:seokdu-warehouse",
+    "source:sinan-museum-collection",
+    "source:todd-sinan-cargo-tags",
+    "source:wikidata-place-coordinates"
+  ]
+}

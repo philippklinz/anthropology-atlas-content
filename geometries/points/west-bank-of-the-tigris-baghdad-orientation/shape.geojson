@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:west-bank-of-the-tigris-baghdad-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      44.335,
+      33.3475
+    ]
+  }
+}

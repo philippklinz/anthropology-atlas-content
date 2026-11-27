@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:medieval-nishapur",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-nishapur-sabz-pushan-bowl",
+      "role": "supports",
+      "locator": "Accession 38.40.243. Object description, dimensions, turquoise opaque glaze, date, the excavated site of Sabz Pushan, and the 1938 division of finds."
+    },
+    {
+      "sourceId": "source:wilkinson-nishapur-buildings",
+      "role": "supports",
+      "locator": "Map of Nishapur and Environs and the section on excavation of the Sabz Pushan residential quarter."
+    },
+    {
+      "sourceId": "source:met-city-of-nishapur",
+      "role": "supports",
+      "locator": "Unit 6, The City of Nishapur, introductory account and discussion of games and household objects recovered in excavations."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Mittelalterliches Nischapur",
+    "en": "Medieval Nishapur"
+  }
+}

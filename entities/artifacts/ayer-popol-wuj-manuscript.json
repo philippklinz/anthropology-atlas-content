@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ayer-popol-wuj-manuscript",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ximenez-ms",
+      "role": "supports",
+      "locator": "Ayer MS 1515, volume 1. Summary identifies Ximénez as parish priest in Santo Tomás Chichicastenango; final 56 leaves contain the K’iche’ text and his Spanish translation. Catalogue suggests c. 1700–1703."
+    },
+    {
+      "sourceId": "source:newberry-popol",
+      "role": "supports",
+      "locator": "What is the Popol Vuh? Identifies the work as K’iche’, possible sixteenth-century exemplar in Latin characters, two-column translation. The research guide gives the wider transcription window 1700–1715."
+    },
+    {
+      "sourceId": "source:christenson",
+      "role": "supports",
+      "locator": "Passage on the creation of humanity from yellow and white maize ground by Xmucane, notes 470–475."
+    },
+    {
+      "sourceId": "source:popol-edition",
+      "role": "supports",
+      "locator": "Project statement, second and final paragraphs: K’iche’, Spanish and English interface and collaboration with the Guatemalan Academy of Mayan Languages."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "K’iche’-spanische Handschrift des Popol Wuj",
+    "en": "K’iche’–Spanish Popol Wuj manuscript"
+  }
+}

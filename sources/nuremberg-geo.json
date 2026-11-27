@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nuremberg-geo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Nuremberg: Gazetteer entry 2861650",
+  "sourceType": "dataset",
+  "creators": [
+    "GeoNames"
+  ],
+  "url": "https://www.geonames.org/2861650/nuremberg.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

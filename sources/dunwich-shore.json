@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dunwich-shore",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Greyfriars, Dunwich: scheduled monument 1006039",
+  "sourceType": "catalog",
+  "creators": [
+    "Historic England"
+  ],
+  "url": "https://historicengland.org.uk/listing/the-list/list-entry/1006039",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

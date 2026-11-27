@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:aquileia-unesco",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+  "sourceType": "website",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/825/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

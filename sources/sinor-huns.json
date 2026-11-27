@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:sinor-huns",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Hun period",
+  "sourceType": "book",
+  "creators": [
+    "Denis Sinor"
+  ],
+  "url": "https://www.cambridge.org/core/books/cambridge-history-of-early-inner-asia/hun-period/C1B2DB87E26D7BDC7F46BCC9B3F470CA",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1990"
+}

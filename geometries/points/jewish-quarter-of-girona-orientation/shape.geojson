@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:jewish-quarter-of-girona-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.8242,
+      41.9867
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:alfonso-x-book-of-games",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:alfonso-games",
+      "role": "supports",
+      "locator": "Manuscript, complete digitisation; Descripción. Colophon naming Seville and 1283, Arabic sources for games, chess, dice and tables, representations of women, men and the monarch playing."
+    },
+    {
+      "sourceId": "source:games-display",
+      "role": "supports",
+      "locator": "Datos técnicos and Descripción. Castilian text, 97 parchment leaves, tilted boards displaying actual positions, women and men playing and the range of cultural backgrounds shown by the illuminators."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Buch der Spiele Alfons’ X.",
+    "en": "Book of Games of Alfonso X"
+  }
+}

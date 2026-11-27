@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:golden-bull-henderson",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Golden Bull of the Emperor Charles IV, 1356",
+  "sourceType": "book",
+  "creators": [
+    "Ernest F. Henderson, Select Historical Documents of the Middle Ages"
+  ],
+  "url": "https://constitution.org/1-Constitution/cons/hre/golden_bull_1356.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

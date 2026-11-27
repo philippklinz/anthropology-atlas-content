@@ -1,0 +1,385 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:court-and-coast-in-medieval-japan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:imperial-household-shosoin",
+      "role": "supports",
+      "locator": "Foundation, imperial seal and new repositories. Illustrated objects include the five-stringed lute, go board and the List of the Nation’s Rare Treasures."
+    },
+    {
+      "sourceId": "source:tokyo-museum-shosoin",
+      "role": "supports",
+      "locator": "Chapter 1, Emperor Shōmu’s Treasures, especially no. 4, the donation list. Text on Kōmyō’s gift on the forty-ninth day, the 650 items and the prayer for rebirth."
+    },
+    {
+      "sourceId": "source:met-genji-transmission",
+      "role": "supports",
+      "locator": "Chapter One, “Heian Court Culture and the Transmission of the Tale”, pp. 88–89. Shōshi’s son, the diary, transcription, Michinaga’s supplies and the draft."
+    },
+    {
+      "sourceId": "source:kyoto-tsuchimikado-residence",
+      "role": "supports",
+      "locator": "Kyoto Gyoen National Garden, interpretation of Michinaga’s residence, Shōshi and the births of the later emperors Go-Ichijō and Go-Suzaku."
+    },
+    {
+      "sourceId": "source:tsuchimikado-nihon-rekishi-map",
+      "role": "supports",
+      "locator": "Basic information, record 270000201500 (Tsuchimikado residence site), coordinates."
+    },
+    {
+      "sourceId": "source:kyushu-hakozaki-excavation",
+      "role": "supports",
+      "locator": "Section 1, モンゴル襲来と元寇防塁: the 1274 fighting at Torikai, written accounts of the fire at Hakozaki and the dating of heat-damaged pottery and burnt soil between the late thirteenth and early fourteenth centuries."
+    },
+    {
+      "sourceId": "source:conlan-mongol-scrolls",
+      "role": "supports",
+      "locator": "Opening discussion, pp. 54–57, on Takezaki Suenaga, his reward claim, the scrolls he commissioned and their later alteration."
+    },
+    {
+      "sourceId": "source:shozokan-mongol-scrolls",
+      "role": "supports",
+      "locator": "SZK002942, description of the two scrolls, the 1274 and 1281 invasions and missing or rearranged portions."
+    },
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    },
+    {
+      "sourceId": "source:todd-sinan-cargo-tags",
+      "role": "supports",
+      "locator": "Photograph, 7 May 2015, Sinan Shipwreck Gallery, National Museum of Korea. Commons file history, author, CC0 1.0 dedication and Flickr licence review. The temple name 東福寺 is legible on the middle-right and right-hand tags."
+    }
+  ],
+  "labels": {
+    "de": "Was eine Kaiserin aufhob und ein Krieger festhalten ließ",
+    "en": "What an empress gave away and a warrior wanted remembered"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:medieval-japan-nara",
+    "event:medieval-japan-tsuchimikado",
+    "event:medieval-japan-hakozaki",
+    "event:medieval-japan-tofukuji",
+    "asset:sinan-tofukuji-cargo-tags",
+    "person:empress-komyo",
+    "person:fujiwara-no-shoshi",
+    "person:murasaki-shikibu",
+    "organization:hakozaki-shrine"
+  ],
+  "steps": [
+    {
+      "id": "nara",
+      "textAnchor": "nara",
+      "labels": {
+        "de": "756 · Kōmyō übergibt die Schätze ihres Mannes",
+        "en": "756 · Kōmyō gives away her husband’s treasures"
+      },
+      "summary": {
+        "de": "Die verwitwete Kaiserin übergibt dem Großen Buddha von Tōdai-ji persönliche Dinge Shōmus. Mit der Laute und dem Go-Brett überdauert auch das datierte Verzeichnis der Gabe.",
+        "en": "The widowed empress gives Shōmu’s possessions to the Great Buddha of Tōdai-ji. The lute and go board survive, along with a dated inventory of the gift."
+      },
+      "state": {
+        "camera": {
+          "longitude": 135.83972,
+          "latitude": 34.68917,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 756,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 756,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "tsuchimikado",
+      "textAnchor": "tsuchimikado",
+      "labels": {
+        "de": "1008 · Shōshis Sohn und Murasakis Handschrift",
+        "en": "1008 · Shōshi’s son and Murasaki’s manuscript"
+      },
+      "summary": {
+        "de": "Als Shōshi im Haus ihres Vaters einen Sohn bekommt, arbeitet Murasaki an einer Abschrift ihrer Erzählung. Ihr Tagebuch berichtet, was mit einem Entwurf geschieht.",
+        "en": "While Shōshi is at her father’s house for the birth of a son, Murasaki oversees a copy of her tale. Her diary records what becomes of one draft."
+      },
+      "state": {
+        "camera": {
+          "longitude": 135.76618,
+          "latitude": 35.02363,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1008,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1008,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "hakozaki",
+      "textAnchor": "hakozaki",
+      "labels": {
+        "de": "1274 · Ein überlieferter Brand am Hakozaki-Schrein",
+        "en": "1274 · A fire recorded at Hakozaki shrine"
+      },
+      "summary": {
+        "de": "Als Truppen aus dem Yuan-Reich und Goryeo in die Hakata-Bucht gelangen, berichten Quellen von einem Brand am Schrein. Die archäologische Brandschicht bei Hakozaki lässt sich weniger eng datieren.",
+        "en": "Sources report a fire at the shrine when forces from the Yuan realm and Goryeo reach Hakata Bay. The burnt deposits excavated locally have a broader date range."
+      },
+      "state": {
+        "camera": {
+          "longitude": 130.42333,
+          "latitude": 33.61444,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1274,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1274,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "tofukuji",
+      "textAnchor": "tofukuji",
+      "labels": {
+        "de": "1323 · Tōfuku-ji steht auf Ladungszetteln",
+        "en": "1323 · Tōfuku-ji is named on cargo tags"
+      },
+      "summary": {
+        "de": "Holztäfelchen aus dem Sinan-Wrack nennen dieses Kloster in Kyoto. Sie verbinden eine Kundschaft an Land mit einer 1323 verschifften Ladung. Ein Beitrag zum Wiederaufbau nach dem Brand ist möglich.",
+        "en": "Wooden tags from the Sinan wreck name this Kyoto monastery. They link a customer ashore to cargo shipped in 1323. The venture may have helped to finance rebuilding after a fire."
+      },
+      "state": {
+        "camera": {
+          "longitude": 135.7737,
+          "latitude": 34.9757,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1323,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1323,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:sinan-tofukuji-cargo-tags"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "In Nara verschenkt Kōmyō eine Laute. In Kyoto gerät das Manuskript einer Hofdame in fremde Hände. Bei Hakata überliefern Krieger, Scherben und Ladungszettel ganz verschiedene Geschichten vom Meer.",
+      "en": "Kōmyō gives away a lute in Nara. A manuscript gets away from its author in Kyoto. At Hakata a warrior, sherds and cargo tags preserve quite different stories of the sea."
+    },
+    "topics": [
+      {
+        "id": "medieval-japan",
+        "labels": {
+          "de": "Mittelalterliches Japan",
+          "en": "Medieval Japan"
+        }
+      },
+      {
+        "id": "courts-and-envoys",
+        "labels": {
+          "de": "Höfe und Gesandte",
+          "en": "Courts and envoys"
+        }
+      },
+      {
+        "id": "ships-and-sea-trade",
+        "labels": {
+          "de": "Schiffe und Seehandel",
+          "en": "Ships and maritime trade"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 133.13153,
+      "latitude": 34.31903,
+      "metersPerPixel": 1556,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 756,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 756,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1323,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1323,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:sinan-wooden-cargo-tags",
+    "asset:sinan-tofukuji-cargo-tags",
+    "event:medieval-japan-hakozaki",
+    "event:medieval-japan-nara",
+    "event:medieval-japan-tofukuji",
+    "event:medieval-japan-tsuchimikado",
+    "geometry:hakozaki-shrine-hakata-bay-orientation",
+    "geometry:todai-ji-nara-orientation",
+    "geometry:tofuku-ji-kyoto-orientation",
+    "geometry:tsuchimikado-residence-heian-kyo-orientation",
+    "organization:hakozaki-shrine",
+    "organization:tofuku-ji-temple",
+    "person:empress-komyo",
+    "person:fujiwara-no-shoshi",
+    "person:murasaki-shikibu",
+    "place:hakozaki-shrine-hakata-bay",
+    "place:todai-ji-nara",
+    "place:tofuku-ji-kyoto",
+    "place:tsuchimikado-residence-heian-kyo",
+    "source:conlan-mongol-scrolls",
+    "source:imperial-household-shosoin",
+    "source:kim-sinan-boxes",
+    "source:kyoto-tsuchimikado-residence",
+    "source:kyushu-hakozaki-excavation",
+    "source:met-genji-transmission",
+    "source:shozokan-mongol-scrolls",
+    "source:sinan-museum-collection",
+    "source:todd-sinan-cargo-tags",
+    "source:tokyo-museum-shosoin",
+    "source:tsuchimikado-nihon-rekishi-map",
+    "source:wikidata-place-coordinates"
+  ]
+}

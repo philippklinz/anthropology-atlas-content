@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:byzantine-empire-hagia-sophia-537",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hagia-sophia-met",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Nika fire, dedication on 27 December 537, architects, vault, 558 collapse, 562 rebuilding and decoration. Closing paragraphs on conversion under Mehmed II in 1453 and subsequent Ottoman additions."
+    },
+    {
+      "sourceId": "source:met-byzantium-periods",
+      "role": "supports",
+      "locator": "Opening discussion of Rhomaioi and the capital; “The Latin Occupation of Constantinople” and “Late Byzantium” on 1204, 1261, Nicaea and Trebizond."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Weihe der Hagia Sophia",
+    "en": "Dedication of Hagia Sophia"
+  },
+  "participants": [
+    {
+      "entityId": "person:justinian-i",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:anthemios-of-tralles",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:isidoros-of-miletos",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:hagia-sophia-constantinople"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hagia-sophia-constantinople-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 537,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 537,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Justinians Neubau wurde am 27. Dezember geweiht. Die erste Kuppel stürzte 558 ein.",
+      "en": "Justinian’s new church was dedicated on 27 December. Its first dome collapsed in 558."
+    }
+  }
+}

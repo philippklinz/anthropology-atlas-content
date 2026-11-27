@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:deer-legal-notes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Gaelic Notes in the Book of Deer: Historical commentary",
+  "sourceType": "book",
+  "creators": [
+    "Kenneth H. Jackson"
+  ],
+  "url": "https://doi.org/10.1017/CBO9780511896378.005",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1972"
+}

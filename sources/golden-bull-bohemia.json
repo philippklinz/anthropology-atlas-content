@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:golden-bull-bohemia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Goldene Bulle – Böhmisches Exemplar",
+  "sourceType": "archive",
+  "creators": [
+    "Österreichisches Staatsarchiv, Haus-, Hof- und Staatsarchiv"
+  ],
+  "url": "https://www.archivinformationssystem.at/detail.aspx?ID=489245",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

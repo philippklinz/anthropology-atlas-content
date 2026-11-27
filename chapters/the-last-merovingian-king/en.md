@@ -26,7 +26,7 @@ On 1 March 752 we meet Fulrad again, this time at Verberie on the Oise. Once aga
 
 ## Whom the pope anointed at Saint-Denis {#saint-denis}
 
-In 754 Pope Stephen II anointed Pippin and his two sons, Charles and Carloman, at [Saint-Denis, where Dagobert lay buried](chapter:dagobert-and-saint-denis#saint-denis-639). Papal letters also recall this anointing. Stephen was seeking Frankish help against the Lombard king in Italy. For Pippin’s sons the ceremony meant that a pope publicly associated them with the kingship in their father’s lifetime. Pippin had been using the royal title for years by then.
+In 754 Pope Stephen II anointed Pippin and his two sons, Charles and Carloman, at [Saint-Denis, where Dagobert lay buried](chapter:dagobert-and-saint-denis#saint-denis-639). Papal letters also recall this anointing. Stephen was seeking Frankish help against the Lombard king in Italy. For Pippin’s sons the ceremony meant that a pope publicly associated them with the kingship in their father’s lifetime. Pippin had been using the royal title for years by then. The young Charles in this anointing reappears in the [chapter about the Carolingian Franks](chapter:from-the-merovingians-to-aachen#saint-denis).
 
 The miniature in the **Grandes Chroniques de France** was made around 1274, over five centuries later. At the top Pippin kneels while a pope places a crown on his head. Art historian Anne D. Hedeman identifies this as Stephen II at Saint-Denis. Below, a man stands before three monks. Hedeman identifies him as the deposed Childeric III. Amédée Boinet and François Garnier see Pippin’s brother Carloman, who had entered monastic life before the change of dynasty. The two scenes bring together events from different years.
 

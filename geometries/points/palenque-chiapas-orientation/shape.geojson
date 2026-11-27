@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:palenque-chiapas-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.05,
+      17.4833
+    ]
+  }
+}

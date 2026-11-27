@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:bede-ecclesiastical-history",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:moore-bede",
+      "role": "supports",
+      "locator": "Introduction and description of f. 128v, lines 1–4: Bede completed the History in 731; early copy and three lines of Northumbrian verse in the main scribe’s hand."
+    },
+    {
+      "sourceId": "source:brady-languages",
+      "role": "supports",
+      "locator": "Introduction, opening discussion of Bede, Ecclesiastical History I.1, British and English, and the changing languages of Britain."
+    },
+    {
+      "sourceId": "source:caedmon-bede",
+      "role": "supports",
+      "locator": "Book IV, chapter 24, opening narrative and verses: the feast, animals at Whitby, the dream, the Latin rendering of the English hymn."
+    },
+    {
+      "sourceId": "source:jarrow-site",
+      "role": "supports",
+      "locator": "National Heritage List for England 1002978, Location, National Grid Reference NZ 33870 65184."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Bedas Kirchengeschichte",
+    "en": "Bede’s Ecclesiastical History"
+  }
+}

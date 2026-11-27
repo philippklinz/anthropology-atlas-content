@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:attilas-court-naissus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:priscus-embassy",
+      "role": "supports",
+      "locator": "Fr. 8 in Fragmenta Historicorum Graecorum. Naissus and the five deserters, monoxyles and the storm, Bleda’s wife and thanksgiving gifts, encounter with the former merchant at the residence."
+    },
+    {
+      "sourceId": "source:laes-zercon",
+      "role": "supports",
+      "locator": "p. 31 and n. 5, on Priscus as secretary to Maximinus in summer 449, the sequence of known towns and unnamed villages and the unknown location of Attila’s wooden palace."
+    }
+  ],
+  "eventType": "journey",
+  "labels": {
+    "de": "Priskos in der verwüsteten Stadt",
+    "en": "Priscus in the damaged city"
+  },
+  "participants": [
+    {
+      "entityId": "person:priscus-of-panium",
+      "role": "traveller"
+    },
+    {
+      "entityId": "person:maximinus-envoy-449",
+      "role": "traveller"
+    }
+  ],
+  "placeIds": [
+    "place:naissus-modern-nis"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:naissus-modern-nis-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 449,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 449,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Priskos kam durch Naissus. In der Nähe übergab ein römischer Befehlshaber der Gesandtschaft fünf Männer. Der Punkt markiert die Stadt. Attilas spätere Residenz ist räumlich ungewiss.",
+      "en": "Priscus passed through Naissus. Nearby a Roman commander handed five men to his embassy. The map locates the town. The residence reached later in the journey cannot be securely placed."
+    }
+  }
+}

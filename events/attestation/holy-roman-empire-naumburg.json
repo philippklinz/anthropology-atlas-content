@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:holy-roman-empire-naumburg",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:naumburg-founders",
+      "role": "supports",
+      "locator": "West choir overview, captions for Thimo von Kistritz and his seven villages, Hermann and Reglindis, Ekkehard II and Uta; caption dating of figures c. 1245–1250."
+    },
+    {
+      "sourceId": "source:naumburg-uta",
+      "role": "supports",
+      "locator": "Uta among the twelve founders; anonymous sculptor, western choir completed around 1250 and later reception of Uta’s image."
+    },
+    {
+      "sourceId": "source:naumburg-coordinates",
+      "role": "supports",
+      "locator": "Geographical data, property 1470rev; N51° 9′ 17.3″ and E11° 48′ 14.4″."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Stifter werden in Stein sichtbar",
+    "en": "The founders are commemorated in stone"
+  },
+  "participants": [
+    {
+      "entityId": "person:uta-of-ballenstedt",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:reglindis-of-meissen",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:naumburg-west-choir-figures",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:naumburg-cathedral"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:naumburg-cathedral-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1245,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1250,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Im Naumburger Westchor erinnern zwölf Figuren an Wohltäter, die rund zwei Jahrhunderte vorher lebten. Die Station datiert die Arbeit der Bildhauer.",
+      "en": "Twelve figures in the west choir at Naumburg commemorate benefactors who lived some two centuries earlier. The station dates the sculptors’ work."
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-iran-naqsh-e-rostam",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iranica-inscriptions-ancient-iran",
+      "role": "supports",
+      "locator": "The Sasanian period, Naqš-e Rostam, in particular the trilingual inscription of Shapur I on the Kaʿba-ye Zardošt and its campaign narrative."
+    },
+    {
+      "sourceId": "source:iranica-naqsh-e-rostam",
+      "role": "supports",
+      "locator": "Site description and section on the Kaʿba-ye Zardošt, the Achaemenid tower facing the royal tombs."
+    },
+    {
+      "sourceId": "source:iranica-sasanian-deportations",
+      "role": "supports",
+      "locator": "Paragraphs on Šāpūr I, Valerian’s capture in 260 and the three versions of the inscription on resettlement."
+    },
+    {
+      "sourceId": "source:iranica-women-preislamic-persia",
+      "role": "supports",
+      "locator": "Sasanian dynasty, Shapur’s inscription listing royal women and daily offerings for the sacred fires."
+    },
+    {
+      "sourceId": "source:met-sasanian-empire",
+      "role": "supports",
+      "locator": "Shapur I and his wars with Rome. Final paragraphs on the seventh-century Arab conquests and the end of the dynasty."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Schapurs Inschrift am alten Turm",
+    "en": "Shapur’s inscription on the old tower"
+  },
+  "participants": [
+    {
+      "entityId": "person:shapur-i",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:kaba-ye-zardost-naqsh-e-rostam"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:kaba-ye-zardost-naqsh-e-rostam-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 260,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 272,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Schapur I. ließ auf drei Wänden des Turms von seinen Feldzügen und seiner Familie erzählen. Die Gefangennahme Valerians datiert den Bericht in die Zeit nach 260.",
+      "en": "Shapur I had his campaigns and family commemorated on three faces of the tower. The account mentions Valerian’s capture in 260, which places its composition after that event."
+    }
+  }
+}

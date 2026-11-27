@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:meeting-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "El lugar del encuentro entre Cortés y Moctezuma",
+  "sourceType": "article",
+  "creators": [
+    "Proyecto Noticonquista, Universidad Nacional Autónoma de México"
+  ],
+  "url": "https://www.noticonquista.unam.mx/amoxtli/1821/1814",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

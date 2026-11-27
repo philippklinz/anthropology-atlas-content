@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:deer-gift",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "“The Iona of the East”: Inchcolm, Dunkeld and the cult of Columba in eastern Scotland",
+  "sourceType": "book",
+  "creators": [
+    "Simon Taylor"
+  ],
+  "url": "https://eprints.gla.ac.uk/362246/2/362246.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2025"
+}

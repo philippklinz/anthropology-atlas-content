@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:aks-goryeo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A History of Korea (Understanding Korea Series, 10)",
+  "sourceType": "book",
+  "creators": [
+    "The Academy of Korean Studies"
+  ],
+  "url": "https://contents.history.go.kr/resources/common/pdf/A%20History%20of%20Korea_The%20Understanding%20Korea%20Series.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2019"
+}

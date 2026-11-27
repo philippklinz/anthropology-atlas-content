@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:jikji-heungdeoksa-print",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-jikji-printing",
+      "role": "supports",
+      "locator": "“What is Jikji?” Two volumes, only the second extant from the 1377 edition, and the 1378 woodblock edition."
+    },
+    {
+      "sourceId": "source:cheongju-museum-metal-type",
+      "role": "supports",
+      "locator": "Section “The oldest movable metal type book” and captioned examples of tilted 人 and missing 動. Baegun, Seokchan, Daljam, Myodeok and the Heungdeoksa printing."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Jikji-Druck von Heungdeoksa",
+    "en": "Heungdeoksa edition of Jikji"
+  }
+}

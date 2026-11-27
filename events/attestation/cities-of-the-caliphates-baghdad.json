@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-the-caliphates-baghdad",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:archnet-round-city-baghdad",
+      "role": "supports",
+      "locator": "Site description. City founded in 762, the gates named for four destinations, administrative buildings, central mosque and palace."
+    },
+    {
+      "sourceId": "source:micheau-baghdad-imperial-foundation",
+      "role": "supports",
+      "locator": "The Cambridge World History, chapter 19, 762 foundation under al-Mansur, use of contemporary testimony and later changes of residence."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Gründung der neuen Residenz",
+    "en": "The foundation of a new residence"
+  },
+  "participants": [
+    {
+      "entityId": "person:abu-jafar-al-mansur",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:west-bank-of-the-tigris-baghdad"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:west-bank-of-the-tigris-baghdad-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 762,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 762,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Al-Mansur ließ am Tigris die geplante Residenzstadt errichten. Der Kartenpunkt bezeichnet das Gebiet am Westufer. Den genauen Verlauf der Ringmauern können wir dort nicht ablesen.",
+      "en": "Al-Mansur began laying out a new court city by the Tigris. The point marks the area on the western bank. Its ancient circular walls can no longer be traced there."
+    }
+  }
+}

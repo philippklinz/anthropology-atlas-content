@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:haferkamp-reich",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Heiliges Römisches Reich",
+  "sourceType": "article",
+  "creators": [
+    "Hans-Peter Haferkamp, Handwörterbuch des Europäischen Privatrechts"
+  ],
+  "url": "https://hwb-eup2009.mpipriv.de/index.php/Heiliges_R%C3%B6misches_Reich",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

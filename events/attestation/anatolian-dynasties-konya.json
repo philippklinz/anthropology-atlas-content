@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:anatolian-dynasties-konya",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mwnf-konya-karatay-madrasa",
+      "role": "supports",
+      "locator": "Patron, date of construction AH 649 as stated in the 1253 foundation deed, and description of the tiled court, pool, dome and gates."
+    },
+    {
+      "sourceId": "source:konya-karatay-tile-museum",
+      "role": "supports",
+      "locator": "Müze Hakkında, Karatay’s patronage and studies of hadith and Quranic commentary. Yol Tarifi gives the museum location."
+    },
+    {
+      "sourceId": "source:cambridge-anatolia-under-mongols",
+      "role": "supports",
+      "locator": "The Cambridge History of Turkey, chapter 3. The Seljuks of Rum and Mongol power after Kösedağ."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Karatays Stiftung für Unterricht",
+    "en": "Karatay’s foundation for teaching"
+  },
+  "participants": [
+    {
+      "entityId": "person:jalal-al-din-karatay",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:karatay-madrasa-konya"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:karatay-madrasa-konya-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1251,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1252,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Stiftungsurkunde nennt 649 der Hidschra als Baujahr der Medrese. Im erhaltenen Bau zeigen Kuppel, Wasserbecken und mosaizierte Fliesen, wie der Unterrichtsort eingerichtet war.",
+      "en": "The endowment deed dates the madrasa’s construction to AH 649. Its dome, pool and mosaic tiles preserve the arrangement of the place of learning."
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:medieval-dublin-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.26,
+      53.35
+    ]
+  }
+}

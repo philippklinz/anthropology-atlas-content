@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:meng-yuanlao-dongjing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "東京夢華錄 (Dongjing menghua lu)",
+  "sourceType": "book",
+  "creators": [
+    "Meng Yuanlao; National Library of China (digitized copy)"
+  ],
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/NLC892-411999008778-118945_%E5%B9%BD%E8%98%AD%E5%B1%85%E5%A3%AB%E6%9D%B1%E4%BA%AC%E5%A4%A2%E8%8F%AF%E9%8C%84.pdf",
+  "language": "zh",
+  "accessedAt": "2026-11-27"
+}

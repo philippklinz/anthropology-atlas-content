@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mongol-courts-happo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bunka-bunei",
+      "role": "supports",
+      "locator": "Section 1, chronology table for Bun’ei 11. Departure from Happo in the tenth lunar month and arrival in northern Kyushu later that month."
+    },
+    {
+      "sourceId": "source:happo-port",
+      "role": "supports",
+      "locator": "정의 and 내용. The historic Happo district around modern Masan in Changwon; its role in the expeditions of the late Goryeo period."
+    },
+    {
+      "sourceId": "source:seokdu-warehouse",
+      "role": "supports",
+      "locator": "Summary and 내용 on Happo’s Goryeo-era tax warehouse and the earlier Na-po port in the Masan coastal area."
+    },
+    {
+      "sourceId": "source:aks-goryeo",
+      "role": "supports",
+      "locator": "Chapter on Goryeo, discussion following the suppression of the Sambyeolcho. Mobilisation of engineers and workers and requisition of timber and ships for the expeditions to Japan."
+    },
+    {
+      "sourceId": "source:national-archives-khubilai",
+      "role": "supports",
+      "locator": "“Official letter from Mongol Empire to Japan”, National Archives of Japan 184-0216. Letters transmitted to Goryeo in 1266 and the context of the first expedition."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Schiffe laufen aus Goryeo aus",
+    "en": "The fleet leaves Goryeo"
+  },
+  "participants": [
+    {
+      "entityId": "polity:goryeo",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "polity:yuan-dynasty",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:happo-masan-bay"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:happo-masan-bay-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1274,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1274,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Von Happo liefen Schiffe mit Menschen aus Goryeo und dem Yuan-Reich nach Japan aus. Der Kartenausschnitt zeigt die heutige Bucht von Masan. Der genaue Anlegeplatz ist ungewiss.",
+      "en": "Ships from Happo carried Yuan and Goryeo forces to Japan. The map locates the modern harbour at Masan Bay. The precise embarkation point is uncertain."
+    }
+  }
+}

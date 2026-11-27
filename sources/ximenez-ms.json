@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ximenez-ms",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Arte de las tres lenguas kakchiquel, quiché y tzutuhil [vol. 01]",
+  "sourceType": "archive",
+  "creators": [
+    "Francisco Ximénez, Ayer Manuscript Collection, Newberry Library"
+  ],
+  "url": "https://collections.newberry.org/asset-management/2KXJ8ZSJPPPPP",
+  "language": "quc",
+  "accessedAt": "2026-11-27"
+}

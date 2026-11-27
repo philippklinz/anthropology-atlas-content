@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:quanzhou-heritage-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Quanzhou: Emporium of the World in Song–Yuan China — Maps",
+  "sourceType": "dataset",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/1561/maps/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:maclagan-city-constantinople",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The City of Constantinople",
+  "sourceType": "book",
+  "creators": [
+    "Michael Maclagan"
+  ],
+  "url": "https://ignca.gov.in/Asi_data/46715.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:morley-east",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Rome and the Sasanian Empire in the Fifth Century A.D.: A Necessary Peace",
+  "sourceType": "book",
+  "creators": [
+    "Craig Morley, University of Liverpool"
+  ],
+  "url": "https://livrepository.liverpool.ac.uk/2025143/1/MorleyCra_Feb2015_2025143.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2015"
+}

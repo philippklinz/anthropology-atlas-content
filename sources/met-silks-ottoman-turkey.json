@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-silks-ottoman-turkey",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Silks from Ottoman Turkey",
+  "sourceType": "article",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/essays/silks-from-ottoman-turkey",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

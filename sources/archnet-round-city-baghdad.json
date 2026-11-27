@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:archnet-round-city-baghdad",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Madina al-Mansur al-Mudawwara",
+  "sourceType": "article",
+  "creators": [
+    "Archnet, Aga Khan Documentation Center at MIT"
+  ],
+  "url": "https://www.archnet.org/sites/3826",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

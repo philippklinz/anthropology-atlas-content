@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:gorm-the-old",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-stone",
+      "role": "supports",
+      "locator": "The large stone, its decoration, the translated inscription, the dating around 965 and the discussion of earlier Christian objects and Harald Klak’s baptism at Mainz in 826."
+    },
+    {
+      "sourceId": "source:jelling-pair",
+      "role": "supports",
+      "locator": "“Two monuments from Danish history”, sections on Gorm’s memorial to Thyra (c. 950) and Harald’s inscription."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Gorm der Alte",
+    "en": "Gorm the Old"
+  }
+}

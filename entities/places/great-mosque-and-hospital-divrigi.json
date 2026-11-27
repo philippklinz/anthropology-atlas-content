@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:great-mosque-and-hospital-divrigi",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mwnf-divrigi-mosque-hospital",
+      "role": "supports",
+      "locator": "Date of Monument, Description and How Monument was dated. Separate patrons and portals, foundation AH 626, minbar dated AH 638, signatures and carving."
+    },
+    {
+      "sourceId": "source:unesco-divrigi-mosque-hospital-map",
+      "role": "supports",
+      "locator": "Map and geographical references for World Heritage property 358, the adjoining great mosque and hospital."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Große Moschee und Hospital, Divriği",
+    "en": "Great Mosque and Hospital, Divriği"
+  }
+}

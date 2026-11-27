@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:strasbourg-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.75,
+      48.58
+    ]
+  }
+}

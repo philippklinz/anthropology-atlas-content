@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:medieval-iberia-girona-sale",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:girona-parchment",
+      "role": "supports",
+      "locator": "Collection MHJ035. 10 July 1492, leaders of Girona’s Jewish community, cathedral canons, sale for 300 lliures made under Ferdinand’s expulsion order. Latin parchment in Girona Municipal Archive; related deeds sewn into a 3.6-metre roll of eleven documents."
+    },
+    {
+      "sourceId": "source:girona-site",
+      "role": "supports",
+      "locator": "Opening paragraphs: the last medieval synagogue of Girona was built in 1435 on the site now occupied by the museum and used until 1492."
+    },
+    {
+      "sourceId": "source:iberian-crowns",
+      "role": "supports",
+      "locator": "Chapter 1, Historical Setting, Ferdinand and Isabella. The personal union and the continuing separate political institutions in Castile, Aragon, Catalonia and Valencia."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Verkauf des Synagogengrundstücks",
+    "en": "The sale of synagogue premises"
+  },
+  "participants": [
+    {
+      "entityId": "community:jewish-community-of-girona",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:girona-synagogue-sale-deed",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:jewish-quarter-of-girona"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:jewish-quarter-of-girona-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1492,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1492,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Nach Ferdinands Ausweisungsbefehl verkauften Gemeindevertreter am 10. Juli die Synagogenräume an die Domherren von Girona.",
+      "en": "On 10 July, following Ferdinand’s expulsion order, community representatives sold the synagogue premises to the canons of Girona Cathedral."
+    }
+  }
+}

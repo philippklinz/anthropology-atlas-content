@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tofuku-ji-kyoto",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tōfuku-ji in Kyoto",
+    "en": "Tōfuku-ji, Kyoto"
+  }
+}

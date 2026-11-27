@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:three-narratives",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Introducing the Florentine Codex (1575–77) and Its Three Narratives",
+  "sourceType": "article",
+  "creators": [
+    "Kim N. Richter and Alicia Maria Houtrouw, Getty Research Institute"
+  ],
+  "url": "https://florentinecodex.getty.edu/en/resources/1_Richter_Houtrouw",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

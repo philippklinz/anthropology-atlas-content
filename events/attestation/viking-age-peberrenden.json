@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:viking-age-peberrenden",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-channel-location",
+      "role": "supports",
+      "locator": "Printed p. 229, Skuldelev samples. Geographic position of the Peberrenden blocking, 55°48′ N, 12°4′ E, and the narrow channel giving access to Roskilde."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Schiff sperrt die Fahrrinne",
+    "en": "A ship blocks the channel"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:skuldelev-two-longship",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:peberrenden-near-skuldelev-roskilde-fjord"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:peberrenden-near-skuldelev-roskilde-fjord-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1070,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1079,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Nach mehreren Reparaturen wurde Skuldelev 2 wahrscheinlich in den 1070er-Jahren in der zweiten Ausbauphase der Sperre im Roskilde-Fjord versenkt.",
+      "en": "After several repairs Skuldelev 2 was probably sunk in the 1070s, in the second building phase of the barrier in Roskilde Fjord."
+    }
+  }
+}

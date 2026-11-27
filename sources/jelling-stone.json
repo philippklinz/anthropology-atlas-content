@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jelling-stone",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Jelling Stone",
+  "sourceType": "catalog",
+  "creators": [
+    "National Museum of Denmark"
+  ],
+  "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-monuments-at-jelling/the-jelling-stone/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

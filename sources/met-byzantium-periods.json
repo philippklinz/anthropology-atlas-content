@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-byzantium-periods",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Byzantium (ca. 330–1453)",
+  "sourceType": "article",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:orkhon-coordinate",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Orkhon Valley Cultural Landscape: World Heritage nomination",
+  "sourceType": "archive",
+  "creators": [
+    "Government of Mongolia, submitted to UNESCO"
+  ],
+  "url": "https://whc.unesco.org/uploads/nominations/1081rev.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

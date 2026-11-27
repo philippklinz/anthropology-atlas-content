@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:konya-karatay-tile-museum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karatay (Çini Eserler) Müzesi",
+  "sourceType": "website",
+  "creators": [
+    "Republic of Türkiye, Ministry of Culture and Tourism"
+  ],
+  "url": "https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=KRT02",
+  "language": "tr",
+  "accessedAt": "2026-11-27"
+}

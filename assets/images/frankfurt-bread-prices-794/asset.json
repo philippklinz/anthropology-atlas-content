@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:frankfurt-bread-prices-794",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:frankfurt-grain-and-bread",
+      "role": "supports",
+      "locator": "Ch. 4 in the translation of Cave and Coulson, p. 130. Separate prices for ordinary grain and the king’s stocks, numbers and weight of loaves, and the final provision on unfree dependants."
+    },
+    {
+      "sourceId": "source:frankfurt-capitulary-bk28",
+      "role": "supports",
+      "locator": "Date and editions, Boretius, no. 28, pp. 73–78; ch. 4, grain and baked bread at Frankfurt in 794."
+    }
+  ],
+  "assetType": "image",
+  "file": "loaves.png",
+  "mediaType": "image/png",
+  "labels": {
+    "de": "Wie viele Brote sollte ein Denar kaufen?",
+    "en": "How many loaves should a denarius buy?"
+  },
+  "alt": {
+    "de": "Vorgeschriebene Stückzahlen in Kapitel 4 von 794. Für einen Denar sollten Käufer zwölf Weizenbrote, fünfzehn Roggenbrote, zwanzig Gerstenbrote oder fünfundzwanzig Haferbrote zu jeweils zwei damaligen Pfund erhalten.",
+    "en": "Prescribed quantities in chapter 4 of the 794 ordinance. One denarius was to buy twelve wheat, fifteen rye, twenty barley or twenty-five oat loaves, each weighing two pounds of the period."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors, based on the Frankfurt Capitulary (794), ch. 4. CC0.",
+    "originNote": "Original chart from the public-domain numerical provisions; bars share a common zero baseline."
+  },
+  "entityIds": [
+    "artifact:frankfurt-capitulary-794"
+  ]
+}

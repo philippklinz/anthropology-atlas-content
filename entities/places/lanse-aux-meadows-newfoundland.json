@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:lanse-aux-meadows-newfoundland",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Nature 601, pp. 388–391. Three worked pieces of wood, the metal-tool cuts and Norse depositional context, Table 1 and Fig. 2 on the radiocarbon signal and counting rings to the surviving outside edge. Published online in 2021."
+    },
+    {
+      "sourceId": "source:parks-indigenous",
+      "role": "supports",
+      "locator": "First two paragraphs. Archaeological evidence of Indigenous use over six millennia and Dorset camps on the south shore more than two centuries before the Norse."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "L’Anse aux Meadows, Neufundland",
+    "en": "L’Anse aux Meadows, Newfoundland"
+  }
+}

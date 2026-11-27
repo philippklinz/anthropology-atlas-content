@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:holy-roman-empire-regensburg",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ritscher-herbord",
+      "role": "supports",
+      "locator": "Chapter III.1.b, Tätigkeitsbereich des Brückenmeisters, pp. 22–23 and notes 62–65. Petition of the citizens and Herbord, exemptions from toll, twelve-foot exclusion zone, divided fines, bishop and duke."
+    },
+    {
+      "sourceId": "source:regensburg-bridge",
+      "role": "supports",
+      "locator": "Timeline on pp. 16–17, especially completion by 1146 and the 1182 privileges governing access, duties and maintenance."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Herbords Brücke wird vor Pflichtzöllen geschützt",
+    "en": "Herbord’s bridge is protected from compulsory tolls"
+  },
+  "participants": [
+    {
+      "entityId": "person:herbord-of-regensburg",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:frederick-i-barbarossa",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:stone-bridge-regensburg"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:stone-bridge-regensburg-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1182,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1182,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Auf Bitten der Bürger und des Brückenmeisters sichert Friedrich I. den freien Übergang über die Donau und freie Zufahrten zu. Freiwillige Beiträge zum Unterhalt bleiben möglich.",
+      "en": "At the request of the citizens and the bridge master, Frederick I guarantees passage across the Danube without compulsory toll and clear approaches. Voluntary contributions can support maintenance."
+    }
+  }
+}

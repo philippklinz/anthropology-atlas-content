@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-iran-nishapur",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-nishapur-sabz-pushan-bowl",
+      "role": "supports",
+      "locator": "Accession 38.40.243. Object description, dimensions, turquoise opaque glaze, date, the excavated site of Sabz Pushan, and the 1938 division of finds."
+    },
+    {
+      "sourceId": "source:wilkinson-nishapur-buildings",
+      "role": "supports",
+      "locator": "Map of Nishapur and Environs and the section on excavation of the Sabz Pushan residential quarter."
+    },
+    {
+      "sourceId": "source:met-city-of-nishapur",
+      "role": "supports",
+      "locator": "Unit 6, The City of Nishapur, introductory account and discussion of games and household objects recovered in excavations."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Schale aus Sabz Puschan",
+    "en": "A bowl from Sabz Pushan"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:nishapur-sabz-pushan-turquoise-bowl",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:medieval-nishapur"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:medieval-nishapur-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 901,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1000,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Im Wohnviertel Sabz Puschan gruben Archäologen eine türkis glasierte Schale aus. Die Datierung der Keramik umfasst das zehnte Jahrhundert. Der Kartenpunkt zeigt das Gebiet der mittelalterlichen Stadt.",
+      "en": "A turquoise-glazed bowl came to light in the residential quarter of Sabz Pushan. The pottery is dated to the tenth century. The map locates the area of the medieval city."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:san-vitale-ravenna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bruckner-san-vitale-sanctuary",
+      "role": "supports",
+      "locator": "Article 743, discussion around Figure 7, imperial panels at San Vitale. Opposing positions of the figures, plate, chalice, consecration by Maximian in 547 and limits of identification by inscription."
+    },
+    {
+      "sourceId": "source:met-san-vitale-dress",
+      "role": "supports",
+      "locator": "Theodora and Justinian panels, particularly embroidered Three Magi along the hem, purple garments, ceremonial vessels and retinues."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "San Vitale, Ravenna",
+    "en": "San Vitale, Ravenna"
+  }
+}

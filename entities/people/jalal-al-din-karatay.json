@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:jalal-al-din-karatay",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mwnf-konya-karatay-madrasa",
+      "role": "supports",
+      "locator": "Patron, date of construction AH 649 as stated in the 1253 foundation deed, and description of the tiled court, pool, dome and gates."
+    },
+    {
+      "sourceId": "source:konya-karatay-tile-museum",
+      "role": "supports",
+      "locator": "Müze Hakkında, Karatay’s patronage and studies of hadith and Quranic commentary. Yol Tarifi gives the museum location."
+    },
+    {
+      "sourceId": "source:cambridge-anatolia-under-mongols",
+      "role": "supports",
+      "locator": "The Cambridge History of Turkey, chapter 3. The Seljuks of Rum and Mongol power after Kösedağ."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Dschalal ad-Din Karatay",
+    "en": "Jalal al-Din Karatay"
+  }
+}

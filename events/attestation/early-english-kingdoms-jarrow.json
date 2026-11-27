@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:early-english-kingdoms-jarrow",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:moore-bede",
+      "role": "supports",
+      "locator": "Introduction and description of f. 128v, lines 1–4: Bede completed the History in 731; early copy and three lines of Northumbrian verse in the main scribe’s hand."
+    },
+    {
+      "sourceId": "source:brady-languages",
+      "role": "supports",
+      "locator": "Introduction, opening discussion of Bede, Ecclesiastical History I.1, British and English, and the changing languages of Britain."
+    },
+    {
+      "sourceId": "source:caedmon-bede",
+      "role": "supports",
+      "locator": "Book IV, chapter 24, opening narrative and verses: the feast, animals at Whitby, the dream, the Latin rendering of the English hymn."
+    },
+    {
+      "sourceId": "source:jarrow-site",
+      "role": "supports",
+      "locator": "National Heritage List for England 1002978, Location, National Grid Reference NZ 33870 65184."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Beda schließt seine Kirchengeschichte ab",
+    "en": "Bede completes his history"
+  },
+  "participants": [
+    {
+      "entityId": "person:bede-of-jarrow",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:bede-ecclesiastical-history",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:st-pauls-monastery-jarrow"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:st-pauls-monastery-jarrow-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 731,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 731,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Mönch beendet in Wearmouth-Jarrow seine lateinische Geschichte. Die Karte zeigt den Klosterstandort Jarrow. Eine frühe Abschrift bewahrt Cædmons Lied zusätzlich in altenglischer Sprache.",
+      "en": "Bede completes his Latin history at Wearmouth-Jarrow. The map marks the Jarrow monastery site. An early copy also preserves Cædmon’s hymn in Old English."
+    }
+  }
+}

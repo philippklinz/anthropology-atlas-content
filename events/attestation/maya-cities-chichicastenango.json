@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:maya-cities-chichicastenango",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ximenez-ms",
+      "role": "supports",
+      "locator": "Ayer MS 1515, volume 1. Summary identifies Ximénez as parish priest in Santo Tomás Chichicastenango; final 56 leaves contain the K’iche’ text and his Spanish translation. Catalogue suggests c. 1700–1703."
+    },
+    {
+      "sourceId": "source:newberry-popol",
+      "role": "supports",
+      "locator": "What is the Popol Vuh? Identifies the work as K’iche’, possible sixteenth-century exemplar in Latin characters, two-column translation. The research guide gives the wider transcription window 1700–1715."
+    },
+    {
+      "sourceId": "source:christenson",
+      "role": "supports",
+      "locator": "Passage on the creation of humanity from yellow and white maize ground by Xmucane, notes 470–475."
+    },
+    {
+      "sourceId": "source:popol-edition",
+      "role": "supports",
+      "locator": "Project statement, second and final paragraphs: K’iche’, Spanish and English interface and collaboration with the Guatemalan Academy of Mayan Languages."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Francisco Ximénez schreibt eine K’iche’-Erzählung ab",
+    "en": "Francisco Ximénez transcribes a K’iche’ text"
+  },
+  "participants": [
+    {
+      "entityId": "person:francisco-ximenez",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:ayer-popol-wuj-manuscript",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:santo-tomas-chichicastenango-guatemala"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:santo-tomas-chichicastenango-guatemala-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1700,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1715,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Abschrift des Popol Wuj wird ungefähr an den Anfang des 18. Jahrhunderts datiert. Der Sammlungskatalog schlägt 1700–1703 vor, der Forschungsführer der Bibliothek lässt einen Zeitraum bis 1715 offen.",
+      "en": "The copy of the Popol Wuj dates to the early eighteenth century. The collection catalogue suggests 1700–1703; the library’s research guide extends the possible window to 1715."
+    }
+  }
+}

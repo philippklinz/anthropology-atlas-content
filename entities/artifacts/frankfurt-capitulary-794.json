@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:frankfurt-capitulary-794",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:frankfurt-grain-and-bread",
+      "role": "supports",
+      "locator": "Ch. 4 in the translation of Cave and Coulson, p. 130. Separate prices for ordinary grain and the king’s stocks, numbers and weight of loaves, and the final provision on unfree dependants."
+    },
+    {
+      "sourceId": "source:frankfurt-capitulary-bk28",
+      "role": "supports",
+      "locator": "Date and editions, Boretius, no. 28, pp. 73–78; ch. 4, grain and baked bread at Frankfurt in 794."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Frankfurter Kapitular von 794",
+    "en": "Frankfurt Capitulary of 794"
+  }
+}

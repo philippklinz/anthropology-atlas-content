@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-iran-isfahan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:babaie-isfahan-mosques",
+      "role": "supports",
+      "locator": "Masjed-e jāmeʿ, paragraphs on the separate north and south domes, their patrons, inscription date and disputed original function of the north dome."
+    },
+    {
+      "sourceId": "source:unesco-isfahan-friday-mosque-map",
+      "role": "supports",
+      "locator": "World Heritage property 1397, map and geographic reference for the mosque as a whole."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Nordkuppel der Freitagsmoschee",
+    "en": "The north dome of the Friday Mosque"
+  },
+  "participants": [
+    {
+      "entityId": "person:taj-al-mulk",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:friday-mosque-isfahan"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:friday-mosque-isfahan-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1088,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1088,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Eine Inschrift nennt Tadsch al-Mulk als Stifter des nördlichen Kuppelraums. Welche Aufgabe der damals freistehende Bau erfüllte, bleibt offen.",
+      "en": "An inscription identifies Taj al-Mulk as patron of the northern dome chamber. The original purpose of this once freestanding structure remains a matter of debate."
+    }
+  }
+}

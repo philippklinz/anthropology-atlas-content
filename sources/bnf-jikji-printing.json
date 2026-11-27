@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bnf-jikji-printing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Jikji, a treasure of the world of printing",
+  "sourceType": "catalog",
+  "creators": [
+    "Bibliothèque nationale de France"
+  ],
+  "url": "https://www.bnf.fr/en/jikji-treasure-world-printing",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

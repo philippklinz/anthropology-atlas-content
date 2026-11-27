@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:parks-indigenous",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Indigenous Sites, L’Anse aux Meadows National Historic Site",
+  "sourceType": "website",
+  "creators": [
+    "Parks Canada"
+  ],
+  "url": "https://parks.canada.ca/lhn-nhs/nl/meadows/culture/sites",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

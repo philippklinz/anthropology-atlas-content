@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-genji-transmission",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Tale of Genji: A Japanese Classic Illuminated",
+  "sourceType": "catalog",
+  "creators": [
+    "John T. Carpenter and Melissa McCormick (eds.), Metropolitan Museum of Art"
+  ],
+  "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Tale_of_Genji_A_Japanese_Classic_Illuminated.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2019"
+}

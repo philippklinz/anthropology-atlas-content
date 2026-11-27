@@ -2,7 +2,7 @@
 
 The Danube is a thin line on the map. For the people waiting on its northern bank in 376, it was a broad river. Across the water lay Roman provinces with farms, towns and granaries. Who would be allowed across? Who would feed the newcomers before their first harvest? The answers help explain how a request for admission could lead to years of fighting.
 
-## Lower Danube
+## Lower Danube {#lower-danube}
 
 Hunnic attacks had shaken political alliances north of the Black Sea. Some of the Tervingi asked Emperor Valens to admit them. Others made their own decisions. Roman officials supported the request partly because they hoped to enlist soldiers for the imperial army. Boats and rafts carried people across. The date 376 covers many crossings. The map uses modern Silistra to locate this stretch of the lower Danube. The accounts tell us little about which families embarked from which part of the bank.
 

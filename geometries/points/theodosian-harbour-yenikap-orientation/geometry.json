@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:theodosian-harbour-yenikap-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ozsait-kocabas-yenikapi-twelve",
+      "role": "supports",
+      "locator": "Introduction, Figures 1 and 2, Table 1, “General characteristics” and reconstruction. Site plan, location of cargo and crew items, cherries and coin, calibrated timber dates, reconstructed dimensions."
+    },
+    {
+      "sourceId": "source:kuelzer-harbour-theodosius-yenikapi",
+      "role": "supports",
+      "locator": "The Byzantine Harbours of Constantinople, Fig. 9 and accompanying text and note 141 on YK 12 and the proposed season of sinking."
+    },
+    {
+      "sourceId": "source:oxford-yenikapi-harbour-location",
+      "role": "supports",
+      "locator": "Shipwrecks Database, entry 997: site-level coordinates 41.00447° N, 28.95249° E for Yenikapı. The point locates the excavation area, not the individual hull."
+    },
+    {
+      "sourceId": "source:oxford-yenikapi-harbour-location",
+      "role": "derivation",
+      "locator": "Shipwrecks Database, entry 997: site-level coordinates 41.00447° N, 28.95249° E for Yenikapı. The point locates the excavation area, not the individual hull."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: Oxford Roman Economy Project.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://oxrep.classics.ox.ac.uk/databases/shipwrecks_database/1176to1184/records/997/"
+  }
+}

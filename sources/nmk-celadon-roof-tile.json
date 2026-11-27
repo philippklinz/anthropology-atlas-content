@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nmk-celadon-roof-tile",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Celadon Convex Roof Tile",
+  "sourceType": "object",
+  "creators": [
+    "National Museum of Korea"
+  ],
+  "url": "https://www.museum.go.kr/ENG/contents/E0402000000.do?relicId=3128&schM=view&searchId=search",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

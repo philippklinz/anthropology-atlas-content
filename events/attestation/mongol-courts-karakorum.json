@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mongol-courts-karakorum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bonn-workshops",
+      "role": "supports",
+      "locator": "City-centre excavations, figs. 3–7. Wooden anvil bases with bronze dust, scrap bronze, the silver coin of 1237/38 from Karakorum’s mint, gravel, paving and trade activities."
+    },
+    {
+      "sourceId": "source:karakorum-survey",
+      "role": "supports",
+      "locator": "Introduction, Historical background and city access discussion at fig. 7. Location on the Orkhon, residence under Ögödei, Rubruck’s visit in 1254, east-gate roads and dense settlement outside the walls. Published online 2021."
+    },
+    {
+      "sourceId": "source:columbia-artisans",
+      "role": "supports",
+      "locator": "Section on artisans, especially the final paragraph on recruitment for construction under Ögödei at Karakorum and under Khubilai at Shangdu and Daidu."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Münze vom Werkstattboden",
+    "en": "A coin from a workshop floor"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:karakorum-silver-coin-1237",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:karakorum-in-the-orkhon-valley"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:karakorum-in-the-orkhon-valley-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1237,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1238,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Prägung der Silbermünze lässt sich auf 1237/38 datieren. Sie nennt Karakorum als Prägestätte und lag in der Nutzungsschicht einer Schmiede.",
+      "en": "The silver coin names Karakorum as its mint and dates to 1237/38. Excavators found it in a workshop occupation layer."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hagia-sophia-met",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Hagia Sophia, 532–37",
+  "sourceType": "article",
+  "creators": [
+    "Emma Wegner, The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/essays/hagia-sophia-532-37",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2004"
+}

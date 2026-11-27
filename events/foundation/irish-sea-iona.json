@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:irish-sea-iona",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iona-history",
+      "role": "supports",
+      "locator": "“The birthplace of Christianity in Scotland” and “Columba’s monastery”. Foundation tradition of 563, timber-building evidence, the later church and the eighth- and ninth-century crosses."
+    },
+    {
+      "sourceId": "source:iona-adomnan",
+      "role": "supports",
+      "locator": "Source Description, Primary Manuscripts no. 1. Schaffhausen Stadtbibliothek, Generalia 1, colophon p. 136a, the two-column copy and the likely date before 713."
+    },
+    {
+      "sourceId": "source:schaffhausen-galway",
+      "role": "supports",
+      "locator": "Origin and Provenance. Dorbbéne’s prayer on p. 136 and the partly erased Reichenau ex-libris at the foot of p. 1."
+    }
+  ],
+  "eventType": "foundation",
+  "labels": {
+    "de": "Columbas Gemeinschaft auf Iona",
+    "en": "Columba’s community on Iona"
+  },
+  "participants": [
+    {
+      "entityId": "person:columba-of-iona",
+      "role": "founder"
+    }
+  ],
+  "placeIds": [
+    "place:iona-around-the-later-abbey"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:iona-around-the-later-abbey-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 563,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 563,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Überlieferung zufolge kam Columba mit Gefährten aus Irland. Der heutige Kirchenbau ist jünger. Bei der frühen Gemeinschaft sind Spuren von Holzbauten erhalten.",
+      "en": "Tradition puts the arrival of Columba and companions from Ireland in this year. The present church is later. Archaeology has identified timber buildings belonging to the early community."
+    }
+  }
+}

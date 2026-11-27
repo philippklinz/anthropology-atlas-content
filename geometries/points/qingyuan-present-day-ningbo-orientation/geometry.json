@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:qingyuan-present-day-ningbo-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    },
+    {
+      "sourceId": "source:fan-li-sinan-port",
+      "role": "supports",
+      "locator": "Archaeological Research in Asia 23, article 100195. Comparison of Fuzhou, Hangzhou and Ningbo by composition and form of the ceramic assemblages, and conclusion."
+    },
+    {
+      "sourceId": "source:grand-canal-ningbo-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1443bis-021, Ningbo Sanjiangkou river confluence."
+    },
+    {
+      "sourceId": "source:grand-canal-ningbo-map",
+      "role": "derivation",
+      "locator": "Ningbo Sanjiangkou, 1443bis-021. Coordinate of the confluence in the port city."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: UNESCO World Heritage Centre.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://whc.unesco.org/en/list/1443/maps/"
+  }
+}

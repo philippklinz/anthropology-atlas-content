@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:skuldelev-two-original-timbers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:casiopeia-skuldelev-two-photo",
+      "role": "supports",
+      "locator": "File description, author and permission; original 1,024 × 819 file photographed by Casiopeia, 16 February 2004, CC BY-SA 2.0 Germany."
+    },
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "The Skuldelev Ships I, chapter 5.2, figures 36–38, especially the overall view of the surviving ship on its frame in the exhibition."
+    }
+  ],
+  "assetType": "image",
+  "file": "skuldelev-ii.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Die erhaltenen Hölzer von Skuldelev 2",
+    "en": "The surviving timbers of Skuldelev 2"
+  },
+  "alt": {
+    "de": "Im Vordergrund liegen gebogene dunkelbraune Planken und Spanten eines langen, schmalen Schiffs auf einem Metallgestell. Zwischen den erhaltenen Hölzern sind große Lücken offen.",
+    "en": "In the foreground curved dark-brown planks and ribs of a long, narrow ship rest on a metal frame. Wide gaps separate the surviving timbers."
+  },
+  "entityIds": [
+    "artifact:skuldelev-two-longship"
+  ],
+  "rights": {
+    "license": "CC-BY-SA-2.0-DE",
+    "creators": [
+      "Casiopeia"
+    ],
+    "attribution": "Casiopeia · Skuldelev II · 16 February 2004 · CC BY-SA 2.0 Germany · https://creativecommons.org/licenses/by-sa/2.0/de/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skuldelev_II.jpg",
+    "originNote": "Unmodified original JPEG, 1,024 × 819 pixels, from Wikimedia Commons (Skuldelev_II.jpg). The foreground exhibit contains the excavated timbers of Skuldelev 2. Attribution-ShareAlike 2.0 Germany: https://creativecommons.org/licenses/by-sa/2.0/de/"
+  }
+}

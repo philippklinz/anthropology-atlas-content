@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mexica-tlatelolco-manuscript",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:florentine",
+      "role": "supports",
+      "locator": "Opening project description. Nahua elders, authors and artists and Bernardino de Sahagún, parallel Nahuatl/Spanish text, 12 books, completion in 1577 at the Imperial Colegio de la Santa Cruz in Tlatelolco."
+    },
+    {
+      "sourceId": "source:three-narratives",
+      "role": "supports",
+      "locator": "Discussion of the creation of the manuscript and its Nahua authors, including the four named grammarians, rector Martín Jacobita of Tlatelolco, and Antonio Valeriano of Azcapotzalco."
+    },
+    {
+      "sourceId": "source:getty-scribes",
+      "role": "supports",
+      "locator": "Tenochtitlan/Tlatelolco map, circa 1500; slide headed Images of artists/scribes (tlahcuilohqueh), Florentine Codex, Book 11 and the lists of named grammarians and scribes."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Arbeit am Florentiner Codex kommt zum Abschluss",
+    "en": "The Florentine Codex is completed"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:florentine-codex",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:college-of-santa-cruz-tlatelolco"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:college-of-santa-cruz-tlatelolco-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1577,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1577,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "1577 wurde das Werk mit seinen zwölf Büchern am Kolleg Santa Cruz vollendet. Nahua-Gelehrte und Maler hatten darin Wissen und Erinnerungen der Stadt festgehalten.",
+      "en": "In 1577 the twelve books were completed at the College of Santa Cruz. Nahua scholars and painters had recorded knowledge and memories of the city."
+    }
+  }
+}

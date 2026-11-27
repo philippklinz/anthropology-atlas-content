@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:frankfurt-capitulary-bk28",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Capitulare Francofurtense (BK 28)",
+  "sourceType": "archive",
+  "creators": [
+    "Karl Ubl and the Capitularia editorial team"
+  ],
+  "url": "https://capitularia.uni-koeln.de/en/capit/pre814/bk-nr-028/",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

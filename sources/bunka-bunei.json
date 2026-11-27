@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bunka-bunei",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "1274年（文永11・至元11）文永の役",
+  "sourceType": "archive",
+  "creators": [
+    "Agency for Cultural Affairs, Japan, underwater archaeological sites committee materials"
+  ],
+  "url": "https://www.bunka.go.jp/seisaku/bunkashingikai/kondankaito/suichu_iseki/h25_03/pdf/shiryo_4.pdf",
+  "language": "ja",
+  "accessedAt": "2026-11-27"
+}

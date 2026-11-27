@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-san-vitale-dress",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dress Styles in the Mosaics of San Vitale",
+  "sourceType": "article",
+  "creators": [
+    "Nazanin Hedayat Munroe"
+  ],
+  "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam/blog/topical-essays/posts/san-vitale",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2012"
+}

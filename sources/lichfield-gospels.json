@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:lichfield-gospels",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The St Chad Gospels",
+  "sourceType": "catalog",
+  "creators": [
+    "Lichfield Cathedral"
+  ],
+  "url": "https://www.lichfield-cathedral.org/downloads/st-chad-gospels.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:jewish-quarter-of-girona",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:girona-parchment",
+      "role": "supports",
+      "locator": "Collection MHJ035. 10 July 1492, leaders of Girona’s Jewish community, cathedral canons, sale for 300 lliures made under Ferdinand’s expulsion order. Latin parchment in Girona Municipal Archive; related deeds sewn into a 3.6-metre roll of eleven documents."
+    },
+    {
+      "sourceId": "source:girona-site",
+      "role": "supports",
+      "locator": "Opening paragraphs: the last medieval synagogue of Girona was built in 1435 on the site now occupied by the museum and used until 1492."
+    },
+    {
+      "sourceId": "source:iberian-crowns",
+      "role": "supports",
+      "locator": "Chapter 1, Historical Setting, Ferdinand and Isabella. The personal union and the continuing separate political institutions in Castile, Aragon, Catalonia and Valencia."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Jüdisches Viertel von Girona",
+    "en": "Jewish quarter of Girona"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:leo-nicetas",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Letter 159 to Nicetas of Aquileia",
+  "sourceType": "book",
+  "creators": [
+    "Leo I, translated by Charles Lett Feltoe"
+  ],
+  "url": "https://www.newadvent.org/fathers/3604159.htm",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

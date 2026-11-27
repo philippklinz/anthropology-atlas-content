@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:jelling-rune-stones-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.42,
+      55.756
+    ]
+  }
+}

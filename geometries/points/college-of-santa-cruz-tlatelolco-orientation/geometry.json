@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:college-of-santa-cruz-tlatelolco-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:florentine",
+      "role": "supports",
+      "locator": "Opening project description. Nahua elders, authors and artists and Bernardino de Sahagún, parallel Nahuatl/Spanish text, 12 books, completion in 1577 at the Imperial Colegio de la Santa Cruz in Tlatelolco."
+    },
+    {
+      "sourceId": "source:three-narratives",
+      "role": "supports",
+      "locator": "Discussion of the creation of the manuscript and its Nahua authors, including the four named grammarians, rector Martín Jacobita of Tlatelolco, and Antonio Valeriano of Azcapotzalco."
+    },
+    {
+      "sourceId": "source:getty-scribes",
+      "role": "supports",
+      "locator": "Tenochtitlan/Tlatelolco map, circa 1500; slide headed Images of artists/scribes (tlahcuilohqueh), Florentine Codex, Book 11 and the lists of named grammarians and scribes."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q2477757, coordinate location (P625). General orientation at the named site."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Wikidata contributors, Q2477757 (P625), CC0. Orientation point rounded by Anthropology Atlas contributors.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q2477757"
+  }
+}

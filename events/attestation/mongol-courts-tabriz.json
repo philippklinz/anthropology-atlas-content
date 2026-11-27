@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mongol-courts-tabriz",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:khalili-buddha",
+      "role": "supports",
+      "locator": "Islamic Art, MSS 727, folio 34a. Artwork Details, Other Notes and “The Jami‘ al-Tawarikh”. Tabriz, 714 AH (1314–15), Arabic manuscript divided between two collections, Ghazan’s commission and Öljeytü’s expansion."
+    },
+    {
+      "sourceId": "source:iranica-foundation",
+      "role": "supports",
+      "locator": "Article, especially the endowment deed of 1309 and its appendices; annual Arabic and Persian copies of six works, quality of paper, collation, binding and boxes. Location in the eastern suburb of Tabriz."
+    },
+    {
+      "sourceId": "source:blair-compendium",
+      "role": "supports",
+      "locator": "Iranian Studies 50, pp. 819–842, abstract. Early Arabic illustrated manuscript fragments in Edinburgh (Or. ms. 20) and the Khalili Collections (MSS 727), dated 714 AH/1314–15."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Blatt aus der Weltgeschichte",
+    "en": "A page of world history"
+  },
+  "participants": [
+    {
+      "entityId": "person:rashid-al-din-fadlallah",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:jami-al-tawarikh-arabic-714",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:rab-e-rashidi-tabriz"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:rab-e-rashidi-tabriz-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1314,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1315,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Eine arabische Abschrift aus Täbris ist auf 714 der Hidschra, entsprechend 1314/15, datiert. Der Punkt bezeichnet Raschid ad-Dins Stiftung im Osten der Stadt.",
+      "en": "An Arabic copy from Tabriz is dated to 714 AH or 1314–15 CE. The point marks Rashid al-Din’s foundation in the east of the city."
+    }
+  }
+}

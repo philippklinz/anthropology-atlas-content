@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:maya-cities-ceren",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ceren-date",
+      "role": "supports",
+      "locator": "Subsection Loma Caldera Eruption, cites McKee’s radiocarbon estimate at Cerén at 95% probability, AD 610–671. This dates a single eruption, not a decades-long volcanic episode."
+    },
+    {
+      "sourceId": "source:ceren-plants",
+      "role": "supports",
+      "locator": "Site setting and methodology, figs. 1–5 and discussion of Household 1. Wattle-and-daub buildings and thatch, dental plaster casts, manioc between Structures 6 and 11, field cultivation south of the village, fixed hearth and vessel contents in Structure 11."
+    },
+    {
+      "sourceId": "source:ceren-site",
+      "role": "supports",
+      "locator": "Brief Synthesis and map coordinates, dossier 675, 13°49′39″ N, 89°22′9″ W. Seventh-century farming settlement preserved beneath the Loma Caldera eruption."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Asche bewahrt einen Küchengarten",
+    "en": "Ash preserves a kitchen garden"
+  },
+  "participants": [
+    {
+      "entityId": "community:households-of-ceren",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:joya-de-ceren-el-salvador"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:joya-de-ceren-el-salvador-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 610,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 671,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Ausbruch begrub Häuser und Gärten. Radiokarbondaten für dieses einzelne Ereignis ergeben ein wahrscheinliches Zeitfenster von 610 bis 671.",
+      "en": "An eruption buried houses and gardens. Radiocarbon dating places the single event within a probable window of 610–671."
+    }
+  }
+}

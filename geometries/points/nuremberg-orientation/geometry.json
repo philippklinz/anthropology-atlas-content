@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:nuremberg-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golden-bull-bohemia",
+      "role": "supports",
+      "locator": "AT-OeStA/HHStA UR AUR 9228. Dates and places, regest, extent and seal description: only the Nuremberg part of this copy bears a golden seal of 66.6–67.2 mm in diameter."
+    },
+    {
+      "sourceId": "source:golden-bull-ghi",
+      "role": "supports",
+      "locator": "Introduction and chs. 1–4. Seven electors, meeting at Frankfurt, voting, confirmation of electors’ rights and precedence."
+    },
+    {
+      "sourceId": "source:golden-bull-chapters",
+      "role": "supports",
+      "locator": "Panel Die Goldene Bulle. Chapters 1–23 at Nuremberg and 24–31 at Metz in 1356, name from the gold seal, surviving original copies."
+    },
+    {
+      "sourceId": "source:nuremberg-geo",
+      "role": "supports",
+      "locator": "GeonameId 2861650, town centre coordinates 49.45421 N, 11.07752 E."
+    },
+    {
+      "sourceId": "source:nuremberg-geo",
+      "role": "derivation",
+      "locator": "GeoNames ID 2861650. Town reference; the charter gives Nuremberg."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Point rounded for Anthropology Atlas. https://creativecommons.org/licenses/by/4.0/",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://www.geonames.org/2861650/nuremberg.html"
+  }
+}

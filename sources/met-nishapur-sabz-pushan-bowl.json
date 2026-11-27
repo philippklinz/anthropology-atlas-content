@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-nishapur-sabz-pushan-bowl",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Bowl",
+  "sourceType": "object",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/art/collection/search/449453",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

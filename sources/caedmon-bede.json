@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:caedmon-bede",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Historia ecclesiastica gentis Anglorum, IV.24",
+  "sourceType": "book",
+  "creators": [
+    "Bede, edited by Rob Hardy, Dickinson College Commentaries"
+  ],
+  "url": "https://dcc.dickinson.edu/bede-historia-ecclesiastica/book-4/chapter-4-24",
+  "language": "la",
+  "accessedAt": "2026-11-27"
+}

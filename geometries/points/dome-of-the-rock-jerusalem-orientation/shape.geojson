@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:dome-of-the-rock-jerusalem-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      35.2354,
+      31.778
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:shozokan-mongol-scrolls",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Illustrated Scrolls of the Mongol Invasions",
+  "sourceType": "object",
+  "creators": [
+    "Museum of the Imperial Collections, Sannomaru Shōzōkan"
+  ],
+  "url": "https://collection.shozokan.nich.go.jp/en/object/SZK002942",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

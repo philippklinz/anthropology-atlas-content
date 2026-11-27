@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dunwich-domesday",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Little Domesday Book: the Dunwich entry",
+  "sourceType": "archive",
+  "creators": [
+    "The National Archives, UK"
+  ],
+  "url": "https://cdn.nationalarchives.gov.uk/documents/latin-palaeography-large-images.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

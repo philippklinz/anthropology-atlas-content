@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:qingyuan-present-day-ningbo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    },
+    {
+      "sourceId": "source:fan-li-sinan-port",
+      "role": "supports",
+      "locator": "Archaeological Research in Asia 23, article 100195. Comparison of Fuzhou, Hangzhou and Ningbo by composition and form of the ceramic assemblages, and conclusion."
+    },
+    {
+      "sourceId": "source:grand-canal-ningbo-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1443bis-021, Ningbo Sanjiangkou river confluence."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Qingyuan, heutiges Ningbo",
+    "en": "Qingyuan, present-day Ningbo"
+  }
+}

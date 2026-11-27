@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:holy-roman-empire-speyer",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rudiger-1084",
+      "role": "supports",
+      "locator": "Translated charter, preamble and clauses 1–7. Residential wall, annual payment of three and a half pounds, harbour trade, cemetery, visiting Jews, judicial jurisdiction."
+    },
+    {
+      "sourceId": "source:speyer-juden",
+      "role": "supports",
+      "locator": "Opening account of the 1084 settlement and the section Erste Pogrome, Kreuzzüge und die Pest. Attack of 1096 and the intervention of Bishop Johann."
+    },
+    {
+      "sourceId": "source:haferkamp-reich",
+      "role": "supports",
+      "locator": "Sections 1 and 2. Carolingian and Ottonian imperial title, geographic extent, development of the imperial designation and the problem of territorial authority."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Rüdigers Rechte für die jüdische Gemeinde",
+    "en": "Rüdiger grants rights to the Jewish community"
+  },
+  "participants": [
+    {
+      "entityId": "person:rudiger-huzmann-of-speyer",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "community:jewish-community-of-medieval-speyer",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:speyer"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:speyer-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1084,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1084,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Bischof Rüdiger regelt Handel, Begräbnis und Gerichtsbarkeit für jüdische Familien. Der Stadtpunkt liegt am Rhein und verzeichnet den Geltungsort des Privilegs.",
+      "en": "Bishop Rüdiger grants trading, burial and judicial rights to Jewish families in Speyer. The city marker identifies where the grant applied."
+    }
+  }
+}

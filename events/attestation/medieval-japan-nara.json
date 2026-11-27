@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:medieval-japan-nara",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:imperial-household-shosoin",
+      "role": "supports",
+      "locator": "Foundation, imperial seal and new repositories. Illustrated objects include the five-stringed lute, go board and the List of the Nation’s Rare Treasures."
+    },
+    {
+      "sourceId": "source:tokyo-museum-shosoin",
+      "role": "supports",
+      "locator": "Chapter 1, Emperor Shōmu’s Treasures, especially no. 4, the donation list. Text on Kōmyō’s gift on the forty-ninth day, the 650 items and the prayer for rebirth."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Kōmyō übergibt die Schätze ihres Mannes",
+    "en": "Kōmyō gives away her husband’s treasures"
+  },
+  "participants": [
+    {
+      "entityId": "person:empress-komyo",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:todai-ji-nara"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:todai-ji-nara-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 756,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 756,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die verwitwete Kaiserin übergibt dem Großen Buddha von Tōdai-ji persönliche Dinge Shōmus. Mit der Laute und dem Go-Brett überdauert auch das datierte Verzeichnis der Gabe.",
+      "en": "The widowed empress gives Shōmu’s possessions to the Great Buddha of Tōdai-ji. The lute and go board survive, along with a dated inventory of the gift."
+    }
+  }
+}

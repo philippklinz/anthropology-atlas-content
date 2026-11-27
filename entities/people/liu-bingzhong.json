@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:liu-bingzhong",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:xanadu-site",
+      "role": "supports",
+      "locator": "Brief synthesis and Integrity, property 1389. Liu Bingzhong’s design in 1256; the Palace City, Imperial City, Outer City, seasonal camps, hunting areas, the Tiefan’gan canal and the later summer capital."
+    },
+    {
+      "sourceId": "source:columbia-artisans",
+      "role": "supports",
+      "locator": "Section on artisans, especially the final paragraph on recruitment for construction under Ögödei at Karakorum and under Khubilai at Shangdu and Daidu."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Liu Bingzhong",
+    "en": "Liu Bingzhong"
+  }
+}

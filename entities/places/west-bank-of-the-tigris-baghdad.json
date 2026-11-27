@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:west-bank-of-the-tigris-baghdad",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:archnet-round-city-baghdad",
+      "role": "supports",
+      "locator": "Site description. City founded in 762, the gates named for four destinations, administrative buildings, central mosque and palace."
+    },
+    {
+      "sourceId": "source:micheau-baghdad-imperial-foundation",
+      "role": "supports",
+      "locator": "The Cambridge World History, chapter 19, 762 foundation under al-Mansur, use of contemporary testimony and later changes of residence."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Westliches Tigrisufer, Bagdad",
+    "en": "West bank of the Tigris, Baghdad"
+  }
+}

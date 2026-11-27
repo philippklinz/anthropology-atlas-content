@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:london-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:henry-proclamation",
+      "role": "supports",
+      "locator": "Edition and comparison of the Huntingdonshire and Oxfordshire texts; address to clergy and laity, majority of councillors, open sealed writ to be kept locally and final dating at London."
+    },
+    {
+      "sourceId": "source:burton-proclamation",
+      "role": "supports",
+      "locator": "Chapter on the reform period, printed pp. 38–40, especially p. 39 nn. 1–2 and p. 40 n. 2. The 18 October letter, English and French witnesses, Burton annalist’s Latin version and a payment of 50s to Robert of Fulham on 7 November for work in English and French."
+    },
+    {
+      "sourceId": "source:london-getty",
+      "role": "supports",
+      "locator": "Coordinates and historical-geography note for the medieval City. A town-level reference only."
+    },
+    {
+      "sourceId": "source:london-getty",
+      "role": "derivation",
+      "locator": "TGN 7011798, City of London; the closing clause specifies the town, not a building."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "ODC-By-1.0",
+    "creators": [
+      "Getty Research Institute",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Getty Thesaurus of Geographic Names, ODC-By 1.0. Generalized for Anthropology Atlas. https://opendatacommons.org/licenses/by/1-0/",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=7142511&nation=&place=&subjectid=7011798"
+  }
+}

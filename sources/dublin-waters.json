@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-waters",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dublin City Parks Strategy 2019–2022, part 1",
+  "sourceType": "book",
+  "creators": [
+    "Dublin City Council"
+  ],
+  "url": "https://www.dublincity.ie/sites/default/files/2020-11/dublin-city-parks-strategy-2019-2022-part-1.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2019"
+}

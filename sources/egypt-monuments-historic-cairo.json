@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:egypt-monuments-historic-cairo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Historical Cairo",
+  "sourceType": "website",
+  "creators": [
+    "Egyptian Ministry of Tourism and Antiquities"
+  ],
+  "url": "https://egymonuments.gov.eg/collections/historical-cairo/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

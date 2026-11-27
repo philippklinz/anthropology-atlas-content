@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nmk-sadang-ri-kiln",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Goryeo Celadon of Sadang-ri Kiln Site in Gangjin",
+  "sourceType": "catalog",
+  "creators": [
+    "National Museum of Korea"
+  ],
+  "url": "https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=16782&listType=list&menuId=past&schM=view",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2015"
+}

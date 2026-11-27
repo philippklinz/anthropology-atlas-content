@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:nilometer-rawda-island",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:egypt-monuments-rawda-nilometer",
+      "role": "supports",
+      "locator": "Site location and profile. Rebuilding in AH 247, octagonal graduated column, uses of readings for irrigation and taxation."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Nilometer, Insel ar-Rauda",
+    "en": "Nilometer, Rawda Island"
+  }
+}

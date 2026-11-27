@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:steffens-nithard-folio",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Paléographie latine, plate of the Oaths of Strasbourg",
+  "sourceType": "book",
+  "creators": [
+    "Franz Steffens"
+  ],
+  "url": "https://icar.cultura.gov.it/fileadmin/risorse/Manuali_Letteratura/03_Steffens_36-79-2021_B.pdf",
+  "language": "fr",
+  "accessedAt": "2026-11-27"
+}

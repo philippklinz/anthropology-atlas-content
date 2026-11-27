@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Oseberghaugen, burial site (TGN 8730247)",
+  "sourceType": "dataset",
+  "creators": [
+    "Getty Research Institute, Thesaurus of Geographic Names"
+  ],
+  "url": "https://vocab.getty.edu/page/tgn/8730247",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

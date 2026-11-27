@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tofuku-ji-kyoto-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.7737,
+      34.9757
+    ]
+  }
+}

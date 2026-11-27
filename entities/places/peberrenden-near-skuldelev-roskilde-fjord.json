@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:peberrenden-near-skuldelev-roskilde-fjord",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-channel-location",
+      "role": "supports",
+      "locator": "Printed p. 229, Skuldelev samples. Geographic position of the Peberrenden blocking, 55°48′ N, 12°4′ E, and the narrow channel giving access to Roskilde."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Peberrenden bei Skuldelev, Roskilde-Fjord",
+    "en": "Peberrenden near Skuldelev, Roskilde Fjord"
+  }
+}

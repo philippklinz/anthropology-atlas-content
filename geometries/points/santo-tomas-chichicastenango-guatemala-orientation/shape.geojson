@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:santo-tomas-chichicastenango-guatemala-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.111,
+      14.943
+    ]
+  }
+}

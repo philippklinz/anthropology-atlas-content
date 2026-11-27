@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:pope-leo-iii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:royal-frankish-annals-early-entries",
+      "role": "supports",
+      "locator": "Entries for 753–754 (papal visit), 768 and 771 (division and death of Carloman); entry headed 801, first sentence, on Christmas Day 800 at St Peter’s."
+    },
+    {
+      "sourceId": "source:einhard-life-of-charlemagne",
+      "role": "supports",
+      "locator": "Vita Karoli Magni, ch. 26 (columns and marble), 28 (imperial title and reported reluctance), 30–31 (death, choice of burial place and burial)."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Papst Leo III.",
+    "en": "Pope Leo III"
+  }
+}

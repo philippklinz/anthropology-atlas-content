@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:hagia-sophia-constantinople",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hagia-sophia-met",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Nika fire, dedication on 27 December 537, architects, vault, 558 collapse, 562 rebuilding and decoration. Closing paragraphs on conversion under Mehmed II in 1453 and subsequent Ottoman additions."
+    },
+    {
+      "sourceId": "source:met-byzantium-periods",
+      "role": "supports",
+      "locator": "Opening discussion of Rhomaioi and the capital; “The Latin Occupation of Constantinople” and “Late Byzantium” on 1204, 1261, Nicaea and Trebizond."
+    },
+    {
+      "sourceId": "source:fatih-ayasofya",
+      "role": "supports",
+      "locator": "Building history, from the conversion of the patriarchal cathedral under Mehmed II in 1453 to the successive Ottoman minarets."
+    },
+    {
+      "sourceId": "source:maclagan-city-constantinople",
+      "role": "supports",
+      "locator": "Discussion of the orientation of St Sophia and the position of the mihrab and pulpit in the converted mosque."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hagia Sophia, Konstantinopel",
+    "en": "Hagia Sophia, Constantinople"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:holy-roman-empire-metz",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golden-bull-bohemia",
+      "role": "supports",
+      "locator": "AT-OeStA/HHStA UR AUR 9228. Dates and places, regest, extent and seal description: only the Nuremberg part of this copy bears a golden seal of 66.6–67.2 mm in diameter."
+    },
+    {
+      "sourceId": "source:golden-bull-chapters",
+      "role": "supports",
+      "locator": "Panel Die Goldene Bulle. Chapters 1–23 at Nuremberg and 24–31 at Metz in 1356, name from the gold seal, surviving original copies."
+    },
+    {
+      "sourceId": "source:schlotheuber-languages",
+      "role": "supports",
+      "locator": "pp. 365–366, especially n. 46 quoting ch. 31. Languages for lay electoral heirs, age requirements, Latin and the interpretation of the Slavic language as Czech."
+    },
+    {
+      "sourceId": "source:golden-bull-henderson",
+      "role": "supports",
+      "locator": "Ch. 31, two final paragraphs. Early language instruction for the four lay electoral families and the choice between sending children away and engaging experienced teachers at home."
+    },
+    {
+      "sourceId": "source:metz-geo",
+      "role": "supports",
+      "locator": "GeonameId 2994160, town centre coordinates 49.11911 N, 6.17269 E."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Metzer Bestimmung über Sprachen",
+    "en": "The Metz provision on languages"
+  },
+  "participants": [
+    {
+      "entityId": "person:emperor-charles-iv",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:golden-bull-1356",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:metz"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:metz-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1356,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1356,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Schlusskapitel der Goldenen Bulle entstehen in Metz. Kapitel 31 regelt die sprachliche Erziehung der Erben der vier weltlichen Kurfürsten.",
+      "en": "The final chapters of the Golden Bull are issued at Metz. Chapter 31 deals with language education for the heirs of the four lay electors."
+    }
+  }
+}

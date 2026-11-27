@@ -1,0 +1,401 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:life-in-the-mexica-capital",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:huitzilopochco",
+      "role": "supports",
+      "locator": "Sections Huitzilopochco and Desarrollo del asentamiento. Southwestern lake shore, fresh and brackish water, chinampas and neighbouring allies; in 1428 Tenochtitlan imposed tribute in goods and labour."
+    },
+    {
+      "sourceId": "source:mexico-met",
+      "role": "supports",
+      "locator": "Overview; Key Events, ca. 1427 and ca. 1431. Tenochtitlan’s alliance with Texcoco and Tlacopan, Azcapotzalco, indirect rule, tribute and Tlaxcala’s autonomy. Earlier enlargements of the main temple."
+    },
+    {
+      "sourceId": "source:mendoza",
+      "role": "supports",
+      "locator": "Folio 47r. Pictorial record and colonial annotations of tribute for Xoconochco (Soconusco); rows of cacao, feathers, skins and vessels. The folio concerns a different province from Huitzilopochco."
+    },
+    {
+      "sourceId": "source:juarez-dappe",
+      "role": "supports",
+      "locator": "Figure 1, p. 36. Identifies Soconusco, cacao beans, drinking vessels and jaguar skins on Codex Mendoza fol. 47r; dates the manuscript to the early colonial period."
+    },
+    {
+      "sourceId": "source:dedication-plaque",
+      "role": "supports",
+      "locator": "Curator’s object description, the numeral and reed for 1487, the two rulers Tízoc and Ahuítzotl making blood offerings, the bundle between them and the probable ceremonial-square display."
+    },
+    {
+      "sourceId": "source:templo-site",
+      "role": "supports",
+      "locator": "Archaeological zone, Guatemala 60, Centro Histórico, and Datos generales, site of the principal building of ancient Tenochtitlan."
+    },
+    {
+      "sourceId": "source:meeting-locality",
+      "role": "supports",
+      "locator": "Opening paragraph on the commemorative plaque at Pino Suárez and República de El Salvador, the comparison of possible locations and the concluding identification of the southern approach to Tenochtitlan, 8 November 1519."
+    },
+    {
+      "sourceId": "source:nahua-welcome",
+      "role": "supports",
+      "locator": "Book XII, chapter 16. Opening place-names, garlands and necklaces, Moteuczoma’s welcome, Marina interpreting the answer, and the list of the lords accompanying Moteuczoma. This English excerpt presents the later Nahua account."
+    },
+    {
+      "sourceId": "source:cortes-welcome",
+      "role": "supports",
+      "locator": "Second letter to Charles, excerpt pp. 85–89. Bridge and removable beams; attendants prevent physical contact; later speech in the lodging as reported to Charles."
+    },
+    {
+      "sourceId": "source:florentine",
+      "role": "supports",
+      "locator": "Opening project description. Nahua elders, authors and artists and Bernardino de Sahagún, parallel Nahuatl/Spanish text, 12 books, completion in 1577 at the Imperial Colegio de la Santa Cruz in Tlatelolco."
+    },
+    {
+      "sourceId": "source:three-narratives",
+      "role": "supports",
+      "locator": "Discussion of the creation of the manuscript and its Nahua authors, including the four named grammarians, rector Martín Jacobita of Tlatelolco, and Antonio Valeriano of Azcapotzalco."
+    },
+    {
+      "sourceId": "source:getty-scribes",
+      "role": "supports",
+      "locator": "Tenochtitlan/Tlatelolco map, circa 1500; slide headed Images of artists/scribes (tlahcuilohqueh), Florentine Codex, Book 11 and the lists of named grammarians and scribes."
+    }
+  ],
+  "labels": {
+    "de": "Wer die Inselstadt Tenochtitlan versorgte",
+    "en": "Who supplied the island city of Tenochtitlan?"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:mexica-huitzilopochco",
+    "event:mexica-temple-dedication",
+    "event:meeting-of-moteuczoma-and-cortes-1519",
+    "event:mexica-tlatelolco-manuscript",
+    "community:huitzilopochco-residents",
+    "artifact:tenochtitlan-temple-dedication-plaque",
+    "person:moteuczoma-ii",
+    "person:hernan-cortes"
+  ],
+  "steps": [
+    {
+      "id": "huitzilopochco",
+      "textAnchor": "huitzilopochco",
+      "labels": {
+        "de": "1428 · Abgaben in Gütern und Arbeit",
+        "en": "1428 · Tribute in goods and labour"
+      },
+      "summary": {
+        "de": "In Huitzilopochco am südwestlichen Seeufer mussten Haushalte Tenochtitlan von 1428 an Güter und Arbeitsleistungen liefern.",
+        "en": "From 1428 the households of Huitzilopochco on the southwestern lake shore owed goods and labour to Tenochtitlan."
+      },
+      "state": {
+        "camera": {
+          "longitude": -99.149,
+          "latitude": 19.354,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1428,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1428,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "temple-dedication",
+      "textAnchor": "temple-dedication",
+      "labels": {
+        "de": "1487 · Acht Rohr am Großen Tempel",
+        "en": "1487 · Eight Reed at the Great Temple"
+      },
+      "summary": {
+        "de": "Am Ausbau des Großen Tempels erinnert die Gedenktafel an Tízoc und Ahuítzotl. Das Jahr Acht Rohr entspricht hier 1487. Die Karte zeigt den Zeremonialbezirk.",
+        "en": "A commemorative plaque associates Tízoc and Ahuítzotl with the enlargement of the Great Temple. Eight Reed corresponds here to 1487. The point marks the ceremonial precinct."
+      },
+      "state": {
+        "camera": {
+          "longitude": -99.1322,
+          "latitude": 19.435,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1487,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1487,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "causeway-1519",
+      "textAnchor": "causeway-1519",
+      "labels": {
+        "de": "1519 · Moteuczoma II. und Cortés am südlichen Zugang",
+        "en": "1519 · Moteuczoma II and Cortés on the southern approach"
+      },
+      "summary": {
+        "de": "Moteuczoma II. empfing Cortés am südlichen Zugang zur Inselstadt. Der spätere Nahuatl-Bericht nennt die Beteiligten, auch Malintzin als Dolmetscherin. Die Markierung zeigt den ungefähren Ort.",
+        "en": "Moteuczoma II received Cortés on the southern approach to the island city. The later Nahuatl account names members of the party including Malintzin, who interpreted. The marker gives the approximate locality."
+      },
+      "state": {
+        "camera": {
+          "longitude": -99.133,
+          "latitude": 19.428,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1519,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1519,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "tlatelolco-manuscript",
+      "textAnchor": "tlatelolco-manuscript",
+      "labels": {
+        "de": "1577 · Die Arbeit am Florentiner Codex kommt zum Abschluss",
+        "en": "1577 · The Florentine Codex is completed"
+      },
+      "summary": {
+        "de": "1577 wurde das Werk mit seinen zwölf Büchern am Kolleg Santa Cruz vollendet. Nahua-Gelehrte und Maler hatten darin Wissen und Erinnerungen der Stadt festgehalten.",
+        "en": "In 1577 the twelve books were completed at the College of Santa Cruz. Nahua scholars and painters had recorded knowledge and memories of the city."
+      },
+      "state": {
+        "camera": {
+          "longitude": -99.1367,
+          "latitude": 19.4509,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1577,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1577,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Von den Abgaben einer Stadt am See und dem Jahr Acht Rohr bis zu Blumen für Cortés. In Tlatelolco schrieben Nahua-Gelehrte die Begrüßung aus der Sicht ihrer Stadt auf.",
+      "en": "A lakeside town owes tribute, two rulers mark the year Eight Reed, and a visitor receives flowers. At Tlatelolco Nahua scholars recorded the welcome from the city’s perspective."
+    },
+    "topics": [
+      {
+        "id": "mexica",
+        "labels": {
+          "de": "Mexica",
+          "en": "Mexica"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      },
+      {
+        "id": "books-and-writing",
+        "labels": {
+          "de": "Bücher und Schrift",
+          "en": "Books and writing"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "postclassic-mesoamerica",
+        "labels": {
+          "de": "Mesoamerikanische Postklassik",
+          "en": "Postclassic Mesoamerica"
+        }
+      },
+      {
+        "id": "early-modern",
+        "labels": {
+          "de": "Frühe Neuzeit",
+          "en": "Early modern period"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "mesoamerica",
+        "labels": {
+          "de": "Mesoamerika",
+          "en": "Mesoamerica"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -99.1406,
+      "latitude": 19.40245,
+      "metersPerPixel": 854,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1428,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1428,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1577,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1577,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:florentine-codex",
+    "artifact:tenochtitlan-temple-dedication-plaque",
+    "community:huitzilopochco-residents",
+    "event:meeting-of-moteuczoma-and-cortes-1519",
+    "event:mexica-huitzilopochco",
+    "event:mexica-temple-dedication",
+    "event:mexica-tlatelolco-manuscript",
+    "geometry:college-of-santa-cruz-tlatelolco-orientation",
+    "geometry:huitzilopochco-modern-churubusco-orientation",
+    "geometry:templo-mayor-tenochtitlan-orientation",
+    "geometry:tenochtitlan-southern-approach-orientation",
+    "person:hernan-cortes",
+    "person:malintzin",
+    "person:moteuczoma-ii",
+    "place:college-of-santa-cruz-tlatelolco",
+    "place:huitzilopochco-modern-churubusco",
+    "place:templo-mayor-tenochtitlan",
+    "place:tenochtitlan-southern-approach",
+    "source:cortes-second-print",
+    "source:cortes-welcome",
+    "source:dedication-plaque",
+    "source:florentine",
+    "source:getty-scribes",
+    "source:huitzilopochco",
+    "source:juarez-dappe",
+    "source:meeting-locality",
+    "source:mendoza",
+    "source:mexico-met",
+    "source:nahua-welcome",
+    "source:templo-site",
+    "source:three-narratives",
+    "source:wikidata-place-coordinates"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:carolingians-strasbourg",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-strasbourg-oaths",
+      "role": "supports",
+      "locator": "Notice FRBNF12067726, notes on the four oaths on 14 February 842, languages of the two kings and of their followers, and shelfmark Latin 9768."
+    },
+    {
+      "sourceId": "source:ulb-nithard-transmission",
+      "role": "supports",
+      "locator": "Paragraphs on the surviving manuscripts of Nithard and Paris, Latin 9768, fol. 13r–v."
+    },
+    {
+      "sourceId": "source:steffens-nithard-folio",
+      "role": "supports",
+      "locator": "Plate and commentary headed Paris, Bibliothèque Nationale, Ms. lat. 9768, fols. 13r and 13v. Text and translation: reciprocal obligations and the condition under which followers withhold support."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Zwei Könige sprechen zu den Männern des anderen",
+    "en": "Two kings address each other’s followers"
+  },
+  "participants": [
+    {
+      "entityId": "person:louis-the-german",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:charles-the-bald",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:strasbourg"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:strasbourg-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 842,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 842,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Nithard überliefert die Eide Ludwigs und Karls und die Antworten ihrer Gefolgsleute am 14. Februar 842. Die Karte verortet die Versammlung im Raum Straßburg.",
+      "en": "Nithard records the oaths of Louis and Charles and their followers’ replies on 14 February 842. The map marks the Strasbourg area where the assembly took place."
+    }
+  }
+}

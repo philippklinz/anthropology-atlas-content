@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tokyo-museum-shosoin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Shosoin: Essential Treasures of Ancient Japan Passed Down by the Imperial Family",
+  "sourceType": "catalog",
+  "creators": [
+    "Tokyo National Museum"
+  ],
+  "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=1968&lang=en",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2019"
+}

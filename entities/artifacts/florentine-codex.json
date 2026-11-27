@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:florentine-codex",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:florentine",
+      "role": "supports",
+      "locator": "Opening project description. Nahua elders, authors and artists and Bernardino de Sahagún, parallel Nahuatl/Spanish text, 12 books, completion in 1577 at the Imperial Colegio de la Santa Cruz in Tlatelolco."
+    },
+    {
+      "sourceId": "source:three-narratives",
+      "role": "supports",
+      "locator": "Discussion of the creation of the manuscript and its Nahua authors, including the four named grammarians, rector Martín Jacobita of Tlatelolco, and Antonio Valeriano of Azcapotzalco."
+    },
+    {
+      "sourceId": "source:getty-scribes",
+      "role": "supports",
+      "locator": "Tenochtitlan/Tlatelolco map, circa 1500; slide headed Images of artists/scribes (tlahcuilohqueh), Florentine Codex, Book 11 and the lists of named grammarians and scribes."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Florentiner Codex",
+    "en": "Florentine Codex"
+  }
+}

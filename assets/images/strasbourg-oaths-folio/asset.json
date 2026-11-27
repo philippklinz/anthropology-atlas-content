@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:strasbourg-oaths-folio",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-strasbourg-oaths",
+      "role": "supports",
+      "locator": "Notice FRBNF12067726, notes on the four oaths on 14 February 842, languages of the two kings and of their followers, and shelfmark Latin 9768."
+    },
+    {
+      "sourceId": "source:ulb-nithard-transmission",
+      "role": "supports",
+      "locator": "Paragraphs on the surviving manuscripts of Nithard and Paris, Latin 9768, fol. 13r–v."
+    },
+    {
+      "sourceId": "source:commons-strasbourg-oaths-extract",
+      "role": "supports",
+      "locator": "Summary, shelfmark Latin 9768 fol. 13, link to Gallica image f29, reproduction and licensing section."
+    }
+  ],
+  "assetType": "image",
+  "file": "oaths.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Die Straßburger Eide auf Blatt 13",
+    "en": "The Strasbourg oaths on folio 13"
+  },
+  "alt": {
+    "de": "Eine Spalte mit brauner Schrift auf Pergament. Nahe dem oberen Rand beginnt der romanische Text mit Pro Deo amur. Am rechten Rand sind Anmerkungen zu sehen. Ausschnitt aus einer späteren Abschrift von Nithards Geschichte.",
+    "en": "A column in brown ink on parchment. The Romance text beginning Pro Deo amur starts near the top. Annotations are visible in the right margin. Detail from a later copy of Nithard’s history."
+  },
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Unidentified medieval scribe",
+      "Bibliothèque nationale de France (reproduction)"
+    ],
+    "attribution": "Bibliothèque nationale de France, Latin 9768, fol. 13r. Gallica; extract supplied by Renardeau.arctique via Wikimedia Commons. Public domain.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serments_de_Strasbourg.jpg",
+    "originNote": "Public-domain photographic extract of the medieval manuscript, distributed at the source resolution, 500 × 1000."
+  }
+}

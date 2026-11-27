@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:posen-letter-students-father",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Letter to a Student’s Father (I)",
+  "sourceType": "archive",
+  "creators": [
+    "The Posen Library of Jewish Culture and Civilization"
+  ],
+  "url": "https://www.posenlibrary.com/entry/letter-students-father-i",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:meng-yuanlao",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:meng-yuanlao-dongjing",
+      "role": "supports",
+      "locator": "序 (preface), arrival in 崇寧癸未 and flight after the war. 卷之四, 食店 (book IV, Restaurants), orders, bowls and wages. National Library of China, NLC892-411999008778-118945."
+    },
+    {
+      "sourceId": "source:alimov-meng-yuanlao",
+      "role": "supports",
+      "locator": "Kunstkamera 4 (30), pp. 6–15, especially pp. 6–8 on the preface, Meng’s arrival and his flight from Kaifeng in 1127. English abstract."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Meng Yuanlao",
+    "en": "Meng Yuanlao"
+  }
+}

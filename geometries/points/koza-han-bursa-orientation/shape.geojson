@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:koza-han-bursa-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.0636,
+      40.1844
+    ]
+  }
+}

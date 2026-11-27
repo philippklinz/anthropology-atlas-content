@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:iona-around-the-later-abbey",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iona-history",
+      "role": "supports",
+      "locator": "“The birthplace of Christianity in Scotland” and “Columba’s monastery”. Foundation tradition of 563, timber-building evidence, the later church and the eighth- and ninth-century crosses."
+    },
+    {
+      "sourceId": "source:iona-adomnan",
+      "role": "supports",
+      "locator": "Source Description, Primary Manuscripts no. 1. Schaffhausen Stadtbibliothek, Generalia 1, colophon p. 136a, the two-column copy and the likely date before 713."
+    },
+    {
+      "sourceId": "source:schaffhausen-galway",
+      "role": "supports",
+      "locator": "Origin and Provenance. Dorbbéne’s prayer on p. 136 and the partly erased Reichenau ex-libris at the foot of p. 1."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Iona bei der späteren Abtei",
+    "en": "Iona, around the later abbey"
+  }
+}

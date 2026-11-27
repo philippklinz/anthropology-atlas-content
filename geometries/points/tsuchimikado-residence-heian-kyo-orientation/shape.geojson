@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tsuchimikado-residence-heian-kyo-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      135.7662,
+      35.0236
+    ]
+  }
+}

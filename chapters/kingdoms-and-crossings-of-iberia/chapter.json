@@ -1,0 +1,464 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:kingdoms-and-crossings-of-iberia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:leon-decreta",
+      "role": "supports",
+      "locator": "Editorial introduction on the sixteenth-century copies of the Latin text; heading and articles I (chosen citizens), V (houses, vineyards and avenues for complaint) and VIII (officers entitled to seize goods, working cattle and field labourers)."
+    },
+    {
+      "sourceId": "source:alfonso-games",
+      "role": "supports",
+      "locator": "Manuscript, complete digitisation; Descripción. Colophon naming Seville and 1283, Arabic sources for games, chess, dice and tables, representations of women, men and the monarch playing."
+    },
+    {
+      "sourceId": "source:games-display",
+      "role": "supports",
+      "locator": "Datos técnicos and Descripción. Castilian text, 97 parchment leaves, tilted boards displaying actual positions, women and men playing and the range of cultural backgrounds shown by the illuminators."
+    },
+    {
+      "sourceId": "source:granada-lions",
+      "role": "supports",
+      "locator": "Opening four paragraphs. Work on the palace began in the late 1370s or early 1380s; the twelve-sided basin, the inscription of Ibn Zamrak’s verses, and differences between the lions’ faces and tails."
+    },
+    {
+      "sourceId": "source:granada-poem",
+      "role": "supports",
+      "locator": "Poema de la Fuente de los Leones. Ibn Zamrak’s eulogy of the sultan, garden and fountain inscribed in its white marble basin."
+    },
+    {
+      "sourceId": "source:granada-court",
+      "role": "supports",
+      "locator": "Courtyard, fountain and central cylinder balancing water inflow and outflow; palace in Muhammad V’s second reign, 1362–1391."
+    },
+    {
+      "sourceId": "source:girona-parchment",
+      "role": "supports",
+      "locator": "Collection MHJ035. 10 July 1492, leaders of Girona’s Jewish community, cathedral canons, sale for 300 lliures made under Ferdinand’s expulsion order. Latin parchment in Girona Municipal Archive; related deeds sewn into a 3.6-metre roll of eleven documents."
+    },
+    {
+      "sourceId": "source:girona-site",
+      "role": "supports",
+      "locator": "Opening paragraphs: the last medieval synagogue of Girona was built in 1435 on the site now occupied by the museum and used until 1492."
+    },
+    {
+      "sourceId": "source:iberian-crowns",
+      "role": "supports",
+      "locator": "Chapter 1, Historical Setting, Ferdinand and Isabella. The personal union and the continuing separate political institutions in Castile, Aragon, Catalonia and Valencia."
+    },
+    {
+      "sourceId": "source:meeting-locality",
+      "role": "supports",
+      "locator": "Opening paragraph on the commemorative plaque at Pino Suárez and República de El Salvador, the comparison of possible locations and the concluding identification of the southern approach to Tenochtitlan, 8 November 1519."
+    },
+    {
+      "sourceId": "source:cortes-welcome",
+      "role": "supports",
+      "locator": "Second letter to Charles, excerpt pp. 85–89. Bridge and removable beams; attendants prevent physical contact; later speech in the lodging as reported to Charles."
+    },
+    {
+      "sourceId": "source:nahua-welcome",
+      "role": "supports",
+      "locator": "Book XII, chapter 16. Opening place-names, garlands and necklaces, Moteuczoma’s welcome, Marina interpreting the answer, and the list of the lords accompanying Moteuczoma. This English excerpt presents the later Nahua account."
+    },
+    {
+      "sourceId": "source:cortes-second-print",
+      "role": "supports",
+      "locator": "Bibliographic note Segunda Carta. The letter is dated 30 October 1520 in Segura de la Frontera; first printed at Seville in 1522."
+    }
+  ],
+  "labels": {
+    "de": "Von den Spieltischen in Sevilla bis zum Brief an Karl",
+    "en": "From the gaming tables of Seville to a letter for Charles"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:medieval-iberia-leon-1188",
+    "event:medieval-iberia-seville-games",
+    "event:medieval-iberia-granada-lions",
+    "event:medieval-iberia-girona-sale",
+    "event:meeting-of-moteuczoma-and-cortes-1519",
+    "person:alfonso-ix-of-leon",
+    "artifact:alfonso-x-book-of-games",
+    "artifact:fountain-of-the-lions-granada",
+    "community:jewish-community-of-girona"
+  ],
+  "steps": [
+    {
+      "id": "leon-1188",
+      "textAnchor": "leon-1188",
+      "labels": {
+        "de": "1188 · Bürger in der Versammlung von León",
+        "en": "1188 · Townspeople at the gathering in León"
+      },
+      "summary": {
+        "de": "Alfons IX. ließ in León die Beteiligung gewählter Bürger und Regeln zum Schutz von Häusern, Weinbergen und Zugvieh festhalten. Der Punkt markiert die Stadt.",
+        "en": "At León, Alfonso IX recorded the participation of chosen citizens and provisions for protecting homes, vineyards and working cattle. The marker locates the city."
+      },
+      "state": {
+        "camera": {
+          "longitude": -5.57,
+          "latitude": 42.6056,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1188,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1188,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "seville-games",
+      "textAnchor": "seville-games",
+      "labels": {
+        "de": "1283 · Schach, Würfel und Brettsteine",
+        "en": "1283 · Chess, dice and tables"
+      },
+      "summary": {
+        "de": "Der Schlussvermerk nennt Sevilla als Ort, an dem das Buch der Spiele 1283 begonnen und vollendet wurde.",
+        "en": "The colophon identifies Seville as the city where the Book of Games was begun and completed in 1283."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6,
+          "latitude": 37.4,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1283,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1283,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "granada-lions",
+      "textAnchor": "granada-lions",
+      "labels": {
+        "de": "Um 1380 · Ein Palasthof für Muhammad V.",
+        "en": "Around 1380 · A palace courtyard for Muhammad V"
+      },
+      "summary": {
+        "de": "Der Sultan ließ um 1380 mit dem Bau beginnen. Ibn Zamraks Gedicht steht am Becken des Löwenbrunnens. Der Beginn der Arbeiten ist nur ungefähr datiert.",
+        "en": "The sultan initiated construction around 1380. Ibn Zamrak’s poem is inscribed on the fountain basin. The start of the works can only be dated approximately."
+      },
+      "state": {
+        "camera": {
+          "longitude": -3.58925,
+          "latitude": 37.17706,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1375,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1384,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "girona-sale",
+      "textAnchor": "girona-sale",
+      "labels": {
+        "de": "1492 · Verkauf des Synagogengrundstücks",
+        "en": "1492 · The sale of synagogue premises"
+      },
+      "summary": {
+        "de": "Nach Ferdinands Ausweisungsbefehl verkauften Gemeindevertreter am 10. Juli die Synagogenräume an die Domherren von Girona.",
+        "en": "On 10 July, following Ferdinand’s expulsion order, community representatives sold the synagogue premises to the canons of Girona Cathedral."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.8242,
+          "latitude": 41.9867,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1492,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1492,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "causeway-1519",
+      "textAnchor": "causeway-1519",
+      "labels": {
+        "de": "1519 · Ein Empfang im Brief an Karl",
+        "en": "1519 · A welcome in the letter to Charles"
+      },
+      "summary": {
+        "de": "Cortés schildert die Begegnung mit Moteuczoma II. im zweiten Brief an Karl. Die Karte zeigt den südlichen Zugang zur Stadt als ungefähre Ortsangabe.",
+        "en": "In his second letter to Charles, Cortés described meeting Moteuczoma II. The southern approach to the city is shown as a general location."
+      },
+      "state": {
+        "camera": {
+          "longitude": -99.133,
+          "latitude": 19.428,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1519,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1519,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Bürger in León, Schachspieler in Sevilla, ein Dichter in Granada und die jüdische Gemeinde von Girona hinterließen ganz verschiedene Texte. Cortés’ Brief führt zur Nahua-Überlieferung derselben Begegnung.",
+      "en": "Citizens of León, chess players in Seville, a poet in Granada and the Jewish community of Girona left very different texts. A letter from Cortés leads to a Nahua account of the same encounter."
+    },
+    "topics": [
+      {
+        "id": "medieval-iberia",
+        "labels": {
+          "de": "Mittelalterliche Iberische Halbinsel",
+          "en": "Medieval Iberia"
+        }
+      },
+      {
+        "id": "books-and-writing",
+        "labels": {
+          "de": "Bücher und Schrift",
+          "en": "Books and writing"
+        }
+      },
+      {
+        "id": "charters-and-law",
+        "labels": {
+          "de": "Urkunden und Recht",
+          "en": "Charters and law"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      },
+      {
+        "id": "early-modern",
+        "labels": {
+          "de": "Frühe Neuzeit",
+          "en": "Early modern period"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "iberian-peninsula",
+        "labels": {
+          "de": "Iberische Halbinsel",
+          "en": "Iberian Peninsula"
+        }
+      },
+      {
+        "id": "mesoamerica",
+        "labels": {
+          "de": "Mesoamerika",
+          "en": "Mesoamerica"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -48.1544,
+      "latitude": 31.0168,
+      "metersPerPixel": 30395,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1188,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1188,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1519,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1519,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:alfonso-x-book-of-games",
+    "artifact:fountain-of-the-lions-granada",
+    "artifact:girona-synagogue-sale-deed",
+    "community:jewish-community-of-girona",
+    "event:medieval-iberia-girona-sale",
+    "event:medieval-iberia-granada-lions",
+    "event:medieval-iberia-leon-1188",
+    "event:medieval-iberia-seville-games",
+    "event:meeting-of-moteuczoma-and-cortes-1519",
+    "geometry:court-of-the-lions-alhambra-granada-orientation",
+    "geometry:jewish-quarter-of-girona-orientation",
+    "geometry:leon-orientation",
+    "geometry:seville-orientation",
+    "geometry:tenochtitlan-southern-approach-orientation",
+    "person:alfonso-ix-of-leon",
+    "person:hernan-cortes",
+    "person:malintzin",
+    "person:moteuczoma-ii",
+    "place:court-of-the-lions-alhambra-granada",
+    "place:jewish-quarter-of-girona",
+    "place:leon",
+    "place:seville",
+    "place:tenochtitlan-southern-approach",
+    "source:alfonso-games",
+    "source:cortes-second-print",
+    "source:cortes-welcome",
+    "source:games-display",
+    "source:girona-parchment",
+    "source:girona-site",
+    "source:granada-court",
+    "source:granada-lions",
+    "source:granada-poem",
+    "source:iberian-crowns",
+    "source:leon-decreta",
+    "source:meeting-locality",
+    "source:nahua-welcome",
+    "source:pigafetta-stanley",
+    "source:wikidata-place-coordinates"
+  ]
+}

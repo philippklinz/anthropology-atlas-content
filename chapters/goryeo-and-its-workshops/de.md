@@ -1,0 +1,29 @@
+# Ein Löwe aus Ton und eine Nonne im Druckvermerk
+
+Ein Löwe mit offenem Maul sitzt auf dem Deckel eines Räuchergefäßes. Durch seinen Rachen kann der Rauch nach draußen ziehen. So haben es Töpfer im Reich Goryeo vor rund neunhundert Jahren angelegt. Ein Besucher aus China fand einen solchen Löwen so bemerkenswert, dass er ihn für seinen Kaiser beschrieb. Bei anderen Arbeiten erfahren wir die Namen der Beteiligten erst, weil jemand sie in ein fertiges Werk eintrug. Am Ende eines buddhistischen Buches aus Cheongju steht der Name einer Frau, deren Spende den Druck möglich machte. Zwischen beiden Zeugnissen liegen gut zweihundertfünfzig Jahre und die Überreste von Werkstätten, in denen die meisten Menschen ohne Namenszug arbeiteten.
+
+## Was Xu Jing seinem Kaiser erzählen wollte {#gaegyeong}
+
+1123 reiste Xu Jing im Gefolge einer Gesandtschaft des Song-Kaisers Huizong nach Gaegyeong, der Hauptstadt Goryeos beim heutigen Kaesong. Etwa einen Monat blieb er im Land. Zu Hause legte er dem Kaiser ein illustriertes Werk über die Reise vor. Die Bilder gingen verloren. Ausgerechnet für Dinge, an denen ihm eine Farbe wichtig war, müssen wir uns deswegen mit seinen Worten behelfen.
+
+Xu Jing beschreibt ein Räuchergefäß mit jadegrüner Glasur. Auf einem Lotus kauert ein Tier. Um seinen Lesern die Farbe nahezubringen, nennt er Erzeugnisse chinesischer Brennöfen, deren Aussehen sie kennen konnten. Im Koreanischen Nationalmuseum lässt sich heute ein Löwendeckel betrachten, der seiner Beschreibung nahekommt. Der halb offene Rachen, die kräftigen Tatzen und die nach unten hängenden Ohren sind einzeln modelliert. Die Öffnung im Maul gehört auch zur Funktion des Gefäßes. Legte man Weihrauch in die Schale, stieg der Rauch durch den Kopf des Tieres auf. Das überlieferte Exemplar macht Xu Jings Beobachtung verständlicher. Ob genau dieser Löwe vor ihm stand, lässt sich aus seiner Beschreibung nicht entscheiden.
+
+## Die Farbe auf einem Dach {#sadang}
+
+An der Südwestküste bei Gangjin fanden Ausgräber in Sadang-ri die Überreste von Brennöfen, Werkzeuge und große Mengen Keramikscherben. Hier wurde unter anderem für den Hof gearbeitet. Die grünliche Farbe, die einen Gesandten so beeindruckte, kam erst beim Brennen zustande. Bei Gefäßen mit Einlagen ritzten die Töpfer Linien oder größere Vertiefungen in den angetrockneten Ton und füllten sie mit hellem oder dunklem Tonschlicker. Dann kam eine durchscheinende Glasur darüber. Am fertigen Gefäß konnte man Muster und Grund durch dieselbe glänzende Oberfläche hindurch sehen.
+
+Unter den Funden waren auch glasierte Dachziegel. Die Reichsgeschichte Goryeosa erwähnt für das Jahr 1157 einen Pavillon des Königs Uijong mit einem Dach aus Seladonziegeln. Wer ein solches Dach von unten betrachtete, sah die Farbe vieler nebeneinanderliegender Stücke. Ein einzelner Ziegel konnte tadellos ausfallen, ohne dass damit schon das Material für ein gleichmäßiges Dach beisammen war. Der Bericht datiert den Bau des Pavillons. In der Werkstatt selbst liegt für die einzelnen Ziegel ein weiterer Zeitraum vor. Die Karte zeigt deshalb bei Sadang-ri das zwölfte Jahrhundert. Für den Weg eines bestimmten dort gefundenen Stücks bis aufs Königsdach haben wir keinen Beleg.
+
+## Was sich in der Verpackung erhalten hat {#sinan}
+
+1323 ging zwischen den Inseln Imjado und Jeungdo ein Handelsschiff unter. Viele seiner Schüsseln und Teller stammten aus China. Dass sie heute vor der koreanischen Küste gefunden werden, erzählt zunächst einmal vom Ende dieser Fahrt. Für den [wahrscheinlichen Ausgangshafen Qingyuan](chapter:cities-and-records-in-medieval-china#qingyuan) und die [japanischen Auftraggeber](chapter:court-and-coast-in-medieval-japan#tofukuji) gibt es andere Indizien an Bord.
+
+Auch die Verpackung lohnt einen Blick. Zwischen den Hölzern der Kisten ließen sich verschiedene Baumarten unterscheiden. Bei 21 Kisten stimmten die Jahresringfolgen mit Vergleichsreihen japanischer Sicheltannen aus dem Westen Japans überein. Wer zur Geschichte eines Tellers nur Brennofen und Absatzgebiet einträgt, würde leicht übersehen, dass schon die Bäume für einen Teil der Kisten anderswo gewachsen waren. Die Jahresringe verraten weder den Namen eines Verpackers noch jeden Weg, den ein Brett vor seiner letzten Reise genommen hat. Die Kisten kamen zusammen mit der Ladung ans Licht, nachdem ein Fischer 1975 Keramik in seinem Netz entdeckt hatte. Über mehrere Sommer bargen Taucher Hölzer, zehntausende Gegenstände und rund 28 Tonnen Münzen.
+
+## Ein schiefes Schriftzeichen in Cheongju {#heungdeoksa}
+
+1377 erschienen im Kloster Heungdeoksa bei Cheongju zwei Bände mit Lehrworten buddhistischer Meister. Der Mönch Baegun hatte die Sammlung zusammengestellt und war inzwischen gestorben. Seine Schüler Seokchan und Daljam betreuten den Druck. Myodeok, eine buddhistische Nonne, half, ihn zu finanzieren. Man kennt diese Namen aus der Überlieferung des Buches, das heute meist kurz Jikji heißt. Der Schlussvermerk nennt den Herstellungsort und die gegossenen Lettern. Der erhaltene Band ist das älteste bekannte Buch, von dem ein Druck mit beweglichen Metalllettern überliefert ist.
+
+Im erhaltenen zweiten Band steht ein Zeichen für „Mensch“ leicht schräg, ein anderes Zeichen fehlt. Beim Zusammenstellen einer Seite aus einzelnen Typen konnte sich ein einzelnes Zeichen verdrehen oder ausfallen. An solchen kleinen Unregelmäßigkeiten lässt sich der Arbeitsschritt am fertigen Blatt wiedererkennen. Schon im folgenden Jahr entstand eine weitere Ausgabe mit geschnittenen Holztafeln. Von dieser ist auch der erste Band überliefert. Wer heute beide Drucke vergleicht, kann also einen Textteil lesen, der im erhaltenen Exemplar mit Metalllettern fehlt. So trug Myodeoks Spende zu einer Überlieferung bei, die Menschen an mehreren Orten und mit unterschiedlichen Handgriffen fortsetzten.
+
+[Weitere Wege durch historische Quellen](chapter:reading-history-through-objects)

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:granada-poem",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Descifrando el Patio de los Leones",
+  "sourceType": "website",
+  "creators": [
+    "Patronato de la Alhambra y Generalife"
+  ],
+  "url": "https://www.alhambra-patronato.es/disfrutar/descifrando-el-patio-de-los-leones",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:naissus-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Naissus, Niš",
+  "sourceType": "dataset",
+  "creators": [
+    "Vici.org Archaeological Atlas"
+  ],
+  "url": "https://vici.org/vici/2076?lang=en",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:alfonso-games",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Libro del axedrez, dados e tablas",
+  "sourceType": "archive",
+  "creators": [
+    "Alfonso X and the royal scriptorium; Real Biblioteca del Monasterio de El Escorial"
+  ],
+  "url": "https://rbme.patrimonionacional.es/s/rbme/item/13125",
+  "language": "es",
+  "accessedAt": "2026-11-27",
+  "published": "1283"
+}

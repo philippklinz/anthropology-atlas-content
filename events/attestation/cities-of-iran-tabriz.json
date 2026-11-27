@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-iran-tabriz",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iranica-foundation",
+      "role": "supports",
+      "locator": "Opening paragraphs locate the Tabriz foundation and date the endowment deed to 9 August 1309. The surviving ruins give the approximate quarter."
+    },
+    {
+      "sourceId": "source:iranica-rashid-world-history-illustrations",
+      "role": "supports",
+      "locator": "Opening discussion of the endowment document and its later appendix. Paper, goatskin binding, checks, Arabic and Persian copies and loans of exemplars."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Raschid ad-Dins Stiftungsurkunde",
+    "en": "Rashid al-Din’s endowment deed"
+  },
+  "participants": [
+    {
+      "entityId": "person:rashid-al-din-fadlallah",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:rab-e-rashidi-tabriz"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:rab-e-rashidi-tabriz-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1309,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1309,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "1309 regelte Raschid ad-Din den Betrieb seiner Stiftung bei Täbris. Ein späterer Nachtrag legte die zweisprachige Vervielfältigung eigener Werke fest. Der Punkt zeigt das Stiftungsviertel.",
+      "en": "Rashid al-Din recorded the workings of his Tabriz foundation in 1309. A later appendix provided for copying his works in two languages. The point marks the foundation quarter."
+    }
+  }
+}

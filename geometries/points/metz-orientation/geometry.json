@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:metz-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golden-bull-bohemia",
+      "role": "supports",
+      "locator": "AT-OeStA/HHStA UR AUR 9228. Dates and places, regest, extent and seal description: only the Nuremberg part of this copy bears a golden seal of 66.6–67.2 mm in diameter."
+    },
+    {
+      "sourceId": "source:golden-bull-chapters",
+      "role": "supports",
+      "locator": "Panel Die Goldene Bulle. Chapters 1–23 at Nuremberg and 24–31 at Metz in 1356, name from the gold seal, surviving original copies."
+    },
+    {
+      "sourceId": "source:schlotheuber-languages",
+      "role": "supports",
+      "locator": "pp. 365–366, especially n. 46 quoting ch. 31. Languages for lay electoral heirs, age requirements, Latin and the interpretation of the Slavic language as Czech."
+    },
+    {
+      "sourceId": "source:golden-bull-henderson",
+      "role": "supports",
+      "locator": "Ch. 31, two final paragraphs. Early language instruction for the four lay electoral families and the choice between sending children away and engaging experienced teachers at home."
+    },
+    {
+      "sourceId": "source:metz-geo",
+      "role": "supports",
+      "locator": "GeonameId 2994160, town centre coordinates 49.11911 N, 6.17269 E."
+    },
+    {
+      "sourceId": "source:metz-geo",
+      "role": "derivation",
+      "locator": "GeoNames ID 2994160. Town reference for the second set of chapters."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Point rounded for Anthropology Atlas. https://creativecommons.org/licenses/by/4.0/",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://www.geonames.org/2994160/metz.html"
+  }
+}

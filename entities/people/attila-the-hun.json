@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:attila-the-hun",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:aquileia-border",
+      "role": "supports",
+      "locator": "Bonetto and Tiussi, city history on pp. 16–17. The sack in 452, its impact and continuing settlement around the episcopal complex. Photographs and plans of the river port."
+    },
+    {
+      "sourceId": "source:aquileia-unesco",
+      "role": "supports",
+      "locator": "Brief synthesis and property 825quater. Role of Mediterranean trade routes and the river port, surviving quays and warehouses, coordinate of the archaeological area."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Attila",
+    "en": "Attila"
+  }
+}

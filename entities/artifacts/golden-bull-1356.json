@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:golden-bull-1356",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golden-bull-bohemia",
+      "role": "supports",
+      "locator": "AT-OeStA/HHStA UR AUR 9228. Dates and places, regest, extent and seal description: only the Nuremberg part of this copy bears a golden seal of 66.6–67.2 mm in diameter."
+    },
+    {
+      "sourceId": "source:golden-bull-ghi",
+      "role": "supports",
+      "locator": "Introduction and chs. 1–4. Seven electors, meeting at Frankfurt, voting, confirmation of electors’ rights and precedence."
+    },
+    {
+      "sourceId": "source:golden-bull-chapters",
+      "role": "supports",
+      "locator": "Panel Die Goldene Bulle. Chapters 1–23 at Nuremberg and 24–31 at Metz in 1356, name from the gold seal, surviving original copies."
+    },
+    {
+      "sourceId": "source:nuremberg-geo",
+      "role": "supports",
+      "locator": "GeonameId 2861650, town centre coordinates 49.45421 N, 11.07752 E."
+    },
+    {
+      "sourceId": "source:schlotheuber-languages",
+      "role": "supports",
+      "locator": "pp. 365–366, especially n. 46 quoting ch. 31. Languages for lay electoral heirs, age requirements, Latin and the interpretation of the Slavic language as Czech."
+    },
+    {
+      "sourceId": "source:golden-bull-henderson",
+      "role": "supports",
+      "locator": "Ch. 31, two final paragraphs. Early language instruction for the four lay electoral families and the choice between sending children away and engaging experienced teachers at home."
+    },
+    {
+      "sourceId": "source:metz-geo",
+      "role": "supports",
+      "locator": "GeonameId 2994160, town centre coordinates 49.11911 N, 6.17269 E."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Goldene Bulle von 1356",
+    "en": "Golden Bull of 1356"
+  }
+}

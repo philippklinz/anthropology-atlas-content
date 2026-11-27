@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:deer-gospel",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Cambridge, University Library, MS Ii.6.32: Gospel Book (The Book of Deer)",
+  "sourceType": "catalog",
+  "creators": [
+    "Cambridge University Library"
+  ],
+  "url": "https://medieval.lib.cam.ac.uk/catalogue/University%20Library/MS-II-00006-00032",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

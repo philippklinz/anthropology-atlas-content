@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:viking-age-oseberg",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:oseberg-sleighs",
+      "role": "supports",
+      "locator": "Opening account of the burial and the four sleighs, followed by “Carvings and ornamentation”. The museum distinguishes three richly carved sleighs and discusses their use before burial."
+    },
+    {
+      "sourceId": "source:viking-word",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Chronicle and the Irish annals, Old Norse víking/víkingr and the raiding voyages underlying one sense of the term."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Zwei Frauen im Osebergschiff",
+    "en": "Two women in the Oseberg ship"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:oseberg-ship",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:oseberg-sleighs",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:oseberg-burial-mound"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:oseberg-burial-mound-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 834,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 834,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Zwei Frauen wurden mit dem schon benutzten Schiff und vier Schlitten beigesetzt. Die Karte zeigt den Grabhügel bei Tønsberg.",
+      "en": "Two women were buried with a ship that had already been in use and four sleighs. The map shows the burial mound near Tønsberg."
+    }
+  }
+}

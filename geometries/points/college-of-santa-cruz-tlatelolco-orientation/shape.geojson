@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:college-of-santa-cruz-tlatelolco-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.1367,
+      19.4509
+    ]
+  }
+}

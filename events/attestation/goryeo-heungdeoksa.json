@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:goryeo-heungdeoksa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-jikji-printing",
+      "role": "supports",
+      "locator": "“What is Jikji?” Two volumes, only the second extant from the 1377 edition, and the 1378 woodblock edition."
+    },
+    {
+      "sourceId": "source:cheongju-museum-metal-type",
+      "role": "supports",
+      "locator": "Section “The oldest movable metal type book” and captioned examples of tilted 人 and missing 動. Baegun, Seokchan, Daljam, Myodeok and the Heungdeoksa printing."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Myodeok hilft, das Jikji zu drucken",
+    "en": "Myodeok helps pay for the printing of Jikji"
+  },
+  "participants": [
+    {
+      "entityId": "person:myodeok",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:jikji-heungdeoksa-print",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:heungdeoksa-monastery-near-cheongju"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:heungdeoksa-monastery-near-cheongju-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1377,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1377,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Im Kloster Heungdeoksa erscheint eine Sammlung buddhistischer Lehrworte mit beweglichen Metalllettern. Der erhaltene zweite Band nennt die Nonne Myodeok unter den Beteiligten.",
+      "en": "A collection of Buddhist teachings is printed with movable metal type at Heungdeoksa. The surviving second volume names the nun Myodeok among the contributors."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:casiopeia-skuldelev-two-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Skuldelev II: the excavated longship in the ship hall",
+  "sourceType": "catalog",
+  "creators": [
+    "Casiopeia"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Skuldelev_II.jpg",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "published": "2004"
+}

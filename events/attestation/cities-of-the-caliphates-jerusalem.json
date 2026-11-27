@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:cities-of-the-caliphates-jerusalem",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:milwright-dome-rock-mosaics",
+      "role": "supports",
+      "locator": "Chapters 2 and 6 and conclusion on the inscription of AH 72 and its possible meaning as a foundation date."
+    },
+    {
+      "sourceId": "source:donner-muhammad-and-believers",
+      "role": "supports",
+      "locator": "Appendix translating the mosaic inscriptions, with introductory notes on the date and alterations to the caliph’s name. Outer and inner faces of the arcade."
+    },
+    {
+      "sourceId": "source:met-dome-rock-jerusalem",
+      "role": "supports",
+      "locator": "Octagonal ambulatory, mosaics, vegetal ornament, the architectural setting and the patron Abd al-Malik."
+    },
+    {
+      "sourceId": "source:watts-saracen-romance",
+      "role": "supports",
+      "locator": "Page 27 and note 45 on the variable meaning of Saracen in medieval Christian writing."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Das Jahr 72 im Felsendom",
+    "en": "The year 72 in the Dome of the Rock"
+  },
+  "participants": [
+    {
+      "entityId": "person:abd-al-malik-ibn-marwan",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:dome-of-the-rock-jerusalem"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:dome-of-the-rock-jerusalem-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 691,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 692,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Ein Mosaikband trägt das Jahr 72 der Hidschra. Die historische Datierung ist sicherer als die Frage, ob diese Jahreszahl die Gründung oder die Fertigstellung des Baus bezeichnete.",
+      "en": "A mosaic inscription bears the year 72 of the Hijra. The date itself is more certain than whether it marked the foundation of the building or its completion."
+    }
+  }
+}

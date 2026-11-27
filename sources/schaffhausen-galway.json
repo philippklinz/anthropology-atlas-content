@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schaffhausen-galway",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Schaffhausen Adomnán, CLA 7/998",
+  "sourceType": "catalog",
+  "creators": [
+    "Earlier Latin Manuscripts, University of Galway"
+  ],
+  "url": "https://elmss.universityofgalway.ie/catalogue/1464",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

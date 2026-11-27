@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:templo-mayor-tenochtitlan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dedication-plaque",
+      "role": "supports",
+      "locator": "Curator’s object description, the numeral and reed for 1487, the two rulers Tízoc and Ahuítzotl making blood offerings, the bundle between them and the probable ceremonial-square display."
+    },
+    {
+      "sourceId": "source:templo-site",
+      "role": "supports",
+      "locator": "Archaeological zone, Guatemala 60, Centro Histórico, and Datos generales, site of the principal building of ancient Tenochtitlan."
+    },
+    {
+      "sourceId": "source:mexico-met",
+      "role": "supports",
+      "locator": "Overview; Key Events, ca. 1427 and ca. 1431. Tenochtitlan’s alliance with Texcoco and Tlacopan, Azcapotzalco, indirect rule, tribute and Tlaxcala’s autonomy. Earlier enlargements of the main temple."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Templo Mayor, Tenochtitlan",
+    "en": "Templo Mayor, Tenochtitlan"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:skidmore-palenque",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Rulers of Palenque: A Beginner’s Guide, third edition",
+  "sourceType": "book",
+  "creators": [
+    "Joel Skidmore, with illustrations by Merle Greene Robertson"
+  ],
+  "url": "https://www.mesoweb.com/palenque/resources/rulers/PalenqueRulers-03.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2008"
+}

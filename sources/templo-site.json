@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:templo-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Templo Mayor",
+  "sourceType": "catalog",
+  "creators": [
+    "Sistema de Información Cultural, Secretaría de Cultura and INAH"
+  ],
+  "url": "https://sic.cultura.gob.mx/ficha.php?estado_id=9&table=zona_arqueologica&table_id=28",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

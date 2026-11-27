@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:happo-port",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "합포 (Happo)",
+  "sourceType": "website",
+  "creators": [
+    "Academy of Korean Studies, Encyclopedia of Korean Culture"
+  ],
+  "url": "https://encykorea.aks.ac.kr/Article/E0062374",
+  "language": "ko",
+  "accessedAt": "2026-11-27"
+}

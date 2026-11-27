@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:istanbul-world-heritage-maps",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Historic Areas of Istanbul — Maps",
+  "sourceType": "dataset",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/356/maps/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

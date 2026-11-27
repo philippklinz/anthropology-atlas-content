@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:granada-lions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "La fuente de los Leones de la Alhambra",
+  "sourceType": "article",
+  "creators": [
+    "José González Vílchez, Patronato de la Alhambra y Generalife"
+  ],
+  "url": "https://www.alhambra-patronato.es/la-fuente-de-los-leones-de-la-alhambra",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

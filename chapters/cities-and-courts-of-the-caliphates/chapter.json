@@ -1,0 +1,386 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:cities-and-courts-of-the-caliphates",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:watts-saracen-romance",
+      "role": "supports",
+      "locator": "Page 27 and note 45 on the variable meaning of Saracen in medieval Christian writing."
+    },
+    {
+      "sourceId": "source:milwright-dome-rock-mosaics",
+      "role": "supports",
+      "locator": "Chapters 2 and 6 and conclusion on the inscription of AH 72 and its possible meaning as a foundation date."
+    },
+    {
+      "sourceId": "source:donner-muhammad-and-believers",
+      "role": "supports",
+      "locator": "Appendix translating the mosaic inscriptions, with introductory notes on the date and alterations to the caliph’s name. Outer and inner faces of the arcade."
+    },
+    {
+      "sourceId": "source:met-dome-rock-jerusalem",
+      "role": "supports",
+      "locator": "Octagonal ambulatory, mosaics, vegetal ornament, the architectural setting and the patron Abd al-Malik."
+    },
+    {
+      "sourceId": "source:archnet-round-city-baghdad",
+      "role": "supports",
+      "locator": "Site description. City founded in 762, the gates named for four destinations, administrative buildings, central mosque and palace."
+    },
+    {
+      "sourceId": "source:micheau-baghdad-imperial-foundation",
+      "role": "supports",
+      "locator": "The Cambridge World History, chapter 19, 762 foundation under al-Mansur, use of contemporary testimony and later changes of residence."
+    },
+    {
+      "sourceId": "source:egypt-monuments-rawda-nilometer",
+      "role": "supports",
+      "locator": "Site location and profile. Rebuilding in AH 247, octagonal graduated column, uses of readings for irrigation and taxation."
+    },
+    {
+      "sourceId": "source:cambridge-discarded-history-genizah",
+      "role": "supports",
+      "locator": "Synagogue, item 3, inventory dated 1080, T-S 20.47. Schoolroom, item 2, letter T-S Ar.53.65, separately dated to the eleventh or twelfth century."
+    },
+    {
+      "sourceId": "source:posen-letter-students-father",
+      "role": "supports",
+      "locator": "Translated letter and catalogue data for T-S Ar.53.65, including the note about the child’s writing board."
+    },
+    {
+      "sourceId": "source:egypt-monuments-historic-cairo",
+      "role": "supports",
+      "locator": "Account of the foundation of the Fatimid city in 969 in relation to the older settlements."
+    }
+  ],
+  "labels": {
+    "de": "Ein Kalif im Mosaik und ein Schuljunge in Fustat",
+    "en": "A caliph in mosaic and a schoolboy in Fustat"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:cities-of-the-caliphates-jerusalem",
+    "event:cities-of-the-caliphates-baghdad",
+    "event:cities-of-the-caliphates-rawda",
+    "event:cities-of-the-caliphates-fustat",
+    "person:abd-al-malik-ibn-marwan",
+    "person:abu-jafar-al-mansur",
+    "artifact:rawda-nilometer",
+    "artifact:fustat-synagogue-inventory-1080"
+  ],
+  "steps": [
+    {
+      "id": "jerusalem",
+      "textAnchor": "jerusalem",
+      "labels": {
+        "de": "691/92, Jahr 72 der Hidschra · Das Jahr 72 im Felsendom",
+        "en": "691–92, year 72 of the Hijra · The year 72 in the Dome of the Rock"
+      },
+      "summary": {
+        "de": "Ein Mosaikband trägt das Jahr 72 der Hidschra. Die historische Datierung ist sicherer als die Frage, ob diese Jahreszahl die Gründung oder die Fertigstellung des Baus bezeichnete.",
+        "en": "A mosaic inscription bears the year 72 of the Hijra. The date itself is more certain than whether it marked the foundation of the building or its completion."
+      },
+      "state": {
+        "camera": {
+          "longitude": 35.2354,
+          "latitude": 31.778,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 691,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 692,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "baghdad",
+      "textAnchor": "baghdad",
+      "labels": {
+        "de": "762 · Die Gründung der neuen Residenz",
+        "en": "762 · The foundation of a new residence"
+      },
+      "summary": {
+        "de": "Al-Mansur ließ am Tigris die geplante Residenzstadt errichten. Der Kartenpunkt bezeichnet das Gebiet am Westufer. Den genauen Verlauf der Ringmauern können wir dort nicht ablesen.",
+        "en": "Al-Mansur began laying out a new court city by the Tigris. The point marks the area on the western bank. Its ancient circular walls can no longer be traced there."
+      },
+      "state": {
+        "camera": {
+          "longitude": 44.335,
+          "latitude": 33.3475,
+          "metersPerPixel": 4500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 762,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 762,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "rawda",
+      "textAnchor": "rawda",
+      "labels": {
+        "de": "861 · Ein neuer Pegel auf der Nilinsel",
+        "en": "861 · A new gauge on the Nile island"
+      },
+      "summary": {
+        "de": "861 entstand auf der Insel ein neuer Pegel. Eine achteckige Säule machte unterschiedliche Wasserstände messbar und damit für die Bewässerung und die Steuerfestsetzung nutzbar.",
+        "en": "A new gauge was built on the island in 861. Graduations on an octagonal column measured changing water levels for irrigation and tax assessment."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.225,
+          "latitude": 30.0069,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 861,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 861,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "fustat",
+      "textAnchor": "fustat",
+      "labels": {
+        "de": "1080 · Die Synagogenausstattung im Inventar",
+        "en": "1080 · A synagogue’s furnishings in an inventory"
+      },
+      "summary": {
+        "de": "Ein Inventar von 1080 verzeichnet die Güter einer Synagoge in Fustat. Aus demselben überlieferten Papierbestand stammt ein gesondert datierter Lehrerbrief. Der Punkt zeigt den Aufbewahrungsort der Geniza.",
+        "en": "An inventory from 1080 lists possessions of a synagogue in Fustat. A teacher’s letter preserved in the same collection has a separate date. The point marks the synagogue that housed the Genizah."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.231,
+          "latitude": 30.0058,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1080,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1080,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Wer in Jerusalem am Mosaik entlangliest, begegnet zwei Kalifen in einem Schriftband. In Bagdad und Ägypten führen Baupläne, ein Nilpegel und der Brief eines Lehrers zu Menschen, über die das europäische Wort „Sarazenen“ wenig verrät.",
+      "en": "A mosaic in Jerusalem preserves traces of two caliphs in a single inscription. A plan of Baghdad, a Nile gauge and a teacher’s letter from Egypt open up lives that the European word “Saracens” scarcely describes."
+    },
+    "topics": [
+      {
+        "id": "cities-of-the-caliphates",
+        "labels": {
+          "de": "Städte der Kalifate",
+          "en": "Cities of the caliphates"
+        }
+      },
+      {
+        "id": "books-and-writing",
+        "labels": {
+          "de": "Bücher und Schrift",
+          "en": "Books and writing"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      },
+      {
+        "id": "mesopotamia",
+        "labels": {
+          "de": "Mesopotamien",
+          "en": "Mesopotamia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 37.78,
+      "latitude": 31.67665,
+      "metersPerPixel": 3881,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 691,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 691,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1080,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1080,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:fustat-synagogue-inventory-1080",
+    "artifact:rawda-nilometer",
+    "event:cities-of-the-caliphates-baghdad",
+    "event:cities-of-the-caliphates-fustat",
+    "event:cities-of-the-caliphates-jerusalem",
+    "event:cities-of-the-caliphates-rawda",
+    "geometry:ben-ezra-synagogue-fustat-orientation",
+    "geometry:dome-of-the-rock-jerusalem-orientation",
+    "geometry:nilometer-rawda-island-orientation",
+    "geometry:west-bank-of-the-tigris-baghdad-orientation",
+    "person:abd-al-malik-ibn-marwan",
+    "person:abu-jafar-al-mansur",
+    "place:ben-ezra-synagogue-fustat",
+    "place:dome-of-the-rock-jerusalem",
+    "place:nilometer-rawda-island",
+    "place:west-bank-of-the-tigris-baghdad",
+    "source:archnet-round-city-baghdad",
+    "source:cambridge-discarded-history-genizah",
+    "source:donner-muhammad-and-believers",
+    "source:egypt-monuments-historic-cairo",
+    "source:egypt-monuments-rawda-nilometer",
+    "source:met-dome-rock-jerusalem",
+    "source:micheau-baghdad-imperial-foundation",
+    "source:milwright-dome-rock-mosaics",
+    "source:posen-letter-students-father",
+    "source:watts-saracen-romance",
+    "source:wikidata-place-coordinates"
+  ]
+}

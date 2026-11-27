@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:micheau-baghdad-imperial-foundation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Baghdad, an imperial foundation (762–836CE)",
+  "sourceType": "book",
+  "creators": [
+    "Françoise Micheau, Cambridge University Press"
+  ],
+  "url": "https://www.cambridge.org/core/books/abs/cambridge-world-history/baghdad-an-imperial-foundation-762836ce/BF772E2AAF4E5677A881AB43FFBB79F2",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2015"
+}

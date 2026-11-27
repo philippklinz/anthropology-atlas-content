@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:egypt-monuments-rawda-nilometer",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Rawda Island Nilometer",
+  "sourceType": "article",
+  "creators": [
+    "Egyptian Ministry of Tourism and Antiquities"
+  ],
+  "url": "https://egymonuments.gov.eg/en/monuments/rawda-island-nilometer",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kim-sinan-boxes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Species identification and tree-ring dating of wood boxes excavated from the Shinan shipwreck, Korea",
+  "sourceType": "article",
+  "creators": [
+    "Yojung Kim, Yong-Hee Yoon, Takumi Mitsutani, Whan-Suk Moon and Won-Kyu Park"
+  ],
+  "url": "https://cir.nii.ac.jp/crid/1360306913483422976",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2013"
+}

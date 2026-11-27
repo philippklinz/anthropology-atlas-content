@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:christenson",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Popol Vuh: Sacred Book of the Quiché Maya People",
+  "sourceType": "book",
+  "creators": [
+    "Allen J. Christenson (translator)"
+  ],
+  "url": "https://www.mesoweb.com/publications/Christenson/PopolVuh.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

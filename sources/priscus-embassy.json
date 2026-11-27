@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:priscus-embassy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Priscus at the court of Attila",
+  "sourceType": "book",
+  "creators": [
+    "Priscus, translated by J. B. Bury; Fordham University Internet History Sourcebooks"
+  ],
+  "url": "https://sourcebooks.web.fordham.edu/source/priscus1.asp",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

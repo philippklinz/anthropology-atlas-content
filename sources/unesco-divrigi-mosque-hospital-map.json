@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-divrigi-mosque-hospital-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Great Mosque and Hospital of Divriği — Maps",
+  "sourceType": "dataset",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/358/maps/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

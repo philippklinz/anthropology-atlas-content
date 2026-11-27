@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schlotheuber-languages",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Die Bedeutung von Sprachen und gelehrter Bildung für die Luxemburgerherrscher",
+  "sourceType": "article",
+  "creators": [
+    "Eva Schlotheuber"
+  ],
+  "url": "https://www.geschichte.hhu.de/fileadmin/redaktion/Fakultaeten/Philosophische_Fakultaet/Geschichtswissenschaften/Mittelalterliche_Geschichte/Dateien/019_Schlotheuber_Rom_1312_12.4.2016.pdf",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

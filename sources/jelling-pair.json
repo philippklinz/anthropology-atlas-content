@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jelling-pair",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Jelling Stones",
+  "sourceType": "catalog",
+  "creators": [
+    "Kongernes Jelling, National Museum of Denmark"
+  ],
+  "url": "https://kongernesjelling.dk/en/experiences/jelling-stones",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

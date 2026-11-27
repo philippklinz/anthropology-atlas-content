@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:viking-age-jelling",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jelling-stone",
+      "role": "supports",
+      "locator": "The large stone, its decoration, the translated inscription, the dating around 965 and the discussion of earlier Christian objects and Harald Klak’s baptism at Mainz in 826."
+    },
+    {
+      "sourceId": "source:jelling-pair",
+      "role": "supports",
+      "locator": "“Two monuments from Danish history”, sections on Gorm’s memorial to Thyra (c. 950) and Harald’s inscription."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein König setzt seine Eltern ins Bild",
+    "en": "A king commemorates his parents"
+  },
+  "participants": [
+    {
+      "entityId": "person:harald-bluetooth",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:thyra-of-jelling",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:gorm-the-old",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:large-jelling-stone",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:jelling-rune-stones"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:jelling-rune-stones-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 960,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 970,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Harald Blauzahn ließ Gorm und Thyra nennen und seine Ansprüche in Runen festhalten. Das genaue Jahr der Inschrift ist unbekannt.",
+      "en": "Harald Bluetooth had Gorm and Thyra named and his claims recorded in runes. The exact year of the inscription is unknown."
+    }
+  }
+}

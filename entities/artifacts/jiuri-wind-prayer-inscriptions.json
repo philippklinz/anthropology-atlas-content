@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:jiuri-wind-prayer-inscriptions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jiuri-wind-inscriptions",
+      "role": "supports",
+      "locator": "Description of ten Southern Song inscriptions, 1174–1266. Paragraphs on the winter send-offs, the summer receptions and officials of the maritime trade office."
+    },
+    {
+      "sourceId": "source:quanzhou-maritime-office",
+      "role": "supports",
+      "locator": "Opening description and foundation of the Quanzhou office for maritime trade in 1087."
+    },
+    {
+      "sourceId": "source:quanzhou-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1561rev-009 (Luoyang Bridge) and 1561rev-012 (Jiuri Mountain Wind-Praying Inscriptions)."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Windgebet-Inschriften am Jiuri-Berg",
+    "en": "Wind-prayer inscriptions on Mount Jiuri"
+  }
+}

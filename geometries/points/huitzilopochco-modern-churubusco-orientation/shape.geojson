@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:huitzilopochco-modern-churubusco-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -99.149,
+      19.354
+    ]
+  }
+}

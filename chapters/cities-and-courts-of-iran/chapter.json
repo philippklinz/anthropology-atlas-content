@@ -1,0 +1,419 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:cities-and-courts-of-iran",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iranica-inscriptions-ancient-iran",
+      "role": "supports",
+      "locator": "The Sasanian period, Naqš-e Rostam, in particular the trilingual inscription of Shapur I on the Kaʿba-ye Zardošt and its campaign narrative."
+    },
+    {
+      "sourceId": "source:iranica-naqsh-e-rostam",
+      "role": "supports",
+      "locator": "Site description and section on the Kaʿba-ye Zardošt, the Achaemenid tower facing the royal tombs."
+    },
+    {
+      "sourceId": "source:iranica-sasanian-deportations",
+      "role": "supports",
+      "locator": "Paragraphs on Šāpūr I, Valerian’s capture in 260 and the three versions of the inscription on resettlement."
+    },
+    {
+      "sourceId": "source:iranica-women-preislamic-persia",
+      "role": "supports",
+      "locator": "Sasanian dynasty, Shapur’s inscription listing royal women and daily offerings for the sacred fires."
+    },
+    {
+      "sourceId": "source:met-sasanian-empire",
+      "role": "supports",
+      "locator": "Shapur I and his wars with Rome. Final paragraphs on the seventh-century Arab conquests and the end of the dynasty."
+    },
+    {
+      "sourceId": "source:met-nishapur-sabz-pushan-bowl",
+      "role": "supports",
+      "locator": "Accession 38.40.243. Object description, dimensions, turquoise opaque glaze, date, the excavated site of Sabz Pushan, and the 1938 division of finds."
+    },
+    {
+      "sourceId": "source:wilkinson-nishapur-buildings",
+      "role": "supports",
+      "locator": "Map of Nishapur and Environs and the section on excavation of the Sabz Pushan residential quarter."
+    },
+    {
+      "sourceId": "source:met-city-of-nishapur",
+      "role": "supports",
+      "locator": "Unit 6, The City of Nishapur, introductory account and discussion of games and household objects recovered in excavations."
+    },
+    {
+      "sourceId": "source:babaie-isfahan-mosques",
+      "role": "supports",
+      "locator": "Masjed-e jāmeʿ, paragraphs on the separate north and south domes, their patrons, inscription date and disputed original function of the north dome."
+    },
+    {
+      "sourceId": "source:unesco-isfahan-friday-mosque-map",
+      "role": "supports",
+      "locator": "World Heritage property 1397, map and geographic reference for the mosque as a whole."
+    },
+    {
+      "sourceId": "source:iranica-rashid-world-history-illustrations",
+      "role": "supports",
+      "locator": "Opening discussion of the endowment document and its later appendix. Paper, goatskin binding, checks, Arabic and Persian copies and loans of exemplars."
+    },
+    {
+      "sourceId": "source:iranica-foundation",
+      "role": "supports",
+      "locator": "Opening paragraphs locate the Tabriz foundation and date the endowment deed to 9 August 1309. The surviving ruins give the approximate quarter."
+    },
+    {
+      "sourceId": "source:met-nishapur-bowl-image-record",
+      "role": "supports",
+      "locator": "Fields objectID, accessionNumber, title, objectDate, medium, creditLine, isPublicDomain, primaryImage, and primaryImageSmall identify the object and the supplied photograph."
+    },
+    {
+      "sourceId": "source:met-open-access-image-rights",
+      "role": "supports",
+      "locator": "Opening description of The Met’s Open Access initiative and its Creative Commons Zero release of images of public-domain artworks."
+    }
+  ],
+  "labels": {
+    "de": "Schapurs Stein und die Schreiber von Täbris",
+    "en": "Shapur’s inscription and the copyists of Tabriz"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:cities-of-iran-naqsh-e-rostam",
+    "event:cities-of-iran-nishapur",
+    "event:cities-of-iran-isfahan",
+    "event:cities-of-iran-tabriz",
+    "asset:nishapur-sabz-pushan-turquoise-bowl",
+    "person:shapur-i",
+    "artifact:nishapur-sabz-pushan-turquoise-bowl",
+    "person:taj-al-mulk",
+    "person:rashid-al-din-fadlallah"
+  ],
+  "steps": [
+    {
+      "id": "naqsh-e-rostam",
+      "textAnchor": "naqsh-e-rostam",
+      "labels": {
+        "de": "nach 260 bis um 272 · Schapurs Inschrift am alten Turm",
+        "en": "after 260 to around 272 · Shapur’s inscription on the old tower"
+      },
+      "summary": {
+        "de": "Schapur I. ließ auf drei Wänden des Turms von seinen Feldzügen und seiner Familie erzählen. Die Gefangennahme Valerians datiert den Bericht in die Zeit nach 260.",
+        "en": "Shapur I had his campaigns and family commemorated on three faces of the tower. The account mentions Valerian’s capture in 260, which places its composition after that event."
+      },
+      "state": {
+        "camera": {
+          "longitude": 52.8735,
+          "latitude": 29.988,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 260,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 272,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "nishapur",
+      "textAnchor": "nishapur",
+      "labels": {
+        "de": "10. Jahrhundert · Eine Schale aus Sabz Puschan",
+        "en": "10th century · A bowl from Sabz Pushan"
+      },
+      "summary": {
+        "de": "Im Wohnviertel Sabz Puschan gruben Archäologen eine türkis glasierte Schale aus. Die Datierung der Keramik umfasst das zehnte Jahrhundert. Der Kartenpunkt zeigt das Gebiet der mittelalterlichen Stadt.",
+        "en": "A turquoise-glazed bowl came to light in the residential quarter of Sabz Pushan. The pottery is dated to the tenth century. The map locates the area of the medieval city."
+      },
+      "state": {
+        "camera": {
+          "longitude": 58.82,
+          "latitude": 36.17,
+          "metersPerPixel": 2500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 901,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1000,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:nishapur-sabz-pushan-turquoise-bowl"
+    },
+    {
+      "id": "isfahan",
+      "textAnchor": "isfahan",
+      "labels": {
+        "de": "1088 · Die Nordkuppel der Freitagsmoschee",
+        "en": "1088 · The north dome of the Friday Mosque"
+      },
+      "summary": {
+        "de": "Eine Inschrift nennt Tadsch al-Mulk als Stifter des nördlichen Kuppelraums. Welche Aufgabe der damals freistehende Bau erfüllte, bleibt offen.",
+        "en": "An inscription identifies Taj al-Mulk as patron of the northern dome chamber. The original purpose of this once freestanding structure remains a matter of debate."
+      },
+      "state": {
+        "camera": {
+          "longitude": 51.6853,
+          "latitude": 32.6697,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1088,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1088,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "tabriz",
+      "textAnchor": "tabriz",
+      "labels": {
+        "de": "1309 · Raschid ad-Dins Stiftungsurkunde",
+        "en": "1309 · Rashid al-Din’s endowment deed"
+      },
+      "summary": {
+        "de": "1309 regelte Raschid ad-Din den Betrieb seiner Stiftung bei Täbris. Ein späterer Nachtrag legte die zweisprachige Vervielfältigung eigener Werke fest. Der Punkt zeigt das Stiftungsviertel.",
+        "en": "Rashid al-Din recorded the workings of his Tabriz foundation in 1309. A later appendix provided for copying his works in two languages. The point marks the foundation quarter."
+      },
+      "state": {
+        "camera": {
+          "longitude": 46.3294,
+          "latitude": 38.0792,
+          "metersPerPixel": 1100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1309,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1309,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine dreisprachige Inschrift zählt die Angehörigen eines Königs auf. Jahrhunderte später schreiben Stifter in Isfahan und Täbris Handwerkern und Kopisten andere Aufgaben zu. Aus Nischapur ist eine Schale erhalten, deren Käufer unbekannt bleibt.",
+      "en": "A royal inscription records a family in three languages. Later patrons in Isfahan and Tabriz set quite different tasks for builders and copyists. A bowl from Nishapur survives without the name of its buyer."
+    },
+    "topics": [
+      {
+        "id": "cities-of-iran",
+        "labels": {
+          "de": "Städte im Iran",
+          "en": "Cities of Iran"
+        }
+      },
+      {
+        "id": "books-and-writing",
+        "labels": {
+          "de": "Bücher und Schrift",
+          "en": "Books and writing"
+        }
+      },
+      {
+        "id": "religious-patronage",
+        "labels": {
+          "de": "Religiöse Stiftungen",
+          "en": "Religious patronage"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      },
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "iranian-plateau",
+        "labels": {
+          "de": "Iranisches Hochland",
+          "en": "Iranian Plateau"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 52.5747,
+      "latitude": 34.0336,
+      "metersPerPixel": 4574,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 260,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 260,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1309,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1309,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:nishapur-sabz-pushan-turquoise-bowl",
+    "asset:nishapur-sabz-pushan-turquoise-bowl",
+    "event:cities-of-iran-isfahan",
+    "event:cities-of-iran-naqsh-e-rostam",
+    "event:cities-of-iran-nishapur",
+    "event:cities-of-iran-tabriz",
+    "geometry:friday-mosque-isfahan-orientation",
+    "geometry:kaba-ye-zardost-naqsh-e-rostam-orientation",
+    "geometry:medieval-nishapur-orientation",
+    "geometry:rab-e-rashidi-tabriz-orientation",
+    "person:rashid-al-din-fadlallah",
+    "person:shapur-i",
+    "person:taj-al-mulk",
+    "place:friday-mosque-isfahan",
+    "place:kaba-ye-zardost-naqsh-e-rostam",
+    "place:medieval-nishapur",
+    "place:rab-e-rashidi-tabriz",
+    "source:babaie-isfahan-mosques",
+    "source:blair-compendium",
+    "source:iranica-foundation",
+    "source:iranica-inscriptions-ancient-iran",
+    "source:iranica-naqsh-e-rostam",
+    "source:iranica-rashid-world-history-illustrations",
+    "source:iranica-sasanian-deportations",
+    "source:iranica-women-preislamic-persia",
+    "source:khalili-buddha",
+    "source:met-city-of-nishapur",
+    "source:met-nishapur-bowl-image-record",
+    "source:met-nishapur-sabz-pushan-bowl",
+    "source:met-open-access-image-rights",
+    "source:met-sasanian-empire",
+    "source:unesco-isfahan-friday-mosque-map",
+    "source:wikidata-place-coordinates",
+    "source:wilkinson-nishapur-buildings"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:yaxchilan-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Yaxchilán",
+  "sourceType": "catalog",
+  "creators": [
+    "Instituto Nacional de Antropología e Historia"
+  ],
+  "url": "https://lugares.inah.gob.mx/es/node/5858",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

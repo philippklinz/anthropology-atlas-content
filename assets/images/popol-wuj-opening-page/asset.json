@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:popol-wuj-opening-page",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:popol-wuj-opening-facsimile",
+      "role": "supports",
+      "locator": "File description, original 1,223 × 1,750 reproduction, file history dated 17 April 2012, and licensing as a public-domain scan."
+    },
+    {
+      "sourceId": "source:newberry-popol",
+      "role": "supports",
+      "locator": "The Newberry identifies Ayer MS 1515, attributes transcription and translation to Francisco Ximénez and describes the two columns of the surviving K’iche’ manuscript."
+    }
+  ],
+  "assetType": "image",
+  "file": "popol-wuj-opening.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Die erste Textseite des Popol Wuj",
+    "en": "The opening text page of the Popol Wuj"
+  },
+  "alt": {
+    "de": "Zwei dicht beschriebene Spalten auf einem vergilbten Blatt. Die ersten Worte sind größer. Links beginnt der Text auf K’iche’, rechts die spanische Übersetzung. Am linken Rand stehen die Ziffern 1, 2 und 3.",
+    "en": "Two dense columns of handwriting on a yellowed leaf. The opening words are larger. K’iche’ begins on the left and the Spanish translation on the right. The figures 1, 2 and 3 appear down the left margin."
+  },
+  "entityIds": [
+    "artifact:ayer-popol-wuj-manuscript"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "K’iche’ tellers and writers of the Popol Wuj",
+      "Francisco Ximénez (transcription and Spanish translation)"
+    ],
+    "attribution": "Popol Wuj, Newberry Library, Chicago, Ayer MS 1515. K’iche’ narrative with transcription and Spanish translation by Francisco Ximénez. Public-domain facsimile via Wikimedia Commons.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Popol_vuh.jpg",
+    "originNote": "Unmodified full-resolution reproduction of the opening text page (1,223 × 1,750 pixels). The Commons file identifies the mechanical scan and original manuscript as public domain, https://creativecommons.org/publicdomain/mark/1.0/."
+  }
+}

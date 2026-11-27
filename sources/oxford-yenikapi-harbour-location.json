@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oxford-yenikapi-harbour-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Yenikapi: Yenikapi",
+  "sourceType": "dataset",
+  "creators": [
+    "Oxford Roman Economy Project"
+  ],
+  "url": "https://oxrep.classics.ox.ac.uk/databases/shipwrecks_database/1176to1184/records/997/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

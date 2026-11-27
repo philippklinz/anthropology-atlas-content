@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:herbord-of-regensburg",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ritscher-herbord",
+      "role": "supports",
+      "locator": "Chapter III.1.b, Tätigkeitsbereich des Brückenmeisters, pp. 22–23 and notes 62–65. Petition of the citizens and Herbord, exemptions from toll, twelve-foot exclusion zone, divided fines, bishop and duke."
+    },
+    {
+      "sourceId": "source:regensburg-bridge",
+      "role": "supports",
+      "locator": "Timeline on pp. 16–17, especially completion by 1146 and the 1182 privileges governing access, duties and maintenance."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Herbord, Regensburger Brückenmeister",
+    "en": "Herbord, bridge master of Regensburg"
+  }
+}
