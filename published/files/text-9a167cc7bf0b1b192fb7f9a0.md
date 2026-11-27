@@ -1,0 +1,27 @@
+# Dagobert and the Dead of Saint-Denis
+
+Two brothers have divided their inheritance. One of them, Ursinus, wants the king to recognise their agreement. That is why **Dagobert** appears in the first line of the broad sheet of papyrus pictured here. Below his name comes a statement of the reasons a king should grant the petitions of his faithful followers. Only then does the writer turn to the brothers. What was at stake for their family was who could dispose of which property in the future. How could a king lend weight to their agreement? Three other charters from the Paris region bring us closer to the people who presented claims, examined them and kept the written record.
+
+## A plot inside the walls {#paris-625}
+
+In 625 Dodo, abbot of Saint-Denis, brought a deed of gift before King Chlothar II. It concerned a plot of land inside the walls of Paris. The donor had inherited the plot from his late father Baddo and given it to the church of Saint Denis. This man too was called Dagobert. His father’s name helps distinguish him from the king’s son, whose name later appears at the head of royal charters. Chlothar confirmed the gift. Within the king’s text we can thus make out traces of a second piece of writing that already existed when the abbot came before him.
+
+Whereabouts in Paris did the plot lie? The words that survive give us the city walls as a frame of reference. They name no street or neighbours. The map therefore highlights the city area in 625. The community that received the land lived several kilometres to the north. At Saint-Denis the clergy could keep the royal confirmation and produce it later if anyone asked how the Paris property had come into their hands.
+
+## Who needed to hear the news at Clichy? {#clichy-632}
+
+A few years later King Dagobert I issued a different charter at **Clichy**. It concerned Iticina, an estate in the district of Paris that had once belonged to two brothers. The surviving fragment opens by naming a duke, a royal officer called Gaganricus, and the king’s present and future agents. All needed to know what rights the community of Saint-Denis held. An official taking up his post years later could be expected to respect those rights just as his predecessor had. The damaged charter has been dated to 632 or 633. The critical edition suggests October 632 as the most likely date, and the map stops at that year. The area around Clichy and Saint-Ouen on the Seine locates the place of issue. The estate itself lay elsewhere.
+
+Look again at the photograph. It shows **Ursinus and his brother Beppoleno’s inheritance agreement** on a separate piece of papyrus just over seventy centimetres wide. On the left and closer to the centre several lines break off where the papyrus has fallen away. We can still read that the brothers had inherited property from their mother in the Rouergue in southern France. The list includes vineyards, pasture, watercourses and enslaved people. The scribe gives the brothers their names. The people whose lives were affected by this division appear in the inventory as property. The place where the king issued the confirmation remains open. The critical edition narrows its date to between 629 and 637. The names of two people have thus come down to us from an encounter whose setting we must leave blank on the map.
+
+## Who was buried at Saint-Denis before the king? {#saint-denis-639}
+
+When Dagobert fell seriously ill, the Chronicle attributed to Fredegar says he was carried from his estate at Épinay to the basilica of Saint-Denis. There he entrusted Queen Nanthild and his son Clovis to the care of his adviser Aega. The chronicler describes the burial in the church and the gold and gems with which the king had it adorned. The basilica dates Dagobert’s death to **639**. A different reckoning of his regnal years gives 638.
+
+Beneath the church archaeologists found a much older burial ground. The church itself had already been enlarged before Dagobert’s time. In one of these extensions Michel Fleury discovered the grave attributed to Queen Arnegunde in 1959. Excavations north of the basilica have uncovered more than two hundred graves, many with plaster sarcophagi. Those who buried Dagobert here were taking him to a place that other families had long since chosen for their dead.
+
+## Prayers for two parents {#clichy-saint-denis-654}
+
+On 22 June 654 **Clovis II** confirmed at Clichy a privilege granted to Saint-Denis by Landry, bishop of Paris. In the document the son names both parents as buried there. Prayers for Dagobert and Nanthild were to be heard long after their deaths. Clovis instituted an unbroken succession of sung praises on the model of the monastery of Agaune. Magnates who were present subscribed the document. The surviving papyrus is about ninety-three centimetres wide.
+
+In later centuries the king was remembered in other ways. Between 830 and 835 a monk at Saint-Denis wrote a life of Dagobert giving particular prominence to his care for monasteries. On his thirteenth-century tomb monument demons crew a boat. They have the king’s soul on board, until three saints come to its rescue. More than six hundred years separate the son’s provision for singing on behalf of his parents from this carved account of the fate of a king’s soul. A century after Clovis’s charter, another royal family came here to be anointed. [The story of Pippin and his sons](chapter:the-last-merovingian-king#saint-denis) takes you to the same church in 754.

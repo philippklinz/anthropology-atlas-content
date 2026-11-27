@@ -1,0 +1,23 @@
+# Wer steht auf dem Geld der Merowinger?
+
+Auf einem fränkischen Goldstück in der Genter Universitätsbibliothek ist ein Kopf im Profil zu sehen. Eine Reihe kleiner Perlen liegt über der Stirn, die Nase ragt in die Buchstaben am Rand. Dreht man das Stück um, findet man einen Namen. Er gehört **Madelinus**, dem Münzmeister. Wessen Gesicht der Stempelschneider darstellen wollte, lässt die Umschrift offen. Auf der Kopfseite steht, wo das Stück geprägt wurde, in **Dorestad**. Das ganze Bild mit Gesicht, Schmuck und Inschrift passt auf zwölf Millimeter. Wie weit kann man einem Menschen folgen, der seinen Namen auf so kleinem Raum hinterlassen hat?
+
+## Warum lagen drei ungeprägte Stücke im Beutel? {#sutton-hoo}
+
+An der Küste Ostenglands legten Menschen im frühen siebten Jahrhundert einen Geldbeutel in ein Schiff, das sie für eine Bestattung an Land gebracht hatten. In der Grabkammer unter Hügel 1 von Sutton Hoo lagen 37 geprägte Goldmünzen, drei münzförmige Goldplättchen ohne Prägebild und zwei kleine Barren. Für die Geschichte des Beutels lohnt sich gerade der Blick auf die unscheinbaren Plättchen. Mit ihnen kommen die runden Stücke auf vierzig. Die drei wogen ungefähr so viel wie geprägte Münzen. Wer sie zusammenstellte, konnte einen Wert durch Abwiegen ergänzen, auch wenn er kein Stück mit der richtigen Prägung zur Hand hatte. Ob jemand genau diese Absicht hatte, bleibt offen.
+
+Die geprägten Stücke kamen aus verschiedenen Münzstätten des Frankenreichs. Wer sie wann über das Meer brachte, wissen wir nicht. Für die Datierung des Grabes leisten sie dennoch etwas, was der kostbare Beutel allein kaum könnte. Das jüngste Stück musste schon geprägt sein, bevor man den Beutel ins Schiff legte. Das British Museum setzt die Niederlegung ungefähr zwischen 610 und 635 an. Auf der Karte erscheint Sutton Hoo daher in mehreren möglichen Jahren. Die Bestattung fand einmal statt.
+
+## Ein zweiter Ortsname für denselben Mann {#maastricht}
+
+Von der englischen Küste geht es an die Maas. Bei Thorn in den heutigen Niederlanden fand man 2009 auf einem Acker eine Goldmünze. Das örtliche Museum datiert sie um 625. Auf der Vorderseite steht eine Form des Ortsnamens Maastricht, auf der Rückseite wieder Madelinus. Man kennt aus Maastricht zwölf Münzmeister mit Namen. Ihre Stücke gehören in eine Stadt, in der ganz unterschiedliche Werkstätten arbeiteten. Handwerker bearbeiteten Geweih, andere stellten Glas, Tongefäße und Textilien her. Wie viele Kämme oder wie viel Stoff man für ein solches Goldstück bekam, verrät keiner der beiden Münzstempel. Die Namen im Metall beantworten eine andere Frage. Wir können einzelne Hersteller im Umfeld all dieser Werkstätten wiedererkennen.
+
+## Zwei Seiten aus Dorestad {#dorestad}
+
+Schau noch einmal auf das Foto. Auf der Rückseite der Genter Münze steht ein Kreuz auf einem Sockel. Darunter liegen zwei Reihen zu je drei Punkten. Am Rand schließt an den Namen des Münzmeisters ein M an. Die Buchstaben der Vorderseite nennen Dorestad, beim heutigen Wijk bij Duurstede. So rücken für die 630er und 640er Jahre zwei Flussorte in dieselbe Geschichte. Wer aus der Übereinstimmung des Namens einen persönlichen Reiseweg zeichnen wollte, müsste wissen, wo und wann Madelinus dazwischen Station machte. Dafür fehlt ein Beleg. Außerdem wurden die Prägungen mit seinem Namen wahrscheinlich nach seinem Tod fortgeführt. Ein überlieferter Name kann länger im Umlauf sein als sein Träger.
+
+## Ein anderer Stempel bei Leiden {#oegstgeest}
+
+Am alten Rheinarm bei Oegstgeest fanden Ausgräber eine Münze, deren Vorderseite den Kopf stark vereinfacht wiedergibt. Auch das Kreuz ist zu erkennen, die Buchstaben ringsum weichen aber von den bekannten Inschriften ab. Das Stück wog 1,22 Gramm und enthielt 39 Prozent Gold. Die Bearbeiter verglichen den Goldgehalt mit anderen Stücken. Sie schlugen für die Herstellung ungefähr 650 bis 660 vor. Wann die Münze hier ankam, ist eine eigene Frage. Deshalb erhält ihre Herstellung auf der Karte keinen Punkt in Oegstgeest.
+
+Was in der Siedlung geschah, zeigt ein anderer Befund mit eigener Uhr. Ein Brunnen durchschnitt die Südwand eines älteren Hauses. Für den Brunnen ergab die Holzanalyse eine Datierung um 672 mit sieben Jahren Spielraum nach beiden Seiten. Haus, Brunnen und Münze liegen so in verschiedenartigen Zeitfenstern. In anderen Brunnen desselben Ortes steckte sogar wiederverwendetes Schiffsholz. Wer vom Meer aus nur die Bewegung von Gold verfolgt, verpasst den Augenblick, in dem ein ausgedientes Boot für die Wasserversorgung einer Siedlung noch einmal brauchbar wurde. Auch in [einem Dorf am Rand der Schwäbischen Alb](chapter:life-in-a-merovingian-village) bekam ein hölzerner Haushaltsgegenstand ein zweites Leben.
