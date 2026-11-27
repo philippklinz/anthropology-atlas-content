@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ministerio-cultura-hispalis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Hispalis · Toponimia histórica",
+  "sourceType": "dataset",
+  "creators": [
+    "Ministerio de Cultura, España"
+  ],
+  "url": "https://tesauros.cultura.gob.es/tesauros/toponimiahistorica/1216257.html",
+  "language": "es",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Diccionario de toponimia histórica, entry 1216257. First paragraph on the identification with modern Seville; the full extent of the ancient city is uncertain.",
+  "published": "online gazetteer"
+}

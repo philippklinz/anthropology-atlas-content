@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:geiseric-crossing-429",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, 429 (May, Baetican coast and families); B, Prosper, gives an earlier year."
+    },
+    {
+      "sourceId": "source:possidius-life-augustine",
+      "role": "supports",
+      "locator": "XXVIII, people crossing by sea from Spain to Africa, including Vandals and Alans."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Time Line, pp. xiii–xiv, entries 405/6, 428/29, 430, 435, 439, 442 and 484–496."
+    }
+  ],
+  "eventType": "migration",
+  "labels": {
+    "de": "Überfahrt von der Baetica nach Afrika",
+    "en": "Crossing from Baetica to Africa"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 429,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 429,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:geiseric",
+      "role": "participant"
+    },
+    {
+      "entityId": "community:vandals-in-the-fifth-century",
+      "role": "moving-community"
+    },
+    {
+      "entityId": "community:alans-in-the-west",
+      "role": "moving-community"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Der Eintrag folgt Hydatius, der den Mai 429 nennt. Für die Überfahrt kursieren abweichende Datierungen. Die beiden Häfen sind hier nicht lokalisiert.",
+    "en": "The entry follows Hydatius, who names May 429. Other chronologies differ. The ports at the two ends of the crossing are not located here."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:schaeferdiek-germanic-christianities",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Germanic and Celtic Christianities",
+  "sourceType": "book",
+  "creators": [
+    "Knut Schäferdiek"
+  ],
+  "url": "https://doi.org/10.1017/CHOL9780521812443.004",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Chapter 2, pp. 52–69, in the volume edited by Augustine Casiday and Frederick W. Norris. The proposed location of the community is regional.",
+  "containerTitle": "The Cambridge History of Christianity, vol. 2, Constantine to c. 600",
+  "publisher": "Cambridge University Press",
+  "published": "2007",
+  "identifiers": {
+    "DOI": "10.1017/CHOL9780521812443.004"
+  }
+}

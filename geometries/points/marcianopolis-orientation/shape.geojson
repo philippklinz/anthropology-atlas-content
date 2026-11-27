@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:marcianopolis-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.59,
+      43.23
+    ]
+  }
+}

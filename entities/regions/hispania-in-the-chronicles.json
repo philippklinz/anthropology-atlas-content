@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:hispania-in-the-chronicles",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entry for 409: Alans, Vandals and Suebi enter Hispania. The geographical detail about provinces belongs to his entry for 411."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entries 406–9 and 409–28/29."
+    },
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 418–420: Gunderic in Gallaecia, conflict with Hermeric in 419 and withdrawal to Baetica in 420."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Hispania in den spätantiken Berichten",
+    "en": "Hispania in late antique accounts"
+  },
+  "summary": {
+    "de": "Hispania bezeichnet hier die iberischen Provinzen des römischen Reiches. Die Überlieferung wechselt zwischen diesem weiten Bezugsraum, einzelnen Provinzen und Städten.",
+    "en": "Hispania here denotes the Iberian provinces of the Roman Empire. Written accounts vary in specificity from this whole region to individual provinces and cities."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:copying-the-codex-argenteus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:uppsala-history-of-codex-argenteus",
+      "role": "supports",
+      "locator": "Opening paragraphs, Materials, and Codex argenteus’ journey: likely early-sixth-century Ravenna production; material and script; leaf counts, Uppsala and the Speyer find."
+    },
+    {
+      "sourceId": "source:uppsala-silver-bible-cross-references",
+      "role": "supports",
+      "locator": "Object description following the interview with Lars Munkhammar, particularly the four arches, one for each evangelist, and their use as Gospel cross-references."
+    },
+    {
+      "sourceId": "source:project-wulfila-gothic-manuscripts",
+      "role": "supports",
+      "locator": "Entries 1 (Codex Argenteus, Uppsala DG 1, Gospel order) and 13 (Fragmentum Spirense, end of Mark 16)."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Silberbibel entsteht in Italien",
+    "en": "The Silver Bible is copied in Italy"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 500,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 530,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:codex-argenteus",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "language:gothic",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "script:gothic-alphabet",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:ravenna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ravenna-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Handschrift stammt aus Italien. Ravenna gilt als wahrscheinlicher Herstellungsort. Das Fenster 500–530 veranschaulicht die ungefähre Datierung ins frühe sechste Jahrhundert.",
+      "en": "The manuscript comes from Italy. Ravenna is its probable place of production. The 500–530 window expresses the approximate early-sixth-century dating."
+    }
+  },
+  "note": {
+    "de": "Ein Evangeliar wurde mit Silber und Gold auf purpurfarbenes Pergament geschrieben. Die Übersetzungsarbeit aus dem vierten Jahrhundert ging der Herstellung dieses Buches voraus.",
+    "en": "A Gospel book was copied in silver and gold on purple parchment. The fourth-century translation work preceded the making of this book."
+  }
+}

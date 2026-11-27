@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:achaia-campaign",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "pp. 69–73, introduction and “The itinerary of Alaric”: campaign in Achaea in 396, Athens, Corinth and the disagreements among ancient accounts."
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.5–7: Alaric in southern Greece, Athens and passage to the Peloponnese."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Achaia um Athen und Korinth",
+    "en": "Achaea around Athens and Corinth"
+  },
+  "summary": {
+    "de": "Athen und Korinth stehen für zwei lokal unterschiedliche Erfahrungen mit dem Feldzug in der römischen Provinz Achaia. Ihre archäologischen Befunde lassen sich getrennt betrachten.",
+    "en": "Athens and Corinth had distinct local experiences of the campaign in Roman Achaea. Their archaeological records can be examined separately."
+  }
+}

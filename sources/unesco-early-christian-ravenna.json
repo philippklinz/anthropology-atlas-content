@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-early-christian-ravenna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "catalog",
+  "title": "Early Christian Monuments of Ravenna",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/788/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "World Heritage list entry 788. The brief synthesis distinguishes monuments erected during Theoderic’s reign from later buildings and identifies the palace chapel and episcopal chapel."
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:ulow-aureus-find-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "pp. 195–196 on the imperial treasury hypothesis, p. 199 and fig. 2 on p. 201, p. 219 on the nine aureus fragments and cut gold from burial 19 at Ulów site 7."
+    }
+  ],
+  "subjectId": "artifact:ulow-herennia-etruscilla-aureus",
+  "predicate": "attested-at",
+  "objectId": "place:ulow-roztocze",
+  "time": {
+    "kind": "unknown"
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Grab 19 ist der Fundkontext. Das Prägejahr und das Jahr der Beisetzung sind verschiedene Angaben. Ein einzelnes Jahr für die Beisetzung ist hier nicht bestimmt.",
+      "en": "Grave 19 is the find context. The date of minting and the date of burial are separate matters. No single year has been assigned to the burial here."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:ulow-roztocze-orientation",
+      "role": "findspot"
+    }
+  ]
+}

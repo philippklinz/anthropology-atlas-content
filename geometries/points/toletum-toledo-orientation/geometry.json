@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:toletum-toledo-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barroso-cabrera-throne-and-altar",
+      "role": "supports",
+      "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+    },
+    {
+      "sourceId": "source:ferreiro-third-council-toledo",
+      "role": "supports",
+      "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q5836, coordinate location (P625), rounded to 0.01 degree."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für den Ort. Die Lage eines einzelnen Gebäudes bleibt offen.",
+    "en": "Rounded reference point for the place. The location of an individual building remains open."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q5836 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q5836",
+    "originNote": "Wikidata structured coordinate rounded to two decimal places."
+  }
+}

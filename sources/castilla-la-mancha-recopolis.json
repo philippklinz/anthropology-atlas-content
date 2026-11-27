@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:castilla-la-mancha-recopolis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Parque Arqueológico de Recópolis",
+  "sourceType": "website",
+  "creators": [
+    "Turismo de Castilla-La Mancha"
+  ],
+  "url": "https://www.turismocastillalamancha.es/es/cultura-y-patrimonio/arqueologia/parque-arqueologico-de-recopolis.html",
+  "language": "es",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Regional government site. The introduction and Sobre este lugar identify the town, the commercial street, palace and church, and the dedication to Reccared."
+}

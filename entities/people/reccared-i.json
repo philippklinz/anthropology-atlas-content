@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:reccared-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:castilla-la-mancha-recopolis",
+      "role": "supports",
+      "locator": "Introduction and Sobre este lugar: foundation in 578 in honour of the king’s son, the commercial street rising to the palace and church, and the site near Zorita de los Canes."
+    },
+    {
+      "sourceId": "source:szada-reccared-edict-er363",
+      "role": "supports",
+      "locator": "ER 363, About the source: Homoian and Nicene Christians, Reccared’s conversion in 587, the 589 council and manuscript recensions."
+    },
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Rekkared I.",
+    "en": "Reccared I"
+  },
+  "summary": {
+    "de": "Sohn Leovigilds. Sein Glaubenswechsel 587 ging dem Konzil von Toledo 589 voraus.",
+    "en": "Son of Liuvigild. His change of religious allegiance in 587 preceded the Council of Toledo in 589."
+  }
+}

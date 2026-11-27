@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:third-council-of-toledo-assembly",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+    },
+    {
+      "sourceId": "source:ferreiro-third-council-toledo",
+      "role": "supports",
+      "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Versammlung des Dritten Konzils von Toledo",
+    "en": "Assembly at the Third Council of Toledo"
+  },
+  "summary": {
+    "de": "589 trafen in Toledo das Königspaar und Geistliche aus Hispanien und Gallien zusammen.",
+    "en": "In 589 the royal couple and clergy from Hispania and Gaul assembled at Toledo."
+  }
+}

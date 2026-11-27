@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-hispania-409-410",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entry for 409: Alans, Vandals and Suebi enter Hispania. The geographical detail about provinces belongs to his entry for 411."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entries 406–9 and 409–28/29."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der grobe Umriss der Halbinsel entspricht der geographischen Auflösung der Nachricht. Das Zeugnis erlaubt weder eine Route noch den Schluss, ganz Hispania sei besiedelt oder beherrscht worden.",
+    "en": "The broad peninsular outline reflects the geographical resolution of the account. The evidence supplies neither a route nor grounds for treating all Hispania as settled or controlled."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

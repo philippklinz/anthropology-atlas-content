@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:theudis-decree-on-court-fees",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Document 12, Decretum Theudis regis, pp. 262–264: expenses, witnesses, horses, inclusion in the Theodosian collection and Toledo dating clause."
+    },
+    {
+      "sourceId": "source:barroso-cabrera-throne-and-altar",
+      "role": "supports",
+      "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Gerichtskostengesetz des Theudis",
+    "en": "Theudis’s decree on litigation costs"
+  },
+  "summary": {
+    "de": "Die überlieferte Fassung nennt Auslagen, Pferde und eine Höchstzahl für kleinere und größere Verfahren.",
+    "en": "The surviving text discusses expenses and horses and sets different limits for smaller and larger cases."
+  }
+}

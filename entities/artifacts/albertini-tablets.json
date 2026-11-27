@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:albertini-tablets",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:grierson-albertini-1959",
+      "role": "supports",
+      "locator": "p. 73, introductory paragraph on dating, uncertain discovery location and legal texts on wood."
+    },
+    {
+      "sourceId": "source:albertini-tablets-courtois-1952",
+      "role": "supports",
+      "locator": "Act XIII, pp. 259–261, ll. 1–6 and 29–38. Parties, crops, formula and marks; parts of the middle are lost."
+    },
+    {
+      "sourceId": "source:fentress-numidian-peasants-2026",
+      "role": "supports",
+      "locator": "pp. 1–2, the grain tax, the wooden archive and continuities of Mancian cultivation rights."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Albertini-Tafeln",
+    "en": "Albertini tablets"
+  },
+  "summary": {
+    "de": "Die zwischen 493 und 496 datierten Holzurkunden enthalten Kaufgeschäfte und andere Rechtsakte. Dokument XIII nennt die Eheleute Processanus und Siddina, die über Nutzungsrechte auf bewirtschaftetem Land verfügten.",
+    "en": "Wooden deeds dated between 493 and 496 preserve sales and other legal acts. Document XIII names the couple Processanus and Siddina, who held cultivation rights on a worked plot."
+  }
+}

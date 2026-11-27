@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:vici-maslomecz-44269",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Masłomęcz · Vici.org 44269",
+  "sourceType": "dataset",
+  "creators": [
+    "Vici.org"
+  ],
+  "url": "https://vici.org/vici/44269",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Modern museum point in the village, used only to orient the nearby archaeological evidence."
+}

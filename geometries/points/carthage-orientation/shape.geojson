@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:carthage-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.31,
+      36.85
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:olbia-r23-late-pottery",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "pp. 34–35, Post-antiquity horizon of Trench R-23, and fig. 19 on the chronology of imported pottery",
+      "note": {
+        "de": "Die Datierung und die Gefäßgruppen gelten für den untersuchten Teil der Zitadelle.",
+        "en": "The dates and pottery groups apply to this excavated part of the citadel."
+      }
+    },
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "Fig. 18:3 on p. 33 and pp. 33–34, African red-slip form 50 in the hearth of Building 1 and form 67. Page 34 gives the approximate 70:30 local/import split for trench R-23."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Keramik aus Olbia, Schnitt R-23",
+    "en": "Pottery from trench R-23 at Olbia"
+  },
+  "summary": {
+    "de": "Fundgruppe aus importierten Amphoren und rotem Tafelgeschirr, grauer Drehscheibenkeramik und handgeformten Gefäßen.",
+    "en": "Assemblage of imported amphorae and red tableware, grey wheel-thrown pottery, and hand-built vessels."
+  }
+}

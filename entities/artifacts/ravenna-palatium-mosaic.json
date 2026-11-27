@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ravenna-palatium-mosaic",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-people-in-the-palace",
+      "role": "supports",
+      "locator": "pp. 242–244, figs. 7.1–7.2 and notes 1–6. The palace facade, remnants of hands after the redesign, and readings of the gesture as a greeting or prayer."
+    },
+    {
+      "sourceId": "source:unesco-early-christian-ravenna",
+      "role": "supports",
+      "locator": "Outstanding Universal Value, Brief synthesis, paragraphs on the Arian Baptistery, Sant’Apollinare Nuovo, the mausoleum and the Archbishop’s Chapel."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Das Palatium-Mosaik in Sant’Apollinare Nuovo",
+    "en": "The Palatium mosaic in Sant’Apollinare Nuovo"
+  },
+  "summary": {
+    "de": "Auf Säulen der Palastfassade sind Hände früherer Figuren erhalten. Ein späterer Umbau des Bildes hat Körper durch Vorhänge ersetzt. Die ursprünglichen Gesten lassen mehrere Lesarten zu.",
+    "en": "Hands from earlier figures survive against the palace columns. A later reworking replaced bodies with curtains. Several interpretations of the original gestures remain plausible."
+  }
+}

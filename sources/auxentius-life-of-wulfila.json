@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:auxentius-life-of-wulfila",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Epistula de fide, vita et obitu Ulfilae",
+  "sourceType": "book",
+  "creators": [
+    "Auxentius of Durostorum",
+    "James W. Marchand (online edition)"
+  ],
+  "url": "https://faculty.georgetown.edu/jod/texts/auxentius.html",
+  "accessedAt": "2026-11-27",
+  "language": "la",
+  "bibliographicNote": "The pupil’s posthumous letter survives through its inclusion in another text. Marchand supplies the Latin text and links his English translation. The letter praises the bishop and defends his doctrine.",
+  "published": "Late fourth century"
+}

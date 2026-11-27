@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:poitiers-pictavis-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-tours-histories-ii-37",
+      "role": "supports",
+      "locator": "II.37: tenth milestone outside Poitiers, men from the Auvergne and senatorial families among the dead; treasure taken from Toulouse after the winter at Bordeaux."
+    },
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47, 56–61: date of the battle, Alaric’s death, Gregory’s tenth milestone and rival identifications at Vouillé and Voulon."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q6616, coordinate location (P625), rounded to 0.01 degree."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für den Ort. Die Lage eines einzelnen Gebäudes bleibt offen.",
+    "en": "Rounded reference point for the place. The location of an individual building remains open."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q6616 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q6616",
+    "originNote": "Wikidata structured coordinate rounded to two decimal places."
+  }
+}

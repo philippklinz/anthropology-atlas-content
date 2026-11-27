@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:agde-council-context-506",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Ausschnitt um Agde verortet die Versammlung. Das genaue Gebäude der Sitzung und die Grenzen der Diözese bleiben offen.",
+    "en": "The Agde outline locates the assembly. It leaves open the individual meeting place and the boundaries of the diocese."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original, deliberately schematic editorial outline drawn for orientation. No historical or modern boundary was traced."
+  }
+}

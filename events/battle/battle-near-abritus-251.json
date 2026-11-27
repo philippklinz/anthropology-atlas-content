@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:battle-near-abritus-251",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radoslavova-abritus-2011",
+      "role": "supports",
+      "locator": "p. 23, opening discussion of Dexippus and later historians"
+    },
+    {
+      "sourceId": "source:razgrad-abritus-reserve",
+      "role": "supports",
+      "locator": "Description of the ancient city and the summer 251 battle in its vicinity"
+    }
+  ],
+  "eventType": "battle",
+  "labels": {
+    "de": "Die Schlacht bei Abritus",
+    "en": "The battle near Abritus"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 251,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 251,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:emperor-decius",
+      "role": "commander"
+    },
+    {
+      "entityId": "community:gothic-army-at-abritus",
+      "role": "combatant"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Jahr 251 ist belegt. Dexippos berichtet aus zeitlicher Nähe. Der Punkt orientiert an der Stadt.",
+      "en": "The year 251 is attested. Dexippus wrote as a contemporary. The point orients the reader at the city."
+    }
+  },
+  "note": {
+    "de": "Bei Abritus besiegte ein gotisches Heer eine römische Armee. Unter den Gefallenen waren Kaiser Decius und sein Sohn Herennius Etruscus.",
+    "en": "A Gothic army defeated a Roman force near Abritus. Emperor Decius and his son Herennius Etruscus were among the dead."
+  },
+  "placeIds": [
+    "place:abritus-near-razgrad"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:abritus-near-razgrad-orientation",
+      "role": "location"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:western-roman-africa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 435: peace and an unspecified part of Africa for settlement."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entry 435: first agreement with the western empire and a reconstruction involving the Mauretanias and part of Numidia."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Westliche Provinzen des römischen Nordafrika",
+    "en": "Western provinces of Roman North Africa"
+  },
+  "summary": {
+    "de": "Mauretanien und Numidien lagen westlich von Karthago. Die knappen Texte zur Vereinbarung von 435 lassen den Verlauf der betroffenen Gebietsgrenzen offen.",
+    "en": "Mauretania and Numidia lay west of Carthage. Brief accounts of the 435 agreement leave the boundaries of the area concerned uncertain."
+  }
+}

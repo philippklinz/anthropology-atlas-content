@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:marcianopolis-rising",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+    },
+    {
+      "sourceId": "source:leveniotis-kalafikis-marcianople-2024",
+      "role": "supports",
+      "locator": "pp. 371–378, especially pp. 374–376 and nn. 55–59: approach to Marcianopolis and the case for a battle early in 377"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Das Gastmahl und der Aufstand in Marcianopolis",
+    "en": "The banquet and the rising at Marcianopolis"
+  },
+  "note": {
+    "de": "Am Stadttor eskalierte ein Streit über den Zugang zu Lebensmitteln, während Fritigern und Alavivus bei Lupicinus speisten. Der in Teilen unsichere zeitliche Ablauf fällt in die Jahre 376/377.",
+    "en": "A dispute about access to food escalated at the city gate while Fritigern and Alavivus dined with Lupicinus. The sequence is partly uncertain and falls in 376–377."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 376,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 377,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:fritigern",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:ammianus-res-gestae-31",
+          "role": "supports",
+          "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:marcianopolis"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:marcianopolis-orientation",
+      "role": "location"
+    }
+  ]
+}

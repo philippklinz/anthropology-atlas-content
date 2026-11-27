@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-gallaecia-419",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 418–420: Gunderic in Gallaecia, conflict with Hermeric in 419 and withdrawal to Baetica in 420."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Fläche verortet Gallaecia grob im Nordwesten der Halbinsel. Der erwähnte Kriegsschauplatz innerhalb der Provinz lässt sich nicht verlässlich auf einen Punkt festlegen.",
+    "en": "The area broadly locates Gallaecia in the northwest of the peninsula. The theatre of fighting within the province cannot be reliably assigned to a single point."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

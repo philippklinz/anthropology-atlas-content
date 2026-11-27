@@ -1,0 +1,380 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:alaric-rome-and-aquitaine",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Entry extract: c. 395–410, addition of survivors from Radagaisus’ force, negotiations with the empire, operations in Italy and the sack on 24 August 410"
+    },
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "pp. 69–73: Alaric in Achaea, Athens, Corinth and ancient accounts; p. 69: the battle near Pollentia in 402"
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "5.39.1–4 and 5.41–42: Tiber supply line, falling rations, Laeta and Pissamena, the ransom and the end of the first blockade"
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "5.48.1–3: Jovius meets Alaric at Ariminum and sends demands including annual gold, grain and settlement to the emperor"
+    },
+    {
+      "sourceId": "source:jerome-letter-127",
+      "role": "supports",
+      "locator": "Letter 127.12–14: news from Rome, the attack on Marcella, Principia and refuge at the basilica of Paul; letter addressed to Principia after the event"
+    },
+    {
+      "sourceId": "source:augustine-city-of-god-i",
+      "role": "supports",
+      "locator": "Book I, chapters 1 and 7: the argument about the sack and protection for fugitives in churches"
+    },
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "Opening paragraphs, p. 65 and notes 1–2: recall from Hispania, Aquitanica Secunda and neighbouring cities, Toulouse and the open question of settlement density"
+    }
+  ],
+  "labels": {
+    "de": "Alarich, das belagerte Rom und ein Zuhause in Aquitanien",
+    "en": "Alaric, Rome under siege and a home in Aquitaine"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "person:alaric-i",
+    "event:rome-sieges-408-410",
+    "event:ariminum-talks-409",
+    "person:marcella-of-rome",
+    "event:rome-sack-410",
+    "event:aquitaine-settlement-418"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 12.4,
+      "latitude": 42.4,
+      "metersPerPixel": 7300,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 395,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 395,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 418,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 418,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "migrations",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "achaia",
+      "textAnchor": "achaia",
+      "labels": {
+        "de": "396 · Alarichs Gefolgschaft in Achaia",
+        "en": "396 · Alaric’s following in Achaea"
+      },
+      "summary": {
+        "de": "Die Berichte über Athen und Korinth werfen unterschiedliche Fragen nach den Spuren des Feldzugs auf.",
+        "en": "Accounts of Athens and Corinth raise different questions about the traces of the campaign."
+      },
+      "state": {
+        "camera": {
+          "longitude": 23.3,
+          "latitude": 38.0,
+          "metersPerPixel": 1250,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 396,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 396,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "ariminum",
+      "textAnchor": "ariminum",
+      "labels": {
+        "de": "409 · Gespräche an der Adriaküste",
+        "en": "409 · Talks on the Adriatic"
+      },
+      "summary": {
+        "de": "Alarich und Jovius trafen sich in Ariminum. Die Forderungen gingen an den Kaiserhof in Ravenna.",
+        "en": "Alaric and Jovius met at Ariminum. The demands went on to the imperial court in Ravenna."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.42,
+          "latitude": 44.23,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 409,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 409,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "rome",
+      "textAnchor": "rome",
+      "labels": {
+        "de": "410 · Zwei Frauen in Rom",
+        "en": "410 · Two women in Rome"
+      },
+      "summary": {
+        "de": "Hieronymus schrieb an Principia, wie sie und Marcella in der geplünderten Stadt Schutz fanden.",
+        "en": "Jerome wrote to Principia about her experience with Marcella as the two found refuge in the city."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.49,
+          "latitude": 41.89,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 410,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 410,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "aquitaine",
+      "textAnchor": "aquitaine",
+      "labels": {
+        "de": "418 · Von Toulouse Richtung Atlantik",
+        "en": "418 · From Toulouse towards the Atlantic"
+      },
+      "summary": {
+        "de": "Die überlieferten regionalen Namen geben einen Anhaltspunkt für die Ansiedlung unter Alarichs Nachfolgern.",
+        "en": "The names of the regions in the sources help situate the settlement under Alaric’s successors."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.48,
+          "latitude": 44.78,
+          "metersPerPixel": 2300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 418,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 418,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "migrations",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Von Alarichs wechselnder Gefolgschaft zur Ansiedlung in Gallien. Wer ernährte Rom während der Belagerung, und was erzählen Marcella und Principia durch den Brief des Hieronymus?",
+      "en": "From Alaric’s changing following to settlement in Gaul. Who fed Rome during the siege, and what does Jerome’s letter reveal about Marcella and Principia?"
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "balkans",
+        "labels": {
+          "de": "Balkan",
+          "en": "Balkans"
+        }
+      },
+      {
+        "id": "italy",
+        "labels": {
+          "de": "Italien",
+          "en": "Italy"
+        }
+      },
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "goths",
+        "labels": {
+          "de": "Goten",
+          "en": "Goths"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "assertion:alaric-achaia-396",
+    "assertion:alaric-pollentia-402",
+    "assertion:alaric-rome-408-410",
+    "assertion:gothic-settlement-aquitaine-418",
+    "community:alarics-followers",
+    "community:gothic-settlers-in-aquitaine",
+    "event:aquitaine-settlement-418",
+    "event:ariminum-talks-409",
+    "event:ravenna-court-response-409",
+    "event:rome-sack-410",
+    "event:rome-sieges-408-410",
+    "geometry:alaric-achaia-396",
+    "geometry:alaric-pollentia-402",
+    "geometry:alaric-rome-408-410",
+    "geometry:ariminum-rimini-orientation",
+    "geometry:gothic-settlement-aquitaine-418",
+    "geometry:ravenna-orientation",
+    "geometry:rome-orientation",
+    "geometry:tolosa-toulouse-orientation",
+    "person:alaric-i",
+    "person:constantius-patrician",
+    "person:jovius-409",
+    "person:marcella-of-rome",
+    "place:ariminum-rimini",
+    "place:ravenna",
+    "place:rome",
+    "place:tolosa-toulouse",
+    "region:achaia-campaign",
+    "region:aquitanian-settlement-context",
+    "region:northern-italian-campaign",
+    "region:rome-and-lower-tiber",
+    "source:augustine-city-of-god-i",
+    "source:heather-alaric-2015",
+    "source:jacobs-gothic-invasion-2014",
+    "source:jerome-letter-127",
+    "source:pleiades-ancient-places",
+    "source:thompson-southern-gaul-settlement",
+    "source:usno-calendars",
+    "source:zosimus-new-history-5"
+  ]
+}

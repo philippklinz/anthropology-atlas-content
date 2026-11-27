@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-hippo-430",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entry 430: siege of Hippo and death of Augustine."
+    },
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 430: Augustine dies while the Vandals besiege the city."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die markierte Umgebung der antiken Stadt beim heutigen Annaba dient der Orientierung. Die Lage eines Belagerungsrings oder einzelner Lager lässt sich daraus nicht bestimmen.",
+    "en": "The marked area around the ancient town near modern Annaba provides orientation. It cannot locate a siege perimeter or individual camps."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ravenna-change-of-rule-493",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Introduction, opening paragraphs through note 4. Odoacer in 476, the eastern emperor Zeno’s mandate, the Italian campaign in 489, the agreement and killing in 493, and Theoderic’s death in 526."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 53–56. Camp in the Pineta, reported price of a measure of wheat, difficulties during the siege, entry into Ravenna and Odoacer’s death."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Odoakers Tod und Theoderichs Einzug in Ravenna",
+    "en": "Odoacer’s death and Theoderic’s entry into Ravenna"
+  },
+  "note": {
+    "de": "Die Gegner einigten sich auf geteilte Herrschaft. Kurz nach seinem Einzug tötete Theoderich Odoaker. Theoderichs Heer rief ihn zum König aus.",
+    "en": "The opponents agreed to share power. Shortly after entering Ravenna Theoderic killed Odoacer. His army acclaimed him as king."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 493,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 493,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:odoacer",
+      "role": "participant"
+    },
+    {
+      "entityId": "person:theoderic-the-amal",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:ravenna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ravenna-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

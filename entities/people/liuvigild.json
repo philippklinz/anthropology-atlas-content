@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:liuvigild",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:castilla-la-mancha-recopolis",
+      "role": "supports",
+      "locator": "Introduction and Sobre este lugar: foundation in 578 in honour of the king’s son, the commercial street rising to the palace and church, and the site near Zorita de los Canes."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Leovigild",
+    "en": "Liuvigild"
+  },
+  "summary": {
+    "de": "Der König ließ eine Stadt am Tajo gründen und benannte sie nach seinem Sohn Rekkared.",
+    "en": "The king founded a town on the Tagus and named it for his son Reccared."
+  }
+}

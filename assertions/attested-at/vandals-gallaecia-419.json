@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandals-gallaecia-419",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 418–420: Gunderic in Gallaecia, conflict with Hermeric in 419 and withdrawal to Baetica in 420."
+    }
+  ],
+  "subjectId": "community:vandals-in-the-fifth-century",
+  "predicate": "attested-at",
+  "objectId": "region:hispania-in-the-chronicles",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 419,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 419,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Fläche verortet Gallaecia grob im Nordwesten der Halbinsel. Der erwähnte Kriegsschauplatz innerhalb der Provinz lässt sich nicht verlässlich auf einen Punkt festlegen.",
+      "en": "The area broadly locates Gallaecia in the northwest of the peninsula. The theatre of fighting within the province cannot be reliably assigned to a single point."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandals-gallaecia-419",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Nach den Kämpfen im Süden nennt Hydatius Gunderich in Gallaecia. Für 419 berichtet er von dessen Konflikt mit dem suebischen König Hermerich. Erst im Folgejahr verzeichnet die Chronik den Wechsel nach Baetica.",
+    "en": "After the fighting in the south, Hydatius places Gunderic in Gallaecia. He records his conflict with the Suebic king Hermeric in 419. The chronicle places the move to Baetica in the following year."
+  }
+}

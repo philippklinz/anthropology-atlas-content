@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:ostrogothic-ravenna-493-540",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Introduction, opening paragraphs through note 4. Odoacer in 476, the eastern emperor Zeno’s mandate, the Italian campaign in 489, the agreement and killing in 493, and Theoderic’s death in 526."
+    },
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Discussion of Witigis and Belisarius, paragraphs around notes 113–120. Surrender of Ravenna in 540 and its continued imperial control during the remaining war."
+    },
+    {
+      "sourceId": "source:unesco-early-christian-ravenna",
+      "role": "supports",
+      "locator": "Outstanding Universal Value, Brief synthesis, paragraphs on the Arian Baptistery, Sant’Apollinare Nuovo, the mausoleum and the Archbishop’s Chapel."
+    }
+  ],
+  "subjectId": "polity:ostrogothic-kingdom-in-italy",
+  "predicate": "controls",
+  "objectId": "place:ravenna",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 493,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 493,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 540,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 540,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die kleine Fläche kennzeichnet Ravenna als politisches Zentrum. Sie fasst nur den örtlichen Anhaltspunkt zusammen. Außerhalb dieses Ausschnitts reichte das Königreich weit über die Stadt hinaus.",
+      "en": "The small area locates Ravenna as a political centre. Its boundary is an editorial frame for the urban locality. The kingdom extended well beyond it."
+    }
+  },
+  "note": {
+    "de": "Ravenna war von Theoderichs Einzug 493 bis zur Übergabe an Belisar 540 ein Herrschaftssitz der ostgotischen Könige. 526 ging die Herrschaft auf seinen Enkel über.",
+    "en": "Ravenna was a seat of the Ostrogothic kings from Theoderic’s entry in 493 until its surrender to Belisarius in 540. The kingship passed to his grandson in 526."
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:ostrogothic-ravenna-493-540",
+      "role": "extent"
+    }
+  ]
+}

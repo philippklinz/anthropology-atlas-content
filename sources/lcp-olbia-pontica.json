@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:lcp-olbia-pontica",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Olbia Pontica · site 2642",
+  "sourceType": "dataset",
+  "creators": [
+    "The Levantine Ceramics Project"
+  ],
+  "url": "https://www.levantineceramics.org/sites/2642-olbia-pontica",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Site information and geographic point for Olbia near Parutyne. The ceramics project also links to a transport amphora from the site.",
+  "published": "2024"
+}

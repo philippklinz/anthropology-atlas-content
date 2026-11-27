@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandal-african-provinces-442-496",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, pp. xiii–xiv: settlement of 442, Proconsularis, Byzacena and Numidia; late fifth-century rulers and events at Carthage."
+    },
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 442: demarcation agreed by Valentinian and Geiseric. Prosper gives no map of the frontier."
+    }
+  ],
+  "subjectId": "polity:vandal-kingdom-in-africa",
+  "predicate": "controls",
+  "objectId": "region:carthage-and-tunisian-provinces",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 442,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 442,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 496,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 496,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Ausgewählt sind Karthago und Teile des Hinterlands im heutigen Tunesien. Weitere Gebiete, unter anderem in Numidien, lagen außerhalb dieses Ausschnitts. Das Jahr 496 begrenzt das Kapitel; das Reich bestand weiter.",
+      "en": "Carthage and parts of its hinterland in present-day Tunisia are selected. Other territories, including parts of Numidia, fall outside this window. The year 496 closes the chapter; the kingdom continued."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandal-african-provinces-442-496",
+      "role": "extent"
+    }
+  ],
+  "note": {
+    "de": "Die Vereinbarung von 442 bestätigte Geiserichs Macht über wohlhabende römische Provinzen. Die Karte zeigt einen Teil des Kernraums in Africa Proconsularis und Byzacena. In diesen Städten und Agrarlandschaften lebten Menschen unterschiedlicher Herkunft unter neuen politischen Bedingungen.",
+    "en": "The settlement of 442 confirmed Geiseric’s power over wealthy Roman provinces. The map selects part of the core in Africa Proconsularis and Byzacena. People of different backgrounds lived in these towns and rural landscapes under new political arrangements."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:ravenna-palatium-sibeaster",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sibeaster-palatium-ravenna",
+      "role": "supports",
+      "locator": "Summary, source, public-domain dedication and file history of 29 June 2009. Original image from the photographer."
+    },
+    {
+      "sourceId": "source:whelan-people-in-the-palace",
+      "role": "supports",
+      "locator": "pp. 242–244, figs. 7.1–7.2 and notes 1–6. The palace facade, remnants of hands after the redesign, and readings of the gesture as a greeting or prayer."
+    }
+  ],
+  "assetType": "image",
+  "file": "palatium.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Der Palast im Mosaik von Sant’Apollinare Nuovo",
+    "en": "The palace in the mosaic of Sant’Apollinare Nuovo"
+  },
+  "alt": {
+    "de": "Goldgrundiges Mosaik mit dem Giebel PALATIVM und gemusterten hellen Vorhängen. Auf hellen Säulenschäften sind Reste früherer Figuren zu erkennen.",
+    "en": "A gold-ground mosaic with the gable marked PALATIVM and pale patterned curtains. Traces of earlier figures survive on the light-coloured columns."
+  },
+  "entityIds": [
+    "artifact:ravenna-palatium-mosaic",
+    "place:ravenna"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Sibeaster"
+    ],
+    "attribution": "Sibeaster, June 2009 · Wikimedia Commons · public domain, released by the photographer",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palatium.jpg",
+    "originNote": "Unmodified 1,632 × 1,224 original JPEG. The photographer released the image into the public domain worldwide and granted unrestricted use wherever that dedication is not possible."
+  }
+}

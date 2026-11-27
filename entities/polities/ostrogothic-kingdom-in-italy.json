@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "polity:ostrogothic-kingdom-in-italy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Introduction, opening paragraphs through note 4. Odoacer in 476, the eastern emperor Zeno’s mandate, the Italian campaign in 489, the agreement and killing in 493, and Theoderic’s death in 526."
+    },
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Paragraphs around notes 84–88. Athalaric, his minority and his mother Amalasuentha’s regency, the accession letters and the promised continuation of rights."
+    },
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Discussion of Witigis and Belisarius, paragraphs around notes 113–120. Surrender of Ravenna in 540 and its continued imperial control during the remaining war."
+    }
+  ],
+  "entityType": "polity",
+  "labels": {
+    "de": "Ostgotisches Königreich in Italien",
+    "en": "Ostrogothic kingdom in Italy"
+  },
+  "summary": {
+    "de": "Das Königreich bestand über Theoderichs Tod hinaus. Ravenna blieb bis zur Einnahme durch Belisar 540 ein Sitz des Königshofs. Der Krieg ging in anderen Teilen Italiens weiter.",
+    "en": "The kingdom survived Theoderic’s death. Ravenna remained a seat of the royal court until Belisarius took the city in 540. The war continued elsewhere in Italy."
+  }
+}

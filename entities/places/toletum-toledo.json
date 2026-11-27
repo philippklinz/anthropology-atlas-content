@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:toletum-toledo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barroso-cabrera-throne-and-altar",
+      "role": "supports",
+      "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+    },
+    {
+      "sourceId": "source:ferreiro-third-council-toledo",
+      "role": "supports",
+      "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q5836, coordinate location (P625), rounded to 0.01 degree."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Toledo am Tajo",
+    "en": "Toledo on the Tagus"
+  },
+  "summary": {
+    "de": "Ort der Rechtssetzung und mehrerer Kirchenversammlungen im sechsten Jahrhundert.",
+    "en": "A setting for royal lawmaking and church councils in the sixth century."
+  }
+}

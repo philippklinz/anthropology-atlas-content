@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:gothic-army-at-abritus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radoslavova-abritus-2011",
+      "role": "supports",
+      "locator": "p. 23, opening discussion of Dexippus and later historians"
+    },
+    {
+      "sourceId": "source:razgrad-abritus-reserve",
+      "role": "supports",
+      "locator": "Description of the ancient city and the summer 251 battle in its vicinity"
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Gotisches Heer bei Abritus",
+    "en": "Gothic army at Abritus"
+  },
+  "summary": {
+    "de": "Die in den Berichten über die Schlacht von 251 als Goten bezeichnete Streitmacht. Ihre genaue Zusammensetzung bleibt unklar.",
+    "en": "The force identified as Gothic in accounts of the battle of 251. Its precise composition remains uncertain."
+  }
+}

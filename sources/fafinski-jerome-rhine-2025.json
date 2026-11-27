@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:fafinski-jerome-rhine-2025",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The ends of history? Jerome, Geruchia, and the Rhine crossings",
+  "sourceType": "article",
+  "creators": [
+    "Mateusz Fafinski"
+  ],
+  "url": "https://doi.org/10.1111/emed.12752",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Early Medieval Europe 33, pp. 71–93. Compares Jerome, Orosius, Prosper and Frigeridus and considers the literary purpose of Jerome’s letter.",
+  "published": "2025",
+  "publisher": "Wiley"
+}

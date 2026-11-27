@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:theudis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barroso-cabrera-throne-and-altar",
+      "role": "supports",
+      "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+    },
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Document 12, Decretum Theudis regis, pp. 262–264: expenses, witnesses, horses, inclusion in the Theodosian collection and Toledo dating clause."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Theudis",
+    "en": "Theudis"
+  },
+  "summary": {
+    "de": "Der westgotische König erließ in Toledo eine Vorschrift über Gerichtskosten.",
+    "en": "The Visigothic king issued a decree on litigation costs at Toledo."
+  }
+}

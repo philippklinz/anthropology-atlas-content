@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:theoderic-and-ravenna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Ravenna unter Theoderich",
+    "en": "Ravenna under Theoderic"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:alaric-rome-and-aquitaine"
+  ],
+  "recordIds": [
+    "artifact:ravenna-inscribed-water-pipes",
+    "artifact:ravenna-palatium-mosaic",
+    "assertion:ostrogothic-ravenna-493-540",
+    "assertion:theoderic-kingship-in-italy",
+    "assertion:theoderic-siege-ravenna-490-493",
+    "assertion:theoderic-verona-489",
+    "asset:ravenna-palatium-sibeaster",
+    "chapter:theoderic-and-ravenna",
+    "community:theoderics-following",
+    "event:amalasuntha-regency-526",
+    "event:ravenna-change-of-rule-493",
+    "event:ravenna-restored-water-502",
+    "event:ravenna-siege-490-493",
+    "event:ravenna-surrender-to-belisarius-540",
+    "event:theoderic-rome-500",
+    "event:theoderic-verona-encounter-489",
+    "geometry:ostrogothic-ravenna-493-540",
+    "geometry:theoderic-siege-ravenna-490-493",
+    "geometry:theoderic-verona-489",
+    "geometry:verona-urban-orientation",
+    "person:amalasuntha",
+    "person:belisarius",
+    "person:odoacer",
+    "person:theoderic-the-amal",
+    "place:verona",
+    "polity:ostrogothic-kingdom-in-italy",
+    "region:plain-outside-verona",
+    "region:ravenna-and-its-approaches",
+    "source:anonymus-valesianus-theoderic",
+    "source:cassiodorus-variae-5-38",
+    "source:guerrini-theoderic-epigraphy",
+    "source:heydemann-ostrogothic-kingdom",
+    "source:sibeaster-palatium-ravenna",
+    "source:unesco-early-christian-ravenna",
+    "source:unesco-verona-world-heritage",
+    "source:venning-western-europe-2018",
+    "source:whelan-people-in-the-palace"
+  ],
+  "entryChapterIds": [
+    "chapter:theoderic-and-ravenna"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

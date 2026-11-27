@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cieslinski-wielbark-2016",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Society of Wielbark Culture, AD 1–300",
+  "sourceType": "book",
+  "creators": [
+    "Adam Cieśliński"
+  ],
+  "url": "https://prussia.online/Data/Book/th/the-society-of-wielbark-culture-ad-1-300/Cie%C5%9Bli%C5%84ski%20A.%20The%20Society%20of%20Wielbark%20Culture%2C%20AD%201-300%20%282016%29%2C%20OCR.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The Past Societies, vol. 4, chapter 7, pp. 217–255. Institute of Archaeology and Ethnology, Polish Academy of Sciences. Compares the site distributions and the texts of Tacitus, Ptolemy and Jordanes.",
+  "published": "2016"
+}

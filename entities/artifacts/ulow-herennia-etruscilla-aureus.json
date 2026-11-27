@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ulow-herennia-etruscilla-aureus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "pp. 195–196 on the imperial treasury hypothesis, p. 199 and fig. 2 on p. 201, p. 219 on the nine aureus fragments and cut gold from burial 19 at Ulów site 7."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Die zerteilte Goldmünze von Ulów",
+    "en": "The cut gold coin from Ulów"
+  },
+  "summary": {
+    "de": "Neun Bruchstücke eines Aureus für Herennia Etruscilla lagen in Grab 19, Fundstelle 7, mit Teilen von Golddraht und Goldblech. Die Verbindung zur kaiserlichen Kasse bei Abritus ist eine Forschungshypothese.",
+    "en": "Nine pieces of an aureus issued for Herennia Etruscilla lay in grave 19 at site 7 alongside cut wire and gold foil. A connection with the imperial treasury at Abritus is a scholarly hypothesis."
+  }
+}

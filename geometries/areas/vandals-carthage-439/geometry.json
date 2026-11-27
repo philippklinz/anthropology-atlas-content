@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-carthage-439",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entries for 439 and 442: seizure of Carthage followed by the treaty."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entries 439 and 442."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Markiert ist die Stadt mit ihrem nahen Umfeld. Diese kleinräumige Darstellung dient als gesicherter Anhaltspunkt für die Jahre vor dem Vertrag von 442 und setzt der tatsächlichen Macht des Königs keine räumliche Grenze.",
+    "en": "The outline marks the city and its immediate surroundings, a secure reference point before the 442 treaty. It leaves open the actual extent of the king’s power in those years."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

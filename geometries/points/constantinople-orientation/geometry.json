@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:constantinople-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "derivation",
+      "locator": "Place 520998, title and representative point (reprPoint) in the official Pleiades JSON export."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Kaiserresidenz am Bosporus im heutigen Istanbul. Der Punkt auf der historischen Halbinsel zeigt die Stadt, in der sich 360 die Bischöfe versammelten. Das Versammlungsgebäude wird nicht lokalisiert.",
+      "en": "Imperial capital on the Bosporus in modern Istanbul. The point on the historic peninsula marks the city where the bishops met in 360. Their specific meeting place is unknown here."
+    }
+  },
+  "processingNote": {
+    "de": "Der repräsentative Punkt des antiken Stadtgebiets ist auf zwei Dezimalstellen gerundet.",
+    "en": "The representative point of the ancient urban area is rounded to two decimal places."
+  },
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "C. Foss"
+    ],
+    "attribution": "C. Foss and Pleiades contributors, place 520998. CC BY 3.0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://pleiades.stoa.org/places/520998",
+    "originNote": "Adapted from the published Pleiades JSON reprPoint for 520998. Full contributor list at the place URI. Licence: https://creativecommons.org/licenses/by/3.0/."
+  }
+}

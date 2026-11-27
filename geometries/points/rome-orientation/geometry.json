@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:rome-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "derivation",
+      "locator": "Pleiades place 423025. Representative location of the ancient city in the published places CSV export; coordinates rounded to 0.01 degree."
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "5.39.1–4 and 5.41–42: Tiber supply line, falling rations, Laeta and Pissamena, the ransom and the end of the first blockade"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Orientierung am antiken Stadtgebiet. Die Entfernung zu einem konkreten Ereignis ist unbekannt.",
+      "en": "Urban reference point. Its distance from a particular historical event is unknown."
+    }
+  },
+  "processingNote": {
+    "de": "Stadt am Tiber. Der Punkt verortet das antike Rom und lässt die genaue Ausdehnung der Belagerung offen.",
+    "en": "City on the Tiber. The point locates ancient Rome and leaves the precise extent of the siege open."
+  },
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "L. Quilici",
+      "S. Quilici Gigli"
+    ],
+    "attribution": "L. Quilici, S. Quilici Gigli / Pleiades 423025, CC BY 3.0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://pleiades.stoa.org/places/423025",
+    "originNote": "Rounded adaptation of the Pleiades representative point; licence https://creativecommons.org/licenses/by/3.0/."
+  }
+}

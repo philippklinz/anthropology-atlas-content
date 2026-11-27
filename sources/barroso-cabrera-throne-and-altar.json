@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:barroso-cabrera-throne-and-altar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Between Throne and Altar: Political Power and Episcopal Authority in the Beginning of the Visigothic Kingdom of Toledo",
+  "sourceType": "article",
+  "creators": [
+    "Rafael Barroso Cabrera"
+  ],
+  "url": "https://doi.org/10.5117/9789463720632_ch15",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Chapter 15 in the volume edited by Sabine Panzram and Paulo Pachá. The opening discusses the court and bishops at Toledo before Liuvigild.",
+  "published": "2020",
+  "containerTitle": "The Visigothic Kingdom: The Negotiation of Power in Post-Roman Iberia, pp. 295–314",
+  "identifiers": {
+    "doi": "10.5117/9789463720632_ch15"
+  }
+}

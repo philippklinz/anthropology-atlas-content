@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:verona",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    },
+    {
+      "sourceId": "source:unesco-verona-world-heritage",
+      "role": "supports",
+      "locator": "Geographical data, property 797rev. World Heritage site coordinate at Verona: 45°26′19″ N, 10°59′38″ E. Used only to orient the reader to the urban locality."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Verona",
+    "en": "Verona"
+  },
+  "summary": {
+    "de": "Vor dieser Stadt an der Etsch standen sich 489 die Heere Odoakers und Theoderichs gegenüber. Der Bericht nennt eine Ebene vor der Stadt.",
+    "en": "The armies of Odoacer and Theoderic met outside this city on the Adige in 489. The account situates the engagement on a plain outside the city."
+  }
+}

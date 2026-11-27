@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:pleiades-ancient-places",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pleiades: A Gazetteer of Past Places",
+  "sourceType": "dataset",
+  "creators": [
+    "Pleiades contributors",
+    "Ancient World Mapping Center and Institute for the Study of the Ancient World"
+  ],
+  "url": "https://pleiades.stoa.org/downloads",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Representative coordinates checked in the official CSV place export. Stable place IDs and individual contributors appear in each point record. These coordinates identify urban reference locations only. Derived points carry CC BY 3.0 attribution."
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:project-wulfila-matthew-6-9",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gothic Bible, Matthew 6:9",
+  "sourceType": "catalog",
+  "creators": [
+    "Project Wulfila, University of Antwerp"
+  ],
+  "url": "https://wulfila.be/gothic/browse/text/01/06/09.html",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Annotated Gothic text with a separate manuscript location for each token. Glosses and grammatical analysis can be checked individually."
+}

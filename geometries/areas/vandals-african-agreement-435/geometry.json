@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:vandals-african-agreement-435",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 435: peace and an unspecified part of Africa for settlement."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entry 435: first agreement with the western empire and a reconstruction involving the Mauretanias and part of Numidia."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Ausschnitt westlich von Karthago zeigt den räumlichen Rahmen einer Rekonstruktion. Prosper nennt keine Ortsliste. Der Umriss ist als Orientierung für die Vertragsphase bis 439 gezeichnet.",
+    "en": "The window west of Carthage gives the regional context of a reconstruction. Prosper lists no places. The outline gives orientation for the treaty phase before 439."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

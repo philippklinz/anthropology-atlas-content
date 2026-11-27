@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:wulfilas-refugees",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:auxentius-life-of-wulfila",
+      "role": "supports",
+      "locator": "Personal recollection beginning Quem condigne laudare; trilingual writing in Et haec omnia; seven years, expulsion, reception under Constantius and crossing of the Danube in Ubi et post multorum."
+    },
+    {
+      "sourceId": "source:krause-slocum-wulfila",
+      "role": "supports",
+      "locator": "Opening section Wulfila, excerpt of Philostorgius, Ecclesiastical History 2.5 in Photius’ epitome, followed by the conditional calculation of 347–348."
+    },
+    {
+      "sourceId": "source:schaeferdiek-germanic-christianities",
+      "role": "supports",
+      "locator": "pp. 52–54, especially p. 53 on the 340s persecution, reception under Constantius, vicinity of Nicopolis ad Istrum, and the later crossing in 376."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Die mit Wulfila aufgenommenen Christen",
+    "en": "Christians received with Wulfila"
+  },
+  "summary": {
+    "de": "Christen, die mit ihrem Bischof während der Herrschaft von Constantius II. die Donau überschritten. Ihre Aufnahme liegt vor der Flucht von 376.",
+    "en": "Christians who crossed the Danube with their bishop in the reign of Constantius II. Their reception predates the flight of 376."
+  }
+}

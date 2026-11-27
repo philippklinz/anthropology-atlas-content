@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:gothic-settlement-aquitaine-418",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "p. 65, opening paragraphs and n. 1: Aquitanica Secunda between the Loire and Garonne estuaries, Toulouse, and disputed neighbouring communities."
+    }
+  ],
+  "subjectId": "community:gothic-settlers-in-aquitaine",
+  "predicate": "attested-at",
+  "objectId": "region:aquitanian-settlement-context",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 418,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 418,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der eine Ausschnitt liegt zwischen den Mündungen von Loire und Garonne, der andere um Toulouse. Die übrigen betroffenen Gemeinden und die Verteilung der Ansiedlung entziehen sich einer genauen Kartierung.",
+      "en": "One selected area lies between the Loire and Garonne estuaries, the other around Toulouse. The other communities involved and the pattern of actual residence cannot be precisely mapped."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:gothic-settlement-aquitaine-418",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Vereinbarung von 418 eröffnete gotischen Gruppen Siedlungsmöglichkeiten in Aquitanica Secunda und in angrenzenden Stadtgebieten. Toulouse lag außerhalb der Provinz. Die beiden Flächen machen diesen Unterschied sichtbar.",
+    "en": "The settlement of 418 gave Gothic groups places to live in Aquitanica Secunda and adjacent civic territories. Toulouse lay outside that province. The separate outlines illustrate that distinction."
+  }
+}

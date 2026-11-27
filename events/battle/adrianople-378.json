@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:adrianople-378",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Notes on the Julian and Gregorian calendars. From March 300 to February 500 the proleptic Gregorian date is one day ahead of the Julian date, including in August 378 and 410."
+    }
+  ],
+  "eventType": "battle",
+  "labels": {
+    "de": "Schlacht bei Hadrianopolis",
+    "en": "Battle near Adrianople"
+  },
+  "note": {
+    "de": "Fritigerns Verband und seine Verbündeten besiegten das Heer des Valens. Der Punkt bezeichnet das heutige Edirne als Orientierung in der Nähe des Schlachtfelds.",
+    "en": "Fritigern’s following and its allies defeated the army of Valens. The point identifies modern Edirne as a reference near the battlefield."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 378,
+        "month": 8,
+        "day": 10
+      },
+      "latest": {
+        "year": 378,
+        "month": 8,
+        "day": 10
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "9.8.378",
+        "calendar": "julian",
+        "conversionNote": "One day later in the proleptic Gregorian calculation calendar. The display retains the conventional historical Julian day."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:fritigern",
+      "role": "commander",
+      "sourceRefs": [
+        {
+          "sourceId": "source:ammianus-res-gestae-31",
+          "role": "supports",
+          "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+        }
+      ]
+    },
+    {
+      "entityId": "person:valens-emperor",
+      "role": "commander",
+      "sourceRefs": [
+        {
+          "sourceId": "source:ammianus-res-gestae-31",
+          "role": "supports",
+          "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:hadrianopolis-edirne"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hadrianopolis-edirne-orientation",
+      "role": "location"
+    }
+  ]
+}

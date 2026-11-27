@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:marcianopolis-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "derivation",
+      "locator": "Pleiades place 216878. Representative location of the ancient city in the published places CSV export; coordinates rounded to 0.01 degree."
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.4.9–13; 31.5.1–9: forced exchange for food, Greuthungian crossing, banquet and violence at Marcianopolis"
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Orientierung am antiken Stadtgebiet. Die Entfernung zu einem konkreten Ereignis ist unbekannt.",
+      "en": "Urban reference point. Its distance from a particular historical event is unknown."
+    }
+  },
+  "processingNote": {
+    "de": "Hier trafen Fritigern und Alavivus den römischen Befehlshaber Lupicinus. Die Stadt liegt im heutigen Bulgarien.",
+    "en": "Here Fritigern and Alavivus met the Roman commander Lupicinus. The city is in present-day Bulgaria."
+  },
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "A. G. Poulter"
+    ],
+    "attribution": "A. G. Poulter / Pleiades 216878, CC BY 3.0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://pleiades.stoa.org/places/216878",
+    "originNote": "Rounded adaptation of the Pleiades representative point; licence https://creativecommons.org/licenses/by/3.0/."
+  }
+}

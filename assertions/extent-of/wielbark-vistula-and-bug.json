@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:wielbark-vistula-and-bug",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "pp. 225–227, fig. 8 and Settlement changes: lower Vistula continuity and eastern Polish sites in the second half of the second century, especially the Liwiec–Bug confluence."
+    }
+  ],
+  "subjectId": "region:wielbark-find-distribution",
+  "predicate": "extent-of",
+  "objectId": "region:vistula-bug-basins",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 151,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 151,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 200,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 200,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Beide Teilflächen fassen ausgewählte Befunde zusammen. Der Wechsel der Kartenansicht um 150 ordnet die Funde einer groben Phase zu. Einzelne Siedlungen, Familien und Traditionen folgten unterschiedlichen Zeitplänen.",
+      "en": "Both areas group selected finds. The map change around 150 is a broad phase division. Individual settlements, families and traditions followed different chronologies."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:wielbark-vistula-and-bug",
+      "role": "extent"
+    }
+  ],
+  "note": {
+    "de": "In der zweiten Hälfte des zweiten Jahrhunderts treten verwandte Befunde auch am Zusammenfluss von Liwiec und Bug auf. In Nordpolen wurden viele Friedhöfe gleichzeitig weiter genutzt. Zwei getrennte Flächen zeigen dieses Nebeneinander.",
+    "en": "During the second half of the second century, related finds also appear around the confluence of the Liwiec and Bug. Many northern Polish cemeteries remained in use at the same time. Two separate areas show their coexistence."
+  }
+}

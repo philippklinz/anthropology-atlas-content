@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:poitiers-pictavis-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0.34,
+      46.58
+    ]
+  }
+}

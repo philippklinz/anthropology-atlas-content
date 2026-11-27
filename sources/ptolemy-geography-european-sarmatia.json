@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ptolemy-geography-european-sarmatia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Geography, book III, chapter 5. European Sarmatia",
+  "sourceType": "book",
+  "creators": [
+    "Claudius Ptolemy"
+  ],
+  "url": "https://penelope.uchicago.edu/Thayer/E/Gazetteer/Periods/Roman/_Texts/Ptolemy/3/5*.html",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "English translation published by the New York Public Library in 1932, transcribed on LacusCurtius. The list of peoples near the Vistula includes the Gythones.",
+  "published": "2nd century CE"
+}

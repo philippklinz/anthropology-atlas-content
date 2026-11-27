@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:maslomecz-hrubieszow-find-zone",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golubinski-maslomecz-2026",
+      "role": "supports",
+      "locator": "Fig. 1B and pp. 2–3, Background. Distribution of excavated settlements and cemeteries including Masłomęcz and Gródek in the eastern Hrubieszów Basin."
+    },
+    {
+      "sourceId": "source:ncn-maslomecz-hrubieszow",
+      "role": "supports",
+      "locator": "Project 2024/55/B/HS3/01985, synopsis p. 1, paragraphs 1–2. Regional group in the eastern Hrubieszów Basin from the late second to late fourth century CE."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der schematische Umriss umfasst die Umgebung der beiden untersuchten Gräberfelder Masłomęcz und Gródek. Die einzelnen Fundplätze wurden zu unterschiedlichen Zeiten genutzt. Die Linie ist eine redaktionelle Auswahl innerhalb einer größeren archäologischen Fundlandschaft.",
+    "en": "The schematic outline takes in the surroundings of two excavated cemeteries, Masłomęcz and Gródek. Individual sites were used at different times. The line marks an editorial selection within a larger archaeological distribution."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

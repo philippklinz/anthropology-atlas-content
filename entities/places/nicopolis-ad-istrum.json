@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:nicopolis-ad-istrum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Place 216895, title and representative point (reprPoint) in the official Pleiades JSON export."
+    },
+    {
+      "sourceId": "source:schaeferdiek-germanic-christianities",
+      "role": "supports",
+      "locator": "pp. 52–54, especially p. 53 on the 340s persecution, reception under Constantius, vicinity of Nicopolis ad Istrum, and the later crossing in 376."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Nicopolis ad Istrum",
+    "en": "Nicopolis ad Istrum"
+  },
+  "summary": {
+    "de": "Stadt beim heutigen Nikjup in Bulgarien. Ihr Name verortet die benachbarte Siedlungsregion. Die genaue Lage von Wulfilas Gemeinde und die Übergangsstelle am Fluss sind unbekannt.",
+    "en": "A city near modern Nikyup in Bulgaria. Its name locates the surrounding settlement district. The exact site of Wulfila’s community and the river crossing are unknown."
+  }
+}

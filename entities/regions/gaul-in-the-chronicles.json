@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:gaul-in-the-chronicles",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entries 405/6 and 406–9: Rhine crossing followed by a period in Gaul."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Gallien in den spätantiken Berichten",
+    "en": "Gaul in late antique accounts"
+  },
+  "summary": {
+    "de": "Westlich des Rheins lagen mehrere römische Provinzen, die zusammenfassend als Gallien bezeichnet werden. Ortsangaben aus Berichten über verschiedene Gruppen lassen sich nur teilweise miteinander verknüpfen.",
+    "en": "West of the Rhine lay several Roman provinces collectively described as Gaul. Accounts of different groups supply only partly connected geographical information."
+  }
+}

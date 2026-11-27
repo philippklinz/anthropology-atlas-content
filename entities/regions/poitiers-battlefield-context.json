@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:poitiers-battlefield-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47, 56–61: date of the battle, Alaric’s death, Gregory’s tenth milestone and rival identifications at Vouillé and Voulon."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Der Raum um Poitiers im Bericht über 507",
+    "en": "The Poitiers area in accounts of 507"
+  },
+  "summary": {
+    "de": "Die antike Entfernungsangabe hat unterschiedliche Lokalisierungen der Schlacht ergeben.",
+    "en": "Scholars have used the ancient estimate of distance to propose several battlefield locations."
+  }
+}

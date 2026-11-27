@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:rome-and-lower-tiber",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.37–42, especially V.39.1: Rome’s approaches and the supply link on the Tiber in the first siege; V.48–51: renewed negotiations."
+    },
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Extract: Italian campaign from 408, shifting alliances, rupture of negotiations, sack of Rome in August 410."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Rom und seine Versorgung am unteren Tiber",
+    "en": "Rome and the lower Tiber supply zone"
+  },
+  "summary": {
+    "de": "Fluss und Häfen verbanden Rom mit der Getreideversorgung über das Mittelmeer. Wer den Verkehr unterbrach, konnte die Stadt unter Druck setzen.",
+    "en": "River and harbours linked Rome to Mediterranean grain supplies. Interrupting that traffic could put pressure on the city."
+  }
+}

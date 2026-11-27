@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:wielbark-lower-vistula",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Sections on the emergence and territorial development of the Wielbark culture, figs. 3 and 8; pp. 228–230 on Pliny, Tacitus and Ptolemy and the lower Vistula."
+    }
+  ],
+  "subjectId": "region:wielbark-find-distribution",
+  "predicate": "extent-of",
+  "objectId": "region:vistula-bug-basins",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 150,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 150,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Umrisslinie markiert eine Auswahl im nördlichen Fundraum. Die archäologische Datierung umfasst Generationen. Über die Sprache oder Zugehörigkeit einzelner Bestatteter entscheidet sie nicht.",
+      "en": "The outline singles out part of the northern find distribution. Archaeological dating covers generations. It leaves individual language and affiliation open."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:wielbark-lower-vistula",
+      "role": "extent"
+    }
+  ],
+  "note": {
+    "de": "Im ersten und in der ersten Hälfte des zweiten Jahrhunderts lassen sich im Gebiet der unteren Weichsel Friedhöfe mit verwandten Beigaben und Bestattungsformen vergleichen. Dort suchen Historiker auch die von antiken Autoren erwähnten Gutonen.",
+    "en": "In the first and the first half of the second century, cemeteries in the lower Vistula region show related grave goods and funerary practices. Historians also locate the Gutones mentioned by ancient writers in this general area."
+  }
+}

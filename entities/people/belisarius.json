@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:belisarius",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Discussion of Witigis and Belisarius, paragraphs around notes 113–120. Surrender of Ravenna in 540 and its continued imperial control during the remaining war."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Belisar",
+    "en": "Belisarius"
+  },
+  "summary": {
+    "de": "Der oströmische Feldherr nahm 540 im Dienst Justinians Ravenna ein. Der gotische König Witigis und sein Gefolge wurden nach Konstantinopel gebracht.",
+    "en": "The eastern Roman commander took Ravenna in 540 while serving Justinian. The Gothic king Witigis and his entourage were taken to Constantinople."
+  }
+}

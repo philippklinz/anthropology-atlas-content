@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bursche-myzgin-abritus-2020",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Gothic invasions of the mid-3rd c. A.D. and the Battle of Abritus: coins and archaeology in east-central Barbaricum",
+  "sourceType": "article",
+  "creators": [
+    "Aleksander Bursche",
+    "Kirill Myzgin"
+  ],
+  "published": "2020",
+  "containerTitle": "Journal of Roman Archaeology 33, 195–229",
+  "url": "https://journalofromanarchaeology.com/wp-content/uploads/2020/10/JRA33_10_Bursche.pdf",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Map 1, p. 202, and Map 6, p. 226 distinguish the distributions assigned to the second half of the third and the fourth to early fifth centuries from plotted coin finds."
+}

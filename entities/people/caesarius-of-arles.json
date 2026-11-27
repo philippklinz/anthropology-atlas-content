@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:caesarius-of-arles",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Caesarius von Arles",
+    "en": "Caesarius of Arles"
+  },
+  "summary": {
+    "de": "Bischof von Arles und Leiter des Konzils von Agde unter Alarich II.",
+    "en": "Bishop of Arles who presided at Agde under Alaric II."
+  }
+}

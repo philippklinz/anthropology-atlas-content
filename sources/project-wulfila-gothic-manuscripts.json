@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:project-wulfila-gothic-manuscripts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Manuscripts of the Gothic Bible and minor fragments",
+  "sourceType": "catalog",
+  "creators": [
+    "Project Wulfila, University of Antwerp"
+  ],
+  "url": "https://www.wulfila.be/gothic/manuscripts/",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Catalogue of the witnesses. Distinguishes the material contents of the Silver Bible from fragments of other Gothic biblical manuscripts."
+}

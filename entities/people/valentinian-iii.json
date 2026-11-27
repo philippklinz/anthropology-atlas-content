@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:valentinian-iii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, 442, Valentinian and Geiseric."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Time Line, pp. xiii–xiv, entries 405/6, 428/29, 430, 435, 439, 442 and 484–496."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Valentinian III.",
+    "en": "Valentinian III"
+  },
+  "summary": {
+    "de": "Weströmischer Kaiser, unter dem 442 die Einigung mit Geiserich über die Herrschaft in Afrika zustande kam.",
+    "en": "Western Roman emperor under whom the agreement dividing African territories with Geiseric was reached in 442."
+  }
+}

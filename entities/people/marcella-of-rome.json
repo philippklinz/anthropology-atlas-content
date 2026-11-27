@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:marcella-of-rome",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jerome-letter-127",
+      "role": "supports",
+      "locator": "Letter 127.12–14: news from Rome, the attack on Marcella, Principia and refuge at the basilica of Paul; letter addressed to Principia after the event"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Marcella von Rom",
+    "en": "Marcella of Rome"
+  },
+  "summary": {
+    "de": "Römische Christin, über deren Erfahrung bei der Plünderung Hieronymus im Rückblick an ihre Gefährtin Principia schrieb.",
+    "en": "Roman Christian whose experience of the sack Jerome recounted afterwards in a letter to her companion Principia."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:rome",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Record 423025: representative location and ancient place name in the published places CSV export."
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "5.39.1–4 and 5.41–42: Tiber supply line, falling rations, Laeta and Pissamena, the ransom and the end of the first blockade"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Rom",
+    "en": "Rome"
+  },
+  "summary": {
+    "de": "Stadt am Tiber. Der Punkt verortet das antike Rom und lässt die genaue Ausdehnung der Belagerung offen.",
+    "en": "City on the Tiber. The point locates ancient Rome and leaves the precise extent of the siege open."
+  }
+}

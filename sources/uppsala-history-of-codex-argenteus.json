@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:uppsala-history-of-codex-argenteus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The history of Codex argenteus",
+  "sourceType": "catalog",
+  "creators": [
+    "Uppsala University Library"
+  ],
+  "url": "https://www.uu.se/en/library/visit-and-contact/exhibitions/codex-argenteus/the-history-of-codex-argenteus",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "The holding institution describes a probable production city and a possible royal patron. It distinguishes leaves held in Uppsala from the separate leaf discovered in Speyer."
+}

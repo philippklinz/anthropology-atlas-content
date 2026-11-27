@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandals-hippo-430",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entry 430: siege of Hippo and death of Augustine."
+    },
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 430: Augustine dies while the Vandals besiege the city."
+    }
+  ],
+  "subjectId": "community:vandals-in-the-fifth-century",
+  "predicate": "attested-at",
+  "objectId": "place:hippo-regius",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 430,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 430,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die markierte Umgebung der antiken Stadt beim heutigen Annaba dient der Orientierung. Die Lage eines Belagerungsrings oder einzelner Lager lässt sich daraus nicht bestimmen.",
+      "en": "The marked area around the ancient town near modern Annaba provides orientation. It cannot locate a siege perimeter or individual camps."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandals-hippo-430",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Während der Belagerung von Hippo Regius starb 430 der Bischof Augustinus. Eine militärische Episode verortet die Angreifer im Umland dieser Hafenstadt. Eine solche Nachricht verrät wenig über die damalige Verteilung von Familien in Nordafrika.",
+    "en": "Bishop Augustine died during the siege of Hippo Regius in 430. The military episode locates the attackers around this port. It tells us little about the distribution of families across North Africa."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:hippo-regius",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sirar-hippo-regius",
+      "role": "supports",
+      "locator": "Location 44779, Coordinates (36.881305, 7.747415), locality and ancient name."
+    },
+    {
+      "sourceId": "source:possidius-life-augustine",
+      "role": "supports",
+      "locator": "Chapters XXVIII–XXX, siege, death and Augustine’s reply to Honoratus (especially §1)."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hippo Regius",
+    "en": "Hippo Regius"
+  },
+  "summary": {
+    "de": "Die antike Stadt liegt bei Annaba im heutigen Algerien. Possidius verbrachte die Belagerung dort bei Augustinus.",
+    "en": "The ancient city lies near modern Annaba in Algeria. Possidius spent the siege there with Augustine."
+  }
+}

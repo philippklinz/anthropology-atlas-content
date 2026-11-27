@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:verona-urban-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:unesco-verona-world-heritage",
+      "role": "supports",
+      "locator": "Geographical data, property 797rev. World Heritage site coordinate at Verona: 45°26′19″ N, 10°59′38″ E. Used only to orient the reader to the urban locality."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Stark gerundeter Bezugspunkt für das Stadtgebiet von Verona. Der Punkt verortet das Ereignis im Umfeld der Stadt.",
+    "en": "Rounded reference point for the urban locality of Verona. The event took place in the vicinity of the city."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Rounded geographical orientation. The coordinates were chosen editorially. No historic boundary, excavation plan or heritage property outline was traced."
+  }
+}

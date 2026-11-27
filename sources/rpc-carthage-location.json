@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rpc-carthage-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Roman Provincial Coinage Online: Carthage, city 999",
+  "sourceType": "dataset",
+  "creators": [
+    "Roman Provincial Coinage Online"
+  ],
+  "url": "https://rpc.ashmus.ox.ac.uk/city/999",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "City record, ancient names and reference coordinates. Used only to locate the site.",
+  "published": "online gazetteer",
+  "publisher": "Ashmolean Museum, University of Oxford"
+}

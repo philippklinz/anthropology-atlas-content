@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:olbia-pontica-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.9024,
+      46.6915
+    ]
+  }
+}

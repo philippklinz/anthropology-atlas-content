@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:komariv-raw-glass-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rumyantseva-komariv-glass-2023",
+      "role": "supports",
+      "locator": "pp. 51–69, abstract, chemical groups and conclusions on raw glass supply and chronology",
+      "note": {
+        "de": "Die Analyse der 42 Proben unterscheidet Herkunftsregionen des Rohglases und erkennt Altglasverwertung.",
+        "en": "The 42-sample analysis distinguishes sources of raw glass and identifies the use of cullet."
+      }
+    },
+    {
+      "sourceId": "source:petrauskas-avramenko-komariv-2019",
+      "role": "supports",
+      "locator": "pp. 68–71, site description and figs. 1–2, settlement and cemetery by the middle Dniester"
+    }
+  ],
+  "subjectId": "artifact:komariv-raw-glass-samples",
+  "predicate": "attested-at",
+  "objectId": "place:komariv-middle-dniester",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 301,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 425,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Die Zusammensetzung der Rohglasstücke gibt Hinweise auf Bezugsquellen der Werkstatt. Direkte Handelswege bleiben offen.",
+    "en": "The composition of the raw glass provides evidence for workshop supply. The exact trade routes remain open."
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:visigoths-toulouse-to-toledo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-tours-histories-ii-37",
+      "role": "supports",
+      "locator": "II.37: tenth milestone outside Poitiers, men from the Auvergne and senatorial families among the dead; treasure taken from Toulouse after the winter at Bordeaux."
+    },
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47, 56–61: date of the battle, Alaric’s death, Gregory’s tenth milestone and rival identifications at Vouillé and Voulon."
+    },
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    },
+    {
+      "sourceId": "source:barroso-cabrera-throne-and-altar",
+      "role": "supports",
+      "locator": "pp. 295–296 and n. 2: Theudis’s Toledo decree of 24 November 546 and the city’s emergence as a royal residence."
+    },
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Document 12, Decretum Theudis regis, pp. 262–264: expenses, witnesses, horses, inclusion in the Theodosian collection and Toledo dating clause."
+    },
+    {
+      "sourceId": "source:castilla-la-mancha-recopolis",
+      "role": "supports",
+      "locator": "Introduction and Sobre este lugar: foundation in 578 in honour of the king’s son, the commercial street rising to the palace and church, and the site near Zorita de los Canes."
+    },
+    {
+      "sourceId": "source:schibille-recopolis-glass-2017",
+      "role": "supports",
+      "locator": "Introduction, paragraphs 1–3: three furnaces south of the palace, earliest workshop dated from the foundation to the first half of the seventh century, vessels, crucibles and workshop and residential samples."
+    },
+    {
+      "sourceId": "source:canellas-hispano-visigothic-documents",
+      "role": "supports",
+      "locator": "Documents 35–36, pp. 278–279: opening and subscriptions to the 589 profession of faith, including Reccared, Queen Baddo and the confirming edict. The editor identifies the later copy."
+    },
+    {
+      "sourceId": "source:ferreiro-third-council-toledo",
+      "role": "supports",
+      "locator": "Opening account of the assembly on 8 May, participation from Gaul, Baddo’s subscription and discussion of canons 2 (Creed) and 14 (restrictions on Jewish families)."
+    },
+    {
+      "sourceId": "source:szada-reccared-edict-er363",
+      "role": "supports",
+      "locator": "ER 363, About the source: Homoian and Nicene Christians, Reccared’s conversion in 587, the 589 council and manuscript recensions."
+    }
+  ],
+  "labels": {
+    "de": "Von Toulouse nach Toledo",
+    "en": "From Toulouse to Toledo"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:council-at-agde-506",
+    "event:battle-near-poitiers-507",
+    "event:toulouse-treasure-after-vouille",
+    "event:theudis-toledo-law-546",
+    "event:foundation-of-reccopolis-578",
+    "artifact:reccopolis-early-glass-furnace",
+    "event:third-council-of-toledo-589",
+    "person:queen-baddo"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": -0.15,
+      "latitude": 43.3,
+      "metersPerPixel": 5600,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 506,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 506,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 589,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 589,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "agde",
+      "textAnchor": "agde",
+      "labels": {
+        "de": "506 · Bischöfe in Agde",
+        "en": "506 · Bishops at Agde"
+      },
+      "summary": {
+        "de": "Alarich II. gab den Bischöfen die Erlaubnis zur Versammlung.",
+        "en": "Alaric II gave the bishops permission to assemble."
+      },
+      "state": {
+        "camera": {
+          "longitude": 3.47,
+          "latitude": 43.31,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 506,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 506,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "vouille",
+      "textAnchor": "vouille",
+      "labels": {
+        "de": "507 · Die Gegend von Vouillé und Voulon",
+        "en": "507 · The area of Vouillé and Voulon"
+      },
+      "summary": {
+        "de": "Gregor nennt den zehnten Meilenstein von Poitiers. Die Lage des Schlachtfelds ist umstritten.",
+        "en": "Gregory mentions the tenth milestone from Poitiers. The precise battlefield is disputed."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.25,
+          "latitude": 46.51,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 507,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 507,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "toulouse",
+      "textAnchor": "toulouse",
+      "labels": {
+        "de": "508 · Ein Schatz in Toulouse",
+        "en": "508 · Treasure at Toulouse"
+      },
+      "summary": {
+        "de": "Gregor datiert die Wegnahme relativ zum Winter in Bordeaux. 508 ist eine Annäherung.",
+        "en": "Gregory places the seizure in relation to the winter at Bordeaux. The year 508 is approximate."
+      },
+      "state": {
+        "camera": {
+          "longitude": 1.44,
+          "latitude": 43.6,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 508,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 508,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "theudis",
+      "textAnchor": "theudis",
+      "labels": {
+        "de": "546 · Recht sprechen in Toledo",
+        "en": "546 · The cost of justice at Toledo"
+      },
+      "summary": {
+        "de": "Theudis datierte seine Verfügung über Gerichtskosten in Toledo.",
+        "en": "Theudis’s decree on litigation costs carries a Toledo dating clause."
+      },
+      "state": {
+        "camera": {
+          "longitude": -4.03,
+          "latitude": 39.87,
+          "metersPerPixel": 700,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 546,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 546,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "reccopolis",
+      "textAnchor": "reccopolis",
+      "labels": {
+        "de": "578 · Eine neue Stadt am Tajo",
+        "en": "578 · A new town on the Tagus"
+      },
+      "summary": {
+        "de": "Werkstattreste ergänzen die Nachricht über Leovigilds Gründung.",
+        "en": "Excavated workshop remains add another perspective on Liuvigild’s foundation."
+      },
+      "state": {
+        "camera": {
+          "longitude": -2.89,
+          "latitude": 40.32,
+          "metersPerPixel": 430,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 578,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 578,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "toledo",
+      "textAnchor": "toledo",
+      "labels": {
+        "de": "589 · Der Name der Königin",
+        "en": "589 · The queen’s name"
+      },
+      "summary": {
+        "de": "Während in Recópolis Glas verarbeitet wurde, traten die Bischöfe flussabwärts in Toledo zusammen.",
+        "en": "While glass was being worked at Reccopolis, the bishops gathered downstream at Toledo."
+      },
+      "state": {
+        "camera": {
+          "longitude": -3.48,
+          "latitude": 40.09,
+          "metersPerPixel": 1300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 589,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 589,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Wer fiel bei Vouillé? Was kostete ein Gerichtsverfahren in Toledo? Aus einer Chronik, einem Glasofen und Königin Baddos Erklärung lässt sich der Wandel des westgotischen Reichs ablesen.",
+      "en": "Who died near Poitiers? How much did a lawsuit cost in Toledo? A chronicle, a glass furnace and Queen Baddo’s declaration illuminate changes in the Visigothic kingdom."
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      },
+      {
+        "id": "iberian-peninsula",
+        "labels": {
+          "de": "Iberische Halbinsel",
+          "en": "Iberian Peninsula"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "goths",
+        "labels": {
+          "de": "Goten",
+          "en": "Goths"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:reccopolis-early-glass-furnace",
+    "artifact:theudis-decree-on-court-fees",
+    "artifact:treasure-of-alaric-ii-at-toulouse",
+    "assertion:alaric-ii-army-near-poitiers-507",
+    "assertion:alaric-ii-treasure-toulouse",
+    "assertion:delegates-at-agde-506",
+    "assertion:early-glass-furnace-at-reccopolis",
+    "assertion:theudis-decree-issued-at-toledo-546",
+    "assertion:third-council-assembly-at-toledo-589",
+    "community:bishops-and-delegates-at-agde",
+    "community:forces-of-alaric-ii-at-poitiers",
+    "community:third-council-of-toledo-assembly",
+    "event:battle-near-poitiers-507",
+    "event:council-at-agde-506",
+    "event:foundation-of-reccopolis-578",
+    "event:theudis-toledo-law-546",
+    "event:third-council-of-toledo-589",
+    "event:toulouse-treasure-after-vouille",
+    "geometry:agatha-agde-orientation",
+    "geometry:agde-council-context-506",
+    "geometry:battlefield-near-poitiers-507",
+    "geometry:poitiers-pictavis-orientation",
+    "geometry:reccopolis-glasswork-context",
+    "geometry:reccopolis-orientation",
+    "geometry:toledo-law-and-council-context",
+    "geometry:toletum-toledo-orientation",
+    "geometry:tolosa-toulouse-orientation",
+    "geometry:toulouse-royal-treasure-context",
+    "person:alaric-ii",
+    "person:caesarius-of-arles",
+    "person:clovis-i",
+    "person:liuvigild",
+    "person:queen-baddo",
+    "person:reccared-i",
+    "person:theudis",
+    "place:agatha-agde",
+    "place:poitiers-pictavis",
+    "place:reccopolis",
+    "place:toletum-toledo",
+    "place:tolosa-toulouse",
+    "region:poitiers-battlefield-context",
+    "source:barroso-cabrera-throne-and-altar",
+    "source:canellas-hispano-visigothic-documents",
+    "source:castilla-la-mancha-recopolis",
+    "source:ferreiro-third-council-toledo",
+    "source:gregory-tours-histories-ii-37",
+    "source:mathisen-campus-vogladensis-2012",
+    "source:pleiades-ancient-places",
+    "source:schibille-recopolis-glass-2017",
+    "source:szada-reccared-edict-er363",
+    "source:szafranowski-council-agde-er903",
+    "source:thompson-southern-gaul-settlement",
+    "source:usno-calendars",
+    "source:wikidata-place-coordinates"
+  ]
+}

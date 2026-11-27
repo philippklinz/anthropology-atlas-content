@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:saturninus-382",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:errington-theodosius-goths",
+      "role": "supports",
+      "locator": "pp. 10–11, 18–21: Themistius’ audience, the negotiated peace, changing positions and unresolved legal, military, fiscal and geographical details"
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Saturninus",
+    "en": "Saturninus"
+  },
+  "summary": {
+    "de": "Römischer Heermeister, der an den Friedensverhandlungen beteiligt war. Zu seinem Konsulatsantritt lobte Themistios den Friedensschluss.",
+    "en": "Roman commander involved in negotiations for peace. Themistius praised the agreement in a speech marking his consulship."
+  }
+}

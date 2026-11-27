@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ulow-simc-0902694",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Wieś Ulów, gmina Tomaszów Lubelski, SIMC 0902694",
+  "sourceType": "dataset",
+  "creators": [
+    "Polska w liczbach"
+  ],
+  "url": "https://www.polskawliczbach.pl/wies_Ulow_lubelskie",
+  "language": "pl",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Geographic reference for the modern village in Tomaszów Lubelski district. The coordinates identify the settlement rather than its archaeological features."
+}

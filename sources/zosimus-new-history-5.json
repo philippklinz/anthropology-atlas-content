@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:zosimus-new-history-5",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "New History, Book 5",
+  "sourceType": "book",
+  "creators": [
+    "Zosimus",
+    "Anonymous English translator (1814)"
+  ],
+  "url": "https://www.livius.org/sources/content/zosimus/zosimus-new-history-5/",
+  "accessedAt": "2026-11-27",
+  "language": "en",
+  "bibliographicNote": "Book 5.39 describes interruption of river supplies and food sharing; 5.41 the ransom; 5.48 the meeting at Ariminum. Zosimus wrote in the early sixth century and used earlier accounts.",
+  "published": "Early sixth century CE; English translation 1814"
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:chernyakhiv-southern-bug",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "p. 202, map 1: early Chernyakhiv distribution and cited grave assemblages; p. 226, map 6: hatched second-half-third-century distribution."
+    }
+  ],
+  "subjectId": "region:chernyakhiv-find-distribution",
+  "predicate": "extent-of",
+  "objectId": "region:north-pontic-and-carpathian-basins",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 250,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 250,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 300,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 300,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Ausschnitt ordnet Gräber und Siedlungen räumlich ein. Aus ihrer Verbreitung allein lassen sich Zugehörigkeit zu einem Heer und politische Grenzen nicht ableiten.",
+      "en": "The area provides a geographic context for cemeteries and settlements. Their distribution alone cannot establish military affiliation or political borders."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:chernyakhiv-southern-bug",
+      "role": "extent"
+    }
+  ],
+  "note": {
+    "de": "Für die zweite Hälfte des dritten Jahrhunderts unterscheidet die Forschung einen frühen Fundraum im Waldsteppengebiet der heutigen Ukraine. Die Karte greift einen Ausschnitt im Einzugsgebiet des Südlichen Bug heraus.",
+    "en": "For the second half of the third century, archaeologists identify an early cluster in the forest steppe of present-day Ukraine. This map selects a portion in the Southern Buh drainage."
+  }
+}

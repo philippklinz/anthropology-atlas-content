@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:malbork-wielbark",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:luczkiewicz-wielbark-2021",
+      "role": "supports",
+      "locator": "The cemetery, figs. 2–4; Palaeoenvironmental data, figs. 5–6",
+      "note": {
+        "de": "Hier sind Bestattungen, Untersuchungen an Urnen und das Pollendiagramm dokumentiert.",
+        "en": "The team documents the burials, urn analysis and pollen diagram here."
+      }
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Malbork-Wielbark",
+    "en": "Malbork-Wielbark"
+  },
+  "summary": {
+    "de": "Fundort am Rand des Weichseldeltas, der der Wielbark-Kultur ihren Namen gab.",
+    "en": "Site at the edge of the Vistula delta that gave the Wielbark culture its name."
+  }
+}

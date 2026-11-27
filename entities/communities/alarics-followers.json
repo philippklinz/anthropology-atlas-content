@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:alarics-followers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "pp. 69–73, introduction and “The itinerary of Alaric”: campaign in Achaea in 396, Athens, Corinth and the disagreements among ancient accounts."
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.5–7: Alaric in southern Greece, Athens and passage to the Peloponnese."
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.37–42, especially V.39.1: Rome’s approaches and the supply link on the Tiber in the first siege; V.48–51: renewed negotiations."
+    },
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Extract: Italian campaign from 408, shifting alliances, rupture of negotiations, sack of Rome in August 410."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Alarichs Gefolgschaft",
+    "en": "Alaric’s followers"
+  },
+  "summary": {
+    "de": "Die Personen, die unter Alarich zogen oder kämpften, kamen aus mehreren Verbänden. Der Name des Anführers verbindet die belegten Episoden; die Zusammensetzung blieb in Bewegung.",
+    "en": "People who travelled and fought under Alaric came from several groups. Their leader links the documented episodes; the composition of his following changed."
+  }
+}

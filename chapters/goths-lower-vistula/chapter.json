@@ -1,0 +1,394 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:goths-lower-vistula",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tacitus-germania-44",
+      "role": "supports",
+      "locator": "Germania 44.1, Gotones and neighbouring peoples",
+      "note": {
+        "de": "Die Namensform und die relative Lage stehen im antiken Text.",
+        "en": "The ancient text gives the name and a position relative to other groups."
+      }
+    },
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Chapter 7, pp. 229–230, Historical interpretations: Germania 44 and Ptolemy III.5.7–9",
+      "note": {
+        "de": "Cieśliński erklärt, wie aus den antiken Ortsangaben eine Verortung am Unterlauf der Weichsel erschlossen wird.",
+        "en": "Cieśliński explains how ancient relative locations can be used to infer a lower Vistula setting."
+      }
+    },
+    {
+      "sourceId": "source:luczkiewicz-wielbark-2021",
+      "role": "supports",
+      "locator": "The cemetery, figs. 2–4; Palaeoenvironmental data, figs. 5–6",
+      "note": {
+        "de": "Hier sind Bestattungen, Untersuchungen an Urnen und das Pollendiagramm dokumentiert.",
+        "en": "The team documents the burials, urn analysis and pollen diagram here."
+      }
+    },
+    {
+      "sourceId": "source:ncn-maslomecz-hrubieszow",
+      "role": "supports",
+      "locator": "Project 2024/55/B/HS3/01985, synopsis p. 1, paragraphs 1–3, dating and research coverage"
+    },
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Chapter 7, Settlement changes, pp. 224–228 and figs. 3, 8"
+    },
+    {
+      "sourceId": "source:dhm-europas-mitte-um-1000",
+      "role": "supports",
+      "locator": "Ausstellungsgliederung, Raum 8: Polen, meeting of Bolesław and Otto III in Gniezno in 1000"
+    },
+    {
+      "sourceId": "source:ptolemy-geography-european-sarmatia",
+      "role": "supports",
+      "locator": "Book III.5, Description of European Sarmatia. Western limit at the Vistula, then the peoples near the Vistula below the Venedae."
+    },
+    {
+      "sourceId": "source:maik-wielbark-textiles-2023",
+      "role": "supports",
+      "locator": "pp. 161–163, table 1, grave 2012/57, and p. 173, Nitka. Twelve textiles and one thread from nine graves. A mineralised Z-twist thread survived on the brooch pin, with degraded cloth beneath the bow."
+    },
+    {
+      "sourceId": "source:golubinski-maslomecz-2026",
+      "role": "supports",
+      "locator": "Fig. 1B and pp. 2–3, Background, cemeteries Masłomęcz 15 and Gródek 1C. Page 6, Kinship analysis, three women from grave 20, different maternal lineages, possible third-degree links in two pairs."
+    }
+  ],
+  "labels": {
+    "de": "Frühe Goten an der Weichsel",
+    "en": "Early Goths on the Vistula"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:tacitus-gotones-98",
+    "event:malbork-wielbark-burial-sequence",
+    "event:maslomecz-communities",
+    "artifact:malbork-wielbark-funerary-urns",
+    "artifact:malbork-wielbark-brooch-thread"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 21.4,
+      "latitude": 52.5,
+      "metersPerPixel": 1900,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 50,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 50,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": 400,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 400,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "extent-of"
+    ]
+  },
+  "steps": [
+    {
+      "id": "lower-vistula",
+      "textAnchor": "lower-vistula",
+      "labels": {
+        "de": "Untere Weichsel · Namen in antiken Texten",
+        "en": "Lower Vistula · names in ancient texts"
+      },
+      "summary": {
+        "de": "Tacitus und Ptolemaios beschreiben Gruppen und ihre Nachbarn aus der Ferne.",
+        "en": "Tacitus and Ptolemy describe peoples and their neighbours from a distance."
+      },
+      "state": {
+        "camera": {
+          "longitude": 19.05,
+          "latitude": 53.95,
+          "metersPerPixel": 880,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 75,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 75,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 160,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 160,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "extent-of"
+        ]
+      }
+    },
+    {
+      "id": "malbork-wielbark",
+      "textAnchor": "malbork-wielbark",
+      "labels": {
+        "de": "Malbork-Wielbark · Gräber und Pollen",
+        "en": "Malbork-Wielbark · burials and pollen"
+      },
+      "summary": {
+        "de": "Urnen und Pollenkörner erzählen von Bestattungsritualen und der Nutzung der Landschaft.",
+        "en": "Urns and pollen grains illuminate funerals and the use of the surrounding land."
+      },
+      "state": {
+        "camera": {
+          "longitude": 19.0103,
+          "latitude": 53.995,
+          "metersPerPixel": 55,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 50,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 50,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 200,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 200,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "extent-of"
+        ]
+      }
+    },
+    {
+      "id": "maslomecz",
+      "textAnchor": "maslomecz",
+      "labels": {
+        "de": "Masłomęcz · Funde im Südosten",
+        "en": "Masłomęcz · evidence in the southeast"
+      },
+      "summary": {
+        "de": "Die Friedhöfe im Osten und der weiter genutzte Platz an der Weichsel überschnitten sich zeitlich.",
+        "en": "The eastern cemeteries overlapped in time with continued use of the Vistula site."
+      },
+      "state": {
+        "camera": {
+          "longitude": 23.9062,
+          "latitude": 50.7298,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 175,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 175,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 225,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 225,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "extent-of"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Faden an einer Messingfibel, ein römischer Gruppenname und drei Frauen in einem Grab geben Einblick in das Leben an Weichsel und Bug. Die Fundplätze der beiden Regionen wurden über Generationen gleichzeitig genutzt.",
+      "en": "A thread on a brass brooch, a Roman name and three women in one grave offer glimpses of life on the Vistula and the Bug. Sites in the two regions remained in use alongside each other for generations."
+    },
+    "periods": [
+      {
+        "id": "roman-imperial-period",
+        "labels": {
+          "de": "Römische Kaiserzeit",
+          "en": "Roman Imperial Period"
+        }
+      },
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-europe",
+        "labels": {
+          "de": "Mitteleuropa",
+          "en": "Central Europe"
+        }
+      },
+      {
+        "id": "baltic-sea",
+        "labels": {
+          "de": "Ostsee",
+          "en": "Baltic Sea"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "goths",
+        "labels": {
+          "de": "Goten",
+          "en": "Goths"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:malbork-wielbark-brooch-thread",
+    "artifact:malbork-wielbark-funerary-urns",
+    "assertion:maslomecz-group-in-hrubieszow",
+    "assertion:maslomecz-hrubieszow-find-zone",
+    "assertion:wielbark-lower-vistula",
+    "assertion:wielbark-vistula-and-bug",
+    "community:gotones-early-roman-accounts",
+    "community:maslomecz-archaeological-group",
+    "event:malbork-wielbark-burial-sequence",
+    "event:maslomecz-communities",
+    "event:tacitus-gotones-98",
+    "geometry:malbork-wielbark-orientation",
+    "geometry:maslomecz-hrubieszow-find-zone",
+    "geometry:maslomecz-hrubieszow-orientation",
+    "geometry:wielbark-lower-vistula",
+    "geometry:wielbark-vistula-and-bug",
+    "place:malbork-wielbark",
+    "place:maslomecz-hrubieszow",
+    "region:maslomecz-find-region",
+    "region:vistula-bug-basins",
+    "region:wielbark-find-distribution",
+    "source:cieslinski-wielbark-2016",
+    "source:dhm-europas-mitte-um-1000",
+    "source:golubinski-maslomecz-2026",
+    "source:luczkiewicz-wielbark-2021",
+    "source:maik-wielbark-textiles-2023",
+    "source:ncn-maslomecz-hrubieszow",
+    "source:ptolemy-geography-european-sarmatia",
+    "source:tacitus-germania-44",
+    "source:vici-maslomecz-44269",
+    "source:wielbark-malbork-simc-0152017"
+  ]
+}

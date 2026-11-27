@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandals-baetica-420-429",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries for 420, 428 and 429: movement from Gallaecia to Baetica, Hispalis and departure from the Baetican coast."
+    }
+  ],
+  "subjectId": "community:vandals-in-the-fifth-century",
+  "predicate": "attested-at",
+  "objectId": "region:baetica",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 420,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 420,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 429,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 429,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Ausschnitt im Guadalquivirtal verortet einen Teil Baeticas. Von hier lässt sich weder ein genauer Einschiffungshafen noch ein jährliches Aufenthaltsgebiet ableiten.",
+      "en": "The Guadalquivir valley window locates part of Baetica. It does not identify a specific port of embarkation or establish a year-by-year area of residence."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandals-baetica-420-429",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Im Jahr 420 verlegt Hydatius Gunderichs Vandalen aus Gallaecia nach Baetica. Später nennt er Hispalis, das heutige Sevilla. Von der südlichen Küste setzte Geiserichs Verband im Jahr 429 nach Nordafrika über.",
+    "en": "In 420 Hydatius reports Gunderic’s Vandals moving from Gallaecia to Baetica. He later names Hispalis, modern Seville. Geiseric’s coalition crossed to North Africa from the southern coast in 429."
+  }
+}

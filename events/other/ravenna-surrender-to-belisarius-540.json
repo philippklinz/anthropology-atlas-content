@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ravenna-surrender-to-belisarius-540",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Discussion of Witigis and Belisarius, paragraphs around notes 113–120. Surrender of Ravenna in 540 and its continued imperial control during the remaining war."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Belisar zieht in Ravenna ein",
+    "en": "Belisarius enters Ravenna"
+  },
+  "note": {
+    "de": "Nach Verhandlungen öffnete Ravenna Belisar die Tore. Witigis kam als Gefangener nach Konstantinopel. Ravenna blieb während des weiteren Krieges in kaiserlicher Hand.",
+    "en": "After negotiations Ravenna opened its gates to Belisarius. Witigis was taken captive to Constantinople. Ravenna remained in imperial hands during the rest of the war."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 540,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 540,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:belisarius",
+      "role": "participant"
+    },
+    {
+      "entityId": "polity:ostrogothic-kingdom-in-italy",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:ravenna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ravenna-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

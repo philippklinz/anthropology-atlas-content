@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:agatha-agde",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q191396, coordinate location (P625), rounded to 0.01 degree."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Agde am Hérault",
+    "en": "Agde on the Hérault"
+  },
+  "summary": {
+    "de": "Versammlungsort der Bischöfe im September 506.",
+    "en": "The bishops met here in September 506."
+  }
+}

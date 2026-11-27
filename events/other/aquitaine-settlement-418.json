@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:aquitaine-settlement-418",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "Opening paragraphs, p. 65 and notes 1–2: recall from Hispania, Aquitanica Secunda and neighbouring cities, Toulouse and the open question of settlement density"
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Ansiedlung in Aquitanien",
+    "en": "Settlement in Aquitaine"
+  },
+  "note": {
+    "de": "Constantius rief gotische Truppen aus Hispanien zurück. Sie erhielten Siedlungsräume in Südwestgallien. Toulouse verortet einen der genannten städtischen Bezugspunkte.",
+    "en": "Constantius recalled Gothic forces from Hispania. They received places to settle in south-western Gaul. Toulouse locates one of the relevant cities."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 418,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 418,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:constantius-patrician",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:thompson-southern-gaul-settlement",
+          "role": "supports",
+          "locator": "Opening paragraphs, p. 65 and notes 1–2: recall from Hispania, Aquitanica Secunda and neighbouring cities, Toulouse and the open question of settlement density"
+        }
+      ]
+    },
+    {
+      "entityId": "community:gothic-settlers-in-aquitaine",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:thompson-southern-gaul-settlement",
+          "role": "supports",
+          "locator": "Opening paragraphs, p. 65 and notes 1–2: recall from Hispania, Aquitanica Secunda and neighbouring cities, Toulouse and the open question of settlement density"
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:tolosa-toulouse"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tolosa-toulouse-orientation",
+      "role": "location"
+    }
+  ]
+}

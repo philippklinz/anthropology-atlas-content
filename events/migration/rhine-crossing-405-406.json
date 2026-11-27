@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:rhine-crossing-405-406",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:steinacher-jerome-rhine-2025",
+      "role": "supports",
+      "locator": "pp. 547–551, crossing at the Rhine, competing dates and the purposes of Jerome’s letter."
+    },
+    {
+      "sourceId": "source:fafinski-jerome-rhine-2025",
+      "role": "supports",
+      "locator": "Comparison of Orosius, Prosper and Frigeridus following notes 58–62; uncertainty about the point of crossing."
+    }
+  ],
+  "eventType": "migration",
+  "labels": {
+    "de": "Über den Rhein nach Gallien",
+    "en": "Across the Rhine into Gaul"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 405,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 406,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:vandals-in-the-fifth-century",
+      "role": "moving-community"
+    },
+    {
+      "entityId": "community:alans-in-the-west",
+      "role": "moving-community"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Prosper nennt Vandalen und Alanen. Die Zuordnung des Jahresendes zu 406 oder 405 ist umstritten. Der Ort des Übergangs bleibt offen.",
+    "en": "Prosper names Vandals and Alans. Scholars differ on whether the year’s end belongs to 406 or 405. The crossing site remains uncertain."
+  }
+}

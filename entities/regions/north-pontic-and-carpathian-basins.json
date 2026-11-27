@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:north-pontic-and-carpathian-basins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "p. 226, map 6: light-grey fourth–early fifth-century extent contrasted with the hatched early distribution."
+    },
+    {
+      "sourceId": "source:harhoiu-dacia-2021",
+      "role": "supports",
+      "locator": "pp. 353–354, fig. 1A and accompanying text: find regions in present-day Ukraine, Moldavia, Wallachia and Transylvania."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Flusslandschaften nördlich des Schwarzen Meeres und am Karpatenbogen",
+    "en": "River basins north of the Black Sea and around the Carpathians"
+  },
+  "summary": {
+    "de": "Dnepr, Südlicher Bug und Dnister entwässern zum Schwarzen Meer. Im Karpatenraum und an der unteren Donau finden sich weitere zeitgleiche Siedlungen und Gräber.",
+    "en": "The Dnipro, Southern Buh and Dniester drain toward the Black Sea. The Carpathian region and lower Danube contain further contemporary settlements and graves."
+  }
+}

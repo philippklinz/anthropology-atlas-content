@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:amalasuntha",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Paragraphs around notes 84–88. Athalaric, his minority and his mother Amalasuentha’s regency, the accession letters and the promised continuation of rights."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Amalasuntha",
+    "en": "Amalasuntha"
+  },
+  "summary": {
+    "de": "Theoderichs Tochter übernahm 526 die Regentschaft für ihren minderjährigen Sohn Athalarich. Die Schreiben zum Regierungsantritt baten die Adressaten um einen Treueid.",
+    "en": "Theoderic’s daughter became regent for her young son Athalaric in 526. The accession letters called upon their recipients to swear loyalty."
+  }
+}

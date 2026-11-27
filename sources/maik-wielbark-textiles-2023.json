@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:maik-wielbark-textiles-2023",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Tekstylia z cmentarzyska kultury wielbarskiej w Malborku-Wielbarku, stan. 1 (5)",
+  "sourceType": "article",
+  "creators": [
+    "Jerzy Maik",
+    "Piotr Łuczkiewicz",
+    "Jörg Kleemann"
+  ],
+  "url": "https://journals.iaepan.pl/apol/article/view/3690",
+  "language": "pl",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Archeologia Polski 68, pp. 161–179. Includes an English abstract, catalogue tables and detail photographs of mineralised textiles.",
+  "published": "2023",
+  "identifiers": {
+    "doi": "10.23858/APol68.2023.005"
+  }
+}

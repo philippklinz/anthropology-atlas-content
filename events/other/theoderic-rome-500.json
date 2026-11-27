@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:theoderic-rome-500",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 65–69. Reception by Pope Symmachus and the Senate, distribution of grain and annual funds earmarked from the wine tax."
+    },
+    {
+      "sourceId": "source:venning-western-europe-2018",
+      "role": "supports",
+      "locator": "Part 1, pp. 23–24. Entry for 500 under Italy on the visit to Rome."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Ein König vor dem römischen Senat",
+    "en": "A king addresses the Roman Senate"
+  },
+  "note": {
+    "de": "Theoderichs Romreise 500 ist mehrfach überliefert. Der anonyme Chronist beschreibt den Empfang und die Mittel aus der Weinsteuer für die Unterhaltung öffentlicher Bauten.",
+    "en": "Several sources record Theoderic’s visit to Rome in 500. The anonymous chronicler describes the reception and wine-tax revenues assigned to the upkeep of public buildings."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 500,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 500,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:theoderic-the-amal",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:rome"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:rome-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

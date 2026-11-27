@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:razgrad-abritus-reserve",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Abritus Archaeological Reserve",
+  "sourceType": "website",
+  "creators": [
+    "Regional History Museum, Razgrad"
+  ],
+  "url": "https://abritus.bg/en/abritus-archaeological-reserve/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The museum distinguishes the ancient urban site from the nearby battle and names both emperors killed in 251."
+}

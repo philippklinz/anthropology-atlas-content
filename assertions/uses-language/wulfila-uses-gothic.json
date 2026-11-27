@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:wulfila-uses-gothic",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:auxentius-life-of-wulfila",
+      "role": "supports",
+      "locator": "Personal recollection beginning Quem condigne laudare; trilingual writing in Et haec omnia; seven years, expulsion, reception under Constantius and crossing of the Danube in Ubi et post multorum."
+    },
+    {
+      "sourceId": "source:krause-slocum-wulfila",
+      "role": "supports",
+      "locator": "Opening section Wulfila, excerpt of Philostorgius, Ecclesiastical History 2.5 in Photius’ epitome, followed by the conditional calculation of 347–348."
+    }
+  ],
+  "subjectId": "person:wulfila",
+  "predicate": "uses-language",
+  "objectId": "language:gothic",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 340,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 383,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Auxentius zählt Gotisch, Griechisch und Latein als Sprachen seines Lehrers auf. Das Fenster liegt in Wulfilas ungefähr datierter Amtszeit.",
+    "en": "Auxentius names Gothic, Greek and Latin as his teacher’s languages. The date window falls within Wulfila’s approximately dated ministry."
+  }
+}

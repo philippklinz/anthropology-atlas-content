@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:saag-komariv-site-supplement",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "North Pontic crossroads: Mobility in Ukraine from the Bronze Age to the early modern period · Komariv site entry",
+  "sourceType": "article",
+  "creators": [
+    "Lehti Saag and co-authors"
+  ],
+  "url": "https://dspace.chmnu.edu.ua/jspui/bitstream/123456789/2726/1/North%20Pontic%20crossroads_Mobility%20in%20Ukraine%20from%20the%20Bronze.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Supplementary site description, Komariv, Location. This chapter uses the reported coordinates solely as an approximate reference for the site complex."
+}

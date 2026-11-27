@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:theoderics-following",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Introduction, opening paragraphs through note 4. Odoacer in 476, the eastern emperor Zeno’s mandate, the Italian campaign in 489, the agreement and killing in 493, and Theoderic’s death in 526."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Theoderichs Gefolgschaft",
+    "en": "Theoderic’s following"
+  },
+  "summary": {
+    "de": "Theoderichs Verband ging aus den Auseinandersetzungen mehrerer Anführer auf dem Balkan hervor. In Italien schlossen sich Teile des Heeres seines Gegners an.",
+    "en": "Theoderic’s following emerged from rivalry among several leaders in the Balkans. In Italy men from the opposing army also joined him."
+  }
+}

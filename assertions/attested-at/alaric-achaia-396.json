@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:alaric-achaia-396",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "pp. 69–73, introduction and “The itinerary of Alaric”: campaign in Achaea in 396, Athens, Corinth and the disagreements among ancient accounts."
+    },
+    {
+      "sourceId": "source:zosimus-new-history-5",
+      "role": "supports",
+      "locator": "V.5–7: Alaric in southern Greece, Athens and passage to the Peloponnese."
+    }
+  ],
+  "subjectId": "community:alarics-followers",
+  "predicate": "attested-at",
+  "objectId": "region:achaia-campaign",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 396,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 396,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Zwei Umgebungsflächen verorten die Städte. Sie bilden weder die Marschroute noch das Ausmaß möglicher Zerstörungen ab.",
+      "en": "Two reference areas locate the cities. The boundaries represent neither the march nor the reach of any destruction."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:alaric-achaia-396",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Beim Feldzug von 396 erscheinen Athen und Korinth in den Berichten. Die archäologische Forschung fragt für jede Stadt gesondert, welche Schäden und welche fortgesetzte Bautätigkeit sich dort tatsächlich nachweisen lassen.",
+    "en": "Athens and Corinth figure in accounts of the campaign of 396. Archaeologists ask separately for each city which damage and which continuing construction can actually be documented."
+  }
+}

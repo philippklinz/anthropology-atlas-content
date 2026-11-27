@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:maslomecz-find-region",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golubinski-maslomecz-2026",
+      "role": "supports",
+      "locator": "Fig. 1B and pp. 2–3, Background. Distribution of excavated settlements and cemeteries including Masłomęcz and Gródek in the eastern Hrubieszów Basin."
+    },
+    {
+      "sourceId": "source:ncn-maslomecz-hrubieszow",
+      "role": "supports",
+      "locator": "Project 2024/55/B/HS3/01985, synopsis p. 1, paragraphs 1–2. Regional group in the eastern Hrubieszów Basin from the late second to late fourth century CE."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Fundorte der Masłomęcz-Gruppe",
+    "en": "Masłomęcz group find sites"
+  },
+  "summary": {
+    "de": "Gräber und Siedlungsspuren im Osten des Beckens von Hrubieszów. Besonders gut untersucht sind die Friedhöfe bei Masłomęcz und Gródek am Bug.",
+    "en": "Cemeteries and traces of settlements in the eastern Hrubieszów Basin. Burial grounds near Masłomęcz and at Gródek on the Bug are particularly well documented."
+  }
+}

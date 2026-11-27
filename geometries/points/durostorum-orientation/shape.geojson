@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:durostorum-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.26,
+      44.12
+    ]
+  }
+}

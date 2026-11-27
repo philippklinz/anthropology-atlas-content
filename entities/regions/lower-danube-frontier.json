@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:lower-danube-frontier",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.4.1–11 and XXXI.5.1–4: reception of Tervingian refugees, the river crossing and the separate crossing by Greuthungian groups."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Römische Grenze an der unteren Donau",
+    "en": "Roman frontier on the lower Danube"
+  },
+  "summary": {
+    "de": "Der Fluss verband die Ufer durch Verkehr und trennte zugleich die Zuständigkeiten der römischen Verwaltung. Für das Übersetzen in der Krise von 376 waren Schiffe und Versorgung nötig.",
+    "en": "The river carried people between banks and marked a limit of Roman administration. Crossing it during the crisis of 376 required boats and supplies."
+  }
+}

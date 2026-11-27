@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:vandals-in-the-fifth-century",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, entries 409, 411, 416–420, 428–429; B, Prosper, entries 430, 435, 439 and 442."
+    },
+    {
+      "sourceId": "source:fafinski-jerome-rhine-2025",
+      "role": "supports",
+      "locator": "Comparison of Orosius, Prosper and Frigeridus following notes 58–62; uncertainty about the point of crossing."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Vandalische Gruppen des 5. Jahrhunderts",
+    "en": "Vandal groups in the fifth century"
+  },
+  "summary": {
+    "de": "Spätantike Autoren verwenden den Namen für wechselnde Gruppen. In Hispanien unterscheidet Hydatius unter anderem die Silingen von den Vandalen unter Gunderich.",
+    "en": "Late antique writers used the name for shifting groups. In Hispania Hydatius distinguishes the Silings from the Vandals under Gunderic."
+  }
+}

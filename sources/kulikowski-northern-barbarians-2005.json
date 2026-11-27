@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kulikowski-northern-barbarians-2005",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Constantine and the Northern Barbarians",
+  "sourceType": "book",
+  "creators": [
+    "Michael Kulikowski"
+  ],
+  "url": "https://doi.org/10.1017/CCOL0521818389.016",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "In Noel Lenski (ed.), The Cambridge Companion to the Age of Constantine, pp. 347–376. For the relationship between Gothic groups and an archaeological distribution see pp. 349–350.",
+  "published": "2005",
+  "identifiers": {
+    "doi": "10.1017/CCOL0521818389.016"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "script:gothic-alphabet",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:krause-slocum-wulfila",
+      "role": "supports",
+      "locator": "Opening section Wulfila, excerpt of Philostorgius, Ecclesiastical History 2.5 in Photius’ epitome, followed by the conditional calculation of 347–348."
+    },
+    {
+      "sourceId": "source:miller-oxford-gothic-grammar",
+      "role": "supports",
+      "locator": "Chapter 1, discussion immediately before §1.5 and §1.5 on the division of translation work and the codices; §2.1, table 2.1, on letter shapes, order and numeral values."
+    }
+  ],
+  "entityType": "script",
+  "labels": {
+    "de": "Gotisches Alphabet",
+    "en": "Gothic alphabet"
+  },
+  "summary": {
+    "de": "Alphabet der gotischen Bibelhandschriften. Reihenfolge, Zahlenwerte und zahlreiche Buchstabenformen lassen ein griechisches Vorbild erkennen.",
+    "en": "Alphabet of the Gothic biblical manuscripts. The sequence, numeral values and many letter shapes point to a Greek model."
+  }
+}

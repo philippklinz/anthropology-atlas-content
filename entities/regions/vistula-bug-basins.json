@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:vistula-bug-basins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "pp. 225–227, fig. 8 and Settlement changes: lower Vistula continuity and eastern Polish sites in the second half of the second century, especially the Liwiec–Bug confluence."
+    },
+    {
+      "sourceId": "source:golubinski-maslomecz-2026",
+      "role": "supports",
+      "locator": "Fig. 1B and pp. 2–3, Background. Distribution of excavated settlements and cemeteries including Masłomęcz and Gródek in the eastern Hrubieszów Basin."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Weichsel- und Bugraum",
+    "en": "Vistula and Bug basins"
+  },
+  "summary": {
+    "de": "An der unteren Weichsel, im Mündungsgebiet des Liwiec in den Bug und weiter südöstlich im Becken von Hrubieszów liegen verschiedene datierbare Fundplätze. Der hier gemeinte Bug im Weichseleinzugsgebiet und der Südliche Bug in der Ukraine sind zwei verschiedene Flüsse.",
+    "en": "Dated sites occur on the lower Vistula, near the confluence of the Liwiec and Bug, and farther southeast in the Hrubieszów Basin. The Bug in the Vistula drainage and the Southern Buh in Ukraine are separate rivers."
+  }
+}

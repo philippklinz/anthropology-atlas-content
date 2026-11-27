@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tacitus-germania-44",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Germania, 44",
+  "sourceType": "book",
+  "creators": [
+    "Publius Cornelius Tacitus"
+  ],
+  "url": "https://www.gottwein.de/Lat/tac/Germ38.php",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin text with parallel German translation. Section 44.1 places the Gotones beyond the Lygii. The geographical interpretation draws separately on Cieśliński.",
+  "published": "c. 98 CE"
+}

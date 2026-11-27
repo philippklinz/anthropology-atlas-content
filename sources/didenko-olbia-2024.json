@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:didenko-olbia-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ceramic Complex of the Post-Antiquity Horizon of Trench R-23 of Olbia (based on material from excavations from 2016–2018, 2021)",
+  "sourceType": "article",
+  "creators": [
+    "Serhii Didenko"
+  ],
+  "url": "https://doi.org/10.23858/APa62.2024.3565",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Archaeologia Polona 62. The typology of imported and local ceramics in R-23 supports a local fourth- to mid-fifth-century context. The date applies to the assemblage.",
+  "published": "2024",
+  "identifiers": {
+    "doi": "10.23858/APa62.2024.3565"
+  }
+}

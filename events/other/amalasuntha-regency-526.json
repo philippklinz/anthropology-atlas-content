@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:amalasuntha-regency-526",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Paragraphs around notes 84–88. Athalaric, his minority and his mother Amalasuentha’s regency, the accession letters and the promised continuation of rights."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Amalasuntha übernimmt die Regentschaft",
+    "en": "Amalasuntha takes up the regency"
+  },
+  "note": {
+    "de": "Nach dem Tod Theoderichs folgte der minderjährige Athalarich. Seine Mutter Amalasuntha regierte für ihn und suchte in Schreiben an das Reich die Unterstützung der bisherigen Amtsträger und des Senats.",
+    "en": "After Theoderic’s death his young grandson Athalaric succeeded. His mother Amalasuntha governed for him and sought the support of existing officials and the Senate through the letters announcing his accession."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 526,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 526,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:amalasuntha",
+      "role": "participant"
+    },
+    {
+      "entityId": "polity:ostrogothic-kingdom-in-italy",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:ravenna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ravenna-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

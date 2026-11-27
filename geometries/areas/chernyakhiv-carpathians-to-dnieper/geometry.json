@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:chernyakhiv-carpathians-to-dnieper",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "p. 226, map 6: light-grey fourth–early fifth-century extent contrasted with the hatched early distribution."
+    },
+    {
+      "sourceId": "source:harhoiu-dacia-2021",
+      "role": "supports",
+      "locator": "pp. 353–354, fig. 1A and accompanying text: find regions in present-day Ukraine, Moldavia, Wallachia and Transylvania."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "MultiPolygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die beiden groben Fundraumausschnitte sind eine Auswahl aus einer größeren Verbreitung. Die Lücke zwischen ihnen hat keine historische Grenzbedeutung. Einzelne Befunde reichen über das vierte Jahrhundert hinaus.",
+    "en": "The two broad windows select parts of a larger distribution. The gap between them has no historical boundary significance. Individual assemblages extend beyond the fourth century."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

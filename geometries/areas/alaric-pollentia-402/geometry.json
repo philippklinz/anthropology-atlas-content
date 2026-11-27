@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:alaric-pollentia-402",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "p. 69, survey of Claudian: poem celebrating Stilicho’s victory at Pollentia in 402."
+    },
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Extract: first shift of Alaric’s campaigns to Italy in 402."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Fläche bei Pollenzo verortet eine Episode des Feldzugs. Für das genaue Schlachtfeld ist sie zu grob.",
+    "en": "The area around Pollenzo locates one episode of the campaign. Its scale is too coarse to identify a precise battlefield."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:nicopolis-ad-istrum-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "derivation",
+      "locator": "Place 216895, title and representative point (reprPoint) in the official Pleiades JSON export."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Stadt beim heutigen Nikjup in Bulgarien. Ihr Name verortet die benachbarte Siedlungsregion. Die genaue Lage von Wulfilas Gemeinde und die Übergangsstelle am Fluss sind unbekannt.",
+      "en": "A city near modern Nikyup in Bulgaria. Its name locates the surrounding settlement district. The exact site of Wulfila’s community and the river crossing are unknown."
+    }
+  },
+  "processingNote": {
+    "de": "Der repräsentative Punkt des antiken Stadtgebiets ist auf zwei Dezimalstellen gerundet.",
+    "en": "The representative point of the ancient urban area is rounded to two decimal places."
+  },
+  "rights": {
+    "license": "CC-BY-3.0",
+    "creators": [
+      "A.G. Poulter"
+    ],
+    "attribution": "A.G. Poulter and Pleiades contributors, place 216895. CC BY 3.0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://pleiades.stoa.org/places/216895",
+    "originNote": "Adapted from the published Pleiades JSON reprPoint for 216895. Full contributor list at the place URI. Licence: https://creativecommons.org/licenses/by/3.0/."
+  }
+}

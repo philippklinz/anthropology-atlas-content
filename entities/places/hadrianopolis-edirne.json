@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:hadrianopolis-edirne",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:pleiades-ancient-places",
+      "role": "supports",
+      "locator": "Record 501428: representative location and ancient place name in the published places CSV export."
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.12.1–13.19: march outside Hadrianopolis on the fifth day before the Ides of August, allied forces, defeat and conflicting accounts of Valens’s death"
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hadrianopolis, das heutige Edirne",
+    "en": "Hadrianopolis, modern Edirne"
+  },
+  "summary": {
+    "de": "Die Stadt dient als Bezugspunkt für die Schlacht in ihrer Umgebung im August 378. Die Lage einzelner Truppenteile lässt sich daraus nicht ableiten.",
+    "en": "The city locates the vicinity of the battle in August 378. The point cannot identify individual troop positions."
+  }
+}

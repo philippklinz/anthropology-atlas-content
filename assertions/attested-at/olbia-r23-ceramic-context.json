@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:olbia-r23-ceramic-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "pp. 34–35, Post-antiquity horizon of Trench R-23, and fig. 19 on the chronology of imported pottery",
+      "note": {
+        "de": "Die Datierung und die Gefäßgruppen gelten für den untersuchten Teil der Zitadelle.",
+        "en": "The dates and pottery groups apply to this excavated part of the citadel."
+      }
+    }
+  ],
+  "subjectId": "artifact:olbia-r23-late-pottery",
+  "predicate": "attested-at",
+  "objectId": "place:olbia-pontica",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 301,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 450,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Amphoren und Tafelgeschirr im Schnitt R-23 bieten Anhaltspunkte für die Datierung der dortigen Fundschicht.",
+    "en": "Amphorae and tableware from R-23 help establish the date of the excavated layer."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:olbia-pontica-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lcp-olbia-pontica",
+      "role": "derivation",
+      "locator": "Site information, coordinate 46.691506384467 N, 31.9023786793675 E"
+    },
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "pp. 34–35, Post-antiquity horizon of Trench R-23, and fig. 19 on the chronology of imported pottery",
+      "note": {
+        "de": "Die Datierung und die Gefäßgruppen gelten für den untersuchten Teil der Zitadelle.",
+        "en": "The dates and pottery groups apply to this excavated part of the citadel."
+      }
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "estimated",
+    "meters": 1500,
+    "note": {
+      "de": "Gerundeter Orientierungspunkt der antiken Stadt. Er lokalisiert den Fundzusammenhang innerhalb der Zitadelle nur ungefähr.",
+      "en": "Rounded point for the ancient city. It locates the context within the citadel only approximately."
+    }
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt der antiken Stadt. Er lokalisiert den Fundzusammenhang innerhalb der Zitadelle nur ungefähr.",
+    "en": "Rounded point for the ancient city. It locates the context within the citadel only approximately."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · geographic orientation point",
+    "originNote": "Original point rounded from the referenced published location."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:refugees-and-fritigerns-coalition",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.4.1–11 and XXXI.5.1–4: reception of Tervingian refugees, the river crossing and the separate crossing by Greuthungian groups."
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.12.3–11 and XXXI.13: Valens at Adrianople, march out to the Gothic wagon enclosure and battle."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Terwingen um Fritigern und verbündete Gruppen",
+    "en": "Tervingi around Fritigern and allied groups"
+  },
+  "summary": {
+    "de": "Unter den Schutzsuchenden von 376 waren die Terwingen unter Alaviv und Fritigern. An den Kämpfen von 378 beteiligten sich auch greutungische und andere Verbündete. Die Zusammensetzung veränderte sich.",
+    "en": "The refugees of 376 included the Tervingi led by Alavivus and Fritigern. Greuthungian and other allies also fought in 378. The coalition changed over time."
+  }
+}

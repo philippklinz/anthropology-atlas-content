@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:szada-reccared-edict-er363",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The edict of King Reccared in the acts of the Third Council of Toledo",
+  "sourceType": "archive",
+  "creators": [
+    "Marta Szada"
+  ],
+  "url": "https://presbytersproject.ihuw.pl/index.php?id=6&SourceID=363",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "ER 363 includes the concluding edict and discusses the conversion and the manuscript transmission.",
+  "published": "2018",
+  "containerTitle": "Presbyters in the Late Antique West, University of Warsaw"
+}

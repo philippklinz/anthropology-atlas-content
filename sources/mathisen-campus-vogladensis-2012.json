@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mathisen-campus-vogladensis-2012",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Vouillé, Voulon, and the Location of the Campus Vogladensis",
+  "sourceType": "article",
+  "creators": [
+    "Ralph W. Mathisen"
+  ],
+  "url": "https://uplopen.com/books/4868/files/3320b1e7-57d1-4496-8744-bac95045024e.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Comparison of the rival locations in the volume edited by R. W. Mathisen and D. Shanzer.",
+  "published": "2012",
+  "containerTitle": "The Battle of Vouillé, 507 CE: Where France Began, pp. 43–62"
+}

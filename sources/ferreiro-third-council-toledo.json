@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ferreiro-third-council-toledo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Toletum / Toledo III: National Council of the Visigothic Kingdom of Hispania, 589",
+  "sourceType": "article",
+  "creators": [
+    "Alberto Ferreiro"
+  ],
+  "url": "https://www.konziliengeschichte.org/site/de/publikationen/lexikon/database/4300.html",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The council entry describes attendance from Gaul, the royal subscriptions and individual canons.",
+  "published": "2025",
+  "containerTitle": "Lexikon der Konzilien"
+}

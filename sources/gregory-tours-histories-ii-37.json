@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gregory-tours-histories-ii-37",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Histories, Book II, chapter 37",
+  "sourceType": "book",
+  "creators": [
+    "Gregory of Tours",
+    "Ernest Brehaut (translator)"
+  ],
+  "url": "https://sourcebooks.fordham.edu/source/gregory-clovisconv.asp",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Later sixth-century narrative, translated by Brehaut in 1916.",
+  "containerTitle": "Internet Medieval Sourcebook, Fordham University"
+}

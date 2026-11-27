@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:bishops-and-delegates-at-agde",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-council-agde-er903",
+      "role": "supports",
+      "locator": "ER 903, About the source: September 506, Caesarius, Alaric’s permission and the representation of absent bishops by priests and deacons."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Teilnehmer des Konzils von Agde",
+    "en": "Bishops and delegates at Agde"
+  },
+  "summary": {
+    "de": "Nizänische Bischöfe sowie Priester und Diakone, die abwesende Bischöfe vertraten.",
+    "en": "Nicene bishops together with priests and deacons representing absent bishops."
+  }
+}

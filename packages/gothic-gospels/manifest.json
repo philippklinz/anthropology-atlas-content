@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:gothic-gospels",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Wulfila und die Silberbibel der Goten",
+    "en": "Wulfila and the Gothic Silver Bible"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:alaric-rome-and-aquitaine",
+    "package:danube-crossing-and-adrianople"
+  ],
+  "recordIds": [
+    "artifact:codex-argenteus",
+    "assertion:gothic-script-in-the-silver-bible",
+    "assertion:wulfila-uses-gothic",
+    "asset:codex-argenteus-john-page",
+    "chapter:gothic-gospels",
+    "community:wulfilas-refugees",
+    "event:copying-the-codex-argenteus",
+    "event:wulfila-constantinople-creed-360",
+    "event:wulfila-crossing-into-moesia",
+    "geometry:constantinople-orientation",
+    "geometry:nicopolis-ad-istrum-orientation",
+    "language:gothic",
+    "person:wulfila",
+    "place:constantinople",
+    "place:nicopolis-ad-istrum",
+    "script:gothic-alphabet",
+    "source:auxentius-life-of-wulfila",
+    "source:gassman-wolfe-gothic-philippians",
+    "source:krause-slocum-wulfila",
+    "source:miller-oxford-gothic-grammar",
+    "source:project-wulfila-gothic-manuscripts",
+    "source:project-wulfila-john-12-38",
+    "source:project-wulfila-matthew-6-9",
+    "source:schaeferdiek-germanic-christianities",
+    "source:uppsala-codex-argenteus-john-photo",
+    "source:uppsala-history-of-codex-argenteus",
+    "source:uppsala-silver-bible-cross-references"
+  ],
+  "entryChapterIds": [
+    "chapter:gothic-gospels"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "image-viewer",
+    "network-basic",
+    "script-samples"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:theoderic-verona-489",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    },
+    {
+      "sourceId": "source:venning-western-europe-2018",
+      "role": "supports",
+      "locator": "Part 1, pp. 19–21, entries for Italy under 489, 490, 492 and 493. Verona, the siege of Ravenna and the additional naval blockade from 492."
+    }
+  ],
+  "subjectId": "community:theoderics-following",
+  "predicate": "attested-at",
+  "objectId": "region:plain-outside-verona",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 489,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 489,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die Quelle nennt die Ebene vor Verona. Die Fläche dient als Orientierung zum Umfeld der Stadt. Der genaue Platz von Lager und Gefecht ist unbekannt.",
+      "en": "The source names the plain outside Verona. The outline locates the area around the city. The exact position of the camp and engagement remains unknown."
+    }
+  },
+  "note": {
+    "de": "489 kämpfte Theoderichs Heer in der Ebene vor Verona gegen Odoaker. Der Ort bezeichnet eine Station des Feldzugs.",
+    "en": "In 489 Theoderic’s army fought Odoacer on the plain outside Verona. The locality marks one episode of the campaign."
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:theoderic-verona-489",
+      "role": "uncertainty-area"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:fritigern-adrianople-378",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "XXXI.12.3–11 and XXXI.13: Valens at Adrianople, march out to the Gothic wagon enclosure and battle."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Fläche kennzeichnet das Umland des heutigen Edirne als Orientierung. Der Verlauf der Front, die Lage einzelner Wagen und der genaue Kampfplatz bleiben offen.",
+    "en": "The outline locates the countryside of present-day Edirne for orientation. The battle line, the positions of individual wagons and the precise battlefield remain uncertain."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial geometry drawn from the geographic facts in the cited sources. Coordinates are freely chosen for orientation. No external map or dataset was traced, copied or redistributed."
+  }
+}

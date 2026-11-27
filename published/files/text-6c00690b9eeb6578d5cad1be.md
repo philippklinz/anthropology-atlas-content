@@ -1,0 +1,21 @@
+# Wulfila und die Silberbibel der Goten
+
+Am Fuß dieser Seite aus dem Johannesevangelium stehen vier kleine Säulenbögen. Darüber laufen die Zeilen über purpurfarbenes Pergament. Manche Buchstaben glänzen heller als ihre Nachbarn. Die Bögen unter dem Text halfen beim Nachschlagen. Wer eine Geschichte bei Johannes las, konnte anhand der Verweise nach einer entsprechenden Stelle bei einem anderen Evangelisten suchen. Vor uns liegt also auch ein Werkzeug für jemanden, der zwei Texte nebeneinander lesen wollte. Wie kam eine solche Ausgabe der Evangelien in gotischer Sprache zustande?
+
+## Auf der anderen Seite der Donau
+
+Ein früher Zeuge heißt Auxentius. Als Kind hatte er bei Wulfila Unterricht bekommen. In einem lateinischen Brief erinnert er sich, wie sein Lehrer ihn bei sich aufnahm, ihm die Schrift erklärte und ihn wie einen Sohn erzog. Auxentius zählt drei Sprachen auf, in denen Wulfila predigte und schrieb. Wer ihn auf Gotisch hörte, konnte also demselben Mann begegnen, der andernorts auf Griechisch oder Latein sprach. Besonders gern berichtet der Schüler, was sein Lehrer über Gott dachte. Wer von ihm Einzelheiten über die Anfertigung einer Bibelübersetzung erwartet, findet sie bei späteren Kirchenhistorikern.
+
+Wulfila war Bischof unter Christen nördlich der unteren Donau. Als dort eine Verfolgung einsetzte, zog er mit einer Gruppe auf römisches Gebiet. Kaiser Constantius II. nahm sie auf. Oft wird der Übergang auf **347 oder 348** datiert. Diese Rechnung hängt davon ab, wann man Wulfilas Bischofsweihe ansetzt. Der Punkt bei **Nicopolis ad Istrum** im heutigen Bulgarien dient der Orientierung für das Siedlungsgebiet am Fuß des Balkangebirges. Die Stelle, an der die Menschen über den Fluss kamen, kennen wir nicht. Rund eine Generation später standen andere Flüchtlinge vor Kaiser Valens’ Grenze. Der viel bekanntere [Donauübergang von 376](chapter:danube-crossing-and-adrianople) hat andere Beteiligte und eine eigene Vorgeschichte.
+
+## Was hieß es, ein Evangelium zu übersetzen?
+
+Für einen griechischen Text mussten passende gotische Wörter gefunden und ihre Laute schriftlich festgehalten werden. Viele Zeichen des gotischen Alphabets ähneln griechischen Buchstaben. Auch ihre Reihenfolge und ihre Verwendung als Zahlzeichen verraten das Vorbild. Der Kirchenhistoriker Philostorgios schreibt Wulfila das Alphabet und die Übersetzung zu. Welche Verse er selbst formulierte und wer mit ihm arbeitete, lässt sich aus den erhaltenen Abschriften kaum ermitteln. Einen anderen Teil seiner Arbeit können wir genauer datieren. **360** stimmte Wulfila in Konstantinopel einem Glaubensbekenntnis zu, das den Sohn als dem Vater ähnlich beschrieb. Für einen Bischof konnte an der Wahl eines einzigen Wortes viel hängen.
+
+Zwei Wörter kannst du selbst lesen. Auf der Rückseite des vierten erhaltenen Blattes steht in Matthäus 6,9 **atta unsar**. Das erste Wort redet jemanden als Vater an, das zweite bedeutet „unser“. Etwas weiter steht **in himinam**. Die Endung zeigt, dass „Himmel“ hier im Plural steht. In der digitalen Textausgabe lassen sich diese Wörter einzeln anklicken. Sogar der Wechsel von einer Blattseite zur nächsten ist verzeichnet. Der Beginn des Gebets steht auf Blatt 4v, seine nächste Bitte gegenüber auf 5r. Auf der hier abgebildeten Seite begegnet dir das Wort „unser“ noch einmal. In Johannes 12,38 lautet es **unsarai**. Es gehört hier zu „Botschaft“ und hat eine andere Endung als bei „Vater“.
+
+## Was ein Buch überlebt
+
+Den **Codex Argenteus** schrieben Menschen im frühen sechsten Jahrhundert in Italien ab, wahrscheinlich in [Theoderichs Ravenna](chapter:theoderic-and-ravenna). Silber- und Goldtinte, gefärbtes Pergament und sorgfältig ausgeführte Bögen machten daraus eine kostbare Handschrift. Zwischen ihr und Wulfilas Wirken lagen mehr als hundert Jahre. Erhalten sind Teile aller vier Evangelien. Im Buch folgte auf Matthäus zuerst Johannes, dann Lukas und zuletzt Markus.
+
+Von ursprünglich mindestens 336 Blättern liegen 187 in Uppsala. Ein weiteres kam 1970 im Dom zu Speyer zusammen mit Reliquien zum Vorschein. Es trägt den Schluss des Markusevangeliums. Wer heute den letzten erhaltenen Satz in einer Ausgabe liest, hat also Text vor sich, dessen Blätter an zwei verschiedenen Orten aufbewahrt werden.

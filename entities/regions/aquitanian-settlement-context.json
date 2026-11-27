@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:aquitanian-settlement-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thompson-southern-gaul-settlement",
+      "role": "supports",
+      "locator": "p. 65, opening paragraphs and n. 1: Aquitanica Secunda between the Loire and Garonne estuaries, Toulouse, and disputed neighbouring communities."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Aquitanica Secunda und das Umland von Toulouse",
+    "en": "Aquitanica Secunda and the Toulouse area"
+  },
+  "summary": {
+    "de": "Die Quellen nennen eine Provinz und einzelne Nachbargemeinden als Gebiet der Vereinbarung. Welche Landgüter, Einkünfte oder Wohnplätze einzelnen Gruppen zufielen, ist umstritten.",
+    "en": "The sources describe a province and some neighbouring cities in the agreement. Assignments of individual estates, revenues or places of residence are debated."
+  }
+}

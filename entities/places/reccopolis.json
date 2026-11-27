@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:reccopolis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:castilla-la-mancha-recopolis",
+      "role": "supports",
+      "locator": "Introduction and Sobre este lugar: foundation in 578 in honour of the king’s son, the commercial street rising to the palace and church, and the site near Zorita de los Canes."
+    },
+    {
+      "sourceId": "source:schibille-recopolis-glass-2017",
+      "role": "supports",
+      "locator": "Introduction, paragraphs 1–3: three furnaces south of the palace, earliest workshop dated from the foundation to the first half of the seventh century, vessels, crucibles and workshop and residential samples."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q1236430, coordinate location (P625), rounded to 0.01 degree."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Recópolis",
+    "en": "Reccopolis"
+  },
+  "summary": {
+    "de": "Stadtgründung auf einer Anhöhe am Tajo bei Zorita de los Canes.",
+    "en": "Royal foundation on a hill above the Tagus near Zorita de los Canes."
+  }
+}

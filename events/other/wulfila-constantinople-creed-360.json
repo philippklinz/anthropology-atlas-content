@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:wulfila-constantinople-creed-360",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gassman-wolfe-gothic-philippians",
+      "role": "supports",
+      "locator": "p. 532, introduction and notes 4–8 on Wulfila and his endorsement of the Homoian creed in Constantinople in 360."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Wulfila beim Konzil von Konstantinopel",
+    "en": "Wulfila at the Council of Constantinople"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 360,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 360,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:wulfila",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:constantinople"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:constantinople-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "note": {
+    "de": "Der Bischof stimmte dem Bekenntnis zu, das den Sohn als dem Vater ähnlich bezeichnete. Es war 359 nach den Konzilien von Ariminum und Seleukia formuliert worden.",
+    "en": "The bishop endorsed the creed describing the Son as like the Father. It had been formulated in 359 following the councils of Ariminum and Seleucia."
+  }
+}

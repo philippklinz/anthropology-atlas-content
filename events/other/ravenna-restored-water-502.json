@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:ravenna-restored-water-502",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:guerrini-theoderic-epigraphy",
+      "role": "supports",
+      "locator": "pp. 138–139, fig. 3, notes 28–31 and catalogue no. 5. Location at Via di Roma and Via Guaccimanni, lead pipe stamps and Cassiodorus, Chronica, entry for 502."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 71. The author credits Theoderic with restoring the aqueduct at Ravenna attributed to Trajan."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Wasser fließt wieder nach Ravenna",
+    "en": "Water returns to Ravenna"
+  },
+  "note": {
+    "de": "Cassiodors Chronik nennt 502 für die Wiederherstellung des Aquädukts. Die gestempelten Bleirohre geben den Namen des Königs an. Eine Jahreszahl tragen die Stempel selbst nicht.",
+    "en": "Cassiodorus’s chronicle places the restoration of the aqueduct in 502. The stamped lead pipes preserve the king’s name. The stamps themselves give no year."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 502,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 502,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:theoderic-the-amal",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:ravenna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ravenna-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

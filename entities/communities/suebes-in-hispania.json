@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:suebes-in-hispania",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "A, Hydatius, 409 and 411."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Sueben in Hispanien",
+    "en": "Sueves in Hispania"
+  },
+  "summary": {
+    "de": "Der Chronist Hydatius nennt Sueben 409 beim Eintritt in Hispanien und verortet sie 411 in Gallaecia.",
+    "en": "Hydatius lists Sueves entering Hispania in 409 and places them in Gallaecia in 411."
+  }
+}

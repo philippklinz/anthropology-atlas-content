@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:wulfila-crossing-into-moesia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:auxentius-life-of-wulfila",
+      "role": "supports",
+      "locator": "Personal recollection beginning Quem condigne laudare; trilingual writing in Et haec omnia; seven years, expulsion, reception under Constantius and crossing of the Danube in Ubi et post multorum."
+    },
+    {
+      "sourceId": "source:krause-slocum-wulfila",
+      "role": "supports",
+      "locator": "Opening section Wulfila, excerpt of Philostorgius, Ecclesiastical History 2.5 in Photius’ epitome, followed by the conditional calculation of 347–348."
+    },
+    {
+      "sourceId": "source:schaeferdiek-germanic-christianities",
+      "role": "supports",
+      "locator": "pp. 52–54, especially p. 53 on the 340s persecution, reception under Constantius, vicinity of Nicopolis ad Istrum, and the later crossing in 376."
+    }
+  ],
+  "eventType": "migration",
+  "labels": {
+    "de": "Wulfilas Gruppe findet Aufnahme südlich der Donau",
+    "en": "Wulfila’s community finds refuge south of the Danube"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 347,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 348,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:wulfilas-refugees",
+      "role": "moving-community"
+    },
+    {
+      "entityId": "person:wulfila",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:nicopolis-ad-istrum"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:nicopolis-ad-istrum-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Auxentius überliefert die Flucht. Das oft genannte Jahr ergibt sich aus einer Rechnung mit der unsicheren Weihechronologie. Der Punkt bezeichnet die Region des späteren Aufenthalts.",
+      "en": "Auxentius records the flight. Its conventional date is calculated from an uncertain chronology of consecration. The point indicates the district of later settlement."
+    }
+  },
+  "note": {
+    "de": "Constantius II. nahm die aus dem Gebiet nördlich der Donau vertriebenen Christen auf. Eine genaue Überfahrtsstelle ist nicht überliefert.",
+    "en": "Constantius II admitted the Christians driven out of lands north of the Danube. The precise river crossing is unrecorded."
+  }
+}

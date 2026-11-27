@@ -1,0 +1,408 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:goths-black-sea",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radoslavova-abritus-2011",
+      "role": "supports",
+      "locator": "p. 23, opening discussion of Dexippus and later historians"
+    },
+    {
+      "sourceId": "source:razgrad-abritus-reserve",
+      "role": "supports",
+      "locator": "Description of the ancient city and the summer 251 battle in its vicinity"
+    },
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "pp. 34–35, Post-antiquity horizon of Trench R-23, and fig. 19 on the chronology of imported pottery",
+      "note": {
+        "de": "Die Datierung und die Gefäßgruppen gelten für den untersuchten Teil der Zitadelle.",
+        "en": "The dates and pottery groups apply to this excavated part of the citadel."
+      }
+    },
+    {
+      "sourceId": "source:harhoiu-dacia-2021",
+      "role": "supports",
+      "locator": "pp. 353–354, first section and fig. 1A, settlements, funerary practice and map"
+    },
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Chapter 7, Settlement changes, discussion of the two eponymous cemeteries in the paragraphs following fig. 8"
+    },
+    {
+      "sourceId": "source:kulikowski-northern-barbarians-2005",
+      "role": "supports",
+      "locator": "pp. 349–350, discussion of artefact distribution and the populations described as Goths",
+      "note": {
+        "de": "Kulikowski untersucht ausdrücklich, wie weit man aus Gewandspangen, Töpfen und Gräbern auf Gruppenzugehörigkeit schließen kann.",
+        "en": "Kulikowski examines how far brooches, pots and graves support an inference about group membership."
+      }
+    },
+    {
+      "sourceId": "source:rumyantseva-komariv-glass-2023",
+      "role": "supports",
+      "locator": "pp. 51–69, abstract, chemical groups and conclusions on raw glass supply and chronology",
+      "note": {
+        "de": "Die Analyse der 42 Proben unterscheidet Herkunftsregionen des Rohglases und erkennt Altglasverwertung.",
+        "en": "The 42-sample analysis distinguishes sources of raw glass and identifies the use of cullet."
+      }
+    },
+    {
+      "sourceId": "source:petrauskas-avramenko-komariv-2019",
+      "role": "supports",
+      "locator": "pp. 68–71, site description and figs. 1–2, settlement and cemetery by the middle Dniester"
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.3.8–31.4.13, appeals for admission to the empire at the lower Danube in 376"
+    },
+    {
+      "sourceId": "source:bursche-myzgin-abritus-2020",
+      "role": "supports",
+      "locator": "pp. 195–196 on the imperial treasury hypothesis, p. 199 and fig. 2 on p. 201, p. 219 on the nine aureus fragments and cut gold from burial 19 at Ulów site 7."
+    },
+    {
+      "sourceId": "source:didenko-olbia-2024",
+      "role": "supports",
+      "locator": "Fig. 18:3 on p. 33 and pp. 33–34, African red-slip form 50 in the hearth of Building 1 and form 67. Page 34 gives the approximate 70:30 local/import split for trench R-23."
+    }
+  ],
+  "labels": {
+    "de": "Goten in der Welt des Schwarzen Meeres",
+    "en": "The Goths in the Black Sea World"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:battle-near-abritus-251",
+    "event:olbia-r23-late-ceramic-evidence",
+    "event:komariv-glassworking-evidence",
+    "artifact:olbia-r23-late-pottery",
+    "artifact:komariv-raw-glass-samples",
+    "artifact:ulow-herennia-etruscilla-aureus"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 29.2,
+      "latitude": 46.9,
+      "metersPerPixel": 2200,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 250,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 250,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "end": {
+        "earliest": {
+          "year": 450,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 450,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "approximate"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "extent-of"
+    ]
+  },
+  "steps": [
+    {
+      "id": "abritus",
+      "textAnchor": "abritus",
+      "labels": {
+        "de": "Abritus · der Blick aus Rom",
+        "en": "Abritus · the view from Rome"
+      },
+      "summary": {
+        "de": "Die Niederlage des Jahres 251 hinterließ deutliche Spuren in der antiken Geschichtsschreibung.",
+        "en": "The defeat of 251 left a clear mark in ancient historical writing."
+      },
+      "state": {
+        "camera": {
+          "longitude": 26.552,
+          "latitude": 43.521,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 251,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 251,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 251,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 251,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "extent-of"
+        ]
+      }
+    },
+    {
+      "id": "olbia",
+      "textAnchor": "olbia",
+      "labels": {
+        "de": "Olbia · Geschirr in einer Hafenstadt",
+        "en": "Olbia · pottery in a port town"
+      },
+      "summary": {
+        "de": "Gefäßformen im Schnitt R-23 lassen sich mit datierten Funden an anderen Orten vergleichen.",
+        "en": "Vessel forms in trench R-23 can be compared with dated finds elsewhere."
+      },
+      "state": {
+        "camera": {
+          "longitude": 31.9024,
+          "latitude": 46.6915,
+          "metersPerPixel": 110,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 301,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 301,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 450,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 450,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "extent-of"
+        ]
+      }
+    },
+    {
+      "id": "komariv",
+      "textAnchor": "komariv",
+      "labels": {
+        "de": "Komariv · eine Glaswerkstatt am Dnister",
+        "en": "Komariv · a glass workshop on the Dniester"
+      },
+      "summary": {
+        "de": "Wie weit die Lieferwege reichten, lässt sich an der chemischen Zusammensetzung des Rohglases erkennen.",
+        "en": "The chemistry of the raw glass reveals the reach of the supply network."
+      },
+      "state": {
+        "camera": {
+          "longitude": 26.968,
+          "latitude": 48.535,
+          "metersPerPixel": 125,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 301,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 301,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "end": {
+            "earliest": {
+              "year": 425,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 425,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "extent-of"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine zerteilte römische Goldmünze in einem Grab, eine nordafrikanische Schale in einer Feuerstelle und Rohglas am Dnister erzählen von Kontakten weit über die Grenzen des Reiches hinweg.",
+      "en": "A cut Roman gold coin in a grave, part of a North African dish in a hearth, and raw glass on the Dniester reveal contacts reaching far beyond the imperial frontier."
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "black-sea",
+        "labels": {
+          "de": "Schwarzes Meer",
+          "en": "Black Sea"
+        }
+      },
+      {
+        "id": "balkans",
+        "labels": {
+          "de": "Balkan",
+          "en": "Balkans"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      },
+      {
+        "id": "goths",
+        "labels": {
+          "de": "Goten",
+          "en": "Goths"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:komariv-raw-glass-samples",
+    "artifact:olbia-r23-late-pottery",
+    "artifact:ulow-herennia-etruscilla-aureus",
+    "assertion:chernyakhiv-carpathians-to-dnieper",
+    "assertion:chernyakhiv-olbia-late",
+    "assertion:chernyakhiv-southern-bug",
+    "assertion:komariv-raw-glass-context",
+    "assertion:olbia-r23-ceramic-context",
+    "assertion:ulow-aureus-find-context",
+    "community:gothic-army-at-abritus",
+    "event:battle-near-abritus-251",
+    "event:komariv-glassworking-evidence",
+    "event:olbia-r23-late-ceramic-evidence",
+    "geometry:abritus-near-razgrad-orientation",
+    "geometry:chernyakhiv-carpathians-to-dnieper",
+    "geometry:chernyakhiv-olbia-late",
+    "geometry:chernyakhiv-southern-bug",
+    "geometry:komariv-middle-dniester-orientation",
+    "geometry:olbia-pontica-orientation",
+    "geometry:ulow-roztocze-orientation",
+    "person:emperor-decius",
+    "place:abritus-near-razgrad",
+    "place:komariv-middle-dniester",
+    "place:olbia-pontica",
+    "place:ulow-roztocze",
+    "region:chernyakhiv-find-distribution",
+    "region:north-pontic-and-carpathian-basins",
+    "source:ammianus-res-gestae-31",
+    "source:bursche-myzgin-abritus-2020",
+    "source:chre-razgrad-12425",
+    "source:cieslinski-wielbark-2016",
+    "source:didenko-olbia-2024",
+    "source:harhoiu-dacia-2021",
+    "source:kulikowski-northern-barbarians-2005",
+    "source:lcp-olbia-pontica",
+    "source:petrauskas-avramenko-komariv-2019",
+    "source:radoslavova-abritus-2011",
+    "source:razgrad-abritus-reserve",
+    "source:rumyantseva-komariv-glass-2023",
+    "source:saag-komariv-site-supplement",
+    "source:ulow-simc-0902694"
+  ]
+}

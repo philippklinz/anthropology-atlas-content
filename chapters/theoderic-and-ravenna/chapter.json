@@ -1,0 +1,537 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:theoderic-and-ravenna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Discussion after note 99 and before note 100. The political union with the Visigothic kingdom dissolved on Athalaric’s accession, and Amalaric became king there."
+    },
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Introduction, opening paragraphs through note 4. Odoacer in 476, the eastern emperor Zeno’s mandate, the Italian campaign in 489, the agreement and killing in 493, and Theoderic’s death in 526."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 49–51. The imperial commission, the Isonzo and Odoacer’s camp on a plain outside Verona before the battle."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 53–56. Camp in the Pineta, reported price of a measure of wheat, difficulties during the siege, entry into Ravenna and Odoacer’s death."
+    },
+    {
+      "sourceId": "source:venning-western-europe-2018",
+      "role": "supports",
+      "locator": "Part 1, pp. 19–21, entries for Italy under 489, 490, 492 and 493. Verona, the siege of Ravenna and the additional naval blockade from 492."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 65–69. Reception by Pope Symmachus and the Senate, distribution of grain and annual funds earmarked from the wine tax."
+    },
+    {
+      "sourceId": "source:venning-western-europe-2018",
+      "role": "supports",
+      "locator": "Part 1, pp. 23–24. Entry for 500 under Italy on the visit to Rome."
+    },
+    {
+      "sourceId": "source:guerrini-theoderic-epigraphy",
+      "role": "supports",
+      "locator": "pp. 138–139, fig. 3, notes 28–31 and catalogue no. 5. Location at Via di Roma and Via Guaccimanni, lead pipe stamps and Cassiodorus, Chronica, entry for 502."
+    },
+    {
+      "sourceId": "source:anonymus-valesianus-theoderic",
+      "role": "supports",
+      "locator": "Pars posterior 71. The author credits Theoderic with restoring the aqueduct at Ravenna attributed to Trajan."
+    },
+    {
+      "sourceId": "source:cassiodorus-variae-5-38",
+      "role": "supports",
+      "locator": "V.38, heading and §§1–2. Landholders are ordered to remove saplings by the roots from Ravenna’s aqueduct. The letter discusses drinking and bathing water."
+    },
+    {
+      "sourceId": "source:unesco-early-christian-ravenna",
+      "role": "supports",
+      "locator": "Outstanding Universal Value, Brief synthesis, paragraphs on the Arian Baptistery, Sant’Apollinare Nuovo, the mausoleum and the Archbishop’s Chapel."
+    },
+    {
+      "sourceId": "source:whelan-people-in-the-palace",
+      "role": "supports",
+      "locator": "pp. 242–244, figs. 7.1–7.2 and notes 1–6. The palace facade, remnants of hands after the redesign, and readings of the gesture as a greeting or prayer."
+    },
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Paragraphs around notes 84–88. Athalaric, his minority and his mother Amalasuentha’s regency, the accession letters and the promised continuation of rights."
+    },
+    {
+      "sourceId": "source:heydemann-ostrogothic-kingdom",
+      "role": "supports",
+      "locator": "Discussion of Witigis and Belisarius, paragraphs around notes 113–120. Surrender of Ravenna in 540 and its continued imperial control during the remaining war."
+    }
+  ],
+  "labels": {
+    "de": "Ravenna unter Theoderich",
+    "en": "Ravenna under Theoderic"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "artifact:ravenna-inscribed-water-pipes",
+    "person:theoderic-the-amal",
+    "event:ravenna-siege-490-493",
+    "person:odoacer",
+    "event:ravenna-restored-water-502",
+    "artifact:ravenna-palatium-mosaic",
+    "asset:ravenna-palatium-sibeaster",
+    "person:amalasuntha",
+    "event:ravenna-surrender-to-belisarius-540"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 11.86,
+      "latitude": 43.94,
+      "metersPerPixel": 1800,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 489,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 489,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 540,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 540,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "controls"
+    ]
+  },
+  "steps": [
+    {
+      "id": "verona",
+      "textAnchor": "verona",
+      "labels": {
+        "de": "489 · Die Ebene vor Verona",
+        "en": "489 · The plain outside Verona"
+      },
+      "summary": {
+        "de": "Das Lager wird vor der Stadt verortet. Die Fläche umfasst das Umfeld der heutigen Stadt an der Etsch.",
+        "en": "The account places the camp outside the city. The shaded area locates the vicinity of modern Verona on the Adige."
+      },
+      "state": {
+        "camera": {
+          "longitude": 11.0,
+          "latitude": 45.42,
+          "metersPerPixel": 215,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 489,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 489,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "siege",
+      "textAnchor": "siege",
+      "labels": {
+        "de": "492 · Ravenna von Land und See",
+        "en": "492 · Ravenna by land and sea"
+      },
+      "summary": {
+        "de": "Eine Seeblockade ergänzte die Belagerung. Für die Stadtbewohner bekam das Getreide einen außergewöhnlichen Preis.",
+        "en": "A naval blockade supplemented the siege. According to the chronicler the price of wheat soared in the city."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.21,
+          "latitude": 44.42,
+          "metersPerPixel": 210,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 492,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 492,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "entry",
+      "textAnchor": "entry",
+      "labels": {
+        "de": "493 · Vom Lager in den Palast",
+        "en": "493 · From the camp to the palace"
+      },
+      "summary": {
+        "de": "Im Jahr von Odoakers Tod zeigt die Karte den Belagerungsraum und die Stadt als neuen Königssitz.",
+        "en": "In the year of Odoacer’s death the map shows the approaches under siege and the city as the new royal seat."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.21,
+          "latitude": 44.42,
+          "metersPerPixel": 210,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 493,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 493,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "rome",
+      "textAnchor": "rome",
+      "labels": {
+        "de": "500 · Getreide und Weinsteuer in Rom",
+        "en": "500 · Grain and the wine tax in Rome"
+      },
+      "summary": {
+        "de": "Der Senat und Papst Symmachus empfingen den König in Rom. Seine Residenz blieb in Ravenna.",
+        "en": "The Senate and Pope Symmachus received the king in Rome. His residence remained at Ravenna."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.24,
+          "latitude": 43.18,
+          "metersPerPixel": 1250,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 500,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 500,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "water",
+      "textAnchor": "water",
+      "labels": {
+        "de": "502 · Das Wasser kehrt zurück",
+        "en": "502 · The return of the water"
+      },
+      "summary": {
+        "de": "Die Jahreszahl kommt aus Cassiodors Chronik. Gefundene Bleirohre tragen den Namen des Königs.",
+        "en": "The year comes from Cassiodorus’s chronicle. Surviving lead pipes carry the king’s name."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.2,
+          "latitude": 44.42,
+          "metersPerPixel": 115,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 502,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 502,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "succession",
+      "textAnchor": "succession",
+      "labels": {
+        "de": "526 · Ein Kind auf dem Thron",
+        "en": "526 · A child takes the throne"
+      },
+      "summary": {
+        "de": "Amalasuntha regierte für ihren Sohn Athalarich. In Ravenna erinnert noch das Palastmosaik an den Hof ihres Vaters.",
+        "en": "Amalasuntha governed for her son Athalaric. The palace mosaic still recalls her father’s court in Ravenna."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.2,
+          "latitude": 44.42,
+          "metersPerPixel": 115,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 526,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 526,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:ravenna-palatium-sibeaster"
+    },
+    {
+      "id": "surrender",
+      "textAnchor": "surrender",
+      "labels": {
+        "de": "540 · Die Tore öffnen sich für Belisar",
+        "en": "540 · The gates open to Belisarius"
+      },
+      "summary": {
+        "de": "Mit der Übergabe der Stadt an Belisar endet hier die ostgotische Kontrolle. Der Krieg ging anderswo weiter.",
+        "en": "The city’s surrender to Belisarius ended Ostrogothic control here. The war continued elsewhere."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.2,
+          "latitude": 44.42,
+          "metersPerPixel": 215,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 540,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 540,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine Belagerung, eine Getreideration, ein gestempeltes Bleirohr und Hände aus Mosaiksteinen erschließen das Italien Theoderichs. Von Verona bis zur Übergabe Ravennas an Belisar.",
+      "en": "A siege, a grain distribution, a stamped lead pipe and hands picked out in mosaic open up Theoderic’s Italy. From Verona to the surrender of Ravenna to Belisarius."
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "migration-period",
+        "labels": {
+          "de": "Völkerwanderung",
+          "en": "Migration Period"
+        }
+      },
+      {
+        "id": "goths",
+        "labels": {
+          "de": "Goten",
+          "en": "Goths"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "italy",
+        "labels": {
+          "de": "Italien",
+          "en": "Italy"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:ravenna-inscribed-water-pipes",
+    "artifact:ravenna-palatium-mosaic",
+    "assertion:ostrogothic-ravenna-493-540",
+    "assertion:theoderic-kingship-in-italy",
+    "assertion:theoderic-siege-ravenna-490-493",
+    "assertion:theoderic-verona-489",
+    "asset:ravenna-palatium-sibeaster",
+    "community:theoderics-following",
+    "event:amalasuntha-regency-526",
+    "event:ravenna-change-of-rule-493",
+    "event:ravenna-restored-water-502",
+    "event:ravenna-siege-490-493",
+    "event:ravenna-surrender-to-belisarius-540",
+    "event:theoderic-rome-500",
+    "event:theoderic-verona-encounter-489",
+    "geometry:ostrogothic-ravenna-493-540",
+    "geometry:ravenna-orientation",
+    "geometry:rome-orientation",
+    "geometry:theoderic-siege-ravenna-490-493",
+    "geometry:theoderic-verona-489",
+    "geometry:verona-urban-orientation",
+    "person:amalasuntha",
+    "person:belisarius",
+    "person:odoacer",
+    "person:theoderic-the-amal",
+    "place:ravenna",
+    "place:rome",
+    "place:verona",
+    "polity:ostrogothic-kingdom-in-italy",
+    "region:plain-outside-verona",
+    "region:ravenna-and-its-approaches",
+    "source:anonymus-valesianus-theoderic",
+    "source:cassiodorus-variae-5-38",
+    "source:guerrini-theoderic-epigraphy",
+    "source:heydemann-ostrogothic-kingdom",
+    "source:pleiades-ancient-places",
+    "source:sibeaster-palatium-ravenna",
+    "source:unesco-early-christian-ravenna",
+    "source:unesco-verona-world-heritage",
+    "source:venning-western-europe-2018",
+    "source:whelan-people-in-the-palace",
+    "source:zosimus-new-history-5"
+  ]
+}

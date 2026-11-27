@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:tolosa-toulouse-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.44,
+      43.6
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:wielbark-find-distribution",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cieslinski-wielbark-2016",
+      "role": "supports",
+      "locator": "Sections on the emergence and territorial development of the Wielbark culture, figs. 3 and 8; pp. 228–230 on Pliny, Tacitus and Ptolemy and the lower Vistula."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Fundräume der Wielbark-Kultur",
+    "en": "Wielbark archaeological find regions"
+  },
+  "summary": {
+    "de": "Gemeinsame Grab- und Sachformen erlauben den Vergleich mehrerer Fundlandschaften. Schriftquellen verorten im weiteren Raum verschiedene benannte Gruppen.",
+    "en": "Shared burial practices and material forms connect several find regions. Written sources place several named groups in the wider area."
+  }
+}

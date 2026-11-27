@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:vandals-african-agreement-435",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hydatius-prosper-africa",
+      "role": "supports",
+      "locator": "B, Prosper, entry for 435: peace and an unspecified part of Africa for settlement."
+    },
+    {
+      "sourceId": "source:whelan-vandal-africa-timeline",
+      "role": "supports",
+      "locator": "Timeline, p. xiii, entry 435: first agreement with the western empire and a reconstruction involving the Mauretanias and part of Numidia."
+    }
+  ],
+  "subjectId": "community:vandals-in-the-fifth-century",
+  "predicate": "attested-at",
+  "objectId": "region:western-roman-africa",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 435,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 435,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 438,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 438,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Der Ausschnitt westlich von Karthago zeigt den räumlichen Rahmen einer Rekonstruktion. Prosper nennt keine Ortsliste. Der Umriss ist als Orientierung für die Vertragsphase bis 439 gezeichnet.",
+      "en": "The window west of Carthage gives the regional context of a reconstruction. Prosper lists no places. The outline gives orientation for the treaty phase before 439."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:vandals-african-agreement-435",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Prosper schreibt zum Jahr 435, dass die Vandalen Frieden schlossen und einen Teil Afrikas zur Ansiedlung erhielten. Die Forschung bringt dieses Gebiet mit den westlichen Provinzen und Teilen Numidiens in Verbindung. Karthago fiel erst 439.",
+    "en": "Prosper records a peace agreement in 435 and the grant of part of Africa for settlement. Modern scholarship places the grant in the western provinces and parts of Numidia. Carthage fell only in 439."
+  }
+}

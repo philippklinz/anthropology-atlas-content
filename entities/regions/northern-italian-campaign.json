@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "region:northern-italian-campaign",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jacobs-gothic-invasion-2014",
+      "role": "supports",
+      "locator": "p. 69, survey of Claudian: poem celebrating Stilicho’s victory at Pollentia in 402."
+    },
+    {
+      "sourceId": "source:heather-alaric-2015",
+      "role": "supports",
+      "locator": "Extract: first shift of Alaric’s campaigns to Italy in 402."
+    }
+  ],
+  "entityType": "region",
+  "labels": {
+    "de": "Piemont bei Pollentia",
+    "en": "Piedmont around Pollentia"
+  },
+  "summary": {
+    "de": "Pollentia lag bei Pollenzo im heutigen Piemont. Im Jahr 402 kämpften Alarichs Verband und Stilichos Truppen in der Gegend.",
+    "en": "Pollentia stood at Pollenzo in present-day Piedmont. Alaric’s following and Stilicho’s forces fought in the area in 402."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:nicopolis-ad-istrum-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.61,
+      43.22
+    ]
+  }
+}

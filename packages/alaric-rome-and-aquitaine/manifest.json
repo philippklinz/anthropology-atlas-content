@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:alaric-rome-and-aquitaine",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Alarich, das belagerte Rom und ein Zuhause in Aquitanien",
+    "en": "Alaric, Rome under siege and a home in Aquitaine"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:danube-crossing-and-adrianople",
+    "package:maritime-shared"
+  ],
+  "recordIds": [
+    "assertion:alaric-achaia-396",
+    "assertion:alaric-pollentia-402",
+    "assertion:alaric-rome-408-410",
+    "assertion:gothic-settlement-aquitaine-418",
+    "chapter:alaric-rome-and-aquitaine",
+    "community:alarics-followers",
+    "community:gothic-settlers-in-aquitaine",
+    "event:aquitaine-settlement-418",
+    "event:ariminum-talks-409",
+    "event:ravenna-court-response-409",
+    "event:rome-sack-410",
+    "event:rome-sieges-408-410",
+    "geometry:alaric-achaia-396",
+    "geometry:alaric-pollentia-402",
+    "geometry:alaric-rome-408-410",
+    "geometry:ariminum-rimini-orientation",
+    "geometry:gothic-settlement-aquitaine-418",
+    "geometry:ravenna-orientation",
+    "geometry:rome-orientation",
+    "geometry:tolosa-toulouse-orientation",
+    "person:alaric-i",
+    "person:constantius-patrician",
+    "person:jovius-409",
+    "person:marcella-of-rome",
+    "place:ariminum-rimini",
+    "place:ravenna",
+    "place:rome",
+    "place:tolosa-toulouse",
+    "region:achaia-campaign",
+    "region:aquitanian-settlement-context",
+    "region:northern-italian-campaign",
+    "region:rome-and-lower-tiber",
+    "source:augustine-city-of-god-i",
+    "source:heather-alaric-2015",
+    "source:jacobs-gothic-invasion-2014",
+    "source:jerome-letter-127",
+    "source:thompson-southern-gaul-settlement",
+    "source:zosimus-new-history-5"
+  ],
+  "entryChapterIds": [
+    "chapter:alaric-rome-and-aquitaine"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "migration-maps"
+  ]
+}
