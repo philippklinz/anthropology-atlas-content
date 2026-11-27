@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:sigibert-reims-561",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+    },
+    {
+      "sourceId": "source:loseby-civitas-and-frankish-regions",
+      "role": "supports",
+      "locator": "pp. 223–225, 237–239 and nn. 64–67. Shares in cities and aristocratic loyalty in the Treaty of Andelot. Gregory’s use of Burgundy and Austrasia, absence of Neustria in his work, and the emergence of the three regional kingdoms."
+    }
+  ],
+  "subjectId": "polity:sigiberts-share-of-561",
+  "predicate": "controls",
+  "objectId": "place:merovingian-reims",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 561,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 561,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:reims-royal-seat-context",
+      "role": "extent"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die kleine Fläche veranschaulicht den zugewiesenen Sitz auf Stadtebene. Die Grenzen des Reichsanteils und die Aufenthaltsdauer des Königs sind unbekannt.",
+      "en": "The small area locates the assigned seat at city scale. The boundaries of the share and the length of the king’s stay are unknown."
+    }
+  },
+  "note": {
+    "de": "In seiner Darstellung der Teilung nennt Gregor Reims als Königssitz für Sigibert.",
+    "en": "In his account of the division Gregory names Reims as Sigibert’s royal seat."
+  }
+}

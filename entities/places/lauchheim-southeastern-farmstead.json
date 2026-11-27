@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:lauchheim-southeastern-farmstead",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:schoenenberg-farmsteads-and-fence-lines",
+      "role": "supports",
+      "locator": "pp. 298–302, figs. 4a–c. Reconstructed successive fence lines in the south-eastern sector. Phase II encloses four graves, including graves 24 and 25 dated to the last third of the seventh century."
+    },
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 227–231, figs. 5, 6 and 9, n. 12. Waterlogged graves at the eastern farm, winter 703/704 felling date for freshly worked oak of grave 27, and the excavator’s dating of the burial to early 704."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Der Hof am Südostrand von Mittelhofen",
+    "en": "The south-eastern farmstead at Mittelhofen"
+  },
+  "summary": {
+    "de": "Hofareal mit mehreren Zäunen nacheinander und einer Gruppe von Bestattungen.",
+    "en": "A farmstead plot with successive fence lines and a group of burials."
+  }
+}

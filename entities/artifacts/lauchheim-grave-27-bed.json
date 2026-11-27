@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:lauchheim-grave-27-bed",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:alm-lauchheim-grave-27-bed",
+      "role": "supports",
+      "locator": "Object data and Beschreibung, inventory 1989-0011-0769-9000. Mortised bed, wooden dowels and wedge, single bottom board, red and black decoration, leather and plant fibres, and gables added for the burial."
+    },
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 227–231, figs. 5, 6 and 9, n. 12. Waterlogged graves at the eastern farm, winter 703/704 felling date for freshly worked oak of grave 27, and the excavator’s dating of the burial to early 704."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Das Bett aus Grab 27 von Mittelhofen",
+    "en": "The bed from Mittelhofen grave 27"
+  },
+  "summary": {
+    "de": "Möbel mit eingeritztem Zirkeldekor und einem eingeschobenen Keil. Für die Beisetzung setzte man Giebelbretter an.",
+    "en": "A bed with compass-drawn ornament and a wedge in one joint. Gable boards were added when it was turned into a coffin."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:szafranowski-orleans-er1039",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "First Council of Orléans, canon 5 (ER 1039)",
+  "sourceType": "archive",
+  "creators": [
+    "Jerzy Szafranowski"
+  ],
+  "containerTitle": "Presbyters in the Late Antique West, University of Warsaw",
+  "url": "https://presbytersproject.ihuw.pl/index.php?id=6&SourceID=1039",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin text from de Clercq, translation and discussion of offerings and fields granted by the king."
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:lauchheim-early-cemetery-use",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 220–223, figs. 1–2 and n. 4. Two neighbouring sites and more than 1,300 graves used from the final third of the fifth century to the end of the seventh."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Frühe Bestattungen am Hang von Wasserfurche",
+    "en": "Early burials on the Wasserfurche slope"
+  },
+  "note": {
+    "de": "Die Belegung reicht vom letzten Drittel des fünften bis zum Ende des siebten Jahrhunderts. Die ältesten wie die jüngsten Gräber sind archäologisch eingeordnet.",
+    "en": "Burials run from the final third of the fifth to the end of the seventh century. The earliest and latest graves have been dated archaeologically."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 467,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 500,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:lauchheim-wasserfurche-burial-community",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:stork-lauchheim-farm-burials",
+          "role": "supports",
+          "locator": "pp. 220–223, figs. 1–2 and n. 4. Two neighbouring sites and more than 1,300 graves used from the final third of the fifth century to the end of the seventh."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:lauchheim-wasserfurche"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:lauchheim-wasserfurche-orientation",
+      "role": "location"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:basina-nun-of-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+      "role": "supports",
+      "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+    },
+    {
+      "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+      "role": "supports",
+      "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Basina, Nonne von Poitiers",
+    "en": "Basina, nun of Poitiers"
+  },
+  "summary": {
+    "de": "Chilperichs Tochter verließ mit ihrer Verwandten Chrodechilde das Kloster. Die Bischöfe gaben die Beschwerden beider Frauen in ihrem Urteil wieder.",
+    "en": "Chilperic’s daughter left the convent with her kinswoman Clotild. The episcopal verdict reports the complaints made by both women."
+  }
+}

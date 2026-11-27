@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:sutton-hoo-mound-one-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:national-trust-sutton-hoo-mound-one",
+      "role": "derivation",
+      "locator": "Monument 00400 / MNA108959, grid reference TM 2877 4869. Orientation point for Mound 1."
+    },
+    {
+      "sourceId": "source:british-museum-sutton-hoo-gold",
+      "role": "supports",
+      "locator": "Room 41, Gold coins. The 37 struck coins, three blanks and two ingots, Frankish mints and a suggested deposit between 610 and 635."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Orientierungspunkt für die im Beleg ausgewiesene Fundstelle oder den Ort.",
+    "en": "Rounded reference point for the site or town identified in the source."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic orientation",
+    "originNote": "Editorial generalisation of a cited location. Coordinates are rounded for the atlas."
+  }
+}

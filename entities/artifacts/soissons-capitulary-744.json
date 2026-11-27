@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:soissons-capitulary-744",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soissons-capitulary-744",
+      "role": "supports",
+      "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Die Beschlüsse von Soissons",
+    "en": "The decisions of Soissons"
+  },
+  "summary": {
+    "de": "Die Eingangsformel nennt Childerichs Regierungsjahr und Pippin als Herzog und Fürsten.",
+    "en": "The preamble gives Childeric’s regnal year and names Pippin as duke and prince."
+  }
+}

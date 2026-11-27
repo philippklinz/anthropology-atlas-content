@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ghent-madelinus-obverse",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Triëns, Dorestad, Madelinus, Merovingisch Rijk. BRKZ.NUM.000273 (obverse)",
+  "sourceType": "catalog",
+  "creators": [
+    "Ghent University Library, De Bast collection"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Tri%C3%ABns,_Dorestad,_Madelinus,_Merovingisch_Rijk._600-670_barcode_800000085493.jpg",
+  "language": "nl",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Object 800000085493, De Bast 113. Obverse, weight 1.19 g, diameter 12 mm, collection range 600–670 and CC0 file statement."
+}

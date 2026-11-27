@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:avitus-congratulates-clovis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:avitus-of-vienne-letter-46",
+      "role": "supports",
+      "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+    },
+    {
+      "sourceId": "source:shanzer-dating-baptism-of-clovis",
+      "role": "supports",
+      "locator": "pp. 29–31, 47–49 and 55–56. The traditional 496 chronology, the proposed identification of Avitus’s captives and the argument for Christmas 508."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Avitus gratuliert Chlodwig zur Taufe",
+    "en": "Avitus congratulates Clovis on his baptism"
+  },
+  "note": {
+    "de": "Der Bischof dankt nach der Taufe für die Freilassung von Gefangenen. Das angegebene Zeitfenster lässt auch die Zeit nach Weihnachten 508 zu. Einen Absendeort nennt der erhaltene Text nicht.",
+    "en": "The bishop’s congratulations after the baptism include praise for the release of captives. The time window allows for a letter sent after Christmas 508. The surviving text does not give its place of issue."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 496,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 509,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:avitus-of-vienne",
+      "role": "author",
+      "sourceRefs": [
+        {
+          "sourceId": "source:avitus-of-vienne-letter-46",
+          "role": "supports",
+          "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+        }
+      ]
+    },
+    {
+      "entityId": "person:clovis-i",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:avitus-of-vienne-letter-46",
+          "role": "supports",
+          "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:avitus-letter-on-clovis-baptism",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:avitus-of-vienne-letter-46",
+          "role": "supports",
+          "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

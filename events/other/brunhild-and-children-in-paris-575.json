@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:brunhild-and-children-in-paris-575",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-paris-brunhild-v-1",
+      "role": "supports",
+      "locator": "V.1, opening and notes: Brunhild and her children in Paris, Childebert’s removal and Christmas accession in 575, subsequent separation of the family."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Brunichild erfährt in Paris vom Tod Sigiberts",
+    "en": "Brunhild learns of Sigibert’s death in Paris"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 575,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 575,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:brunhild-of-austrasia",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-paris-brunhild-v-1",
+          "role": "supports",
+          "locator": "V.1, opening and notes: Brunhild and her children in Paris, Childebert’s removal and Christmas accession in 575, subsequent separation of the family."
+        }
+      ]
+    },
+    {
+      "entityId": "person:childebert-ii",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-paris-brunhild-v-1",
+          "role": "supports",
+          "locator": "V.1, opening and notes: Brunhild and her children in Paris, Childebert’s removal and Christmas accession in 575, subsequent separation of the family."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-paris"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Gregor verortet Brunichild und ihre Kinder bei der Todesnachricht in Paris. Den Ort der anschließenden Erhebung des Jungen nennt dieser Eintrag nicht.",
+    "en": "Gregory places Brunhild and her children in Paris when word of the death arrived. This entry leaves the location of the boy’s subsequent acclamation open."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:childebert-ii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-paris-brunhild-v-1",
+      "role": "supports",
+      "locator": "V.1, opening and notes: Brunhild and her children in Paris, Childebert’s removal and Christmas accession in 575, subsequent separation of the family."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Childebert II.",
+    "en": "Childebert II"
+  },
+  "summary": {
+    "de": "Sohn Sigiberts und Brunichilds. Er wurde 575 als Kind König und verhandelte 587 mit seiner Mutter und seinem Onkel Guntram.",
+    "en": "Son of Sigibert and Brunhild. He became king as a child in 575 and in 587 negotiated with his mother and his uncle Guntram."
+  }
+}

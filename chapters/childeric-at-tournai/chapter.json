@@ -1,0 +1,430 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:childeric-at-tournai",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:esmonde-cleary-childeric-burial",
+      "role": "supports",
+      "locator": "pp. 383–384, “The Franks and northern Gaul”: grave across the river from the fortifications, dress fastener, military symbolism, arms, ring and three horse pits."
+    },
+    {
+      "sourceId": "source:fischer-lind-childeric-coins",
+      "role": "supports",
+      "locator": "p. 3, introduction: date of the burial, composition of the hoard, four illustrated pierced silver coins, examination after removal from the ground and the authors’ interpretation of the selection; Table II: mints and rulers, including Leo I at Constantinople and Julius Nepos at Ravenna."
+    },
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    },
+    {
+      "sourceId": "source:connected-communities-tournai-saint-brice",
+      "role": "supports",
+      "locator": "Site 375, Excavations, Cemetery, Beads and Glass vessels: four campaigns 1983–1986, 21 horses, 11 amber beads in four graves and several kinds of drinking vessel."
+    },
+    {
+      "sourceId": "source:bnf-tournai-signet-56-460",
+      "role": "supports",
+      "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+    },
+    {
+      "sourceId": "source:bnf-tournai-bee-56-449",
+      "role": "supports",
+      "locator": "Inv. 56.449, Description, Mesures and Mode d’acquisition: gold and garnet, loop for fastening, 1.6 cm, 1.95 g, reported numbers at discovery and presentation, two recovered after the theft."
+    },
+    {
+      "sourceId": "source:barreveld-identifying-royalty",
+      "role": "supports",
+      "locator": "Sections “Princely tombs” and “King Childeric”: selection of grave goods by the living, limits of identification by seal and the inference of a capital from a burial."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Catalogue essay by Olivier Latteur (January 2025), “Contenu”, paragraphs on the 1653 construction site, Chifflet’s medical career, the Plantin-Moretus edition and the Habsburg–Bourbon argument."
+    },
+    {
+      "sourceId": "source:bnf-richelieu-cabinet-history",
+      "role": "supports",
+      "locator": "“Histoire du Cabinet”, “L’installation du cabinet au sein de la bibliothèque”: gallery above the rue Colbert open to visitors from 1741 and occupied until 1865."
+    }
+  ],
+  "labels": {
+    "de": "Childerichs Grab in Tournai",
+    "en": "Childeric’s grave at Tournai"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "asset:chifflet-tournai-bees-1655",
+    "event:burial-at-saint-brice",
+    "artifact:tournai-childeric-signet",
+    "asset:chifflet-tournai-signet-1655",
+    "artifact:tournai-grave-coins",
+    "event:tournai-grave-discovery-1653",
+    "event:chifflet-antwerp-edition-1655",
+    "event:theft-of-childeric-signet-1831",
+    "event:saint-brice-excavations-1983-1986"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 3.395,
+      "latitude": 50.608,
+      "metersPerPixel": 110,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 481,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 481,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 482,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 482,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "burial",
+      "textAnchor": "burial",
+      "labels": {
+        "de": "Um 481/482 · Ein Königsring an der Schelde",
+        "en": "About 481/482 · A royal signet by the Scheldt"
+      },
+      "summary": {
+        "de": "Im Viertel Saint-Brice liegt das Grab mit Childerichs Siegelring. Welches Jahr seine Bestattung genau hatte, bleibt offen.",
+        "en": "The Saint-Brice quarter contains the grave with Childeric’s signet. The exact year of burial remains open."
+      },
+      "state": {
+        "camera": {
+          "longitude": 3.395,
+          "latitude": 50.608,
+          "metersPerPixel": 70,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 481,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 482,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "approximate"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      },
+      "assetId": "asset:chifflet-tournai-signet-1655"
+    },
+    {
+      "id": "rediscovery",
+      "textAnchor": "rediscovery",
+      "labels": {
+        "de": "1653 · Gold auf einer Baustelle",
+        "en": "1653 · Gold on a building site"
+      },
+      "summary": {
+        "de": "Der 27. Mai ist das Datum der Entdeckung. Von den Insekten sind heute noch zwei nachweisbar.",
+        "en": "The discovery is dated 27 May. Two of the insect-shaped ornaments survive."
+      },
+      "state": {
+        "camera": {
+          "longitude": 3.395,
+          "latitude": 50.608,
+          "metersPerPixel": 70,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1653,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1653,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      },
+      "assetId": "asset:chifflet-tournai-bees-1655"
+    },
+    {
+      "id": "printing",
+      "textAnchor": "printing",
+      "labels": {
+        "de": "1655 · Eine Druckerei in Antwerpen",
+        "en": "1655 · A printing house in Antwerp"
+      },
+      "summary": {
+        "de": "Das gedruckte Blatt zeigt acht Insekten in zwei Reihen. Die Überschriften unterscheiden Exemplare mit Augen von solchen ohne Augen.",
+        "en": "The printed leaf shows eight insects in two rows. The captions distinguish examples with eyes from those without."
+      },
+      "state": {
+        "camera": {
+          "longitude": 4.4,
+          "latitude": 51.22,
+          "metersPerPixel": 400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1655,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1655,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      },
+      "assetId": "asset:chifflet-tournai-bees-1655"
+    },
+    {
+      "id": "theft",
+      "textAnchor": "theft",
+      "labels": {
+        "de": "1831 · Der Ring verschwindet in Paris",
+        "en": "1831 · The ring disappears in Paris"
+      },
+      "summary": {
+        "de": "Nach dem Einbruch am 5. November wird der Ring vermisst. Der Kupferstich entstand, als das Original noch vorhanden war.",
+        "en": "The ring went missing in the break-in on 5 November. This engraving was made while the original still survived."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.338,
+          "latitude": 48.867,
+          "metersPerPixel": 240,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1831,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1831,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      },
+      "assetId": "asset:chifflet-tournai-signet-1655"
+    },
+    {
+      "id": "cemetery",
+      "textAnchor": "cemetery",
+      "labels": {
+        "de": "1983–1986 · Zurück nach Saint-Brice",
+        "en": "1983–1986 · Back to Saint-Brice"
+      },
+      "summary": {
+        "de": "Die neuen Ausgrabungen erfassten menschliche Gräber und drei Gruben mit Pferden in der Umgebung der Bestattung.",
+        "en": "The new excavations recorded human graves and three pits with horses in the area around the burial."
+      },
+      "state": {
+        "camera": {
+          "longitude": 3.395,
+          "latitude": 50.608,
+          "metersPerPixel": 70,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 1983,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1983,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 1986,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1986,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein königlicher Siegelring, durchlochte Silbermünzen und winzige goldene Insekten. Was lässt sich aus dem Grab an der Schelde erfahren, nachdem die meisten Stücke verschwunden sind?",
+      "en": "A royal seal, pierced silver coins and tiny gold insects. What can we learn from a grave by the Scheldt after most of its contents have vanished?"
+    },
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "merovingians",
+        "labels": {
+          "de": "Merowinger",
+          "en": "Merovingians"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:anastasis-childerici-1655",
+    "artifact:tournai-childeric-signet",
+    "artifact:tournai-gold-insect-ornaments",
+    "artifact:tournai-grave-coins",
+    "assertion:childeric-insects-found-1653",
+    "assertion:childeric-signet-at-tournai",
+    "asset:chifflet-tournai-bees-1655",
+    "asset:chifflet-tournai-signet-1655",
+    "community:saint-brice-excavators-1983-1986",
+    "event:burial-at-saint-brice",
+    "event:chifflet-antwerp-edition-1655",
+    "event:saint-brice-excavations-1983-1986",
+    "event:theft-of-childeric-signet-1831",
+    "event:tournai-grave-discovery-1653",
+    "geometry:antwerp-press-orientation",
+    "geometry:paris-richelieu-cabinet-orientation",
+    "geometry:saint-brice-finds-context",
+    "geometry:tournai-saint-brice-orientation",
+    "person:childeric-i",
+    "person:jean-jacques-chifflet",
+    "place:antwerp-plantin-moretus",
+    "place:paris-richelieu-coin-cabinet",
+    "place:tournai-saint-brice",
+    "source:barreveld-identifying-royalty",
+    "source:bnf-richelieu-cabinet-history",
+    "source:bnf-tournai-bee-56-449",
+    "source:bnf-tournai-signet-56-460",
+    "source:brulet-tournai-excavations-1988",
+    "source:chifflet-anastasis-childerici-namur-1655",
+    "source:connected-communities-tournai-saint-brice",
+    "source:esmonde-cleary-childeric-burial",
+    "source:fischer-lind-childeric-coins",
+    "source:wikidata-place-coordinates"
+  ]
+}

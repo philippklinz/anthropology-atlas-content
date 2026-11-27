@@ -1,0 +1,376 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:merovingian-gold-coins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ghent-madelinus-obverse",
+      "role": "supports",
+      "locator": "Object 800000085493, De Bast 113. Obverse, weight 1.19 g, diameter 12 mm, collection range 600–670 and CC0 file statement."
+    },
+    {
+      "sourceId": "source:ghent-madelinus-reverse",
+      "role": "supports",
+      "locator": "Object 800000085493, reverse photograph and transcription, two rows of pellets beneath the cross. File licensing section, CC0 1.0."
+    },
+    {
+      "sourceId": "source:berlin-madelinus-18208309",
+      "role": "supports",
+      "locator": "Object 18208309, legends and commentary after the bibliography. Parallel specimen. The name is also known at Maastricht and probably continued after the moneyer’s death."
+    },
+    {
+      "sourceId": "source:museum-thorn-madelinus",
+      "role": "supports",
+      "locator": "Object description, first paragraph. Found near Thorn in 2009, struck at Maastricht around 625, its two inscriptions and moneyer."
+    },
+    {
+      "sourceId": "source:maastricht-museum-early-crafts",
+      "role": "supports",
+      "locator": "Sections Artisanal centre and Trade centre. Glass, pottery, textiles and antler working, and twelve named Maastricht moneyers."
+    },
+    {
+      "sourceId": "source:tys-merovingian-river-traders",
+      "role": "supports",
+      "locator": "The Oxford Handbook of the Merovingian World, pp. 772–774 and figs. 34.1–34.3. River settlements, two moneyers at Dorestad before its later port, Madelinus in the 630s and 640s and possible uses for gold coins."
+    },
+    {
+      "sourceId": "source:british-museum-sutton-hoo-gold",
+      "role": "supports",
+      "locator": "Room 41, Gold coins. The 37 struck coins, three blanks and two ingots, Frankish mints and a suggested deposit between 610 and 635."
+    },
+    {
+      "sourceId": "source:grierson-sutton-hoo-coins",
+      "role": "supports",
+      "locator": "Antiquity 44, pp. 14–18, opening paragraphs. Separate weights for struck coins, the three blanks and the two rectangular ingots."
+    },
+    {
+      "sourceId": "source:jezeer-oegstgeest-excavation",
+      "role": "supports",
+      "locator": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date."
+    },
+    {
+      "sourceId": "source:national-trust-sutton-hoo-mound-one",
+      "role": "derivation",
+      "locator": "Monument 00400 / MNA108959, grid reference TM 2877 4869. Orientation point for Mound 1."
+    },
+    {
+      "sourceId": "source:getty-tgn-maastricht",
+      "role": "derivation",
+      "locator": "TGN 7006862, coordinates 50.8500° N, 5.6833° E. These locate the modern city."
+    },
+    {
+      "sourceId": "source:getty-tgn-dorestad",
+      "role": "derivation",
+      "locator": "TGN 7017400, historical name Dorestad and orientation at 51.9833° N, 5.3500° E."
+    }
+  ],
+  "labels": {
+    "de": "Wer steht auf dem Geld der Merowinger?",
+    "en": "Whose name was on Merovingian money?"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "asset:madelinus-ghent-both-sides",
+    "artifact:sutton-hoo-purse-gold",
+    "artifact:madelinus-ghent-tremissis",
+    "person:madelinus-moneyer",
+    "artifact:oegstgeest-coin-330",
+    "artifact:oegstgeest-well-twelve"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 3.65,
+      "latitude": 51.65,
+      "metersPerPixel": 3600,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 610,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 610,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 679,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 679,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "attested-at",
+      "events"
+    ]
+  },
+  "steps": [
+    {
+      "id": "sutton-hoo",
+      "textAnchor": "sutton-hoo",
+      "labels": {
+        "de": "Um 620 · Sutton Hoo, ein Beutel im Schiffsgrab",
+        "en": "Around 620 · Sutton Hoo, a purse in a ship burial"
+      },
+      "summary": {
+        "de": "Das British Museum setzt die einmalige Niederlegung in die Jahre 610–635.",
+        "en": "The British Museum places the single deposit within the years 610–635."
+      },
+      "state": {
+        "camera": {
+          "longitude": 1.34,
+          "latitude": 52.09,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 620,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 620,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "attested-at",
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "maastricht",
+      "textAnchor": "maastricht",
+      "labels": {
+        "de": "Um 625 · Ein Name an der Maas",
+        "en": "Around 625 · A name on the Meuse"
+      },
+      "summary": {
+        "de": "Das Museum Thorn datiert die Prägung um 625. Der Acker bei Thorn ist der Fundort von 2009.",
+        "en": "Museum Thorn dates the striking to around 625. The field near Thorn is its 2009 findspot."
+      },
+      "state": {
+        "camera": {
+          "longitude": 5.68,
+          "latitude": 50.85,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 625,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 625,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "attested-at",
+          "events"
+        ]
+      }
+    },
+    {
+      "id": "dorestad",
+      "textAnchor": "dorestad",
+      "labels": {
+        "de": "Um 640 · Ein Name am Rhein",
+        "en": "Around 640 · A name on the Rhine"
+      },
+      "summary": {
+        "de": "Tys ordnet diese Prägetätigkeit den 630er und 640er Jahren zu. Einzelstücke, darunter das Genter Exemplar, sind weiter datiert.",
+        "en": "Tys places this minting in the 630s and 640s. Individual coins, including the Ghent specimen, have wider catalogue dates."
+      },
+      "state": {
+        "camera": {
+          "longitude": 5.35,
+          "latitude": 51.98,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 640,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 640,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "attested-at",
+          "events"
+        ]
+      },
+      "assetId": "asset:madelinus-ghent-both-sides"
+    },
+    {
+      "id": "oegstgeest",
+      "textAnchor": "oegstgeest",
+      "labels": {
+        "de": "Um 672 · Am Brunnen bei Leiden",
+        "en": "Around 672 · At a well near Leiden"
+      },
+      "summary": {
+        "de": "Das Holz von Brunnen 12 ergibt 672 ± 7. Der Punkt bezeichnet die Grabungsfläche, der Befund liegt an der Südwand von Haus 2.",
+        "en": "The well timber dates to 672 ± 7. The point represents the excavation site. The well cut the south wall of house 2."
+      },
+      "state": {
+        "camera": {
+          "longitude": 4.45,
+          "latitude": 52.17,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 672,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 672,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "attested-at",
+          "events"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Münzmeister hinterlässt seinen Namen an Maas und Rhein. Was erzählen sein Goldstück, drei ungeprägte Plättchen in einem englischen Schiffsgrab und eine Nachprägung bei Leiden?",
+      "en": "A moneyer left his name on the Meuse and Rhine. What can his coin, three blanks in an English ship burial and an imitation near Leiden tell us?"
+    },
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "merovingians",
+        "labels": {
+          "de": "Merowinger",
+          "en": "Merovingians"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:dorestad-madelinus-issues",
+    "artifact:madelinus-ghent-tremissis",
+    "artifact:madelinus-maastricht-thorn",
+    "artifact:oegstgeest-coin-330",
+    "artifact:oegstgeest-well-twelve",
+    "artifact:sutton-hoo-purse-gold",
+    "assertion:dorestad-moneyer-name",
+    "assertion:maastricht-thorn-coin",
+    "assertion:oegstgeest-well-twelve-timber",
+    "assertion:sutton-purse-deposit",
+    "asset:madelinus-ghent-both-sides",
+    "event:dorestad-moneyer-name",
+    "event:maastricht-thorn-coin",
+    "event:oegstgeest-coin-striking",
+    "event:oegstgeest-well-twelve-timber",
+    "event:sutton-purse-deposit",
+    "geometry:dorestad-mint-context",
+    "geometry:dorestad-orientation",
+    "geometry:maastricht-on-the-meuse-mint-context",
+    "geometry:maastricht-on-the-meuse-orientation",
+    "geometry:oegstgeest-nieuw-rhijngeest-zuid-orientation",
+    "geometry:sutton-hoo-mound-one-orientation",
+    "person:madelinus-moneyer",
+    "place:dorestad",
+    "place:maastricht-on-the-meuse",
+    "place:oegstgeest-nieuw-rhijngeest-zuid",
+    "place:sutton-hoo-mound-one",
+    "source:berlin-madelinus-18208309",
+    "source:british-museum-sutton-hoo-gold",
+    "source:getty-tgn-dorestad",
+    "source:getty-tgn-maastricht",
+    "source:ghent-madelinus-obverse",
+    "source:ghent-madelinus-reverse",
+    "source:grierson-sutton-hoo-coins",
+    "source:jezeer-oegstgeest-excavation",
+    "source:maastricht-museum-early-crafts",
+    "source:museum-thorn-madelinus",
+    "source:national-trust-sutton-hoo-mound-one",
+    "source:tys-merovingian-river-traders"
+  ]
+}

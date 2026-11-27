@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:lauchheim-bed-in-grave-27",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 227–231, figs. 5, 6 and 9, n. 12. Waterlogged graves at the eastern farm, winter 703/704 felling date for freshly worked oak of grave 27, and the excavator’s dating of the burial to early 704."
+    },
+    {
+      "sourceId": "source:alm-lauchheim-grave-27-bed",
+      "role": "supports",
+      "locator": "Object data and Beschreibung, inventory 1989-0011-0769-9000. Mortised bed, wooden dowels and wedge, single bottom board, red and black decoration, leather and plant fibres, and gables added for the burial."
+    }
+  ],
+  "subjectId": "artifact:lauchheim-grave-27-bed",
+  "predicate": "attested-at",
+  "objectId": "place:lauchheim-southeastern-farmstead",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 704,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 704,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Schematischer Nahbereich am Südostrand der Siedlung. Die Hoffläche und einzelne Gräber sind im Grabungsplan genauer zu sehen.",
+      "en": "Schematic vicinity on the south-eastern edge of the settlement. The excavated farm features and individual graves are mapped in the site plan."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:lauchheim-southeastern-farm-vicinity",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Der letzte Jahrring der frisch verarbeiteten Kammer-Eiche ergibt die Fällzeit Winter 703/704. Stork setzt die Beisetzung an den Jahresanfang 704. Das Fertigungsjahr des Betts bleibt offen.",
+    "en": "The outermost ring of the freshly worked chamber oak places its felling in the winter of 703/704. Stork dates the burial to early 704. The bed’s year of manufacture remains open."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:reims-royal-seat-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.22, MGH SS rer. Merov. 1.1, pp. 154–155. Chilperic uses royal treasure and enters Paris. His brothers dislodge him. The narrative pairs each of the four kings with a predecessor and a sedes."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q41876 (Reims), P625, editorial neighbourhood around the rounded city reference, 4.03 E, 49.27 N."
+    }
+  ],
+  "geometryType": "Polygon",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die kleine Fläche hebt Reims als den von Gregor genannten Sitz hervor. Lage und Ausdehnung königlicher Gebäude bleiben offen.",
+    "en": "The small area highlights Reims as the seat named by Gregory. The location and extent of any royal buildings remain open."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original schematic frame around the rounded Reims point. No archaeological, administrative or political boundary was traced."
+  }
+}

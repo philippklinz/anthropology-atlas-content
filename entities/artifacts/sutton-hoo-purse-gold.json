@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:sutton-hoo-purse-gold",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:british-museum-sutton-hoo-gold",
+      "role": "supports",
+      "locator": "Room 41, Gold coins. The 37 struck coins, three blanks and two ingots, Frankish mints and a suggested deposit between 610 and 635."
+    },
+    {
+      "sourceId": "source:grierson-sutton-hoo-coins",
+      "role": "supports",
+      "locator": "Antiquity 44, pp. 14–18, opening paragraphs. Separate weights for struck coins, the three blanks and the two rectangular ingots."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Das Gold im Beutel von Sutton Hoo",
+    "en": "The gold in the Sutton Hoo purse"
+  },
+  "summary": {
+    "de": "37 geprägte Münzen, drei ungeprägte Plättchen und zwei Barren lagen im Schiffsgrab.",
+    "en": "The ship burial yielded 37 struck coins, three round blanks and two ingots."
+  }
+}

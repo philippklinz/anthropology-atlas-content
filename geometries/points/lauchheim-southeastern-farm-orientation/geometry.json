@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:lauchheim-southeastern-farm-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Wikidata Q50639077, coordinate location (P625), 48°52′17.040″N 10°13′54.120″E, used as the reference point for the cemetery. The two site plans locate Mittelhofen relative to it."
+    },
+    {
+      "sourceId": "source:lauchheim-site-location-boards",
+      "role": "derivation",
+      "locator": "Two boards, maps labelled “Lage des alamannischen Gräberfelds im heutigen Stadtplan” and “Lage der alamannischen Siedlung im heutigen Stadtplan”. Orientation of the cemetery uphill and the farm area nearer the river; no excavation perimeter was digitised."
+    },
+    {
+      "sourceId": "source:schoenenberg-farmsteads-and-fence-lines",
+      "role": "supports",
+      "locator": "pp. 298–302, figs. 4a–c. Reconstructed successive fence lines in the south-eastern sector. Phase II encloses four graves, including graves 24 and 25 dated to the last third of the seventh century."
+    },
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 227–231, figs. 5, 6 and 9, n. 12. Waterlogged graves at the eastern farm, winter 703/704 felling date for freshly worked oak of grave 27, and the excavator’s dating of the burial to early 704."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Schematischer Nahbereich am Südostrand der Siedlung. Die Hoffläche und einzelne Gräber sind im Grabungsplan genauer zu sehen.",
+    "en": "Schematic vicinity on the south-eastern edge of the settlement. The excavated farm features and individual graves are mapped in the site plan."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original editorial cartography",
+    "originNote": "Original schematic locator drawn from the relative positions on the published site plans. No excavation geometry or historical ownership boundary has been copied."
+  }
+}

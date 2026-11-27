@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mathisen-clovis-anastasius-508",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Clovis, Anastasius, and Political Status in 508 C.E.: The Frankish Aftermath of the Battle of Vouillé",
+  "sourceType": "article",
+  "creators": [
+    "Ralph W. Mathisen"
+  ],
+  "containerTitle": "The Battle of Vouillé, 507 CE: Where France Began, pp. 79–110",
+  "url": "https://doi.org/10.1515/9781614510994.79",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Analysis of Gregory’s account of the ceremony at Tours and alternative understandings of the honours.",
+  "published": "2012",
+  "identifiers": {
+    "doi": "10.1515/9781614510994.79"
+  }
+}

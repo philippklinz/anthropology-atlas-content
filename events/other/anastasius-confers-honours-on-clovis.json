@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:anastasius-confers-honours-on-clovis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "Book II.37, final sentence, and II.38. Gifts to Saint Martin, the documents from Anastasius, royal dress and public distribution of gold and silver in Tours."
+    },
+    {
+      "sourceId": "source:mathisen-clovis-anastasius-508",
+      "role": "supports",
+      "locator": "pp. 79–83 and 105–109. Account of the 508 visit in Histories II.37–38, ceremonial clothing, largesse and competing readings of the emperor’s honours."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Kaiserliche Ehren für Chlodwig",
+    "en": "Imperial honours for Clovis"
+  },
+  "note": {
+    "de": "Nach Gregor gingen von Kaiser Anastasius Urkunden für Chlodwig aus. Die Quelle unterscheidet die kaiserliche Verleihung von der Feier in Tours. Der Kaiser wird deshalb nicht als Teilnehmer in Tours verortet.",
+    "en": "In Gregory’s account documents were sent on the emperor’s authority to Clovis. Conferral of the honours was distinct from their celebration at Tours. The emperor is therefore not mapped at the ceremony."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 508,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 508,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:anastasius-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "Book II.37, final sentence, and II.38. Gifts to Saint Martin, the documents from Anastasius, royal dress and public distribution of gold and silver in Tours."
+        },
+        {
+          "sourceId": "source:mathisen-clovis-anastasius-508",
+          "role": "supports",
+          "locator": "pp. 79–83 and 105–109. Account of the 508 visit in Histories II.37–38, ceremonial clothing, largesse and competing readings of the emperor’s honours."
+        }
+      ]
+    },
+    {
+      "entityId": "person:clovis-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "Book II.37, final sentence, and II.38. Gifts to Saint Martin, the documents from Anastasius, royal dress and public distribution of gold and silver in Tours."
+        },
+        {
+          "sourceId": "source:mathisen-clovis-anastasius-508",
+          "role": "supports",
+          "locator": "pp. 79–83 and 105–109. Account of the 508 visit in Histories II.37–38, ceremonial clothing, largesse and competing readings of the emperor’s honours."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

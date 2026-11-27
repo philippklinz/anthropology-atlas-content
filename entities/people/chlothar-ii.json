@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:chlothar-ii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-chlothar-paris-625",
+      "role": "supports",
+      "locator": "ARTEM 4505, Archives nationales K 1 no. 7/1, regest and ll. 3–7. Abbot Dodo, the donor Dagobert, whose father was Baddo, and a plot described as within the walls of Paris."
+    },
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.79, pp. 66–67, including n. 1. Illness at Épinay, Aega, Nanthild, Clovis and burial at Saint-Denis. Wallace-Hadrill follows Courtois in dating the death to 638."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chlothar II.",
+    "en": "Chlothar II"
+  },
+  "summary": {
+    "de": "Der Frankenkönig und Vater Dagoberts I. bestätigte 625 Schenkungsgut für Saint-Denis. Der in jenem Dokument auftretende Schenker war ein Sohn Baddos.",
+    "en": "The Frankish king and father of Dagobert I confirmed a gift for Saint-Denis in 625. The donor named in that document was a son of Baddo."
+  }
+}

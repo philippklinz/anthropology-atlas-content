@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wallace-hadrill-fredegar-fourth-book",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "The Fourth Book of the Chronicle of Fredegar, with its Continuations",
+  "creators": [
+    "Fredegar",
+    "J. M. Wallace-Hadrill (editor and translator)"
+  ],
+  "url": "https://almuslih.org/wp-content/uploads/2024/11/Wallace-Hadrill-J-Fourth-Book-of-the-Chronicle-.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin with a facing English translation, notes and chronological discussions. The last years of Dagobert’s reign can be reckoned differently.",
+  "published": "1960",
+  "containerTitle": "Nelson’s Medieval Texts"
+}

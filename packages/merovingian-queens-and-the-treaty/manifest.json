@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:merovingian-queens-and-the-treaty",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Brunichild, Fredegunde und der Vertrag von Andelot",
+    "en": "Brunhild, Fredegund and the treaty of Andelot"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:dagobert-and-saint-denis",
+    "package:radegund-and-poitiers",
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "artifact:andelot-pact-text",
+    "assertion:brunhild-and-children-paris-575",
+    "assertion:brunhild-at-andelot-587",
+    "assertion:cahors-clause-of-andelot-587",
+    "assertion:fredegund-paris-sanctuary-584",
+    "assertion:guntram-at-chalon-588",
+    "chapter:merovingian-queens-and-the-treaty",
+    "community:inhabitants-of-cahors-in-the-pact",
+    "event:andelot-pact-reread-at-chalon-588",
+    "event:andelot-treaty-587",
+    "event:brunhild-and-children-in-paris-575",
+    "event:fredegund-at-paris-584",
+    "geometry:andelot-blancheville-orientation",
+    "geometry:andelot-meeting-locality",
+    "geometry:cahors-cadurcis-orientation",
+    "geometry:cahors-treaty-locality",
+    "geometry:chalon-embassy-locality",
+    "geometry:chalon-sur-saone-orientation",
+    "person:brunhild-of-austrasia",
+    "person:childebert-ii",
+    "person:chlodosind-daughter-of-brunhild",
+    "person:faileuba",
+    "person:fredegund",
+    "person:galswinth",
+    "person:guntram",
+    "place:andelot-blancheville",
+    "place:cahors-cadurcis",
+    "place:chalon-sur-saone",
+    "source:baroin-marriage-and-property-2013",
+    "source:capitularia-pactum-andelot-bk-6",
+    "source:connected-communities-andelot-951",
+    "source:gregory-frankish-queens-thorpe-extracts",
+    "source:gregory-histories-brehaut-selections",
+    "source:gregory-paris-brunhild-v-1",
+    "source:halfond-chilperic-fredegund-patronage",
+    "source:mcrobbie-gregory-gender-and-violence"
+  ],
+  "entryChapterIds": [
+    "chapter:merovingian-queens-and-the-treaty"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "migration-maps"
+  ]
+}

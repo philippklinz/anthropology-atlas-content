@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:grimhild-of-the-wissembourg-charter",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:scholz-free-women-frankish-realm",
+      "role": "supports",
+      "locator": "p. 123, section 3 and notes 80–82: Grimhild’s property, intention, request for the charter and first place in the witnesses. The study follows the January dating."
+    },
+    {
+      "sourceId": "source:grimhild-wissembourg-cartulary",
+      "role": "supports",
+      "locator": "Place of issue, two possessions, cartulary transmission and the closing formula dating by Carloman and Pippin. Different editions assign different days early in 743."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Grimhild, Stifterin in Weißenburg",
+    "en": "Grimhild, a donor to Wissembourg"
+  },
+  "summary": {
+    "de": "Ihre Schenkung ist im Urkundenbuch des Klosters überliefert.",
+    "en": "The abbey’s cartulary records her donation and her request for a charter."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:beylie-vezeronce-grenoble-1909",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "Le Musée de Grenoble. Plate of the Vézeronce helmet",
+  "creators": [
+    "Léon de Beylié (volume author)",
+    "Unidentified engraver"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Dessin_du_casque_de_V%C3%A9zeronce_(1908).jpg",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Illustration published in the 1909 catalogue, digitised in Gallica, bpt6k6460826t, vue 225. Wikimedia Commons provides the plate and identifies it as public domain.",
+  "published": "1909"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tournai-saint-brice",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    },
+    {
+      "sourceId": "source:esmonde-cleary-childeric-burial",
+      "role": "supports",
+      "locator": "pp. 383–384, “The Franks and northern Gaul”: grave across the river from the fortifications, dress fastener, military symbolism, arms, ring and three horse pits."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tournai, Viertel Saint-Brice",
+    "en": "Tournai, Saint-Brice quarter"
+  },
+  "summary": {
+    "de": "Gräberfeld am rechten Ufer der Schelde gegenüber der spätantiken Befestigung. Die spätere Kirche Saint-Brice dient der Orientierung.",
+    "en": "Cemetery on the right bank of the Scheldt, opposite the late Roman fortifications. The later church of Saint-Brice provides a landmark."
+  }
+}

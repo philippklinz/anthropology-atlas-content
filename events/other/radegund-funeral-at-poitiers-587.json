@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:radegund-funeral-at-poitiers-587",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:chevalier-radegonde-caen",
+      "role": "supports",
+      "locator": "Notice pddn_hagio.202110061928562430200, Mort and Éléments d’identification: Radegund died at Poitiers in August 587."
+    },
+    {
+      "sourceId": "source:gregory-radegund-funeral-attestation-933",
+      "role": "supports",
+      "locator": "Attestation 933, Gregory, Glory of the Confessors 104: he went to Radegund’s community at Poitiers on hearing of her death."
+    },
+    {
+      "sourceId": "source:radegund-letter-to-all-bishops",
+      "role": "supports",
+      "locator": "Gregory IX.42; Epistolae 914, first paragraphs and final appeal: Chlothar’s resources, Agnes’s election, obedience of the founder, protection of property, and burial in the church dedicated to Mary even if unfinished."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Gregor kommt zu Radegundes Bestattung nach Poitiers",
+    "en": "Gregory travels to Poitiers for Radegund’s funeral"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 587,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 587,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:gregory-of-tours",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-radegund-funeral-attestation-933",
+          "role": "supports",
+          "locator": "Attestation 933, Gregory, Glory of the Confessors 104: he went to Radegund’s community at Poitiers on hearing of her death."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:poitiers-pictavis"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:poitiers-pictavis-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Radegunde starb im August 587. Gregor schildert seine Ankunft bei der Gemeinschaft nach Erhalt der Todesnachricht.",
+    "en": "Radegund died in August 587. Gregory describes coming to the community after hearing the news."
+  }
+}

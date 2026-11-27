@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:franks-at-pippins-elevation-in-the-annals",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:royal-frankish-annals-early-entries",
+      "role": "supports",
+      "locator": "Entries 749 and 750: petition to Zacharias, elevation at Soissons, Boniface and the tonsure of Childeric. Entries 753–754: papal visit, anointing of Pippin and both sons."
+    },
+    {
+      "sourceId": "source:costambeys-innes-maclean-carolingian-kingship",
+      "role": "supports",
+      "locator": "Opening, “Replacing the ruling dynasty”: Pippin’s two documentary titles, the limits on dating the change, contemporary Roman evidence and the retrospective accounts produced under Carolingian rule."
+    },
+    {
+      "sourceId": "source:obrien-origins-royal-anointing",
+      "role": "supports",
+      "locator": "“The Carolingians”, opening paragraphs and notes 35–37, 46: late testimony about 751, Boniface, and papal letters recalling the anointing of Pippin and his sons in 754."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Die Franken bei Pippins Erhebung im Bericht der Annalen",
+    "en": "The Franks at Pippin’s elevation in the annals"
+  },
+  "summary": {
+    "de": "Die Reichsannalen schreiben den Franken die Erhebung in Soissons zu. Die Teilnehmer lassen sich aus dem Bericht kaum einzeln bestimmen.",
+    "en": "The annals ascribe the elevation at Soissons to the Franks. The account provides little basis for identifying those attending as individuals."
+  }
+}

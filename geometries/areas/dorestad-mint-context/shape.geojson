@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "id": "geometry:dorestad-mint-context",
+  "properties": {},
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          5.317,
+          51.966
+        ],
+        [
+          5.373,
+          51.961
+        ],
+        [
+          5.387,
+          51.989
+        ],
+        [
+          5.359,
+          52.002
+        ],
+        [
+          5.32,
+          51.996
+        ],
+        [
+          5.317,
+          51.966
+        ]
+      ]
+    ]
+  }
+}

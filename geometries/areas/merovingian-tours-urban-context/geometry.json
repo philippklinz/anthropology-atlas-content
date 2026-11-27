@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:merovingian-tours-urban-context",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "Book II.37, final sentence, and II.38. Gifts to Saint Martin, the documents from Anastasius, royal dress and public distribution of gold and silver in Tours."
+    },
+    {
+      "sourceId": "source:mathisen-clovis-anastasius-508",
+      "role": "supports",
+      "locator": "pp. 79–83 and 105–109. Account of the 508 visit in Histories II.37–38, ceremonial clothing, largesse and competing readings of the emperor’s honours."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Fläche bezeichnet schematisch die Umgebung der Loirestadt Tours. Einzelne Gebäude, die Stadtmauer und der Verlauf von Wegen sind daraus nicht abzulesen.",
+    "en": "The outline marks the setting of Tours on the Loire. It does not locate individual buildings, the town wall or the course of roads."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic urban context",
+    "originNote": "Original editorial outline around a rounded city reference point. No map boundary traced."
+  }
+}

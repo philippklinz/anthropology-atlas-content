@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:brunhild-and-children-paris-575",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-paris-brunhild-v-1",
+      "role": "supports",
+      "locator": "V.1, opening and notes: Brunhild and her children in Paris, Childebert’s removal and Christmas accession in 575, subsequent separation of the family."
+    }
+  ],
+  "subjectId": "person:brunhild-of-austrasia",
+  "predicate": "located-at",
+  "objectId": "place:merovingian-paris",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 575,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 575,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Stadt ist bei Gregor genannt. Der Umriss gibt die Umgebung von Paris schematisch wieder und lässt den genauen Aufenthalt der Königin offen.",
+      "en": "Gregory names the city. Its schematic outline provides a locality and leaves the queen’s precise position open."
+    }
+  },
+  "note": {
+    "de": "Bei der Nachricht vom Tod ihres Mannes befand sich Brunichild laut Gregor mit ihren Kindern in Paris.",
+    "en": "Gregory places Brunhild with her children in Paris when she learnt that her husband was dead."
+  }
+}

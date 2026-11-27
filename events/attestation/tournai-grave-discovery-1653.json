@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:tournai-grave-discovery-1653",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Catalogue essay by Olivier Latteur (January 2025), “Contenu”, paragraphs on the 1653 construction site, Chifflet’s medical career, the Plantin-Moretus edition and the Habsburg–Bourbon argument."
+    },
+    {
+      "sourceId": "source:bnf-tournai-bee-56-449",
+      "role": "supports",
+      "locator": "Inv. 56.449, Description, Mesures and Mode d’acquisition: gold and garnet, loop for fastening, 1.6 cm, 1.95 g, reported numbers at discovery and presentation, two recovered after the theft."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Bei Bauarbeiten wird das Grab entdeckt",
+    "en": "Building work brings the grave to light"
+  },
+  "note": {
+    "de": "Ein Arbeiter trifft am 27. Mai nahe Saint-Brice auf Grabbeigaben. Nur ein Teil bleibt zusammen.",
+    "en": "A labourer encounters grave goods near Saint-Brice on 27 May. Only part of the assemblage stays together."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1653,
+        "month": 5,
+        "day": 27
+      },
+      "latest": {
+        "year": 1653,
+        "month": 5,
+        "day": 27
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "artifact:tournai-childeric-signet",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:bnf-tournai-signet-56-460",
+          "role": "supports",
+          "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:tournai-gold-insect-ornaments",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:bnf-tournai-bee-56-449",
+          "role": "supports",
+          "locator": "Inv. 56.449, Description, Mesures and Mode d’acquisition: gold and garnet, loop for fastening, 1.6 cm, 1.95 g, reported numbers at discovery and presentation, two recovered after the theft."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:tournai-saint-brice"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tournai-saint-brice-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:dagobert-i-grave",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.79, pp. 66–67, including n. 1. Illness at Épinay, Aega, Nanthild, Clovis and burial at Saint-Denis. Wallace-Hadrill follows Courtois in dating the death to 638."
+    },
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    },
+    {
+      "sourceId": "source:cmn-dagobert-tomb-narrative",
+      "role": "supports",
+      "locator": "Section H, “Le roi Dagobert”: tomb monument commissioned in the thirteenth century, the soul transported in a boat and rescued by Saints Denis, Maurice and Martin."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Schriftlich bezeugte Grabstätte Dagoberts I.",
+    "en": "Burial of Dagobert I recorded in writing"
+  },
+  "summary": {
+    "de": "Der Chronist und eine Urkunde seines Sohnes bezeugen die Bestattung in der Kirche. Das heute sichtbare königliche Grabmonument entstand erst im 13. Jahrhundert.",
+    "en": "The chronicle and his son’s charter attest the king’s burial in the church. The royal tomb monument visible today was made in the thirteenth century."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:esmonde-cleary-childeric-burial",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "The Roman West, AD 200–500: An Archaeological Study. Chapter 8, “Breakdown and barbarians”",
+  "creators": [
+    "Simon Esmonde Cleary"
+  ],
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C255258C7A4A9366BB181C0CCCD332E5/9781139043199c8_p338-394_CBO.pdf/breakdown-and-barbarians.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The section on northern Gaul discusses the grave, late Roman military dress and the difficulties of identifying people from objects.",
+  "published": "2013",
+  "containerTitle": "Cambridge University Press, pp. 338–394"
+}

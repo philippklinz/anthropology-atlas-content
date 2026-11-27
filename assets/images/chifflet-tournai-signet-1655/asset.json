@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:chifflet-tournai-signet-1655",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    },
+    {
+      "sourceId": "source:bnf-tournai-signet-56-460",
+      "role": "supports",
+      "locator": "Inv. 56.460, Description and Matières et techniques: inscription, costume, loss on 5 November 1831, wax impression in Ms. 609 fol. 63v, its rediscovery in 1857 and production of the gilt electrotype."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "derivation",
+      "locator": "Namur copy R6A.0608. “Droits”, “Détenteur des droits” and “Droits d’accès”: public-domain, open-access digitisation by the Bibliothèque universitaire Moretus Plantin."
+    }
+  ],
+  "assetType": "image",
+  "file": "plate.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Childerichs Siegelring in einer Tafel von 1655",
+    "en": "Childeric’s signet in a plate of 1655"
+  },
+  "alt": {
+    "de": "Kupferstich auf einer Buchseite. In der mittleren Reihe stehen der goldene Siegelring und die vergrößerte Porträtfläche mit der Umschrift CHILDERICI REGIS nebeneinander.",
+    "en": "Engraving on a printed leaf. The middle row places the gold signet beside an enlarged portrait face with the legend CHILDERICI REGIS."
+  },
+  "entityIds": [
+    "artifact:tournai-childeric-signet",
+    "artifact:anastasis-childerici-1655"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Jean-Jacques Chifflet (author)",
+      "Officina Plantiniana Balthasaris Moreti (publisher)",
+      "Université de Namur, Bibliothèque universitaire Moretus Plantin (digitisation)"
+    ],
+    "attribution": "Jean-Jacques Chifflet, Anastasis Childerici I, Antwerp, 1655, p. 96 · UNamur, Bibliothèque universitaire Moretus Plantin, R6A.0608 · public domain",
+    "sourceUrl": "https://neptun.unamur.be/ark:/83449/007c2615e0",
+    "originNote": "Full leaf exported to JPEG at 160 dpi from digital page 119 of the library PDF. The library marks the digitisation PublicDomain and OpenAccess."
+  }
+}

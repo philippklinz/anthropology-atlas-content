@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:scholz-free-women-frankish-realm",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Handlungsfähigkeit und rechtliche Stellung der freien Frau im fränkischen Reich (6.–8. Jahrhundert)",
+  "sourceType": "article",
+  "creators": [
+    "Sebastian Scholz"
+  ],
+  "url": "https://doi.org/10.11588/fr.2023.1.107951",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Francia 50",
+  "published": "2023"
+}

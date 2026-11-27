@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:capitularia-pactum-andelot-bk-6",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pactum Guntchramni et Childeberti II [BK 6]",
+  "sourceType": "archive",
+  "creators": [
+    "Karl Ubl and collaborators"
+  ],
+  "url": "https://capitularia.uni-koeln.de/en/capit/pre814/bk-nr-006/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Editions, dating and transmission of the Pact of Andelot.",
+  "containerTitle": "Capitularia, Universität zu Köln"
+}

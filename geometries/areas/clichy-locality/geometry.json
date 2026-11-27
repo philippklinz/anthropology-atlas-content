@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:clichy-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:connected-communities-clippiacum",
+      "role": "supports",
+      "locator": "Attestation 1135, place and original wording Clippiaco. The modern identification is Saint-Ouen-sur-Seine; the translation renders the place Clichy. Used for geographical orientation only."
+    },
+    {
+      "sourceId": "source:artem-dagobert-iticina",
+      "role": "supports",
+      "locator": "ARTEM 4504, Archives nationales K 1 no. 5, transmission, place, regest and ll. 1–3. Address to the duke, the domesticus Gaganricus and the agents, the estate and its former owners. The dated header gives 15 March 633."
+    },
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    },
+    {
+      "sourceId": "source:french-administrative-commune-centres",
+      "role": "supports",
+      "locator": "Communes endpoint, centre: Paris (75056), 2.347° E, 48.8589° N, and Clichy (92024), 2.3041° E, 48.9041° N. Rounded editorial orientation for the locality only."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Ausschnitt umfasst das Gebiet bei Clichy und Vieux Saint-Ouen an der Seine. Er lässt die Lage einzelner Räume des frühmittelalterlichen Hofes offen.",
+    "en": "This area covers Clichy and Vieux Saint-Ouen along the Seine. The location of individual buildings of the early medieval court remains open."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Rounded editorial orientation for a locality. No modern or ancient parcel or boundary has been traced."
+  }
+}

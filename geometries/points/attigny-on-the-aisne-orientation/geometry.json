@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:attigny-on-the-aisne-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heidrich-attigny-judgment",
+      "role": "supports",
+      "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+    },
+    {
+      "sourceId": "source:telma-pippin-attigny-751",
+      "role": "supports",
+      "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q244711, coordinate location (P625), rounded to two decimal places."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Bezugspunkt der heutigen Ortschaft.",
+    "en": "Rounded reference point for the modern settlement."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata, Q244711 (P625), CC0; rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q244711",
+    "originNote": "Rounded open coordinate data."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gregory-radegund-funeral-attestation-933",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Poitiers – Sainte-Croix, attestation 933",
+  "sourceType": "dataset",
+  "creators": [
+    "Connected Communities in Early Medieval Europe"
+  ],
+  "url": "https://earlymedievaleurope.org/attestation.php?attestationid=933",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Gregory’s first-person report of receiving news of Radegund’s death and going to Poitiers, with a place identification.",
+  "containerTitle": "Connected Communities in Early Medieval Europe"
+}

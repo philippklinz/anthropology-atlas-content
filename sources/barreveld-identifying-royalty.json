@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:barreveld-identifying-royalty",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Can we name a corpse? Identifying royalty in the burial record",
+  "creators": [
+    "Jip Barreveld"
+  ],
+  "url": "https://www.leidenmedievalistsblog.nl/articles/can-we-name-a-corpse-identifying-royalty-in-the-burial-record",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Archaeological discussion of the identification of the Tournai burial and of the evidence for a royal residence.",
+  "published": "2022",
+  "containerTitle": "Leiden Medievalists Blog"
+}

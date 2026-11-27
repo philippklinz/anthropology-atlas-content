@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cluny-merovingian-charters-2016",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "catalog",
+  "title": "Les temps mérovingiens. Trois siècles d’art et de culture (451–751)",
+  "creators": [
+    "Musée de Cluny – musée national du Moyen Âge",
+    "Réunion des musées nationaux – Grand Palais"
+  ],
+  "url": "https://actions-recherche.bnf.fr/bnf/anirw3.nsf/e7cfeb857fb88bebc1257b52004c05f9/45d84de4d7354952c125805900330a22/%24FILE/dp-les-temps-merovingiens-261016.pdf",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Exhibition press dossier and list of loans. The two papyri are distinguished by their Archives nationales shelfmarks.",
+  "published": "2016"
+}

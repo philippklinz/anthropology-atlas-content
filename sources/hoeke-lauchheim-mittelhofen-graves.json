@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hoeke-lauchheim-mittelhofen-graves",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Lauchheim IV. Die Gräber aus der Siedlung Lauchheim ‚Mittelhofen‘",
+  "sourceType": "catalog",
+  "creators": [
+    "Benjamin Höke",
+    "Anna Straeter (contributor)"
+  ],
+  "url": "https://medialibrary.reichert-verlag.de/de/9783752002904_lauchheim_iv/",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Publisher’s catalogue description of the 86 graves recorded in six farmstead plots.",
+  "published": "2023",
+  "containerTitle": "Forschungen und Berichte zur Archäologie in Baden-Württemberg 26",
+  "identifiers": {
+    "doi": "10.29091/9783752002904"
+  }
+}

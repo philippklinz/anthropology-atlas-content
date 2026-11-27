@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:jean-jacques-chifflet",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Catalogue essay by Olivier Latteur (January 2025), “Contenu”, paragraphs on the 1653 construction site, Chifflet’s medical career, the Plantin-Moretus edition and the Habsburg–Bourbon argument."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Jean-Jacques Chifflet",
+    "en": "Jean-Jacques Chifflet"
+  },
+  "summary": {
+    "de": "Arzt und Altertumsforscher am Hof in Brüssel. Er befragte die Funde aus Tournai nach den Herrschaftszeichen der Merowinger.",
+    "en": "Physician and antiquarian at the court in Brussels who examined the Tournai finds for the emblems of Merovingian kingship."
+  }
+}

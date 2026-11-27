@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:chlodomer",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "III.6 and III.18. The pursuit at Visorontia, Godomar’s recovery of his kingdom, Clotild’s care for the boys and the fate of Chlodomer’s sons. The call imitating the king’s men is Gregory’s account of his death."
+    },
+    {
+      "sourceId": "source:connected-communities-vezeronce-282",
+      "role": "supports",
+      "locator": "Attestation 282. Gregory III.6, town identification, year 524 and named participants."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chlodomer",
+    "en": "Chlodomer"
+  },
+  "summary": {
+    "de": "Sohn Chlodwigs, der 524 bei Vézeronce fiel. Seine drei jungen Söhne kamen in die Obhut ihrer Großmutter.",
+    "en": "Clovis’s son who fell at Vézeronce in 524. His three young sons entered their grandmother’s care."
+  }
+}

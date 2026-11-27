@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:fischer-lind-childeric-coins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "The Coins in the Grave of King Childeric",
+  "creators": [
+    "Svante Fischer",
+    "Lennart Lind"
+  ],
+  "url": "https://www.diva-portal.org/smash/get/diva2%3A793693/FULLTEXT01.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The authors distinguish recorded finds from illustrated coins and present their interpretation of their selection.",
+  "published": "2015",
+  "containerTitle": "Journal of Archaeology and Ancient History 14"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:koelzer-merovingian-charters-2001",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "book",
+  "title": "Die Urkunden der Merowinger. Erster Teil",
+  "creators": [
+    "Theo Kölzer (editor)"
+  ],
+  "url": "https://www.dmgh.de/mgh_dd_merov_1/index.htm",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Critical edition of the Latin diplomas with German introductions, regests and proposed reconstructions of damaged passages and dating clauses.",
+  "published": "2001",
+  "containerTitle": "Monumenta Germaniae Historica. Diplomata regum Francorum e stirpe Merovingica"
+}

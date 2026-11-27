@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:clovis-sons-share-the-kingdom-511",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+    },
+    {
+      "sourceId": "source:widdowson-merovingian-partitions",
+      "role": "supports",
+      "locator": "Abstract. Questions the degree to which Gregory’s pairing of 511 and 561 reflects formal settlements. His narrative served the political arguments of a later generation."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Chlodwigs vier Söhne übernehmen seine Herrschaft",
+    "en": "Clovis’s four sons share the kingship"
+  },
+  "note": {
+    "de": "Gregor zählt die vier Brüder auf und nennt ihre Anteile gleich. Er überliefert für diese Nachfolge keinen Verhandlungsort.",
+    "en": "Gregory lists the four brothers and calls their shares equal. He names no venue for negotiations over this succession."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 511,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 511,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:theuderic-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+        }
+      ]
+    },
+    {
+      "entityId": "person:chlodomer",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+        }
+      ]
+    },
+    {
+      "entityId": "person:childebert-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+        }
+      ]
+    },
+    {
+      "entityId": "person:chlothar-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+        }
+      ]
+    }
+  ],
+  "placeIds": [],
+  "epistemic": {
+    "status": "attested"
+  }
+}

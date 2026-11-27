@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:cyprian-of-bordeaux-at-agde-506",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-vouille-orleans-conciliar-tradition",
+      "role": "supports",
+      "locator": "pp. 161–163, especially p. 163 and n. 60. Cyprian of Bordeaux and five further bishops attended both Agde in 506 and Orléans in 511; canon 5 and prisoners."
+    }
+  ],
+  "subjectId": "person:cyprian-of-bordeaux",
+  "predicate": "located-at",
+  "objectId": "place:agatha-agde",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 506,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 506,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:agatha-agde-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Punkt dient der städtischen Orientierung.",
+      "en": "The point locates the town."
+    }
+  },
+  "note": {
+    "de": "Cyprian von Bordeaux nahm in Agde teil. Fünf Jahre später ist derselbe Bischof in Orléans bezeugt.",
+    "en": "Cyprian of Bordeaux attended at Agde. Five years later the same bishop is attested at Orléans."
+  }
+}

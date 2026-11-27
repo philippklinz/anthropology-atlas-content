@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:clovis-ii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:atsma-vezin-saint-denis-654",
+      "role": "supports",
+      "locator": "pp. 353–355, particularly p. 354. Royal confirmation of Landry’s privilege, sung praise on the model of Agaune, signatories and the king’s parents."
+    },
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chlodwig II.",
+    "en": "Clovis II"
+  },
+  "summary": {
+    "de": "Der Sohn Dagoberts I. und Nanthilds bestätigte 654 ein Privileg für Saint-Denis. Seine beiden Eltern lagen nach seinem Zeugnis dort begraben.",
+    "en": "Dagobert I and Nanthild’s son confirmed a privilege for Saint-Denis in 654 and identified the basilica as the burial place of both his parents."
+  }
+}

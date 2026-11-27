@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:chalon-embassy-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, before and after the pact: the delegation goes from Metz to Guntram at Chalon, the treaty is reread and Fredegund’s embassies are discussed."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q203645, P625, rounded city reference."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Erzählung nennt Chalon. Das königliche Quartier lässt sich aus dieser Passage nicht verorten.",
+    "en": "The narrative names Chalon. The location of the royal quarters cannot be established from this passage."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial outline for orientation at atlas scale. No boundary was traced."
+  }
+}

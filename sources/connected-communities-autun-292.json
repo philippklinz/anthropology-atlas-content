@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:connected-communities-autun-292",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "dataset",
+  "title": "Autun, attestation 292",
+  "creators": [
+    "Connected Communities in Early Medieval Europe"
+  ],
+  "url": "https://earlymedievaleurope.org/attestation.php?attestationid=292",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Gregory III.11, Latin and translation, siege of Autun and flight of Godomar. The record indexes the event under 534."
+}

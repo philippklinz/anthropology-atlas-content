@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:lauchheim-wasserfurche-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Wikidata Q50639077, coordinate location (P625), 48°52′17.040″N 10°13′54.120″E, used as the reference point for the cemetery. The two site plans locate Mittelhofen relative to it."
+    },
+    {
+      "sourceId": "source:lauchheim-site-location-boards",
+      "role": "derivation",
+      "locator": "Two boards, maps labelled “Lage des alamannischen Gräberfelds im heutigen Stadtplan” and “Lage der alamannischen Siedlung im heutigen Stadtplan”. Orientation of the cemetery uphill and the farm area nearer the river; no excavation perimeter was digitised."
+    },
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 220–223, figs. 1–2 and n. 4. Two neighbouring sites and more than 1,300 graves used from the final third of the fifth century to the end of the seventh."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Markierung dient der Orientierung am Hang westlich von Lauchheim. Für die genaue Grabanordnung siehe den publizierten Grabungsplan.",
+    "en": "The marker locates the hillside west of Lauchheim. The published excavation plan shows the layouts of the individual graves."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q50639077 (P625), CC0.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q50639077",
+    "originNote": "Wikidata structured coordinate expressed as decimal degrees. The point is a reference for the cemetery as a whole."
+  }
+}

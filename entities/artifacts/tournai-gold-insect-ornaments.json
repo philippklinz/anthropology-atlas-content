@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:tournai-gold-insect-ornaments",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-tournai-bee-56-449",
+      "role": "supports",
+      "locator": "Inv. 56.449, Description, Mesures and Mode d’acquisition: gold and garnet, loop for fastening, 1.6 cm, 1.95 g, reported numbers at discovery and presentation, two recovered after the theft."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Die goldenen Insekten von Tournai",
+    "en": "The gold insects of Tournai"
+  },
+  "summary": {
+    "de": "Ösen an der Rückseite erlaubten die Befestigung auf Leder oder dickem Stoff. Ein erhaltenes Exemplar hat Flügel mit Granateinlagen.",
+    "en": "Loops on the back allowed attachment to leather or heavy cloth. One surviving example has wings inlaid with garnets."
+  }
+}

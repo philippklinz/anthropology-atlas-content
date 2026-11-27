@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:stork-lauchheim-farm-burials",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Wer bestattet beim Hof? Soziale Aspekte von Siedlungsbestattungen in Lauchheim »Mittelhofen«",
+  "sourceType": "article",
+  "creators": [
+    "Ingo Stork"
+  ],
+  "url": "https://books.ub.uni-heidelberg.de/propylaeum/catalog/view/1073/1842/102625",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Excavation report, site plans, grave group and dendrochronological evidence with a 2003 addendum.",
+  "published": "2004",
+  "containerTitle": "Der Südwesten im 8. Jahrhundert aus historischer und archäologischer Sicht, pp. 219–232",
+  "identifiers": {
+    "doi": "10.11588/propylaeum.1073.c16295"
+  }
+}

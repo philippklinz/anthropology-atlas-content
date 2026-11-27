@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bnf-richelieu-cabinet-history",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "website",
+  "title": "Le Salon Louis XV",
+  "creators": [
+    "Bibliothèque nationale de France"
+  ],
+  "url": "https://www.bnf.fr/fr/le-salon-louis-xv",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Building and collection history. The cabinet occupied its former position above the rue Colbert until 1865."
+}

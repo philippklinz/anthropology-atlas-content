@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:pippin-hears-fulrad-at-attigny-751",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heidrich-attigny-judgment",
+      "role": "supports",
+      "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+    },
+    {
+      "sourceId": "source:telma-pippin-attigny-751",
+      "role": "supports",
+      "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and proleptic Gregorian leap-year rules: in June 751 and March 752 the Gregorian date is four days later."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Pippin hört Fulrad als Hausmeier an",
+    "en": "Pippin hears Fulrad as mayor of the palace"
+  },
+  "note": {
+    "de": "Abt Fulrad beanspruchte Corbery für Saint-Denis. Pippin entschied den Streit am 20. Juni 751 als Hausmeier. Das erhaltene Pergament nennt Childerichs neuntes Königsjahr.",
+    "en": "Abbot Fulrad claimed Corbery for Saint-Denis. Pippin gave judgment as mayor of the palace on 20 June 751. The surviving parchment dates the decision to Childeric’s ninth year."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 751,
+        "month": 6,
+        "day": 24
+      },
+      "latest": {
+        "year": 751,
+        "month": 6,
+        "day": 24
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "20.06.751",
+        "calendar": "julian",
+        "conversionNote": "The corresponding proleptic Gregorian date is four days later."
+      }
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:pippin-iii",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:heidrich-attigny-judgment",
+          "role": "supports",
+          "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+        },
+        {
+          "sourceId": "source:telma-pippin-attigny-751",
+          "role": "supports",
+          "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+        }
+      ]
+    },
+    {
+      "entityId": "person:fulrad-of-saint-denis",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:heidrich-attigny-judgment",
+          "role": "supports",
+          "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+        },
+        {
+          "sourceId": "source:telma-pippin-attigny-751",
+          "role": "supports",
+          "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:attigny-judgment-751",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:heidrich-attigny-judgment",
+          "role": "supports",
+          "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+        },
+        {
+          "sourceId": "source:telma-pippin-attigny-751",
+          "role": "supports",
+          "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "placeIds": [
+    "place:attigny-on-the-aisne"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:attigny-on-the-aisne-orientation",
+      "role": "location"
+    }
+  ]
+}

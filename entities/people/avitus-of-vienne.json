@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:avitus-of-vienne",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:avitus-of-vienne-letter-46",
+      "role": "supports",
+      "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+    },
+    {
+      "sourceId": "source:shanzer-dating-baptism-of-clovis",
+      "role": "supports",
+      "locator": "pp. 29–31, 47–49 and 55–56. The traditional 496 chronology, the proposed identification of Avitus’s captives and the argument for Christmas 508."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Avitus von Vienne",
+    "en": "Avitus of Vienne"
+  },
+  "summary": {
+    "de": "Der Bischof von Vienne schrieb Chlodwig nach dessen Taufe. An der Feier hatte er selbst nicht teilgenommen.",
+    "en": "Bishop of Vienne who congratulated Clovis after his baptism. He had not attended the ceremony himself."
+  }
+}

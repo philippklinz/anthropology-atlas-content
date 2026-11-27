@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:radegund-letter-to-all-bishops",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A letter from Radegund of Thuringia (561–67?)",
+  "sourceType": "archive",
+  "creators": [
+    "Radegund of Poitiers"
+  ],
+  "url": "https://epistolae.ctl.columbia.edu/letter/914.html",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin text and English translation of the letter quoted by Gregory in Histories IX.42; the editors mark its dating as uncertain.",
+  "containerTitle": "Epistolae: Medieval Women’s Latin Letters, Columbia University"
+}

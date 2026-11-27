@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:lauchheim-wasserfurche-burials",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:stork-lauchheim-farm-burials",
+      "role": "supports",
+      "locator": "pp. 220–223, figs. 1–2 and n. 4. Two neighbouring sites and more than 1,300 graves used from the final third of the fifth century to the end of the seventh."
+    },
+    {
+      "sourceId": "source:lad-lauchheim-wasserfurche",
+      "role": "supports",
+      "locator": "Project description, cemetery plan and photograph caption for grave 90. A disc brooch and beads from a necklace at chest level, first half of the seventh century."
+    }
+  ],
+  "subjectId": "community:lauchheim-wasserfurche-burial-community",
+  "predicate": "attested-at",
+  "objectId": "place:lauchheim-wasserfurche",
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 467,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 500,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "end": {
+      "earliest": {
+        "year": 667,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 700,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    },
+    "endMeaning": "last-attested"
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Markierung dient der Orientierung am Hang westlich von Lauchheim. Für die genaue Grabanordnung siehe den publizierten Grabungsplan.",
+      "en": "The marker locates the hillside west of Lauchheim. The published excavation plan shows the layouts of the individual graves."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:lauchheim-cemetery-vicinity",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Die Belegung reicht vom letzten Drittel des fünften bis zum Ende des siebten Jahrhunderts. Die ältesten wie die jüngsten Gräber sind archäologisch eingeordnet.",
+    "en": "Burials run from the final third of the fifth to the end of the seventh century. The earliest and latest graves have been dated archaeologically."
+  }
+}

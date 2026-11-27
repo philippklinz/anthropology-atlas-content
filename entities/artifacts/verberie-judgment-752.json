@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:verberie-judgment-752",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:muehlbacher-pippin-verberie-752",
+      "role": "supports",
+      "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+    },
+    {
+      "sourceId": "source:costambeys-innes-maclean-carolingian-kingship",
+      "role": "supports",
+      "locator": "Opening, “Replacing the ruling dynasty”: Pippin’s two documentary titles, the limits on dating the change, contemporary Roman evidence and the retrospective accounts produced under Carolingian rule."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Das Urteil über Lobas Schenkung",
+    "en": "The judgment on Loba’s gift"
+  },
+  "summary": {
+    "de": "Die Urkunde für Saint-Denis nennt Pippins Königstitel und datiert nach dem ersten Regierungsjahr.",
+    "en": "This document for Saint-Denis gives Pippin’s royal title and dates by his first regnal year."
+  }
+}

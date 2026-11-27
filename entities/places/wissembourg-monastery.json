@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:wissembourg-monastery",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:grimhild-wissembourg-cartulary",
+      "role": "supports",
+      "locator": "Place of issue, two possessions, cartulary transmission and the closing formula dating by Carloman and Pippin. Different editions assign different days early in 743."
+    },
+    {
+      "sourceId": "source:scholz-free-women-frankish-realm",
+      "role": "supports",
+      "locator": "p. 123, section 3 and notes 80–82: Grimhild’s property, intention, request for the charter and first place in the witnesses. The study follows the January dating."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q22636, coordinate location (P625), rounded to two decimal places."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Weißenburg im Elsass",
+    "en": "Wissembourg in Alsace"
+  },
+  "summary": {
+    "de": "Das Kloster bewahrte eine Abschrift der Schenkung Grimhilds.",
+    "en": "The monastery preserved a copy of Grimhild’s donation."
+  }
+}

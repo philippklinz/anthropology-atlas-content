@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:galswinth",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+      "role": "supports",
+      "locator": "A Note on Genealogy and IV.27–28, 51: Chlothar’s sons, the marriages of Sigibert and Chilperic, and the death of Sigibert."
+    },
+    {
+      "sourceId": "source:baroin-marriage-and-property-2013",
+      "role": "supports",
+      "locator": "pp. 103–104: Galswinth, marriage property, the immediate grant of Cahors to Brunhild and the four other cities retained by Guntram for his lifetime."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Galswinth",
+    "en": "Galswinth"
+  },
+  "summary": {
+    "de": "Die Schwester Brunichilds erhielt anlässlich ihrer Heirat mit Chilperich Rechte an fünf Städten. Die Verteilung beschäftigte die Familie noch lange nach ihrem Tod.",
+    "en": "Brunhild’s sister received rights in five cities at her marriage to Chilperic. The family still had to settle their disposition long after she died."
+  }
+}

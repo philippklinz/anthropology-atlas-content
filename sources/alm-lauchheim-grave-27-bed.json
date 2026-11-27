@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:alm-lauchheim-grave-27-bed",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Stollenbett, Inventarnummer 1989-0011-0769-9000",
+  "sourceType": "catalog",
+  "creators": [
+    "Archäologisches Landesmuseum Baden-Württemberg"
+  ],
+  "url": "https://www.alm-konstanz.de/digitale-sammlung/objekt/stollenbett-1989-0011-0769-9000",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Digital object catalogue of the holding museum. Object data, interpretation, photograph and image-specific rights.",
+  "identifiers": {
+    "inventory": "1989-0011-0769-9000"
+  }
+}

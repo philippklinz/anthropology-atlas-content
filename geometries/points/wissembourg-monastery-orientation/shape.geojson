@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:wissembourg-monastery-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.95,
+      49.04
+    ]
+  }
+}

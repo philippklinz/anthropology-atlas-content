@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:cahors-clause-of-andelot-587",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:baroin-marriage-and-property-2013",
+      "role": "supports",
+      "locator": "pp. 103–104: Galswinth, marriage property, the immediate grant of Cahors to Brunhild and the four other cities retained by Guntram for his lifetime."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    }
+  ],
+  "subjectId": "community:inhabitants-of-cahors-in-the-pact",
+  "predicate": "attested-at",
+  "objectId": "place:cahors-cadurcis",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 587,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 587,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:cahors-treaty-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Fläche hebt die im Vertrag genannte Stadt hervor. Die Grenzen ihres Territoriums und der Aufenthalt der Königin lassen sich aus dieser Klausel nicht kartieren.",
+      "en": "The area highlights the city named in the treaty. This clause cannot locate its territorial boundaries or the queen’s whereabouts."
+    }
+  },
+  "note": {
+    "de": "Die in Andelot vereinbarte Besitzklausel nennt ausdrücklich die Stadt Cahors mit Land und Bewohnern. Das belegt Brunichilds Anspruch an diesem Ort.",
+    "en": "The clause agreed at Andelot specifically names the city of Cahors together with its lands and inhabitants as the subject of Brunhild’s present claim."
+  }
+}

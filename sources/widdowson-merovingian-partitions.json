@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:widdowson-merovingian-partitions",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Merovingian partitions: a ‘genealogical charter’?",
+  "creators": [
+    "Marc Widdowson"
+  ],
+  "url": "https://doi.org/10.1111/j.1468-0254.2009.00242.x",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The abstract explains the author’s reading of Gregory’s account of the divisions in light of his concerns later in the century.",
+  "published": "2009",
+  "containerTitle": "Early Medieval Europe 17.1, pp. 1–22"
+}

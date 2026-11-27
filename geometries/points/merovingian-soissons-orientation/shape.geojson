@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:merovingian-soissons-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.32,
+      49.38
+    ]
+  }
+}

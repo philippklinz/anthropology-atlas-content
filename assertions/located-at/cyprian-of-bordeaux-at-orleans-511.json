@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:cyprian-of-bordeaux-at-orleans-511",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-vouille-orleans-conciliar-tradition",
+      "role": "supports",
+      "locator": "pp. 161–163, especially p. 163 and n. 60. Cyprian of Bordeaux and five further bishops attended both Agde in 506 and Orléans in 511; canon 5 and prisoners."
+    },
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:usno-calendars",
+      "role": "derivation",
+      "locator": "Julian and Gregorian calendar rules. 10 July 511 Julian corresponds to 12 July in the proleptic Gregorian calendar used for computation."
+    }
+  ],
+  "subjectId": "person:cyprian-of-bordeaux",
+  "predicate": "located-at",
+  "objectId": "place:merovingian-orleans",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 511,
+        "month": 7,
+        "day": 12
+      },
+      "latest": {
+        "year": 511,
+        "month": 7,
+        "day": 12
+      },
+      "precision": "day",
+      "qualifier": "exact",
+      "original": {
+        "text": "10 July 511",
+        "calendar": "julian",
+        "conversionNote": "Two days later in the proleptic Gregorian computation calendar."
+      }
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-orleans-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Punkt dient der städtischen Orientierung.",
+      "en": "The point locates the town."
+    }
+  },
+  "note": {
+    "de": "Cyprian nahm am Konzil von Orléans teil. Er gehörte bereits in Agde zu den unterzeichnenden Bischöfen.",
+    "en": "Cyprian attended at Orléans, having already been among the signatories at Agde."
+  }
+}

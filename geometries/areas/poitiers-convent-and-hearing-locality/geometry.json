@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:poitiers-convent-and-hearing-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:radegund-letter-to-all-bishops",
+      "role": "supports",
+      "locator": "Gregory IX.42; Epistolae 914, first paragraphs and final appeal: Chlothar’s resources, Agnes’s election, obedience of the founder, protection of property, and burial in the church dedicated to Mary even if unfinished."
+    },
+    {
+      "sourceId": "source:szafranowski-poitiers-cross-er1931",
+      "role": "supports",
+      "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+    },
+    {
+      "sourceId": "source:gregory-radegund-funeral-attestation-933",
+      "role": "supports",
+      "locator": "Attestation 933, Gregory, Glory of the Confessors 104: he went to Radegund’s community at Poitiers on hearing of her death."
+    },
+    {
+      "sourceId": "source:gregory-poitiers-episcopal-verdict-x-16",
+      "role": "supports",
+      "locator": "X.16, pp. 123–126: complaints, Leubovera’s answers, Didimia confirming her gift to the abbess and the judges’ reasons for retaining her."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q6616, P625, the orientation coordinates already used in the chapter on Visigothic Poitiers."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Polygon",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Die Berichte nennen Poitiers und mehrere kirchliche Orte. Der Umriss bezeichnet das nähere Stadtgebiet. Lage und Größe der Klosteranlage sowie der Prozessionsweg sind daraus nicht abzulesen.",
+    "en": "The accounts name Poitiers and several church sites. The outline indicates the city locality. It does not reconstruct the convent plan, its extent or the processional route."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Original editorial outline for orientation at atlas scale. No boundary was traced."
+  }
+}

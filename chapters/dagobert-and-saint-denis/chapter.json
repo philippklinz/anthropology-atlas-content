@@ -1,0 +1,395 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:dagobert-and-saint-denis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-chlothar-paris-625",
+      "role": "supports",
+      "locator": "ARTEM 4505, Archives nationales K 1 no. 7/1, regest and ll. 3–7. Abbot Dodo, the donor Dagobert, whose father was Baddo, and a plot described as within the walls of Paris."
+    },
+    {
+      "sourceId": "source:artem-dagobert-iticina",
+      "role": "supports",
+      "locator": "ARTEM 4504, Archives nationales K 1 no. 5, transmission, place, regest and ll. 1–3. Address to the duke, the domesticus Gaganricus and the agents, the estate and its former owners. The dated header gives 15 March 633."
+    },
+    {
+      "sourceId": "source:artem-dagobert-ursinus",
+      "role": "supports",
+      "locator": "ARTEM 4507, Archives nationales AE II 3 (K 1 no. 9), regest and ll. 1–4. Petition, brothers, inherited property and Rouergue. Place of issue unidentified. This edition gives 637."
+    },
+    {
+      "sourceId": "source:artem-clovis-parents-saint-denis",
+      "role": "supports",
+      "locator": "ARTEM 4511, Archives nationales AE II 6 (K 2 no. 3). Header, regest and ll. 3–4, naming the king’s parents Dagobert and Nanthild as buried in the basilica. Clichy, 22 June 654."
+    },
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.79, pp. 66–67, including n. 1. Illness at Épinay, Aega, Nanthild, Clovis and burial at Saint-Denis. Wallace-Hadrill follows Courtois in dating the death to 638."
+    },
+    {
+      "sourceId": "source:koelzer-merovingian-charters-2001",
+      "role": "supports",
+      "locator": "DD Mer. 28, pp. 75–77 (Paris plot); 32, pp. 87–89, especially ll. 3–7 (Ursinus, Beppoleno, maternal estate and mancipia; original ratification dated 629–637); 41, pp. 108–110 (Iticina, probably October 632, possibly into 633); 85, pp. 216–218 (royal privilege)."
+    },
+    {
+      "sourceId": "source:cluny-merovingian-charters-2016",
+      "role": "supports",
+      "locator": "List of works, section II “Le pouvoir et ses témoignages”, nos. 15–16, catalogue pp. 25–26. Dimensions and date of Clovis II’s charter and the 629–639 range for Dagobert’s AE II 3."
+    },
+    {
+      "sourceId": "source:atsma-vezin-saint-denis-654",
+      "role": "supports",
+      "locator": "pp. 353–355, particularly p. 354. Royal confirmation of Landry’s privilege, sung praise on the model of Agaune, signatories and the king’s parents."
+    },
+    {
+      "sourceId": "source:saint-denis-excavated-necropolises",
+      "role": "supports",
+      "locator": "Sections “La basilique et ses deux nécropoles” and “Naissance du monastère”. Building extensions, 1959 discovery of the grave attributed to Arnegunde, more than 200 excavated northern burials, plaster sarcophagi and Dagobert’s patronage."
+    },
+    {
+      "sourceId": "source:geschichtsquellen-gesta-dagoberti",
+      "role": "supports",
+      "locator": "Werk 2481 (BHL 2193), Beschreibung. Death of Dagobert in 639, composition by a monk of Saint-Denis between 830 and 835, and focus on his care for monasteries."
+    },
+    {
+      "sourceId": "source:cmn-dagobert-tomb-narrative",
+      "role": "supports",
+      "locator": "Section H, “Le roi Dagobert”: tomb monument commissioned in the thirteenth century, the soul transported in a boat and rescued by Saints Denis, Maurice and Martin."
+    },
+    {
+      "sourceId": "source:cmn-history-saint-denis-basilica",
+      "role": "supports",
+      "locator": "Introduction to the royal burials and section on the Merovingian basilica. Dagobert’s burial, present-day site and the date 639 used by the institution."
+    },
+    {
+      "sourceId": "source:archives-nationales-dagobert-papyrus-facsimile",
+      "role": "supports",
+      "locator": "Description, collection, accession number AE/II/3 (K//1/9), source, permission and image history. The Archives nationales supplied the photograph; the current 1024 × 496 image is oriented for reading."
+    }
+  ],
+  "labels": {
+    "de": "Dagobert und die Toten von Saint-Denis",
+    "en": "Dagobert and the Dead of Saint-Denis"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "asset:dagobert-inheritance-papyrus",
+    "event:chlothar-confirms-paris-plot-625",
+    "event:dagobert-charter-at-clichy",
+    "artifact:dagobert-ursinus-beppoleno-charter",
+    "event:dagobert-burial-saint-denis-639",
+    "person:nanthild",
+    "event:clovis-ii-confirms-saint-denis-654"
+  ],
+  "initialState": {
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 625,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 625,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 654,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 654,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "camera": {
+      "longitude": 2.34,
+      "latitude": 48.9,
+      "metersPerPixel": 200,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "layers": [
+      "events",
+      "located-at",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "paris-625",
+      "textAnchor": "paris-625",
+      "assetId": "asset:dagobert-inheritance-papyrus",
+      "labels": {
+        "de": "625 · Ein Grundstück in Paris",
+        "en": "625 · A plot inside Paris"
+      },
+      "summary": {
+        "de": "Die Lage des Schenkungsguts steht in der Bestätigung Chlothars II.",
+        "en": "The location of the donated plot is given in Chlothar II’s confirmation."
+      },
+      "state": {
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 625,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 625,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "camera": {
+          "longitude": 2.35,
+          "latitude": 48.86,
+          "metersPerPixel": 105,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "clichy-632",
+      "textAnchor": "clichy-632",
+      "assetId": "asset:dagobert-inheritance-papyrus",
+      "labels": {
+        "de": "632/633 · Das Landgut Iticina",
+        "en": "632/633 · The estate of Iticina"
+      },
+      "summary": {
+        "de": "Clichy bezeichnet, wo der König die Urkunde ausstellen ließ.",
+        "en": "Clichy identifies the place where the king issued the charter."
+      },
+      "state": {
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 632,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 632,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "camera": {
+          "longitude": 2.325,
+          "latitude": 48.913,
+          "metersPerPixel": 110,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "saint-denis-639",
+      "textAnchor": "saint-denis-639",
+      "assetId": "asset:dagobert-inheritance-papyrus",
+      "labels": {
+        "de": "638/639 · Das Grab Dagoberts",
+        "en": "638/639 · Dagobert’s grave"
+      },
+      "summary": {
+        "de": "Die Chronik verortet die Beisetzung in der Basilika von Saint-Denis.",
+        "en": "The chronicle locates the burial in the basilica of Saint-Denis."
+      },
+      "state": {
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 639,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 639,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "camera": {
+          "longitude": 2.36,
+          "latitude": 48.936,
+          "metersPerPixel": 60,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "clichy-saint-denis-654",
+      "textAnchor": "clichy-saint-denis-654",
+      "assetId": "asset:dagobert-inheritance-papyrus",
+      "labels": {
+        "de": "654 · Ein Dokument, zwei Orte",
+        "en": "654 · One document, two places"
+      },
+      "summary": {
+        "de": "In Clichy nennt der Sohn den Bestattungsort beider Eltern bei Saint-Denis.",
+        "en": "At Clichy the son names Saint-Denis as the burial place of both his parents."
+      },
+      "state": {
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 654,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 654,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "camera": {
+          "longitude": 2.34,
+          "latitude": 48.922,
+          "metersPerPixel": 110,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein beschädigter Papyrus, zwei Brüder und das Grab eines Königs. Wer erhielt in Paris Land, wer musste in Clichy davon erfahren und wer sang in Saint-Denis für Nanthild und Dagobert?",
+      "en": "A torn papyrus, two brothers and a royal burial. Who received land in Paris, who needed to hear about it at Clichy, and who sang for Nanthild and Dagobert at Saint-Denis?"
+    },
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "merovingians",
+        "labels": {
+          "de": "Merowinger",
+          "en": "Merovingians"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:clovis-ii-saint-denis-privilege",
+    "artifact:dagobert-i-grave",
+    "artifact:dagobert-iticina-charter",
+    "artifact:dagobert-ursinus-beppoleno-charter",
+    "assertion:clovis-ii-charter-clichy-654",
+    "assertion:dagobert-burial-saint-denis-639",
+    "assertion:dagobert-charter-clichy-632-633",
+    "assertion:saint-denis-plot-paris-625",
+    "assertion:saint-denis-royal-burial-testimony-654",
+    "asset:dagobert-inheritance-papyrus",
+    "event:chlothar-confirms-paris-plot-625",
+    "event:clovis-ii-confirms-saint-denis-654",
+    "event:dagobert-burial-saint-denis-639",
+    "event:dagobert-charter-at-clichy",
+    "geometry:clichy-locality",
+    "geometry:clichy-orientation",
+    "geometry:merovingian-paris-locality",
+    "geometry:merovingian-paris-orientation",
+    "geometry:saint-denis-basilica-locality",
+    "geometry:saint-denis-basilica-orientation",
+    "person:chlothar-ii",
+    "person:clovis-ii",
+    "person:dagobert-i",
+    "person:nanthild",
+    "place:clichy",
+    "place:merovingian-paris",
+    "place:paris-plot-of-baddos-son",
+    "place:saint-denis-basilica",
+    "source:archives-nationales-dagobert-papyrus-facsimile",
+    "source:artem-chlothar-paris-625",
+    "source:artem-clovis-parents-saint-denis",
+    "source:artem-dagobert-iticina",
+    "source:artem-dagobert-ursinus",
+    "source:atsma-vezin-saint-denis-654",
+    "source:cluny-merovingian-charters-2016",
+    "source:cmn-dagobert-tomb-narrative",
+    "source:cmn-history-saint-denis-basilica",
+    "source:cmn-saint-denis-site-coordinate",
+    "source:connected-communities-clippiacum",
+    "source:french-administrative-commune-centres",
+    "source:geschichtsquellen-gesta-dagoberti",
+    "source:koelzer-merovingian-charters-2001",
+    "source:saint-denis-excavated-necropolises",
+    "source:wallace-hadrill-fredegar-fourth-book"
+  ]
+}

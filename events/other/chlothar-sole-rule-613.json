@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:chlothar-sole-rule-613",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+      "role": "supports",
+      "locator": "IV.40–42, especially pp. 34–35. Frankish succession in 613, the desertion of Sigibert’s army, the capture and death of Brunhild, and the account of Chlothar II taking power over the kingdoms."
+    },
+    {
+      "sourceId": "source:loseby-civitas-and-frankish-regions",
+      "role": "supports",
+      "locator": "pp. 223–225, 237–239 and nn. 64–67. Shares in cities and aristocratic loyalty in the Treaty of Andelot. Gregory’s use of Burgundy and Austrasia, absence of Neustria in his work, and the emergence of the three regional kingdoms."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Chlothar II. gewinnt die Alleinherrschaft",
+    "en": "Chlothar II becomes sole ruler"
+  },
+  "note": {
+    "de": "Die Fredegar-Chronik schildert, wie Große die Seite wechseln und Brunichild in Chlothars Gewalt gerät. Damit erlangt er die Herrschaft über sämtliche fränkischen Teilreiche.",
+    "en": "The Chronicle of Fredegar describes leading men changing sides and Brunhild falling into Chlothar’s hands. He thereby gains rule over the Frankish kingdoms."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 613,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 613,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:chlothar-ii",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+          "role": "supports",
+          "locator": "IV.40–42, especially pp. 34–35. Frankish succession in 613, the desertion of Sigibert’s army, the capture and death of Brunhild, and the account of Chlothar II taking power over the kingdoms."
+        }
+      ]
+    },
+    {
+      "entityId": "person:brunhild-of-austrasia",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:wallace-hadrill-fredegar-fourth-book",
+          "role": "supports",
+          "locator": "IV.40–42, especially pp. 34–35. Frankish succession in 613, the desertion of Sigibert’s army, the capture and death of Brunhild, and the account of Chlothar II taking power over the kingdoms."
+        }
+      ]
+    }
+  ],
+  "placeIds": [],
+  "epistemic": {
+    "status": "attested"
+  }
+}

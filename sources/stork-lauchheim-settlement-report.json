@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:stork-lauchheim-settlement-report",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Die Siedlung zum Gräberfeld bei Lauchheim, Ostalbkreis. Eine Chance und Aufgabe der Archäologischen Denkmalpflege",
+  "sourceType": "article",
+  "creators": [
+    "Ingo Stork"
+  ],
+  "url": "https://ahnp.ub.uni-heidelberg.de/journals/nbdpfbw/article/download/13594/7430",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The excavator’s preliminary report. Read together with the completed site work and subsequent reassessment of the uses of sunken buildings.",
+  "published": "1990",
+  "containerTitle": "Denkmalpflege in Baden-Württemberg 19, 18–22"
+}

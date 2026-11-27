@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:atsma-vezin-saint-denis-654",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Les vicissitudes d’un document mérovingien depuis son expédition jusqu’à son dépôt aux Archives nationales",
+  "creators": [
+    "Hartmut Atsma",
+    "Jean Vezin"
+  ],
+  "url": "https://doi.org/10.3406/bsnaf.1992.9603",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Study of the original royal diploma for Saint-Denis, the assembly that produced it and the physical history of its papyrus.",
+  "published": "1992",
+  "containerTitle": "Bulletin de la Société nationale des antiquaires de France, 1990, pp. 353–360",
+  "identifiers": {
+    "doi": "10.3406/bsnaf.1992.9603"
+  }
+}

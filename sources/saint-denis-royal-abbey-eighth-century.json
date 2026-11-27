@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:saint-denis-royal-abbey-eighth-century",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "L’abbaye royale du VIIIe siècle à 869",
+  "sourceType": "website",
+  "creators": [
+    "Ministère de la Culture, France"
+  ],
+  "url": "https://archeologie.culture.gouv.fr/saint-denis/fr/labbaye-royale-du-viiie-siecle-869",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Saint-Denis, une ville au Moyen Âge"
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:merovingian-paris-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-chlothar-paris-625",
+      "role": "supports",
+      "locator": "ARTEM 4505, Archives nationales K 1 no. 7/1, regest and ll. 3–7. Abbot Dodo, the donor Dagobert, whose father was Baddo, and a plot described as within the walls of Paris."
+    },
+    {
+      "sourceId": "source:french-administrative-commune-centres",
+      "role": "supports",
+      "locator": "Communes endpoint, centre: Paris (75056), 2.347° E, 48.8589° N, and Clichy (92024), 2.3041° E, 48.9041° N. Rounded editorial orientation for the locality only."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundete Orientierung für das Stadtgebiet im Zentrum von Paris. Der Umriss zeichnet keine Befestigung und keine Parzelle nach.",
+    "en": "Rounded orientation for the urban locality in central Paris. The outline leaves the walls and individual properties undetermined."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · original schematic geography",
+    "originNote": "Rounded editorial orientation for a locality. No modern or ancient parcel or boundary has been traced."
+  }
+}

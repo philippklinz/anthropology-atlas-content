@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:national-trust-sutton-hoo-mound-one",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Mound 1, Sutton Hoo",
+  "sourceType": "dataset",
+  "creators": [
+    "National Trust Heritage Records"
+  ],
+  "url": "https://heritagerecords.nationaltrust.org.uk/HBSMR/MonRecord.aspx?uid=MNA108959",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Monument 00400 / MNA108959, grid reference TM 2877 4869. Orientation point for Mound 1."
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:eufronius-of-tours",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-poitiers-cross-er1931",
+      "role": "supports",
+      "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Eufronius von Tours",
+    "en": "Eufronius of Tours"
+  },
+  "summary": {
+    "de": "Als Bischof von Tours brachte er auf Wunsch Sigiberts mit seinem Klerus die Reliquien in Radegundes Kloster in Poitiers.",
+    "en": "As bishop of Tours he accompanied his clergy when they installed the relics at Radegund’s convent in Poitiers at Sigibert’s request."
+  }
+}

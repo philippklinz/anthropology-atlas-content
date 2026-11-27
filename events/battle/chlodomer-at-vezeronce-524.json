@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:chlodomer-at-vezeronce-524",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "III.6 and III.18. The pursuit at Visorontia, Godomar’s recovery of his kingdom, Clotild’s care for the boys and the fate of Chlodomer’s sons. The call imitating the king’s men is Gregory’s account of his death."
+    },
+    {
+      "sourceId": "source:connected-communities-vezeronce-282",
+      "role": "supports",
+      "locator": "Attestation 282. Gregory III.6, town identification, year 524 and named participants."
+    },
+    {
+      "sourceId": "source:isere-helmet-of-vezeronce",
+      "role": "supports",
+      "locator": "Écrans 3–7, printed pp. 19–22. Peat-bog find in 1870, battle of 524, the hypothetical identification with Chlodomer, gilding, six T-shaped bands and rivets."
+    }
+  ],
+  "eventType": "battle",
+  "labels": {
+    "de": "Chlodomer fällt bei Vézeronce",
+    "en": "Chlodomer falls near Vézeronce"
+  },
+  "note": {
+    "de": "Bei Vézeronce stirbt Chlodomer im Kampf gegen die Burgunder unter Godomar.",
+    "en": "Chlodomer dies fighting the Burgundians under Godomar near Vézeronce."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 524,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 524,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:chlodomer",
+      "role": "attacker",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "III.6 and III.18. The pursuit at Visorontia, Godomar’s recovery of his kingdom, Clotild’s care for the boys and the fate of Chlodomer’s sons. The call imitating the king’s men is Gregory’s account of his death."
+        }
+      ]
+    },
+    {
+      "entityId": "person:godomar-of-burgundy",
+      "role": "defender",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "III.6 and III.18. The pursuit at Visorontia, Godomar’s recovery of his kingdom, Clotild’s care for the boys and the fate of Chlodomer’s sons. The call imitating the king’s men is Gregory’s account of his death."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:vezeronce-in-the-viennois"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:vezeronce-battle-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

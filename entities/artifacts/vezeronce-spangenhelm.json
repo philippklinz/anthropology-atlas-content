@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:vezeronce-spangenhelm",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:isere-helmet-of-vezeronce",
+      "role": "supports",
+      "locator": "Écrans 3–7, printed pp. 19–22. Peat-bog find in 1870, battle of 524, the hypothetical identification with Chlodomer, gilding, six T-shaped bands and rivets."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Spangenhelm aus Vézeronce",
+    "en": "Spangenhelm from Vézeronce"
+  },
+  "summary": {
+    "de": "Der 1870 in einem Torfmoor gefundene Helm zeigt Reste einer Vergoldung. Wer ihn getragen hatte, bleibt offen.",
+    "en": "The helmet found in a peat bog in 1870 has traces of gilding. Its original wearer is unknown."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:childeric-at-tournai",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Childerichs Grab in Tournai",
+    "en": "Childeric’s grave at Tournai"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "artifact:anastasis-childerici-1655",
+    "artifact:tournai-childeric-signet",
+    "artifact:tournai-gold-insect-ornaments",
+    "artifact:tournai-grave-coins",
+    "assertion:childeric-insects-found-1653",
+    "assertion:childeric-signet-at-tournai",
+    "asset:chifflet-tournai-bees-1655",
+    "asset:chifflet-tournai-signet-1655",
+    "chapter:childeric-at-tournai",
+    "community:saint-brice-excavators-1983-1986",
+    "event:burial-at-saint-brice",
+    "event:chifflet-antwerp-edition-1655",
+    "event:saint-brice-excavations-1983-1986",
+    "event:theft-of-childeric-signet-1831",
+    "event:tournai-grave-discovery-1653",
+    "geometry:antwerp-press-orientation",
+    "geometry:paris-richelieu-cabinet-orientation",
+    "geometry:saint-brice-finds-context",
+    "geometry:tournai-saint-brice-orientation",
+    "person:childeric-i",
+    "person:jean-jacques-chifflet",
+    "place:antwerp-plantin-moretus",
+    "place:paris-richelieu-coin-cabinet",
+    "place:tournai-saint-brice",
+    "source:barreveld-identifying-royalty",
+    "source:bnf-richelieu-cabinet-history",
+    "source:bnf-tournai-bee-56-449",
+    "source:bnf-tournai-signet-56-460",
+    "source:brulet-tournai-excavations-1988",
+    "source:chifflet-anastasis-childerici-namur-1655",
+    "source:connected-communities-tournai-saint-brice",
+    "source:esmonde-cleary-childeric-burial",
+    "source:fischer-lind-childeric-coins"
+  ],
+  "entryChapterIds": [
+    "chapter:childeric-at-tournai"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gregory-paris-brunhild-v-1",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Zehn Bücher fränkischer Geschichte, V.1. Von dem Regierungsantritt des jüngeren Childebert und von seiner Mutter",
+  "sourceType": "book",
+  "creators": [
+    "Gregor von Tours"
+  ],
+  "url": "https://bkv.unifr.ch/de/works/cpl-1023/versions/zehn-bucher-frankischer-geschichte/divisions/187",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "German translation of the Paris episode and notes on the beginning of Childebert’s reign.",
+  "containerTitle": "Bibliothek der Kirchenväter, Universität Freiburg (Schweiz)"
+}

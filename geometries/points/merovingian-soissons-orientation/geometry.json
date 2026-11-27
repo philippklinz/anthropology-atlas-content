@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:merovingian-soissons-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:soissons-capitulary-744",
+      "role": "supports",
+      "locator": "No. 12, opening: second year of Childeric, Pippin as dux et princeps, city of Soissons, bishops, clergy, counts and magnates."
+    },
+    {
+      "sourceId": "source:royal-frankish-annals-early-entries",
+      "role": "supports",
+      "locator": "Entries 749 and 750: petition to Zacharias, elevation at Soissons, Boniface and the tonsure of Childeric. Entries 753–754: papal visit, anointing of Pippin and both sons."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q167152, coordinate location (P625), rounded to two decimal places."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundeter Bezugspunkt der heutigen Ortschaft.",
+    "en": "Rounded reference point for the modern settlement."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata, Q167152 (P625), CC0; rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q167152",
+    "originNote": "Rounded open coordinate data."
+  }
+}

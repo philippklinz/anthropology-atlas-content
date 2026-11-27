@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:guntram",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+      "role": "supports",
+      "locator": "A Note on Genealogy and IV.27–28, 51: Chlothar’s sons, the marriages of Sigibert and Chilperic, and the death of Sigibert."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Guntram",
+    "en": "Guntram"
+  },
+  "summary": {
+    "de": "Bruder Sigiberts und Chilperichs. Er vereinbarte mit seinem Neffen Childebert II. und dessen Mutter in Andelot Regelungen über Erbschaft und gegenseitige Hilfe.",
+    "en": "Brother of Sigibert and Chilperic. At Andelot he agreed with his nephew Childebert II and the latter’s mother on succession and mutual support."
+  }
+}

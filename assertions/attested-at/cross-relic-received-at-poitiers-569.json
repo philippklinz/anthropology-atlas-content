@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:cross-relic-received-at-poitiers-569",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:szafranowski-poitiers-cross-er1931",
+      "role": "supports",
+      "locator": "ER 1931, Gregory IX.40, text and Discussion: the clerics’ mission probably in 568, Eufronius of Tours, and the reception in Poitiers in 569."
+    },
+    {
+      "sourceId": "source:flierman-williard-radegund-letters",
+      "role": "supports",
+      "locator": "Introduction and “Playing the crowd”, “Beyond the gates”, “Reaching east”: Fortunatus and Baudonivia, the donations (Vita I.12–13), the Rule and communal gifts, and the eastern mission (Vita II.16)."
+    }
+  ],
+  "subjectId": "artifact:cross-relic-at-sainte-croix",
+  "predicate": "attested-at",
+  "objectId": "place:poitiers-pictavis",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 569,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 569,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:poitiers-convent-and-hearing-locality",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Berichte nennen Poitiers und mehrere kirchliche Orte. Der Umriss bezeichnet das nähere Stadtgebiet. Lage und Größe der Klosteranlage sowie der Prozessionsweg sind daraus nicht abzulesen.",
+      "en": "The accounts name Poitiers and several church sites. The outline indicates the city locality. It does not reconstruct the convent plan, its extent or the processional route."
+    }
+  },
+  "note": {
+    "de": "In Poitiers wurde die aus dem Osten erbetene Reliquie 569 feierlich in das Kloster gebracht.",
+    "en": "In 569 the relic requested from the East was ceremonially brought into the convent at Poitiers."
+  }
+}

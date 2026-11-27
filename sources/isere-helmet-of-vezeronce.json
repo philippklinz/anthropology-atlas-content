@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:isere-helmet-of-vezeronce",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "object",
+  "title": "Le casque de Vézeronce. Ressources documentaires, Moyen Âge",
+  "creators": [
+    "Département de l’Isère, Musée de l’Ancien Évêché"
+  ],
+  "url": "https://musees.isere.fr/sites/portail-musee-fr/files/inline-files/Ressources-documentaires-MA_MD.pdf",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The museum presents the surviving helmet, its excavation history, the battle and the limits of any identification of its owner."
+}

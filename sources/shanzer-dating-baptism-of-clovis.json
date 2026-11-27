@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:shanzer-dating-baptism-of-clovis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dating the baptism of Clovis: the bishop of Vienne vs the bishop of Tours",
+  "sourceType": "article",
+  "creators": [
+    "Danuta Shanzer"
+  ],
+  "containerTitle": "Early Medieval Europe 7 (1), pp. 29–57",
+  "url": "https://www2.ulpgc.es/hege/almacen/download/30/30074/clodoveo.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Full article. It compares the chronology implied by Gregory and proposals based on the contemporary letter, and argues the case for Christmas 508.",
+  "published": "1998",
+  "identifiers": {
+    "doi": "10.1111/1468-0254.00017"
+  }
+}

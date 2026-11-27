@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:remigius-advises-clovis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+      "role": "supports",
+      "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Remigius rät Chlodwig zum Loskauf von Gefangenen",
+    "en": "Remigius urges Clovis to ransom captives"
+  },
+  "note": {
+    "de": "Der Brief stammt aus der Regierungszeit Chlodwigs. Der Anlass und ein genaueres Datum sind umstritten. Der überlieferte Text nennt Witwen, Waisen und Gefangene.",
+    "en": "The letter dates from Clovis’s reign. Its occasion and closer dating remain in dispute. The text names widows, orphans and captives."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 481,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 511,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:remigius-of-reims",
+      "role": "author",
+      "sourceRefs": [
+        {
+          "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+          "role": "supports",
+          "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+        }
+      ]
+    },
+    {
+      "entityId": "person:clovis-i",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+          "role": "supports",
+          "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+        }
+      ]
+    },
+    {
+      "entityId": "artifact:remigius-advice-letter-to-clovis",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+          "role": "supports",
+          "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

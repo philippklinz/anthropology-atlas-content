@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:merovingian-reims-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.03,
+      49.27
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:poitiers-ms-250-entry-into-the-convent",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:inha-poitiers-ms-250-folio-31v",
+      "role": "supports",
+      "locator": "Folio 31v, Poitiers BM 250 (136), Lieu de conservation, Période de création and Descripteurs iconographiques: Poitiers, c. 1100, Radegund withdrawing to the monastery."
+    },
+    {
+      "sourceId": "source:commons-radegund-entering-the-convent",
+      "role": "supports",
+      "locator": "Summary and licensing; file history, 2 May 2008: digital image from the municipal library at Poitiers, 1,082 × 850 px, faithful photographic reproduction under the Public Domain Mark."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Radegundes Klostereintritt auf Blatt 31v",
+    "en": "Radegund entering the convent, folio 31v"
+  },
+  "summary": {
+    "de": "Eine in Poitiers um 1100 entstandene Handschrift der Lebensbeschreibung des Fortunatus zeigt Radegunde beim Eintritt ins Kloster. Der Ausschnitt bewahrt, wie die Geschichte rund fünf Jahrhunderte später erzählt wurde.",
+    "en": "A Poitiers manuscript of Fortunatus’s Life, made around 1100, depicts Radegund entering the convent. The scene records how her story was told some five centuries later."
+  }
+}

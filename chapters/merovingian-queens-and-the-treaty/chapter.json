@@ -1,0 +1,377 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:merovingian-queens-and-the-treaty",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-paris-brunhild-v-1",
+      "role": "supports",
+      "locator": "V.1, opening and notes: Brunhild and her children in Paris, Childebert’s removal and Christmas accession in 575, subsequent separation of the family."
+    },
+    {
+      "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+      "role": "supports",
+      "locator": "A Note on Genealogy and IV.27–28, 51: Chlothar’s sons, the marriages of Sigibert and Chilperic, and the death of Sigibert."
+    },
+    {
+      "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+      "role": "supports",
+      "locator": "VI.46 and VII.4–5, 7: Chilperic’s death in 584, Paris, sanctuary under Ragnemod, the golden dish, messengers to Guntram and the infant Chlothar."
+    },
+    {
+      "sourceId": "source:halfond-chilperic-fredegund-patronage",
+      "role": "supports",
+      "locator": "Abstract, pp. 48–49: seventeen episcopal supporters, donations and Gregory’s portrayal of Chilperic and Fredegund."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    },
+    {
+      "sourceId": "source:capitularia-pactum-andelot-bk-6",
+      "role": "supports",
+      "locator": "BK 6, Date, Captions and Transmission: November 587 and preservation in Gregory IX.20. Nineteenth-century editions give the 29th; the map uses the year."
+    },
+    {
+      "sourceId": "source:connected-communities-andelot-951",
+      "role": "supports",
+      "locator": "Attestation 951: the three named visitors at Andelao in 587, identified with Andelot-Blancheville."
+    },
+    {
+      "sourceId": "source:baroin-marriage-and-property-2013",
+      "role": "supports",
+      "locator": "pp. 103–104: Galswinth, marriage property, the immediate grant of Cahors to Brunhild and the four other cities retained by Guntram for his lifetime."
+    },
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, before and after the pact: the delegation goes from Metz to Guntram at Chalon, the treaty is reread and Fredegund’s embassies are discussed."
+    },
+    {
+      "sourceId": "source:mcrobbie-gregory-gender-and-violence",
+      "role": "supports",
+      "locator": "Discussion of Histories IX.20, pp. 162–163: Gregory’s embassy to Guntram in 588 and disagreements remaining after the 587 settlement."
+    }
+  ],
+  "labels": {
+    "de": "Brunichild, Fredegunde und der Vertrag von Andelot",
+    "en": "Brunhild, Fredegund and the treaty of Andelot"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:brunhild-and-children-in-paris-575",
+    "event:fredegund-at-paris-584",
+    "event:andelot-treaty-587",
+    "artifact:andelot-pact-text",
+    "community:inhabitants-of-cahors-in-the-pact",
+    "assertion:cahors-clause-of-andelot-587",
+    "event:andelot-pact-reread-at-chalon-588",
+    "person:faileuba"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 3.55,
+      "latitude": 46.8,
+      "metersPerPixel": 3800,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 575,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 575,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 588,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 588,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "located-at",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "brunhild",
+      "textAnchor": "brunhild",
+      "labels": {
+        "de": "575 · Brunichild in Paris",
+        "en": "575 · Brunhild in Paris"
+      },
+      "summary": {
+        "de": "Sigibert starb bei Vitry. Seine Familie hörte die Nachricht in Paris.",
+        "en": "Sigibert died at Vitry. His family received the news in Paris."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.35,
+          "latitude": 48.85,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 575,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 575,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "fredegund",
+      "textAnchor": "fredegund",
+      "labels": {
+        "de": "584 · Fredegunde sucht Schutz",
+        "en": "584 · Fredegund seeks protection"
+      },
+      "summary": {
+        "de": "Der Pariser Bischof nahm Chilperichs Witwe auf.",
+        "en": "The bishop of Paris received Chilperic’s widow."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.35,
+          "latitude": 48.85,
+          "metersPerPixel": 600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 584,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 584,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "andelot-and-cahors",
+      "textAnchor": "andelot-and-cahors",
+      "labels": {
+        "de": "587 · Eine Vereinbarung, zwei Orte",
+        "en": "587 · One agreement, two places"
+      },
+      "summary": {
+        "de": "Brunichild war in Andelot anwesend. Das im Vertrag genannte Cahors lag weit im Südwesten.",
+        "en": "Brunhild was present at Andelot. Cahors, a subject of the agreement, lay far to the south-west."
+      },
+      "state": {
+        "camera": {
+          "longitude": 3.35,
+          "latitude": 46.45,
+          "metersPerPixel": 3300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 587,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 587,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "chalon",
+      "textAnchor": "chalon",
+      "labels": {
+        "de": "588 · Der Vertrag wird wieder vorgelesen",
+        "en": "588 · The agreement is read aloud again"
+      },
+      "summary": {
+        "de": "In Chalon ließ Guntram den Vertrag während einer Gesandtschaft Gregors erneut vorlesen.",
+        "en": "At Chalon Guntram had the agreement read out again during Gregory’s embassy."
+      },
+      "state": {
+        "camera": {
+          "longitude": 4.85,
+          "latitude": 46.78,
+          "metersPerPixel": 550,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 588,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 588,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Zwei Witwen in Paris und eine Vereinbarung über das Erbe ihrer Familien. Für 587 liegen der Verhandlungsort Andelot und die im Vertrag genannte Stadt Cahors gleichzeitig auf der Karte.",
+      "en": "Two widows in Paris and an agreement about their families’ inheritance. In 587 the map shows both the negotiating site at Andelot and Cahors, a city named in the agreement."
+    },
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "merovingians",
+        "labels": {
+          "de": "Merowinger",
+          "en": "Merovingians"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:andelot-pact-text",
+    "assertion:brunhild-and-children-paris-575",
+    "assertion:brunhild-at-andelot-587",
+    "assertion:cahors-clause-of-andelot-587",
+    "assertion:fredegund-paris-sanctuary-584",
+    "assertion:guntram-at-chalon-588",
+    "community:inhabitants-of-cahors-in-the-pact",
+    "event:andelot-pact-reread-at-chalon-588",
+    "event:andelot-treaty-587",
+    "event:brunhild-and-children-in-paris-575",
+    "event:fredegund-at-paris-584",
+    "geometry:andelot-blancheville-orientation",
+    "geometry:andelot-meeting-locality",
+    "geometry:cahors-cadurcis-orientation",
+    "geometry:cahors-treaty-locality",
+    "geometry:chalon-embassy-locality",
+    "geometry:chalon-sur-saone-orientation",
+    "geometry:merovingian-paris-locality",
+    "geometry:merovingian-paris-orientation",
+    "person:brunhild-of-austrasia",
+    "person:childebert-ii",
+    "person:chlodosind-daughter-of-brunhild",
+    "person:faileuba",
+    "person:fredegund",
+    "person:galswinth",
+    "person:gregory-of-tours",
+    "person:guntram",
+    "place:andelot-blancheville",
+    "place:cahors-cadurcis",
+    "place:chalon-sur-saone",
+    "place:merovingian-paris",
+    "source:artem-chlothar-paris-625",
+    "source:baroin-marriage-and-property-2013",
+    "source:capitularia-pactum-andelot-bk-6",
+    "source:connected-communities-andelot-951",
+    "source:french-administrative-commune-centres",
+    "source:gregory-frankish-queens-thorpe-extracts",
+    "source:gregory-histories-brehaut-selections",
+    "source:gregory-paris-brunhild-v-1",
+    "source:gregory-poitiers-nuns-at-tours-ix-39",
+    "source:gregory-radegund-funeral-attestation-933",
+    "source:halfond-chilperic-fredegund-patronage",
+    "source:mcrobbie-gregory-gender-and-violence",
+    "source:wikidata-place-coordinates"
+  ]
+}

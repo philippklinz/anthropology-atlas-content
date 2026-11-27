@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:madelinus-ghent-both-sides",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ghent-madelinus-obverse",
+      "role": "supports",
+      "locator": "Object 800000085493, De Bast 113. Obverse, weight 1.19 g, diameter 12 mm, collection range 600–670 and CC0 file statement."
+    },
+    {
+      "sourceId": "source:ghent-madelinus-reverse",
+      "role": "supports",
+      "locator": "Object 800000085493, reverse photograph and transcription, two rows of pellets beneath the cross. File licensing section, CC0 1.0."
+    }
+  ],
+  "assetType": "image",
+  "file": "madelinus.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Dorestad und Madelinus auf einer Goldmünze",
+    "en": "Dorestad and Madelinus on a gold coin"
+  },
+  "alt": {
+    "de": "Links Kopf im Profil mit Perlen über der Stirn und dem Ortsnamen am Rand. Rechts Kreuz auf einem Sockel, darunter sechs Punkte, am Rand der Name Madelinus.",
+    "en": "Left, a head in profile with pearls above the brow and the town name around the rim. Right, a cross on a base above six pellets, with the name Madelinus around it."
+  },
+  "entityIds": [
+    "artifact:madelinus-ghent-tremissis",
+    "place:dorestad"
+  ],
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Ghent University Library, De Bast collection (photographer unrecorded)"
+    ],
+    "attribution": "Universiteitsbibliotheek Gent · BRKZ.NUM.000273, De Bast 113 · CC0 1.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tri%C3%ABns,_Dorestad,_Madelinus,_Merovingisch_Rijk._600-670_barcode_800000085493.jpg",
+    "originNote": "Two CC0 collection photographs, obverse and reverse respectively, are credited individually in the source records. Reduced and placed side by side on black for comparison. No details have been reconstructed."
+  }
+}

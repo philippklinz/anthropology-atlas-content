@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:childebert-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "II.43 and III.1. Clovis dies at Paris and is buried in the church of the Holy Apostles that he and Clotild had built. The four sons are named and their inheritance described as equal. III.1 gives no meeting place or list of seats."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "III.11. Chlothar and Childebert besiege Augustodunum. Godomar flees. Gregory links the siege with the acquisition of Burgundy."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "IV.20–21. Childebert’s sickness and burial at Paris, Chlothar’s acquisition of the kingdom and treasure and his later burial by his four sons at Soissons."
+    },
+    {
+      "sourceId": "source:connected-communities-paris-399",
+      "role": "supports",
+      "locator": "Attestation 399. Gregory IV.20 for the death and burial of Childebert in Paris in 558."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Childebert I.",
+    "en": "Childebert I"
+  },
+  "summary": {
+    "de": "Sohn Chlodwigs. Er belagerte mit seinem Bruder Chlothar Autun und wurde 558 in der von ihm erbauten Kirche Saint-Vincent in Paris begraben.",
+    "en": "Son of Clovis. He joined his brother Chlothar in besieging Autun and was buried in 558 in the church of Saint Vincent he had built at Paris."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "Feature",
+  "id": "geometry:merovingian-soissons-locality",
+  "properties": {},
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          3.28,
+          49.365
+        ],
+        [
+          3.303,
+          49.355
+        ],
+        [
+          3.347,
+          49.358
+        ],
+        [
+          3.362,
+          49.386
+        ],
+        [
+          3.34,
+          49.405
+        ],
+        [
+          3.291,
+          49.402
+        ],
+        [
+          3.28,
+          49.365
+        ]
+      ]
+    ]
+  }
+}

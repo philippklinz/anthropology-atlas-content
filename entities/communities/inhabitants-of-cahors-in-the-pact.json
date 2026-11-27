@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:inhabitants-of-cahors-in-the-pact",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    },
+    {
+      "sourceId": "source:baroin-marriage-and-property-2013",
+      "role": "supports",
+      "locator": "pp. 103–104: Galswinth, marriage property, the immediate grant of Cahors to Brunhild and the four other cities retained by Guntram for his lifetime."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Die Einwohner von Cahors in der Besitzklausel",
+    "en": "People of Cahors in the property clause"
+  },
+  "summary": {
+    "de": "Der Vertrag nennt die Bevölkerung zusammen mit der Stadt und ihrem Land. Einzelne Haushalte kommen in der Klausel nicht zu Wort.",
+    "en": "The agreement mentions the people alongside the city and its lands. The clause records nothing about individual households."
+  }
+}

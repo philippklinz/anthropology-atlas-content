@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:dorestad-madelinus-issues",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:tys-merovingian-river-traders",
+      "role": "supports",
+      "locator": "The Oxford Handbook of the Merovingian World, pp. 772–774 and figs. 34.1–34.3. River settlements, two moneyers at Dorestad before its later port, Madelinus in the 630s and 640s and possible uses for gold coins."
+    },
+    {
+      "sourceId": "source:ghent-madelinus-obverse",
+      "role": "supports",
+      "locator": "Object 800000085493, De Bast 113. Obverse, weight 1.19 g, diameter 12 mm, collection range 600–670 and CC0 file statement."
+    },
+    {
+      "sourceId": "source:berlin-madelinus-18208309",
+      "role": "supports",
+      "locator": "Object 18208309, legends and commentary after the bibliography. Parallel specimen. The name is also known at Maastricht and probably continued after the moneyer’s death."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Dorestader Prägungen im Namen des Madelinus",
+    "en": "Dorestad issues in the name of Madelinus"
+  },
+  "summary": {
+    "de": "Die Serie trägt Stadt und Münzmeister in ihren Umschriften. Das Genter Stück ist ein erhaltenes Exemplar.",
+    "en": "The legends give the mint town and moneyer. The Ghent specimen is one surviving piece."
+  }
+}

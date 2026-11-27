@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:andelot-treaty-587",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    },
+    {
+      "sourceId": "source:capitularia-pactum-andelot-bk-6",
+      "role": "supports",
+      "locator": "BK 6, Date, Captions and Transmission: November 587 and preservation in Gregory IX.20. Nineteenth-century editions give the 29th; the map uses the year."
+    },
+    {
+      "sourceId": "source:connected-communities-andelot-951",
+      "role": "supports",
+      "locator": "Attestation 951: the three named visitors at Andelao in 587, identified with Andelot-Blancheville."
+    }
+  ],
+  "eventType": "treaty",
+  "labels": {
+    "de": "Der Vertrag von Andelot",
+    "en": "The treaty of Andelot"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 587,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 587,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:guntram",
+      "role": "signatory",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-brehaut-selections",
+          "role": "supports",
+          "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+        }
+      ]
+    },
+    {
+      "entityId": "person:childebert-ii",
+      "role": "signatory",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-brehaut-selections",
+          "role": "supports",
+          "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:andelot-blancheville"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:andelot-blancheville-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Die überlieferte Einleitung nennt beide Könige und Brunichild als Anwesende. Die Abschrift überliefert die Verpflichtungen der Könige, die Besitzklauseln und den Eid.",
+    "en": "The preamble places the two kings and Brunhild at the meeting. The copy preserves the kings’ undertakings, the property clauses and the oath."
+  }
+}

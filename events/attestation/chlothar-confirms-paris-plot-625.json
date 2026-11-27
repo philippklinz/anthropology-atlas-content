@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:chlothar-confirms-paris-plot-625",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:artem-chlothar-paris-625",
+      "role": "supports",
+      "locator": "ARTEM 4505, Archives nationales K 1 no. 7/1, regest and ll. 3–7. Abbot Dodo, the donor Dagobert, whose father was Baddo, and a plot described as within the walls of Paris."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Chlothar bestätigt ein Grundstück in Paris",
+    "en": "Chlothar confirms ownership of a Paris plot"
+  },
+  "note": {
+    "de": "Der Punkt markiert die Lage des Schenkungsguts in Paris. Ausgestellt wurde die Urkunde laut Schlussformel in Sterpiniaco.",
+    "en": "The point locates the donated plot in Paris. The closing formula of the charter places its issue at Sterpiniaco."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 625,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 625,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:chlothar-ii",
+      "role": "author"
+    },
+    {
+      "entityId": "place:paris-plot-of-baddos-son",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-paris"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-paris-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

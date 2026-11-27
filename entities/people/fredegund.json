@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:fredegund",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-frankish-queens-thorpe-extracts",
+      "role": "supports",
+      "locator": "VI.46 and VII.4–5, 7: Chilperic’s death in 584, Paris, sanctuary under Ragnemod, the golden dish, messengers to Guntram and the infant Chlothar."
+    },
+    {
+      "sourceId": "source:halfond-chilperic-fredegund-patronage",
+      "role": "supports",
+      "locator": "Abstract, pp. 48–49: seventeen episcopal supporters, donations and Gregory’s portrayal of Chilperic and Fredegund."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Fredegunde",
+    "en": "Fredegund"
+  },
+  "summary": {
+    "de": "Gemahlin Chilperichs und Mutter Chlothars II. Aus Paris suchte sie nach Chilperichs Tod den Schutz Guntrams.",
+    "en": "Wife of Chilperic and mother of Chlothar II. After Chilperic died, she appealed to Guntram from Paris."
+  }
+}

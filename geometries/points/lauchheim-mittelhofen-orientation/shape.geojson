@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:lauchheim-mittelhofen-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2322,
+      48.8734
+    ]
+  }
+}

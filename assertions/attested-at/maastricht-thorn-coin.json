@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:maastricht-thorn-coin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:museum-thorn-madelinus",
+      "role": "supports",
+      "locator": "Object description, first paragraph. Found near Thorn in 2009, struck at Maastricht around 625, its two inscriptions and moneyer."
+    },
+    {
+      "sourceId": "source:maastricht-museum-early-crafts",
+      "role": "supports",
+      "locator": "Sections Artisanal centre and Trade centre. Glass, pottery, textiles and antler working, and twelve named Maastricht moneyers."
+    }
+  ],
+  "subjectId": "artifact:madelinus-maastricht-thorn",
+  "predicate": "attested-at",
+  "objectId": "place:maastricht-on-the-meuse",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 625,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 625,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Fläche bezeichnet nur die Gegend der Münzstätte. Wohnort und Werkstattgebäude sind unbekannt.",
+      "en": "The outline denotes the vicinity of the mint town. The residence and the workshop building are unknown."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:maastricht-on-the-meuse-mint-context",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "Das Museum Thorn datiert die Prägung um 625. Der Acker bei Thorn ist der Fundort von 2009.",
+    "en": "Museum Thorn dates the striking to around 625. The field near Thorn is its 2009 findspot."
+  }
+}

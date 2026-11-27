@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cmn-dagobert-tomb-narrative",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "website",
+  "title": "Basilique cathédrale de Saint-Denis. Parcours découverte",
+  "creators": [
+    "Centre des monuments nationaux"
+  ],
+  "url": "https://www.saint-denis-basilique.fr/content/download/9869286/file/Parcours%20d%C3%A9couverte%20pour%20jeunes.pdf?version=1",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "On-site guide to the sculpted tomb and the sequence of scenes illustrating the later legend."
+}

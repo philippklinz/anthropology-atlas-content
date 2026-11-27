@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:life-in-a-merovingian-village",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Ein Dorf an der Jagst",
+    "en": "A village on the Jagst"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "artifact:lauchheim-clay-loom-weights",
+    "artifact:lauchheim-grave-27-bed",
+    "artifact:lauchheim-grave-90-beads",
+    "artifact:lauchheim-second-farm-fence",
+    "artifact:lauchheim-timber-buildings",
+    "assertion:lauchheim-bed-in-grave-27",
+    "assertion:lauchheim-early-river-terrace-buildings",
+    "assertion:lauchheim-fence-around-four-graves",
+    "assertion:lauchheim-necklace-in-grave-90",
+    "assertion:lauchheim-wasserfurche-burials",
+    "asset:lauchheim-grave-27-museum-bed",
+    "chapter:life-in-a-merovingian-village",
+    "community:lauchheim-wasserfurche-burial-community",
+    "event:lauchheim-early-cemetery-use",
+    "event:lauchheim-grave-27-bed-burial",
+    "event:lauchheim-grave-90-necklace-burial",
+    "event:lauchheim-graves-within-second-fence",
+    "event:lauchheim-sixth-century-settlement-evidence",
+    "geometry:lauchheim-cemetery-vicinity",
+    "geometry:lauchheim-mittelhofen-orientation",
+    "geometry:lauchheim-river-terrace-vicinity",
+    "geometry:lauchheim-southeastern-farm-orientation",
+    "geometry:lauchheim-southeastern-farm-vicinity",
+    "geometry:lauchheim-wasserfurche-orientation",
+    "place:lauchheim-mittelhofen",
+    "place:lauchheim-southeastern-farmstead",
+    "place:lauchheim-wasserfurche",
+    "source:alm-lauchheim-grave-27-bed",
+    "source:eberth-beads-lauchheim-wasserfurche",
+    "source:hoeke-lauchheim-mittelhofen-graves",
+    "source:lad-lauchheim-mittelhofen",
+    "source:lad-lauchheim-wasserfurche",
+    "source:lauchheim-site-location-boards",
+    "source:schoenenberg-farmsteads-and-fence-lines",
+    "source:stork-lauchheim-farm-burials",
+    "source:stork-lauchheim-settlement-report"
+  ],
+  "entryChapterIds": [
+    "chapter:life-in-a-merovingian-village"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

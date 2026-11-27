@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:halfond-orleans-first-council",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Aurelianense I / Orléans I: Interprovincial Council in Orléans; 511",
+  "sourceType": "article",
+  "creators": [
+    "Gregory Halfond"
+  ],
+  "containerTitle": "Lexikon der Konzilien",
+  "url": "https://www.konziliengeschichte.org/site/de/publikationen/lexikon/database/4297.html",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Summons, date of the conclusion of business and analysis of the distribution of participating bishops.",
+  "published": "2024"
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:brulet-tournai-excavations-1988",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "article",
+  "title": "Nouvelles recherches à Tournai autour de la sépulture de Childéric",
+  "creators": [
+    "Raymond Brulet",
+    "Gérard Coulon",
+    "Marie-Jeanne Ghenne-Dubois",
+    "Fabienne Vilvorder"
+  ],
+  "url": "https://www.persee.fr/doc/pica_0752-5656_1988_num_3_1_1529",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Field report on the Saint-Brice neighbourhood and its cemetery, including earlier finds and new excavations.",
+  "published": "1988",
+  "containerTitle": "Revue archéologique de Picardie 3–4, pp. 39–43"
+}

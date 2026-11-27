@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:costambeys-innes-maclean-carolingian-kingship",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The creation of Carolingian kingship to 800",
+  "sourceType": "book",
+  "creators": [
+    "Marios Costambeys",
+    "Matthew Innes",
+    "Simon MacLean"
+  ],
+  "url": "https://www.cambridge.org/core/books/abs/carolingian-world/creation-of-carolingian-kingship-to-800/B978E96EB587EEE49D363AE5A5FCB8BE",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "The Carolingian World, chapter 2, Cambridge University Press",
+  "published": "2011"
+}

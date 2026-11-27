@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:childeric-insects-found-1653",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-tournai-bee-56-449",
+      "role": "supports",
+      "locator": "Inv. 56.449, Description, Mesures and Mode d’acquisition: gold and garnet, loop for fastening, 1.6 cm, 1.95 g, reported numbers at discovery and presentation, two recovered after the theft."
+    },
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    }
+  ],
+  "subjectId": "artifact:tournai-gold-insect-ornaments",
+  "predicate": "attested-at",
+  "objectId": "place:tournai-saint-brice",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1653,
+        "month": 5,
+        "day": 27
+      },
+      "latest": {
+        "year": 1653,
+        "month": 5,
+        "day": 27
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die kleine schematische Fläche bezeichnet das Viertel am Fundort. Das Grabungsareal und der frühmittelalterliche Friedhof hatten andere Grenzen.",
+      "en": "The small schematic area locates the neighbourhood around the find. The excavation trenches and the early medieval cemetery had different boundaries."
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:saint-brice-finds-context",
+      "role": "uncertainty-area"
+    }
+  ],
+  "note": {
+    "de": "In seinem Bericht erwähnt Chifflet zahlreiche Insekten aus dem Grab. Der heutige Katalog kann einzelne erhaltene Stücke nachweisen.",
+    "en": "Chifflet reported many insects from the grave. The present catalogue identifies individual survivors."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:madelinus-maastricht-thorn",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:museum-thorn-madelinus",
+      "role": "supports",
+      "locator": "Object description, first paragraph. Found near Thorn in 2009, struck at Maastricht around 625, its two inscriptions and moneyer."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Die bei Thorn gefundene Goldmünze",
+    "en": "The gold piece found near Thorn"
+  },
+  "summary": {
+    "de": "Das in Maastricht um 625 geprägte Stück kam 2009 bei Thorn zutage.",
+    "en": "This piece struck at Maastricht around 625 was found near Thorn in 2009."
+  }
+}

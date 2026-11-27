@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:grimhild-wissembourg-cartulary",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Liber donationum, no. 4: the Wissembourg donation",
+  "sourceType": "archive",
+  "creators": [
+    "Regnum Francorum Online",
+    "Johan Åhlfeldt (editor of the digital resource)"
+  ],
+  "url": "https://francia.ahlfeldt.se/page/documents/10234",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Regnum Francorum Online, TradWiz 004"
+}

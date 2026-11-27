@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cmn-saint-denis-site-coordinate",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "website",
+  "title": "Basilique cathédrale de Saint-Denis. Informations pratiques",
+  "creators": [
+    "Centre des monuments nationaux"
+  ],
+  "url": "https://www.saint-denis-basilique.fr/content/download/9907064/file_fr/CP%20Visites%20insolites%20et%20chant%C3%A9es%20par%20Gr%C3%A9goire%20Ichou.pdf?inLanguage=fre-FR&version=1",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The monument’s visitor information gives a coordinate for the basilica of Saint-Denis."
+}

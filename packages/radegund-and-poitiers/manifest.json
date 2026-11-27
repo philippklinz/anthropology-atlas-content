@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:radegund-and-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Radegunde und die Frauen von Poitiers",
+    "en": "Radegund and the women of Poitiers"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [
+    "package:clovis-and-his-bishops",
+    "package:visigoths-toulouse-to-toledo"
+  ],
+  "recordIds": [
+    "artifact:cross-relic-at-sainte-croix",
+    "artifact:didimia-silk-coverlet",
+    "artifact:poitiers-ms-250-entry-into-the-convent",
+    "artifact:radegund-letter-of-protection",
+    "assertion:cross-relic-received-at-poitiers-569",
+    "assertion:didimia-at-poitiers-hearing-590",
+    "assertion:gregory-at-radegund-funeral-587",
+    "assertion:poitiers-nuns-in-tours-589",
+    "asset:radegund-entering-convent-ms-250",
+    "chapter:radegund-and-poitiers",
+    "community:nuns-from-poitiers-at-tours",
+    "event:poitiers-convent-hearing-590",
+    "event:poitiers-nuns-at-tours-589",
+    "event:radegund-cross-at-poitiers-569",
+    "event:radegund-funeral-at-poitiers-587",
+    "geometry:poitiers-convent-and-hearing-locality",
+    "person:agnes-of-poitiers",
+    "person:basina-nun-of-poitiers",
+    "person:baudonivia-of-poitiers",
+    "person:clotild-nun-of-poitiers",
+    "person:didimia-of-poitiers",
+    "person:eufronius-of-tours",
+    "person:gregory-of-tours",
+    "person:leubovera-of-poitiers",
+    "person:radegund-of-poitiers",
+    "person:venantius-fortunatus",
+    "source:chevalier-radegonde-caen",
+    "source:commons-radegund-entering-the-convent",
+    "source:flierman-gregory-and-the-merovingian-letter",
+    "source:flierman-williard-radegund-letters",
+    "source:fortunatus-milk-to-agnes",
+    "source:gregory-poitiers-episcopal-verdict-x-16",
+    "source:gregory-poitiers-nuns-at-tours-ix-39",
+    "source:gregory-radegund-funeral-attestation-933",
+    "source:inha-poitiers-ms-250-folio-31v",
+    "source:radegund-letter-to-all-bishops",
+    "source:szafranowski-poitiers-cross-er1931"
+  ],
+  "entryChapterIds": [
+    "chapter:radegund-and-poitiers"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "migration-maps"
+  ]
+}

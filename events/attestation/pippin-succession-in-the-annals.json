@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:pippin-succession-in-the-annals",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:royal-frankish-annals-early-entries",
+      "role": "supports",
+      "locator": "Entries 749 and 750: petition to Zacharias, elevation at Soissons, Boniface and the tonsure of Childeric. Entries 753–754: papal visit, anointing of Pippin and both sons."
+    },
+    {
+      "sourceId": "source:costambeys-innes-maclean-carolingian-kingship",
+      "role": "supports",
+      "locator": "Opening, “Replacing the ruling dynasty”: Pippin’s two documentary titles, the limits on dating the change, contemporary Roman evidence and the retrospective accounts produced under Carolingian rule."
+    },
+    {
+      "sourceId": "source:weidemann-merovingian-chronology",
+      "role": "supports",
+      "locator": "Section Childerich III, pp. 209–211, especially points b–f: the Soissons capitulary, the Wissembourg charter, the ninth regnal year on the Attigny original and the change of dynasty."
+    },
+    {
+      "sourceId": "source:obrien-origins-royal-anointing",
+      "role": "supports",
+      "locator": "“The Carolingians”, opening paragraphs and notes 35–37, 46: late testimony about 751, Boniface, and papal letters recalling the anointing of Pippin and his sons in 754."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Pippins Erhebung in den fränkischen Annalen",
+    "en": "Pippin’s elevation in the Frankish annals"
+  },
+  "note": {
+    "de": "Die späteren Reichsannalen berichten, die Franken hätten Pippin an Childerichs Stelle zum König gewählt. Sie nennen Soissons und führen die Erhebung unter 750. Aus den Urkunden ergibt sich die heute übliche Datierung auf 751. Ort und Zeremoniell sind rückblickend überliefert.",
+    "en": "The later annals say the Franks chose Pippin to succeed Childeric as king. They name Soissons and place the elevation under 750. The charters underlie the conventional modern date of 751. The place and ceremony come from retrospective testimony."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 751,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 751,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:pippin-iii",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:royal-frankish-annals-early-entries",
+          "role": "supports",
+          "locator": "Entries 749 and 750: petition to Zacharias, elevation at Soissons, Boniface and the tonsure of Childeric. Entries 753–754: papal visit, anointing of Pippin and both sons."
+        },
+        {
+          "sourceId": "source:costambeys-innes-maclean-carolingian-kingship",
+          "role": "supports",
+          "locator": "Opening, “Replacing the ruling dynasty”: Pippin’s two documentary titles, the limits on dating the change, contemporary Roman evidence and the retrospective accounts produced under Carolingian rule."
+        }
+      ]
+    },
+    {
+      "entityId": "community:franks-at-pippins-elevation-in-the-annals",
+      "role": "attested-entity",
+      "sourceRefs": [
+        {
+          "sourceId": "source:royal-frankish-annals-early-entries",
+          "role": "supports",
+          "locator": "Entries 749 and 750: petition to Zacharias, elevation at Soissons, Boniface and the tonsure of Childeric. Entries 753–754: papal visit, anointing of Pippin and both sons."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "inferred",
+    "note": {
+      "de": "Die späteren Reichsannalen nennen Soissons und buchen die Erhebung unter 750. Die Urkunden und die moderne Chronologie führen zum üblichen Ansatz 751. Ort und Zeremoniell sind rückblickend überliefert.",
+      "en": "The later annals give Soissons and place the elevation under 750. The charters and modern chronologies underlie the conventional date of 751. The place and ceremony come from retrospective testimony."
+    }
+  },
+  "placeIds": [
+    "place:merovingian-soissons"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-soissons-orientation",
+      "role": "location"
+    }
+  ]
+}

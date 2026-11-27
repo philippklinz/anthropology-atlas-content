@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:merovingian-orleans-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:szafranowski-orleans-er1039",
+      "role": "supports",
+      "locator": "ER 1039, canon 5, Latin and translation: proceeds of gifts and fields from the king for buildings, support of priests and the poor, or ransoming captives."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q6548, P625, rounded to 0.01 degree."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt verortet die heutige Stadt. Ein bestimmtes historisches Gebäude lässt sich damit nicht bestimmen.",
+    "en": "The point locates the modern town. It does not identify any particular historical building."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q6548 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q6548",
+    "originNote": "Rounded Wikidata coordinate for the modern settlement, for city-level orientation."
+  }
+}

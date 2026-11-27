@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:paris-richelieu-cabinet-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.338,
+      48.867
+    ]
+  }
+}

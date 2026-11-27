@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:tournai-grave-coins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:fischer-lind-childeric-coins",
+      "role": "supports",
+      "locator": "p. 3, introduction: date of the burial, composition of the hoard, four illustrated pierced silver coins, examination after removal from the ground and the authors’ interpretation of the selection; Table II: mints and rulers, including Leo I at Constantinople and Julius Nepos at Ravenna."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Gold- und Silbermünzen aus dem Grab",
+    "en": "The gold and silver coins in the grave"
+  },
+  "summary": {
+    "de": "Unter den Goldmünzen sind Prägungen aus Konstantinopel und Ravenna belegt. Vier gezeichnete Silbermünzen weisen Durchlochungen auf.",
+    "en": "The gold includes issues from Constantinople and Ravenna. Four silver pieces known from drawings are pierced."
+  }
+}

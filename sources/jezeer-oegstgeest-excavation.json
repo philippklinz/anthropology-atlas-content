@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jezeer-oegstgeest-excavation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Een Merovingische nederzetting aan de monding van de Rijn. Een archeologische opgraving te Oegstgeest Nieuw Rhijngeest-Zuid",
+  "sourceType": "book",
+  "creators": [
+    "W. Jezeer (ed.), ADC ArcheoProjecten"
+  ],
+  "url": "https://archisarchief.cultureelerfgoed.nl/Archis2/Archeorapporten/20/AR23915/Rap%202054_4109800_Oegstgeest%20Nieuw%20Rhijngeest-Zuid%20HERZIEN.pdf",
+  "language": "nl",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date.",
+  "published": "2011"
+}

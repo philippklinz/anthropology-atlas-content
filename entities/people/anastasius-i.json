@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:anastasius-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "Book II.37, final sentence, and II.38. Gifts to Saint Martin, the documents from Anastasius, royal dress and public distribution of gold and silver in Tours."
+    },
+    {
+      "sourceId": "source:mathisen-clovis-anastasius-508",
+      "role": "supports",
+      "locator": "pp. 79–83 and 105–109. Account of the 508 visit in Histories II.37–38, ceremonial clothing, largesse and competing readings of the emperor’s honours."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Kaiser Anastasius I.",
+    "en": "Emperor Anastasius I"
+  },
+  "summary": {
+    "de": "Oströmischer Kaiser. Gregor von Tours berichtet, er habe Chlodwig nach dessen Sieg Urkunden über das Konsulat geschickt.",
+    "en": "Eastern Roman emperor who, in Gregory’s account, sent Clovis documents concerning the consulship after the victory."
+  }
+}

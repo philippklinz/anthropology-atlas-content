@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:avitus-of-vienne-letter-46",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Epistula 46 ad Chlodovechum regem",
+  "sourceType": "book",
+  "creators": [
+    "Avitus of Vienne",
+    "Rudolf Peiper (editor)"
+  ],
+  "containerTitle": "Monumenta Germaniae Historica, Auctores antiquissimi 6.2, pp. 75–76",
+  "url": "https://archive.org/details/alcimiecdiciiavi62avit/page/75/mode/2up",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Critical edition of the contemporary congratulatory letter. The page link opens the text of letter 46.",
+  "published": "1883"
+}

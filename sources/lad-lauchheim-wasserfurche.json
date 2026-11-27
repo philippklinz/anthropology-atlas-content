@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:lad-lauchheim-wasserfurche",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gräberfeld Wasserfurche",
+  "sourceType": "website",
+  "creators": [
+    "Landesamt für Denkmalpflege im Regierungspräsidium Stuttgart"
+  ],
+  "url": "https://www.denkmalpflege-bw.de/denkmale/projekte/archaeologische-denkmalpflege/lauchheim/graeberfeld-wasserfurche",
+  "language": "de",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Project description, excavation plan and photographs of selected graves."
+}

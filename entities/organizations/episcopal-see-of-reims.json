@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "organization:episcopal-see-of-reims",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+      "role": "supports",
+      "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+    },
+    {
+      "sourceId": "source:schenck-reims-in-merowingischer-zeit",
+      "role": "supports",
+      "locator": "Part II, “Bischof Remigius”, first paragraph and n. 1. The episcopate spans Clovis’s reign; the bishop’s own reference to its length in EA 3."
+    }
+  ],
+  "entityType": "organization",
+  "labels": {
+    "de": "Bischofssitz von Reims",
+    "en": "Episcopal see of Reims"
+  },
+  "summary": {
+    "de": "Remigius war hier schon vor der Herrschaft Chlodwigs Bischof. Sein Brief an den König ist in der Sammlung der austrasischen Briefe überliefert.",
+    "en": "Remigius was bishop here before Clovis’s reign. His letter to the king survives in the collection known as the Austrasian Letters."
+  }
+}

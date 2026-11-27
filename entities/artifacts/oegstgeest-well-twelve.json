@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:oegstgeest-well-twelve",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jezeer-oegstgeest-excavation",
+      "role": "supports",
+      "locator": "ADC Rapport 2054 (revised December 2011), summary; §4.1.1 house 2 and well 12; C. Nooijen §8.2.1, fig. 8.1 and notes 96–97 for find 330, its metal, legends and estimated striking date."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Brunnen 12 von Oegstgeest",
+    "en": "Well 12 at Oegstgeest"
+  },
+  "summary": {
+    "de": "Brunnen 12 durchschneidet die Südwand von Haus 2. Seine Hölzer ergeben eine Datierung um 672 ± 7 Jahre.",
+    "en": "Well 12 cuts the south wall of house 2. Its timbers suggest a date of about 672 ± 7 years."
+  }
+}

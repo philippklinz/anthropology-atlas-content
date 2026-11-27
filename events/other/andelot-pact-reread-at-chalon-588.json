@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:andelot-pact-reread-at-chalon-588",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, before and after the pact: the delegation goes from Metz to Guntram at Chalon, the treaty is reread and Fredegund’s embassies are discussed."
+    },
+    {
+      "sourceId": "source:mcrobbie-gregory-gender-and-violence",
+      "role": "supports",
+      "locator": "Discussion of Histories IX.20, pp. 162–163: Gregory’s embassy to Guntram in 588 and disagreements remaining after the 587 settlement."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Guntram lässt den Vertrag in Chalon vorlesen",
+    "en": "Guntram has the treaty read aloud at Chalon"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 588,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 588,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:gregory-of-tours",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-brehaut-selections",
+          "role": "supports",
+          "locator": "IX.20, before and after the pact: the delegation goes from Metz to Guntram at Chalon, the treaty is reread and Fredegund’s embassies are discussed."
+        }
+      ]
+    },
+    {
+      "entityId": "person:guntram",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-brehaut-selections",
+          "role": "supports",
+          "locator": "IX.20, before and after the pact: the delegation goes from Metz to Guntram at Chalon, the treaty is reread and Fredegund’s embassies are discussed."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:chalon-sur-saone"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:chalon-sur-saone-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Gregor erzählt von seiner Gesandtschaft nach Chalon. Beim Streit über die Durchführung des Vertrags lässt Guntram ihn erneut vorlesen.",
+    "en": "Gregory recounts his embassy to Chalon. During a disagreement about implementation Guntram has the agreement read aloud again."
+  }
+}

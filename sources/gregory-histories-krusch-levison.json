@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:gregory-histories-krusch-levison",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gregorii episcopi Turonensis Libri historiarum X",
+  "sourceType": "book",
+  "creators": [
+    "Gregory of Tours",
+    "Bruno Krusch (editor)",
+    "Wilhelm Levison (editor)"
+  ],
+  "containerTitle": "Monumenta Germaniae Historica, Scriptores rerum Merovingicarum 1.1",
+  "url": "https://www.dmgh.de/mgh_ss_rer_merov_1_1/index.htm",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Late sixth-century narrative. Books and chapters are cited independently of the pagination of the modern edition.",
+  "published": "1951"
+}

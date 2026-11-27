@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:saint-brice-excavations-1983-1986",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:brulet-tournai-excavations-1988",
+      "role": "supports",
+      "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+    },
+    {
+      "sourceId": "source:connected-communities-tournai-saint-brice",
+      "role": "supports",
+      "locator": "Site 375, Excavations, Cemetery, Beads and Glass vessels: four campaigns 1983–1986, 21 horses, 11 amber beads in four graves and several kinds of drinking vessel."
+    },
+    {
+      "sourceId": "source:esmonde-cleary-childeric-burial",
+      "role": "supports",
+      "locator": "pp. 383–384, “The Franks and northern Gaul”: grave across the river from the fortifications, dress fastener, military symbolism, arms, ring and three horse pits."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Neue Ausgrabungen in Saint-Brice",
+    "en": "New excavations at Saint-Brice"
+  },
+  "note": {
+    "de": "Weitere Grabungen erschließen den Friedhof und drei Gruben mit insgesamt 21 Pferden.",
+    "en": "Further excavations reveal the cemetery and three pits containing twenty-one horses in total."
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1983,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1983,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 1986,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1986,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "community:saint-brice-excavators-1983-1986",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:brulet-tournai-excavations-1988",
+          "role": "supports",
+          "locator": "p. 39, introduction and fig. 1 with caption: discovery by A. Quinquin, recovery by the parish chaplain, cemetery and position of the horse pits in the Saint-Brice neighbourhood."
+        },
+        {
+          "sourceId": "source:connected-communities-tournai-saint-brice",
+          "role": "supports",
+          "locator": "Site 375, Excavations, Cemetery, Beads and Glass vessels: four campaigns 1983–1986, 21 horses, 11 amber beads in four graves and several kinds of drinking vessel."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:tournai-saint-brice"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tournai-saint-brice-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:fortunatus-milk-to-agnes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A letter from Fortunatus (after 567): Pro aliis deliciis et lacte",
+  "sourceType": "archive",
+  "creators": [
+    "Venantius Fortunatus"
+  ],
+  "url": "https://epistolae.ctl.columbia.edu/letter/969.html",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Latin text and English translation of the verse letter addressed to Agnes; Leo’s edition, Carmina XI.19, p. 266.",
+  "containerTitle": "Epistolae: Medieval Women’s Latin Letters, Columbia University"
+}

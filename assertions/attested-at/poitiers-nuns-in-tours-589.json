@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:poitiers-nuns-in-tours-589",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+      "role": "supports",
+      "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+    },
+    {
+      "sourceId": "source:flierman-gregory-and-the-merovingian-letter",
+      "role": "supports",
+      "locator": "Section on the nuns of Poitiers, pp. 136–142; narrative setting of the 589 appeal, inserted letters in IX.39–42 and the episcopal tribunal of 590 in X.16."
+    }
+  ],
+  "subjectId": "community:nuns-from-poitiers-at-tours",
+  "predicate": "attested-at",
+  "objectId": "place:merovingian-tours",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 589,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 589,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-tours-urban-context",
+      "role": "uncertainty-area"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Bericht verortet die Begegnung in Tours. Der schematische Umriss markiert das Stadtgebiet und lässt das Gebäude der Unterredung offen.",
+      "en": "The narrative locates the meeting in Tours. The schematic area indicates the city and leaves the building unspecified."
+    }
+  },
+  "note": {
+    "de": "Die Frauen suchten den Bischof von Tours außerhalb des eigenen Klosters auf. Die Karte markiert das Ziel, das in Gregors Bericht gesichert ist.",
+    "en": "The women approached the bishop of Tours outside their own convent. The map marks the destination named in Gregory’s account."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:muehlbacher-pippin-verberie-752",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Die Urkunden Pippins, no. 1: judgment at Verberie",
+  "sourceType": "archive",
+  "creators": [
+    "Engelbert Mühlbacher (editor)",
+    "Formulae – Litterae – Chartae, Universität Hamburg"
+  ],
+  "url": "https://werkstatt.formulae.uni-hamburg.de/texts/urn:cts:formulae:pippin_3.muehlbacher0001.lat001/passage/all",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "MGH Diplomata Karolinorum I, Pippin no. 1"
+}

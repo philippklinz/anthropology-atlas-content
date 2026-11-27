@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:antwerp-press-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q12892, statement P625: rounded orientation coordinate."
+    },
+    {
+      "sourceId": "source:chifflet-anastasis-childerici-namur-1655",
+      "role": "supports",
+      "locator": "Namur copy R6A.0608. Printed p. 96, digitised page 119: Annuli aurei, middle row; p. 322, digitised page 348: insects with and without eyes, arranged in alternating orientations. Title and imprint: Antwerp, 1655."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Gerundete Stadtkoordinate für Antwerpen als Druckort. Der Punkt gibt die Lage einer einzelnen Druckerpresse nur auf Stadtebene wieder.",
+    "en": "Rounded city coordinate for Antwerp as the place of printing. The press is located only to city level."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors"
+    ],
+    "attribution": "Wikidata contributors, Q12892 (P625), CC0. Rounded by Anthropology Atlas contributors.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q12892",
+    "originNote": "Rounded Wikidata coordinate of the reference site. The historical feature is not surveyed here."
+  }
+}

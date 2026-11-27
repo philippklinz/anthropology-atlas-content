@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:verberie-on-the-oise-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:muehlbacher-pippin-verberie-752",
+      "role": "supports",
+      "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q815701, coordinate location (P625), rounded to two decimal places."
+    }
+  ],
+  "geometryType": "Polygon",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Ausstellungsort der Urkunde ist Verberie. Die Umrisslinie dient der Orientierung in der Umgebung der heutigen Stadt.",
+    "en": "The charter names Verberie as its place of issue. The outline provides orientation around the present town."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic locality",
+    "originNote": "Original editorial outline around the open reference coordinate. Its edges have no archaeological or political significance."
+  }
+}

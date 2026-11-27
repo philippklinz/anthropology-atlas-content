@@ -1,0 +1,437 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:clovis-and-his-bishops",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:barrett-woudhuysen-remigius-clovis",
+      "role": "supports",
+      "locator": "Transcription, English translation of EA 2 §§ 1–3, opening and conclusion. Uncertain political context, widows and orphans, ransoming captives, strangers, younger and older visitors."
+    },
+    {
+      "sourceId": "source:avitus-of-vienne-letter-46",
+      "role": "supports",
+      "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+    },
+    {
+      "sourceId": "source:shanzer-dating-baptism-of-clovis",
+      "role": "supports",
+      "locator": "pp. 29–31, 47–49 and 55–56. The traditional 496 chronology, the proposed identification of Avitus’s captives and the argument for Christmas 508."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "Book II, chapters 29–31. Clotilda, the vow against the Alamanni, Remigius of Reims and the framing of the baptism in terms of Constantine."
+    },
+    {
+      "sourceId": "source:saint-remi-reims-baptistery",
+      "role": "supports",
+      "locator": "Entry Baptême: the baptistery identified in the 1995 excavations beneath the cathedral and its proposed association with Clovis."
+    },
+    {
+      "sourceId": "source:gregory-tours-histories-ii-37",
+      "role": "supports",
+      "locator": "II.37. Passage through Touraine, hay taken from a poor man, defeat and death of Alaric and the losses among men from the Auvergne."
+    },
+    {
+      "sourceId": "source:mathisen-campus-vogladensis-2012",
+      "role": "supports",
+      "locator": "pp. 43–47 and 56–61. Distance from Poitiers in Gregory’s narrative, Vouillé and Voulon among the proposed battle locations."
+    },
+    {
+      "sourceId": "source:clovis-letter-to-the-bishops-bk1",
+      "role": "supports",
+      "locator": "No. 1, pp. 1–2: opening list of protected people and church property; injunction on ring-sealed episcopal letters for captives taken under the king’s peace and the truth of petitions."
+    },
+    {
+      "sourceId": "source:cologne-clovis-bishops-bk1",
+      "role": "supports",
+      "locator": "BK 1, Date and Transmission. Boretius dates the royal letter 507–511; the manuscripts place it in the canonical tradition."
+    },
+    {
+      "sourceId": "source:wood-arians-catholics-and-vouille",
+      "role": "supports",
+      "locator": "pp. 139–141: Gregory’s story about taking hay in Touraine, compared with the orders described in the royal letter."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "Book II.37, final sentence, and II.38. Gifts to Saint Martin, the documents from Anastasius, royal dress and public distribution of gold and silver in Tours."
+    },
+    {
+      "sourceId": "source:mathisen-clovis-anastasius-508",
+      "role": "supports",
+      "locator": "pp. 79–83 and 105–109. Account of the 508 visit in Histories II.37–38, ceremonial clothing, largesse and competing readings of the emperor’s honours."
+    },
+    {
+      "sourceId": "source:halfond-orleans-first-council",
+      "role": "supports",
+      "locator": "Opening and attendance paragraphs: 10 July 511 conclusion, the king’s summons, thirty-two bishops and their seven provinces."
+    },
+    {
+      "sourceId": "source:halfond-vouille-orleans-conciliar-tradition",
+      "role": "supports",
+      "locator": "pp. 161–163, especially p. 163 and n. 60. Cyprian of Bordeaux and five further bishops attended both Agde in 506 and Orléans in 511; canon 5 and prisoners."
+    },
+    {
+      "sourceId": "source:szafranowski-orleans-er1039",
+      "role": "supports",
+      "locator": "ER 1039, canon 5, Latin and translation: proceeds of gifts and fields from the king for buildings, support of priests and the poor, or ransoming captives."
+    }
+  ],
+  "labels": {
+    "de": "Chlodwig und seine Bischöfe",
+    "en": "Clovis and his bishops"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "artifact:remigius-advice-letter-to-clovis",
+    "artifact:avitus-letter-on-clovis-baptism",
+    "event:clovis-baptism-at-christmas",
+    "event:battle-near-poitiers-507",
+    "artifact:clovis-letter-on-captives",
+    "event:clovis-honours-at-tours-508",
+    "person:cyprian-of-bordeaux",
+    "event:first-council-of-orleans-511"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 2.25,
+      "latitude": 47.35,
+      "metersPerPixel": 2200,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 496,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 496,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 511,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 511,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "located-at",
+      "attested-at"
+    ]
+  },
+  "steps": [
+    {
+      "id": "baptism",
+      "textAnchor": "baptism",
+      "labels": {
+        "de": "496–508? · Ein Weihnachtsfest",
+        "en": "496–508? · A Christmas feast"
+      },
+      "summary": {
+        "de": "Der Punkt bezeichnet den Bischofssitz des Remigius in Reims. Die Taufe fiel auf ein Weihnachtsfest, dessen Jahr offen ist.",
+        "en": "The point locates Remigius’s episcopal see at Reims. The baptism took place at Christmas in an uncertain year."
+      },
+      "state": {
+        "camera": {
+          "longitude": 4.03,
+          "latitude": 49.27,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 496,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 496,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 508,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 508,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "vouille",
+      "textAnchor": "vouille",
+      "labels": {
+        "de": "507 · Chlodwig bei Poitiers",
+        "en": "507 · Clovis near Poitiers"
+      },
+      "summary": {
+        "de": "Dieselbe Schlacht wie im westgotischen Kapitel. Chlodwigs Brief wirft die Frage auf, wer nach dem Feldzug die Freilassung Verschleppter erreichen konnte.",
+        "en": "The same battle as in the Visigothic chapter. Clovis’s letter raises the question of who could secure a captive’s release afterwards."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.25,
+          "latitude": 46.51,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 507,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 507,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "tours",
+      "textAnchor": "tours",
+      "labels": {
+        "de": "508 · Kaiserliche Ehren in Tours",
+        "en": "508 · Imperial honours in Tours"
+      },
+      "summary": {
+        "de": "Nachdem Chlodwig in der Martinsbasilika aufgetreten war, verteilte er laut Gregor Gold und Silber in Tours.",
+        "en": "After appearing in the basilica of Saint Martin, Clovis distributed gold and silver in Tours, according to Gregory."
+      },
+      "state": {
+        "camera": {
+          "longitude": 0.69,
+          "latitude": 47.39,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 508,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 508,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    },
+    {
+      "id": "orleans",
+      "textAnchor": "orleans",
+      "labels": {
+        "de": "511 · Die Bischöfe in Orléans",
+        "en": "511 · The bishops at Orléans"
+      },
+      "summary": {
+        "de": "Cyprian von Bordeaux ist bei diesem Konzil und schon 506 in Agde bezeugt. Kanon 5 nennt den Loskauf Gefangener.",
+        "en": "Cyprian of Bordeaux attended this council and the one at Agde in 506. Canon 5 provides for ransoming captives."
+      },
+      "state": {
+        "camera": {
+          "longitude": 1.9,
+          "latitude": 47.9,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 511,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 511,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "located-at",
+          "attested-at"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Was konnte ein bischöflicher Siegelring für einen Gefangenen bedeuten? Briefe, der Sieg bei Vouillé und ein Konzil zeigen, mit wem Chlodwig nach dem Krieg regieren musste.",
+      "en": "What could a bishop’s signet ring mean to a captive? Letters, the victory near Vouillé and a council reveal whom Clovis needed to govern after the war."
+    },
+    "periods": [
+      {
+        "id": "early-middle-ages",
+        "labels": {
+          "de": "Frühmittelalter",
+          "en": "Early Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "merovingians",
+        "labels": {
+          "de": "Merowinger",
+          "en": "Merovingians"
+        }
+      }
+    ]
+  },
+  "recordIds": [
+    "artifact:avitus-letter-on-clovis-baptism",
+    "artifact:clovis-letter-on-captives",
+    "artifact:remigius-advice-letter-to-clovis",
+    "assertion:alaric-ii-army-near-poitiers-507",
+    "assertion:bishops-at-orleans-511",
+    "assertion:clovis-at-tours-508",
+    "assertion:clovis-near-poitiers-507",
+    "assertion:cyprian-of-bordeaux-at-agde-506",
+    "assertion:cyprian-of-bordeaux-at-orleans-511",
+    "assertion:delegates-at-agde-506",
+    "assertion:reims-episcopal-seat-under-remigius",
+    "community:bishops-and-delegates-at-agde",
+    "community:bishops-at-first-council-of-orleans",
+    "community:forces-of-alaric-ii-at-poitiers",
+    "event:anastasius-confers-honours-on-clovis",
+    "event:avitus-congratulates-clovis",
+    "event:battle-near-poitiers-507",
+    "event:clovis-baptism-at-christmas",
+    "event:clovis-honours-at-tours-508",
+    "event:clovis-writes-on-captives",
+    "event:council-at-agde-506",
+    "event:first-council-of-orleans-511",
+    "event:remigius-advises-clovis",
+    "geometry:agatha-agde-orientation",
+    "geometry:agde-council-context-506",
+    "geometry:battlefield-near-poitiers-507",
+    "geometry:merovingian-orleans-orientation",
+    "geometry:merovingian-orleans-urban-context",
+    "geometry:merovingian-reims-orientation",
+    "geometry:merovingian-tours-orientation",
+    "geometry:merovingian-tours-urban-context",
+    "geometry:poitiers-pictavis-orientation",
+    "organization:episcopal-see-of-reims",
+    "person:alaric-ii",
+    "person:anastasius-i",
+    "person:avitus-of-vienne",
+    "person:caesarius-of-arles",
+    "person:clovis-i",
+    "person:cyprian-of-bordeaux",
+    "person:remigius-of-reims",
+    "place:agatha-agde",
+    "place:merovingian-orleans",
+    "place:merovingian-reims",
+    "place:merovingian-tours",
+    "place:poitiers-pictavis",
+    "region:poitiers-battlefield-context",
+    "source:avitus-of-vienne-letter-46",
+    "source:barrett-woudhuysen-remigius-clovis",
+    "source:clovis-letter-to-the-bishops-bk1",
+    "source:cologne-clovis-bishops-bk1",
+    "source:gregory-histories-krusch-levison",
+    "source:gregory-tours-histories-ii-37",
+    "source:halfond-orleans-first-council",
+    "source:halfond-vouille-orleans-conciliar-tradition",
+    "source:mathisen-campus-vogladensis-2012",
+    "source:mathisen-clovis-anastasius-508",
+    "source:saint-remi-reims-baptistery",
+    "source:schenck-reims-in-merowingischer-zeit",
+    "source:shanzer-dating-baptism-of-clovis",
+    "source:szafranowski-council-agde-er903",
+    "source:szafranowski-orleans-er1039",
+    "source:usno-calendars",
+    "source:wikidata-place-coordinates",
+    "source:wood-arians-catholics-and-vouille"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bnf-tournai-signet-56-460",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "object",
+  "title": "« Fac-similé de l’anneau de Childéric », inv. 56.460",
+  "creators": [
+    "Bibliothèque nationale de France, département des Monnaies, médailles et antiques"
+  ],
+  "url": "https://medaillesetantiques.bnf.fr/ws/catalogue/app/collection/record/1407",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Museum record for the gilt electrotype. It distinguishes the lost original, surviving impressions and the production of the copy."
+}

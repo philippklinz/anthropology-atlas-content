@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:fulrad-of-saint-denis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heidrich-attigny-judgment",
+      "role": "supports",
+      "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+    },
+    {
+      "sourceId": "source:muehlbacher-pippin-verberie-752",
+      "role": "supports",
+      "locator": "Heading, opening and dating clause: 1 March 752, Verberie, rex Francorum. Narrative: Loba’s testament, Gislemar’s admission and surrender per festucam, Fulrad, and the preceding hearing before King Chilperic."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Abt Fulrad von Saint-Denis",
+    "en": "Abbot Fulrad of Saint-Denis"
+  },
+  "summary": {
+    "de": "Er vertrat seine Abtei in den Verfahren von Attigny und Verberie.",
+    "en": "He pleaded his abbey’s cases at the hearings at Attigny and Verberie."
+  }
+}

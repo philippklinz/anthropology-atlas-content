@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:merovingian-gold-coins",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Wer steht auf dem Geld der Merowinger?",
+    "en": "Whose name was on Merovingian money?"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:dorestad-madelinus-issues",
+    "artifact:madelinus-ghent-tremissis",
+    "artifact:madelinus-maastricht-thorn",
+    "artifact:oegstgeest-coin-330",
+    "artifact:oegstgeest-well-twelve",
+    "artifact:sutton-hoo-purse-gold",
+    "assertion:dorestad-moneyer-name",
+    "assertion:maastricht-thorn-coin",
+    "assertion:oegstgeest-well-twelve-timber",
+    "assertion:sutton-purse-deposit",
+    "asset:madelinus-ghent-both-sides",
+    "chapter:merovingian-gold-coins",
+    "event:dorestad-moneyer-name",
+    "event:maastricht-thorn-coin",
+    "event:oegstgeest-coin-striking",
+    "event:oegstgeest-well-twelve-timber",
+    "event:sutton-purse-deposit",
+    "geometry:dorestad-mint-context",
+    "geometry:dorestad-orientation",
+    "geometry:maastricht-on-the-meuse-mint-context",
+    "geometry:maastricht-on-the-meuse-orientation",
+    "geometry:oegstgeest-nieuw-rhijngeest-zuid-orientation",
+    "geometry:sutton-hoo-mound-one-orientation",
+    "person:madelinus-moneyer",
+    "place:dorestad",
+    "place:maastricht-on-the-meuse",
+    "place:oegstgeest-nieuw-rhijngeest-zuid",
+    "place:sutton-hoo-mound-one",
+    "source:berlin-madelinus-18208309",
+    "source:british-museum-sutton-hoo-gold",
+    "source:getty-tgn-dorestad",
+    "source:getty-tgn-maastricht",
+    "source:ghent-madelinus-obverse",
+    "source:ghent-madelinus-reverse",
+    "source:grierson-sutton-hoo-coins",
+    "source:jezeer-oegstgeest-excavation",
+    "source:maastricht-museum-early-crafts",
+    "source:museum-thorn-madelinus",
+    "source:national-trust-sutton-hoo-mound-one",
+    "source:tys-merovingian-river-traders"
+  ],
+  "entryChapterIds": [
+    "chapter:merovingian-gold-coins"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "image-viewer",
+    "migration-maps",
+    "network-basic"
+  ]
+}

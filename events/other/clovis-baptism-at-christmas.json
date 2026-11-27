@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:clovis-baptism-at-christmas",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:avitus-of-vienne-letter-46",
+      "role": "supports",
+      "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+    },
+    {
+      "sourceId": "source:shanzer-dating-baptism-of-clovis",
+      "role": "supports",
+      "locator": "pp. 29–31, 47–49 and 55–56. The traditional 496 chronology, the proposed identification of Avitus’s captives and the argument for Christmas 508."
+    },
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "Book II, chapters 29–31. Clotilda, the vow against the Alamanni, Remigius of Reims and the framing of the baptism in terms of Constantine."
+    },
+    {
+      "sourceId": "source:saint-remi-reims-baptistery",
+      "role": "supports",
+      "locator": "Entry Baptême: the baptistery identified in the 1995 excavations beneath the cathedral and its proposed association with Clovis."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Chlodwigs Taufe an Weihnachten",
+    "en": "The baptism of Clovis at Christmas"
+  },
+  "note": {
+    "de": "Die Taufe selbst bezeugt Avitus. Das Zeitfenster umfasst verschiedene vorgeschlagene Weihnachtsfeste. Für den Taufakt ist auf der Karte kein bestimmtes Gebäude eingetragen.",
+    "en": "Avitus attests the baptism. The time window spans proposed Christmas dates. No specific building is mapped as the venue of the rite."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 496,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 508,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:clovis-i",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:avitus-of-vienne-letter-46",
+          "role": "supports",
+          "locator": "Letter 46, pp. 75–76, especially p. 75 from Igitur qui celeber est natalis and p. 76 on the liberated captives. Avitus acknowledges his absence from the ceremony."
+        },
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "Book II, chapters 29–31. Clotilda, the vow against the Alamanni, Remigius of Reims and the framing of the baptism in terms of Constantine."
+        }
+      ]
+    },
+    {
+      "entityId": "person:remigius-of-reims",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "Book II, chapters 29–31. Clotilda, the vow against the Alamanni, Remigius of Reims and the framing of the baptism in terms of Constantine."
+        }
+      ]
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Taufe selbst bezeugt Avitus. Das Zeitfenster umfasst verschiedene vorgeschlagene Weihnachtsfeste. Für den Taufakt ist auf der Karte kein bestimmtes Gebäude eingetragen.",
+      "en": "Avitus attests the baptism. The time window spans proposed Christmas dates. No specific building is mapped as the venue of the rite."
+    }
+  }
+}

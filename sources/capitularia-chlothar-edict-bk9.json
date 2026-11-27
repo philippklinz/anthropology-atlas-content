@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:capitularia-chlothar-edict-bk9",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "archive",
+  "title": "Chlotharii II edictum [BK 9]",
+  "creators": [
+    "Karl Ubl and collaborators (editors)"
+  ],
+  "url": "https://capitularia.uni-koeln.de/en/capit/pre814/bk-nr-009/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "The Cologne catalogue identifies the edition, the date assigned by Pertz and Boretius, the manuscript and translations.",
+  "containerTitle": "Capitularia. Edition of the Frankish Capitularies"
+}

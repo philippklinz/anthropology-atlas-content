@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:chlodosind-daughter-of-brunhild",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-brehaut-selections",
+      "role": "supports",
+      "locator": "IX.20, Copy of the Agreement, preamble and clauses on Paris, Clodechild, Childebert’s children, Faileuba, Chlodosind, Galswinth’s cities, the leudes, travel and oaths."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chlodosinde, Tochter Brunichilds",
+    "en": "Chlodosind, Brunhild’s daughter"
+  },
+  "summary": {
+    "de": "Childeberts Schwester wird in der Schutzklausel für die königliche Familie eigens genannt.",
+    "en": "Childebert’s sister is named individually in the clause protecting the royal family."
+  }
+}

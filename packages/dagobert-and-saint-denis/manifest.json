@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "package",
+  "id": "package:dagobert-and-saint-denis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "labels": {
+    "de": "Dagobert und die Toten von Saint-Denis",
+    "en": "Dagobert and the Dead of Saint-Denis"
+  },
+  "defaultLanguage": "de",
+  "languages": [
+    "de",
+    "en"
+  ],
+  "dependencies": [],
+  "recordIds": [
+    "artifact:clovis-ii-saint-denis-privilege",
+    "artifact:dagobert-i-grave",
+    "artifact:dagobert-iticina-charter",
+    "artifact:dagobert-ursinus-beppoleno-charter",
+    "assertion:clovis-ii-charter-clichy-654",
+    "assertion:dagobert-burial-saint-denis-639",
+    "assertion:dagobert-charter-clichy-632-633",
+    "assertion:saint-denis-plot-paris-625",
+    "assertion:saint-denis-royal-burial-testimony-654",
+    "asset:dagobert-inheritance-papyrus",
+    "chapter:dagobert-and-saint-denis",
+    "event:chlothar-confirms-paris-plot-625",
+    "event:clovis-ii-confirms-saint-denis-654",
+    "event:dagobert-burial-saint-denis-639",
+    "event:dagobert-charter-at-clichy",
+    "geometry:clichy-locality",
+    "geometry:clichy-orientation",
+    "geometry:merovingian-paris-locality",
+    "geometry:merovingian-paris-orientation",
+    "geometry:saint-denis-basilica-locality",
+    "geometry:saint-denis-basilica-orientation",
+    "person:chlothar-ii",
+    "person:clovis-ii",
+    "person:dagobert-i",
+    "person:nanthild",
+    "place:clichy",
+    "place:merovingian-paris",
+    "place:paris-plot-of-baddos-son",
+    "place:saint-denis-basilica",
+    "source:archives-nationales-dagobert-papyrus-facsimile",
+    "source:artem-chlothar-paris-625",
+    "source:artem-clovis-parents-saint-denis",
+    "source:artem-dagobert-iticina",
+    "source:artem-dagobert-ursinus",
+    "source:atsma-vezin-saint-denis-654",
+    "source:cluny-merovingian-charters-2016",
+    "source:cmn-dagobert-tomb-narrative",
+    "source:cmn-history-saint-denis-basilica",
+    "source:cmn-saint-denis-site-coordinate",
+    "source:connected-communities-clippiacum",
+    "source:french-administrative-commune-centres",
+    "source:geschichtsquellen-gesta-dagoberti",
+    "source:koelzer-merovingian-charters-2001",
+    "source:saint-denis-excavated-necropolises",
+    "source:wallace-hadrill-fredegar-fourth-book"
+  ],
+  "entryChapterIds": [
+    "chapter:dagobert-and-saint-denis"
+  ],
+  "requiredCapabilities": [
+    "geo-basic",
+    "historical-time",
+    "network-basic",
+    "image-viewer",
+    "migration-maps"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cologne-clovis-bishops-bk1",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Chlodowici regis ad episcopos praeceptio [BK 1]",
+  "sourceType": "archive",
+  "creators": [
+    "Karl Ubl and collaborators"
+  ],
+  "containerTitle": "Capitularia. Edition of the Frankish Capitularies, University of Cologne",
+  "url": "https://capitularia.uni-koeln.de/en/capit/pre814/bk-nr-001/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Reference number BK 1, alternative dates assigned by editors, manuscript witnesses and translations."
+}

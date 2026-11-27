@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:clovis-letter-to-the-bishops-bk1",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Chlodowici regis ad episcopos epistola",
+  "sourceType": "book",
+  "creators": [
+    "Clovis I",
+    "Alfred Boretius (editor)"
+  ],
+  "containerTitle": "Monumenta Germaniae Historica, Capitularia regum Francorum I, no. 1, pp. 1–2",
+  "url": "https://www.dmgh.de/mgh_capit_1/index.htm#page/1/mode/1up",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Royal letter summarising instructions issued before the Gothic campaign and specifying the treatment of captives.",
+  "published": "1883"
+}

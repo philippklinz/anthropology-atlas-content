@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:gregory-of-tours",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-radegund-funeral-attestation-933",
+      "role": "supports",
+      "locator": "Attestation 933, Gregory, Glory of the Confessors 104: he went to Radegund’s community at Poitiers on hearing of her death."
+    },
+    {
+      "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+      "role": "supports",
+      "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Gregor von Tours",
+    "en": "Gregory of Tours"
+  },
+  "summary": {
+    "de": "Der Bischof von Tours berichtet über seine Reise nach Poitiers beim Tod Radegundes und über die Frauen aus Poitiers, die ihn in Tours aufsuchten.",
+    "en": "The bishop of Tours recounts travelling to Poitiers when Radegund died and later meeting the women of Poitiers who came to Tours."
+  }
+}

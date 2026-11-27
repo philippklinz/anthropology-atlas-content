@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:grandes-chroniques-pippin-and-childeric",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sainte-genevieve-ms782-107r-image",
+      "role": "supports",
+      "locator": "MS 782, fol. 107r, c. 1274. Object data, dimensions, source and public-domain reproduction; the catalogue and Hedeman below discuss the iconography."
+    },
+    {
+      "sourceId": "source:initiale-grandes-chroniques-ms782",
+      "role": "supports",
+      "locator": "Dating 1274 or soon afterwards, Saint-Denis. See the two records for f. 107 (decor 69170 upper register; 15146 lower register)."
+    },
+    {
+      "sourceId": "source:hedeman-royal-image-folio-107",
+      "role": "supports",
+      "locator": "Chapter 1, “The Royal House and the Abbey of Saint-Denis: A Shared History”, pp. 28–29, fig. 15 and notes 59–61: Stephen II crowns Pippin in the upper scene, Childeric takes the habit below, and the sequence gives prominence to Saint-Denis."
+    },
+    {
+      "sourceId": "source:initiale-f107r-pippins-coronation",
+      "role": "supports",
+      "locator": "Upper register, “Sujet”, “Mot clé” and “Notes”: Pippin kneels before a pope who puts a crown on his head; compare the lower register, notice 15146."
+    },
+    {
+      "sourceId": "source:initiale-f107r-monastic-habit",
+      "role": "supports",
+      "locator": "Lower register, “Sujet” and “Notes”: the catalogue adopts Hedeman’s Childeric identification and records an alternative reading by Boinet and Garnier, who identify Pippin’s brother Carloman."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Krone und Klostergewand auf Blatt 107",
+    "en": "Crown and monastic habit on folio 107"
+  },
+  "summary": {
+    "de": "Für Anne D. Hedeman setzt Papst Stephan II. oben Pippin die Krone auf. Unten sieht sie den abgesetzten Childerich III. Amédée Boinet und François Garnier erkennen hier Pippins Bruder Karlmann. Die Miniatur entstand um 1274, mehr als fünf Jahrhunderte nach diesen Vorgängen.",
+    "en": "Anne D. Hedeman identifies the pope crowning Pippin above as Stephen II and the man entering a monastery below as the deposed Childeric III. Amédée Boinet and François Garnier identify the latter as Pippin’s brother Carloman. The miniature was made around 1274, more than five centuries after these events."
+  }
+}

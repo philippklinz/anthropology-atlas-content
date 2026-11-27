@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:poitiers-nuns-at-tours-589",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+      "role": "supports",
+      "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+    },
+    {
+      "sourceId": "source:flierman-gregory-and-the-merovingian-letter",
+      "role": "supports",
+      "locator": "Section on the nuns of Poitiers, pp. 136–142; narrative setting of the 589 appeal, inserted letters in IX.39–42 and the episcopal tribunal of 590 in X.16."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Die Nonnen aus Poitiers suchen Gregor in Tours auf",
+    "en": "The nuns of Poitiers approach Gregory in Tours"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 589,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 589,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:clotild-nun-of-poitiers",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+          "role": "supports",
+          "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+        }
+      ]
+    },
+    {
+      "entityId": "person:basina-nun-of-poitiers",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+          "role": "supports",
+          "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+        }
+      ]
+    },
+    {
+      "entityId": "person:gregory-of-tours",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+          "role": "supports",
+          "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+        }
+      ]
+    },
+    {
+      "entityId": "community:nuns-from-poitiers-at-tours",
+      "role": "participant",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+          "role": "supports",
+          "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:merovingian-tours"
+  ],
+  "epistemic": {
+    "status": "attested"
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:merovingian-tours-orientation",
+      "role": "location"
+    }
+  ],
+  "note": {
+    "de": "Chrodechilde und Basina verließen mit weiteren Nonnen das Kloster. Gregor schildert, wie sie ihn in Tours um Unterstützung baten.",
+    "en": "Clotild and Basina left the convent with other nuns. Gregory recounts how they appealed to him for help in Tours."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:heidrich-attigny-judgment",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Die Urkunden der Arnulfinger: Urteil Pippins für Saint-Denis, Attigny, 20. Juni 751",
+  "sourceType": "archive",
+  "creators": [
+    "Ingrid Heidrich (editor)"
+  ],
+  "url": "https://www.dmgh.de/mgh_dd_arnulf/index.htm#page/49/mode/1up",
+  "language": "la",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Monumenta Germaniae Historica, Diplomata maiorum domus regiae e stirpe Arnulforum"
+}

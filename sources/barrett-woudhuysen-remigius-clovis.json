@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:barrett-woudhuysen-remigius-clovis",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Remigius and the “Important News” of Clovis Rewritten",
+  "sourceType": "article",
+  "creators": [
+    "Graham Barrett",
+    "George Woudhuysen"
+  ],
+  "containerTitle": "Antiquité Tardive 24, pp. 471–500",
+  "url": "https://nottingham-repository.worktribe.com/OutputFile/1068444",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Peer-reviewed manuscript with a fresh transcription and English translation of Epistola Austrasica 2, its textual history and the authors’ proposed later date.",
+  "published": "2016",
+  "identifiers": {
+    "doi": "10.1484/J.AT.5.112639"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bnf-tournai-bee-56-449",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "sourceType": "object",
+  "title": "« Abeille », inv. 56.449",
+  "creators": [
+    "Bibliothèque nationale de France, département des Monnaies, médailles et antiques"
+  ],
+  "url": "https://medaillesetantiques.bnf.fr/ws/catalogue/app/collection/notices/record/ark:/12148/c33gbrbwp",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "bibliographicNote": "Catalogue record of a surviving Tournai ornament. Its measurements, construction and changing recorded quantities can be read separately."
+}

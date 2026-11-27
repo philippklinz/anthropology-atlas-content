@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:clotild-nun-of-poitiers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-poitiers-nuns-at-tours-ix-39",
+      "role": "supports",
+      "locator": "IX.39, opening: Clotild, Basina, the group’s departure from Poitiers and appeal to Gregory in Tours, followed by the bishop’s version of his answer."
+    },
+    {
+      "sourceId": "source:flierman-gregory-and-the-merovingian-letter",
+      "role": "supports",
+      "locator": "Section on the nuns of Poitiers, pp. 136–142; narrative setting of the 589 appeal, inserted letters in IX.39–42 and the episcopal tribunal of 590 in X.16."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Chrodechilde, Nonne von Poitiers",
+    "en": "Clotild, nun of Poitiers"
+  },
+  "summary": {
+    "de": "Sie führte 589 eine Gruppe von Nonnen aus dem Kloster und wandte sich an Gregor. In seiner Erzählung tritt sie als Tochter König Chariberts auf.",
+    "en": "She led a group of nuns out of the convent in 589 and approached Gregory. She appears in his account as King Charibert’s daughter."
+  }
+}

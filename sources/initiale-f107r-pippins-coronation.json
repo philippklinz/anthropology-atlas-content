@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:initiale-f107r-pippins-coronation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Paris, Bibl. Sainte-Geneviève, 0782, f. 107: Couronnement de Pépin le Bref",
+  "sourceType": "catalog",
+  "creators": [
+    "Institut de recherche et d’histoire des textes (notices BSG and IRHT)"
+  ],
+  "url": "https://initiale.irht.cnrs.fr/decor/69170",
+  "language": "fr",
+  "accessedAt": "2026-11-27",
+  "containerTitle": "Initiale. Catalogue de manuscrits enluminés"
+}

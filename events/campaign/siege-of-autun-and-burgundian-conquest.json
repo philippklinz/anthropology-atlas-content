@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:siege-of-autun-and-burgundian-conquest",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:gregory-histories-krusch-levison",
+      "role": "supports",
+      "locator": "III.11. Chlothar and Childebert besiege Augustodunum. Godomar flees. Gregory links the siege with the acquisition of Burgundy."
+    },
+    {
+      "sourceId": "source:wiseman-autun-and-burgundy-534",
+      "role": "supports",
+      "locator": "p. 23 and nn. 64–65. Marius of Avenches, Chronica s.a. 534 (MGH AA 11, p. 235), for the partition among Childebert, Chlothar and Theudebert. The author places the start of the siege in late 533 or early 534."
+    },
+    {
+      "sourceId": "source:connected-communities-autun-292",
+      "role": "supports",
+      "locator": "Attestation 292. Gregory III.11, Latin and translation, siege of Autun and flight of Godomar. The record indexes the event under 534."
+    }
+  ],
+  "eventType": "campaign",
+  "labels": {
+    "de": "Die Belagerung von Autun",
+    "en": "The siege of Autun"
+  },
+  "note": {
+    "de": "Gregor bringt die Belagerung mit Godomars Flucht in Verbindung. Die Aufteilung Burgunds wird auf 534 datiert, der Beginn der Belagerung kann noch ins Vorjahr fallen.",
+    "en": "Gregory links the siege with Godomar’s flight. The division of Burgundy is dated to 534. The siege may have begun the previous year."
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 533,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 534,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "approximate"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:childebert-i",
+      "role": "commander",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "III.11. Chlothar and Childebert besiege Augustodunum. Godomar flees. Gregory links the siege with the acquisition of Burgundy."
+        }
+      ]
+    },
+    {
+      "entityId": "person:chlothar-i",
+      "role": "commander",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "III.11. Chlothar and Childebert besiege Augustodunum. Godomar flees. Gregory links the siege with the acquisition of Burgundy."
+        }
+      ]
+    },
+    {
+      "entityId": "person:godomar-of-burgundy",
+      "role": "opponent",
+      "sourceRefs": [
+        {
+          "sourceId": "source:gregory-histories-krusch-levison",
+          "role": "supports",
+          "locator": "III.11. Chlothar and Childebert besiege Augustodunum. Godomar flees. Gregory links the siege with the acquisition of Burgundy."
+        }
+      ]
+    }
+  ],
+  "placeIds": [
+    "place:autun-augustodunum"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:autun-siege-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Zeitraum berücksichtigt die Unsicherheit über den Beginn der Belagerung.",
+      "en": "The date range accommodates uncertainty about when the siege began."
+    }
+  }
+}

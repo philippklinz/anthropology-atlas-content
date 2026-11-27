@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:attigny-on-the-aisne-locality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:heidrich-attigny-judgment",
+      "role": "supports",
+      "locator": "No. 22, beginning on p. 49: original AN K 4 no. 7; Corbery, competing claims of Saint-Denis and Sept-Meules, and dating by Childeric’s ninth year."
+    },
+    {
+      "sourceId": "source:telma-pippin-attigny-751",
+      "role": "supports",
+      "locator": "No. 2921, Paris AN K 4 no. 7: original parchment; opening line names Pippin and Attigny, the following pleading names Fulrad, Ragana and her representative, the conclusion dates by Childeric."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q244711, coordinate location (P625), rounded to two decimal places."
+    }
+  ],
+  "geometryType": "Polygon",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Gerichtsbericht nennt die Pfalz von Attigny. Die Fläche markiert die Ortschaft, nicht den Grundriss der Pfalz.",
+    "en": "The record names the palace at Attigny. The area orients the reader to the settlement; the palace plan is unknown."
+  },
+  "rights": {
+    "license": "GPL-2.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors · schematic locality",
+    "originNote": "Original editorial outline around the open reference coordinate. Its edges have no archaeological or political significance."
+  }
+}
