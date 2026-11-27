@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-otis-route",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Isthmus of Panama. History of the Panama Railroad and of the Pacific Mail Steamship Company",
+  "url": "https://archive.org/details/cu31924021538214/page/39/mode/1up",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Fessenden Nott Otis"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1867"
+}

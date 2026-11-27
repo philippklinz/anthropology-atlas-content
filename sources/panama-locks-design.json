@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-locks-design",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Design of the Locks",
+  "url": "https://pancanal.com/en/design-of-the-locks/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

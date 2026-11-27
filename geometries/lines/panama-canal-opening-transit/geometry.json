@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:panama-canal-opening-transit",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-morning-journal",
+      "role": "derivation",
+      "locator": "Tenth year, no. 2948, 16 August 1914, p. 1, col. 3 (digital file, pp. 2–3). Account of the special train and sailing from Cristóbal, lunch and steward Leddeke, Gamboa and dredge crews, spectators at Pedro Miguel, the outer buoys, transfer to boats and the anthem for President Porras."
+    },
+    {
+      "sourceId": "source:panama-locks-august-1914-report",
+      "role": "derivation",
+      "locator": "Vol. VIII, no. 6, p. 52, letter dated 24 September 1914, opening paragraphs. The report distinguishes the 3 August Cristobal test to Balboa from the 15 August Ancon deep-water passage, then counts six vessels on 16 August."
+    },
+    {
+      "sourceId": "source:panama-locks-collier-map",
+      "role": "derivation",
+      "locator": "The New Encyclopedic Atlas and Gazetteer of the World (1914), p. 66. Map of the route through Gatún Lake and the cut to the Pacific locks, with the railway, grid index, settlement names and coastal approaches."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "LineString",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown",
+    "note": {
+      "de": "Die Punkte verbinden die im Zeitungsbericht genannten Orte nach einer Karte von 1914. Die Linie zeigt den ungefähren Weg einschließlich der pazifischen Anfahrt.",
+      "en": "Points connect places named in the newspaper account using a 1914 map. The line shows the approximate route, including the Pacific approach."
+    }
+  },
+  "processingNote": {
+    "de": "Die Linie folgt der Hinfahrt der Ancon am 15. August 1914. Von Cristóbal führte sie über Gatún, Gamboa, den Culebra-Einschnitt, Pedro Miguel und Miraflores an Balboa vorbei bis auf den Pazifik. Anschließend kehrte der Dampfer zur Ausschiffung nach Balboa zurück.",
+    "en": "The line follows the outward voyage of the Ancon on 15 August 1914. From Cristóbal the ship went by Gatún, Gamboa, Culebra Cut, Pedro Miguel and Miraflores, passing Balboa on its way into the Pacific. It then returned to Balboa to disembark its passengers."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors, schematic historical route.",
+    "originNote": "Original generalized line connecting documented historical localities. The archival sources and maps are cited separately."
+  }
+}

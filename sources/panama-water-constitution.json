@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-constitution",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Constitución Política de la República de Panamá",
+  "url": "https://constitucion.te.gob.pa/constitucion-vigente/",
+  "sourceType": "archive",
+  "language": "es",
+  "creators": [
+    "República de Panamá, Tribunal Electoral"
+  ],
+  "accessedAt": "2026-11-27"
+}

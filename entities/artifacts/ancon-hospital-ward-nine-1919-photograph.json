@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:ancon-hospital-ward-nine-1919-photograph",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-health-ward-nine-photo",
+      "role": "supports",
+      "locator": "National Archives Identifier 6120319, 185-G-16-1514, August 1919. National Archives Foundation, DocsTeach, “Citation” and item-specific “Rights: Public Domain”. The photographer is unnamed. The lower edge of the surviving print reads 284-X8, whereas the DocsTeach transcription renders 248-X8. Both identify the same image by title, month and NAID."
+    },
+    {
+      "sourceId": "source:panama-health-hospital-visiting-hours",
+      "role": "supports",
+      "locator": "The Panama Canal Record, vol. XIII, no. 1, 20 August 1919, printed p. 8 (PDF p. 26), table for the new hospital buildings. Section C, ward 9: 39 beds, official category “White foreign, male”. Wards 10–14 are separately classified. Compare visiting hours in sections A and C, and the note below the table assigning emergency passes to the section nurse."
+    },
+    {
+      "sourceId": "source:panama-health-doolittle-card",
+      "role": "supports",
+      "locator": "Service Records Cards, 1904–1920, series NAID 7226556. Illustration captioned “Miss Anna L. Doolittle, June 21, 1907 Service Card”, recto and verso, followed by Brown’s identification of her age, home in West Virginia and Ancon Hospital appointment. The full-size image linked farther down is separately identified as Ward 9, NAID 6120319."
+    },
+    {
+      "sourceId": "source:panama-health-ward-nine-mirror",
+      "role": "supports",
+      "locator": "Image 88b710, source “The U.S. National Archives”, copyright field “No known copyright restrictions”. The photographic caption dates the picture to August 1919, without a day. The matched, full-size scan of NAID 6120319 used here is the one provided by the Archives on its Rediscovering Black History page."
+    },
+    {
+      "sourceId": "source:canal-labour-brown-payroll",
+      "role": "supports",
+      "locator": "Prologue 29 (2). Notes 1 and 2 identify Commissary manager to J. F. Stevens, 15 February 1907, and Stevens to W. C. Gorgas, 30 November 1906, both RG 185, General Correspondence 1904–14, file 2-C-55, part 1. Quotations, financial bonds, equivalent silver pay and access to facilities appear in the opening discussion of the two rolls."
+    },
+    {
+      "sourceId": "source:panama-health-ancon-site",
+      "role": "supports",
+      "locator": "Ficha P1405, Antiguo Hospital Gorgas, Calle Gorgas y Calle Juan de Arco Galindo, Ancón, records 659775.38 E, 990772.36 N in WGS84 / UTM zone 17N, converted to 8.96024° N, 79.54667° W. Marks the hospital complex as rebuilt from 1915 to 1919. For the continuity of the French hospital site see Escobar, p. CXLIX, and MINSA. Individual wards and earlier pavilions are not fixed by this point."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Fotografie von Saal 9 im Krankenhaus Ancón",
+    "en": "Photograph of Ward 9 at Ancon Hospital"
+  }
+}

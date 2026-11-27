@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "assertion",
+  "id": "assertion:tug-gatun-in-the-old-locks",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-report-1914",
+      "role": "supports",
+      "locator": "Report of Electrical and Mechanical Engineer, pp. 115–116, “Up lockage of tug Gatun” and its return. Measured lift 64.7 feet. Pp. 118–119, first passage of the west chamber at Pedro Miguel by La Valley with Clapet No. 9 and barge No. 6, and trial at Gatún by the Ancon on 11 June."
+    },
+    {
+      "sourceId": "source:panama-locks-design",
+      "role": "supports",
+      "locator": "Paragraphs on lock steps and origin of construction cement, gravity and locomotives. Concluding paragraphs cover shovels 222 and 230 on 20 May 1913, locomotive 260 on 10 September, the Gatun tug on 26 September and Marmot’s December cut at Cucaracha."
+    },
+    {
+      "sourceId": "source:panama-locks-handbook-1915",
+      "role": "supports",
+      "locator": "Description of the canal, pp. 46–48, Gatun Lake, Gaillard Cut, Miraflores Lake and Locks. The bottom was 40 ft above sea level and the lake provided a channel 45 ft deep. P. 48 describes the paired chambers, three flights and the effect of Pacific tides on the lift at Miraflores."
+    },
+    {
+      "sourceId": "source:panama-locks-new-basins",
+      "role": "supports",
+      "locator": "Announcement, 5 February 2016, paragraphs on the basins at Agua Clara and Cocolí and reuse of water from Gatún Lake per lockage."
+    }
+  ],
+  "subjectId": "artifact:gatun-working-tug",
+  "predicate": "attested-at",
+  "objectId": "place:original-gatun-locks",
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1913,
+        "month": 9,
+        "day": 26
+      },
+      "latest": {
+        "year": 1913,
+        "month": 9,
+        "day": 26
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "spatial": [
+    {
+      "geometryId": "geometry:original-gatun-locks-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Am 26. September 1913 fuhr der Schlepper Gatun zur Probe durch die Schleusen von Gatún.",
+      "en": "The tug Gatun made a trial passage through Gatún Locks on 26 September 1913."
+    }
+  },
+  "note": {
+    "de": "Am 26. September 1913 fuhr der Schlepper Gatun zur Probe durch die Schleusen von Gatún.",
+    "en": "The tug Gatun made a trial passage through Gatún Locks on 26 September 1913."
+  }
+}

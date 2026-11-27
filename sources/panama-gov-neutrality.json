@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-neutrality",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal",
+  "url": "https://pancanal.com/wp-content/uploads/2022/07/NeutralityTreaty.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Republic of Panama and United States of America, Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1977"
+}

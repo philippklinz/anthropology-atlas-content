@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-agua-clara-visitor",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Centro de Visitantes de Agua Clara – Gatún",
+  "url": "https://visitcanaldepanama.com/es/sitios-de-interes/centro-de-visitantes-de-agua-clara/",
+  "sourceType": "website",
+  "language": "es",
+  "creators": [
+    "Autoridad del Canal de Panamá, Visita Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:philippe-bunau-varilla",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-gov-1903-treaty",
+      "role": "supports",
+      "locator": "Preamble and Articles I–III on independence, the two excluded cities and adjoining harbours, and exclusive exercise of powers. Article VII on water and sewers. The introductory dates distinguish signature and exchange of ratifications."
+    },
+    {
+      "sourceId": "source:panama-gov-1903-ratifications",
+      "role": "supports",
+      "locator": "FRUS 1904, Panama, doc. 542, diplomatic heading. Signed at Washington on 18 November 1903, ratified by Panama on 2 December, ratifications exchanged on 26 February 1904."
+    },
+    {
+      "sourceId": "source:panama-gov-us-isthmus",
+      "role": "supports",
+      "locator": "Sections on Colombia’s rejection of the Hay–Herrán Treaty, the November independence movement, US naval support and Bunau-Varilla’s engineering and diplomatic roles."
+    },
+    {
+      "sourceId": "source:panama-gov-washington-city",
+      "role": "supports",
+      "locator": "Gazetteer entry 4140963. City point only for the place of signature recorded in the diplomatic heading of the 1903 convention."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Philippe Bunau-Varilla",
+    "en": "Philippe Bunau-Varilla"
+  }
+}

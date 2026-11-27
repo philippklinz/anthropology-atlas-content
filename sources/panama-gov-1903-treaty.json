@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-1903-treaty",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Convention for the Construction of a Ship Canal",
+  "url": "https://avalon.law.yale.edu/20th_century/pan001.asp",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Republic of Panama and United States of America, Avalon Project, Yale Law School"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1903"
+}

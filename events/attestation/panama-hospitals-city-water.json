@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:panama-hospitals-city-water",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-health-rio-grande-supply",
+      "role": "supports",
+      "locator": "Societas 19 (1), 73–91, printed p. 78. Paragraph immediately preceding “El puerto de La Boca – Balboa”: engineers’ selection of the old French reservoir on the upper Río Grande and water running through Panama City’s mains on 4 July 1905."
+    },
+    {
+      "sourceId": "source:panama-health-fire-brigade",
+      "role": "supports",
+      "locator": "Passages following the reorganization under David H. Brandon. The hydrant system was inaugurated in Cathedral Square on 4 July 1905. At the Malambo fire of 12 January 1906 the firefighters used pumps connected to cisterns."
+    },
+    {
+      "sourceId": "source:panama-health-chiriboga-city",
+      "role": "supports",
+      "locator": "Printed pp. 178–179, paragraph beginning “Uno de tales proyectos”: the Star and Herald / La Estrella called for water mains in the 1880s for drinking water and fire protection and reported on the municipal water contract in 1888."
+    },
+    {
+      "sourceId": "source:panama-health-sutter-households",
+      "role": "supports",
+      "locator": "Environmental History 21 (2), 250–259. Final paragraphs before “Panamanian Resistance” and paragraphs 1–4 of that section, notes 11–15. Describes rainwater, water peddlers, cisterns and ceramic tinajas, the reach of the dipper, topping up jars, complaints when inspectors emptied them and reports of residents concealing their jars."
+    },
+    {
+      "sourceId": "source:panama-gov-cathedral-map",
+      "role": "supports",
+      "locator": "June 2022 table, region 2, entry no. 788, Plaza de La Catedral, San Felipe, 8.95276° N, 79.53502° W. Square-level location. For the January circular the square is an orientation point near the contemporary legation. The July hydrant ceremony is explicitly placed in the square by the Panamanian fire brigade."
+    },
+    {
+      "sourceId": "source:panama-water-rainfall-attribution",
+      "role": "supports",
+      "locator": "1 May 2024, opening four paragraphs, fig. 1 and Main findings. May–December 2023 rainfall near the Gatún catchment, lake levels, ship number and size restrictions, rising urban demand and leakage, influence of El Niño, differing station trends and insufficient evidence for attribution of observed drying to human-caused warming."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Hydranten auf dem Kathedralplatz",
+    "en": "Hydrants in Cathedral Square"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1905,
+        "month": 7,
+        "day": 4
+      },
+      "latest": {
+        "year": 1905,
+        "month": 7,
+        "day": 4
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "organization:panama-city-fire-brigade",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:panama-city-cathedral-square"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:panama-city-cathedral-square-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "In Panama-Stadt floss Wasser aus dem oberen Río Grande durch die neuen Leitungen. Die Feuerwehr überliefert die Einweihung der Hydranten auf dem Kathedralplatz und einen späteren Brand, bei dem sie noch Zisternen nutzte.",
+      "en": "Water from the upper Río Grande entered Panama City’s new mains. The fire brigade records the opening of the hydrant system in Cathedral Square and a subsequent fire at which it still used cisterns."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:canal-government-flag",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-gov-flag-witness",
+      "role": "supports",
+      "locator": "Printed pp. 107–108, Foreign Minister Solís on breaking relations. Pp. 109–112, Guevara Paz, “Relato objetivo de lo ocurrido en Balboa el jueves 9 de enero”, first published by La Estrella de Panamá, 14 January 1964. Includes Díaz, Gorgas Hospital, the delegation and the testimony attributed to Carranza."
+    },
+    {
+      "sourceId": "source:panama-gov-flag-restoration",
+      "role": "supports",
+      "locator": "Report of 9 January 2014. Identifies the Instituto Nacional flag, its custodians, movement to the Canal Museum in 2013, textile treatment in Spain and exhibition in the former Balboa school."
+    },
+    {
+      "sourceId": "source:panama-gov-later-negotiations",
+      "role": "supports",
+      "locator": "Paragraphs on the 1964 flag dispute, interruption and resumption of relations, and US Senate votes on the two treaties in 1978."
+    },
+    {
+      "sourceId": "source:panama-gov-balboa-school-map",
+      "role": "supports",
+      "locator": "OpenStreetMap way 609527463, Centro de Capacitación Ascanio Arosemena. Building point for the former school identified in the ACP exhibition notice. The map does not place individual marchers."
+    },
+    {
+      "sourceId": "source:panama-gov-1977-treaty-texts",
+      "role": "supports",
+      "locator": "Selected Documents no. 6C (January 1978), printed pp. 3–5, Washington signing ceremony and English translation of Torrijos’s reservations. Panama Canal Treaty, pp. 41–50, Articles II.2, III.3, XI.1–2 and XIII on the deadline, appointments, jurisdiction and property. Neutrality Treaty, pp. 51–52, Articles I–V. The Letter of Submittal, p. 6, distinguishes the joint declaration of 3 April 1964 from the two presidents’ agreement announced on 24 September 1965 to replace the 1903 convention."
+    },
+    {
+      "sourceId": "source:panama-gov-chiari-johnson-1964",
+      "role": "supports",
+      "locator": "FRUS, 1964–1968, volume XXXI, document 410, 3 April 1964, pp. 867–869. The presidents discuss restoring diplomatic relations, naming representatives and the absence of preconditions."
+    },
+    {
+      "sourceId": "source:panama-gov-robles-johnson-1965",
+      "role": "supports",
+      "locator": "24 September 1965. Presidential statements issued in Washington and Panama City, especially point 1 of the joint statement on the replacement of the 1903 treaty."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Schülerzeitung und eine beschädigte Fahne",
+    "en": "A school reporter and a torn flag"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1964,
+        "month": 1,
+        "day": 9
+      },
+      "latest": {
+        "year": 1964,
+        "month": 1,
+        "day": 9
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:guillermo-guevara-paz",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:instituto-nacional-flag-1964",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:balboa-high-school-panama"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:balboa-high-school-panama-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Jugendliche des Instituto Nacional bringen ihre Fahne zur Balboa High School. Der Schüler Guillermo Guevara Paz berichtet von seiner Unterredung mit der Polizei und veröffentlicht auch die Aussage des Fahnenträgers.",
+      "en": "Students from the Instituto Nacional bring their flag to Balboa High School. Guillermo Guevara Paz records his own exchange with police and the flag bearer’s account."
+    }
+  }
+}

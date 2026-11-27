@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:ancon-at-pedro-miguel-1914",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-ancon-photo",
+      "role": "supports",
+      "locator": "Record Group 185, local identifier 185-G-0888, NAID 100996356. View from Cerro Luisa, 15 August 1914. Cropped archival photograph, file page with creator, identified location, date and public-domain status."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Die Ancon fährt in die Schleusen von Pedro Miguel ein",
+    "en": "Ancon enters the locks at Pedro Miguel"
+  },
+  "alt": {
+    "de": "Blick vom Cerro Luisa auf das Dampfschiff mit zwei Schornsteinen im Zulauf zur östlichen Kammer. Menschen stehen auf den Schleusenmauern, die sich vor dem Schiff im Bild verzweigen.",
+    "en": "View from Cerro Luisa of the twin-funnelled steamer approaching the eastern chamber. People stand on the lock walls that branch apart ahead of the ship."
+  },
+  "entityIds": [
+    "artifact:ancon-1902-steamship"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Panama Railroad Company"
+    ],
+    "attribution": "Panama Railroad Company, 15 August 1914. U.S. National Archives and Records Administration, Record Group 185, 185-G-0888, NAID 100996356. Cropped public-domain reproduction via Wikimedia Commons. https://creativecommons.org/publicdomain/mark/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SS_Ancon_(1902_ship)_NARA_185-G-0888_cropped.jpg",
+    "originNote": "Web edition of the original 1444 × 1106 image. Resampled to 1420 × 1088 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

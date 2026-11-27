@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-locks-report-1916",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Annual Report of the Governor of the Panama Canal for the Fiscal Year Ended June 30, 1916",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W79-190d225b2467ed7aef6c0ca1eff5d3b7/pdf/GOVPUB-W79-190d225b2467ed7aef6c0ca1eff5d3b7.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Governor of The Panama Canal, Washington, Government Printing Office"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1916"
+}

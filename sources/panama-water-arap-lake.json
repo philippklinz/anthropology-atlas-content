@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-arap-lake",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Lago Gatún",
+  "url": "https://arap.gob.pa/wp-content/uploads/2024/08/Embalse-Lago-Gatun.pdf",
+  "sourceType": "catalog",
+  "language": "es",
+  "creators": [
+    "Autoridad de los Recursos Acuáticos de Panamá, citing Instituto Geográfico Nacional Tommy Guardia and MIDA-DINAAC"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-lasso-depopulation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "From Citizens to “Natives”: Tropical Politics of Depopulation at the Panama Canal Zone",
+  "url": "https://www.journals.uchicago.edu/doi/abs/10.1093/envhis/emv165",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Marixa Lasso"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2016"
+}

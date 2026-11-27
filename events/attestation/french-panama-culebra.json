@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:french-panama-culebra",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "International congress and its vote (Menocal, Lépinay and Pedro Sosa). The passages on Dingler, Boyer and Bunau-Varilla describe transport of spoil, earth slides, Jamaican labour and the July 1886 Culebra contract. “Gustave Eiffel” dates the 1887 report, 1888 construction under the amended plan and stoppage."
+    },
+    {
+      "sourceId": "source:panama-jamaica-migration",
+      "role": "supports",
+      "locator": "“Migration” exhibit, French-construction and railroad paragraphs. Figures for journeys in 1882–1884 (32,958 leaving and 14,962 returning) and earlier recruitment for the Panama Railroad. The exhibit attributes its series to McLean Petras."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein neuer Bauvertrag für Culebra",
+    "en": "A new contract for work at Culebra"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1886,
+        "month": 7,
+        "day": 1
+      },
+      "latest": {
+        "year": 1886,
+        "month": 7,
+        "day": 31
+      },
+      "precision": "month",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "organization:artigue-sonderegger-et-cie",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:culebra-cut-panama"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:culebra-cut-panama-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Artigue, Sonderegger et Cie. übernimmt Arbeiten im Einschnitt. Die Mannschaften müssen dem Hang Boden abgewinnen und den Aushub so weit abfahren, dass er auch bei Regen liegen bleibt.",
+      "en": "Artigue, Sonderegger et Cie. takes on work at the cut. Crews have to excavate the hillsides and carry the spoil far enough away to keep it out of the channel during the rains."
+    }
+  }
+}

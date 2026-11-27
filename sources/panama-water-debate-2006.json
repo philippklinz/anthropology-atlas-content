@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-debate-2006",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Panama: Political and Economic Conditions and U.S. Relations",
+  "url": "https://www.everycrsreport.com/files/20061116_RL30981_c9242129e613adefc053104bc690877222e5d640.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Mark P. Sullivan, Congressional Research Service"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2006"
+}

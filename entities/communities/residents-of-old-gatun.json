@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:residents-of-old-gatun",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-lost",
+      "role": "supports",
+      "locator": "La Prensa, 6 July 2014. The paragraphs beginning “A diferencia de lo que se cree comúnmente” and “Además, los trabajos del Canal” distinguish flooded Gorgona, the first relocation of Gatún and the later clearance of dry settlements. The preceding paragraphs reconstruct commerce and housing from tax records."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "supports",
+      "locator": "Cuadernos Nacionales 37, pp. 151–154, section “Estación de Gatún.” Figures 32 and 36 locate the original and relocated railway station and relate the latter to the buildings and shoreline. Figure 33 and the text on pp. 152–153 describe the platform, ticket office, telegraph and baggage room."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Bewohner des alten Gatún",
+    "en": "Residents of old Gatún"
+  }
+}

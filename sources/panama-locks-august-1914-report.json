@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-locks-august-1914-report",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Canal Work in August. Monthly Report of the Governor to the Secretary of War",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W79-026036a721139920c1d88e25d5e3d2ca/pdf/GOVPUB-W79-026036a721139920c1d88e25d5e3d2ca.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Governor of The Panama Canal, The Canal Record"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1914"
+}

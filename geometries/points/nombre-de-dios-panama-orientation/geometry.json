@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:nombre-de-dios-panama-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-maroon-town",
+      "role": "supports",
+      "locator": "Doctoral thesis, pp. 193–201 and figs. 15–26, survey near Nombre de Dios and ceramics of Lomita de Piedra. Section 5.1.1 on Luis de Mozambique. Conclusions 2–4, pp. 402–407, 1579 agreement, the rejected site, limited freedom, guarded coast, farm produce and the search for other fugitives."
+    },
+    {
+      "sourceId": "source:panama-crossing-nombre-point",
+      "role": "supports",
+      "locator": "TGN 7006459, inhabited place, coordinates 9.5790 N, 79.4710 W, and relationship to Santiago del Príncipe. The point marks the neighbouring port. The precise site of the maroon town remains uncertain."
+    },
+    {
+      "sourceId": "source:panama-crossing-nombre-point",
+      "role": "derivation",
+      "locator": "Getty TGN 7006459, location of Nombre de Dios as a reference for the bay. Hidalgo Pérez, pp. 193–201 and 404–405, proposes a hill near the coast but does not establish the site of Santiago del Príncipe."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Getty Research Institute.",
+    "sourceUrl": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=&subjectid=7006459",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

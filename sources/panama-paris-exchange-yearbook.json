@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-paris-exchange-yearbook",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Compagnie universelle du canal interocéanique de Panama",
+  "url": "https://dfih.fr/issuers/2563/yearbook-ocr?source=annuaire_cac_1903",
+  "sourceType": "archive",
+  "language": "fr",
+  "creators": [
+    "Chambre syndicale des agents de change de Paris, Annuaire des valeurs admises à la cote officielle. Data for Financial History, Paris School of Economics"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1903"
+}

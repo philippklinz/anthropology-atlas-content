@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:canal-government-independence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-gov-independence-act",
+      "role": "supports",
+      "locator": "Act of 4 November 1903, Gaceta Oficial núm. 1, 14 November 1903. Resolution on local adhesion to the new republic and the provisional junta."
+    },
+    {
+      "sourceId": "source:panama-gov-council",
+      "role": "supports",
+      "locator": "FRUS 1903, doc. 309, pp. 255–259. Enclosure B reprints the Star and Herald account of the invitation and Cathedral Park meeting and the text of the act, including the three members of the provisional junta. The covering report records the signing at Colón on 5 November."
+    },
+    {
+      "sourceId": "source:panama-gov-reyes",
+      "role": "supports",
+      "locator": "Note of 6 January 1904, FRUS 1903, doc. 322, pp. 306–308, declarations one to three. Colombian government account of the US naval intervention, the constitutional objection to the Hay–Herrán Treaty and the offer to resume negotiations."
+    },
+    {
+      "sourceId": "source:panama-gov-us-isthmus",
+      "role": "supports",
+      "locator": "Sections on Colombia’s rejection of the Hay–Herrán Treaty, the November independence movement, US naval support and Bunau-Varilla’s engineering and diplomatic roles."
+    },
+    {
+      "sourceId": "source:panama-gov-cathedral-map",
+      "role": "supports",
+      "locator": "June 2022 table, region 2, entry no. 788, Plaza de La Catedral, San Felipe. The access-point location places the public square. It cannot locate the speakers in 1903."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Stadt erklärt sich für unabhängig",
+    "en": "A city declares its independence"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1903,
+        "month": 11,
+        "day": 4
+      },
+      "latest": {
+        "year": 1903,
+        "month": 11,
+        "day": 4
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:demetrio-h-brid",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:panama-city-cathedral-square"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:panama-city-cathedral-square-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Am Tag nach der Trennung von Kolumbien lädt der Stadtrat zur Versammlung auf dem Kathedralplatz. Seine Urkunde nennt die drei Mitglieder der provisorischen Regierung.",
+      "en": "The day after the break with Colombia the council calls a public assembly in Cathedral Square. Its act names the three members of the provisional government."
+    }
+  }
+}

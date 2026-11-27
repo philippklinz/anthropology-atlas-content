@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-independence-act",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Acta de Independencia",
+  "url": "https://infojuridica.procuraduria-admon.gob.pa/norma_screen?numsec=49034",
+  "sourceType": "archive",
+  "language": "es",
+  "creators": [
+    "Concejo Municipal de Panamá, Procuraduría de la Administración"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1903"
+}

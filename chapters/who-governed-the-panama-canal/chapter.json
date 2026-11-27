@@ -1,0 +1,597 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:who-governed-the-panama-canal",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-gov-independence-act",
+      "role": "supports",
+      "locator": "Act of 4 November 1903, Gaceta Oficial núm. 1, 14 November 1903. Resolution on local adhesion to the new republic and the provisional junta."
+    },
+    {
+      "sourceId": "source:panama-gov-council",
+      "role": "supports",
+      "locator": "FRUS 1903, doc. 309, pp. 255–259. Enclosure B reprints the Star and Herald account of the invitation and Cathedral Park meeting and the text of the act, including the three members of the provisional junta. The covering report records the signing at Colón on 5 November."
+    },
+    {
+      "sourceId": "source:panama-gov-reyes",
+      "role": "supports",
+      "locator": "Note of 6 January 1904, FRUS 1903, doc. 322, pp. 306–308, declarations one to three. Colombian government account of the US naval intervention, the constitutional objection to the Hay–Herrán Treaty and the offer to resume negotiations."
+    },
+    {
+      "sourceId": "source:panama-gov-cathedral-map",
+      "role": "supports",
+      "locator": "June 2022 table, region 2, entry no. 788, Plaza de La Catedral, San Felipe. The access-point location places the public square. It cannot locate the speakers in 1903."
+    },
+    {
+      "sourceId": "source:panama-gov-1903-treaty",
+      "role": "supports",
+      "locator": "Preamble and Articles I–III on independence, the two excluded cities and adjoining harbours, and exclusive exercise of powers. Article VII on water and sewers. The introductory dates distinguish signature and exchange of ratifications."
+    },
+    {
+      "sourceId": "source:panama-gov-1903-ratifications",
+      "role": "supports",
+      "locator": "FRUS 1904, Panama, doc. 542, diplomatic heading. Signed at Washington on 18 November 1903, ratified by Panama on 2 December, ratifications exchanged on 26 February 1904."
+    },
+    {
+      "sourceId": "source:panama-gov-us-isthmus",
+      "role": "supports",
+      "locator": "Sections on Colombia’s rejection of the Hay–Herrán Treaty, the November independence movement, US naval support and Bunau-Varilla’s engineering and diplomatic roles."
+    },
+    {
+      "sourceId": "source:panama-gov-washington-city",
+      "role": "supports",
+      "locator": "Gazetteer entry 4140963. City point only for the place of signature recorded in the diplomatic heading of the 1903 convention."
+    },
+    {
+      "sourceId": "source:panama-gov-flag-witness",
+      "role": "supports",
+      "locator": "Printed pp. 107–108, Foreign Minister Solís on breaking relations. Pp. 109–112, Guevara Paz, “Relato objetivo de lo ocurrido en Balboa el jueves 9 de enero”, first published by La Estrella de Panamá, 14 January 1964. Includes Díaz, Gorgas Hospital, the delegation and the testimony attributed to Carranza."
+    },
+    {
+      "sourceId": "source:panama-gov-flag-restoration",
+      "role": "supports",
+      "locator": "Report of 9 January 2014. Identifies the Instituto Nacional flag, its custodians, movement to the Canal Museum in 2013, textile treatment in Spain and exhibition in the former Balboa school."
+    },
+    {
+      "sourceId": "source:panama-gov-balboa-school-map",
+      "role": "supports",
+      "locator": "OpenStreetMap way 609527463, Centro de Capacitación Ascanio Arosemena. Building point for the former school identified in the ACP exhibition notice. The map does not place individual marchers."
+    },
+    {
+      "sourceId": "source:panama-gov-later-negotiations",
+      "role": "supports",
+      "locator": "Paragraphs on the 1964 flag dispute, interruption and resumption of relations, and US Senate votes on the two treaties in 1978."
+    },
+    {
+      "sourceId": "source:panama-gov-1977-treaty-texts",
+      "role": "supports",
+      "locator": "Selected Documents no. 6C (January 1978), printed pp. 3–5, Washington signing ceremony and English translation of Torrijos’s reservations. Panama Canal Treaty, pp. 41–50, Articles II.2, III.3, XI.1–2 and XIII on the deadline, appointments, jurisdiction and property. Neutrality Treaty, pp. 51–52, Articles I–V. The Letter of Submittal, p. 6, distinguishes the joint declaration of 3 April 1964 from the two presidents’ agreement announced on 24 September 1965 to replace the 1903 convention."
+    },
+    {
+      "sourceId": "source:panama-gov-1977-gazette",
+      "role": "supports",
+      "locator": "Gaceta Oficial núm. 18451, 1 November 1977. Entry names the two instruments and the agreements implementing them, dates the signature, entry into force and noon termination of the canal treaty."
+    },
+    {
+      "sourceId": "source:panama-gov-neutrality",
+      "role": "supports",
+      "locator": "Articles I, II and IV establish permanent neutrality and peaceful transit on equal terms for vessels of all nations. Article V provides that Panama alone will operate the canal after the canal treaty expires."
+    },
+    {
+      "sourceId": "source:panama-gov-museo-soberania",
+      "role": "supports",
+      "locator": "Exhibition script, sections 4.4–4.5 on the ballot and debate under the military government, 5.1 on the end of the zone, 8.2 on training and constitutional change, and 8.3 on the two separate December ceremonies, participants and clock."
+    },
+    {
+      "sourceId": "source:panama-gov-oas-map",
+      "role": "supports",
+      "locator": "HALS DC-57, first descriptive sheet, Location. Survey coordinates refer to the headquarters property and garden, not to a seat in the Hall of the Americas."
+    },
+    {
+      "sourceId": "source:panama-gov-cristobal-cover",
+      "role": "supports",
+      "locator": "Slide 29, “Last Day of US-Run Post Offices”. The pictured cover has the Cristobal cancellation of 30 September 1979, green 25-cent Wallace stamp and rectangular handstamp for the last day of the Canal Zone Postal Service."
+    },
+    {
+      "sourceId": "source:panama-gov-cristobal-map",
+      "role": "supports",
+      "locator": "Panama Ports Company Cristobal, Descripción del puerto, posición geográfica (WGS). The harbour locates the postal town approximately. The historic postal counter is not identified by these coordinates."
+    },
+    {
+      "sourceId": "source:panama-gov-handover-site",
+      "role": "supports",
+      "locator": "Opening three paragraphs. Identifies the flag site outside the Administration Building and distinguishes the anniversary ceremony of 2019 from the transfer at noon on 31 December 1999."
+    },
+    {
+      "sourceId": "source:panama-gov-14-december",
+      "role": "supports",
+      "locator": "Opening paragraph of the statement dated 14 December 1999. Sets the international commemoration and Carter’s role apart from the transfer due on 31 December."
+    },
+    {
+      "sourceId": "source:panama-gov-administration-map",
+      "role": "supports",
+      "locator": "Coordinate statement for the listed Canal Administration Building in Ancón, monument PA-08-120. The building is mapped to orient the ceremony outside it."
+    },
+    {
+      "sourceId": "source:panama-gov-treaty-handshake",
+      "role": "supports",
+      "locator": "NAID 176083, White House Staff Photographs Collection, 7 September 1977. File description and public-domain declaration for the 2,971 by 2,025 pixel reproduction."
+    },
+    {
+      "sourceId": "source:panama-gov-chiari-johnson-1964",
+      "role": "supports",
+      "locator": "FRUS, 1964–1968, volume XXXI, document 410, 3 April 1964, pp. 867–869. The presidents discuss restoring diplomatic relations, naming representatives and the absence of preconditions."
+    },
+    {
+      "sourceId": "source:panama-gov-robles-johnson-1965",
+      "role": "supports",
+      "locator": "24 September 1965. Presidential statements issued in Washington and Panama City, especially point 1 of the joint statement on the replacement of the 1903 treaty."
+    }
+  ],
+  "labels": {
+    "de": "Wer bestimmte über den Panamakanal?",
+    "en": "Who governed the Panama Canal?"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:canal-government-independence",
+    "event:canal-government-zone-treaty",
+    "event:canal-government-flag",
+    "event:canal-government-treaties",
+    "event:canal-government-transition",
+    "event:canal-government-handover",
+    "asset:carter-torrijos-handshake-washington-1977"
+  ],
+  "recordIds": [
+    "artifact:cristobal-last-day-postal-cover-1979",
+    "artifact:instituto-nacional-flag-1964",
+    "asset:carter-torrijos-handshake-washington-1977",
+    "event:canal-government-flag",
+    "event:canal-government-handover",
+    "event:canal-government-independence",
+    "event:canal-government-transition",
+    "event:canal-government-treaties",
+    "event:canal-government-zone-treaty",
+    "geometry:balboa-high-school-panama-orientation",
+    "geometry:cristobal-port-panama-orientation",
+    "geometry:pan-american-union-building-washington-orientation",
+    "geometry:panama-canal-administration-building-orientation",
+    "geometry:panama-city-cathedral-square-orientation",
+    "geometry:washington-district-of-columbia-orientation",
+    "organization:panama-canal-commission",
+    "person:demetrio-h-brid",
+    "person:guillermo-guevara-paz",
+    "person:jimmy-carter",
+    "person:john-hay",
+    "person:louis-caldera",
+    "person:mireya-moscoso",
+    "person:omar-torrijos-herrera",
+    "person:philippe-bunau-varilla",
+    "person:rafael-reyes-colombia",
+    "place:balboa-high-school-panama",
+    "place:cristobal-port-panama",
+    "place:pan-american-union-building-washington",
+    "place:panama-canal-administration-building",
+    "place:panama-city-cathedral-square",
+    "place:washington-district-of-columbia",
+    "source:panama-gov-14-december",
+    "source:panama-gov-1903-ratifications",
+    "source:panama-gov-1903-treaty",
+    "source:panama-gov-1977-gazette",
+    "source:panama-gov-1977-treaty-texts",
+    "source:panama-gov-administration-map",
+    "source:panama-gov-balboa-school-map",
+    "source:panama-gov-cathedral-map",
+    "source:panama-gov-chiari-johnson-1964",
+    "source:panama-gov-council",
+    "source:panama-gov-cristobal-cover",
+    "source:panama-gov-cristobal-map",
+    "source:panama-gov-flag-restoration",
+    "source:panama-gov-flag-witness",
+    "source:panama-gov-handover-site",
+    "source:panama-gov-independence-act",
+    "source:panama-gov-later-negotiations",
+    "source:panama-gov-museo-soberania",
+    "source:panama-gov-neutrality",
+    "source:panama-gov-oas-map",
+    "source:panama-gov-reyes",
+    "source:panama-gov-robles-johnson-1965",
+    "source:panama-gov-treaty-handshake",
+    "source:panama-gov-us-isthmus",
+    "source:panama-gov-washington-city",
+    "source:panama-health-barrett-circular",
+    "source:panama-health-barrett-legation",
+    "source:panama-health-chiriboga-city",
+    "source:panama-health-chiriboga-zone",
+    "source:panama-health-fire-brigade",
+    "source:panama-health-guardia-regulations",
+    "source:panama-health-rio-grande-supply",
+    "source:panama-health-sutter-households",
+    "source:panama-locks-august-1914-report",
+    "source:panama-locks-collier-map",
+    "source:panama-locks-morning-journal",
+    "source:panama-water-rainfall-attribution"
+  ],
+  "steps": [
+    {
+      "id": "independence",
+      "textAnchor": "independence",
+      "labels": {
+        "de": "4. November 1903 · Eine Stadt erklärt sich für unabhängig",
+        "en": "4 November 1903 · A city declares its independence"
+      },
+      "summary": {
+        "de": "Am Tag nach der Trennung von Kolumbien lädt der Stadtrat zur Versammlung auf dem Kathedralplatz. Seine Urkunde nennt die drei Mitglieder der provisorischen Regierung.",
+        "en": "The day after the break with Colombia the council calls a public assembly in Cathedral Square. Its act names the three members of the provisional government."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.53502,
+          "latitude": 8.95276,
+          "metersPerPixel": 110,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1903,
+              "month": 11,
+              "day": 4
+            },
+            "latest": {
+              "year": 1903,
+              "month": 11,
+              "day": 4
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "zone-treaty",
+      "textAnchor": "zone-treaty",
+      "labels": {
+        "de": "18. November 1903 · Zwei Unterschriften und zehn Meilen Land",
+        "en": "18 November 1903 · Two signatures and ten miles of land"
+      },
+      "summary": {
+        "de": "John Hay und Philippe Bunau-Varilla unterzeichnen in Washington. Die Artikel II und III bestimmen die Ausdehnung der Zone und die Befugnisse, die die Vereinigten Staaten dort ausüben sollen.",
+        "en": "John Hay and Philippe Bunau-Varilla sign in Washington. Articles II and III define the extent of the zone and the powers the United States will exercise there."
+      },
+      "state": {
+        "camera": {
+          "longitude": -77.03637,
+          "latitude": 38.89511,
+          "metersPerPixel": 430,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1903,
+              "month": 11,
+              "day": 18
+            },
+            "latest": {
+              "year": 1903,
+              "month": 11,
+              "day": 18
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "flag",
+      "textAnchor": "flag",
+      "labels": {
+        "de": "9. Januar 1964 · Eine Schülerzeitung und eine beschädigte Fahne",
+        "en": "9 January 1964 · A school reporter and a torn flag"
+      },
+      "summary": {
+        "de": "Jugendliche des Instituto Nacional bringen ihre Fahne zur Balboa High School. Der Schüler Guillermo Guevara Paz berichtet von seiner Unterredung mit der Polizei und veröffentlicht auch die Aussage des Fahnenträgers.",
+        "en": "Students from the Instituto Nacional bring their flag to Balboa High School. Guillermo Guevara Paz records his own exchange with police and the flag bearer’s account."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.55725,
+          "latitude": 8.95859,
+          "metersPerPixel": 95,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1964,
+              "month": 1,
+              "day": 9
+            },
+            "latest": {
+              "year": 1964,
+              "month": 1,
+              "day": 9
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "treaties",
+      "textAnchor": "treaties",
+      "labels": {
+        "de": "7. September 1977 · Zwei Verträge kommen zur Abstimmung",
+        "en": "7 September 1977 · Two treaties on the ballot"
+      },
+      "summary": {
+        "de": "Omar Torrijos und Jimmy Carter unterzeichnen den befristeten Kanalvertrag und den Vertrag über dauernde Neutralität. In Panama können die Wähler im Oktober über beide gemeinsam abstimmen.",
+        "en": "Omar Torrijos and Jimmy Carter sign a canal treaty with an expiry date and a treaty establishing permanent neutrality. Panamanian voters decide on the two together in October."
+      },
+      "state": {
+        "camera": {
+          "longitude": -77.04096,
+          "latitude": 38.89287,
+          "metersPerPixel": 110,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1977,
+              "month": 9,
+              "day": 7
+            },
+            "latest": {
+              "year": 1977,
+              "month": 9,
+              "day": 7
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:carter-torrijos-handshake-washington-1977"
+    },
+    {
+      "id": "transition",
+      "textAnchor": "transition",
+      "labels": {
+        "de": "1. Oktober 1979 · Der letzte Stempel von Cristóbal",
+        "en": "1 October 1979 · The last postmark at Cristóbal"
+      },
+      "summary": {
+        "de": "Mit dem Inkrafttreten des Vertrags endet die Kanalzone. Ein Briefumschlag trägt den Stempel der Zonenpost von Cristóbal vom Vortag. Den Kanalbetrieb führt eine US-Behörde mit panamaischer Beteiligung fort.",
+        "en": "The treaty takes effect and the Canal Zone comes to an end. A cover bears the Cristóbal postmark from the day before. A US agency with Panamanian representation continues to run the canal."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.90611,
+          "latitude": 9.35329,
+          "metersPerPixel": 315,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1979,
+              "month": 10,
+              "day": 1
+            },
+            "latest": {
+              "year": 1979,
+              "month": 10,
+              "day": 1
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "handover",
+      "textAnchor": "handover",
+      "labels": {
+        "de": "31. Dezember 1999, 12 Uhr Ortszeit · Zwei Feiern und ein genauer Zeitpunkt",
+        "en": "31 December 1999, noon Panama time · Two ceremonies and an hour set by treaty"
+      },
+      "summary": {
+        "de": "Vor dem Verwaltungsgebäude in Balboa zählt eine Uhr die Zeit bis zur Übergabe. Um zwölf Uhr mittags übernimmt Panama den Betrieb. Die internationale Feier in Miraflores lag bereits siebzehn Tage zurück.",
+        "en": "A clock outside the Administration Building in Balboa counts down to the handover. Panama takes over at noon, seventeen days after the international ceremony at Miraflores."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.55489,
+          "latitude": 8.95961,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1999,
+              "month": 12,
+              "day": 31
+            },
+            "latest": {
+              "year": 1999,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Stadtrat erklärt die Trennung von Kolumbien. Schüler aus Panama tragen ihre Fahne in die Kanalzone. Wie aus Befugnissen auf Dauer ein Vertrag mit Ablaufdatum wurde, lässt sich bis zur letzten Stunde der Übergabe verfolgen.",
+      "en": "A city council declares a break with Colombia. Panamanian students carry their flag into the Canal Zone. Powers once granted in perpetuity give way to a treaty that names the very hour of the transfer."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "diplomacy",
+        "labels": {
+          "de": "Diplomatie",
+          "en": "Diplomacy"
+        }
+      },
+      {
+        "id": "charters-and-law",
+        "labels": {
+          "de": "Urkunden und Recht",
+          "en": "Charters and law"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      },
+      {
+        "id": "north-america",
+        "labels": {
+          "de": "Nordamerika",
+          "en": "North America"
+        }
+      },
+      {
+        "id": "south-america",
+        "labels": {
+          "de": "Südamerika",
+          "en": "South America"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -78.47124,
+      "latitude": 23.92394,
+      "metersPerPixel": 17286,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1903,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1903,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1999,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1999,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

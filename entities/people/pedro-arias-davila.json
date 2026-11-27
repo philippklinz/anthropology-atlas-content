@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:pedro-arias-davila",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-maize",
+      "role": "supports",
+      "locator": "Latin American Antiquity 28(1), pp. 127–143. For the 1519 foundation and its date see pp. 128–130. Figure 2, figure 3 and tables 1–2, pp. 129–134, locate the five grinding tools, stratigraphic contexts and thirteen grains identified as maize. Discussion of wild food and shellfish on pp. 137–139."
+    },
+    {
+      "sourceId": "source:panama-crossing-geoarchaeology",
+      "role": "supports",
+      "locator": "Sections 1.1–1.2 and figure 3. Coastal habitats, shellfish, sixth-century human remains, the Indigenous settlement at Morelos Park and instructions for Spanish port foundations."
+    },
+    {
+      "sourceId": "source:panama-crossing-viejo-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1582rev-005, Archaeological Site of Panamá Viejo, 9°00′23.97″ N, 79°29′06.98″ W. General point for the site. Aceituno and Martín figure 2 locates the excavated square and neighbouring properties within it."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Pedro Arias Dávila",
+    "en": "Pedro Arias Dávila"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:agua-clara-visitor-center-panama-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-new-basins",
+      "role": "supports",
+      "locator": "Announcement, 5 February 2016, paragraphs on the basins at Agua Clara and Cocolí and reuse of water from Gatún Lake per lockage."
+    },
+    {
+      "sourceId": "source:panama-water-expansion-proposal",
+      "role": "supports",
+      "locator": "24 April 2006. Section 1, p. 3 and fig. 1, two existing lanes, new locks at both ends, channels and maximum lake level. Section 5.6, pp. 47–48, fig. 32 and note 78, gravity, three basins per chamber, 60% reuse within the new system and projected 7% less water per transit than the old locks. Section 7, p. 53, proposal using existing reservoirs."
+    },
+    {
+      "sourceId": "source:panama-water-agua-clara-visitor",
+      "role": "supports",
+      "locator": "“Centro de Visitantes de Agua Clara – Gatún” and “Exhibición panorámica”. The public visitor site overlooks the Caribbean-side works near Colón."
+    },
+    {
+      "sourceId": "source:panama-water-agua-clara-point",
+      "role": "derivation",
+      "locator": "The public visitor centre overlooks the lock complex. Rounded from OpenStreetMap node 4593152300 to mark the area."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: OpenStreetMap contributors, via Mapcarta.",
+    "sourceUrl": "https://mapcarta.com/N4593152300",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

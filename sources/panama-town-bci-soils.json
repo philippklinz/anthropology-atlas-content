@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-bci-soils",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Soil Survey of Barro Colorado Island, Panama: Introduction",
+  "url": "https://striresearch.si.edu/bci-soil-map/content/",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "Smithsonian Tropical Research Institute"
+  ],
+  "accessedAt": "2026-11-27"
+}

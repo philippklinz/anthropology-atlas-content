@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:canal-towns-chagres",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-lasso-depopulation",
+      "role": "supports",
+      "locator": "In Ashley Carse et al., Panama Canal Forum, Environmental History 21(2), pp. 240–249. See pp. 241–242 on the dry site of New Gatún and its 1914 clearance, pp. 246–247 on Chagres, and p. 249, notes 26–30, on the 8 December 1915 request, Panama’s reply, the residents’ acta dated 31 January 1916 and the moving-cost correspondence."
+    },
+    {
+      "sourceId": "source:panama-town-ensenat-claim",
+      "role": "supports",
+      "locator": "The Canal Record, vol. VIII. Joint Land Commission, docket 1884, opinion of 26 October 1914. Reproduces the executive order signed 5 December 1912 and the 5 June 1914 cancellation notice for Lot 8, Block 5, village of Empire. The final paragraphs establish the commission’s jurisdiction over this leasehold claim."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-lost",
+      "role": "supports",
+      "locator": "La Prensa, 6 July 2014. The paragraphs beginning “A diferencia de lo que se cree comúnmente” and “Además, los trabajos del Canal” distinguish flooded Gorgona, the first relocation of Gatún and the later clearance of dry settlements. The preceding paragraphs reconstruct commerce and housing from tax records."
+    },
+    {
+      "sourceId": "source:panama-town-de-gracia-chagres",
+      "role": "supports",
+      "locator": "Memorias 58, pp. 23–25. Panamanian foreign ministry, 1916, pp. 331–332, records the 31 January inspection and the selection by local officials and residents of the site opposite the village of Lagarto. The Canal Record, 14 June 1916, p. 365, reports the first trip with residents, household goods and animals. Descendants recall that some families settled elsewhere. DOI 10.14482/memor.58.121.526."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Goethals verlangt das Land an der Chagresmündung",
+    "en": "Goethals requests the land at the mouth of the Chagres"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1915,
+        "month": 12,
+        "day": 8
+      },
+      "latest": {
+        "year": 1915,
+        "month": 12,
+        "day": 8
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "place:old-chagres-by-san-lorenzo",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:old-chagres-by-san-lorenzo"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:old-chagres-by-san-lorenzo-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Goethals verlangt von Präsident Porras den alten Hafen. Der Bürgermeister und weitere Einwohner wählen im Januar 1916 einen neuen Standort an der Mündung des Río Lagarto. Im Juni beginnt der Umzug.",
+      "en": "Goethals asks President Porras for the old port. In January 1916 the mayor and other residents select a new site at the mouth of the Lagarto River. The move begins in June."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-hernandez-nurses",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Los hombres hicieron el Canal ... pero las mujeres ayudaron",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CZ1-6eb2f0903fffc08c361f0b01ce8a3788/pdf/GOVPUB-CZ1-6eb2f0903fffc08c361f0b01ce8a3788.pdf",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Fannie P. Hernández"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1976"
+}

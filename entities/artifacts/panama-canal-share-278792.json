@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:panama-canal-share-278792",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-paris-exchange-yearbook",
+      "role": "supports",
+      "locator": "1903 yearbook entry, issuer 2563. “Siège”, “Capital social”, “Titres” and “Emprunts. I” specify the Paris office, 10,000 shares contributed to the concession holder, public subscription of 590,000 on 8–9 December 1880, bearer shares and the bond issue used to buy railroad stock."
+    },
+    {
+      "sourceId": "source:panama-edhac-share-278792",
+      "role": "supports",
+      "locator": "Full front, 2,359 × 2,156 pixels. Central face, 500 francs nominal and 250 paid. Figures labelled North and South America, right-to-subscribe stamp above, Bayonne receipts for February and September 1886 below. The 1880 dates printed at the top concern the statutes. Public-domain statement on the file page."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Kanalaktie Nr. 278792",
+    "en": "Canal share certificate no. 278792"
+  }
+}

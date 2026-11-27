@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-pierce-1904",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sanitary Report of Panama and Vicinity",
+  "url": "https://stacks.cdc.gov/view/cdc/66918/cdc_66918_DS1.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Claude C. Pierce, United States Public Health and Marine-Hospital Service"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1904"
+}

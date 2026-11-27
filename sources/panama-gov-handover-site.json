@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-handover-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Panamá celebra 20 años de la transferencia del Canal con izada de la bandera",
+  "url": "https://pancanal.com/panama-celebra-20-anos-de-la-transferencia-del-canal-con-izada-de-la-bandera/",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2019"
+}

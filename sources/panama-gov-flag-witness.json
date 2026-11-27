@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-flag-witness",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Los sucesos del 9 de enero de 1964. Antecedentes históricos",
+  "url": "https://binal.ac.pa/wp-content/uploads/r_dig/ALT_Tomo_VII_PARTE_1.pdf",
+  "sourceType": "archive",
+  "language": "es",
+  "creators": [
+    "Guillermo Guevara Paz, Galileo Solís and Revista Lotería, Biblioteca de la Nacionalidad, Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1999"
+}

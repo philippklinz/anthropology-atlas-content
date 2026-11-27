@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:canal-zone-silver-roll-strikers",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-maloney-strike",
+      "role": "supports",
+      "locator": "Biblioteca Nacional de Panamá, ‘Martes 24 de febrero de 1920’, printed pp. 341–344: strike call, itemised demands, Governor Harding's refusal to conclude an agreement with a committee. The dated chronology distinguishes the strike call and walkout from preparatory activity."
+    },
+    {
+      "sourceId": "source:canal-labour-governor-1920",
+      "role": "supports",
+      "locator": "Governor's report, pp. 26–27, increases in living costs, demand for seven cents per hour, participation estimate and terms of re-employment. Chief Quartermaster's report, ‘Strike of silver employees’, pp. 135–136, commissary disruptions and volunteer replacements."
+    },
+    {
+      "sourceId": "source:canal-labour-colon-strike",
+      "role": "supports",
+      "locator": "Paragraph beginning ‘El gobernador de la Zona del Canal de Panamá’, on the 24 February walkout and strong participation in Colón. Accounts differ on the overall number, for which the chapter explicitly attributes its range to the governor’s report."
+    },
+    {
+      "sourceId": "source:panama-crossing-colon-point",
+      "role": "supports",
+      "locator": "TGN 7006458, coordinates 9.3500 N, 79.9000 W, Aspinwall as alternative name, historical note on the northern terminus. City-level point on Manzanillo Island."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Streikende der Silberliste in der Kanalzone",
+    "en": "Striking Silver Roll workers in the Canal Zone"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-minsa-ancon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sede del Minsa: Un edificio plagado de historias",
+  "url": "https://www.minsa.gob.pa/centro-de-prensa/noticias/sede-del-minsa-un-edificio-plagado-de-historias",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Ministerio de Salud, República de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2021"
+}

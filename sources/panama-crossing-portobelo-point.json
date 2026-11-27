@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-portobelo-point",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo. Maps",
+  "url": "https://whc.unesco.org/en/list/0135/maps/",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "accessedAt": "2026-11-27"
+}

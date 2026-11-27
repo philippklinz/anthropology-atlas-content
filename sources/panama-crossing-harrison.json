@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-harrison",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Map of the Isthmus of Panama representing the line of the Panama Rail Road as constructed under the direction of George M. Totten, Chief Engineer &c.",
+  "url": "https://www.biodiversitylibrary.org/item/238774",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Thomas Harrison",
+    "R. F. Storm",
+    "Endicott & Co."
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1857"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-maroon-town",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Una historia atlántica en el Panamá del siglo XVI: los «Negros de Portobelo» y la villa de Santiago del Príncipe",
+  "url": "https://diposit.ub.edu/server/api/core/bitstreams/bf3707e4-00bc-4f09-bf05-243e07b34aed/content",
+  "sourceType": "book",
+  "language": "es",
+  "creators": [
+    "Marta Hidalgo Pérez, Universitat de Barcelona"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2018"
+}

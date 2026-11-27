@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-wyse-concession-acts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Canal de Panama, actes de concession",
+  "url": "https://www.loc.gov/item/ltf91029421/",
+  "sourceType": "archive",
+  "language": "fr",
+  "creators": [
+    "Compagnie nouvelle du canal de Panama, Law Library of Congress"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:passengers-of-the-1855-panama-railway-crossing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-harrison",
+      "role": "supports",
+      "locator": "Smithsonian Libraries and Archives, BHL item 238774, single foldout map, compiled from the original surveys, 1857. Compare the Chagres, the railway alignment, and the track profile along the left edge. Item-level Copyright & Usage identifies the work as public domain; DOI 10.5962/bhl.title.140712."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-images",
+      "role": "supports",
+      "locator": "“Panama Railroad at the Summit, 1855”, on the last rail laid 27 January and Robert Tomes’s account of buying oranges in the first year. Also “Barbacoas Bridge” and view of Front Street in Colón."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-economy",
+      "role": "supports",
+      "locator": "“Inversión extranjera y la construcción de la línea férrea”, passages on Manzanillo Island, the two port names, construction begun in 1850, 47.5 miles, the inauguration on 28 January 1855 and class fares. Later discussion of the French purchase of over 98% of railroad shares. DOI 10.18232/alhe.v22i2.588."
+    },
+    {
+      "sourceId": "source:panama-crossing-colon-point",
+      "role": "supports",
+      "locator": "TGN 7006458, coordinates 9.3500 N, 79.9000 W, Aspinwall as alternative name, historical note on the northern terminus. City-level point on Manzanillo Island."
+    },
+    {
+      "sourceId": "source:panama-crossing-first-train-dispatch",
+      "role": "supports",
+      "locator": "Vol. XXVI, no. 7, 15 February 1855, third scanned page (leaf n2). Under ‘California’, the paragraph following the arrival of the steamships North Star and Prometheus reports that the first train ran from Aspinwall to Panama on 28 January."
+    },
+    {
+      "sourceId": "source:panama-crossing-otis-route",
+      "role": "supports",
+      "locator": "Harper & Brothers, pp. 39–40. Otis describes the original railway from Manzanillo Island to Playa Prieta, the crossing at Barbacoas, the bends of the Chagres, the position of old Gorgona relative to the line and the ascent of the Río Obispo valley."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Reisende des Eröffnungszugs von 1855",
+    "en": "Passengers on the 1855 inaugural train"
+  }
+}

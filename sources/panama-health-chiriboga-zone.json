@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-chiriboga-zone",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Poder e identidades en la Zona del Canal de Panamá (1904–1914)",
+  "url": "https://up-rid.up.ac.pa/1688/1/vilma_chiriboga.pdf",
+  "sourceType": "book",
+  "language": "es",
+  "creators": [
+    "Vilma Violeta Chiriboga Castillo, Universidad de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2019"
+}

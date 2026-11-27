@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-locks-morning-journal",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Panama Canal Open to Commerce of the World",
+  "url": "https://binal.ac.pa/wp-content/uploads/r_dig/ZF_PMJ_parte_1.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Panama Morning Journal, preserved by the Biblioteca Nacional de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1914"
+}

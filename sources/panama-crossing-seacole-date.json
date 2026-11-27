@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-seacole-date",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Memory of the World School Kit: A Teachers’ Guide",
+  "url": "https://www.unesco.org/sites/default/files/medias/fichiers/2025/10/MoWSchoolKit2021Part3.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "UNESCO Memory of the World Programme, Sub-Committee on Education and Research"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:paris-france-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-paris-exchange-yearbook",
+      "role": "supports",
+      "locator": "1903 yearbook entry, issuer 2563. “Siège”, “Capital social”, “Titres” and “Emprunts. I” specify the Paris office, 10,000 shares contributed to the concession holder, public subscription of 590,000 on 8–9 December 1880, bearer shares and the bond issue used to buy railroad stock."
+    },
+    {
+      "sourceId": "source:panama-edhac-share-278792",
+      "role": "supports",
+      "locator": "Full front, 2,359 × 2,156 pixels. Central face, 500 francs nominal and 250 paid. Figures labelled North and South America, right-to-subscribe stamp above, Bayonne receipts for February and September 1886 below. The 1880 dates printed at the top concern the statutes. Public-domain statement on the file page."
+    },
+    {
+      "sourceId": "source:panama-geonames-paris",
+      "role": "derivation",
+      "locator": "Paris as the issuer’s seat. The receipts on the illustrated bearer share were later filled in at Bayonne."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Generalized point of reference for the named locality. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.geonames.org/2988507/paris.html",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

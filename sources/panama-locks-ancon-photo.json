@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-locks-ancon-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Opening of the Panama Canal. S.S. Ancon entering east chamber of Pedro Miguel Locks",
+  "url": "https://commons.wikimedia.org/wiki/File:SS_Ancon_(1902_ship)_NARA_185-G-0888_cropped.jpg",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Panama Railroad Company, U.S. National Archives and Records Administration"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1914"
+}

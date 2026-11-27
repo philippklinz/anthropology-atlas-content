@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:paris-geographical-society",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-paris-society-congress",
+      "role": "supports",
+      "locator": "List of events held in the Hôtel de la Société. Entry for the interoceanic canal congress, 15–29 May 1879. The institution gives its address as 184 boulevard Saint-Germain, Paris."
+    },
+    {
+      "sourceId": "source:panama-paris-congress-voisin",
+      "role": "supports",
+      "locator": "Catalogue record for the 68-page Paris printing with folded plates. The title identifies the technical report and fixes the day of the closing session."
+    },
+    {
+      "sourceId": "source:panama-menocal-instructions",
+      "role": "supports",
+      "locator": "France, instruction of 25 April designating Daniel Ammen and civil engineer Menocal. The paragraph defining the non-official character of the congress limits their participation to discussion by experts."
+    },
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "International congress and its vote (Menocal, Lépinay and Pedro Sosa). The passages on Dingler, Boyer and Bunau-Varilla describe transport of spoil, earth slides, Jamaican labour and the July 1886 Culebra contract. “Gustave Eiffel” dates the 1887 report, 1888 construction under the amended plan and stoppage."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Haus der Geographischen Gesellschaft in Paris",
+    "en": "Geographical Society headquarters, Paris"
+  }
+}

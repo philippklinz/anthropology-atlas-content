@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-culebra-minutes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Minutes of the Isthmian Canal Commission",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W73-52d42c0762e620d9782269e074fbcbd3/pdf/GOVPUB-W73-52d42c0762e620d9782269e074fbcbd3.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Isthmian Canal Commission"
+  ],
+  "accessedAt": "2026-11-27"
+}

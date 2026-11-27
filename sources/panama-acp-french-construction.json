@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-acp-french-construction",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The French Canal Construction",
+  "url": "https://pancanal.com/en/the-french-canal-construction/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

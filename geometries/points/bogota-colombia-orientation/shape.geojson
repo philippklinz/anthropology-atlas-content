@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:bogota-colombia-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.0817,
+      4.6097
+    ]
+  }
+}

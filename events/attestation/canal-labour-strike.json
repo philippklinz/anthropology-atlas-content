@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:canal-labour-strike",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-maloney-strike",
+      "role": "supports",
+      "locator": "Biblioteca Nacional de Panamá, ‘Martes 24 de febrero de 1920’, printed pp. 341–344: strike call, itemised demands, Governor Harding's refusal to conclude an agreement with a committee. The dated chronology distinguishes the strike call and walkout from preparatory activity."
+    },
+    {
+      "sourceId": "source:canal-labour-governor-1920",
+      "role": "supports",
+      "locator": "Governor's report, pp. 26–27, increases in living costs, demand for seven cents per hour, participation estimate and terms of re-employment. Chief Quartermaster's report, ‘Strike of silver employees’, pp. 135–136, commissary disruptions and volunteer replacements."
+    },
+    {
+      "sourceId": "source:canal-labour-colon-strike",
+      "role": "supports",
+      "locator": "Paragraph beginning ‘El gobernador de la Zona del Canal de Panamá’, on the 24 February walkout and strong participation in Colón. Accounts differ on the overall number, for which the chapter explicitly attributes its range to the governor’s report."
+    },
+    {
+      "sourceId": "source:panama-crossing-colon-point",
+      "role": "supports",
+      "locator": "TGN 7006458, coordinates 9.3500 N, 79.9000 W, Aspinwall as alternative name, historical note on the northern terminus. City-level point on Manzanillo Island."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Am 24. Februar bleibt die Arbeit liegen",
+    "en": "A walkout on 24 February"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1920,
+        "month": 2,
+        "day": 24
+      },
+      "latest": {
+        "year": 1920,
+        "month": 2,
+        "day": 24
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:canal-zone-silver-roll-strikers",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:colon-on-manzanillo-island"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:colon-on-manzanillo-island-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Beschäftigte der Silberliste legen die Arbeit nieder. Colón ist eines der Zentren. Der Gouverneur schätzt die Beteiligung an der gesamten Aktion auf 15.000 bis 17.000 Beschäftigte.",
+      "en": "Silver employees go on strike, with strong support in Colón. The governor estimates 15,000 to 17,000 people joined the walkout across the canal workforce."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:culebra-pay-car-1908",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-pay-car-photograph",
+      "role": "supports",
+      "locator": "National Archives Identifier 100997804, caption 311-A on the photograph. The dated print shows staff and workers at the pay car. The NARA/DPLA item record and US public-domain statement accompany the 1,761 × 1,443 pixel file."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Der Zahlwagen in Culebra am 12. Januar 1908",
+    "en": "The pay car at Culebra on 12 January 1908"
+  },
+  "alt": {
+    "de": "Männer mit Hüten stehen entlang eines Eisenbahnwagens, dessen Türen und Fenster offen sind. Rechts ist die Lokomotive zu sehen. Auf der Aufnahme sind die Ortsangabe Culebra, das Datum und die Nummer 311-A vermerkt.",
+    "en": "Men in hats stand beside a railway carriage with open doors and windows. The locomotive is visible on the right. The caption on the photograph records Culebra, the date and the number 311-A."
+  },
+  "entityIds": [
+    "artifact:culebra-pay-car-photograph"
+  ],
+  "rights": {
+    "license": "Public-Domain-US",
+    "creators": [
+      "Photographer unidentified, Records of the Panama Canal"
+    ],
+    "attribution": "US National Archives at College Park, Still Pictures, NAID 100997804, caption 311-A, 12 January 1908. DPLA rights statement: No Copyright – United States. Digitised photograph distributed via the Digital Public Library of America and Wikimedia Commons. https://rightsstatements.org/vocab/NoC-US/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Pay_Car_at_Culebra,_Jan_12,_1908_-_DPLA_-_55fbb1d13a0b09833ecbca7f46e7e1c4.jpg",
+    "originNote": "Web edition of the original 1761 × 1443 image. Resampled to 1420 × 1164 and encoded in JPEG. Original aspect ratio and framing retained. https://rightsstatements.org/vocab/NoC-US/1.0/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:bogota-colombia-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-wyse-law-28",
+      "role": "supports",
+      "locator": "Colombia, contract signed 20 March, art. 1(1), and Law 28, amended arts. 3 and 15, pp. 248–251. Distinguish the March agreement, the congressional signatures of 17 May, President Trujillo’s order of publication and Wyse’s acceptance of the amended terms on 18 May."
+    },
+    {
+      "sourceId": "source:panama-wyse-concession-acts",
+      "role": "supports",
+      "locator": "LCCN ltf91029421, KZ3712.2 1878 .A12 1893. The World Digital Library catalogue describes a collected printing of the 1878 agreement and the later acts of 1890. The date assigned to the compilation is approximate."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    },
+    {
+      "sourceId": "source:panama-geonames-bogota",
+      "role": "derivation",
+      "locator": "Seat of government, city reference point."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC-BY-4.0",
+    "creators": [
+      "GeoNames",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "GeoNames, CC BY 4.0. Generalized point of reference for the named locality. https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://www.geonames.org/3688689/bogota.html",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

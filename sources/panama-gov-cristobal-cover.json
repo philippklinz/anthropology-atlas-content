@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-cristobal-cover",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A History of Panama and Its Canal in Forty-Two Postage Stamps and Seven Picture Postcards",
+  "url": "https://web.archive.org/web/20231109034341id_/https://www.canalzonestudygroup.com/Docs/A_History_Of_Panama_And_Its_Canal.pdf",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "David Farnsworth, Canal Zone Study Group"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2022"
+}

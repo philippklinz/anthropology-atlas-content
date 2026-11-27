@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-escobar",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "El desarrollo de las ciencias naturales y la medicina en Panamá",
+  "url": "https://binal.ac.pa/wp-content/uploads/r_dig/KF_EDD_parte_4.pdf",
+  "sourceType": "book",
+  "language": "es",
+  "creators": [
+    "Novencido Escobar, Universidad de Panamá, Biblioteca de la Cultura Panameña XIII"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1987"
+}

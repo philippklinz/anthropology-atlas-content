@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-1977-treaty-texts",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Meaning of the New Panama Canal Treaties",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-S-0b4c305a30a500f05598b11abc9b1dd2/pdf/GOVPUB-S-0b4c305a30a500f05598b11abc9b1dd2.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "U.S. Department of State, including remarks by Omar Torrijos and Jimmy Carter"
+  ],
+  "accessedAt": "2026-11-27"
+}

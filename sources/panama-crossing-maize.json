@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-maize",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Plantas amerindias en la mesa de los primeros europeos en Panamá Viejo",
+  "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0542C70C6E256AFBA4071D65A24F37F6/S1045663516000092a.pdf/plantas_amerindias_en_la_mesa_de_los_primeros_europeos_en_panama_viejo.pdf",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Francisco Javier Aceituno",
+    "Juan Guillermo Martín"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

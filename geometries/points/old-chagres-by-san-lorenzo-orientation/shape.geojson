@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:old-chagres-by-san-lorenzo-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.0,
+      9.32
+    ]
+  }
+}

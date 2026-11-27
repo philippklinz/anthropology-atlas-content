@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-rail-relocation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Congressional Record, House of Representatives, 18 July 1913",
+  "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1913-pt3-v50/pdf/GPO-CRECB-1913-pt3-v50-20.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "United States Congress"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1913"
+}

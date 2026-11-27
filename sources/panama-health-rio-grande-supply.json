@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-rio-grande-supply",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Enfoque histórico-geográfico del Río Grande y su legado al Canal de Panamá",
+  "url": "https://vicinvestigacion.up.ac.pa/sites/vicinvestigacion/files/publicaciones/societas/Societas-Vol19-No1.pdf",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Luis A. Camaño",
+    "Danilo I. Quintero"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

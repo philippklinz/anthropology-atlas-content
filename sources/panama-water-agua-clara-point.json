@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-agua-clara-point",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Agua Clara Visitor Center",
+  "url": "https://mapcarta.com/N4593152300",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "OpenStreetMap contributors, via Mapcarta"
+  ],
+  "accessedAt": "2026-11-27"
+}

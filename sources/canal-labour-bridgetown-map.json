@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-bridgetown-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Historic Bridgetown and its Garrison – Maps",
+  "url": "https://whc.unesco.org/en/list/1376/maps/",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "accessedAt": "2026-11-27"
+}

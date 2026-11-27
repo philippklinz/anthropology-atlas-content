@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:omar-torrijos-herrera",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-gov-1977-treaty-texts",
+      "role": "supports",
+      "locator": "Selected Documents no. 6C (January 1978), printed pp. 3–5, Washington signing ceremony and English translation of Torrijos’s reservations. Panama Canal Treaty, pp. 41–50, Articles II.2, III.3, XI.1–2 and XIII on the deadline, appointments, jurisdiction and property. Neutrality Treaty, pp. 51–52, Articles I–V. The Letter of Submittal, p. 6, distinguishes the joint declaration of 3 April 1964 from the two presidents’ agreement announced on 24 September 1965 to replace the 1903 convention."
+    },
+    {
+      "sourceId": "source:panama-gov-1977-gazette",
+      "role": "supports",
+      "locator": "Gaceta Oficial núm. 18451, 1 November 1977. Entry names the two instruments and the agreements implementing them, dates the signature, entry into force and noon termination of the canal treaty."
+    },
+    {
+      "sourceId": "source:panama-gov-neutrality",
+      "role": "supports",
+      "locator": "Articles I, II and IV establish permanent neutrality and peaceful transit on equal terms for vessels of all nations. Article V provides that Panama alone will operate the canal after the canal treaty expires."
+    },
+    {
+      "sourceId": "source:panama-gov-museo-soberania",
+      "role": "supports",
+      "locator": "Exhibition script, sections 4.4–4.5 on the ballot and debate under the military government, 5.1 on the end of the zone, 8.2 on training and constitutional change, and 8.3 on the two separate December ceremonies, participants and clock."
+    },
+    {
+      "sourceId": "source:panama-gov-later-negotiations",
+      "role": "supports",
+      "locator": "Paragraphs on the 1964 flag dispute, interruption and resumption of relations, and US Senate votes on the two treaties in 1978."
+    },
+    {
+      "sourceId": "source:panama-gov-treaty-handshake",
+      "role": "supports",
+      "locator": "NAID 176083, White House Staff Photographs Collection, 7 September 1977. File description and public-domain declaration for the 2,971 by 2,025 pixel reproduction."
+    },
+    {
+      "sourceId": "source:panama-gov-oas-map",
+      "role": "supports",
+      "locator": "HALS DC-57, first descriptive sheet, Location. Survey coordinates refer to the headquarters property and garden, not to a seat in the Hall of the Americas."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Omar Torrijos Herrera",
+    "en": "Omar Torrijos Herrera"
+  }
+}

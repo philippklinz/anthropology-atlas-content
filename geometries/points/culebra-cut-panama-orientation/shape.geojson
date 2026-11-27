@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:culebra-cut-panama-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.6566,
+      9.056
+    ]
+  }
+}

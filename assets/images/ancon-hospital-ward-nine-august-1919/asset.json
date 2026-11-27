@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:ancon-hospital-ward-nine-august-1919",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-health-ward-nine-photo",
+      "role": "supports",
+      "locator": "National Archives Identifier 6120319, 185-G-16-1514, August 1919. National Archives Foundation, DocsTeach, “Citation” and item-specific “Rights: Public Domain”. The photographer is unnamed. The lower edge of the surviving print reads 284-X8, whereas the DocsTeach transcription renders 248-X8. Both identify the same image by title, month and NAID."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Saal 9, Abteilung C, Krankenhaus Ancón, August 1919",
+    "en": "Ward 9, Section C, Ancon Hospital, August 1919"
+  },
+  "alt": {
+    "de": "Patienten liegen in zwei Reihen Metallbetten am gefliesten Mittelgang. Pflegekräfte stehen zwischen den Betten, links vorn ist ein Schreibtisch zu sehen. Auf dem unteren Bildrand ist die damalige Bezeichnung „Spanish“ lesbar.",
+    "en": "Patients lie in two rows of metal beds beside a tiled central aisle. Staff stand among the beds. A desk appears at the front left. The original caption at the foot of the print includes the word “Spanish”."
+  },
+  "entityIds": [
+    "artifact:ancon-hospital-ward-nine-1919-photograph"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "The Panama Canal, United States government (photographer unidentified)"
+    ],
+    "attribution": "U.S. National Archives, Records of the Panama Canal, RG 185, photograph 185-G-16-1514, NAID 6120319. August 1919. Public-domain photograph identified by the National Archives Foundation. Full 2890 × 2400 pixel scan provided by the US National Archives, Rediscovering Black History. https://creativecommons.org/publicdomain/mark/1.0/",
+    "sourceUrl": "https://docsteach.org/document/ancon-hospital-ward/",
+    "originNote": "Web edition of the original 2890 × 2400 image. Resampled to 1420 × 1179 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

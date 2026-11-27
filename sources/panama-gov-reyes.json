@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-reyes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "General Reyes to Mr. Hay",
+  "url": "https://history.state.gov/historicaldocuments/frus1903/d322",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Rafael Reyes, Legation of Colombia on Special Mission, Foreign Relations of the United States"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1904"
+}

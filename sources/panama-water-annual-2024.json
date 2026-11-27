@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-annual-2024",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Panama Canal Annual Report 2024",
+  "url": "https://pancanal.com/wp-content/uploads/2021/08/Informe-2024Eng79.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

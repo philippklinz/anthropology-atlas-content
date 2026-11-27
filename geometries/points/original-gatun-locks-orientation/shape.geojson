@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:original-gatun-locks-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.9233,
+      9.2706
+    ]
+  }
+}

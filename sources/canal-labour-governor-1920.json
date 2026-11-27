@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-governor-1920",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Annual Report of the Governor of the Panama Canal for the Fiscal Year Ended June 30, 1920",
+  "url": "https://www.govinfo.gov/content/pkg/SERIALSET-07814_00_00/pdf/SERIALSET-07814_00_00.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Chester Harding, Governor of the Panama Canal"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1920"
+}

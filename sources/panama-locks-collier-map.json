@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-locks-collier-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Isthmus with Completed Panama Canal",
+  "url": "https://etc.usf.edu/maps/pages/7600/7653/7653.htm",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "P. F. Collier and Son, map digitized by the University of South Florida, Maps ETC"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1914"
+}

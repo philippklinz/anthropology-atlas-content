@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:culebra-cut-panama",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "International congress and its vote (Menocal, Lépinay and Pedro Sosa). The passages on Dingler, Boyer and Bunau-Varilla describe transport of spoil, earth slides, Jamaican labour and the July 1886 Culebra contract. “Gustave Eiffel” dates the 1887 report, 1888 construction under the amended plan and stoppage."
+    },
+    {
+      "sourceId": "source:panama-jamaica-migration",
+      "role": "supports",
+      "locator": "“Migration” exhibit, French-construction and railroad paragraphs. Figures for journeys in 1882–1884 (32,958 leaving and 14,962 returning) and earlier recruitment for the Panama Railroad. The exhibit attributes its series to McLean Petras."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    },
+    {
+      "sourceId": "source:panama-locks-design",
+      "role": "supports",
+      "locator": "Paragraphs on lock steps and origin of construction cement, gravity and locomotives. Concluding paragraphs cover shovels 222 and 230 on 20 May 1913, locomotive 260 on 10 September, the Gatun tug on 26 September and Marmot’s December cut at Cucaracha."
+    },
+    {
+      "sourceId": "source:panama-locks-culebra-history",
+      "role": "supports",
+      "locator": "Paragraphs on rail transport of spoil to Gatún Dam and the Naos–Flamenco breakwater, on extending the lake across the divide, and on the distinct modes of slope movement in the Culebra and Cucaracha slides."
+    },
+    {
+      "sourceId": "source:panama-locks-handbook-1915",
+      "role": "supports",
+      "locator": "Description of the canal, pp. 46–48, Gatun Lake, Gaillard Cut, Miraflores Lake and Locks. The bottom was 40 ft above sea level and the lake provided a channel 45 ft deep. P. 48 describes the paired chambers, three flights and the effect of Pacific tides on the lift at Miraflores."
+    },
+    {
+      "sourceId": "source:panama-locks-report-1916",
+      "role": "supports",
+      "locator": "Governor’s report, discussion of Gaillard Cut slides and general reopening on 15 April 1916. Appendix E, plates 45, 48, 50, 54 and 56, shows the September working face and subsequent obstruction. “Lockages”, p. 76, records about forty southbound vessels returning through Gatún."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Culebra-Einschnitt",
+    "en": "Culebra Cut"
+  }
+}

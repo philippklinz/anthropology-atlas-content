@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-hospital-visiting-hours",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Locations of Patients, and Visiting Hours, at Ancon Hospital",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W79-759527e93a10c5ffea590534e893e524/pdf/GOVPUB-W79-759527e93a10c5ffea590534e893e524.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "The Panama Canal, Balboa Heights"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1919"
+}

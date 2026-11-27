@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-pay-car-photograph",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Pay Car at Culebra, Jan 12, 1908",
+  "url": "https://commons.wikimedia.org/wiki/File:The_Pay_Car_at_Culebra,_Jan_12,_1908_-_DPLA_-_55fbb1d13a0b09833ecbca7f46e7e1c4.jpg",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Records of the Panama Canal, US National Archives at College Park – Still Pictures"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1908"
+}

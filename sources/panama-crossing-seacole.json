@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-seacole",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Wonderful Adventures of Mrs. Seacole in Many Lands",
+  "url": "https://cod.pressbooks.pub/womenlifewriting/chapter/chapter-ii-struggles-for-life-the-cholera-in-jamaica-i-leave-kingston-for-the-isthmus-of-panama-chagres-navy-bay-and-gatun-life-in-panama-up-the-river-chagre/",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Mary Seacole"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1857"
+}

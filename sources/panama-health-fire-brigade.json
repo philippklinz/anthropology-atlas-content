@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-fire-brigade",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Historia del Benemérito Cuerpo de Bomberos de la República de Panamá",
+  "url": "https://www.bomberos.gob.pa/historia/",
+  "sourceType": "website",
+  "language": "es",
+  "creators": [
+    "Benemérito Cuerpo de Bomberos de la República de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

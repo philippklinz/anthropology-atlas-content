@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-ancon-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Plan Local Propuesto, anexo 3, ficha P1405: Antiguo Hospital Gorgas",
+  "url": "https://plandistrital2.mupa.gob.pa/wp-content/uploads/2021/03/3-ANEXO-3-TOMO-1-Anexo-PLOT-marzo-2021.pdf",
+  "sourceType": "dataset",
+  "language": "es",
+  "creators": [
+    "Municipio de Panamá, Dirección de Planificación Urbana"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2021"
+}

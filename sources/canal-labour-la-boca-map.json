@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-la-boca-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "La Boca, Ancón, Panamá District",
+  "url": "https://mapcarta.com/19761900",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "Mapcarta, OpenStreetMap and GeoNames contributors"
+  ],
+  "accessedAt": "2026-11-27"
+}

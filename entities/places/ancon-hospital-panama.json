@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:ancon-hospital-panama",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-health-minsa-ancon",
+      "role": "supports",
+      "locator": "29 November 2021, “Antecedentes históricos” and “Antes de la segunda guerra mundial”: September 1882 opening, choice of the slope of Cerro Ancón to catch breezes away from city wastewater, US acquisition and reuse of the grounds. MINSA gives 12 September for the opening. The thanksgiving Mass is separately dated to the 17th by Escobar. The station therefore identifies the opening by month."
+    },
+    {
+      "sourceId": "source:panama-health-escobar",
+      "role": "supports",
+      "locator": "Chapter VI, “Hospitales en la Época del Canal Francés”, pp. CXLIX–CLI. Companyo, his earlier work at Suez, Huerta de Gallo, the fundraising committee, the September thanksgiving Mass, transfers of patients, the sisters, Colón, the former Taboga hotel and the orphanage. Chapter VII, pp. CLXXIV–CLXXVI, reports the 1916 request for larger premises and lottery funding. Pp. CLXXXII–CLXXXIII name the four nursing graduates of 1912. For the 1924 opening date use the contemporary decrees, which supersede the December date printed on p. CLXXV."
+    },
+    {
+      "sourceId": "source:panama-health-pierce-1904",
+      "role": "supports",
+      "locator": "Public Health Reports 19 (8), 19 February 1904, printed p. 277, “Hospitals”: wooden, separated pavilions of the French hospital, nursing by Sisters of Charity, twenty-four patients in the foreign section and twenty in the canal section. This is a count made before the US canal administration assumed the hospital."
+    },
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "“Gustave Eiffel”, final paragraphs on the first canal company, receivership and the appointment of a liquidator. Escobar, pp. CL–CLI, traces how the breakdown of the construction enterprise affected its hospitals."
+    },
+    {
+      "sourceId": "source:panama-health-ancon-site",
+      "role": "supports",
+      "locator": "Ficha P1405, Antiguo Hospital Gorgas, Calle Gorgas y Calle Juan de Arco Galindo, Ancón, records 659775.38 E, 990772.36 N in WGS84 / UTM zone 17N, converted to 8.96024° N, 79.54667° W. Marks the hospital complex as rebuilt from 1915 to 1919. For the continuity of the French hospital site see Escobar, p. CXLIX, and MINSA. Individual wards and earlier pavilions are not fixed by this point."
+    },
+    {
+      "sourceId": "source:panama-health-gorgas-french-wards",
+      "role": "supports",
+      "locator": "Chapter XVI, “Malaria Work and the Hospital System”, printed p. 226, paragraph beginning “The nursing force was composed”. Gorgas describes the Black maids and orderlies who worked in the French hospital, including direct care and manual work under the sisters’ supervision."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-minutes",
+      "role": "supports",
+      "locator": "Minutes, 118th meeting at Washington, 24 December 1906, printed p. 49, item 2. The Chief Sanitary Officer’s 1 December communication gives 7 June 1904 as the beginning of the service of “Miss M. Eugenie Hibbard” as chief nurse at Ancon Hospital. This is the credited start of her appointment."
+    },
+    {
+      "sourceId": "source:panama-health-hernandez-nurses",
+      "role": "supports",
+      "locator": "The Panama Canal Review en Español, spring 1976, printed pp. 32–33. Hernández calls her Mary Eugene Hibbard, dates her appointment to June 1904, describes her arrival with Gorgas and two nurses, and quotes her recollections of some 75 scattered buildings and the five buildings selected for ward and service uses."
+    },
+    {
+      "sourceId": "source:panama-health-chiriboga-zone",
+      "role": "supports",
+      "locator": "Doctoral thesis, printed p. 50, citing Rodríguez on the 1904 appointment and 1908 count of 117 nurses among 205 US women employed in the Canal Zone. Note 49 quotes La Estrella de Panamá, 9 February 1905, vol. LVI, no. 13544, p. 10, on malaria admissions and the latrines at Ancón. Pp. 52–53 quote the same newspaper of 13 March 1909 on admission of single women aged sixteen to twenty-five at Santo Tomás."
+    },
+    {
+      "sourceId": "source:panama-health-doolittle-card",
+      "role": "supports",
+      "locator": "Service Records Cards, 1904–1920, series NAID 7226556. Illustration captioned “Miss Anna L. Doolittle, June 21, 1907 Service Card”, recto and verso, followed by Brown’s identification of her age, home in West Virginia and Ancon Hospital appointment. The full-size image linked farther down is separately identified as Ward 9, NAID 6120319."
+    },
+    {
+      "sourceId": "source:panama-health-ward-nine-photo",
+      "role": "supports",
+      "locator": "National Archives Identifier 6120319, 185-G-16-1514, August 1919. National Archives Foundation, DocsTeach, “Citation” and item-specific “Rights: Public Domain”. The photographer is unnamed. The lower edge of the surviving print reads 284-X8, whereas the DocsTeach transcription renders 248-X8. Both identify the same image by title, month and NAID."
+    },
+    {
+      "sourceId": "source:panama-health-hospital-visiting-hours",
+      "role": "supports",
+      "locator": "The Panama Canal Record, vol. XIII, no. 1, 20 August 1919, printed p. 8 (PDF p. 26), table for the new hospital buildings. Section C, ward 9: 39 beds, official category “White foreign, male”. Wards 10–14 are separately classified. Compare visiting hours in sections A and C, and the note below the table assigning emergency passes to the section nurse."
+    },
+    {
+      "sourceId": "source:panama-health-ward-nine-mirror",
+      "role": "supports",
+      "locator": "Image 88b710, source “The U.S. National Archives”, copyright field “No known copyright restrictions”. The photographic caption dates the picture to August 1919, without a day. The matched, full-size scan of NAID 6120319 used here is the one provided by the Archives on its Rediscovering Black History page."
+    },
+    {
+      "sourceId": "source:canal-labour-brown-payroll",
+      "role": "supports",
+      "locator": "Prologue 29 (2). Notes 1 and 2 identify Commissary manager to J. F. Stevens, 15 February 1907, and Stevens to W. C. Gorgas, 30 November 1906, both RG 185, General Correspondence 1904–14, file 2-C-55, part 1. Quotations, financial bonds, equivalent silver pay and access to facilities appear in the opening discussion of the two rolls."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Krankenhausgelände von Ancón",
+    "en": "Ancon Hospital grounds"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:panama-city-cathedral-square-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-health-barrett-circular",
+      "role": "supports",
+      "locator": "Foreign Relations of the United States, 1905, document 719, pp. 707–708. Enclosure is dated 20 January, cover letter 24 January, supplementary note 25 January. Eighteen official reports since 1 July 1904 included the four sanitary labourers still in hospital on 20 January. Three deaths, the cities and intervening zone, bills of health for shipping and the reported recoveries appear in the circular and note."
+    },
+    {
+      "sourceId": "source:panama-health-guardia-regulations",
+      "role": "supports",
+      "locator": "Foreign Relations of the United States, 1905, document 718, pp. 706–707, especially enclosure 2, the translated reply of Panama’s minister of government and foreign affairs, 21 January 1905. De la Guardia explains his authorization and the changes suggested by his office when accepting the sanitary regulations under article VII."
+    },
+    {
+      "sourceId": "source:panama-health-chiriboga-zone",
+      "role": "supports",
+      "locator": "Doctoral thesis, printed p. 50, citing Rodríguez on the 1904 appointment and 1908 count of 117 nurses among 205 US women employed in the Canal Zone. Note 49 quotes La Estrella de Panamá, 9 February 1905, vol. LVI, no. 13544, p. 10, on malaria admissions and the latrines at Ancón. Pp. 52–53 quote the same newspaper of 13 March 1909 on admission of single women aged sixteen to twenty-five at Santo Tomás."
+    },
+    {
+      "sourceId": "source:panama-health-barrett-legation",
+      "role": "supports",
+      "locator": "Foreign Relations of the United States, 1905, document 723, enclosure 2, paragraph beginning “Immediately after seeing”. Barrett locates the legation near the corner of the canal building and the Plaza. The square serves only to orient the January circular in the capital. Its text gives no legation street address."
+    },
+    {
+      "sourceId": "source:panama-gov-cathedral-map",
+      "role": "supports",
+      "locator": "June 2022 table, region 2, entry no. 788, Plaza de La Catedral, San Felipe, 8.95276° N, 79.53502° W. Square-level location. For the January circular the square is an orientation point near the contemporary legation. The July hydrant ceremony is explicitly placed in the square by the Panamanian fire brigade."
+    },
+    {
+      "sourceId": "source:panama-gov-cathedral-map",
+      "role": "derivation",
+      "locator": "RNI 2.0, entry 788. According to Barrett’s 8 May letter, the American legation was near the plaza and the canal building. The point represents the neighborhood, not a diplomatic office or the four patients’ ward."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Autoridad Nacional para la Innovación Gubernamental, Panamá.",
+    "sourceUrl": "https://www.datosabiertos.gob.pa/dataset/0d57bb07-d9a4-4717-8415-5b0f2566518c/resource/6f3caf89-fe4b-4ce9-91ba-7a7a84360880/download/aig-puntos-de-acceso-de-la-rni2.0-vigentes-en-junio2022.pdf",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

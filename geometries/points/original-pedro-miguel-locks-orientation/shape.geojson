@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:original-pedro-miguel-locks-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.6172,
+      9.0213
+    ]
+  }
+}

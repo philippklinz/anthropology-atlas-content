@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-calidonia-inauguration",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Recordar es vivir. Inauguración del Hospital Santo Tomás",
+  "url": "https://www.hospitalsantotomas.gob.pa/download/transparencia/otros_documentos_y_normas/Memoria-del-Hospital-Santo-Tomas-2020-2021.pdf",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Tita Méndez, Hospital Santo Tomás"
+  ],
+  "accessedAt": "2026-11-27"
+}

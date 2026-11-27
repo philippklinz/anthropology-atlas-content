@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-rainfall-attribution",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Low water levels in Panama Canal due to increasing demand exacerbated by El Niño event",
+  "url": "https://www.worldweatherattribution.org/low-water-levels-in-panama-canal-due-to-increasing-demand-exacerbated-by-el-nino-event/",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "World Weather Attribution"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

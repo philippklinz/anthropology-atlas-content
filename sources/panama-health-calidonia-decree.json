@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-calidonia-decree",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Decreto número 35 de 1924, por el cual se declara inaugurado y puesto al servicio público el nuevo Hospital Santo Tomás",
+  "url": "https://docs.panama.justia.com/federales/decretos/35-de-1924-sep-13-1924.pdf",
+  "sourceType": "archive",
+  "language": "es",
+  "creators": [
+    "República de Panamá, Belisario Porras and J. A. Jiménez, Secretaría de Fomento"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1924"
+}

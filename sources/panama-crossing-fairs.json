@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-fairs",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Caminos transísmicos y ferias de Panamá, siglos XVII-XVIII",
+  "url": "https://orca.cardiff.ac.uk/id/eprint/129999/1/SEPARATA%20ANALES_XX2012.pdf",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Jesús Sanjurjo Ramos"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2012"
+}

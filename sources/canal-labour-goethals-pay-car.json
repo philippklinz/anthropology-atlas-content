@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-goethals-pay-car",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Building of the Panama Canal, II: Labor Problems Connected with the Work",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Scribner%27s_Magazine%2C_Volume_57%2C_Issue_4.pdf",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "George W. Goethals"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1915"
+}

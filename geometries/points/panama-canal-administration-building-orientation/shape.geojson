@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:panama-canal-administration-building-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.5549,
+      8.9596
+    ]
+  }
+}

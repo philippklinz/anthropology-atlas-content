@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:french-panama-share",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-paris-exchange-yearbook",
+      "role": "supports",
+      "locator": "1903 yearbook entry, issuer 2563. “Siège”, “Capital social”, “Titres” and “Emprunts. I” specify the Paris office, 10,000 shares contributed to the concession holder, public subscription of 590,000 on 8–9 December 1880, bearer shares and the bond issue used to buy railroad stock."
+    },
+    {
+      "sourceId": "source:panama-edhac-share-278792",
+      "role": "supports",
+      "locator": "Full front, 2,359 × 2,156 pixels. Central face, 500 francs nominal and 250 paid. Figures labelled North and South America, right-to-subscribe stamp above, Bayonne receipts for February and September 1886 below. The 1880 dates printed at the top concern the statutes. Public-domain statement on the file page."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Gesellschaft bietet ihre Aktien an",
+    "en": "The company offers its shares to the public"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1880,
+        "month": 12,
+        "day": 8
+      },
+      "latest": {
+        "year": 1880,
+        "month": 12,
+        "day": 8
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 1880,
+        "month": 12,
+        "day": 9
+      },
+      "latest": {
+        "year": 1880,
+        "month": 12,
+        "day": 9
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "organization:compagnie-universelle-du-canal-interoceanique-de-panama",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:paris-france"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:paris-france-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "590.000 Aktien stehen bei der öffentlichen Zeichnung zum Nennwert von je 500 Francs bereit. Das erhaltene Stück trägt die Nummer 278792.",
+      "en": "The public offering comprises 590,000 shares with a face value of 500 francs each. The surviving certificate pictured here is number 278792."
+    }
+  }
+}

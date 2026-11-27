@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-museo-soberania",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "La ruta por la soberanía, 1964–1999",
+  "url": "https://museodelcanal.com/wp-content/uploads/2024/11/Esp-Guion-museologico-La-Ruta-por-la-Soberania-1964-1999-Fase-3-.pdf",
+  "sourceType": "catalog",
+  "language": "es",
+  "creators": [
+    "Museo del Canal Interoceánico de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

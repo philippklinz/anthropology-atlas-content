@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-rail-economy",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ferrocarriles y soberanía: el ferrocarril de Panamá, 1850–1903",
+  "url": "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-22532015000200002",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Juan Santiago Correa Restrepo"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2015"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:gamboa-on-the-chagres",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-morning-journal",
+      "role": "supports",
+      "locator": "Tenth year, no. 2948, 16 August 1914, p. 1, col. 3 (digital file, pp. 2–3). Account of the special train and sailing from Cristóbal, lunch and steward Leddeke, Gamboa and dredge crews, spectators at Pedro Miguel, the outer buoys, transfer to boats and the anthem for President Porras."
+    },
+    {
+      "sourceId": "source:panama-locks-august-1914-report",
+      "role": "supports",
+      "locator": "Vol. VIII, no. 6, p. 52, letter dated 24 September 1914, opening paragraphs. The report distinguishes the 3 August Cristobal test to Balboa from the 15 August Ancon deep-water passage, then counts six vessels on 16 August."
+    },
+    {
+      "sourceId": "source:panama-locks-collier-map",
+      "role": "supports",
+      "locator": "The New Encyclopedic Atlas and Gazetteer of the World (1914), p. 66. Map of the route through Gatún Lake and the cut to the Pacific locks, with the railway, grid index, settlement names and coastal approaches."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Gamboa am Chagres",
+    "en": "Gamboa on the Chagres"
+  }
+}

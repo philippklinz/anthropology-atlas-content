@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:gatun-relocated-railway-station-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-rail-relocation",
+      "role": "supports",
+      "locator": "Volume 50, pp. 2534–2535, “Relocation of Panama Railroad.” The engineering account reproduced here distinguishes the closure at Gatun on 9 February and the new Gatun–Matachin service on 15 February 1912. It describes the progression of flooding on the old right of way."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "supports",
+      "locator": "Cuadernos Nacionales 37, pp. 151–154, section “Estación de Gatún.” Figures 32 and 36 locate the original and relocated railway station and relate the latter to the buildings and shoreline. Figure 33 and the text on pp. 152–153 describe the platform, ticket office, telegraph and baggage room."
+    },
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-town-standley-flora",
+      "role": "supports",
+      "locator": "Smithsonian Miscellaneous Collections 78(8), pp. 1–2. Standley describes the laboratory window, the submerged town of Bohío, dead tree trunks in the inlets, abandoned fields with secondary vegetation and his observations of wooded ravines."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "derivation",
+      "locator": "Approximate northern end of the 1912 Gatún–Matachín service at the relocated station. García Gómez, figs. 32, 33 and 36, locate the site in relation to the original railway and the locks. The point is rounded to a hundredth of a degree."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Leonardo García Gómez.",
+    "sourceUrl": "https://revistas.up.ac.pa/index.php/cuadernos_nacionales/article/download/7797/5734",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

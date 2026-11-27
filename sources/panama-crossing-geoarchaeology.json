@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-geoarchaeology",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "An interdisciplinary approach to the collapse of the port and degradation of freshwater resources at Panama Viejo (Panama), 1519–1671",
+  "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21991",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Miriam Martos",
+    "Bethany Aram",
+    "Gonzalo Malvarez"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

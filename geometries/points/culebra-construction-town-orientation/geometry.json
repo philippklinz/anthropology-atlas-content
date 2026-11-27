@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:culebra-construction-town-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-brown-payroll",
+      "role": "supports",
+      "locator": "Prologue 29 (2). Notes 1 and 2 identify Commissary manager to J. F. Stevens, 15 February 1907, and Stevens to W. C. Gorgas, 30 November 1906, both RG 185, General Correspondence 1904–14, file 2-C-55, part 1. Quotations, financial bonds, equivalent silver pay and access to facilities appear in the opening discussion of the two rolls."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-minutes",
+      "role": "supports",
+      "locator": "Proceedings reporting Stevens's correspondence of 9 and 30 November 1906. The separate letter concerning the joint telephone and telegraph line is explicitly dated ‘Culebra, Canal Zone, November 30, 1906’ and places his office on the day of the payroll letter. The content of the payroll instruction is in RG 185, file 2-C-55."
+    },
+    {
+      "sourceId": "source:canal-labour-goethals-pay-car",
+      "role": "supports",
+      "locator": "Scribner’s Magazine 57 (4), April 1915, p. 396 (wage rolls and European labourers) and p. 404, photograph caption ‘Pay car at Culebra, January 12, 1908’: the carriage had counters and separate entrance and exit. This is an account by the former chief engineer and then governor."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-map",
+      "role": "supports",
+      "locator": "Annex 4, Figure 1, between printed pp. 2 and 3. Overlay of the 1909 street plan labelled ‘Old town of Culebra’ on the March 1947 contours and slide limits. Approximate site on the west bank near Zion Hill. Neither the pay-car siding nor the precise 1906 office is identified on this map."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-map",
+      "role": "derivation",
+      "locator": "Approximate former settlement shown west of the canal on Annex 4, figure 1. The 1906 minutes locate the chief engineer's office in Culebra on the date of his letter; they do not identify the building in which it was written."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: The Panama Canal.",
+    "sourceUrl": "https://www.govinfo.gov/content/pkg/GOVPUB-M115-7668e70a5c1e7671003d929bfa14b6dc/pdf/GOVPUB-M115-7668e70a5c1e7671003d929bfa14b6dc.pdf",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

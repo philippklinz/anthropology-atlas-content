@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-paris-society-congress",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Événements historiques",
+  "url": "https://socgeo.com/evenements-historiques/",
+  "sourceType": "archive",
+  "language": "fr",
+  "creators": [
+    "Société de Géographie"
+  ],
+  "accessedAt": "2026-11-27"
+}

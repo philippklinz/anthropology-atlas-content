@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:fernando-jaen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-water-oceanus",
+      "role": "supports",
+      "locator": "20 June 2016, first two paragraphs. Identifies the successful Pacific-side trial by the US-built crane ship Oceanus and names pilots Fernando Jaén and Ricardo Varela. The commercial inauguration was still six days away."
+    },
+    {
+      "sourceId": "source:panama-water-marotta",
+      "role": "supports",
+      "locator": "1 January 2020. Opening announcement and biographical section “About Mrs. Ilya Espino de Marotta”. The only woman engineer at the shipyard in 1985; resources management and project controls; engineering leadership of the expansion; first woman deputy administrator."
+    },
+    {
+      "sourceId": "source:panama-water-training",
+      "role": "supports",
+      "locator": "23 March 2016. Paragraphs describing two training lakes, a reproduction of Culebra Cut, the 1:25 models used by pilots and tug captains, the Maersk Edinburgh model, and wave and wind generators."
+    },
+    {
+      "sourceId": "source:panama-water-annual-2016",
+      "role": "supports",
+      "locator": "Spanish section, pp. 29–30, “Crónica de un día inolvidable”, arrivals by bus, crowd at noon, entry at about 3 p.m. and ship’s horn at Cocolí. P. 53, training and chartered Baroque. English section, p. 191, completed inauguration and more than 200 transits through September; p. 193, Baroque and Oceanus trials."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Fernando Jaén",
+    "en": "Fernando Jaén"
+  }
+}

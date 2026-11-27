@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:panama-city-grand-hotel-canal-offices-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.5346,
+      8.952
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:belisario-porras",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-health-calidonia-programme",
+      "role": "supports",
+      "locator": "Decree of 7 March 1924, arts. 1 and 3. The former exhibition grounds and the intended opening on 1 September are explicit. The programme is to include a reception and celebrations for administrative staff and convalescent patients. These are instructions for the celebration."
+    },
+    {
+      "sourceId": "source:panama-health-calidonia-decree",
+      "role": "supports",
+      "locator": "Decree of 2 September 1924, Gaceta Oficial no. 4487, 13 September 1924, printed p. 393, left column, “Artículo único”, signed Porras and Jiménez. The text places in public service the hospital built by the nation on a Panama City site fronting Avenida Federico Boyd in the former Exposición Nacional area. PDF p. 2 is a facsimile."
+    },
+    {
+      "sourceId": "source:panama-health-calidonia-inauguration",
+      "role": "supports",
+      "locator": "Memoria del Hospital Santo Tomás 2020–2021, “Recordar es vivir”, caption and opening paragraph. The institution identifies the ceremony and the inauguration by President Belisario Porras on 1 September 1924."
+    },
+    {
+      "sourceId": "source:panama-health-escobar",
+      "role": "supports",
+      "locator": "Chapter VI, “Hospitales en la Época del Canal Francés”, pp. CXLIX–CLI. Companyo, his earlier work at Suez, Huerta de Gallo, the fundraising committee, the September thanksgiving Mass, transfers of patients, the sisters, Colón, the former Taboga hotel and the orphanage. Chapter VII, pp. CLXXIV–CLXXVI, reports the 1916 request for larger premises and lottery funding. Pp. CLXXXII–CLXXXIII name the four nursing graduates of 1912. For the 1924 opening date use the contemporary decrees, which supersede the December date printed on p. CLXXV."
+    },
+    {
+      "sourceId": "source:panama-health-chiriboga-zone",
+      "role": "supports",
+      "locator": "Doctoral thesis, printed p. 50, citing Rodríguez on the 1904 appointment and 1908 count of 117 nurses among 205 US women employed in the Canal Zone. Note 49 quotes La Estrella de Panamá, 9 February 1905, vol. LVI, no. 13544, p. 10, on malaria admissions and the latrines at Ancón. Pp. 52–53 quote the same newspaper of 13 March 1909 on admission of single women aged sixteen to twenty-five at Santo Tomás."
+    },
+    {
+      "sourceId": "source:panama-health-calidonia-site",
+      "role": "supports",
+      "locator": "Ficha P0410, Edificio Hospital Santo Tomás y sus jardines, Calidonia, Avenida Balboa between calles 34 and 37 Este. WGS84 / UTM 17N 661372.55 E, 991793.16 N, converted to 8.96942° N, 79.53211° W. Historical description gives separate buildings, sidewalks and gardens and identifies the broad eaves."
+    },
+    {
+      "sourceId": "source:panama-locks-morning-journal",
+      "role": "supports",
+      "locator": "Tenth year, no. 2948, 16 August 1914, p. 1, col. 3 (digital file, pp. 2–3). Account of the special train and sailing from Cristóbal, lunch and steward Leddeke, Gamboa and dredge crews, spectators at Pedro Miguel, the outer buoys, transfer to boats and the anthem for President Porras."
+    },
+    {
+      "sourceId": "source:panama-locks-august-1914-report",
+      "role": "supports",
+      "locator": "Vol. VIII, no. 6, p. 52, letter dated 24 September 1914, opening paragraphs. The report distinguishes the 3 August Cristobal test to Balboa from the 15 August Ancon deep-water passage, then counts six vessels on 16 August."
+    },
+    {
+      "sourceId": "source:panama-locks-ancon-photo",
+      "role": "supports",
+      "locator": "Record Group 185, local identifier 185-G-0888, NAID 100996356. View from Cerro Luisa, 15 August 1914. Cropped archival photograph, file page with creator, identified location, date and public-domain status."
+    },
+    {
+      "sourceId": "source:panama-locks-construction-end",
+      "role": "supports",
+      "locator": "Opening paragraphs on the 7 January 1914 completion of a staged crossing by the old French crane boat Alexandre La Valley and the inauguration with John A. Constantine serving as pilot aboard Ancon."
+    },
+    {
+      "sourceId": "source:panama-locks-report-1914",
+      "role": "supports",
+      "locator": "Report of Electrical and Mechanical Engineer, pp. 115–116, “Up lockage of tug Gatun” and its return. Measured lift 64.7 feet. Pp. 118–119, first passage of the west chamber at Pedro Miguel by La Valley with Clapet No. 9 and barge No. 6, and trial at Gatún by the Ancon on 11 June."
+    },
+    {
+      "sourceId": "source:panama-locks-design",
+      "role": "supports",
+      "locator": "Paragraphs on lock steps and origin of construction cement, gravity and locomotives. Concluding paragraphs cover shovels 222 and 230 on 20 May 1913, locomotive 260 on 10 September, the Gatun tug on 26 September and Marmot’s December cut at Cucaracha."
+    },
+    {
+      "sourceId": "source:panama-locks-collier-map",
+      "role": "supports",
+      "locator": "The New Encyclopedic Atlas and Gazetteer of the World (1914), p. 66. Map of the route through Gatún Lake and the cut to the Pacific locks, with the railway, grid index, settlement names and coastal approaches."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Belisario Porras",
+    "en": "Belisario Porras"
+  }
+}

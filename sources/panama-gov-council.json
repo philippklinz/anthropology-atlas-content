@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-council",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Felix Ehrman to Francis B. Loomis, with the municipal act and manifesto",
+  "url": "https://history.state.gov/historicaldocuments/frus1903/d309",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Felix Ehrman, Star and Herald and the municipal council of Panama, Foreign Relations of the United States"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1903"
+}

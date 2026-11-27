@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:panama-hospitals-nursing",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-culebra-minutes",
+      "role": "supports",
+      "locator": "Minutes, 118th meeting at Washington, 24 December 1906, printed p. 49, item 2. The Chief Sanitary Officer’s 1 December communication gives 7 June 1904 as the beginning of the service of “Miss M. Eugenie Hibbard” as chief nurse at Ancon Hospital. This is the credited start of her appointment."
+    },
+    {
+      "sourceId": "source:panama-health-hernandez-nurses",
+      "role": "supports",
+      "locator": "The Panama Canal Review en Español, spring 1976, printed pp. 32–33. Hernández calls her Mary Eugene Hibbard, dates her appointment to June 1904, describes her arrival with Gorgas and two nurses, and quotes her recollections of some 75 scattered buildings and the five buildings selected for ward and service uses."
+    },
+    {
+      "sourceId": "source:panama-health-chiriboga-zone",
+      "role": "supports",
+      "locator": "Doctoral thesis, printed p. 50, citing Rodríguez on the 1904 appointment and 1908 count of 117 nurses among 205 US women employed in the Canal Zone. Note 49 quotes La Estrella de Panamá, 9 February 1905, vol. LVI, no. 13544, p. 10, on malaria admissions and the latrines at Ancón. Pp. 52–53 quote the same newspaper of 13 March 1909 on admission of single women aged sixteen to twenty-five at Santo Tomás."
+    },
+    {
+      "sourceId": "source:panama-health-doolittle-card",
+      "role": "supports",
+      "locator": "Service Records Cards, 1904–1920, series NAID 7226556. Illustration captioned “Miss Anna L. Doolittle, June 21, 1907 Service Card”, recto and verso, followed by Brown’s identification of her age, home in West Virginia and Ancon Hospital appointment. The full-size image linked farther down is separately identified as Ward 9, NAID 6120319."
+    },
+    {
+      "sourceId": "source:panama-health-pierce-1904",
+      "role": "supports",
+      "locator": "Public Health Reports 19 (8), 19 February 1904, printed p. 277, “Hospitals”: wooden, separated pavilions of the French hospital, nursing by Sisters of Charity, twenty-four patients in the foreign section and twenty in the canal section. This is a count made before the US canal administration assumed the hospital."
+    },
+    {
+      "sourceId": "source:panama-health-ancon-site",
+      "role": "supports",
+      "locator": "Ficha P1405, Antiguo Hospital Gorgas, Calle Gorgas y Calle Juan de Arco Galindo, Ancón, records 659775.38 E, 990772.36 N in WGS84 / UTM zone 17N, converted to 8.96024° N, 79.54667° W. Marks the hospital complex as rebuilt from 1915 to 1919. For the continuity of the French hospital site see Escobar, p. CXLIX, and MINSA. Individual wards and earlier pavilions are not fixed by this point."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Hibbard übernimmt die Leitung der Krankenpflege",
+    "en": "Hibbard takes charge of nursing"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1904,
+        "month": 6,
+        "day": 7
+      },
+      "latest": {
+        "year": 1904,
+        "month": 6,
+        "day": 7
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:mary-eugene-hibbard",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:ancon-hospital-panama"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:ancon-hospital-panama-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Kommission rechnete Hibbards Dienstzeit vom 7. Juni an. In Ancón suchte sie fünf Gebäude für die Patienten und die Versorgung der Stationen aus.",
+      "en": "The commission credited Hibbard’s service from 7 June. At Ancón she chose five buildings to house the patients and the services the wards needed."
+    }
+  }
+}

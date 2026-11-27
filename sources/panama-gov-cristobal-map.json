@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-cristobal-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Terminal de Contenedores, Puerto de Cristóbal",
+  "url": "https://www.amp.gob.pa/servicios/puertos-e-industrias-maritimas-auxiliares/infraestructura/terminal-de-contenedores/",
+  "sourceType": "dataset",
+  "language": "es",
+  "creators": [
+    "Autoridad Marítima de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

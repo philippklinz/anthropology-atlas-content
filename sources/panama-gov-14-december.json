@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-14-december",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Statement by the President on the Panama Canal",
+  "url": "https://clintonwhitehouse6.archives.gov/1999/12/1999-12-14-statement-by-the-president-on-the-panama-canal.html",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Office of the Press Secretary, The White House"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1999"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-calidonia-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Modelo Territorial Consensuado, anexo 2, ficha P0410: Edificio Hospital Santo Tomás y sus jardines",
+  "url": "https://dpu.mupa.gob.pa/wp-content/uploads/2025/08/3-ANEXO-2-TOMO-1-Anexos-MTC-marzo-2021.pdf",
+  "sourceType": "dataset",
+  "language": "es",
+  "creators": [
+    "Municipio de Panamá, Dirección de Planificación Urbana"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2021"
+}

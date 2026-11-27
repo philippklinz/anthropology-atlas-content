@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-colon-point",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Colón, Panamá. Getty Thesaurus of Geographic Names, 7006458",
+  "url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=&nation=&place=&subjectid=7006458",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "Getty Research Institute"
+  ],
+  "accessedAt": "2026-11-27"
+}

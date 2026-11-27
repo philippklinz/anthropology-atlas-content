@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:old-gatun-at-the-dam",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-seacole",
+      "role": "supports",
+      "locator": "Chapter II, pp. 11–17 in the 1857 edition: transfer at Gatún, steps, luggage, the reasons for hiring a private boat, fare, crew, hammock, poles, rising river and the butcher at Gorgona. The memoir looks back on the journey."
+    },
+    {
+      "sourceId": "source:panama-crossing-seacole-date",
+      "role": "supports",
+      "locator": "Caribbean workers on the Panama Canal, part 3 “Women in the Story”, p. 41. Dates Mary Seacole’s journey to Panama to 1851 and identifies her brother’s hotel. The date is not the publication date of her memoir."
+    },
+    {
+      "sourceId": "source:panama-crossing-gatun-retrospect",
+      "role": "supports",
+      "locator": "July 4, 1952, p. 6. Reprint of the December 6, 1911 account of the Chagres settlements. Passage on the old village of Gatun in the river flats, abandonment in 1908, and the site under Gatun Dam."
+    },
+    {
+      "sourceId": "source:panama-town-gatun-dam-point",
+      "role": "supports",
+      "locator": "GeoNames 3709287, Gatún Dam at 9.262778 N, 79.930000 W. Rounded modern reference for the former village site covered by the dam."
+    },
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-lost",
+      "role": "supports",
+      "locator": "La Prensa, 6 July 2014. The paragraphs beginning “A diferencia de lo que se cree comúnmente” and “Además, los trabajos del Canal” distinguish flooded Gorgona, the first relocation of Gatún and the later clearance of dry settlements. The preceding paragraphs reconstruct commerce and housing from tax records."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "supports",
+      "locator": "Cuadernos Nacionales 37, pp. 151–154, section “Estación de Gatún.” Figures 32 and 36 locate the original and relocated railway station and relate the latter to the buildings and shoreline. Figure 33 and the text on pp. 152–153 describe the platform, ticket office, telegraph and baggage room."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Alt-Gatún am Río Chagres",
+    "en": "Old Gatún on the Chagres"
+  }
+}

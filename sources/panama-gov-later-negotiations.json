@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-later-negotiations",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Panama Canal and the Torrijos-Carter Treaties",
+  "url": "https://history.state.gov/milestones/1977-1980/panama-canal",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "U.S. Department of State, Office of the Historian"
+  ],
+  "accessedAt": "2026-11-27"
+}

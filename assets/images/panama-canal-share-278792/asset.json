@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:panama-canal-share-278792",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-edhac-share-278792",
+      "role": "supports",
+      "locator": "Full front, 2,359 × 2,156 pixels. Central face, 500 francs nominal and 250 paid. Figures labelled North and South America, right-to-subscribe stamp above, Bayonne receipts for February and September 1886 below. The 1880 dates printed at the top concern the statutes. Public-domain statement on the file page."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Inhaberaktie Nr. 278792 der französischen Kanalgesellschaft",
+    "en": "Bearer share no. 278792 of the French canal company"
+  },
+  "alt": {
+    "de": "Die Aktie nennt einen Nennwert von 500 Francs. Unter den Figuren Nord- und Südamerikas tragen zwei Quittungen den Ortsnamen Bayonne und handschriftliche Daten aus dem Jahr 1886.",
+    "en": "The certificate has a face value of 500 francs. Beneath the figures of North and South America, two receipts bear the place name Bayonne and handwritten dates in 1886."
+  },
+  "entityIds": [
+    "artifact:panama-canal-share-278792"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Compagnie universelle du canal interocéanique de Panama. Engraving signed Stern, Paris."
+    ],
+    "attribution": "Share no. 278792 of the Compagnie universelle du canal interocéanique de Panama (statutes of 1880). Engraving marked Stern, Paris. Collection of a member of Erster Deutscher Historic-Actien-Club e.V., uploaded by Edhac-Edham, Wikimedia Commons. Public domain. https://creativecommons.org/publicdomain/mark/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canal_Interoceanique_de_Panama_1880.jpg",
+    "originNote": "Web edition of the original 2359 × 2156 image. Resampled to 1420 × 1298 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

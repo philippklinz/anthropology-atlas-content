@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:martin-torrijos",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-water-referendum",
+      "role": "supports",
+      "locator": "22 October 2006. Ballot question, voting and turnout tables and project footnote. 705,284 yes, 201,105 no, 9,967 blank and 7,673 invalid; 924,029 ballots, 2,132,842 registered. The printed 76.3% uses all ballots. The yes/no subtotal of 906,389 gives 77.8% yes."
+    },
+    {
+      "sourceId": "source:panama-water-constitution",
+      "role": "supports",
+      "locator": "Title XV, Chapter 1, Article 325, first, third and fourth paragraphs. A proposal for a third set of locks requires executive and legislative approval, then a national referendum at least three months after legislative approval."
+    },
+    {
+      "sourceId": "source:panama-water-expansion-proposal",
+      "role": "supports",
+      "locator": "24 April 2006. Section 1, p. 3 and fig. 1, two existing lanes, new locks at both ends, channels and maximum lake level. Section 5.6, pp. 47–48, fig. 32 and note 78, gravity, three basins per chamber, 60% reuse within the new system and projected 7% less water per transit than the old locks. Section 7, p. 53, proposal using existing reservoirs."
+    },
+    {
+      "sourceId": "source:panama-water-debate-2006",
+      "role": "supports",
+      "locator": "Report RL30981, updated 16 November 2006, pp. CRS-15–16, “Canal Expansion Project”. Torrijos on revenue for social programmes and the Coordinadora Campesina Contra los Embalses on the risk of displacement. These are arguments put forward during the campaign."
+    },
+    {
+      "sourceId": "source:panama-gov-handover-site",
+      "role": "supports",
+      "locator": "Opening three paragraphs. Identifies the flag site outside the Administration Building and distinguishes the anniversary ceremony of 2019 from the transfer at noon on 31 December 1999."
+    },
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Martín Torrijos",
+    "en": "Martín Torrijos"
+  }
+}

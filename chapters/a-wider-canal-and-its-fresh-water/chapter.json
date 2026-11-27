@@ -1,0 +1,532 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:a-wider-canal-and-its-fresh-water",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-water-referendum",
+      "role": "supports",
+      "locator": "22 October 2006. Ballot question, voting and turnout tables and project footnote. 705,284 yes, 201,105 no, 9,967 blank and 7,673 invalid; 924,029 ballots, 2,132,842 registered. The printed 76.3% uses all ballots. The yes/no subtotal of 906,389 gives 77.8% yes."
+    },
+    {
+      "sourceId": "source:panama-water-constitution",
+      "role": "supports",
+      "locator": "Title XV, Chapter 1, Article 325, first, third and fourth paragraphs. A proposal for a third set of locks requires executive and legislative approval, then a national referendum at least three months after legislative approval."
+    },
+    {
+      "sourceId": "source:panama-water-expansion-proposal",
+      "role": "supports",
+      "locator": "24 April 2006. Section 1, p. 3 and fig. 1, two existing lanes, new locks at both ends, channels and maximum lake level. Section 5.6, pp. 47–48, fig. 32 and note 78, gravity, three basins per chamber, 60% reuse within the new system and projected 7% less water per transit than the old locks. Section 7, p. 53, proposal using existing reservoirs."
+    },
+    {
+      "sourceId": "source:panama-water-debate-2006",
+      "role": "supports",
+      "locator": "Report RL30981, updated 16 November 2006, pp. CRS-15–16, “Canal Expansion Project”. Torrijos on revenue for social programmes and the Coordinadora Campesina Contra los Embalses on the risk of displacement. These are arguments put forward during the campaign."
+    },
+    {
+      "sourceId": "source:panama-gov-handover-site",
+      "role": "supports",
+      "locator": "Opening three paragraphs. Identifies the flag site outside the Administration Building and distinguishes the anniversary ceremony of 2019 from the transfer at noon on 31 December 1999."
+    },
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-locks-new-basins",
+      "role": "supports",
+      "locator": "Announcement, 5 February 2016, paragraphs on the basins at Agua Clara and Cocolí and reuse of water from Gatún Lake per lockage."
+    },
+    {
+      "sourceId": "source:panama-water-training",
+      "role": "supports",
+      "locator": "23 March 2016. Paragraphs describing two training lakes, a reproduction of Culebra Cut, the 1:25 models used by pilots and tug captains, the Maersk Edinburgh model, and wave and wind generators."
+    },
+    {
+      "sourceId": "source:panama-water-oceanus",
+      "role": "supports",
+      "locator": "20 June 2016, first two paragraphs. Identifies the successful Pacific-side trial by the US-built crane ship Oceanus and names pilots Fernando Jaén and Ricardo Varela. The commercial inauguration was still six days away."
+    },
+    {
+      "sourceId": "source:panama-water-marotta",
+      "role": "supports",
+      "locator": "1 January 2020. Opening announcement and biographical section “About Mrs. Ilya Espino de Marotta”. The only woman engineer at the shipyard in 1985; resources management and project controls; engineering leadership of the expansion; first woman deputy administrator."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-draw",
+      "role": "supports",
+      "locator": "29 April 2016, paragraphs identifying the two participating lines and their ships Andronikos and Thalatta, the venue, the notary, Jorge Quijano, the drawing of the two names and the selected ship’s length and beam."
+    },
+    {
+      "sourceId": "source:panama-water-lottery-report",
+      "role": "supports",
+      "locator": "30 April 2016. Opening paragraphs describe the previous morning’s draw in the rotunda using the national lottery urn. Reporter names Margarita Azucena, notary Víctor Aldana Aparicio and administrator Jorge Quijano, and identifies both ships."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-morning",
+      "role": "supports",
+      "locator": "Morning dispatch, 26 June 2016. Opening paragraphs identify the vessel formerly named Andronikos, departure from Piraeus and the start at Agua Clara; the Pacific-side passage was still expected as this was written."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-completion",
+      "role": "supports",
+      "locator": "Final communiqué, 26 June 2016, paragraph beginning “The inaugural transit began”. Records a completed passage from Agua Clara on the Atlantic to Cocolí on the Pacific by Cosco Shipping Panama, bound for Asia."
+    },
+    {
+      "sourceId": "source:panama-water-annual-2016",
+      "role": "supports",
+      "locator": "Spanish section, pp. 29–30, “Crónica de un día inolvidable”, arrivals by bus, crowd at noon, entry at about 3 p.m. and ship’s horn at Cocolí. P. 53, training and chartered Baroque. English section, p. 191, completed inauguration and more than 200 transits through September; p. 193, Baroque and Oceanus trials."
+    },
+    {
+      "sourceId": "source:panama-locks-construction-end",
+      "role": "supports",
+      "locator": "Opening paragraphs on the 7 January 1914 completion of a staged crossing by the old French crane boat Alexandre La Valley and the inauguration with John A. Constantine serving as pilot aboard Ancon."
+    },
+    {
+      "sourceId": "source:panama-water-annual-2024",
+      "role": "supports",
+      "locator": "Chairman’s message, opening paragraph on 1 October 2023 to 30 September 2024. Printed p. 22, Water Use, graph 1, 542 hm³ for drinking water, 17% of 3,124 hm³; p. 23, Rainfall, graph 2, watershed rainfall of 2,118 mm and historical average 2,660 mm; p. 24, Pilot Plan for Water Treatment, April 2024 reverse-osmosis pilot at Escobal for a projected 2,500 residents."
+    },
+    {
+      "sourceId": "source:panama-water-rainfall-attribution",
+      "role": "supports",
+      "locator": "1 May 2024, opening four paragraphs, fig. 1 and Main findings. May–December 2023 rainfall near the Gatún catchment, lake levels, ship number and size restrictions, rising urban demand and leakage, influence of El Niño, differing station trends and insufficient evidence for attribution of observed drying to human-caused warming."
+    },
+    {
+      "sourceId": "source:panama-water-sentinel-composite",
+      "role": "supports",
+      "locator": "20 October 2023. Image description, on Sentinel-1 radar observations and year-colour assignment, and the Credits and Licence fields for the 1,623 × 1,623 JPEG. Blue 2020, green 2021, red 2022, with ships on Gatún Lake and offshore. CC BY-SA 3.0 IGO is an explicit licence option."
+    },
+    {
+      "sourceId": "source:panama-water-arap-lake",
+      "role": "supports",
+      "locator": "PDF p. 1, paragraph giving the lake reference point 09°10′31.7″ N, 79°54′06.4″ W, with cross-references to the national mapping institute. PDF pp. 3–5, fishery and tables 1–2, listing Escobal among the fishing communities. The fisheries figures cited there come from 2004."
+    },
+    {
+      "sourceId": "source:panama-water-panama-city-point",
+      "role": "supports",
+      "locator": "GeoNames 3703443, Panama City, national capital. Coordinates 8.99360, −79.51973. The capital represents the nationwide referendum."
+    },
+    {
+      "sourceId": "source:panama-water-agua-clara-visitor",
+      "role": "supports",
+      "locator": "“Centro de Visitantes de Agua Clara – Gatún” and “Exhibición panorámica”. The public visitor site overlooks the Caribbean-side works near Colón."
+    },
+    {
+      "sourceId": "source:panama-water-agua-clara-point",
+      "role": "supports",
+      "locator": "Map entry for the public visitor centre, OpenStreetMap node 4593152300, 9.26486, −79.90954, with the Agua Clara Locks to the northwest. Rounded regional map reference."
+    },
+    {
+      "sourceId": "source:panama-water-cocoli-point",
+      "role": "supports",
+      "locator": "GeoNames 3712135, populated place Cocolí, 8.98449, −79.59775. Rounded locality point for the Pacific-side trial."
+    }
+  ],
+  "labels": {
+    "de": "Wie viel Wasser braucht der erweiterte Panamakanal?",
+    "en": "How much water does the expanded Panama Canal need?"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:canal-water-referendum",
+    "event:canal-water-basins",
+    "event:canal-water-trial",
+    "event:canal-water-new-locks",
+    "event:canal-water-rainfall",
+    "asset:panama-canal-sentinel-1-traffic-2020-22"
+  ],
+  "recordIds": [
+    "artifact:cosco-shipping-panama-container-ship",
+    "artifact:oceanus-crane-ship",
+    "asset:panama-canal-sentinel-1-traffic-2020-22",
+    "event:canal-water-basins",
+    "event:canal-water-new-locks",
+    "event:canal-water-rainfall",
+    "event:canal-water-referendum",
+    "event:canal-water-trial",
+    "geometry:agua-clara-visitor-center-panama-orientation",
+    "geometry:cocoli-panama-orientation",
+    "geometry:gatun-lake-panama-orientation",
+    "geometry:panama-city-panama-orientation",
+    "person:fernando-jaen",
+    "person:ilya-espino-de-marotta",
+    "person:jorge-l-quijano",
+    "person:martin-torrijos",
+    "person:ricardo-varela",
+    "place:agua-clara-visitor-center-panama",
+    "place:cocoli-panama",
+    "place:gatun-lake-panama",
+    "place:panama-city-panama",
+    "source:panama-gov-handover-site",
+    "source:panama-locks-construction-end",
+    "source:panama-locks-new-basins",
+    "source:panama-town-lake-villages",
+    "source:panama-water-agua-clara-point",
+    "source:panama-water-agua-clara-visitor",
+    "source:panama-water-annual-2016",
+    "source:panama-water-annual-2024",
+    "source:panama-water-arap-lake",
+    "source:panama-water-cocoli-point",
+    "source:panama-water-constitution",
+    "source:panama-water-debate-2006",
+    "source:panama-water-expansion-proposal",
+    "source:panama-water-inaugural-completion",
+    "source:panama-water-inaugural-draw",
+    "source:panama-water-inaugural-morning",
+    "source:panama-water-lottery-report",
+    "source:panama-water-marotta",
+    "source:panama-water-oceanus",
+    "source:panama-water-panama-city-point",
+    "source:panama-water-rainfall-attribution",
+    "source:panama-water-referendum",
+    "source:panama-water-sentinel-composite",
+    "source:panama-water-training"
+  ],
+  "steps": [
+    {
+      "id": "referendum",
+      "textAnchor": "referendum",
+      "labels": {
+        "de": "22. Oktober 2006 · Panama stimmt über größere Schleusen ab",
+        "en": "22 October 2006 · Panama votes on wider locks"
+      },
+      "summary": {
+        "de": "Landesweit stimmen 705.284 Menschen für und 201.105 gegen den Ausbau. Regierung und Parlament hatten bereits zugestimmt. Der Kartenpunkt in der Hauptstadt steht für das landesweite Votum.",
+        "en": "Voters across Panama cast 705,284 yes votes and 201,105 no votes after the government and legislature approved the expansion. The capital represents the nationwide vote."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.51973,
+          "latitude": 8.9936,
+          "metersPerPixel": 2400,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 2006,
+              "month": 10,
+              "day": 22
+            },
+            "latest": {
+              "year": 2006,
+              "month": 10,
+              "day": 22
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "basins",
+      "textAnchor": "basins",
+      "labels": {
+        "de": "5. Februar 2016, Meldung der Kanalbehörde · Das erste Sparbecken in Agua Clara wird erprobt",
+        "en": "5 February 2016, authority announcement · Testing starts at the first basin in Agua Clara"
+      },
+      "summary": {
+        "de": "Die Kanalbehörde meldet den Beginn der Tests an einem Becken der obersten Kammer. Seitliche Becken speichern Wasser für eine weitere Schleusung. Als Ortsbezug dient das Besucherzentrum bei Colón.",
+        "en": "The canal authority reports testing at a basin beside the upper chamber. The basins hold water for another lockage. The visitor centre near Colón marks the area."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.91,
+          "latitude": 9.265,
+          "metersPerPixel": 550,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 2016,
+              "month": 2,
+              "day": 5
+            },
+            "latest": {
+              "year": 2016,
+              "month": 2,
+              "day": 5
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "trial",
+      "textAnchor": "trial",
+      "labels": {
+        "de": "20. Juni 2016 · Zwei Lotsen steuern die Oceanus durch Cocolí",
+        "en": "20 June 2016 · Two pilots take Oceanus through Cocolí"
+      },
+      "summary": {
+        "de": "Fernando Jaén und Ricardo Varela steuern ein Kranschiff durch die neuen Pazifikschleusen. Die technische Leitung des Ausbauprogramms hat Ilya Espino de Marotta. Der Punkt bezeichnet den Ort Cocolí.",
+        "en": "Fernando Jaén and Ricardo Varela take a crane ship through the new Pacific locks. Ilya Espino de Marotta led engineering for the expansion. The point marks the locality of Cocolí."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.6,
+          "latitude": 8.98,
+          "metersPerPixel": 560,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 2016,
+              "month": 6,
+              "day": 20
+            },
+            "latest": {
+              "year": 2016,
+              "month": 6,
+              "day": 20
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "new-locks",
+      "textAnchor": "new-locks",
+      "labels": {
+        "de": "26. Juni 2016 · Die Cosco Shipping Panama fährt von Meer zu Meer",
+        "en": "26 June 2016 · Cosco Shipping Panama crosses from sea to sea"
+      },
+      "summary": {
+        "de": "Die erste kommerzielle Durchfahrt beginnt in Agua Clara am Atlantik und endet in Cocolí am Pazifik. Die Karte markiert die Karibikseite beim heutigen Besucherzentrum.",
+        "en": "The inaugural commercial passage starts at Agua Clara on the Atlantic and ends at Cocolí on the Pacific. The map marks the Caribbean side at today’s visitor centre."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.91,
+          "latitude": 9.265,
+          "metersPerPixel": 550,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 2016,
+              "month": 6,
+              "day": 26
+            },
+            "latest": {
+              "year": 2016,
+              "month": 6,
+              "day": 26
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "rainfall",
+      "textAnchor": "rainfall",
+      "labels": {
+        "de": "1. Oktober 2023 bis 30. September 2024 · Wenig Regen im Einzugsgebiet des Kanals",
+        "en": "1 October 2023 to 30 September 2024 · A rain shortage in the canal watershed"
+      },
+      "summary": {
+        "de": "Für das Geschäftsjahr 2023/24 verzeichnet die Kanalbehörde 2.118 Millimeter Regen im Einzugsgebiet und 542 Millionen Kubikmeter für Trinkwasser. Der Punkt bezeichnet den Gatúnsee. Die ESA-Aufnahmen stammen aus den Jahren vor der trockenen Regenzeit.",
+        "en": "For fiscal year 2023/24 the authority records 2,118 millimetres of rain across the watershed and 542 million cubic metres for drinking water. The point represents Gatún Lake. The ESA imagery predates the dry rainy season."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.90178,
+          "latitude": 9.17547,
+          "metersPerPixel": 2500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 2023,
+              "month": 10,
+              "day": 1
+            },
+            "latest": {
+              "year": 2023,
+              "month": 10,
+              "day": 1
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 2024,
+              "month": 9,
+              "day": 30
+            },
+            "latest": {
+              "year": 2024,
+              "month": 9,
+              "day": 30
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:panama-canal-sentinel-1-traffic-2020-22"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Panama stimmt über größere Schleusen ab. Zwei Lotsen erproben sie auf einem Kranschiff, bevor ein ausgelostes Containerschiff die Meere wechselt. Als Jahre später ungewöhnlich wenig Regen fällt, brauchen Schiffe und Ufergemeinden das Wasser desselben Sees.",
+      "en": "Panamanians vote on wider locks. Two pilots take a crane ship through on trial, and a container ship wins the right to cross first. When the rains fall short years later, the ships and the communities on the shore need water from the same lake."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "water-management",
+        "labels": {
+          "de": "Wasserbau",
+          "en": "Water management"
+        }
+      },
+      {
+        "id": "climate-and-landscape",
+        "labels": {
+          "de": "Klima und Landschaft",
+          "en": "Climate and landscape"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "twenty-first-century",
+        "labels": {
+          "de": "21. Jahrhundert",
+          "en": "Twenty-first century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -79.71487,
+      "latitude": 9.1225,
+      "metersPerPixel": 342,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 2006,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 2006,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 2024,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 2024,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

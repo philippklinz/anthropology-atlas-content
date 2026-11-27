@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:portobelo-harbour",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-fairs",
+      "role": "supports",
+      "locator": "Anales del Museo de América XX, pp. 264–267, ports, the foundation of San Felipe de Portobelo, the fairs, merchandise and provisioning. Pp. 267–269, especially p. 268, the two itineraries, the municipal warehouse built at Cruces in 1536, 47 compartments, enslaved households, river transport and cargo craft."
+    },
+    {
+      "sourceId": "source:panama-crossing-icomos",
+      "role": "supports",
+      "locator": "Section 2, “Description and history”, opening discussion of the itineraries. Follow the sequence Nombre de Dios, coastal navigation, Chagres, Venta de Cruces and Panamá Viejo. The evaluation dates the village of Cruces to 1533, before the warehouse. Also the 1597 transfer and the relocation of Panamá in 1673."
+    },
+    {
+      "sourceId": "source:panama-crossing-portobelo-point",
+      "role": "supports",
+      "locator": "Geographical data, component 135-001 Portobelo, 9°33′14″ N, 79°39′21″ W. Area of the harbour rather than an individual fair stall or berth."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hafen von Portobelo",
+    "en": "Harbour of Portobelo"
+  }
+}

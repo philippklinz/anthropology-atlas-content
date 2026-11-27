@@ -1,0 +1,477 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:gatun-lake-and-the-displaced-towns",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-lost",
+      "role": "supports",
+      "locator": "La Prensa, 6 July 2014. The paragraphs beginning “A diferencia de lo que se cree comúnmente” and “Además, los trabajos del Canal” distinguish flooded Gorgona, the first relocation of Gatún and the later clearance of dry settlements. The preceding paragraphs reconstruct commerce and housing from tax records."
+    },
+    {
+      "sourceId": "source:panama-town-rail-relocation",
+      "role": "supports",
+      "locator": "Volume 50, pp. 2534–2535, “Relocation of Panama Railroad.” The engineering account reproduced here distinguishes the closure at Gatun on 9 February and the new Gatun–Matachin service on 15 February 1912. It describes the progression of flooding on the old right of way."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "supports",
+      "locator": "Cuadernos Nacionales 37, pp. 151–154, section “Estación de Gatún.” Figures 32 and 36 locate the original and relocated railway station and relate the latter to the buildings and shoreline. Figure 33 and the text on pp. 152–153 describe the platform, ticket office, telegraph and baggage room."
+    },
+    {
+      "sourceId": "source:panama-town-gordon-gorgona",
+      "role": "supports",
+      "locator": "La Estrella de Panamá, 11 November 2023. Caption to the plan of finca 1723 and section “Los nuevos poblados” on the 200-hectare purchase in July 1913, residents from different settlements, and journeys to the outskirts of Panama City. For the storage site and the speech the accompanying chapter uses the contemporary English-language report."
+    },
+    {
+      "sourceId": "source:panama-town-new-gorgona",
+      "role": "supports",
+      "locator": "The Canal Record, vol. VII, no. 19, 31 December 1913, p. 174. Account of the 30 December dedication, the bishop’s tablet, Tomás Posada’s address for the residents, building materials on dump No. 6, water, agricultural land and the bridge. The closing paragraph gives the population estimate and distinguishes temporary from rebuilt houses."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-depopulation",
+      "role": "supports",
+      "locator": "In Ashley Carse et al., Panama Canal Forum, Environmental History 21(2), pp. 240–249. See pp. 241–242 on the dry site of New Gatún and its 1914 clearance, pp. 246–247 on Chagres, and p. 249, notes 26–30, on the 8 December 1915 request, Panama’s reply, the residents’ acta dated 31 January 1916 and the moving-cost correspondence."
+    },
+    {
+      "sourceId": "source:panama-town-ensenat-claim",
+      "role": "supports",
+      "locator": "The Canal Record, vol. VIII. Joint Land Commission, docket 1884, opinion of 26 October 1914. Reproduces the executive order signed 5 December 1912 and the 5 June 1914 cancellation notice for Lot 8, Block 5, village of Empire. The final paragraphs establish the commission’s jurisdiction over this leasehold claim."
+    },
+    {
+      "sourceId": "source:panama-town-barro-chronology",
+      "role": "supports",
+      "locator": "Chronology of Smithsonian History, record 230, 17 April 1923. The entry names Governor Jay J. Morrow, identifies the creation of the island by flooding and distinguishes the reserve declaration from the construction of the laboratory."
+    },
+    {
+      "sourceId": "source:panama-town-standley-flora",
+      "role": "supports",
+      "locator": "Smithsonian Miscellaneous Collections 78(8), pp. 1–2. Standley describes the laboratory window, the submerged town of Bohío, dead tree trunks in the inlets, abandoned fields with secondary vegetation and his observations of wooded ravines."
+    },
+    {
+      "sourceId": "source:panama-town-bci-soils",
+      "role": "supports",
+      "locator": "Introduction, first paragraphs on the flooding of the lower Chagres valley, old growth, secondary growth and small farms, and the purchase of the remaining smallholders’ interests when the island became a reserve."
+    },
+    {
+      "sourceId": "source:panama-town-gatun-dam-point",
+      "role": "supports",
+      "locator": "Gazetteer ID 3709287, dam in Colón, 9.262778° N, 79.930000° W. Rounded to 9.26° N, 79.93° W to identify the dam area covering the old village; the 1911 account supplies the historical association."
+    },
+    {
+      "sourceId": "source:panama-town-nueva-gorgona-point",
+      "role": "supports",
+      "locator": "Gazetteer ID 3703839 for the settlement in Chame, Panamá Oeste, 8.554786° N, 79.874269° W. Rounded point for the coastal settlement founded in 1913."
+    },
+    {
+      "sourceId": "source:panama-crossing-viejo-map",
+      "role": "supports",
+      "locator": "Component 1582rev-001, Castle of San Lorenzo. Coordinates 9°19′23.42″ N, 79°59′59.19″ W are rounded for orientation at the old port near the fort, as located by Lasso. The mapped marker indicates the river mouth."
+    },
+    {
+      "sourceId": "source:panama-town-bci-point",
+      "role": "supports",
+      "locator": "Section 2.1 and island outline. The survey gives bounds of 9°08′–9°11′ N and 79°49′–79°52′ W. The marker is an approximate point within the island."
+    },
+    {
+      "sourceId": "source:panama-town-gorgona-stereocard",
+      "role": "supports",
+      "locator": "Stereograph Cards collection, Library of Congress control number 2002697845, digital identifier LC-DIG-stereo-1s34806. Color halftone print on a stereograph card made in the United States, catalogued about 1900. The caption names old Gorgona. Rights advisory: no known restrictions on publication."
+    },
+    {
+      "sourceId": "source:panama-town-de-gracia-chagres",
+      "role": "supports",
+      "locator": "Memorias 58, pp. 23–25. Panamanian foreign ministry, 1916, pp. 331–332, records the 31 January inspection and the selection by local officials and residents of the site opposite the village of Lagarto. The Canal Record, 14 June 1916, p. 365, reports the first trip with residents, household goods and animals. Descendants recall that some families settled elsewhere. DOI 10.14482/memor.58.121.526."
+    }
+  ],
+  "labels": {
+    "de": "Der Gatúnsee und die Orte, die umziehen mussten",
+    "en": "Gatun Lake and the towns that had to move"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:canal-towns-gatun",
+    "event:canal-towns-railway-diversion",
+    "event:canal-towns-gorgona",
+    "event:canal-towns-chagres",
+    "event:canal-towns-barro-colorado",
+    "asset:old-gorgona-street-library-of-congress"
+  ],
+  "recordIds": [
+    "artifact:old-gorgona-stereograph",
+    "asset:old-gorgona-street-library-of-congress",
+    "community:residents-of-old-gatun",
+    "event:canal-towns-barro-colorado",
+    "event:canal-towns-chagres",
+    "event:canal-towns-gatun",
+    "event:canal-towns-gorgona",
+    "event:canal-towns-railway-diversion",
+    "geometry:barro-colorado-island-panama-orientation",
+    "geometry:gatun-relocated-railway-station-orientation",
+    "geometry:nueva-gorgona-panama-pacific-orientation",
+    "geometry:old-chagres-by-san-lorenzo-orientation",
+    "geometry:old-gatun-at-the-dam-orientation",
+    "person:jay-j-morrow",
+    "person:tomas-posada-nueva-gorgona",
+    "place:barro-colorado-island-panama",
+    "place:gatun-relocated-railway-station",
+    "place:nueva-gorgona-panama-pacific",
+    "place:old-chagres-by-san-lorenzo",
+    "place:old-gatun-at-the-dam",
+    "source:panama-crossing-gatun-retrospect",
+    "source:panama-crossing-seacole",
+    "source:panama-crossing-seacole-date",
+    "source:panama-crossing-viejo-map",
+    "source:panama-town-barro-chronology",
+    "source:panama-town-bci-point",
+    "source:panama-town-bci-soils",
+    "source:panama-town-de-gracia-chagres",
+    "source:panama-town-ensenat-claim",
+    "source:panama-town-gatun-dam-point",
+    "source:panama-town-gordon-gorgona",
+    "source:panama-town-gorgona-stereocard",
+    "source:panama-town-lake-villages",
+    "source:panama-town-lasso-depopulation",
+    "source:panama-town-lasso-lost",
+    "source:panama-town-new-gorgona",
+    "source:panama-town-nueva-gorgona-point",
+    "source:panama-town-rail-relocation",
+    "source:panama-town-rail-stations",
+    "source:panama-town-standley-flora"
+  ],
+  "steps": [
+    {
+      "id": "gatun",
+      "textAnchor": "gatun",
+      "labels": {
+        "de": "1908 · Gatún räumt den Platz für den Damm",
+        "en": "1908 · Gatún moves from the dam site"
+      },
+      "summary": {
+        "de": "Das Dorf am Fluss ist 1908 aufgegeben. Die meisten Gebäude stehen danach wieder in Nuevo Gatún. Fels und Erde des Damms bedecken den früheren Standort.",
+        "en": "The riverside village has been abandoned by 1908. Most of its buildings are re-erected at Nuevo Gatún. Earth and rock for the dam cover the old site."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.93,
+          "latitude": 9.26,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1908,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1908,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "railway-diversion",
+      "textAnchor": "railway-diversion",
+      "labels": {
+        "de": "15. Februar 1912 · Die Bahn eröffnet die Strecke Gatún–Matachín",
+        "en": "15 February 1912 · The relocated Gatún–Matachín line opens"
+      },
+      "summary": {
+        "de": "Die Züge nehmen die neue Strecke. Das Wasser erreicht nach und nach das Gleisbett der alten Bahn. Einige Haushalte hatten ihre Häuser schon vor der Flutung zerlegt.",
+        "en": "Rail traffic shifts to the new line. Water progressively covers the old right of way. Some households had already dismantled their homes before the flood."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.92,
+          "latitude": 9.27,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1912,
+              "month": 2,
+              "day": 15
+            },
+            "latest": {
+              "year": 1912,
+              "month": 2,
+              "day": 15
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "gorgona",
+      "textAnchor": "gorgona",
+      "labels": {
+        "de": "30. Dezember 1913 · Tomás Posada spricht bei der Einweihung von Nueva Gorgona",
+        "en": "30 December 1913 · Tomás Posada speaks at the dedication of Nueva Gorgona"
+      },
+      "summary": {
+        "de": "Beim Fest an der Pazifikküste fordert ein Einwohner Wasser, Ackerland, eine Brücke über den Chame und das Baumaterial der alten Häuser. Das frühere Gorgona am Chagres wird überflutet.",
+        "en": "At the Pacific dedication a resident asks for water, farmland, a bridge across the Chame and the material from people’s old houses. The original Gorgona on the Chagres is flooded."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.87,
+          "latitude": 8.55,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1913,
+              "month": 12,
+              "day": 30
+            },
+            "latest": {
+              "year": 1913,
+              "month": 12,
+              "day": 30
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:old-gorgona-street-library-of-congress"
+    },
+    {
+      "id": "chagres",
+      "textAnchor": "chagres",
+      "labels": {
+        "de": "8. Dezember 1915 · Goethals verlangt das Land an der Chagresmündung",
+        "en": "8 December 1915 · Goethals requests the land at the mouth of the Chagres"
+      },
+      "summary": {
+        "de": "Goethals verlangt von Präsident Porras den alten Hafen. Der Bürgermeister und weitere Einwohner wählen im Januar 1916 einen neuen Standort an der Mündung des Río Lagarto. Im Juni beginnt der Umzug.",
+        "en": "Goethals asks President Porras for the old port. In January 1916 the mayor and other residents select a new site at the mouth of the Lagarto River. The move begins in June."
+      },
+      "state": {
+        "camera": {
+          "longitude": -80.0,
+          "latitude": 9.32,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1915,
+              "month": 12,
+              "day": 8
+            },
+            "latest": {
+              "year": 1915,
+              "month": 12,
+              "day": 8
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "barro-colorado",
+      "textAnchor": "barro-colorado",
+      "labels": {
+        "de": "17. April 1923 · Barro Colorado wird zum Schutzgebiet erklärt",
+        "en": "17 April 1923 · Barro Colorado is declared a reserve"
+      },
+      "summary": {
+        "de": "Gouverneur Jay J. Morrow weist die durch den Stausee entstandene Insel als Schutzgebiet aus. Im späteren Wald findet der Botaniker Paul Standley noch die Spuren früherer Felder.",
+        "en": "Governor Jay J. Morrow sets aside the island formed by impounding the Chagres. Botanist Paul Standley later records evidence of farm clearings in its forest."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.85,
+          "latitude": 9.15,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1923,
+              "month": 4,
+              "day": 17
+            },
+            "latest": {
+              "year": 1923,
+              "month": 4,
+              "day": 17
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Unter dem Damm liegt Alt-Gatún. An der Pazifikküste wartet Nueva Gorgona auf Baumaterial. Eine Rede bei der Ortseinweihung, eine Eingabe am Chagres und ein botanischer Bericht erzählen von den Menschen an den Ufern des neuen Sees.",
+      "en": "Old Gatún lies under the dam. On the Pacific coast, Nueva Gorgona awaits the pieces of dismantled houses. A resident’s speech, a petition at the mouth of the Chagres and a botanical survey reveal who lived along the new lake’s shores."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "settlements",
+        "labels": {
+          "de": "Siedlungen",
+          "en": "Settlements"
+        }
+      },
+      {
+        "id": "water-management",
+        "labels": {
+          "de": "Wasserbau",
+          "en": "Water management"
+        }
+      },
+      {
+        "id": "climate-and-landscape",
+        "labels": {
+          "de": "Klima und Landschaft",
+          "en": "Climate and landscape"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -79.925,
+      "latitude": 8.935,
+      "metersPerPixel": 445,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1908,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1908,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1923,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1923,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

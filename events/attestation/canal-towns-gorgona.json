@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:canal-towns-gorgona",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-new-gorgona",
+      "role": "supports",
+      "locator": "The Canal Record, vol. VII, no. 19, 31 December 1913, p. 174. Account of the 30 December dedication, the bishop’s tablet, Tomás Posada’s address for the residents, building materials on dump No. 6, water, agricultural land and the bridge. The closing paragraph gives the population estimate and distinguishes temporary from rebuilt houses."
+    },
+    {
+      "sourceId": "source:panama-town-gordon-gorgona",
+      "role": "supports",
+      "locator": "La Estrella de Panamá, 11 November 2023. Caption to the plan of finca 1723 and section “Los nuevos poblados” on the 200-hectare purchase in July 1913, residents from different settlements, and journeys to the outskirts of Panama City. For the storage site and the speech the accompanying chapter uses the contemporary English-language report."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-lost",
+      "role": "supports",
+      "locator": "La Prensa, 6 July 2014. The paragraphs beginning “A diferencia de lo que se cree comúnmente” and “Además, los trabajos del Canal” distinguish flooded Gorgona, the first relocation of Gatún and the later clearance of dry settlements. The preceding paragraphs reconstruct commerce and housing from tax records."
+    },
+    {
+      "sourceId": "source:panama-town-gorgona-stereocard",
+      "role": "supports",
+      "locator": "Stereograph Cards collection, Library of Congress control number 2002697845, digital identifier LC-DIG-stereo-1s34806. Color halftone print on a stereograph card made in the United States, catalogued about 1900. The caption names old Gorgona. Rights advisory: no known restrictions on publication."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tomás Posada spricht bei der Einweihung von Nueva Gorgona",
+    "en": "Tomás Posada speaks at the dedication of Nueva Gorgona"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1913,
+        "month": 12,
+        "day": 30
+      },
+      "latest": {
+        "year": 1913,
+        "month": 12,
+        "day": 30
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:tomas-posada-nueva-gorgona",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:nueva-gorgona-panama-pacific"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:nueva-gorgona-panama-pacific-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Beim Fest an der Pazifikküste fordert ein Einwohner Wasser, Ackerland, eine Brücke über den Chame und das Baumaterial der alten Häuser. Das frühere Gorgona am Chagres wird überflutet.",
+      "en": "At the Pacific dedication a resident asks for water, farmland, a bridge across the Chame and the material from people’s old houses. The original Gorgona on the Chagres is flooded."
+    }
+  }
+}

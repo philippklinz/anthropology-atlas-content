@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-administration-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Panama Canal Administration Building",
+  "url": "https://www.wikidata.org/wiki/Q42886389",
+  "sourceType": "dataset",
+  "language": "en",
+  "creators": [
+    "Wikidata contributors, heritage inventory Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-nara-cartography",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Preliminary Inventory of the Cartographic Records of the Panama Canal",
+  "url": "https://www.archives.gov/files/research/cartographic/pi-91-panama-canal.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "James Berton Rhoads, National Archives"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1956"
+}

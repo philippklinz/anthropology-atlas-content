@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:jorge-l-quijano",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-water-inaugural-completion",
+      "role": "supports",
+      "locator": "Final communiqué, 26 June 2016, paragraph beginning “The inaugural transit began”. Records a completed passage from Agua Clara on the Atlantic to Cocolí on the Pacific by Cosco Shipping Panama, bound for Asia."
+    },
+    {
+      "sourceId": "source:panama-water-annual-2016",
+      "role": "supports",
+      "locator": "Spanish section, pp. 29–30, “Crónica de un día inolvidable”, arrivals by bus, crowd at noon, entry at about 3 p.m. and ship’s horn at Cocolí. P. 53, training and chartered Baroque. English section, p. 191, completed inauguration and more than 200 transits through September; p. 193, Baroque and Oceanus trials."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-morning",
+      "role": "supports",
+      "locator": "Morning dispatch, 26 June 2016. Opening paragraphs identify the vessel formerly named Andronikos, departure from Piraeus and the start at Agua Clara; the Pacific-side passage was still expected as this was written."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-draw",
+      "role": "supports",
+      "locator": "29 April 2016, paragraphs identifying the two participating lines and their ships Andronikos and Thalatta, the venue, the notary, Jorge Quijano, the drawing of the two names and the selected ship’s length and beam."
+    },
+    {
+      "sourceId": "source:panama-water-lottery-report",
+      "role": "supports",
+      "locator": "30 April 2016. Opening paragraphs describe the previous morning’s draw in the rotunda using the national lottery urn. Reporter names Margarita Azucena, notary Víctor Aldana Aparicio and administrator Jorge Quijano, and identifies both ships."
+    },
+    {
+      "sourceId": "source:panama-locks-construction-end",
+      "role": "supports",
+      "locator": "Opening paragraphs on the 7 January 1914 completion of a staged crossing by the old French crane boat Alexandre La Valley and the inauguration with John A. Constantine serving as pilot aboard Ancon."
+    },
+    {
+      "sourceId": "source:panama-water-agua-clara-visitor",
+      "role": "supports",
+      "locator": "“Centro de Visitantes de Agua Clara – Gatún” and “Exhibición panorámica”. The public visitor site overlooks the Caribbean-side works near Colón."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Jorge L. Quijano",
+    "en": "Jorge L. Quijano"
+  }
+}

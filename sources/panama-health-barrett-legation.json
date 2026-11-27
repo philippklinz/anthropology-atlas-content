@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-barrett-legation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Minister Barrett to the British consul, 8 May 1905",
+  "url": "https://history.state.gov/historicaldocuments/frus1905/d723",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "John Barrett; Office of the Historian, US Department of State"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1905"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-jamaica-migration",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Migration, Colón Man and the Panama Experience",
+  "url": "https://nljdigital.nlj.gov.jm/exhibits/show/colon-man-panama-experience/migration",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "National Library of Jamaica"
+  ],
+  "accessedAt": "2026-11-27"
+}

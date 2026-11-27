@@ -1,0 +1,578 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:roads-rivers-and-the-panama-railroad",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-maize",
+      "role": "supports",
+      "locator": "Latin American Antiquity 28(1), pp. 127–143. For the 1519 foundation and its date see pp. 128–130. Figure 2, figure 3 and tables 1–2, pp. 129–134, locate the five grinding tools, stratigraphic contexts and thirteen grains identified as maize. Discussion of wild food and shellfish on pp. 137–139."
+    },
+    {
+      "sourceId": "source:panama-crossing-geoarchaeology",
+      "role": "supports",
+      "locator": "Sections 1.1–1.2 and figure 3. Coastal habitats, shellfish, sixth-century human remains, the Indigenous settlement at Morelos Park and instructions for Spanish port foundations."
+    },
+    {
+      "sourceId": "source:panama-crossing-icomos",
+      "role": "supports",
+      "locator": "Section 2, “Description and history”, opening discussion of the itineraries. Follow the sequence Nombre de Dios, coastal navigation, Chagres, Venta de Cruces and Panamá Viejo. The evaluation dates the village of Cruces to 1533, before the warehouse. Also the 1597 transfer and the relocation of Panamá in 1673."
+    },
+    {
+      "sourceId": "source:panama-crossing-viejo-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1582rev-005, Archaeological Site of Panamá Viejo, 9°00′23.97″ N, 79°29′06.98″ W. General point for the site. Aceituno and Martín figure 2 locates the excavated square and neighbouring properties within it."
+    },
+    {
+      "sourceId": "source:panama-crossing-fairs",
+      "role": "supports",
+      "locator": "Anales del Museo de América XX, pp. 264–267, ports, the foundation of San Felipe de Portobelo, the fairs, merchandise and provisioning. Pp. 267–269, especially p. 268, the two itineraries, the municipal warehouse built at Cruces in 1536, 47 compartments, enslaved households, river transport and cargo craft."
+    },
+    {
+      "sourceId": "source:panama-crossing-cruces-site",
+      "role": "supports",
+      "locator": "Printed p. 186, archaeological sites inventory, “Venta de Cruces”, period Colonial. The WGS 84 UTM reference 17 P 644522 1009307 converts to 9.12836 N, 79.68478 W. It locates the settlement rather than the warehouse footprint."
+    },
+    {
+      "sourceId": "source:panama-crossing-maroon-town",
+      "role": "supports",
+      "locator": "Doctoral thesis, pp. 193–201 and figs. 15–26, survey near Nombre de Dios and ceramics of Lomita de Piedra. Section 5.1.1 on Luis de Mozambique. Conclusions 2–4, pp. 402–407, 1579 agreement, the rejected site, limited freedom, guarded coast, farm produce and the search for other fugitives."
+    },
+    {
+      "sourceId": "source:panama-crossing-nombre-point",
+      "role": "supports",
+      "locator": "TGN 7006459, inhabited place, coordinates 9.5790 N, 79.4710 W, and relationship to Santiago del Príncipe. The point marks the neighbouring port. The precise site of the maroon town remains uncertain."
+    },
+    {
+      "sourceId": "source:panama-crossing-portobelo-point",
+      "role": "supports",
+      "locator": "Geographical data, component 135-001 Portobelo, 9°33′14″ N, 79°39′21″ W. Area of the harbour rather than an individual fair stall or berth."
+    },
+    {
+      "sourceId": "source:panama-crossing-seacole",
+      "role": "supports",
+      "locator": "Chapter II, pp. 11–17 in the 1857 edition: transfer at Gatún, steps, luggage, the reasons for hiring a private boat, fare, crew, hammock, poles, rising river and the butcher at Gorgona. The memoir looks back on the journey."
+    },
+    {
+      "sourceId": "source:panama-crossing-seacole-date",
+      "role": "supports",
+      "locator": "Caribbean workers on the Panama Canal, part 3 “Women in the Story”, p. 41. Dates Mary Seacole’s journey to Panama to 1851 and identifies her brother’s hotel. The date is not the publication date of her memoir."
+    },
+    {
+      "sourceId": "source:panama-town-gatun-dam-point",
+      "role": "supports",
+      "locator": "GeoNames 3709287, Gatún Dam at 9.262778 N, 79.930000 W. Rounded modern reference for the former village site covered by the dam."
+    },
+    {
+      "sourceId": "source:panama-crossing-gatun-retrospect",
+      "role": "supports",
+      "locator": "July 4, 1952, p. 6. Reprint of the December 6, 1911 account of the Chagres settlements. Passage on the old village of Gatun in the river flats, abandonment in 1908, and the site under Gatun Dam."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-economy",
+      "role": "supports",
+      "locator": "“Inversión extranjera y la construcción de la línea férrea”, passages on Manzanillo Island, the two port names, construction begun in 1850, 47.5 miles, the inauguration on 28 January 1855 and class fares. Later discussion of the French purchase of over 98% of railroad shares. DOI 10.18232/alhe.v22i2.588."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-crew",
+      "role": "supports",
+      "locator": "Chapter 2, “Migration to Panama in the 19th Century”, pp. 55–58. Origins of the railroad workforce and arrival of workers from China during construction."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-images",
+      "role": "supports",
+      "locator": "“Panama Railroad at the Summit, 1855”, on the last rail laid 27 January and Robert Tomes’s account of buying oranges in the first year. Also “Barbacoas Bridge” and view of Front Street in Colón."
+    },
+    {
+      "sourceId": "source:panama-crossing-colon-point",
+      "role": "supports",
+      "locator": "TGN 7006458, coordinates 9.3500 N, 79.9000 W, Aspinwall as alternative name, historical note on the northern terminus. City-level point on Manzanillo Island."
+    },
+    {
+      "sourceId": "source:panama-crossing-harrison",
+      "role": "supports",
+      "locator": "Smithsonian Libraries and Archives, BHL item 238774, single foldout map, compiled from the original surveys, 1857. Compare the Chagres, the railway alignment, and the track profile along the left edge. Item-level Copyright & Usage identifies the work as public domain; DOI 10.5962/bhl.title.140712."
+    },
+    {
+      "sourceId": "source:panama-crossing-nomination",
+      "role": "supports",
+      "locator": "“Textual description of the boundary of the nominated property”, components 002 and 003, Camino de Cruces sections 1 and 2. Section 2 begins at Venta de Cruces near the northern entrance to the Culebra Cut. Compare proposed site maps 04 and 05 and the distinct archaeological-site point for Panamá Viejo in the opening table."
+    },
+    {
+      "sourceId": "source:panama-crossing-first-train-dispatch",
+      "role": "supports",
+      "locator": "Vol. XXVI, no. 7, 15 February 1855, third scanned page (leaf n2). Under ‘California’, the paragraph following the arrival of the steamships North Star and Prometheus reports that the first train ran from Aspinwall to Panama on 28 January."
+    },
+    {
+      "sourceId": "source:panama-crossing-otis-route",
+      "role": "supports",
+      "locator": "Harper & Brothers, pp. 39–40. Otis describes the original railway from Manzanillo Island to Playa Prieta, the crossing at Barbacoas, the bends of the Chagres, the position of old Gorgona relative to the line and the ascent of the Río Obispo valley."
+    }
+  ],
+  "labels": {
+    "de": "Über die Landenge von Panama vor dem Kanalbau",
+    "en": "Crossing the Isthmus of Panama before the canal"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:panama-crossings-plaza",
+    "event:panama-crossings-cruces",
+    "event:panama-crossings-maroons",
+    "event:panama-crossings-portobelo",
+    "event:panama-crossings-boatmen",
+    "event:panama-crossings-railway",
+    "asset:panama-railroad-harrison-map-1857"
+  ],
+  "recordIds": [
+    "artifact:panama-railroad-map-1857",
+    "artifact:panama-viejo-grinding-tools",
+    "assertion:mary-seacole-in-old-gatun",
+    "asset:panama-railroad-harrison-map-1857",
+    "community:passengers-of-the-1855-panama-railway-crossing",
+    "event:panama-crossings-boatmen",
+    "event:panama-crossings-cruces",
+    "event:panama-crossings-maroons",
+    "event:panama-crossings-plaza",
+    "event:panama-crossings-portobelo",
+    "event:panama-crossings-railway",
+    "geometry:colon-on-manzanillo-island-orientation",
+    "geometry:nombre-de-dios-panama-orientation",
+    "geometry:old-gatun-at-the-dam-orientation",
+    "geometry:panama-railroad-original-crossing",
+    "geometry:panama-viejo-orientation",
+    "geometry:portobelo-harbour-orientation",
+    "geometry:venta-de-cruces-orientation",
+    "organization:panama-railroad-company",
+    "person:luis-de-mozambique",
+    "person:mary-seacole",
+    "person:pedro-arias-davila",
+    "place:colon-on-manzanillo-island",
+    "place:nombre-de-dios-panama",
+    "place:old-gatun-at-the-dam",
+    "place:panama-viejo",
+    "place:portobelo-harbour",
+    "place:venta-de-cruces",
+    "source:canal-labour-clarke",
+    "source:canal-labour-colon-strike",
+    "source:canal-labour-governor-1920",
+    "source:canal-labour-greene-migrants",
+    "source:canal-labour-maloney-strike",
+    "source:canal-labour-testimony-rules",
+    "source:panama-crossing-colon-point",
+    "source:panama-crossing-cruces-site",
+    "source:panama-crossing-fairs",
+    "source:panama-crossing-first-train-dispatch",
+    "source:panama-crossing-gatun-retrospect",
+    "source:panama-crossing-geoarchaeology",
+    "source:panama-crossing-harrison",
+    "source:panama-crossing-icomos",
+    "source:panama-crossing-maize",
+    "source:panama-crossing-maroon-town",
+    "source:panama-crossing-nombre-point",
+    "source:panama-crossing-nomination",
+    "source:panama-crossing-otis-route",
+    "source:panama-crossing-portobelo-point",
+    "source:panama-crossing-rail-crew",
+    "source:panama-crossing-rail-economy",
+    "source:panama-crossing-rail-images",
+    "source:panama-crossing-seacole",
+    "source:panama-crossing-seacole-date",
+    "source:panama-crossing-viejo-map",
+    "source:panama-town-gatun-dam-point",
+    "source:panama-town-lake-villages",
+    "source:panama-town-lasso-lost",
+    "source:panama-town-rail-stations"
+  ],
+  "steps": [
+    {
+      "id": "plaza",
+      "textAnchor": "plaza",
+      "labels": {
+        "de": "15. August 1519 · Panamá entsteht auf einem älteren Siedlungsplatz",
+        "en": "15 August 1519 · Panamá is founded on an older settlement"
+      },
+      "summary": {
+        "de": "Am späteren Hauptplatz sind indigene und koloniale Schichten erhalten. Mahlsteine aus den frühen Stadthäusern tragen Spuren von Mais.",
+        "en": "Indigenous and colonial deposits survive at the later main square. Grinding tools from early colonial properties carry traces of maize."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.48527,
+          "latitude": 9.00666,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1519,
+              "month": 8,
+              "day": 15
+            },
+            "latest": {
+              "year": 1519,
+              "month": 8,
+              "day": 15
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "cruces",
+      "textAnchor": "cruces",
+      "labels": {
+        "de": "1536 · Die Stadt Panamá baut ein Lagerhaus in Cruces",
+        "en": "1536 · Panamá builds a warehouse at Cruces"
+      },
+      "summary": {
+        "de": "Am Río Chagres wechselte die Ladung zwischen den Lastkähnen und den Maultieren. Das städtische Lagerhaus von 1536 hatte 47 Kammern.",
+        "en": "Cargo switched between river craft and pack mules on the Chagres. The municipal warehouse built here in 1536 had forty-seven compartments."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.68478,
+          "latitude": 9.12836,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1536,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1536,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "maroons",
+      "textAnchor": "maroons",
+      "labels": {
+        "de": "1579 · Eine Gemeinde erkämpft sich anerkannte Freiheit",
+        "en": "1579 · A community wins recognition of its freedom"
+      },
+      "summary": {
+        "de": "Die Gemeinschaft um Luis de Mozambique handelte die Anerkennung ihrer Freiheit aus und siedelte bei Nombre de Dios. Der Punkt bezeichnet den Nachbarhafen, die Lage von Santiago del Príncipe ist nur ungefähr bekannt.",
+        "en": "Luis de Mozambique’s community negotiated recognition of its freedom and settled near Nombre de Dios. The marker locates the neighbouring port. The site of Santiago del Príncipe is uncertain."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.471,
+          "latitude": 9.579,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1579,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1579,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "portobelo",
+      "textAnchor": "portobelo",
+      "labels": {
+        "de": "20. März 1597 · San Felipe de Portobelo wird gegründet",
+        "en": "20 March 1597 · Foundation of San Felipe de Portobelo"
+      },
+      "summary": {
+        "de": "Die spanische Krone verlegte den karibischen Hafen von Nombre de Dios nach Portobelo. Zur Zeit der Messen verteuerten sich Lebensmittel, Unterkünfte und Lagerraum.",
+        "en": "Spain transferred its Caribbean port from Nombre de Dios to Portobelo. The fairs drove up the cost of provisions, rooms and storage."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.65583,
+          "latitude": 9.55389,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1597,
+              "month": 3,
+              "day": 20
+            },
+            "latest": {
+              "year": 1597,
+              "month": 3,
+              "day": 20
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "boatmen",
+      "textAnchor": "boatmen",
+      "labels": {
+        "de": "1851 · Mary Seacole wechselt in Gatún vom Zug aufs Boot",
+        "en": "1851 · Mary Seacole transfers from train to boat at Gatún"
+      },
+      "summary": {
+        "de": "In ihrer Autobiografie schildert Seacole die Fahrt nach Cruces. Vier Männer paddelten oder stakten, der Bootsführer steuerte, und Hochwasser zwang sie zu einer Übernachtung.",
+        "en": "In her memoir Seacole describes the trip to Cruces. Four men paddled and poled, the master steered, and high water forced an overnight stop."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.93,
+          "latitude": 9.26,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1851,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1851,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "railway",
+      "textAnchor": "railway",
+      "labels": {
+        "de": "28. Januar 1855 · Der erste Zug durchquert die Landenge",
+        "en": "28 January 1855 · The first train crosses the isthmus"
+      },
+      "summary": {
+        "de": "Am 28. Januar 1855 fuhr der Eröffnungszug von Colón, auch Aspinwall genannt, nach Panamá. Die Strecke maß rund 76 Kilometer.",
+        "en": "On 28 January 1855 the inaugural train ran from Colón, also called Aspinwall, to Panamá. The line was 47.5 miles long."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.72,
+          "latitude": 9.12,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1855,
+              "month": 1,
+              "day": 28
+            },
+            "latest": {
+              "year": 1855,
+              "month": 1,
+              "day": 28
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:panama-railroad-harrison-map-1857"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Mahlsteine unter dem Hauptplatz von Panamá, die Freiheit einer Gemeinde bei Nombre de Dios und Mary Seacoles Bootsfahrt erzählen vom Leben entlang der Wege. 1855 verband erstmals ein Zug die beiden Küsten.",
+      "en": "Grinding tools from Panamá, a maroon settlement near Nombre de Dios and Mary Seacole’s boat journey reveal the work of crossing the isthmus. In 1855 a train linked the two coasts."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "trade",
+        "labels": {
+          "de": "Handel",
+          "en": "Trade"
+        }
+      },
+      {
+        "id": "colonial-encounters",
+        "labels": {
+          "de": "Koloniale Begegnungen",
+          "en": "Colonial encounters"
+        }
+      },
+      {
+        "id": "archaeology",
+        "labels": {
+          "de": "Archäologie",
+          "en": "Archaeology"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "early-modern",
+        "labels": {
+          "de": "Frühe Neuzeit",
+          "en": "Early modern period"
+        }
+      },
+      {
+        "id": "nineteenth-century",
+        "labels": {
+          "de": "19. Jahrhundert",
+          "en": "19th century"
+        },
+        "description": {
+          "de": "1801–1900. Ein kalendarischer Zeitbereich; regionale Epochen können ihn unterschiedlich gliedern.",
+          "en": "1801–1900. A calendar grouping; regional periods may divide it differently."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      },
+      {
+        "id": "caribbean",
+        "labels": {
+          "de": "Karibik",
+          "en": "Caribbean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -79.7005,
+      "latitude": 9.29283,
+      "metersPerPixel": 342,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1519,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1519,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1855,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1855,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

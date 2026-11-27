@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:colon-on-manzanillo-island",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-rail-economy",
+      "role": "supports",
+      "locator": "“Inversión extranjera y la construcción de la línea férrea”, passages on Manzanillo Island, the two port names, construction begun in 1850, 47.5 miles, the inauguration on 28 January 1855 and class fares. Later discussion of the French purchase of over 98% of railroad shares. DOI 10.18232/alhe.v22i2.588."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-crew",
+      "role": "supports",
+      "locator": "Chapter 2, “Migration to Panama in the 19th Century”, pp. 55–58. Origins of the railroad workforce and arrival of workers from China during construction."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-images",
+      "role": "supports",
+      "locator": "“Panama Railroad at the Summit, 1855”, on the last rail laid 27 January and Robert Tomes’s account of buying oranges in the first year. Also “Barbacoas Bridge” and view of Front Street in Colón."
+    },
+    {
+      "sourceId": "source:panama-crossing-harrison",
+      "role": "supports",
+      "locator": "Smithsonian Libraries and Archives, BHL item 238774, single foldout map, compiled from the original surveys, 1857. Compare the Chagres, the railway alignment, and the track profile along the left edge. Item-level Copyright & Usage identifies the work as public domain; DOI 10.5962/bhl.title.140712."
+    },
+    {
+      "sourceId": "source:panama-crossing-colon-point",
+      "role": "supports",
+      "locator": "TGN 7006458, coordinates 9.3500 N, 79.9000 W, Aspinwall as alternative name, historical note on the northern terminus. City-level point on Manzanillo Island."
+    },
+    {
+      "sourceId": "source:canal-labour-maloney-strike",
+      "role": "supports",
+      "locator": "Biblioteca Nacional de Panamá, ‘Martes 24 de febrero de 1920’, printed pp. 341–344: strike call, itemised demands, Governor Harding's refusal to conclude an agreement with a committee. The dated chronology distinguishes the strike call and walkout from preparatory activity."
+    },
+    {
+      "sourceId": "source:canal-labour-governor-1920",
+      "role": "supports",
+      "locator": "Governor's report, pp. 26–27, increases in living costs, demand for seven cents per hour, participation estimate and terms of re-employment. Chief Quartermaster's report, ‘Strike of silver employees’, pp. 135–136, commissary disruptions and volunteer replacements."
+    },
+    {
+      "sourceId": "source:canal-labour-colon-strike",
+      "role": "supports",
+      "locator": "Paragraph beginning ‘El gobernador de la Zona del Canal de Panamá’, on the 24 February walkout and strong participation in Colón. Accounts differ on the overall number, for which the chapter explicitly attributes its range to the governor’s report."
+    },
+    {
+      "sourceId": "source:canal-labour-clarke",
+      "role": "supports",
+      "locator": "AA00016037/00033, typescript pp. 1–3, scans image0096–image0098. Page 1 gives his Colón address and Panamanian citizenship, recalls Bajo Matachín, names Marian Cunningson and Caroline Lowe and prices their breakfast. Page 2 records 18 years as an artisan and 30 on deck, and his tally of 5,330 transits."
+    },
+    {
+      "sourceId": "source:canal-labour-testimony-rules",
+      "role": "supports",
+      "locator": "AA00016037/00001, scans image0003–image0004, ‘The Contest’ and ‘The Entries’, for the circular sent to fifteen newspapers, relief packages, posting deadline and anniversary. List of entrants on image0005 and image0007 includes Clarke and Simmons."
+    },
+    {
+      "sourceId": "source:canal-labour-greene-migrants",
+      "role": "supports",
+      "locator": "Modern American History 7 (1), pp. 127–130, especially pp. 127 and 130. The author identifies the 112 written testimonies in Box 25 of the Isthmian Historical Society collection at the Library of Congress and discusses how they were solicited and kept."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Colón auf der Insel Manzanillo",
+    "en": "Colón on Manzanillo Island"
+  }
+}

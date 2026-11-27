@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-sentinel-composite",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Earth from Space: Panama Canal",
+  "url": "https://www.esa.int/media/earth-from-space-panama-canal",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "European Space Agency, Copernicus Sentinel-1"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2023"
+}

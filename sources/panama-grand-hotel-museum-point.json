@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-grand-hotel-museum-point",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Museo del Canal, ubicación",
+  "url": "https://museodelcanal.com/",
+  "sourceType": "website",
+  "language": "es",
+  "creators": [
+    "Museo del Canal"
+  ],
+  "accessedAt": "2026-11-27"
+}

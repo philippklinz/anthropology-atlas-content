@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-paris-congress-voisin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Rapport de la commission technique lu au Congrès dans sa séance générale de clôture du 29 mai 1879",
+  "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/00111279764",
+  "sourceType": "catalog",
+  "language": "fr",
+  "creators": [
+    "François-Philippe Voisin, Martinet. Catalogue collectif de France"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1879"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-grand-hotel-acp",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Museo del Canal Interoceánico",
+  "url": "https://visitcanaldepanama.com/es/sitios-de-interes/museo-del-canal-interoceanico/",
+  "sourceType": "website",
+  "language": "es",
+  "creators": [
+    "Autoridad del Canal de Panamá, Visita Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

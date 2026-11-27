@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-lasso-lost",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Los pueblos perdidos de la Zona del Canal",
+  "url": "https://www.prensa.com/Pueblos-Perdidos-Zona-Canal_0_3974602610.html",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Marixa Lasso"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2014"
+}

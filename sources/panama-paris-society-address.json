@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-paris-society-address",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "184 boulevard Saint-Germain, 75006 Paris",
+  "url": "https://data.geopf.fr/geocodage/search?q=184+boulevard+Saint-Germain+Paris&postcode=75006&limit=1",
+  "sourceType": "dataset",
+  "language": "fr",
+  "creators": [
+    "Institut national de l’information géographique et forestière, Géoplateforme, Base Adresse Nationale"
+  ],
+  "accessedAt": "2026-11-27"
+}

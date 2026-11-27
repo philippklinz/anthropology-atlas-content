@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-gorgona-stereocard",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Street in old Gorgona, Panama Canal Zone",
+  "url": "https://www.loc.gov/item/2002697845/",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "Unidentified maker, Library of Congress Prints and Photographs Division"
+  ],
+  "accessedAt": "2026-11-27"
+}

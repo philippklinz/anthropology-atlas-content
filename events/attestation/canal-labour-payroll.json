@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:canal-labour-payroll",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-brown-payroll",
+      "role": "supports",
+      "locator": "Prologue 29 (2). Notes 1 and 2 identify Commissary manager to J. F. Stevens, 15 February 1907, and Stevens to W. C. Gorgas, 30 November 1906, both RG 185, General Correspondence 1904–14, file 2-C-55, part 1. Quotations, financial bonds, equivalent silver pay and access to facilities appear in the opening discussion of the two rolls."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-minutes",
+      "role": "supports",
+      "locator": "Proceedings reporting Stevens's correspondence of 9 and 30 November 1906. The separate letter concerning the joint telephone and telegraph line is explicitly dated ‘Culebra, Canal Zone, November 30, 1906’ and places his office on the day of the payroll letter. The content of the payroll instruction is in RG 185, file 2-C-55."
+    },
+    {
+      "sourceId": "source:canal-labour-goethals-pay-car",
+      "role": "supports",
+      "locator": "Scribner’s Magazine 57 (4), April 1915, p. 396 (wage rolls and European labourers) and p. 404, photograph caption ‘Pay car at Culebra, January 12, 1908’: the carriage had counters and separate entrance and exit. This is an account by the former chief engineer and then governor."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-map",
+      "role": "supports",
+      "locator": "Annex 4, Figure 1, between printed pp. 2 and 3. Overlay of the 1909 street plan labelled ‘Old town of Culebra’ on the March 1947 contours and slide limits. Approximate site on the west bank near Zion Hill. Neither the pay-car siding nor the precise 1906 office is identified on this map."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Brief entscheidet über die Lohnliste",
+    "en": "A letter about the payroll"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1906,
+        "month": 11,
+        "day": 30
+      },
+      "latest": {
+        "year": 1906,
+        "month": 11,
+        "day": 30
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:john-f-stevens",
+      "role": "author"
+    }
+  ],
+  "placeIds": [
+    "place:culebra-construction-town"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:culebra-construction-town-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "John F. Stevens weist William Gorgas an, Schwarze Beschäftigte unter bestimmten Bedingungen auf die Silberliste zu setzen. Im Schriftwechsel über diese Einteilung kommen auch die Schwarzen Abteilungsleiter und Verkäufer der Verwaltungsläden zu Wort, allerdings nur durch ihren Vorgesetzten.",
+      "en": "John F. Stevens instructs William Gorgas to transfer Black employees to the silver roll under specified conditions. Further correspondence records Black department heads and sales staff in the commissaries through the voice of their manager."
+    }
+  }
+}

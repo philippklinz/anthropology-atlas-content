@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:john-a-constantine",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-morning-journal",
+      "role": "supports",
+      "locator": "Tenth year, no. 2948, 16 August 1914, p. 1, col. 3 (digital file, pp. 2–3). Account of the special train and sailing from Cristóbal, lunch and steward Leddeke, Gamboa and dredge crews, spectators at Pedro Miguel, the outer buoys, transfer to boats and the anthem for President Porras."
+    },
+    {
+      "sourceId": "source:panama-locks-august-1914-report",
+      "role": "supports",
+      "locator": "Vol. VIII, no. 6, p. 52, letter dated 24 September 1914, opening paragraphs. The report distinguishes the 3 August Cristobal test to Balboa from the 15 August Ancon deep-water passage, then counts six vessels on 16 August."
+    },
+    {
+      "sourceId": "source:panama-locks-ancon-photo",
+      "role": "supports",
+      "locator": "Record Group 185, local identifier 185-G-0888, NAID 100996356. View from Cerro Luisa, 15 August 1914. Cropped archival photograph, file page with creator, identified location, date and public-domain status."
+    },
+    {
+      "sourceId": "source:panama-locks-construction-end",
+      "role": "supports",
+      "locator": "Opening paragraphs on the 7 January 1914 completion of a staged crossing by the old French crane boat Alexandre La Valley and the inauguration with John A. Constantine serving as pilot aboard Ancon."
+    },
+    {
+      "sourceId": "source:panama-locks-report-1914",
+      "role": "supports",
+      "locator": "Report of Electrical and Mechanical Engineer, pp. 115–116, “Up lockage of tug Gatun” and its return. Measured lift 64.7 feet. Pp. 118–119, first passage of the west chamber at Pedro Miguel by La Valley with Clapet No. 9 and barge No. 6, and trial at Gatún by the Ancon on 11 June."
+    },
+    {
+      "sourceId": "source:panama-locks-design",
+      "role": "supports",
+      "locator": "Paragraphs on lock steps and origin of construction cement, gravity and locomotives. Concluding paragraphs cover shovels 222 and 230 on 20 May 1913, locomotive 260 on 10 September, the Gatun tug on 26 September and Marmot’s December cut at Cucaracha."
+    },
+    {
+      "sourceId": "source:panama-locks-collier-map",
+      "role": "supports",
+      "locator": "The New Encyclopedic Atlas and Gazetteer of the World (1914), p. 66. Map of the route through Gatún Lake and the cut to the Pacific locks, with the railway, grid index, settlement names and coastal approaches."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Kanallotse John A. Constantine",
+    "en": "Canal pilot John A. Constantine"
+  }
+}

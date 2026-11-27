@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:panama-city-cathedral-square-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.535,
+      8.9528
+    ]
+  }
+}

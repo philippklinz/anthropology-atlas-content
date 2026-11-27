@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:panama-crossings-maroons",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-maroon-town",
+      "role": "supports",
+      "locator": "Doctoral thesis, pp. 193–201 and figs. 15–26, survey near Nombre de Dios and ceramics of Lomita de Piedra. Section 5.1.1 on Luis de Mozambique. Conclusions 2–4, pp. 402–407, 1579 agreement, the rejected site, limited freedom, guarded coast, farm produce and the search for other fugitives."
+    },
+    {
+      "sourceId": "source:panama-crossing-nombre-point",
+      "role": "supports",
+      "locator": "TGN 7006459, inhabited place, coordinates 9.5790 N, 79.4710 W, and relationship to Santiago del Príncipe. The point marks the neighbouring port. The precise site of the maroon town remains uncertain."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Gemeinde erkämpft sich anerkannte Freiheit",
+    "en": "A community wins recognition of its freedom"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1579,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1579,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "person:luis-de-mozambique",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:nombre-de-dios-panama"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:nombre-de-dios-panama-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Gemeinschaft um Luis de Mozambique handelte die Anerkennung ihrer Freiheit aus und siedelte bei Nombre de Dios. Der Punkt bezeichnet den Nachbarhafen, die Lage von Santiago del Príncipe ist nur ungefähr bekannt.",
+      "en": "Luis de Mozambique’s community negotiated recognition of its freedom and settled near Nombre de Dios. The marker locates the neighbouring port. The site of Santiago del Príncipe is uncertain."
+    }
+  }
+}

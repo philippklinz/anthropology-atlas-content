@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:panama-railroad-harrison-map-1857",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-harrison",
+      "role": "supports",
+      "locator": "Smithsonian Libraries and Archives, BHL item 238774, single foldout map, compiled from the original surveys, 1857. Compare the Chagres, the railway alignment, and the track profile along the left edge. Item-level Copyright & Usage identifies the work as public domain; DOI 10.5962/bhl.title.140712."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Thomas Harrisons Karte der Panamabahn von 1857",
+    "en": "Thomas Harrison’s 1857 map of the Panama Railroad"
+  },
+  "alt": {
+    "de": "Die Karte zeichnet die Bahn zwischen den beiden Meeren in das Relief der Landenge. Der Chagres windet sich durch die Mitte. Am linken Blattrand verläuft ein schmales Höhenprofil der Strecke.",
+    "en": "The railway crosses the relief of the isthmus between the two seas. The Chagres winds across the interior. A narrow profile along the left margin traces the rise and fall of the line."
+  },
+  "entityIds": [
+    "artifact:panama-railroad-map-1857"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Thomas Harrison, R. F. Storm and Endicott & Co., after surveys for chief engineer George M. Totten"
+    ],
+    "attribution": "Thomas Harrison, R. F. Storm and Endicott & Co., New York, 1857. Smithsonian Libraries and Archives, Biodiversity Heritage Library item 238774, foldout scan, Internet Archive leaf n4. BHL marks this item public domain. The full map has been reduced for display. https://creativecommons.org/publicdomain/mark/1.0/",
+    "sourceUrl": "https://www.biodiversitylibrary.org/item/238774",
+    "originNote": "Web edition of the original 1933 × 2450 image. Resampled to 1120 × 1420 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:panama-navigation-slides",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-report-1916",
+      "role": "supports",
+      "locator": "Governor’s report, discussion of Gaillard Cut slides and general reopening on 15 April 1916. Appendix E, plates 45, 48, 50, 54 and 56, shows the September working face and subsequent obstruction. “Lockages”, p. 76, records about forty southbound vessels returning through Gatún."
+    },
+    {
+      "sourceId": "source:panama-locks-culebra-history",
+      "role": "supports",
+      "locator": "Paragraphs on rail transport of spoil to Gatún Dam and the Naos–Flamenco breakwater, on extending the lake across the divide, and on the distinct modes of slope movement in the Culebra and Cucaracha slides."
+    },
+    {
+      "sourceId": "source:panama-locks-design",
+      "role": "supports",
+      "locator": "Paragraphs on lock steps and origin of construction cement, gravity and locomotives. Concluding paragraphs cover shovels 222 and 230 on 20 May 1913, locomotive 260 on 10 September, the Gatun tug on 26 September and Marmot’s December cut at Cucaracha."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Hänge schließen die Fahrrinne",
+    "en": "The banks close over the channel"
+  },
+  "time": {
+    "kind": "interval",
+    "start": {
+      "earliest": {
+        "year": 1915,
+        "month": 9,
+        "day": 18
+      },
+      "latest": {
+        "year": 1915,
+        "month": 9,
+        "day": 18
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "end": {
+      "earliest": {
+        "year": 1916,
+        "month": 4,
+        "day": 15
+      },
+      "latest": {
+        "year": 1916,
+        "month": 4,
+        "day": 15
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    },
+    "endMeaning": "ended"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:marmot-bucket-dredge",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:culebra-cut-panama"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:culebra-cut-panama-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Hänge von Culebra schoben Material von beiden Seiten in die Fahrrinne. Rund vierzig Schiffe mussten über Gatún zum Atlantik zurück. Im April 1916 begann der reguläre Verkehr erneut.",
+      "en": "Moving slopes at Culebra sent material into the channel from both sides. Roughly forty vessels had to return through Gatún to the Atlantic. General traffic resumed in April 1916."
+    }
+  }
+}

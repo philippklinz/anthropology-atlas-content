@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-wyse-law-28",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Law 28 of 18 May 1878 approving the interoceanic canal contract",
+  "url": "https://history.state.gov/historicaldocuments/frus1879/d141",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Congreso de los Estados Unidos de Colombia, English translation in Foreign Relations of the United States, 1879"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1878"
+}

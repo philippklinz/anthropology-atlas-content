@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-new-gorgona",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Dedication of New Gorgona",
+  "url": "https://archive.org/details/canalrecord7152isth/page/174/mode/1up",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Isthmian Canal Commission"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1913"
+}

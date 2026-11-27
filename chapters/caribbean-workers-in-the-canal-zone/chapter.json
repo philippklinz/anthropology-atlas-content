@@ -1,0 +1,548 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:caribbean-workers-in-the-canal-zone",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-barbados-money",
+      "role": "supports",
+      "locator": "New West Indian Guide 59 (1–2), pp. 1–26. On pp. 8–10 Richardson cites Karner's letter in the Barbados Advocate, 23 January 1905, and the 1909 Weekly Illustrated Paper retrospective on recruitment by returnees. Bridgetown wharf, lighters, Carlisle Bay and the distinction between contracted and noncontract migrants appear on pp. 9–10."
+    },
+    {
+      "sourceId": "source:canal-labour-acp-recruitment",
+      "role": "supports",
+      "locator": "Workforce recruitment, from the paragraph beginning ‘It was recognized early on’ through the separate discussions of Barbados and Jamaica. The figure of 19,900 is recruitment in Barbados. Jamaica refused recruiting and required intending emigrants to cover tax and passage. Skilled workers were among those able to pay."
+    },
+    {
+      "sourceId": "source:canal-labour-bridgetown-map",
+      "role": "supports",
+      "locator": "Property 1376, Historic Bridgetown and its Garrison, N 13°05′48″ W 59°36′50″ and the accompanying property map. Locator for the historic town and its harbour rather than an individual 1905 boarding place."
+    },
+    {
+      "sourceId": "source:canal-labour-brown-payroll",
+      "role": "supports",
+      "locator": "Prologue 29 (2). Notes 1 and 2 identify Commissary manager to J. F. Stevens, 15 February 1907, and Stevens to W. C. Gorgas, 30 November 1906, both RG 185, General Correspondence 1904–14, file 2-C-55, part 1. Quotations, financial bonds, equivalent silver pay and access to facilities appear in the opening discussion of the two rolls."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-minutes",
+      "role": "supports",
+      "locator": "Proceedings reporting Stevens's correspondence of 9 and 30 November 1906. The separate letter concerning the joint telephone and telegraph line is explicitly dated ‘Culebra, Canal Zone, November 30, 1906’ and places his office on the day of the payroll letter. The content of the payroll instruction is in RG 185, file 2-C-55."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-map",
+      "role": "supports",
+      "locator": "Annex 4, Figure 1, between printed pp. 2 and 3. Overlay of the 1909 street plan labelled ‘Old town of Culebra’ on the March 1947 contours and slide limits. Approximate site on the west bank near Zion Hill. Neither the pay-car siding nor the precise 1906 office is identified on this map."
+    },
+    {
+      "sourceId": "source:canal-labour-pay-car-photograph",
+      "role": "supports",
+      "locator": "National Archives Identifier 100997804, caption 311-A on the photograph. The dated print shows staff and workers at the pay car. The NARA/DPLA item record and US public-domain statement accompany the 1,761 × 1,443 pixel file."
+    },
+    {
+      "sourceId": "source:canal-labour-goethals-pay-car",
+      "role": "supports",
+      "locator": "Scribner’s Magazine 57 (4), April 1915, p. 396 (wage rolls and European labourers) and p. 404, photograph caption ‘Pay car at Culebra, January 12, 1908’: the carriage had counters and separate entrance and exit. This is an account by the former chief engineer and then governor."
+    },
+    {
+      "sourceId": "source:canal-labour-simmons",
+      "role": "supports",
+      "locator": "AA00016037/00101, typescript pp. 1–3 (scan files image0029–image0031). Arrival by railway at San Pablo in 1908, coal and track work, father's referral, friends at Tabernilla, January 1910 move to the Gatún spillway, railway assignments and the concrete crane. The date and location of his first shift follow the first-person text."
+    },
+    {
+      "sourceId": "source:canal-labour-moore-interview",
+      "role": "supports",
+      "locator": "Interview and transcript, 17 July 2020, AA00081353/00001. At 07:27–08:46 Moore recalls her birthplace and date, at 14:52–18:00 her father's farriery in Barbados and blacksmithing in the Balboa shops and her older sister, at 23:10 the shared facilities, at 39:38 the commissary books, at 57:45–58:18 her work and at 59:04–1:00:24 Manuel's Chinese shop and credit."
+    },
+    {
+      "sourceId": "source:canal-labour-flores-woman",
+      "role": "supports",
+      "locator": "Modern American History 7 (1), pp. 131–135. Opening pages, especially note 3 on the Moore oral history and the 1920 and 1930 censuses, notes 8–10 on food, domestic work and remittances, figure 1 and note 11 on Adica Moore's work. The 22 January 1965 Spillway photograph documents her later career."
+    },
+    {
+      "sourceId": "source:canal-labour-la-boca-map",
+      "role": "supports",
+      "locator": "La Boca neighbourhood record, Location, 8.94811° N, 79.5613° W. Modern neighbourhood locator at the Pacific entrance. No individual family's house, shop or 1910 workplace is claimed."
+    },
+    {
+      "sourceId": "source:canal-labour-maloney-strike",
+      "role": "supports",
+      "locator": "Biblioteca Nacional de Panamá, ‘Martes 24 de febrero de 1920’, printed pp. 341–344: strike call, itemised demands, Governor Harding's refusal to conclude an agreement with a committee. The dated chronology distinguishes the strike call and walkout from preparatory activity."
+    },
+    {
+      "sourceId": "source:canal-labour-governor-1920",
+      "role": "supports",
+      "locator": "Governor's report, pp. 26–27, increases in living costs, demand for seven cents per hour, participation estimate and terms of re-employment. Chief Quartermaster's report, ‘Strike of silver employees’, pp. 135–136, commissary disruptions and volunteer replacements."
+    },
+    {
+      "sourceId": "source:canal-labour-colon-strike",
+      "role": "supports",
+      "locator": "Paragraph beginning ‘El gobernador de la Zona del Canal de Panamá’, on the 24 February walkout and strong participation in Colón. Accounts differ on the overall number, for which the chapter explicitly attributes its range to the governor’s report."
+    },
+    {
+      "sourceId": "source:panama-crossing-colon-point",
+      "role": "supports",
+      "locator": "TGN 7006458, coordinates 9.3500 N, 79.9000 W, Aspinwall as alternative name, historical note on the northern terminus. City-level point on Manzanillo Island."
+    },
+    {
+      "sourceId": "source:canal-labour-clarke",
+      "role": "supports",
+      "locator": "AA00016037/00033, typescript pp. 1–3, scans image0096–image0098. Page 1 gives his Colón address and Panamanian citizenship, recalls Bajo Matachín, names Marian Cunningson and Caroline Lowe and prices their breakfast. Page 2 records 18 years as an artisan and 30 on deck, and his tally of 5,330 transits."
+    },
+    {
+      "sourceId": "source:canal-labour-testimony-rules",
+      "role": "supports",
+      "locator": "AA00016037/00001, scans image0003–image0004, ‘The Contest’ and ‘The Entries’, for the circular sent to fifteen newspapers, relief packages, posting deadline and anniversary. List of entrants on image0005 and image0007 includes Clarke and Simmons."
+    },
+    {
+      "sourceId": "source:canal-labour-greene-migrants",
+      "role": "supports",
+      "locator": "Modern American History 7 (1), pp. 127–130, especially pp. 127 and 130. The author identifies the 112 written testimonies in Box 25 of the Isthmian Historical Society collection at the Library of Congress and discusses how they were solicited and kept."
+    }
+  ],
+  "labels": {
+    "de": "Wer am Panamakanal arbeitete",
+    "en": "The people who worked on the Panama Canal"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:canal-labour-barbados",
+    "event:canal-labour-payroll",
+    "event:canal-labour-pay-car",
+    "event:canal-labour-la-boca",
+    "event:canal-labour-strike",
+    "event:canal-labour-testimony",
+    "asset:culebra-pay-car-1908"
+  ],
+  "recordIds": [
+    "artifact:culebra-pay-car-photograph",
+    "asset:culebra-pay-car-1908",
+    "community:canal-zone-silver-roll-strikers",
+    "event:canal-labour-barbados",
+    "event:canal-labour-la-boca",
+    "event:canal-labour-pay-car",
+    "event:canal-labour-payroll",
+    "event:canal-labour-strike",
+    "event:canal-labour-testimony",
+    "geometry:bridgetown-historic-port-orientation",
+    "geometry:colon-on-manzanillo-island-orientation",
+    "geometry:culebra-construction-town-orientation",
+    "geometry:la-boca-canal-zone-orientation",
+    "person:adica-moore",
+    "person:amos-e-clarke",
+    "person:caroline-lowe",
+    "person:edgar-llewellyn-simmons",
+    "person:emily-amelia-lewis",
+    "person:john-f-stevens",
+    "person:marian-cunningson",
+    "person:william-edward-griffith",
+    "person:william-j-karner",
+    "place:bridgetown-historic-port",
+    "place:colon-on-manzanillo-island",
+    "place:culebra-construction-town",
+    "place:la-boca-canal-zone",
+    "source:canal-labour-acp-recruitment",
+    "source:canal-labour-barbados-money",
+    "source:canal-labour-bridgetown-map",
+    "source:canal-labour-brown-payroll",
+    "source:canal-labour-clarke",
+    "source:canal-labour-colon-strike",
+    "source:canal-labour-culebra-map",
+    "source:canal-labour-culebra-minutes",
+    "source:canal-labour-flores-woman",
+    "source:canal-labour-goethals-pay-car",
+    "source:canal-labour-governor-1920",
+    "source:canal-labour-greene-migrants",
+    "source:canal-labour-la-boca-map",
+    "source:canal-labour-maloney-strike",
+    "source:canal-labour-moore-interview",
+    "source:canal-labour-pay-car-photograph",
+    "source:canal-labour-simmons",
+    "source:canal-labour-testimony-rules",
+    "source:panama-crossing-colon-point",
+    "source:panama-crossing-harrison",
+    "source:panama-crossing-rail-crew",
+    "source:panama-crossing-rail-economy",
+    "source:panama-crossing-rail-images"
+  ],
+  "steps": [
+    {
+      "id": "barbados",
+      "textAnchor": "barbados",
+      "labels": {
+        "de": "23. Januar 1905 · Wer in Bridgetown an Bord ging",
+        "en": "23 January 1905 · Leaving Bridgetown"
+      },
+      "summary": {
+        "de": "William J. Karner wirbt im Barbados Advocate um Arbeitskräfte für die Kanalbaukommission. Später erzählen Rückkehrer in den Dörfern von ihren Erfahrungen, und am Kai von Bridgetown verabschieden Familien die nächsten Reisenden.",
+        "en": "William J. Karner appeals for canal recruits in the Barbados Advocate. Men returning to the island share their experiences, and families gather at the Bridgetown wharf to see off those who follow."
+      },
+      "state": {
+        "camera": {
+          "longitude": -59.61389,
+          "latitude": 13.09667,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1905,
+              "month": 1,
+              "day": 23
+            },
+            "latest": {
+              "year": 1905,
+              "month": 1,
+              "day": 23
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "payroll",
+      "textAnchor": "payroll",
+      "labels": {
+        "de": "30. November 1906 · Ein Brief entscheidet über die Lohnliste",
+        "en": "30 November 1906 · A letter about the payroll"
+      },
+      "summary": {
+        "de": "John F. Stevens weist William Gorgas an, Schwarze Beschäftigte unter bestimmten Bedingungen auf die Silberliste zu setzen. Im Schriftwechsel über diese Einteilung kommen auch die Schwarzen Abteilungsleiter und Verkäufer der Verwaltungsläden zu Wort, allerdings nur durch ihren Vorgesetzten.",
+        "en": "John F. Stevens instructs William Gorgas to transfer Black employees to the silver roll under specified conditions. Further correspondence records Black department heads and sales staff in the commissaries through the voice of their manager."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.66,
+          "latitude": 9.05,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1906,
+              "month": 11,
+              "day": 30
+            },
+            "latest": {
+              "year": 1906,
+              "month": 11,
+              "day": 30
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "pay-car",
+      "textAnchor": "pay-car",
+      "labels": {
+        "de": "12. Januar 1908 · Der Lohnwagen und der erste Arbeitstag",
+        "en": "12 January 1908 · The pay car and the first day's work"
+      },
+      "summary": {
+        "de": "Ein Foto zeigt Männer am Zahlwagen in Culebra. Wie unterschiedlich ihre Berufswege sein konnten, erzählt Edgar Llewellyn Simmons, der 1908 Kohle schaufelte und später in Gatún als Bremser und Weichensteller arbeitete.",
+        "en": "A photograph shows workers at the Culebra pay car. Edgar Llewellyn Simmons recalled unloading coal in 1908 and later working as a brakeman and switch tender in Gatún."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.66,
+          "latitude": 9.05,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1908,
+              "month": 1,
+              "day": 12
+            },
+            "latest": {
+              "year": 1908,
+              "month": 1,
+              "day": 12
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:culebra-pay-car-1908"
+    },
+    {
+      "id": "la-boca",
+      "textAnchor": "la-boca",
+      "labels": {
+        "de": "1910 · Ein Haushalt in La Boca",
+        "en": "1910 · Making a home in La Boca"
+      },
+      "summary": {
+        "de": "Emily Amelia Lewis reist zu William Edward Griffith nach Panama. Die Erinnerungen ihrer Tochter Adica Moore führen aus der gemeinsamen Wohnung in La Boca in Manuels Lebensmittelladen und an ihren späteren Arbeitsplatz im Krankenhaus.",
+        "en": "Emily Amelia Lewis joins William Edward Griffith in Panama. Their daughter Adica Moore's recollections lead from the family home in La Boca to Manuel's grocery shop and her own later workplace at the hospital."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.5613,
+          "latitude": 8.94811,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1910,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1910,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "strike",
+      "textAnchor": "strike",
+      "labels": {
+        "de": "24. Februar 1920 · Am 24. Februar bleibt die Arbeit liegen",
+        "en": "24 February 1920 · A walkout on 24 February"
+      },
+      "summary": {
+        "de": "Beschäftigte der Silberliste legen die Arbeit nieder. Colón ist eines der Zentren. Der Gouverneur schätzt die Beteiligung an der gesamten Aktion auf 15.000 bis 17.000 Beschäftigte.",
+        "en": "Silver employees go on strike, with strong support in Colón. The governor estimates 15,000 to 17,000 people joined the walkout across the canal workforce."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.9,
+          "latitude": 9.35,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1920,
+              "month": 2,
+              "day": 24
+            },
+            "latest": {
+              "year": 1920,
+              "month": 2,
+              "day": 24
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "testimony",
+      "textAnchor": "testimony",
+      "labels": {
+        "de": "1963 · Was Clarke in Colón aufschrieb",
+        "en": "1963 · What Clarke wrote down in Colón"
+      },
+      "summary": {
+        "de": "In seiner Einsendung für den Wettbewerb von 1963 erinnert sich Amos E. Clarke aus Colón an Marian Cunningson und Caroline Lowe, die Jahre zuvor Arbeiter in Bajo Matachín mit Frühstück versorgten.",
+        "en": "Writing from Colón for the 1963 competition, Amos E. Clarke recalls Marian Cunningson and Caroline Lowe, who sold breakfast to canal workers many years earlier at Bajo Matachín."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.9,
+          "latitude": 9.35,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1963,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1963,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Frühstück an der Baustelle, ein Lohnwagen in Culebra und vier Familien mit einem Waschplatz in La Boca. Arbeiterinnen und Arbeiter erzählen, was es kostete, am Kanal zu leben, und welche Ansprüche sie durchzusetzen versuchten.",
+      "en": "Breakfast at a worksite, a pay car at Culebra and four families sharing a washroom at La Boca. Canal workers recall what it took to make a living and the rights they fought to secure."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "labour-history",
+        "labels": {
+          "de": "Arbeitsgeschichte",
+          "en": "Labour history"
+        }
+      },
+      {
+        "id": "everyday-life",
+        "labels": {
+          "de": "Alltag",
+          "en": "Everyday life"
+        }
+      },
+      {
+        "id": "migrations",
+        "labels": {
+          "de": "Wanderungen",
+          "en": "Migrations"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      },
+      {
+        "id": "caribbean",
+        "labels": {
+          "de": "Karibik",
+          "en": "Caribbean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -69.75695,
+      "latitude": 11.02239,
+      "metersPerPixel": 6926,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1905,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1905,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1963,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1963,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

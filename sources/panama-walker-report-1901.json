@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-walker-report-1901",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Report of the Isthmian Canal Commission, 1899–1901",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-Y3_IS7-c559d85acbeb2c144e6d618763781035/pdf/GOVPUB-Y3_IS7-c559d85acbeb2c144e6d618763781035.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Isthmian Canal Commission, presided over by John G. Walker. United States Government Printing Office"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1901"
+}

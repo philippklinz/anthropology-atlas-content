@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-1903-ratifications",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Convention between the United States and the Republic of Panama for the construction of a ship canal",
+  "url": "https://history.state.gov/historicaldocuments/frus1904/ch130",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "U.S. Department of State, Office of the Historian"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1904"
+}

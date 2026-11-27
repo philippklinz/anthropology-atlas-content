@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-barro-chronology",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Barro Colorado Island Declared Reserve",
+  "url": "https://siris-sihistory.si.edu/ipac20/ipac.jsp?profile=all&source=~!sichronology&uri=full%3D3100001~!230~!0",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "Smithsonian Institution Archives"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-ward-nine-photo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ancon Hospital Ward #9 (Spanish), Section C",
+  "url": "https://docsteach.org/document/ancon-hospital-ward/",
+  "sourceType": "object",
+  "language": "en",
+  "creators": [
+    "The Panama Canal, US government; National Archives at College Park"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1919"
+}

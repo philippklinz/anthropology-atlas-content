@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-annual-2016",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Informe Anual 2016 / Panama Canal Annual Report 2016",
+  "url": "https://pancanal.com/wp-content/uploads/2021/08/InformeAnual-AF2016.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2016"
+}

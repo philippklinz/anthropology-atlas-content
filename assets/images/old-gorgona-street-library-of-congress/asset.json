@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:old-gorgona-street-library-of-congress",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-gorgona-stereocard",
+      "role": "supports",
+      "locator": "Stereograph Cards collection, Library of Congress control number 2002697845, digital identifier LC-DIG-stereo-1s34806. Color halftone print on a stereograph card made in the United States, catalogued about 1900. The caption names old Gorgona. Rights advisory: no known restrictions on publication."
+    }
+  ],
+  "assetType": "image",
+  "file": "view.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Eine Straße im alten Gorgona am Chagres",
+    "en": "A street in old Gorgona on the Chagres"
+  },
+  "alt": {
+    "de": "Zwei farbig gedruckte Ansichten derselben Straße mit Balkonen, Stufen und Passanten auf einer Stereokarte, um 1900. Sie zeigt das alte Gorgona im Flusstal. Die Einweihung von 1913 fand in Nueva Gorgona an der Pazifikküste statt.",
+    "en": "Two color-printed views on a stereograph card show the same street with balconies, steps and pedestrians, around 1900. The view is of old Gorgona in the river valley. The 1913 dedication took place in Nueva Gorgona on the Pacific coast."
+  },
+  "entityIds": [
+    "artifact:old-gorgona-stereograph"
+  ],
+  "rights": {
+    "license": "Public-Domain",
+    "creators": [
+      "Unidentified stereograph maker"
+    ],
+    "attribution": "Library of Congress, Prints and Photographs Division, Stereograph Cards, LCCN 2002697845, LC-DIG-stereo-1s34806. US-made print, catalogued ca. 1900. Public domain. Library of Congress rights advisory: no known restrictions on publication. https://creativecommons.org/publicdomain/mark/1.0/",
+    "sourceUrl": "https://www.loc.gov/item/2002697845/",
+    "originNote": "Web edition of the original 1024 × 526 image. Resampled to 1024 × 526 and encoded in JPEG. Original aspect ratio and framing retained. https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-acp-recruitment",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "American Canal Construction",
+  "url": "https://pancanal.com/en/american-canal-construction/",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27"
+}

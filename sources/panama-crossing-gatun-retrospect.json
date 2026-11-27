@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-gatun-retrospect",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Panama Canal Review, vol. 2, no. 12",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CZ1-9c6881aa644236891776ef637a19699f/pdf/GOVPUB-CZ1-9c6881aa644236891776ef637a19699f.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Panama Canal Company"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1952"
+}

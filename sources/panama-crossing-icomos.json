@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-icomos",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Colonial Transisthmian Route of Panamá. Advisory Body Evaluation, No 1582rev",
+  "url": "https://whc.unesco.org/document/222007",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "International Council on Monuments and Sites (ICOMOS)"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2025"
+}

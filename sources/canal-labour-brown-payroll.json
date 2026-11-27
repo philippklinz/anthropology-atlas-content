@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-brown-payroll",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Panama Canal: The African American Experience",
+  "url": "https://www.archives.gov/publications/prologue/1997/summer/panama-canal",
+  "sourceType": "article",
+  "language": "en",
+  "creators": [
+    "Patrice C. Brown, US National Archives and Records Administration"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1997"
+}

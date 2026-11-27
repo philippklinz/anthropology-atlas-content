@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-us-isthmus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Building the Panama Canal, 1903–1914",
+  "url": "https://history.state.gov/milestones/1899-1913/panama-canal",
+  "sourceType": "website",
+  "language": "en",
+  "creators": [
+    "U.S. Department of State, Office of the Historian"
+  ],
+  "accessedAt": "2026-11-27"
+}

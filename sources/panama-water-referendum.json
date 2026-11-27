@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-water-referendum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Resultados del Referendo 2006 / 2006 Referendum Results",
+  "url": "https://pdba.georgetown.edu/Elecdata/Panama/ref06.html",
+  "sourceType": "dataset",
+  "language": "es",
+  "creators": [
+    "Political Database of the Americas, Georgetown University, from Tribunal Electoral de Panamá and ElectionGuide"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2007"
+}

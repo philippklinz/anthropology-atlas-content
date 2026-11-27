@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-locks-handbook-1915",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Official Handbook of the Panama Canal",
+  "url": "https://ufdcimages.uflib.ufl.edu/UF/00/08/32/77/00001/UF00083277_00001.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "The Panama Canal, Washington, Government Printing Office"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1915"
+}

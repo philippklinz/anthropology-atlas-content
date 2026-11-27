@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-crossing-cruces-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Modelo territorial consensuado del distrito de Panamá. Anexo 2, tomo 1",
+  "url": "https://plandistrital2.mupa.gob.pa/wp-content/uploads/2021/03/2-ANEXO-2-TOMO-1-MTC-marzo-2021.pdf",
+  "sourceType": "dataset",
+  "language": "es",
+  "creators": [
+    "Alcaldía de Panamá, Junta de Planificación Municipal"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2021"
+}

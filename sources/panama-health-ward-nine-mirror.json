@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-ward-nine-mirror",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Ancon Hospital Ward #9 (Spanish), Section C, reproduction from the US National Archives",
+  "url": "https://nara.getarchive.net/media/ancon-hospital-ward-9-spanish-section-c-88b710",
+  "sourceType": "catalog",
+  "language": "en",
+  "creators": [
+    "GetArchive (PICRYL), after the US National Archives"
+  ],
+  "accessedAt": "2026-11-27"
+}

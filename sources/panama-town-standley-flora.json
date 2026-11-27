@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-standley-flora",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Flora of Barro Colorado Island, Panama",
+  "url": "https://repository.si.edu/bitstream/handle/10088/23815/SMC_78_Standley_1927_8_1-32.pdf",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "Paul C. Standley"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1927"
+}

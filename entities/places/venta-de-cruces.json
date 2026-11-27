@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:venta-de-cruces",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-fairs",
+      "role": "supports",
+      "locator": "Anales del Museo de América XX, pp. 264–267, ports, the foundation of San Felipe de Portobelo, the fairs, merchandise and provisioning. Pp. 267–269, especially p. 268, the two itineraries, the municipal warehouse built at Cruces in 1536, 47 compartments, enslaved households, river transport and cargo craft."
+    },
+    {
+      "sourceId": "source:panama-crossing-icomos",
+      "role": "supports",
+      "locator": "Section 2, “Description and history”, opening discussion of the itineraries. Follow the sequence Nombre de Dios, coastal navigation, Chagres, Venta de Cruces and Panamá Viejo. The evaluation dates the village of Cruces to 1533, before the warehouse. Also the 1597 transfer and the relocation of Panamá in 1673."
+    },
+    {
+      "sourceId": "source:panama-crossing-cruces-site",
+      "role": "supports",
+      "locator": "Printed p. 186, archaeological sites inventory, “Venta de Cruces”, period Colonial. The WGS 84 UTM reference 17 P 644522 1009307 converts to 9.12836 N, 79.68478 W. It locates the settlement rather than the warehouse footprint."
+    },
+    {
+      "sourceId": "source:panama-crossing-nomination",
+      "role": "supports",
+      "locator": "“Textual description of the boundary of the nominated property”, components 002 and 003, Camino de Cruces sections 1 and 2. Section 2 begins at Venta de Cruces near the northern entrance to the Culebra Cut. Compare proposed site maps 04 and 05 and the distinct archaeological-site point for Panamá Viejo in the opening table."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Venta de Cruces am Río Chagres",
+    "en": "Venta de Cruces on the Chagres"
+  }
+}

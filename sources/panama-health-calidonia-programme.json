@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-calidonia-programme",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Decreto número 11 de 1924, sobre inauguración del nuevo Hospital Santo Tomás",
+  "url": "https://docs.panama.justia.com/federales/decretos/11-de-1924-jun-2-1924.pdf",
+  "sourceType": "archive",
+  "language": "es",
+  "creators": [
+    "República de Panamá, Belisario Porras and J. A. Jiménez, Secretaría de Fomento"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1924"
+}

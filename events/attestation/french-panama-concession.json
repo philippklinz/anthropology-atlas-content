@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:french-panama-concession",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-wyse-law-28",
+      "role": "supports",
+      "locator": "Colombia, contract signed 20 March, art. 1(1), and Law 28, amended arts. 3 and 15, pp. 248–251. Distinguish the March agreement, the congressional signatures of 17 May, President Trujillo’s order of publication and Wyse’s acceptance of the amended terms on 18 May."
+    },
+    {
+      "sourceId": "source:panama-wyse-concession-acts",
+      "role": "supports",
+      "locator": "LCCN ltf91029421, KZ3712.2 1878 .A12 1893. The World Digital Library catalogue describes a collected printing of the 1878 agreement and the later acts of 1890. The date assigned to the compilation is approximate."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Kolumbien setzt die geänderte Konzession in Kraft",
+    "en": "Colombia enacts the amended concession"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1878,
+        "month": 5,
+        "day": 18
+      },
+      "latest": {
+        "year": 1878,
+        "month": 5,
+        "day": 18
+      },
+      "precision": "day",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "organization:congress-of-the-united-states-of-colombia",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:bogota-colombia"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:bogota-colombia-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Julián Trujillo setzt Gesetz 28 in Kraft. Wyse nimmt die Änderungen an dem Vertrag an, den er mit Eustorgio Salgar ausgehandelt hatte.",
+      "en": "Julián Trujillo enacts Law 28. Wyse accepts the amendments to the agreement he had negotiated with Eustorgio Salgar."
+    }
+  }
+}

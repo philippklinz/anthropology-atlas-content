@@ -1,0 +1,580 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:the-french-panama-canal-project",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-wyse-concession-acts",
+      "role": "supports",
+      "locator": "LCCN ltf91029421, KZ3712.2 1878 .A12 1893. The World Digital Library catalogue describes a collected printing of the 1878 agreement and the later acts of 1890. The date assigned to the compilation is approximate."
+    },
+    {
+      "sourceId": "source:panama-wyse-law-28",
+      "role": "supports",
+      "locator": "Colombia, contract signed 20 March, art. 1(1), and Law 28, amended arts. 3 and 15, pp. 248–251. Distinguish the March agreement, the congressional signatures of 17 May, President Trujillo’s order of publication and Wyse’s acceptance of the amended terms on 18 May."
+    },
+    {
+      "sourceId": "source:panama-geonames-bogota",
+      "role": "supports",
+      "locator": "GeoNames 3688689, city reference point 4.60971, −74.08175. Marks the seat of the Colombian government, at city scale."
+    },
+    {
+      "sourceId": "source:panama-paris-society-congress",
+      "role": "supports",
+      "locator": "List of events held in the Hôtel de la Société. Entry for the interoceanic canal congress, 15–29 May 1879. The institution gives its address as 184 boulevard Saint-Germain, Paris."
+    },
+    {
+      "sourceId": "source:panama-paris-society-address",
+      "role": "supports",
+      "locator": "Result for the street number 184 boulevard Saint-Germain, code postal 75006, coordinates 2.331225, 48.854441. Point locates the building."
+    },
+    {
+      "sourceId": "source:panama-paris-congress-voisin",
+      "role": "supports",
+      "locator": "Catalogue record for the 68-page Paris printing with folded plates. The title identifies the technical report and fixes the day of the closing session."
+    },
+    {
+      "sourceId": "source:panama-menocal-instructions",
+      "role": "supports",
+      "locator": "France, instruction of 25 April designating Daniel Ammen and civil engineer Menocal. The paragraph defining the non-official character of the congress limits their participation to discussion by experts."
+    },
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "International congress and its vote (Menocal, Lépinay and Pedro Sosa). The passages on Dingler, Boyer and Bunau-Varilla describe transport of spoil, earth slides, Jamaican labour and the July 1886 Culebra contract. “Gustave Eiffel” dates the 1887 report, 1888 construction under the amended plan and stoppage."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    },
+    {
+      "sourceId": "source:panama-paris-exchange-yearbook",
+      "role": "supports",
+      "locator": "1903 yearbook entry, issuer 2563. “Siège”, “Capital social”, “Titres” and “Emprunts. I” specify the Paris office, 10,000 shares contributed to the concession holder, public subscription of 590,000 on 8–9 December 1880, bearer shares and the bond issue used to buy railroad stock."
+    },
+    {
+      "sourceId": "source:panama-edhac-share-278792",
+      "role": "supports",
+      "locator": "Full front, 2,359 × 2,156 pixels. Central face, 500 francs nominal and 250 paid. Figures labelled North and South America, right-to-subscribe stamp above, Bayonne receipts for February and September 1886 below. The 1880 dates printed at the top concern the statutes. Public-domain statement on the file page."
+    },
+    {
+      "sourceId": "source:panama-geonames-paris",
+      "role": "supports",
+      "locator": "GeoNames 2988507, city reference point 48.85341, 2.3488. City-scale location for the company’s public subscription and the civil court’s decision."
+    },
+    {
+      "sourceId": "source:panama-locks-geonames-cut",
+      "role": "supports",
+      "locator": "GeoNames 3709435, section of canal, 9.05597, −79.65663. The point represents the cut as a whole. It does not locate a particular shovel, train or slide face."
+    },
+    {
+      "sourceId": "source:panama-jamaica-migration",
+      "role": "supports",
+      "locator": "“Migration” exhibit, French-construction and railroad paragraphs. Figures for journeys in 1882–1884 (32,958 leaving and 14,962 returning) and earlier recruitment for the Panama Railroad. The exhibit attributes its series to McLean Petras."
+    },
+    {
+      "sourceId": "source:panama-nara-cartography",
+      "role": "supports",
+      "locator": "Preliminary Inventory 91, introduction pp. 1–2 and records of the two French companies, pp. 5–6, entries 1–6. Describes the transfer of the French archives and destruction of parts of them, the sale (including railroad shares), maps, profiles and records passing between the companies."
+    },
+    {
+      "sourceId": "source:panama-brooke-transfer-receipt",
+      "role": "supports",
+      "locator": "Text of Brooke’s signed receipt, paragraphs 1–3. Specifies the Hôtel de la Compagnie, keys and inventories, instructions to employees, letters and telegrams, and the three languages of the instrument. The contemporary Star & Herald extract below dates the report to 5 May."
+    },
+    {
+      "sourceId": "source:panama-grand-hotel-acp",
+      "role": "supports",
+      "locator": "Account of the building in the Casco Antiguo: the former Grand Hôtel became the offices of the Compagnie Universelle. The page locates the museum on Plaza de la Independencia."
+    },
+    {
+      "sourceId": "source:panama-grand-hotel-museum-point",
+      "role": "supports",
+      "locator": "Address in the site footer and map link for the museum on Plaza de la Independencia. The destination marker is at 8.9520349, −79.5346031, rounded here for the former company building."
+    }
+  ],
+  "labels": {
+    "de": "Der französische Kanalbau in Panama",
+    "en": "The French canal project in Panama"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:french-panama-concession",
+    "event:french-panama-congress",
+    "event:french-panama-share",
+    "event:french-panama-culebra",
+    "event:french-panama-liquidation",
+    "event:french-panama-transfer",
+    "asset:panama-canal-share-278792"
+  ],
+  "recordIds": [
+    "artifact:panama-canal-share-278792",
+    "asset:panama-canal-share-278792",
+    "event:french-panama-concession",
+    "event:french-panama-congress",
+    "event:french-panama-culebra",
+    "event:french-panama-liquidation",
+    "event:french-panama-share",
+    "event:french-panama-transfer",
+    "geometry:bogota-colombia-orientation",
+    "geometry:culebra-cut-panama-orientation",
+    "geometry:panama-city-grand-hotel-canal-offices-orientation",
+    "geometry:paris-france-orientation",
+    "geometry:paris-geographical-society-orientation",
+    "organization:artigue-sonderegger-et-cie",
+    "organization:compagnie-universelle-du-canal-interoceanique-de-panama",
+    "organization:congress-of-the-united-states-of-colombia",
+    "person:aniceto-garcia-menocal",
+    "person:eustorgio-salgar",
+    "person:lucien-napoleon-bonaparte-wyse",
+    "person:mark-brooke-canal-engineer",
+    "person:pedro-sosa-panama-engineer",
+    "place:bogota-colombia",
+    "place:culebra-cut-panama",
+    "place:panama-city-grand-hotel-canal-offices",
+    "place:paris-france",
+    "place:paris-geographical-society",
+    "source:panama-acp-french-construction",
+    "source:panama-brooke-transfer-receipt",
+    "source:panama-edhac-share-278792",
+    "source:panama-geonames-bogota",
+    "source:panama-geonames-paris",
+    "source:panama-grand-hotel-acp",
+    "source:panama-grand-hotel-museum-point",
+    "source:panama-health-ancon-site",
+    "source:panama-health-escobar",
+    "source:panama-health-gorgas-french-wards",
+    "source:panama-health-minsa-ancon",
+    "source:panama-health-pierce-1904",
+    "source:panama-jamaica-migration",
+    "source:panama-locks-culebra-history",
+    "source:panama-locks-design",
+    "source:panama-locks-geonames-cut",
+    "source:panama-locks-handbook-1915",
+    "source:panama-locks-report-1916",
+    "source:panama-menocal-instructions",
+    "source:panama-nara-cartography",
+    "source:panama-paris-congress-voisin",
+    "source:panama-paris-exchange-yearbook",
+    "source:panama-paris-society-address",
+    "source:panama-paris-society-congress",
+    "source:panama-walker-report-1901",
+    "source:panama-wyse-concession-acts",
+    "source:panama-wyse-law-28"
+  ],
+  "steps": [
+    {
+      "id": "concession",
+      "textAnchor": "concession",
+      "labels": {
+        "de": "18. Mai 1878 · Kolumbien setzt die geänderte Konzession in Kraft",
+        "en": "18 May 1878 · Colombia enacts the amended concession"
+      },
+      "summary": {
+        "de": "Julián Trujillo setzt Gesetz 28 in Kraft. Wyse nimmt die Änderungen an dem Vertrag an, den er mit Eustorgio Salgar ausgehandelt hatte.",
+        "en": "Julián Trujillo enacts Law 28. Wyse accepts the amendments to the agreement he had negotiated with Eustorgio Salgar."
+      },
+      "state": {
+        "camera": {
+          "longitude": -74.08175,
+          "latitude": 4.60971,
+          "metersPerPixel": 520,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1878,
+              "month": 5,
+              "day": 18
+            },
+            "latest": {
+              "year": 1878,
+              "month": 5,
+              "day": 18
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "congress",
+      "textAnchor": "congress",
+      "labels": {
+        "de": "29. Mai 1879 · Die Mehrheit stimmt für einen Kanal auf Meereshöhe",
+        "en": "29 May 1879 · A majority votes for a sea-level canal"
+      },
+      "summary": {
+        "de": "Der Pariser Kongress zieht einen Durchstich in Panama dem Plan für einen Schleusenkanal und einer Route durch Nicaragua vor. Der Ingenieur Pedro Sosa aus Panama gehört zu den Befürwortern.",
+        "en": "In Paris the majority favours a sea-level cut in Panama. Delegates have also heard a lock proposal for Panama and a route through Nicaragua. Pedro Sosa of Panama supports the cut."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.33122,
+          "latitude": 48.85444,
+          "metersPerPixel": 670,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1879,
+              "month": 5,
+              "day": 29
+            },
+            "latest": {
+              "year": 1879,
+              "month": 5,
+              "day": 29
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "share",
+      "textAnchor": "share",
+      "labels": {
+        "de": "8.–9. Dezember 1880 · Die Gesellschaft bietet ihre Aktien an",
+        "en": "8–9 December 1880 · The company offers its shares to the public"
+      },
+      "summary": {
+        "de": "590.000 Aktien stehen bei der öffentlichen Zeichnung zum Nennwert von je 500 Francs bereit. Das erhaltene Stück trägt die Nummer 278792.",
+        "en": "The public offering comprises 590,000 shares with a face value of 500 francs each. The surviving certificate pictured here is number 278792."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.3488,
+          "latitude": 48.85341,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 1880,
+              "month": 12,
+              "day": 8
+            },
+            "latest": {
+              "year": 1880,
+              "month": 12,
+              "day": 8
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 1880,
+              "month": 12,
+              "day": 9
+            },
+            "latest": {
+              "year": 1880,
+              "month": 12,
+              "day": 9
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:panama-canal-share-278792"
+    },
+    {
+      "id": "culebra",
+      "textAnchor": "culebra",
+      "labels": {
+        "de": "Juli 1886 · Ein neuer Bauvertrag für Culebra",
+        "en": "July 1886 · A new contract for work at Culebra"
+      },
+      "summary": {
+        "de": "Artigue, Sonderegger et Cie. übernimmt Arbeiten im Einschnitt. Die Mannschaften müssen dem Hang Boden abgewinnen und den Aushub so weit abfahren, dass er auch bei Regen liegen bleibt.",
+        "en": "Artigue, Sonderegger et Cie. takes on work at the cut. Crews have to excavate the hillsides and carry the spoil far enough away to keep it out of the channel during the rains."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.65663,
+          "latitude": 9.05597,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1886,
+              "month": 7,
+              "day": 1
+            },
+            "latest": {
+              "year": 1886,
+              "month": 7,
+              "day": 31
+            },
+            "precision": "month",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "liquidation",
+      "textAnchor": "liquidation",
+      "labels": {
+        "de": "4. Februar 1889 · Das Gericht ordnet die Liquidation an",
+        "en": "4 February 1889 · The court orders liquidation"
+      },
+      "summary": {
+        "de": "Das Pariser Zivilgericht setzt einen Liquidator ein. Am Isthmus laufen einzelne Arbeiten noch bis zum 15. Mai.",
+        "en": "The civil court in Paris appoints a liquidator. Some work on the isthmus continues until 15 May."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.3488,
+          "latitude": 48.85341,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1889,
+              "month": 2,
+              "day": 4
+            },
+            "latest": {
+              "year": 1889,
+              "month": 2,
+              "day": 4
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "transfer",
+      "textAnchor": "transfer",
+      "labels": {
+        "de": "4. Mai 1904 · Die Schlüssel wechseln den Besitzer",
+        "en": "4 May 1904 · The keys change hands"
+      },
+      "summary": {
+        "de": "Im ehemaligen Grand Hôtel nimmt Mark Brooke die französischen Anlagen auf dem Isthmus für die USA in Empfang. Er bestätigt die Übergabe in drei Sprachen.",
+        "en": "In the former Grand Hôtel, Mark Brooke accepts the French company property on the isthmus for the United States. He records the handover in three languages."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.5346,
+          "latitude": 8.95203,
+          "metersPerPixel": 630,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1904,
+              "month": 5,
+              "day": 4
+            },
+            "latest": {
+              "year": 1904,
+              "month": 5,
+              "day": 4
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Kolumbien vergibt eine Konzession. In Paris stimmen Fachleute über die Höhe des Wassers ab, in Bayonne bezahlt jemand eine Aktie in Raten. Bei Culebra entscheidet der Abtransport des Aushubs mit über das Schicksal des Kanals.",
+      "en": "Colombia grants a concession. Delegates in Paris vote on the height of the water, and someone in Bayonne pays for a share by instalments. At Culebra the work of hauling spoil helps decide the canal’s fate."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      },
+      {
+        "id": "labour-history",
+        "labels": {
+          "de": "Arbeitsgeschichte",
+          "en": "Labour history"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "nineteenth-century",
+        "labels": {
+          "de": "19. Jahrhundert",
+          "en": "19th century"
+        },
+        "description": {
+          "de": "1801–1900. Ein kalendarischer Zeitbereich; regionale Epochen können ihn unterschiedlich gliedern.",
+          "en": "1801–1900. A calendar grouping; regional periods may divide it differently."
+        }
+      },
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      },
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      },
+      {
+        "id": "south-america",
+        "labels": {
+          "de": "Südamerika",
+          "en": "South America"
+        }
+      },
+      {
+        "id": "caribbean",
+        "labels": {
+          "de": "Karibik",
+          "en": "Caribbean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -38.65392,
+      "latitude": 26.73207,
+      "metersPerPixel": 25542,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1878,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1878,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1904,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1904,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

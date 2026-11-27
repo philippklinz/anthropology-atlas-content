@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:nombre-de-dios-panama",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-maroon-town",
+      "role": "supports",
+      "locator": "Doctoral thesis, pp. 193–201 and figs. 15–26, survey near Nombre de Dios and ceramics of Lomita de Piedra. Section 5.1.1 on Luis de Mozambique. Conclusions 2–4, pp. 402–407, 1579 agreement, the rejected site, limited freedom, guarded coast, farm produce and the search for other fugitives."
+    },
+    {
+      "sourceId": "source:panama-crossing-nombre-point",
+      "role": "supports",
+      "locator": "TGN 7006459, inhabited place, coordinates 9.5790 N, 79.4710 W, and relationship to Santiago del Príncipe. The point marks the neighbouring port. The precise site of the maroon town remains uncertain."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Nombre de Dios, Hafen bei Santiago del Príncipe",
+    "en": "Nombre de Dios, port near Santiago del Príncipe"
+  }
+}

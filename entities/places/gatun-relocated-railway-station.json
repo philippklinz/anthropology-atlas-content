@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:gatun-relocated-railway-station",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-rail-relocation",
+      "role": "supports",
+      "locator": "Volume 50, pp. 2534–2535, “Relocation of Panama Railroad.” The engineering account reproduced here distinguishes the closure at Gatun on 9 February and the new Gatun–Matachin service on 15 February 1912. It describes the progression of flooding on the old right of way."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "supports",
+      "locator": "Cuadernos Nacionales 37, pp. 151–154, section “Estación de Gatún.” Figures 32 and 36 locate the original and relocated railway station and relate the latter to the buildings and shoreline. Figure 33 and the text on pp. 152–153 describe the platform, ticket office, telegraph and baggage room."
+    },
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-town-standley-flora",
+      "role": "supports",
+      "locator": "Smithsonian Miscellaneous Collections 78(8), pp. 1–2. Standley describes the laboratory window, the submerged town of Bohío, dead tree trunks in the inlets, abandoned fields with secondary vegetation and his observations of wooded ravines."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Verlegter Bahnhof von Gatún",
+    "en": "Relocated Gatún railway station"
+  }
+}

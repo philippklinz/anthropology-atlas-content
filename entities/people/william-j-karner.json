@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:william-j-karner",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-barbados-money",
+      "role": "supports",
+      "locator": "New West Indian Guide 59 (1–2), pp. 1–26. On pp. 8–10 Richardson cites Karner's letter in the Barbados Advocate, 23 January 1905, and the 1909 Weekly Illustrated Paper retrospective on recruitment by returnees. Bridgetown wharf, lighters, Carlisle Bay and the distinction between contracted and noncontract migrants appear on pp. 9–10."
+    },
+    {
+      "sourceId": "source:canal-labour-acp-recruitment",
+      "role": "supports",
+      "locator": "Workforce recruitment, from the paragraph beginning ‘It was recognized early on’ through the separate discussions of Barbados and Jamaica. The figure of 19,900 is recruitment in Barbados. Jamaica refused recruiting and required intending emigrants to cover tax and passage. Skilled workers were among those able to pay."
+    },
+    {
+      "sourceId": "source:canal-labour-bridgetown-map",
+      "role": "supports",
+      "locator": "Property 1376, Historic Bridgetown and its Garrison, N 13°05′48″ W 59°36′50″ and the accompanying property map. Locator for the historic town and its harbour rather than an individual 1905 boarding place."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "William J. Karner",
+    "en": "William J. Karner"
+  }
+}

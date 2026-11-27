@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-rail-stations",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "El ferrocarril de Panamá de 1912 a 1996: Un recorrido histórico y visual por sus estaciones",
+  "url": "https://revistas.up.ac.pa/index.php/cuadernos_nacionales/article/download/7797/5734",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Leonardo García Gómez"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2025"
+}

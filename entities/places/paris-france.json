@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:paris-france",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-paris-exchange-yearbook",
+      "role": "supports",
+      "locator": "1903 yearbook entry, issuer 2563. “Siège”, “Capital social”, “Titres” and “Emprunts. I” specify the Paris office, 10,000 shares contributed to the concession holder, public subscription of 590,000 on 8–9 December 1880, bearer shares and the bond issue used to buy railroad stock."
+    },
+    {
+      "sourceId": "source:panama-edhac-share-278792",
+      "role": "supports",
+      "locator": "Full front, 2,359 × 2,156 pixels. Central face, 500 francs nominal and 250 paid. Figures labelled North and South America, right-to-subscribe stamp above, Bayonne receipts for February and September 1886 below. The 1880 dates printed at the top concern the statutes. Public-domain statement on the file page."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    },
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "International congress and its vote (Menocal, Lépinay and Pedro Sosa). The passages on Dingler, Boyer and Bunau-Varilla describe transport of spoil, earth slides, Jamaican labour and the July 1886 Culebra contract. “Gustave Eiffel” dates the 1887 report, 1888 construction under the amended plan and stoppage."
+    },
+    {
+      "sourceId": "source:panama-nara-cartography",
+      "role": "supports",
+      "locator": "Preliminary Inventory 91, introduction pp. 1–2 and records of the two French companies, pp. 5–6, entries 1–6. Describes the transfer of the French archives and destruction of parts of them, the sale (including railroad shares), maps, profiles and records passing between the companies."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Paris",
+    "en": "Paris"
+  }
+}

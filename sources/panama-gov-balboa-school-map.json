@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-balboa-school-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Centro de Capacitación Ascanio Arosemena",
+  "url": "https://mapcarta.com/es/W609527463",
+  "sourceType": "dataset",
+  "language": "es",
+  "creators": [
+    "OpenStreetMap contributors, Mapcarta"
+  ],
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-oas-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pan American Union Building, Blue Aztec Garden and Aztec Fountain",
+  "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/dc/dc1100/dc1182/data/dc1182data.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Historic American Landscapes Survey, National Park Service and Library of Congress"
+  ],
+  "accessedAt": "2026-11-27"
+}

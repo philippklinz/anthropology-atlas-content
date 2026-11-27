@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:mary-seacole",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-seacole",
+      "role": "supports",
+      "locator": "Chapter II, pp. 11–17 in the 1857 edition: transfer at Gatún, steps, luggage, the reasons for hiring a private boat, fare, crew, hammock, poles, rising river and the butcher at Gorgona. The memoir looks back on the journey."
+    },
+    {
+      "sourceId": "source:panama-crossing-seacole-date",
+      "role": "supports",
+      "locator": "Caribbean workers on the Panama Canal, part 3 “Women in the Story”, p. 41. Dates Mary Seacole’s journey to Panama to 1851 and identifies her brother’s hotel. The date is not the publication date of her memoir."
+    },
+    {
+      "sourceId": "source:panama-crossing-gatun-retrospect",
+      "role": "supports",
+      "locator": "July 4, 1952, p. 6. Reprint of the December 6, 1911 account of the Chagres settlements. Passage on the old village of Gatun in the river flats, abandonment in 1908, and the site under Gatun Dam."
+    },
+    {
+      "sourceId": "source:panama-town-gatun-dam-point",
+      "role": "supports",
+      "locator": "GeoNames 3709287, Gatún Dam at 9.262778 N, 79.930000 W. Rounded modern reference for the former village site covered by the dam."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Mary Seacole",
+    "en": "Mary Seacole"
+  }
+}

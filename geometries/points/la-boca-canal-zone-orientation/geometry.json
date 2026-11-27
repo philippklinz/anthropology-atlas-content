@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:la-boca-canal-zone-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-moore-interview",
+      "role": "supports",
+      "locator": "Interview and transcript, 17 July 2020, AA00081353/00001. At 07:27–08:46 Moore recalls her birthplace and date, at 14:52–18:00 her father's farriery in Barbados and blacksmithing in the Balboa shops and her older sister, at 23:10 the shared facilities, at 39:38 the commissary books, at 57:45–58:18 her work and at 59:04–1:00:24 Manuel's Chinese shop and credit."
+    },
+    {
+      "sourceId": "source:canal-labour-flores-woman",
+      "role": "supports",
+      "locator": "Modern American History 7 (1), pp. 131–135. Opening pages, especially note 3 on the Moore oral history and the 1920 and 1930 censuses, notes 8–10 on food, domestic work and remittances, figure 1 and note 11 on Adica Moore's work. The 22 January 1965 Spillway photograph documents her later career."
+    },
+    {
+      "sourceId": "source:canal-labour-la-boca-map",
+      "role": "supports",
+      "locator": "La Boca neighbourhood record, Location, 8.94811° N, 79.5613° W. Modern neighbourhood locator at the Pacific entrance. No individual family's house, shop or 1910 workplace is claimed."
+    },
+    {
+      "sourceId": "source:canal-labour-la-boca-map",
+      "role": "derivation",
+      "locator": "La Boca neighbourhood locator on the Pacific side, 8.94811° N, 79.5613° W. No individual family house is located. Flores-Villalobos identifies La Boca in the account of Lewis's arrival."
+    }
+  ],
+  "geometryType": "Point",
+  "file": "shape.geojson",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Der Punkt bezeichnet den in der Station erläuterten Fundort oder Bezugsraum.",
+    "en": "The point marks the site or wider locality described in the station."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Anthropology Atlas contributors. Location reference: Mapcarta, OpenStreetMap and GeoNames contributors.",
+    "sourceUrl": "https://mapcarta.com/19761900",
+    "originNote": "An approximate point at the named site or in the wider district. See the station and the coordinate reference for its interpretation."
+  }
+}

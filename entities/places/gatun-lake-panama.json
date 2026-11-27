@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:gatun-lake-panama",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-water-annual-2024",
+      "role": "supports",
+      "locator": "Chairman’s message, opening paragraph on 1 October 2023 to 30 September 2024. Printed p. 22, Water Use, graph 1, 542 hm³ for drinking water, 17% of 3,124 hm³; p. 23, Rainfall, graph 2, watershed rainfall of 2,118 mm and historical average 2,660 mm; p. 24, Pilot Plan for Water Treatment, April 2024 reverse-osmosis pilot at Escobal for a projected 2,500 residents."
+    },
+    {
+      "sourceId": "source:panama-water-rainfall-attribution",
+      "role": "supports",
+      "locator": "1 May 2024, opening four paragraphs, fig. 1 and Main findings. May–December 2023 rainfall near the Gatún catchment, lake levels, ship number and size restrictions, rising urban demand and leakage, influence of El Niño, differing station trends and insufficient evidence for attribution of observed drying to human-caused warming."
+    },
+    {
+      "sourceId": "source:panama-water-arap-lake",
+      "role": "supports",
+      "locator": "PDF p. 1, paragraph giving the lake reference point 09°10′31.7″ N, 79°54′06.4″ W, with cross-references to the national mapping institute. PDF pp. 3–5, fishery and tables 1–2, listing Escobal among the fishing communities. The fisheries figures cited there come from 2004."
+    },
+    {
+      "sourceId": "source:panama-water-sentinel-composite",
+      "role": "supports",
+      "locator": "20 October 2023. Image description, on Sentinel-1 radar observations and year-colour assignment, and the Credits and Licence fields for the 1,623 × 1,623 JPEG. Blue 2020, green 2021, red 2022, with ships on Gatún Lake and offshore. CC BY-SA 3.0 IGO is an explicit licence option."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Gatúnsee",
+    "en": "Gatún Lake"
+  }
+}

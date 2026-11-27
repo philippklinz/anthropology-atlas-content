@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:cocoli-panama-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -79.6,
+      8.98
+    ]
+  }
+}

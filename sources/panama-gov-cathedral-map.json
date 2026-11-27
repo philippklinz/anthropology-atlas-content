@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-cathedral-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Puntos de acceso de la Red Nacional Internet 2.0",
+  "url": "https://www.datosabiertos.gob.pa/dataset/0d57bb07-d9a4-4717-8415-5b0f2566518c/resource/6f3caf89-fe4b-4ce9-91ba-7a7a84360880/download/aig-puntos-de-acceso-de-la-rni2.0-vigentes-en-junio2022.pdf",
+  "sourceType": "dataset",
+  "language": "es",
+  "creators": [
+    "Autoridad Nacional para la Innovación Gubernamental, Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2022"
+}

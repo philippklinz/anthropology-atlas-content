@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-gov-flag-restoration",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Canal de Panamá presenta bandera restaurada a 50 años del 9 de Enero",
+  "url": "https://pancanal.com/canal-de-panama-presenta-bandera-restaurada-a-50-anos-del-9-de-enero/",
+  "sourceType": "object",
+  "language": "es",
+  "creators": [
+    "Autoridad del Canal de Panamá"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2014"
+}

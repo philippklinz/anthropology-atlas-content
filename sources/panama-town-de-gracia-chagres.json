@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-de-gracia-chagres",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "La historia del Viejo y el Nuevo Chagres (Panamá) en la memoria de sus habitantes",
+  "url": "https://dialnet.unirioja.es/descarga/articulo/10625871.pdf",
+  "sourceType": "article",
+  "language": "es",
+  "creators": [
+    "Guillermina Itzel De Gracia"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "2026"
+}

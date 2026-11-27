@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:canal-labour-maloney-strike",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "El Canal de Panamá y los trabajadores antillanos. Panamá 1920: Cronología de una lucha",
+  "url": "https://binal.ac.pa/wp-content/uploads/r_dig/AML_Tomo_XXIX_PARTE_3.pdf",
+  "sourceType": "book",
+  "language": "es",
+  "creators": [
+    "Gerardo Maloney"
+  ],
+  "accessedAt": "2026-11-27"
+}

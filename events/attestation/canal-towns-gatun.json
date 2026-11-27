@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:canal-towns-gatun",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-lost",
+      "role": "supports",
+      "locator": "La Prensa, 6 July 2014. The paragraphs beginning “A diferencia de lo que se cree comúnmente” and “Además, los trabajos del Canal” distinguish flooded Gorgona, the first relocation of Gatún and the later clearance of dry settlements. The preceding paragraphs reconstruct commerce and housing from tax records."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "supports",
+      "locator": "Cuadernos Nacionales 37, pp. 151–154, section “Estación de Gatún.” Figures 32 and 36 locate the original and relocated railway station and relate the latter to the buildings and shoreline. Figure 33 and the text on pp. 152–153 describe the platform, ticket office, telegraph and baggage room."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Gatún räumt den Platz für den Damm",
+    "en": "Gatún moves from the dam site"
+  },
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1908,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1908,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "participants": [
+    {
+      "entityId": "community:residents-of-old-gatun",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:old-gatun-at-the-dam"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:old-gatun-at-the-dam-orientation",
+      "role": "location"
+    }
+  ],
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Das Dorf am Fluss ist 1908 aufgegeben. Die meisten Gebäude stehen danach wieder in Nuevo Gatún. Fels und Erde des Damms bedecken den früheren Standort.",
+      "en": "The riverside village has been abandoned by 1908. Most of its buildings are re-erected at Nuevo Gatún. Earth and rock for the dam cover the old site."
+    }
+  }
+}

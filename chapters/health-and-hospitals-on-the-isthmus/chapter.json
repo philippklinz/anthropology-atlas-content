@@ -1,0 +1,607 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:health-and-hospitals-on-the-isthmus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-health-minsa-ancon",
+      "role": "supports",
+      "locator": "29 November 2021, “Antecedentes históricos” and “Antes de la segunda guerra mundial”: September 1882 opening, choice of the slope of Cerro Ancón to catch breezes away from city wastewater, US acquisition and reuse of the grounds. MINSA gives 12 September for the opening. The thanksgiving Mass is separately dated to the 17th by Escobar. The station therefore identifies the opening by month."
+    },
+    {
+      "sourceId": "source:panama-health-escobar",
+      "role": "supports",
+      "locator": "Chapter VI, “Hospitales en la Época del Canal Francés”, pp. CXLIX–CLI. Companyo, his earlier work at Suez, Huerta de Gallo, the fundraising committee, the September thanksgiving Mass, transfers of patients, the sisters, Colón, the former Taboga hotel and the orphanage. Chapter VII, pp. CLXXIV–CLXXVI, reports the 1916 request for larger premises and lottery funding. Pp. CLXXXII–CLXXXIII name the four nursing graduates of 1912. For the 1924 opening date use the contemporary decrees, which supersede the December date printed on p. CLXXV."
+    },
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "“Gustave Eiffel”, final paragraphs on the first canal company, receivership and the appointment of a liquidator. Escobar, pp. CL–CLI, traces how the breakdown of the construction enterprise affected its hospitals."
+    },
+    {
+      "sourceId": "source:panama-health-pierce-1904",
+      "role": "supports",
+      "locator": "Public Health Reports 19 (8), 19 February 1904, printed p. 277, “Hospitals”: wooden, separated pavilions of the French hospital, nursing by Sisters of Charity, twenty-four patients in the foreign section and twenty in the canal section. This is a count made before the US canal administration assumed the hospital."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-minutes",
+      "role": "supports",
+      "locator": "Minutes, 118th meeting at Washington, 24 December 1906, printed p. 49, item 2. The Chief Sanitary Officer’s 1 December communication gives 7 June 1904 as the beginning of the service of “Miss M. Eugenie Hibbard” as chief nurse at Ancon Hospital. This is the credited start of her appointment."
+    },
+    {
+      "sourceId": "source:panama-health-hernandez-nurses",
+      "role": "supports",
+      "locator": "The Panama Canal Review en Español, spring 1976, printed pp. 32–33. Hernández calls her Mary Eugene Hibbard, dates her appointment to June 1904, describes her arrival with Gorgas and two nurses, and quotes her recollections of some 75 scattered buildings and the five buildings selected for ward and service uses."
+    },
+    {
+      "sourceId": "source:panama-health-chiriboga-zone",
+      "role": "supports",
+      "locator": "Doctoral thesis, printed p. 50, citing Rodríguez on the 1904 appointment and 1908 count of 117 nurses among 205 US women employed in the Canal Zone. Note 49 quotes La Estrella de Panamá, 9 February 1905, vol. LVI, no. 13544, p. 10, on malaria admissions and the latrines at Ancón. Pp. 52–53 quote the same newspaper of 13 March 1909 on admission of single women aged sixteen to twenty-five at Santo Tomás."
+    },
+    {
+      "sourceId": "source:panama-health-doolittle-card",
+      "role": "supports",
+      "locator": "Service Records Cards, 1904–1920, series NAID 7226556. Illustration captioned “Miss Anna L. Doolittle, June 21, 1907 Service Card”, recto and verso, followed by Brown’s identification of her age, home in West Virginia and Ancon Hospital appointment. The full-size image linked farther down is separately identified as Ward 9, NAID 6120319."
+    },
+    {
+      "sourceId": "source:panama-health-barrett-circular",
+      "role": "supports",
+      "locator": "Foreign Relations of the United States, 1905, document 719, pp. 707–708. Enclosure is dated 20 January, cover letter 24 January, supplementary note 25 January. Eighteen official reports since 1 July 1904 included the four sanitary labourers still in hospital on 20 January. Three deaths, the cities and intervening zone, bills of health for shipping and the reported recoveries appear in the circular and note."
+    },
+    {
+      "sourceId": "source:panama-health-guardia-regulations",
+      "role": "supports",
+      "locator": "Foreign Relations of the United States, 1905, document 718, pp. 706–707, especially enclosure 2, the translated reply of Panama’s minister of government and foreign affairs, 21 January 1905. De la Guardia explains his authorization and the changes suggested by his office when accepting the sanitary regulations under article VII."
+    },
+    {
+      "sourceId": "source:panama-health-barrett-legation",
+      "role": "supports",
+      "locator": "Foreign Relations of the United States, 1905, document 723, enclosure 2, paragraph beginning “Immediately after seeing”. Barrett locates the legation near the corner of the canal building and the Plaza. The square serves only to orient the January circular in the capital. Its text gives no legation street address."
+    },
+    {
+      "sourceId": "source:panama-health-rio-grande-supply",
+      "role": "supports",
+      "locator": "Societas 19 (1), 73–91, printed p. 78. Paragraph immediately preceding “El puerto de La Boca – Balboa”: engineers’ selection of the old French reservoir on the upper Río Grande and water running through Panama City’s mains on 4 July 1905."
+    },
+    {
+      "sourceId": "source:panama-health-fire-brigade",
+      "role": "supports",
+      "locator": "Passages following the reorganization under David H. Brandon. The hydrant system was inaugurated in Cathedral Square on 4 July 1905. At the Malambo fire of 12 January 1906 the firefighters used pumps connected to cisterns."
+    },
+    {
+      "sourceId": "source:panama-health-chiriboga-city",
+      "role": "supports",
+      "locator": "Printed pp. 178–179, paragraph beginning “Uno de tales proyectos”: the Star and Herald / La Estrella called for water mains in the 1880s for drinking water and fire protection and reported on the municipal water contract in 1888."
+    },
+    {
+      "sourceId": "source:panama-health-sutter-households",
+      "role": "supports",
+      "locator": "Environmental History 21 (2), 250–259. Final paragraphs before “Panamanian Resistance” and paragraphs 1–4 of that section, notes 11–15. Describes rainwater, water peddlers, cisterns and ceramic tinajas, the reach of the dipper, topping up jars, complaints when inspectors emptied them and reports of residents concealing their jars."
+    },
+    {
+      "sourceId": "source:panama-health-ward-nine-photo",
+      "role": "supports",
+      "locator": "National Archives Identifier 6120319, 185-G-16-1514, August 1919. National Archives Foundation, DocsTeach, “Citation” and item-specific “Rights: Public Domain”. The photographer is unnamed. The lower edge of the surviving print reads 284-X8, whereas the DocsTeach transcription renders 248-X8. Both identify the same image by title, month and NAID."
+    },
+    {
+      "sourceId": "source:panama-health-ward-nine-mirror",
+      "role": "supports",
+      "locator": "Image 88b710, source “The U.S. National Archives”, copyright field “No known copyright restrictions”. The photographic caption dates the picture to August 1919, without a day. The matched, full-size scan of NAID 6120319 used here is the one provided by the Archives on its Rediscovering Black History page."
+    },
+    {
+      "sourceId": "source:panama-health-hospital-visiting-hours",
+      "role": "supports",
+      "locator": "The Panama Canal Record, vol. XIII, no. 1, 20 August 1919, printed p. 8 (PDF p. 26), table for the new hospital buildings. Section C, ward 9: 39 beds, official category “White foreign, male”. Wards 10–14 are separately classified. Compare visiting hours in sections A and C, and the note below the table assigning emergency passes to the section nurse."
+    },
+    {
+      "sourceId": "source:canal-labour-brown-payroll",
+      "role": "supports",
+      "locator": "Prologue 29 (2). Notes 1 and 2 identify Commissary manager to J. F. Stevens, 15 February 1907, and Stevens to W. C. Gorgas, 30 November 1906, both RG 185, General Correspondence 1904–14, file 2-C-55, part 1. Quotations, financial bonds, equivalent silver pay and access to facilities appear in the opening discussion of the two rolls."
+    },
+    {
+      "sourceId": "source:panama-health-calidonia-decree",
+      "role": "supports",
+      "locator": "Decree of 2 September 1924, Gaceta Oficial no. 4487, 13 September 1924, printed p. 393, left column, “Artículo único”, signed Porras and Jiménez. The text places in public service the hospital built by the nation on a Panama City site fronting Avenida Federico Boyd in the former Exposición Nacional area. PDF p. 2 is a facsimile."
+    },
+    {
+      "sourceId": "source:panama-health-calidonia-programme",
+      "role": "supports",
+      "locator": "Decree of 7 March 1924, arts. 1 and 3. The former exhibition grounds and the intended opening on 1 September are explicit. The programme is to include a reception and celebrations for administrative staff and convalescent patients. These are instructions for the celebration."
+    },
+    {
+      "sourceId": "source:panama-health-calidonia-inauguration",
+      "role": "supports",
+      "locator": "Memoria del Hospital Santo Tomás 2020–2021, “Recordar es vivir”, caption and opening paragraph. The institution identifies the ceremony and the inauguration by President Belisario Porras on 1 September 1924."
+    },
+    {
+      "sourceId": "source:panama-health-ancon-site",
+      "role": "supports",
+      "locator": "Ficha P1405, Antiguo Hospital Gorgas, Calle Gorgas y Calle Juan de Arco Galindo, Ancón, records 659775.38 E, 990772.36 N in WGS84 / UTM zone 17N, converted to 8.96024° N, 79.54667° W. Marks the hospital complex as rebuilt from 1915 to 1919. For the continuity of the French hospital site see Escobar, p. CXLIX, and MINSA. Individual wards and earlier pavilions are not fixed by this point."
+    },
+    {
+      "sourceId": "source:panama-gov-cathedral-map",
+      "role": "supports",
+      "locator": "June 2022 table, region 2, entry no. 788, Plaza de La Catedral, San Felipe, 8.95276° N, 79.53502° W. Square-level location. For the January circular the square is an orientation point near the contemporary legation. The July hydrant ceremony is explicitly placed in the square by the Panamanian fire brigade."
+    },
+    {
+      "sourceId": "source:panama-health-calidonia-site",
+      "role": "supports",
+      "locator": "Ficha P0410, Edificio Hospital Santo Tomás y sus jardines, Calidonia, Avenida Balboa between calles 34 and 37 Este. WGS84 / UTM 17N 661372.55 E, 991793.16 N, converted to 8.96942° N, 79.53211° W. Historical description gives separate buildings, sidewalks and gardens and identifies the broad eaves."
+    },
+    {
+      "sourceId": "source:panama-health-gorgas-french-wards",
+      "role": "supports",
+      "locator": "Chapter XVI, “Malaria Work and the Hospital System”, printed p. 226, paragraph beginning “The nursing force was composed”. Gorgas describes the Black maids and orderlies who worked in the French hospital, including direct care and manual work under the sisters’ supervision."
+    },
+    {
+      "sourceId": "source:panama-water-rainfall-attribution",
+      "role": "supports",
+      "locator": "1 May 2024, opening four paragraphs, fig. 1 and Main findings. May–December 2023 rainfall near the Gatún catchment, lake levels, ship number and size restrictions, rising urban demand and leakage, influence of El Niño, differing station trends and insufficient evidence for attribution of observed drying to human-caused warming."
+    }
+  ],
+  "labels": {
+    "de": "Wer in Panama die Kranken pflegte",
+    "en": "Caring for the sick on the Panama isthmus"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:panama-hospitals-ancon-hospital",
+    "event:panama-hospitals-nursing",
+    "event:panama-hospitals-fever-reports",
+    "event:panama-hospitals-city-water",
+    "event:panama-hospitals-ward-nine",
+    "event:panama-hospitals-santo-tomas",
+    "asset:ancon-hospital-ward-nine-august-1919"
+  ],
+  "recordIds": [
+    "artifact:ancon-hospital-ward-nine-1919-photograph",
+    "asset:ancon-hospital-ward-nine-august-1919",
+    "event:panama-hospitals-ancon-hospital",
+    "event:panama-hospitals-city-water",
+    "event:panama-hospitals-fever-reports",
+    "event:panama-hospitals-nursing",
+    "event:panama-hospitals-santo-tomas",
+    "event:panama-hospitals-ward-nine",
+    "geometry:ancon-hospital-panama-orientation",
+    "geometry:hospital-santo-tomas-calidonia-orientation",
+    "geometry:panama-city-cathedral-square-orientation",
+    "organization:compagnie-universelle-du-canal-interoceanique-de-panama",
+    "organization:daughters-of-charity-of-saint-vincent-de-paul",
+    "organization:panama-city-fire-brigade",
+    "person:anna-l-doolittle",
+    "person:belisario-porras",
+    "person:john-barrett-us-diplomat",
+    "person:mary-eugene-hibbard",
+    "person:santiago-de-la-guardia",
+    "place:ancon-hospital-panama",
+    "place:hospital-santo-tomas-calidonia",
+    "place:panama-city-cathedral-square",
+    "source:canal-labour-brown-payroll",
+    "source:canal-labour-culebra-minutes",
+    "source:panama-acp-french-construction",
+    "source:panama-edhac-share-278792",
+    "source:panama-gov-cathedral-map",
+    "source:panama-gov-council",
+    "source:panama-gov-independence-act",
+    "source:panama-gov-reyes",
+    "source:panama-gov-us-isthmus",
+    "source:panama-health-ancon-site",
+    "source:panama-health-barrett-circular",
+    "source:panama-health-barrett-legation",
+    "source:panama-health-calidonia-decree",
+    "source:panama-health-calidonia-inauguration",
+    "source:panama-health-calidonia-programme",
+    "source:panama-health-calidonia-site",
+    "source:panama-health-chiriboga-city",
+    "source:panama-health-chiriboga-zone",
+    "source:panama-health-doolittle-card",
+    "source:panama-health-escobar",
+    "source:panama-health-fire-brigade",
+    "source:panama-health-gorgas-french-wards",
+    "source:panama-health-guardia-regulations",
+    "source:panama-health-hernandez-nurses",
+    "source:panama-health-hospital-visiting-hours",
+    "source:panama-health-minsa-ancon",
+    "source:panama-health-pierce-1904",
+    "source:panama-health-rio-grande-supply",
+    "source:panama-health-sutter-households",
+    "source:panama-health-ward-nine-mirror",
+    "source:panama-health-ward-nine-photo",
+    "source:panama-locks-ancon-photo",
+    "source:panama-locks-august-1914-report",
+    "source:panama-locks-collier-map",
+    "source:panama-locks-construction-end",
+    "source:panama-locks-design",
+    "source:panama-locks-morning-journal",
+    "source:panama-locks-report-1914",
+    "source:panama-nara-cartography",
+    "source:panama-paris-exchange-yearbook",
+    "source:panama-walker-report-1901",
+    "source:panama-water-rainfall-attribution"
+  ],
+  "steps": [
+    {
+      "id": "ancon-hospital",
+      "textAnchor": "ancon-hospital",
+      "labels": {
+        "de": "September 1882 · Die Schwestern am Cerro Ancón",
+        "en": "September 1882 · The sisters on Ancón Hill"
+      },
+      "summary": {
+        "de": "Die französische Kanalgesellschaft eröffnete auf dem Hang ihr Zentralkrankenhaus. Die Schwestern vom heiligen Vinzenz von Paul empfingen dort auch Kranke aus den Stationen entlang der Kanalbaustellen.",
+        "en": "The French canal company opened its central hospital on the hill. The Sisters of St Vincent de Paul received patients referred by dispensaries along the excavations."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.54667,
+          "latitude": 8.96024,
+          "metersPerPixel": 230,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1882,
+              "month": 9,
+              "day": 1
+            },
+            "latest": {
+              "year": 1882,
+              "month": 9,
+              "day": 30
+            },
+            "precision": "month",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "nursing",
+      "textAnchor": "nursing",
+      "labels": {
+        "de": "7. Juni 1904 · Hibbard übernimmt die Leitung der Krankenpflege",
+        "en": "7 June 1904 · Hibbard takes charge of nursing"
+      },
+      "summary": {
+        "de": "Die Kommission rechnete Hibbards Dienstzeit vom 7. Juni an. In Ancón suchte sie fünf Gebäude für die Patienten und die Versorgung der Stationen aus.",
+        "en": "The commission credited Hibbard’s service from 7 June. At Ancón she chose five buildings to house the patients and the services the wards needed."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.54667,
+          "latitude": 8.96024,
+          "metersPerPixel": 230,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1904,
+              "month": 6,
+              "day": 7
+            },
+            "latest": {
+              "year": 1904,
+              "month": 6,
+              "day": 7
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "fever-reports",
+      "textAnchor": "fever-reports",
+      "labels": {
+        "de": "20. Januar 1905 · Barrett meldet vier Patienten im Krankenhaus",
+        "en": "20 January 1905 · Barrett reports four patients in hospital"
+      },
+      "summary": {
+        "de": "John Barrett meldete am 20. Januar, vier Arbeiter des Sanitätsdienstes würden noch wegen Gelbfiebers behandelt. Sie gehörten zu den 18 seit Juli 1904 gemeldeten Fällen. Der Platz dient zur Orientierung in der Nähe der Gesandtschaft.",
+        "en": "John Barrett reported on 20 January that four sanitary labourers were still in hospital with yellow fever. They were among the eighteen cases reported since July 1904. The square marks the vicinity of the legation."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.53502,
+          "latitude": 8.95276,
+          "metersPerPixel": 370,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1905,
+              "month": 1,
+              "day": 20
+            },
+            "latest": {
+              "year": 1905,
+              "month": 1,
+              "day": 20
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "city-water",
+      "textAnchor": "city-water",
+      "labels": {
+        "de": "4. Juli 1905 · Hydranten auf dem Kathedralplatz",
+        "en": "4 July 1905 · Hydrants in Cathedral Square"
+      },
+      "summary": {
+        "de": "In Panama-Stadt floss Wasser aus dem oberen Río Grande durch die neuen Leitungen. Die Feuerwehr überliefert die Einweihung der Hydranten auf dem Kathedralplatz und einen späteren Brand, bei dem sie noch Zisternen nutzte.",
+        "en": "Water from the upper Río Grande entered Panama City’s new mains. The fire brigade records the opening of the hydrant system in Cathedral Square and a subsequent fire at which it still used cisterns."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.53502,
+          "latitude": 8.95276,
+          "metersPerPixel": 190,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1905,
+              "month": 7,
+              "day": 4
+            },
+            "latest": {
+              "year": 1905,
+              "month": 7,
+              "day": 4
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "ward-nine",
+      "textAnchor": "ward-nine",
+      "labels": {
+        "de": "August 1919 · Besuchszeit in Saal neun",
+        "en": "August 1919 · Visiting hours in Ward Nine"
+      },
+      "summary": {
+        "de": "Im Aufnahmevermerk steht „Spanish“. Der Besuchsplan nennt 39 Betten für Männer, die als weiß und ausländisch eingestuft wurden. Die Angehörigen hatten in diesem Teil des Krankenhauses anderthalb Stunden Besuchszeit.",
+        "en": "The print labels the ward “Spanish”. The visiting schedule lists thirty-nine beds for men classified as white and foreign. Families had a ninety-minute visiting period on the designated days in this part of the hospital."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.54667,
+          "latitude": 8.96024,
+          "metersPerPixel": 230,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1919,
+              "month": 8,
+              "day": 1
+            },
+            "latest": {
+              "year": 1919,
+              "month": 8,
+              "day": 31
+            },
+            "precision": "month",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:ancon-hospital-ward-nine-august-1919"
+    },
+    {
+      "id": "santo-tomas",
+      "textAnchor": "santo-tomas",
+      "labels": {
+        "de": "1. September 1924 · Einweihung des Hospital Santo Tomás in Calidonia",
+        "en": "1 September 1924 · Hospital Santo Tomás opens in Calidonia"
+      },
+      "summary": {
+        "de": "Präsident Porras eröffnete den Neubau des panamaischen Krankenhauses auf dem früheren Ausstellungsgelände. Sein Dekret vom 2. September erklärte das von der Nation errichtete Haus für den öffentlichen Dienst eröffnet.",
+        "en": "President Porras inaugurated the Panamanian hospital’s new buildings on the former exhibition grounds. His decree of 2 September declared the hospital built by the nation open for public service."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.53211,
+          "latitude": 8.96942,
+          "metersPerPixel": 190,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1924,
+              "month": 9,
+              "day": 1
+            },
+            "latest": {
+              "year": 1924,
+              "month": 9,
+              "day": 1
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ordensschwestern, Pflegerinnen und Angehörige sorgten für die Kranken am Panamakanal. Ein Wasserkrug, eine Gelbfiebermeldung und der Besuchsplan von Ancón erzählen, was das für Familien in Panama bedeutete.",
+      "en": "Sisters, nurses and relatives cared for the sick on the isthmus. A household water jar, a yellow fever circular and the visiting hours at Ancón show what that meant for families in Panama."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "public-health",
+        "labels": {
+          "de": "Öffentliche Gesundheit",
+          "en": "Public health"
+        }
+      },
+      {
+        "id": "urban-life",
+        "labels": {
+          "de": "Städtisches Leben",
+          "en": "Urban life"
+        }
+      },
+      {
+        "id": "labour-history",
+        "labels": {
+          "de": "Arbeitsgeschichte",
+          "en": "Labour history"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "nineteenth-century",
+        "labels": {
+          "de": "19. Jahrhundert",
+          "en": "19th century"
+        },
+        "description": {
+          "de": "1801–1900. Ein kalendarischer Zeitbereich; regionale Epochen können ihn unterschiedlich gliedern.",
+          "en": "1801–1900. A calendar grouping; regional periods may divide it differently."
+        }
+      },
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -79.53939,
+      "latitude": 8.96109,
+      "metersPerPixel": 342,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1882,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1882,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1924,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1924,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:locks-and-the-first-ocean-passage",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-locks-design",
+      "role": "supports",
+      "locator": "Paragraphs on lock steps and origin of construction cement, gravity and locomotives. Concluding paragraphs cover shovels 222 and 230 on 20 May 1913, locomotive 260 on 10 September, the Gatun tug on 26 September and Marmot’s December cut at Cucaracha."
+    },
+    {
+      "sourceId": "source:panama-locks-culebra-history",
+      "role": "supports",
+      "locator": "Paragraphs on rail transport of spoil to Gatún Dam and the Naos–Flamenco breakwater, on extending the lake across the divide, and on the distinct modes of slope movement in the Culebra and Cucaracha slides."
+    },
+    {
+      "sourceId": "source:panama-locks-report-1914",
+      "role": "supports",
+      "locator": "Report of Electrical and Mechanical Engineer, pp. 115–116, “Up lockage of tug Gatun” and its return. Measured lift 64.7 feet. Pp. 118–119, first passage of the west chamber at Pedro Miguel by La Valley with Clapet No. 9 and barge No. 6, and trial at Gatún by the Ancon on 11 June."
+    },
+    {
+      "sourceId": "source:panama-locks-handbook-1915",
+      "role": "supports",
+      "locator": "Description of the canal, pp. 46–48, Gatun Lake, Gaillard Cut, Miraflores Lake and Locks. The bottom was 40 ft above sea level and the lake provided a channel 45 ft deep. P. 48 describes the paired chambers, three flights and the effect of Pacific tides on the lift at Miraflores."
+    },
+    {
+      "sourceId": "source:panama-locks-construction-end",
+      "role": "supports",
+      "locator": "Opening paragraphs on the 7 January 1914 completion of a staged crossing by the old French crane boat Alexandre La Valley and the inauguration with John A. Constantine serving as pilot aboard Ancon."
+    },
+    {
+      "sourceId": "source:panama-locks-morning-journal",
+      "role": "supports",
+      "locator": "Tenth year, no. 2948, 16 August 1914, p. 1, col. 3 (digital file, pp. 2–3). Account of the special train and sailing from Cristóbal, lunch and steward Leddeke, Gamboa and dredge crews, spectators at Pedro Miguel, the outer buoys, transfer to boats and the anthem for President Porras."
+    },
+    {
+      "sourceId": "source:panama-locks-august-1914-report",
+      "role": "supports",
+      "locator": "Vol. VIII, no. 6, p. 52, letter dated 24 September 1914, opening paragraphs. The report distinguishes the 3 August Cristobal test to Balboa from the 15 August Ancon deep-water passage, then counts six vessels on 16 August."
+    },
+    {
+      "sourceId": "source:panama-locks-collier-map",
+      "role": "supports",
+      "locator": "The New Encyclopedic Atlas and Gazetteer of the World (1914), p. 66. Map of the route through Gatún Lake and the cut to the Pacific locks, with the railway, grid index, settlement names and coastal approaches."
+    },
+    {
+      "sourceId": "source:panama-locks-ancon-photo",
+      "role": "supports",
+      "locator": "Record Group 185, local identifier 185-G-0888, NAID 100996356. View from Cerro Luisa, 15 August 1914. Cropped archival photograph, file page with creator, identified location, date and public-domain status."
+    },
+    {
+      "sourceId": "source:panama-locks-report-1916",
+      "role": "supports",
+      "locator": "Governor’s report, discussion of Gaillard Cut slides and general reopening on 15 April 1916. Appendix E, plates 45, 48, 50, 54 and 56, shows the September working face and subsequent obstruction. “Lockages”, p. 76, records about forty southbound vessels returning through Gatún."
+    },
+    {
+      "sourceId": "source:panama-locks-new-basins",
+      "role": "supports",
+      "locator": "Announcement, 5 February 2016, paragraphs on the basins at Agua Clara and Cocolí and reuse of water from Gatún Lake per lockage."
+    },
+    {
+      "sourceId": "source:panama-locks-geonames-cut",
+      "role": "supports",
+      "locator": "GeoNames 3709435, section of canal, 9.05597, −79.65663. The point represents the cut as a whole. It does not locate a particular shovel, train or slide face."
+    },
+    {
+      "sourceId": "source:panama-locks-geonames-gatun",
+      "role": "supports",
+      "locator": "GeoNames 3709290, Gatún Locks, 9.27056, −79.92333. Reference point for the original Atlantic flight."
+    },
+    {
+      "sourceId": "source:panama-locks-geonames-pedro",
+      "role": "supports",
+      "locator": "GeoNames 3703181, Pedro Miguel Locks, 9.02128, −79.61719. Reference point near the northern approach, not a fix of the vessel or the photographer."
+    },
+    {
+      "sourceId": "source:panama-locks-geonames-miraflores",
+      "role": "supports",
+      "locator": "GeoNames 3704257, Miraflores Locks, 8.99657, −79.59170. Place reference for the historic two-step Pacific flight."
+    }
+  ],
+  "labels": {
+    "de": "Mit der Ancon über die Wasserscheide",
+    "en": "Across the continental divide aboard Ancon"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:panama-navigation-cut",
+    "event:panama-navigation-trial-at-gatun",
+    "event:panama-navigation-crane-boat",
+    "event:panama-navigation-ancon",
+    "event:panama-navigation-slides",
+    "asset:ancon-at-pedro-miguel-1914"
+  ],
+  "recordIds": [
+    "artifact:alexandre-la-valley-crane-boat",
+    "artifact:ancon-1902-steamship",
+    "artifact:gatun-working-tug",
+    "artifact:marmot-bucket-dredge",
+    "assertion:ancon-at-pedro-miguel",
+    "assertion:tug-gatun-in-the-old-locks",
+    "asset:ancon-at-pedro-miguel-1914",
+    "event:panama-navigation-ancon",
+    "event:panama-navigation-crane-boat",
+    "event:panama-navigation-cut",
+    "event:panama-navigation-slides",
+    "event:panama-navigation-trial-at-gatun",
+    "geometry:culebra-cut-panama-orientation",
+    "geometry:original-gatun-locks-orientation",
+    "geometry:original-miraflores-locks-orientation",
+    "geometry:original-pedro-miguel-locks-orientation",
+    "geometry:panama-canal-opening-transit",
+    "person:belisario-porras",
+    "person:john-a-constantine",
+    "place:balboa-port-panama",
+    "place:cristobal-port-panama",
+    "place:culebra-cut-panama",
+    "place:gamboa-on-the-chagres",
+    "place:original-gatun-locks",
+    "place:original-miraflores-locks",
+    "place:original-pedro-miguel-locks",
+    "place:pacific-approach-to-balboa",
+    "source:panama-acp-french-construction",
+    "source:panama-gov-1977-gazette",
+    "source:panama-gov-1977-treaty-texts",
+    "source:panama-gov-cristobal-cover",
+    "source:panama-gov-cristobal-map",
+    "source:panama-gov-museo-soberania",
+    "source:panama-health-calidonia-decree",
+    "source:panama-health-calidonia-inauguration",
+    "source:panama-health-calidonia-programme",
+    "source:panama-health-calidonia-site",
+    "source:panama-health-chiriboga-zone",
+    "source:panama-health-escobar",
+    "source:panama-jamaica-migration",
+    "source:panama-locks-ancon-photo",
+    "source:panama-locks-august-1914-report",
+    "source:panama-locks-collier-map",
+    "source:panama-locks-construction-end",
+    "source:panama-locks-culebra-history",
+    "source:panama-locks-design",
+    "source:panama-locks-geonames-cut",
+    "source:panama-locks-geonames-gatun",
+    "source:panama-locks-geonames-miraflores",
+    "source:panama-locks-geonames-pedro",
+    "source:panama-locks-handbook-1915",
+    "source:panama-locks-morning-journal",
+    "source:panama-locks-new-basins",
+    "source:panama-locks-report-1914",
+    "source:panama-locks-report-1916",
+    "source:panama-walker-report-1901"
+  ],
+  "steps": [
+    {
+      "id": "cut",
+      "textAnchor": "cut",
+      "labels": {
+        "de": "10. September 1913 · Der letzte Zug mit trocken gebaggertem Gestein",
+        "en": "10 September 1913 · The last trainload of rock dug out on dry ground"
+      },
+      "summary": {
+        "de": "Lokomotive 260 zog die letzte auf trockenem Grund gebaggerte Fuhre aus dem Culebra-Einschnitt. Nach der Flutung gewannen Schwimmbagger die Fahrrinne zurück. Der Punkt bezeichnet den Einschnitt.",
+        "en": "Locomotive 260 hauled the last rock dug on dry ground from Culebra Cut. After flooding, floating dredges cleared the channel. The point identifies the cut."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.65663,
+          "latitude": 9.05597,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1913,
+              "month": 9,
+              "day": 10
+            },
+            "latest": {
+              "year": 1913,
+              "month": 9,
+              "day": 10
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "trial-at-gatun",
+      "textAnchor": "trial-at-gatun",
+      "labels": {
+        "de": "26. September 1913 · Der Schlepper Gatun fährt durch drei Stufen",
+        "en": "26 September 1913 · The tug Gatun ascends three steps"
+      },
+      "summary": {
+        "de": "Der Schlepper stieg bei der ersten Probeschleusung knapp zwanzig Meter. Am nächsten Morgen kehrte er durch dieselben Kammern zur Atlantikseite zurück.",
+        "en": "The working tug climbed nearly twenty metres in the first trial through the locks. Next morning it came down through the same flight to the Atlantic side."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.92333,
+          "latitude": 9.27056,
+          "metersPerPixel": 150,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1913,
+              "month": 9,
+              "day": 26
+            },
+            "latest": {
+              "year": 1913,
+              "month": 9,
+              "day": 26
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "crane-boat",
+      "textAnchor": "crane-boat",
+      "labels": {
+        "de": "7. Januar 1914 · Ein Kranschiff erreicht den Pazifik",
+        "en": "7 January 1914 · A crane boat reaches the Pacific"
+      },
+      "summary": {
+        "de": "Die französische Alexandre La Valley, zuvor von der Atlantikseite heraufgekommen, fuhr durch die Pazifikschleusen. Damit hatte das Arbeitsschiff die Landenge in Etappen durchquert.",
+        "en": "The French crane boat Alexandre La Valley, previously brought up from the Atlantic side, passed through the Pacific locks, completing a crossing in stages."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.5917,
+          "latitude": 8.99657,
+          "metersPerPixel": 140,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1914,
+              "month": 1,
+              "day": 7
+            },
+            "latest": {
+              "year": 1914,
+              "month": 1,
+              "day": 7
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "ancon",
+      "textAnchor": "ancon",
+      "labels": {
+        "de": "15. August 1914 · Die Ancon auf der offiziellen Eröffnungsfahrt",
+        "en": "15 August 1914 · Ancon on the official opening passage"
+      },
+      "summary": {
+        "de": "Der Lotse John A. Constantine führte den Dampfer von Cristóbal bis zu den äußeren pazifischen Fahrwassertonnen. Eine Aufnahme vom Cerro Luisa zeigt das Einlaufen in Pedro Miguel.",
+        "en": "The pilot John A. Constantine took the steamer from Cristóbal to the outer Pacific buoys. A photograph from Cerro Luisa shows it entering Pedro Miguel Locks."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.72,
+          "latitude": 9.12,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1914,
+              "month": 8,
+              "day": 15
+            },
+            "latest": {
+              "year": 1914,
+              "month": 8,
+              "day": 15
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:ancon-at-pedro-miguel-1914"
+    },
+    {
+      "id": "slides",
+      "textAnchor": "slides",
+      "labels": {
+        "de": "18. September 1915 bis 15. April 1916 · Die Hänge schließen die Fahrrinne",
+        "en": "18 September 1915 to 15 April 1916 · The banks close over the channel"
+      },
+      "summary": {
+        "de": "Die Hänge von Culebra schoben Material von beiden Seiten in die Fahrrinne. Rund vierzig Schiffe mussten über Gatún zum Atlantik zurück. Im April 1916 begann der reguläre Verkehr erneut.",
+        "en": "Moving slopes at Culebra sent material into the channel from both sides. Roughly forty vessels had to return through Gatún to the Atlantic. General traffic resumed in April 1916."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.65663,
+          "latitude": 9.05597,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 1915,
+              "month": 9,
+              "day": 18
+            },
+            "latest": {
+              "year": 1915,
+              "month": 9,
+              "day": 18
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 1916,
+              "month": 4,
+              "day": 15
+            },
+            "latest": {
+              "year": 1916,
+              "month": 4,
+              "day": 15
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Schlepper steigt zum noch ansteigenden Gatúnsee auf, ein Kranschiff findet den Weg zum Pazifik. An Bord der Ancon erleben Gäste die erste offizielle Durchfahrt. Ein Jahr später schicken abrutschende Hänge die Schiffe zurück.",
+      "en": "A tug climbs to the still-rising Gatún Lake. A crane boat reaches the Pacific. Passengers aboard Ancon witness the official opening. A year later the movement of the hills sends ships back the way they came."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "technology",
+        "labels": {
+          "de": "Technik",
+          "en": "Technology"
+        }
+      },
+      {
+        "id": "seafaring",
+        "labels": {
+          "de": "Seefahrt",
+          "en": "Seafaring"
+        }
+      },
+      {
+        "id": "water-management",
+        "labels": {
+          "de": "Wasserbau",
+          "en": "Water management"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -79.75752,
+      "latitude": 9.13357,
+      "metersPerPixel": 342,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1913,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1913,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1916,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1916,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

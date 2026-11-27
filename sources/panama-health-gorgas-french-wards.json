@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-health-gorgas-french-wards",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sanitation in Panama",
+  "url": "https://archive.org/download/sanitationinpana00gorg/sanitationinpana00gorg_djvu.txt",
+  "sourceType": "book",
+  "language": "en",
+  "creators": [
+    "William Crawford Gorgas"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1915"
+}

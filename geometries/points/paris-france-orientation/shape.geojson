@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:paris-france-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3488,
+      48.8534
+    ]
+  }
+}

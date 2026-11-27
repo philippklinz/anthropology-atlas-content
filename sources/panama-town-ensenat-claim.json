@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:panama-town-ensenat-claim",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Joint Land Commission, Opinion No. 150 in the matter of Antonio Enseñat",
+  "url": "https://www.govinfo.gov/content/pkg/GOVPUB-W79-026036a721139920c1d88e25d5e3d2ca/pdf/GOVPUB-W79-026036a721139920c1d88e25d5e3d2ca.pdf",
+  "sourceType": "archive",
+  "language": "en",
+  "creators": [
+    "Panama–United States Joint Land Commission"
+  ],
+  "accessedAt": "2026-11-27",
+  "published": "1914"
+}

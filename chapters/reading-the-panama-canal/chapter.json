@@ -1,0 +1,1098 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:reading-the-panama-canal",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:panama-crossing-fairs",
+      "role": "supports",
+      "locator": "Anales del Museo de América XX, pp. 264–267, ports, the foundation of San Felipe de Portobelo, the fairs, merchandise and provisioning. Pp. 267–269, especially p. 268, the two itineraries, the municipal warehouse built at Cruces in 1536, 47 compartments, enslaved households, river transport and cargo craft."
+    },
+    {
+      "sourceId": "source:panama-crossing-icomos",
+      "role": "supports",
+      "locator": "Section 2, “Description and history”, opening discussion of the itineraries. Follow the sequence Nombre de Dios, coastal navigation, Chagres, Venta de Cruces and Panamá Viejo. The evaluation dates the village of Cruces to 1533, before the warehouse. Also the 1597 transfer and the relocation of Panamá in 1673."
+    },
+    {
+      "sourceId": "source:panama-crossing-cruces-site",
+      "role": "supports",
+      "locator": "Printed p. 186, archaeological sites inventory, “Venta de Cruces”, period Colonial. The WGS 84 UTM reference 17 P 644522 1009307 converts to 9.12836 N, 79.68478 W. It locates the settlement rather than the warehouse footprint."
+    },
+    {
+      "sourceId": "source:panama-crossing-nomination",
+      "role": "supports",
+      "locator": "“Textual description of the boundary of the nominated property”, components 002 and 003, Camino de Cruces sections 1 and 2. Section 2 begins at Venta de Cruces near the northern entrance to the Culebra Cut. Compare proposed site maps 04 and 05 and the distinct archaeological-site point for Panamá Viejo in the opening table."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-economy",
+      "role": "supports",
+      "locator": "“Inversión extranjera y la construcción de la línea férrea”, passages on Manzanillo Island, the two port names, construction begun in 1850, 47.5 miles, the inauguration on 28 January 1855 and class fares. Later discussion of the French purchase of over 98% of railroad shares. DOI 10.18232/alhe.v22i2.588."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-crew",
+      "role": "supports",
+      "locator": "Chapter 2, “Migration to Panama in the 19th Century”, pp. 55–58. Origins of the railroad workforce and arrival of workers from China during construction."
+    },
+    {
+      "sourceId": "source:panama-crossing-rail-images",
+      "role": "supports",
+      "locator": "“Panama Railroad at the Summit, 1855”, on the last rail laid 27 January and Robert Tomes’s account of buying oranges in the first year. Also “Barbacoas Bridge” and view of Front Street in Colón."
+    },
+    {
+      "sourceId": "source:panama-crossing-harrison",
+      "role": "supports",
+      "locator": "Smithsonian Libraries and Archives, BHL item 238774, single foldout map, compiled from the original surveys, 1857. Compare the Chagres, the railway alignment, and the track profile along the left edge. Item-level Copyright & Usage identifies the work as public domain; DOI 10.5962/bhl.title.140712."
+    },
+    {
+      "sourceId": "source:panama-crossing-colon-point",
+      "role": "supports",
+      "locator": "TGN 7006458, coordinates 9.3500 N, 79.9000 W, Aspinwall as alternative name, historical note on the northern terminus. City-level point on Manzanillo Island."
+    },
+    {
+      "sourceId": "source:panama-paris-society-congress",
+      "role": "supports",
+      "locator": "List of events held in the Hôtel de la Société. Entry for the interoceanic canal congress, 15–29 May 1879. The institution gives its address as 184 boulevard Saint-Germain, Paris."
+    },
+    {
+      "sourceId": "source:panama-paris-congress-voisin",
+      "role": "supports",
+      "locator": "Catalogue record for the 68-page Paris printing with folded plates. The title identifies the technical report and fixes the day of the closing session."
+    },
+    {
+      "sourceId": "source:panama-menocal-instructions",
+      "role": "supports",
+      "locator": "France, instruction of 25 April designating Daniel Ammen and civil engineer Menocal. The paragraph defining the non-official character of the congress limits their participation to discussion by experts."
+    },
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "International congress and its vote (Menocal, Lépinay and Pedro Sosa). The passages on Dingler, Boyer and Bunau-Varilla describe transport of spoil, earth slides, Jamaican labour and the July 1886 Culebra contract. “Gustave Eiffel” dates the 1887 report, 1888 construction under the amended plan and stoppage."
+    },
+    {
+      "sourceId": "source:panama-walker-report-1901",
+      "role": "supports",
+      "locator": "Chapter on the Panama route, pp. 81–83, especially the ground at the divide, relation of the Chagres to the route, temporary lock design, court judgment, liquidator’s powers and cessation on 15 May."
+    },
+    {
+      "sourceId": "source:panama-health-minsa-ancon",
+      "role": "supports",
+      "locator": "29 November 2021, “Antecedentes históricos” and “Antes de la segunda guerra mundial”: September 1882 opening, choice of the slope of Cerro Ancón to catch breezes away from city wastewater, US acquisition and reuse of the grounds. MINSA gives 12 September for the opening. The thanksgiving Mass is separately dated to the 17th by Escobar. The station therefore identifies the opening by month."
+    },
+    {
+      "sourceId": "source:panama-health-escobar",
+      "role": "supports",
+      "locator": "Chapter VI, “Hospitales en la Época del Canal Francés”, pp. CXLIX–CLI. Companyo, his earlier work at Suez, Huerta de Gallo, the fundraising committee, the September thanksgiving Mass, transfers of patients, the sisters, Colón, the former Taboga hotel and the orphanage. Chapter VII, pp. CLXXIV–CLXXVI, reports the 1916 request for larger premises and lottery funding. Pp. CLXXXII–CLXXXIII name the four nursing graduates of 1912. For the 1924 opening date use the contemporary decrees, which supersede the December date printed on p. CLXXV."
+    },
+    {
+      "sourceId": "source:panama-health-pierce-1904",
+      "role": "supports",
+      "locator": "Public Health Reports 19 (8), 19 February 1904, printed p. 277, “Hospitals”: wooden, separated pavilions of the French hospital, nursing by Sisters of Charity, twenty-four patients in the foreign section and twenty in the canal section. This is a count made before the US canal administration assumed the hospital."
+    },
+    {
+      "sourceId": "source:panama-acp-french-construction",
+      "role": "supports",
+      "locator": "“Gustave Eiffel”, final paragraphs on the first canal company, receivership and the appointment of a liquidator. Escobar, pp. CL–CLI, traces how the breakdown of the construction enterprise affected its hospitals."
+    },
+    {
+      "sourceId": "source:panama-health-ancon-site",
+      "role": "supports",
+      "locator": "Ficha P1405, Antiguo Hospital Gorgas, Calle Gorgas y Calle Juan de Arco Galindo, Ancón, records 659775.38 E, 990772.36 N in WGS84 / UTM zone 17N, converted to 8.96024° N, 79.54667° W. Marks the hospital complex as rebuilt from 1915 to 1919. For the continuity of the French hospital site see Escobar, p. CXLIX, and MINSA. Individual wards and earlier pavilions are not fixed by this point."
+    },
+    {
+      "sourceId": "source:panama-health-gorgas-french-wards",
+      "role": "supports",
+      "locator": "Chapter XVI, “Malaria Work and the Hospital System”, printed p. 226, paragraph beginning “The nursing force was composed”. Gorgas describes the Black maids and orderlies who worked in the French hospital, including direct care and manual work under the sisters’ supervision."
+    },
+    {
+      "sourceId": "source:canal-labour-barbados-money",
+      "role": "supports",
+      "locator": "New West Indian Guide 59 (1–2), pp. 1–26. On pp. 8–10 Richardson cites Karner's letter in the Barbados Advocate, 23 January 1905, and the 1909 Weekly Illustrated Paper retrospective on recruitment by returnees. Bridgetown wharf, lighters, Carlisle Bay and the distinction between contracted and noncontract migrants appear on pp. 9–10."
+    },
+    {
+      "sourceId": "source:canal-labour-acp-recruitment",
+      "role": "supports",
+      "locator": "Workforce recruitment, from the paragraph beginning ‘It was recognized early on’ through the separate discussions of Barbados and Jamaica. The figure of 19,900 is recruitment in Barbados. Jamaica refused recruiting and required intending emigrants to cover tax and passage. Skilled workers were among those able to pay."
+    },
+    {
+      "sourceId": "source:canal-labour-bridgetown-map",
+      "role": "supports",
+      "locator": "Property 1376, Historic Bridgetown and its Garrison, N 13°05′48″ W 59°36′50″ and the accompanying property map. Locator for the historic town and its harbour rather than an individual 1905 boarding place."
+    },
+    {
+      "sourceId": "source:panama-town-lake-villages",
+      "role": "supports",
+      "locator": "The Canal Record, vol. V, no. 15, 6 December 1911, pp. 120–121. First column on the expected removal of the railway and dwellings already being taken down. The entries for Gatun, Bohio and Frijoles list the produce trade, housing, school and shops, 1908 counts and the burial of old Gatun under the dam. The editorial assessment of the losses occurs on p. 120."
+    },
+    {
+      "sourceId": "source:panama-town-lasso-lost",
+      "role": "supports",
+      "locator": "La Prensa, 6 July 2014. The paragraphs beginning “A diferencia de lo que se cree comúnmente” and “Además, los trabajos del Canal” distinguish flooded Gorgona, the first relocation of Gatún and the later clearance of dry settlements. The preceding paragraphs reconstruct commerce and housing from tax records."
+    },
+    {
+      "sourceId": "source:panama-town-rail-stations",
+      "role": "supports",
+      "locator": "Cuadernos Nacionales 37, pp. 151–154, section “Estación de Gatún.” Figures 32 and 36 locate the original and relocated railway station and relate the latter to the buildings and shoreline. Figure 33 and the text on pp. 152–153 describe the platform, ticket office, telegraph and baggage room."
+    },
+    {
+      "sourceId": "source:panama-locks-morning-journal",
+      "role": "supports",
+      "locator": "Tenth year, no. 2948, 16 August 1914, p. 1, col. 3 (digital file, pp. 2–3). Account of the special train and sailing from Cristóbal, lunch and steward Leddeke, Gamboa and dredge crews, spectators at Pedro Miguel, the outer buoys, transfer to boats and the anthem for President Porras."
+    },
+    {
+      "sourceId": "source:panama-locks-august-1914-report",
+      "role": "supports",
+      "locator": "Vol. VIII, no. 6, p. 52, letter dated 24 September 1914, opening paragraphs. The report distinguishes the 3 August Cristobal test to Balboa from the 15 August Ancon deep-water passage, then counts six vessels on 16 August."
+    },
+    {
+      "sourceId": "source:panama-locks-ancon-photo",
+      "role": "supports",
+      "locator": "Record Group 185, local identifier 185-G-0888, NAID 100996356. View from Cerro Luisa, 15 August 1914. Cropped archival photograph, file page with creator, identified location, date and public-domain status."
+    },
+    {
+      "sourceId": "source:panama-locks-construction-end",
+      "role": "supports",
+      "locator": "Opening paragraphs on the 7 January 1914 completion of a staged crossing by the old French crane boat Alexandre La Valley and the inauguration with John A. Constantine serving as pilot aboard Ancon."
+    },
+    {
+      "sourceId": "source:panama-locks-report-1914",
+      "role": "supports",
+      "locator": "Report of Electrical and Mechanical Engineer, pp. 115–116, “Up lockage of tug Gatun” and its return. Measured lift 64.7 feet. Pp. 118–119, first passage of the west chamber at Pedro Miguel by La Valley with Clapet No. 9 and barge No. 6, and trial at Gatún by the Ancon on 11 June."
+    },
+    {
+      "sourceId": "source:panama-locks-design",
+      "role": "supports",
+      "locator": "Paragraphs on lock steps and origin of construction cement, gravity and locomotives. Concluding paragraphs cover shovels 222 and 230 on 20 May 1913, locomotive 260 on 10 September, the Gatun tug on 26 September and Marmot’s December cut at Cucaracha."
+    },
+    {
+      "sourceId": "source:panama-locks-collier-map",
+      "role": "supports",
+      "locator": "The New Encyclopedic Atlas and Gazetteer of the World (1914), p. 66. Map of the route through Gatún Lake and the cut to the Pacific locks, with the railway, grid index, settlement names and coastal approaches."
+    },
+    {
+      "sourceId": "source:panama-gov-1977-gazette",
+      "role": "supports",
+      "locator": "Gaceta Oficial núm. 18451, 1 November 1977. Entry names the two instruments and the agreements implementing them, dates the signature, entry into force and noon termination of the canal treaty."
+    },
+    {
+      "sourceId": "source:panama-gov-1977-treaty-texts",
+      "role": "supports",
+      "locator": "Selected Documents no. 6C (January 1978), printed pp. 3–5, Washington signing ceremony and English translation of Torrijos’s reservations. Panama Canal Treaty, pp. 41–50, Articles II.2, III.3, XI.1–2 and XIII on the deadline, appointments, jurisdiction and property. Neutrality Treaty, pp. 51–52, Articles I–V. The Letter of Submittal, p. 6, distinguishes the joint declaration of 3 April 1964 from the two presidents’ agreement announced on 24 September 1965 to replace the 1903 convention."
+    },
+    {
+      "sourceId": "source:panama-gov-neutrality",
+      "role": "supports",
+      "locator": "Articles I, II and IV establish permanent neutrality and peaceful transit on equal terms for vessels of all nations. Article V provides that Panama alone will operate the canal after the canal treaty expires."
+    },
+    {
+      "sourceId": "source:panama-gov-museo-soberania",
+      "role": "supports",
+      "locator": "Exhibition script, sections 4.4–4.5 on the ballot and debate under the military government, 5.1 on the end of the zone, 8.2 on training and constitutional change, and 8.3 on the two separate December ceremonies, participants and clock."
+    },
+    {
+      "sourceId": "source:panama-gov-handover-site",
+      "role": "supports",
+      "locator": "Opening three paragraphs. Identifies the flag site outside the Administration Building and distinguishes the anniversary ceremony of 2019 from the transfer at noon on 31 December 1999."
+    },
+    {
+      "sourceId": "source:panama-gov-14-december",
+      "role": "supports",
+      "locator": "Opening paragraph of the statement dated 14 December 1999. Sets the international commemoration and Carter’s role apart from the transfer due on 31 December."
+    },
+    {
+      "sourceId": "source:panama-gov-administration-map",
+      "role": "supports",
+      "locator": "Coordinate statement for the listed Canal Administration Building in Ancón, monument PA-08-120. The building is mapped to orient the ceremony outside it."
+    },
+    {
+      "sourceId": "source:panama-water-annual-2024",
+      "role": "supports",
+      "locator": "Chairman’s message, opening paragraph on 1 October 2023 to 30 September 2024. Printed p. 22, Water Use, graph 1, 542 hm³ for drinking water, 17% of 3,124 hm³; p. 23, Rainfall, graph 2, watershed rainfall of 2,118 mm and historical average 2,660 mm; p. 24, Pilot Plan for Water Treatment, April 2024 reverse-osmosis pilot at Escobal for a projected 2,500 residents."
+    },
+    {
+      "sourceId": "source:panama-water-rainfall-attribution",
+      "role": "supports",
+      "locator": "1 May 2024, opening four paragraphs, fig. 1 and Main findings. May–December 2023 rainfall near the Gatún catchment, lake levels, ship number and size restrictions, rising urban demand and leakage, influence of El Niño, differing station trends and insufficient evidence for attribution of observed drying to human-caused warming."
+    },
+    {
+      "sourceId": "source:panama-water-arap-lake",
+      "role": "supports",
+      "locator": "PDF p. 1, paragraph giving the lake reference point 09°10′31.7″ N, 79°54′06.4″ W, with cross-references to the national mapping institute. PDF pp. 3–5, fishery and tables 1–2, listing Escobal among the fishing communities. The fisheries figures cited there come from 2004."
+    },
+    {
+      "sourceId": "source:panama-water-sentinel-composite",
+      "role": "supports",
+      "locator": "20 October 2023. Image description, on Sentinel-1 radar observations and year-colour assignment, and the Credits and Licence fields for the 1,623 × 1,623 JPEG. Blue 2020, green 2021, red 2022, with ships on Gatún Lake and offshore. CC BY-SA 3.0 IGO is an explicit licence option."
+    },
+    {
+      "sourceId": "source:canal-labour-clarke",
+      "role": "supports",
+      "locator": "AA00016037/00033, typescript pp. 1–3, scans image0096–image0098. Page 1 gives his Colón address and Panamanian citizenship, recalls Bajo Matachín, names Marian Cunningson and Caroline Lowe and prices their breakfast. Page 2 records 18 years as an artisan and 30 on deck, and his tally of 5,330 transits."
+    },
+    {
+      "sourceId": "source:canal-labour-testimony-rules",
+      "role": "supports",
+      "locator": "AA00016037/00001, scans image0003–image0004, ‘The Contest’ and ‘The Entries’, for the circular sent to fifteen newspapers, relief packages, posting deadline and anniversary. List of entrants on image0005 and image0007 includes Clarke and Simmons."
+    },
+    {
+      "sourceId": "source:canal-labour-greene-migrants",
+      "role": "supports",
+      "locator": "Modern American History 7 (1), pp. 127–130, especially pp. 127 and 130. The author identifies the 112 written testimonies in Box 25 of the Isthmian Historical Society collection at the Library of Congress and discusses how they were solicited and kept."
+    },
+    {
+      "sourceId": "source:panama-gov-flag-witness",
+      "role": "supports",
+      "locator": "Printed pp. 107–108, Foreign Minister Solís on breaking relations. Pp. 109–112, Guevara Paz, “Relato objetivo de lo ocurrido en Balboa el jueves 9 de enero”, first published by La Estrella de Panamá, 14 January 1964. Includes Díaz, Gorgas Hospital, the delegation and the testimony attributed to Carranza."
+    },
+    {
+      "sourceId": "source:panama-gov-flag-restoration",
+      "role": "supports",
+      "locator": "Report of 9 January 2014. Identifies the Instituto Nacional flag, its custodians, movement to the Canal Museum in 2013, textile treatment in Spain and exhibition in the former Balboa school."
+    },
+    {
+      "sourceId": "source:panama-gov-later-negotiations",
+      "role": "supports",
+      "locator": "Paragraphs on the 1964 flag dispute, interruption and resumption of relations, and US Senate votes on the two treaties in 1978."
+    },
+    {
+      "sourceId": "source:panama-gov-balboa-school-map",
+      "role": "supports",
+      "locator": "OpenStreetMap way 609527463, Centro de Capacitación Ascanio Arosemena. Building point for the former school identified in the ACP exhibition notice. The map does not place individual marchers."
+    },
+    {
+      "sourceId": "source:panama-gov-chiari-johnson-1964",
+      "role": "supports",
+      "locator": "FRUS, 1964–1968, volume XXXI, document 410, 3 April 1964, pp. 867–869. The presidents discuss restoring diplomatic relations, naming representatives and the absence of preconditions."
+    },
+    {
+      "sourceId": "source:panama-gov-robles-johnson-1965",
+      "role": "supports",
+      "locator": "24 September 1965. Presidential statements issued in Washington and Panama City, especially point 1 of the joint statement on the replacement of the 1903 treaty."
+    },
+    {
+      "sourceId": "source:panama-water-referendum",
+      "role": "supports",
+      "locator": "22 October 2006. Ballot question, voting and turnout tables and project footnote. 705,284 yes, 201,105 no, 9,967 blank and 7,673 invalid; 924,029 ballots, 2,132,842 registered. The printed 76.3% uses all ballots. The yes/no subtotal of 906,389 gives 77.8% yes."
+    },
+    {
+      "sourceId": "source:panama-water-constitution",
+      "role": "supports",
+      "locator": "Title XV, Chapter 1, Article 325, first, third and fourth paragraphs. A proposal for a third set of locks requires executive and legislative approval, then a national referendum at least three months after legislative approval."
+    },
+    {
+      "sourceId": "source:panama-water-expansion-proposal",
+      "role": "supports",
+      "locator": "24 April 2006. Section 1, p. 3 and fig. 1, two existing lanes, new locks at both ends, channels and maximum lake level. Section 5.6, pp. 47–48, fig. 32 and note 78, gravity, three basins per chamber, 60% reuse within the new system and projected 7% less water per transit than the old locks. Section 7, p. 53, proposal using existing reservoirs."
+    },
+    {
+      "sourceId": "source:panama-water-debate-2006",
+      "role": "supports",
+      "locator": "Report RL30981, updated 16 November 2006, pp. CRS-15–16, “Canal Expansion Project”. Torrijos on revenue for social programmes and the Coordinadora Campesina Contra los Embalses on the risk of displacement. These are arguments put forward during the campaign."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-completion",
+      "role": "supports",
+      "locator": "Final communiqué, 26 June 2016, paragraph beginning “The inaugural transit began”. Records a completed passage from Agua Clara on the Atlantic to Cocolí on the Pacific by Cosco Shipping Panama, bound for Asia."
+    },
+    {
+      "sourceId": "source:panama-water-annual-2016",
+      "role": "supports",
+      "locator": "Spanish section, pp. 29–30, “Crónica de un día inolvidable”, arrivals by bus, crowd at noon, entry at about 3 p.m. and ship’s horn at Cocolí. P. 53, training and chartered Baroque. English section, p. 191, completed inauguration and more than 200 transits through September; p. 193, Baroque and Oceanus trials."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-morning",
+      "role": "supports",
+      "locator": "Morning dispatch, 26 June 2016. Opening paragraphs identify the vessel formerly named Andronikos, departure from Piraeus and the start at Agua Clara; the Pacific-side passage was still expected as this was written."
+    },
+    {
+      "sourceId": "source:panama-water-inaugural-draw",
+      "role": "supports",
+      "locator": "29 April 2016, paragraphs identifying the two participating lines and their ships Andronikos and Thalatta, the venue, the notary, Jorge Quijano, the drawing of the two names and the selected ship’s length and beam."
+    },
+    {
+      "sourceId": "source:panama-water-lottery-report",
+      "role": "supports",
+      "locator": "30 April 2016. Opening paragraphs describe the previous morning’s draw in the rotunda using the national lottery urn. Reporter names Margarita Azucena, notary Víctor Aldana Aparicio and administrator Jorge Quijano, and identifies both ships."
+    },
+    {
+      "sourceId": "source:panama-water-agua-clara-visitor",
+      "role": "supports",
+      "locator": "“Centro de Visitantes de Agua Clara – Gatún” and “Exhibición panorámica”. The public visitor site overlooks the Caribbean-side works near Colón."
+    },
+    {
+      "sourceId": "source:canal-labour-pay-car-photograph",
+      "role": "supports",
+      "locator": "National Archives Identifier 100997804, caption 311-A on the photograph. The dated print shows staff and workers at the pay car. The NARA/DPLA item record and US public-domain statement accompany the 1,761 × 1,443 pixel file."
+    },
+    {
+      "sourceId": "source:canal-labour-goethals-pay-car",
+      "role": "supports",
+      "locator": "Scribner’s Magazine 57 (4), April 1915, p. 396 (wage rolls and European labourers) and p. 404, photograph caption ‘Pay car at Culebra, January 12, 1908’: the carriage had counters and separate entrance and exit. This is an account by the former chief engineer and then governor."
+    },
+    {
+      "sourceId": "source:canal-labour-simmons",
+      "role": "supports",
+      "locator": "AA00016037/00101, typescript pp. 1–3 (scan files image0029–image0031). Arrival by railway at San Pablo in 1908, coal and track work, father's referral, friends at Tabernilla, January 1910 move to the Gatún spillway, railway assignments and the concrete crane. The date and location of his first shift follow the first-person text."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-map",
+      "role": "supports",
+      "locator": "Annex 4, Figure 1, between printed pp. 2 and 3. Overlay of the 1909 street plan labelled ‘Old town of Culebra’ on the March 1947 contours and slide limits. Approximate site on the west bank near Zion Hill. Neither the pay-car siding nor the precise 1906 office is identified on this map."
+    }
+  ],
+  "labels": {
+    "de": "Der Panamakanal",
+    "en": "The Panama Canal"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:panama-crossings-cruces",
+    "event:panama-crossings-railway",
+    "event:french-panama-congress",
+    "event:panama-hospitals-ancon-hospital",
+    "event:canal-labour-barbados",
+    "event:canal-towns-gatun",
+    "event:panama-navigation-ancon",
+    "event:canal-government-handover",
+    "event:canal-water-rainfall",
+    "asset:panama-railroad-harrison-map-1857",
+    "asset:ancon-at-pedro-miguel-1914",
+    "asset:panama-canal-sentinel-1-traffic-2020-22"
+  ],
+  "recordIds": [
+    "artifact:ancon-1902-steamship",
+    "artifact:cosco-shipping-panama-container-ship",
+    "artifact:culebra-pay-car-photograph",
+    "artifact:instituto-nacional-flag-1964",
+    "artifact:panama-railroad-map-1857",
+    "asset:ancon-at-pedro-miguel-1914",
+    "asset:panama-canal-sentinel-1-traffic-2020-22",
+    "asset:panama-railroad-harrison-map-1857",
+    "community:passengers-of-the-1855-panama-railway-crossing",
+    "community:residents-of-old-gatun",
+    "event:canal-government-flag",
+    "event:canal-government-handover",
+    "event:canal-labour-barbados",
+    "event:canal-labour-pay-car",
+    "event:canal-labour-testimony",
+    "event:canal-towns-gatun",
+    "event:canal-water-new-locks",
+    "event:canal-water-rainfall",
+    "event:canal-water-referendum",
+    "event:french-panama-congress",
+    "event:panama-crossings-cruces",
+    "event:panama-crossings-railway",
+    "event:panama-hospitals-ancon-hospital",
+    "event:panama-navigation-ancon",
+    "geometry:agua-clara-visitor-center-panama-orientation",
+    "geometry:ancon-hospital-panama-orientation",
+    "geometry:balboa-high-school-panama-orientation",
+    "geometry:bridgetown-historic-port-orientation",
+    "geometry:colon-on-manzanillo-island-orientation",
+    "geometry:culebra-construction-town-orientation",
+    "geometry:gatun-lake-panama-orientation",
+    "geometry:old-gatun-at-the-dam-orientation",
+    "geometry:original-pedro-miguel-locks-orientation",
+    "geometry:panama-canal-administration-building-orientation",
+    "geometry:panama-canal-opening-transit",
+    "geometry:panama-city-panama-orientation",
+    "geometry:panama-railroad-original-crossing",
+    "geometry:paris-geographical-society-orientation",
+    "geometry:venta-de-cruces-orientation",
+    "organization:compagnie-universelle-du-canal-interoceanique-de-panama",
+    "organization:daughters-of-charity-of-saint-vincent-de-paul",
+    "person:amos-e-clarke",
+    "person:aniceto-garcia-menocal",
+    "person:belisario-porras",
+    "person:guillermo-guevara-paz",
+    "person:john-a-constantine",
+    "person:jorge-l-quijano",
+    "person:louis-caldera",
+    "person:martin-torrijos",
+    "person:mireya-moscoso",
+    "person:pedro-sosa-panama-engineer",
+    "person:william-j-karner",
+    "place:agua-clara-visitor-center-panama",
+    "place:ancon-hospital-panama",
+    "place:balboa-high-school-panama",
+    "place:balboa-port-panama",
+    "place:bridgetown-historic-port",
+    "place:colon-on-manzanillo-island",
+    "place:cristobal-port-panama",
+    "place:culebra-construction-town",
+    "place:culebra-cut-panama",
+    "place:gamboa-on-the-chagres",
+    "place:gatun-lake-panama",
+    "place:old-gatun-at-the-dam",
+    "place:original-gatun-locks",
+    "place:original-miraflores-locks",
+    "place:original-pedro-miguel-locks",
+    "place:pacific-approach-to-balboa",
+    "place:panama-canal-administration-building",
+    "place:panama-city-panama",
+    "place:paris-geographical-society",
+    "place:venta-de-cruces",
+    "source:canal-labour-acp-recruitment",
+    "source:canal-labour-barbados-money",
+    "source:canal-labour-bridgetown-map",
+    "source:canal-labour-brown-payroll",
+    "source:canal-labour-clarke",
+    "source:canal-labour-colon-strike",
+    "source:canal-labour-culebra-map",
+    "source:canal-labour-culebra-minutes",
+    "source:canal-labour-goethals-pay-car",
+    "source:canal-labour-governor-1920",
+    "source:canal-labour-greene-migrants",
+    "source:canal-labour-maloney-strike",
+    "source:canal-labour-pay-car-photograph",
+    "source:canal-labour-simmons",
+    "source:canal-labour-testimony-rules",
+    "source:panama-acp-french-construction",
+    "source:panama-crossing-colon-point",
+    "source:panama-crossing-cruces-site",
+    "source:panama-crossing-fairs",
+    "source:panama-crossing-first-train-dispatch",
+    "source:panama-crossing-gatun-retrospect",
+    "source:panama-crossing-harrison",
+    "source:panama-crossing-icomos",
+    "source:panama-crossing-nomination",
+    "source:panama-crossing-otis-route",
+    "source:panama-crossing-rail-crew",
+    "source:panama-crossing-rail-economy",
+    "source:panama-crossing-rail-images",
+    "source:panama-crossing-seacole",
+    "source:panama-crossing-seacole-date",
+    "source:panama-edhac-share-278792",
+    "source:panama-gov-14-december",
+    "source:panama-gov-1977-gazette",
+    "source:panama-gov-1977-treaty-texts",
+    "source:panama-gov-administration-map",
+    "source:panama-gov-balboa-school-map",
+    "source:panama-gov-chiari-johnson-1964",
+    "source:panama-gov-cristobal-cover",
+    "source:panama-gov-cristobal-map",
+    "source:panama-gov-flag-restoration",
+    "source:panama-gov-flag-witness",
+    "source:panama-gov-handover-site",
+    "source:panama-gov-later-negotiations",
+    "source:panama-gov-museo-soberania",
+    "source:panama-gov-neutrality",
+    "source:panama-gov-robles-johnson-1965",
+    "source:panama-health-ancon-site",
+    "source:panama-health-calidonia-decree",
+    "source:panama-health-calidonia-inauguration",
+    "source:panama-health-calidonia-programme",
+    "source:panama-health-calidonia-site",
+    "source:panama-health-chiriboga-zone",
+    "source:panama-health-doolittle-card",
+    "source:panama-health-escobar",
+    "source:panama-health-gorgas-french-wards",
+    "source:panama-health-hernandez-nurses",
+    "source:panama-health-hospital-visiting-hours",
+    "source:panama-health-minsa-ancon",
+    "source:panama-health-pierce-1904",
+    "source:panama-health-ward-nine-mirror",
+    "source:panama-health-ward-nine-photo",
+    "source:panama-jamaica-migration",
+    "source:panama-locks-ancon-photo",
+    "source:panama-locks-august-1914-report",
+    "source:panama-locks-collier-map",
+    "source:panama-locks-construction-end",
+    "source:panama-locks-culebra-history",
+    "source:panama-locks-design",
+    "source:panama-locks-geonames-pedro",
+    "source:panama-locks-handbook-1915",
+    "source:panama-locks-morning-journal",
+    "source:panama-locks-new-basins",
+    "source:panama-locks-report-1914",
+    "source:panama-locks-report-1916",
+    "source:panama-menocal-instructions",
+    "source:panama-nara-cartography",
+    "source:panama-paris-congress-voisin",
+    "source:panama-paris-exchange-yearbook",
+    "source:panama-paris-society-address",
+    "source:panama-paris-society-congress",
+    "source:panama-town-gatun-dam-point",
+    "source:panama-town-lake-villages",
+    "source:panama-town-lasso-lost",
+    "source:panama-town-rail-stations",
+    "source:panama-walker-report-1901",
+    "source:panama-water-agua-clara-point",
+    "source:panama-water-agua-clara-visitor",
+    "source:panama-water-annual-2016",
+    "source:panama-water-annual-2024",
+    "source:panama-water-arap-lake",
+    "source:panama-water-constitution",
+    "source:panama-water-debate-2006",
+    "source:panama-water-expansion-proposal",
+    "source:panama-water-inaugural-completion",
+    "source:panama-water-inaugural-draw",
+    "source:panama-water-inaugural-morning",
+    "source:panama-water-lottery-report",
+    "source:panama-water-panama-city-point",
+    "source:panama-water-rainfall-attribution",
+    "source:panama-water-referendum",
+    "source:panama-water-sentinel-composite"
+  ],
+  "steps": [
+    {
+      "id": "cruces",
+      "textAnchor": "cruces",
+      "labels": {
+        "de": "1536 · Die Stadt Panamá baut ein Lagerhaus in Cruces",
+        "en": "1536 · Panamá builds a warehouse at Cruces"
+      },
+      "summary": {
+        "de": "Am Río Chagres wechselte die Ladung zwischen den Lastkähnen und den Maultieren. Das städtische Lagerhaus von 1536 hatte 47 Kammern.",
+        "en": "Cargo switched between river craft and pack mules on the Chagres. The municipal warehouse built here in 1536 had forty-seven compartments."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.68478,
+          "latitude": 9.12836,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1536,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1536,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "railway",
+      "textAnchor": "railway",
+      "labels": {
+        "de": "28. Januar 1855 · Der erste Zug durchquert die Landenge",
+        "en": "28 January 1855 · The first train crosses the isthmus"
+      },
+      "summary": {
+        "de": "Am 28. Januar 1855 fuhr der Eröffnungszug von Colón, auch Aspinwall genannt, nach Panamá. Die Strecke maß rund 76 Kilometer.",
+        "en": "On 28 January 1855 the inaugural train ran from Colón, also called Aspinwall, to Panamá. The line was 47.5 miles long."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.72,
+          "latitude": 9.12,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1855,
+              "month": 1,
+              "day": 28
+            },
+            "latest": {
+              "year": 1855,
+              "month": 1,
+              "day": 28
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:panama-railroad-harrison-map-1857"
+    },
+    {
+      "id": "french",
+      "textAnchor": "french",
+      "labels": {
+        "de": "29. Mai 1879 · Die Mehrheit stimmt für einen Kanal auf Meereshöhe",
+        "en": "29 May 1879 · A majority votes for a sea-level canal"
+      },
+      "summary": {
+        "de": "Der Pariser Kongress zieht einen Durchstich in Panama dem Plan für einen Schleusenkanal und einer Route durch Nicaragua vor. Der Ingenieur Pedro Sosa aus Panama gehört zu den Befürwortern.",
+        "en": "In Paris the majority favours a sea-level cut in Panama. Delegates have also heard a lock proposal for Panama and a route through Nicaragua. Pedro Sosa of Panama supports the cut."
+      },
+      "state": {
+        "camera": {
+          "longitude": 2.33122,
+          "latitude": 48.85444,
+          "metersPerPixel": 670,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1879,
+              "month": 5,
+              "day": 29
+            },
+            "latest": {
+              "year": 1879,
+              "month": 5,
+              "day": 29
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "hospital",
+      "textAnchor": "hospital",
+      "labels": {
+        "de": "September 1882 · Die Schwestern am Cerro Ancón",
+        "en": "September 1882 · The sisters on Ancón Hill"
+      },
+      "summary": {
+        "de": "Die französische Kanalgesellschaft eröffnete auf dem Hang ihr Zentralkrankenhaus. Die Schwestern vom heiligen Vinzenz von Paul empfingen dort auch Kranke aus den Stationen entlang der Kanalbaustellen.",
+        "en": "The French canal company opened its central hospital on the hill. The Sisters of St Vincent de Paul received patients referred by dispensaries along the excavations."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.54667,
+          "latitude": 8.96024,
+          "metersPerPixel": 230,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1882,
+              "month": 9,
+              "day": 1
+            },
+            "latest": {
+              "year": 1882,
+              "month": 9,
+              "day": 30
+            },
+            "precision": "month",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "workers",
+      "textAnchor": "workers",
+      "labels": {
+        "de": "23. Januar 1905 · Wer in Bridgetown an Bord ging",
+        "en": "23 January 1905 · Leaving Bridgetown"
+      },
+      "summary": {
+        "de": "William J. Karner wirbt im Barbados Advocate um Arbeitskräfte für die Kanalbaukommission. Später erzählen Rückkehrer in den Dörfern von ihren Erfahrungen, und am Kai von Bridgetown verabschieden Familien die nächsten Reisenden.",
+        "en": "William J. Karner appeals for canal recruits in the Barbados Advocate. Men returning to the island share their experiences, and families gather at the Bridgetown wharf to see off those who follow."
+      },
+      "state": {
+        "camera": {
+          "longitude": -59.61389,
+          "latitude": 13.09667,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1905,
+              "month": 1,
+              "day": 23
+            },
+            "latest": {
+              "year": 1905,
+              "month": 1,
+              "day": 23
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "gatun",
+      "textAnchor": "gatun",
+      "labels": {
+        "de": "1908 · Gatún räumt den Platz für den Damm",
+        "en": "1908 · Gatún moves from the dam site"
+      },
+      "summary": {
+        "de": "Das Dorf am Fluss ist 1908 aufgegeben. Die meisten Gebäude stehen danach wieder in Nuevo Gatún. Fels und Erde des Damms bedecken den früheren Standort.",
+        "en": "The riverside village has been abandoned by 1908. Most of its buildings are re-erected at Nuevo Gatún. Earth and rock for the dam cover the old site."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.93,
+          "latitude": 9.26,
+          "metersPerPixel": 360,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1908,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1908,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "passage",
+      "textAnchor": "passage",
+      "labels": {
+        "de": "15. August 1914 · Die Ancon auf der offiziellen Eröffnungsfahrt",
+        "en": "15 August 1914 · Ancon on the official opening passage"
+      },
+      "summary": {
+        "de": "Der Lotse John A. Constantine führte den Dampfer von Cristóbal bis zu den äußeren pazifischen Fahrwassertonnen. Eine Aufnahme vom Cerro Luisa zeigt das Einlaufen in Pedro Miguel.",
+        "en": "The pilot John A. Constantine took the steamer from Cristóbal to the outer Pacific buoys. A photograph from Cerro Luisa shows it entering Pedro Miguel Locks."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.72,
+          "latitude": 9.12,
+          "metersPerPixel": 420,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1914,
+              "month": 8,
+              "day": 15
+            },
+            "latest": {
+              "year": 1914,
+              "month": 8,
+              "day": 15
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:ancon-at-pedro-miguel-1914"
+    },
+    {
+      "id": "handover",
+      "textAnchor": "handover",
+      "labels": {
+        "de": "31. Dezember 1999, 12 Uhr Ortszeit · Zwei Feiern und ein genauer Zeitpunkt",
+        "en": "31 December 1999, noon Panama time · Two ceremonies and an hour set by treaty"
+      },
+      "summary": {
+        "de": "Vor dem Verwaltungsgebäude in Balboa zählt eine Uhr die Zeit bis zur Übergabe. Um zwölf Uhr mittags übernimmt Panama den Betrieb. Die internationale Feier in Miraflores lag bereits siebzehn Tage zurück.",
+        "en": "A clock outside the Administration Building in Balboa counts down to the handover. Panama takes over at noon, seventeen days after the international ceremony at Miraflores."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.55489,
+          "latitude": 8.95961,
+          "metersPerPixel": 100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1999,
+              "month": 12,
+              "day": 31
+            },
+            "latest": {
+              "year": 1999,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "water",
+      "textAnchor": "water",
+      "labels": {
+        "de": "1. Oktober 2023 bis 30. September 2024 · Wenig Regen im Einzugsgebiet des Kanals",
+        "en": "1 October 2023 to 30 September 2024 · A rain shortage in the canal watershed"
+      },
+      "summary": {
+        "de": "Für das Geschäftsjahr 2023/24 verzeichnet die Kanalbehörde 2.118 Millimeter Regen im Einzugsgebiet und 542 Millionen Kubikmeter für Trinkwasser. Der Punkt bezeichnet den Gatúnsee. Die ESA-Aufnahmen stammen aus den Jahren vor der trockenen Regenzeit.",
+        "en": "For fiscal year 2023/24 the authority records 2,118 millimetres of rain across the watershed and 542 million cubic metres for drinking water. The point represents Gatún Lake. The ESA imagery predates the dry rainy season."
+      },
+      "state": {
+        "camera": {
+          "longitude": -79.90178,
+          "latitude": 9.17547,
+          "metersPerPixel": 2500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "interval",
+          "start": {
+            "earliest": {
+              "year": 2023,
+              "month": 10,
+              "day": 1
+            },
+            "latest": {
+              "year": 2023,
+              "month": 10,
+              "day": 1
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "end": {
+            "earliest": {
+              "year": 2024,
+              "month": 9,
+              "day": 30
+            },
+            "latest": {
+              "year": 2024,
+              "month": 9,
+              "day": 30
+            },
+            "precision": "day",
+            "qualifier": "exact"
+          },
+          "endMeaning": "ended"
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:panama-canal-sentinel-1-traffic-2020-22"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Magazin am Chagres, ein Lohnwagen und die Fahrt der Ancon erzählen, wer die Landenge überquerte und wer ihre Wasserwege schuf. Vom alten Gatún führt der Weg bis zur Übergabe an Panama und zur Dürre von 2023.",
+      "en": "A Chagres warehouse, a pay car and the voyage of the Ancon reveal who crossed the isthmus and who made its waterways. From old Gatún the guide follows the handover to Panama and the drought of 2023."
+    },
+    "topics": [
+      {
+        "id": "panama-canal",
+        "labels": {
+          "de": "Panamakanal",
+          "en": "Panama Canal"
+        }
+      },
+      {
+        "id": "reading-guides",
+        "labels": {
+          "de": "Lesewege",
+          "en": "Reading guides"
+        }
+      },
+      {
+        "id": "labour-history",
+        "labels": {
+          "de": "Arbeitsgeschichte",
+          "en": "Labour history"
+        }
+      },
+      {
+        "id": "water-management",
+        "labels": {
+          "de": "Wasserbau",
+          "en": "Water management"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "early-modern",
+        "labels": {
+          "de": "Frühe Neuzeit",
+          "en": "Early modern period"
+        }
+      },
+      {
+        "id": "nineteenth-century",
+        "labels": {
+          "de": "19. Jahrhundert",
+          "en": "19th century"
+        },
+        "description": {
+          "de": "1801–1900. Ein kalendarischer Zeitbereich; regionale Epochen können ihn unterschiedlich gliedern.",
+          "en": "1801–1900. A calendar grouping; regional periods may divide it differently."
+        }
+      },
+      {
+        "id": "twentieth-century",
+        "labels": {
+          "de": "20. Jahrhundert",
+          "en": "Twentieth century"
+        }
+      },
+      {
+        "id": "twenty-first-century",
+        "labels": {
+          "de": "21. Jahrhundert",
+          "en": "Twenty-first century"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-america",
+        "labels": {
+          "de": "Mittelamerika",
+          "en": "Central America"
+        }
+      },
+      {
+        "id": "caribbean",
+        "labels": {
+          "de": "Karibik",
+          "en": "Caribbean"
+        }
+      },
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -38.79939,
+      "latitude": 28.90702,
+      "metersPerPixel": 25050,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1536,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1536,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 2024,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 2024,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  }
+}

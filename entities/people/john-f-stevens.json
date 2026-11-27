@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:john-f-stevens",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:canal-labour-brown-payroll",
+      "role": "supports",
+      "locator": "Prologue 29 (2). Notes 1 and 2 identify Commissary manager to J. F. Stevens, 15 February 1907, and Stevens to W. C. Gorgas, 30 November 1906, both RG 185, General Correspondence 1904–14, file 2-C-55, part 1. Quotations, financial bonds, equivalent silver pay and access to facilities appear in the opening discussion of the two rolls."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-minutes",
+      "role": "supports",
+      "locator": "Proceedings reporting Stevens's correspondence of 9 and 30 November 1906. The separate letter concerning the joint telephone and telegraph line is explicitly dated ‘Culebra, Canal Zone, November 30, 1906’ and places his office on the day of the payroll letter. The content of the payroll instruction is in RG 185, file 2-C-55."
+    },
+    {
+      "sourceId": "source:canal-labour-goethals-pay-car",
+      "role": "supports",
+      "locator": "Scribner’s Magazine 57 (4), April 1915, p. 396 (wage rolls and European labourers) and p. 404, photograph caption ‘Pay car at Culebra, January 12, 1908’: the carriage had counters and separate entrance and exit. This is an account by the former chief engineer and then governor."
+    },
+    {
+      "sourceId": "source:canal-labour-culebra-map",
+      "role": "supports",
+      "locator": "Annex 4, Figure 1, between printed pp. 2 and 3. Overlay of the 1909 street plan labelled ‘Old town of Culebra’ on the March 1947 contours and slide limits. Approximate site on the west bank near Zion Hill. Neither the pay-car siding nor the precise 1906 office is identified on this map."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "John F. Stevens",
+    "en": "John F. Stevens"
+  }
+}
