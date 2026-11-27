@@ -1,0 +1,29 @@
+# Perser – Schapurs Stein und die Schreiber von Täbris
+
+Im Jahr 1309 legte ein Mann in Täbris schriftlich fest, welche Bücher auf seine Kosten abgeschrieben werden sollten. Vier Jahre später präzisierte er sogar, welches Leder die Buchbinder für einen Teil dieser Bücher verwenden sollten. Raschid ad-Din schrieb auf Persisch über die Geschichte der Welt und arbeitete für Herrscher aus der Familie Dschingis Khans. Wer waren hier die „Perser“? Auf dieser Reise wechseln die Antworten mit dem Gegenstand, den wir in die Hand nehmen. Die Sprache eines Autors, der Auftraggeber einer Moschee und der Fundort einer Schale geben jeweils über etwas anderes Auskunft.
+
+## Wer an einem Königsfeuer bedacht wurde {#naqsh-e-rostam}
+
+Bei Naqsch-e Rostam, nordwestlich von Persepolis, steht vor einer hohen Felswand ein steinerner Turm. Seine Erbauer lebten schon Jahrhunderte vor Schapur I. Der sasanidische König nutzte die Außenwände im dritten Jahrhundert unserer Zeitrechnung für eine Inschrift. Wer sie ganz umrundet, begegnet drei Sprachen. Mittelpersisch und Parthisch stehen neben dem Griechischen. Auch ein Sieg über die Römer ließ sich also auf Griechisch verkünden. Der König zählt Gebiete und Erfolge auf und berichtet von der Gefangennahme des römischen Kaisers Valerian im Jahr 260. Dieser Satz hilft, die Inschrift zeitlich einzugrenzen. Als sie in den Stein kam, war der römische Kaiser schon in Schapurs Hände gefallen.
+
+Auf denselben Wänden ließ der König auch festhalten, wer nach seinen Kriegen fortgebracht wurde. Bei den römischen Offizieren nennt er die Verschleppung nach Persis. Über die Fortsetzung ihres Lebens verfügen wir damit zunächst über die Worte des Siegers. An anderer Stelle zeigt der Text den König bei einer ganz anderen Art von Vorsorge. Schapur stiftete heilige Feuer für Angehörige seiner Familie. Für die täglichen Opfer wurden Lämmer, Brot und Wein bestimmt. Auch seine Mutter und seine Töchter fanden in den Verfügungen Platz. Wenn ein Hof sich selbst beschrieb, zählte beides, der öffentlich verkündete Sieg und die Arbeit der Menschen, die all diese Gaben Tag für Tag bereitzustellen hatten.
+
+## Eine türkise Schale aus Nischapur {#nishapur}
+
+Die sasanidische Dynastie verlor ihre Herrschaft im siebten Jahrhundert im Zuge der arabischen Eroberungen. Mehrere Jahrhunderte später war Nischapur in Chorasan ein Handels- und Handwerkszentrum im Osten der islamischen Welt. Aus dem zehnten Jahrhundert stammt eine Schale, die 1937 im Stadtviertel Sabz Puschan ausgegraben wurde. Sie ist kaum sechzehn Zentimeter breit und gut fünf Zentimeter hoch. Die Töpfer überzogen ihren irdenen Scherben mit einer undurchsichtigen türkisen Glasur. Im Metropolitan Museum in New York trägt sie heute die Nummer **38.40.243**.
+
+Ähnliche Gefäße kamen auch in Isfahan und Istachr zum Vorschein. Die Gemeinsamkeit ist auf den ersten Blick die Farbe. Für die Frage, wie ein Stück gemacht wurde, lohnt sich der Blick unter die Oberfläche. Spätere Töpfer erreichten ein ähnliches Erscheinungsbild mit einer neuen, quarzreichen keramischen Masse. Man konnte also einem vertrauten Geschmack folgen und dabei die Herstellung gründlich verändern. Im alten Nischapur fanden die Ausgräber neben Geschirr auch Spielsteine, Perlen und Behälter für Kosmetika. Welchem Haushalt die türkise Schale gehörte oder was zuletzt darin lag, lässt sich aus dem Vergleich mit diesen Dingen allein kaum erschließen.
+
+## Zwei Kuppeln und zwei Wesire {#isfahan}
+
+In der Freitagsmoschee von Isfahan lohnt es sich, vor dem Blick in die Mitte des Hofs nach Norden und Süden zu schauen. Unter dem seldschukischen Sultan Malikschah ließ sein Wesir Nizam al-Mulk einen Kuppelraum über der Gebetsnische errichten. Die Bauinschrift nennt keinen sicheren Jahreswert. Im Norden ließ sein Rivale Tadsch al-Mulk ebenfalls eine Kuppel bauen. Hier führt eine Inschrift ins Jahr 1088. Damals lag der nördliche Raum außerhalb der älteren Moschee. Wer an diesem Ort stand, sah eine andere Anlage als die Besucher, die heute unter einem Dach von einem Teil zum anderen gelangen.
+
+Beide Bauherren beschäftigten Handwerker, die mit gebrannten Ziegeln große Lasten überbrücken konnten. Unter der südlichen Kuppel stehen mächtige, gebündelte Pfeiler. Im Norden gliedert sich das Mauerwerk in kleinere Bögen und geometrische Felder. Der südliche Raum hatte einen klaren Bezug zum Gebet. Welche Aufgabe der nördliche im Einzelnen erfüllte, wird weiterhin diskutiert. Die beiden Namen der Auftraggeber sind leichter zu ermitteln als der Alltag der Menschen, die sich dort aufhielten. Ein anderer seldschukischer Hof begegnet uns in [der Schule von Konya](chapter:turkic-dynasties-in-anatolia#konya).
+
+## Weshalb ein Buchbinder Ziegenleder brauchte {#tabriz}
+
+In Täbris stiftete der Wesir Raschid ad-Din unter den mongolischen Ilchanen einen Komplex mit Bibliothek, Papierherstellung und Lehrbetrieb. Die Stiftungsurkunde von 1309 schrieb die regelmäßige Abschrift eines Korans in dreißig Teilen und eines Werks über die Überlieferungen des Propheten vor. In einem Zusatz von 1313 nahm Raschid ad-Din seine eigenen Werke auf. Von ihnen sollten jeweils eine arabische und eine persische Fassung entstehen. Dazu zählte seine Weltgeschichte.
+
+Für die Schreiber und Buchbinder bedeutete das handfeste Arbeit. Die Blätter sollten groß sein, der Text mit der Vorlage verglichen und der Band in Ziegenleder gebunden werden. Registrierte Exemplare waren für Schulen in verschiedenen Städten bestimmt. Wer eines zum Abschreiben auslieh, sollte ein Pfand hinterlegen. Aus diesen Vorschriften erfahren wir, was der Stifter sich von seiner Einrichtung versprach. Ob jeder vorgesehene Band je sein Ziel erreichte, müsste man an erhaltenen Exemplaren und ihren Besitzvermerken prüfen. Die vielen Hände, durch die ein „persisches“ Buch gehen sollte, werden schon in der Urkunde sichtbar.
+
+[Alle 18 Einstiegskapitel aus The Age of Kings und The Conquerors](chapter:eighteen-worlds-of-age-of-empires-ii)
