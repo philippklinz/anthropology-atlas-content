@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:court-of-the-lions-alhambra-granada",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:granada-lions",
+      "role": "supports",
+      "locator": "Opening four paragraphs. Work on the palace began in the late 1370s or early 1380s; the twelve-sided basin, the inscription of Ibn Zamrak’s verses, and differences between the lions’ faces and tails."
+    },
+    {
+      "sourceId": "source:granada-poem",
+      "role": "supports",
+      "locator": "Poema de la Fuente de los Leones. Ibn Zamrak’s eulogy of the sultan, garden and fountain inscribed in its white marble basin."
+    },
+    {
+      "sourceId": "source:granada-court",
+      "role": "supports",
+      "locator": "Courtyard, fountain and central cylinder balancing water inflow and outflow; palace in Muhammad V’s second reign, 1362–1391."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Löwenhof der Alhambra, Granada",
+    "en": "Court of the Lions, Alhambra, Granada"
+  }
+}

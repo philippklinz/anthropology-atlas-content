@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:burton-proclamation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Politics, Propaganda and Public Opinion in the Reigns of Henry III and Edward I",
+  "sourceType": "book",
+  "creators": [
+    "D. W. Burton, University of Oxford"
+  ],
+  "url": "https://ora.ox.ac.uk/objects/uuid%3Aaa0fbc9f-8a03-42f9-8b4d-8137090755be/files/m540a291c82373754832356f0dd5d4d57",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1985"
+}

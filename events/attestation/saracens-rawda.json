@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:saracens-rawda",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:egypt-monuments-rawda-nilometer",
+      "role": "supports",
+      "locator": "Site location and profile. Rebuilding in AH 247, octagonal graduated column, uses of readings for irrigation and taxation."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein neuer Pegel auf der Nilinsel",
+    "en": "A new gauge on the Nile island"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:rawda-nilometer",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:nilometer-rawda-island"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:nilometer-rawda-island-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 861,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 861,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "861 entstand auf der Insel ein neuer Pegel. Eine achteckige Säule machte unterschiedliche Wasserstände messbar und damit für die Bewässerung und die Steuerfestsetzung nutzbar.",
+      "en": "A new gauge was built on the island in 861. Graduations on an octagonal column measured changing water levels for irrigation and tax assessment."
+    }
+  }
+}

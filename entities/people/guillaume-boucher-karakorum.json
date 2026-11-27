@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:guillaume-boucher-karakorum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rubruck-account",
+      "role": "supports",
+      "locator": "Paragraph beginning “A certain woman from Metz” (Paquette, her family and the Parisian goldsmith); “The Khan’s palace at Karakorum” (the silver tree, bellows, trumpet and servers); “Description of Karakorum” (grain and livestock at the gates). Translation published in 1900."
+    },
+    {
+      "sourceId": "source:karakorum-survey",
+      "role": "supports",
+      "locator": "Introduction, Historical background and city access discussion at fig. 7. Location on the Orkhon, residence under Ögödei, Rubruck’s visit in 1254, east-gate roads and dense settlement outside the walls. Published online 2021."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Guillaume Boucher, Goldschmied in Karakorum",
+    "en": "Guillaume Boucher, goldsmith at Karakorum"
+  }
+}

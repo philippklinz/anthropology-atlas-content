@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:palatine-chapel-aachen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:einhard-life-of-charlemagne",
+      "role": "supports",
+      "locator": "Vita Karoli Magni, ch. 26 (columns and marble), 28 (imperial title and reported reluctance), 30–31 (death, choice of burial place and burial)."
+    },
+    {
+      "sourceId": "source:unesco-aachen-cathedral",
+      "role": "supports",
+      "locator": "Brief synthesis and Description: the octagon, gallery and dome, spolia from Rome and Ravenna and burial in 814. World Heritage property 3, location coordinates."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Aachener Pfalzkapelle",
+    "en": "Palatine Chapel, Aachen"
+  }
+}

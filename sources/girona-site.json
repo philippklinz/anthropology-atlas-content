@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:girona-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Archaeology and heritage: the medieval synagogue",
+  "sourceType": "catalog",
+  "creators": [
+    "Museu d’Història dels Jueus, Girona"
+  ],
+  "url": "https://web2.girona.cat/call/eng/museu_col_arqueo.php",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

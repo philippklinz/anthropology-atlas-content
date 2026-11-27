@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:hls-teutonen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Teutonen",
+  "sourceType": "article",
+  "creators": [
+    "Regula Frei-Stolba, Historisches Lexikon der Schweiz"
+  ],
+  "url": "https://hls-dhs-dss.ch/de/articles/024603/2012-04-26/",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

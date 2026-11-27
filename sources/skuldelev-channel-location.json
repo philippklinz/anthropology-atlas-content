@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:skuldelev-channel-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Copenhagen Radiocarbon Dates VII",
+  "sourceType": "article",
+  "creators": [
+    "Henrik Tauber"
+  ],
+  "url": "https://doi.org/10.1017/S0033822200000126",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1966"
+}

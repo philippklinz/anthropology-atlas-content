@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:naumburg-uta",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Stifterfigur Uta",
+  "sourceType": "catalog",
+  "creators": [
+    "Vereinigte Domstifter zu Merseburg und Naumburg und des Kollegiatstifts Zeitz"
+  ],
+  "url": "https://www.naumburger-dom.de/wp-content/uploads/2019/12/StifterfigurUta.pdf",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

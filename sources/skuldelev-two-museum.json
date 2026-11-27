@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:skuldelev-two-museum",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Skuldelev 2 – The great longship",
+  "sourceType": "catalog",
+  "creators": [
+    "Viking Ship Museum, Roskilde"
+  ],
+  "url": "https://www.vikingeskibsmuseet.dk/en/visit-the-museum/exhibitions/the-five-viking-ships/skuldelev-2/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

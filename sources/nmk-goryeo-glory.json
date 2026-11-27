@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nmk-goryeo-glory",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Goryeo: The Glory of Korea",
+  "sourceType": "catalog",
+  "creators": [
+    "National Museum of Korea"
+  ],
+  "url": "https://www.museum.go.kr/ENG/contents/E0202030000.do?exhiSpThemId=319757&listType=list&menuId=past&schM=view",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2018"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:speyer-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.4336,
+      49.3166
+    ]
+  }
+}

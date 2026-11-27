@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-sleighs",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Oseberg Sleighs of Splendor: Exquisite Woodcarving",
+  "sourceType": "catalog",
+  "creators": [
+    "Museum of the Viking Age, University of Oslo"
+  ],
+  "url": "https://www.vikingtidsmuseet.no/english/viking-age/design-and-craft/the-oseberg-sleighs-of-splendor.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

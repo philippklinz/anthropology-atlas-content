@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:margum-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Migration period finds from Margum: a possible interpretation",
+  "sourceType": "article",
+  "creators": [
+    "Ivan Bugarski and Vujadin Ivanišević"
+  ],
+  "url": "https://epa.oszk.hu/01600/01614/00021/pdf/EPA01614_jame_2013_467-483.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2013"
+}

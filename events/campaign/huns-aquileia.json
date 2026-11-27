@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:huns-aquileia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:aquileia-border",
+      "role": "supports",
+      "locator": "Bonetto and Tiussi, city history on pp. 16–17. The sack in 452, its impact and continuing settlement around the episcopal complex. Photographs and plans of the river port."
+    },
+    {
+      "sourceId": "source:aquileia-unesco",
+      "role": "supports",
+      "locator": "Brief synthesis and property 825quater. Role of Mediterranean trade routes and the river port, surviving quays and warehouses, coordinate of the archaeological area."
+    }
+  ],
+  "eventType": "campaign",
+  "labels": {
+    "de": "Die Plünderung der Hafenstadt",
+    "en": "The sack of the port city"
+  },
+  "participants": [
+    {
+      "entityId": "person:attila-the-hun",
+      "role": "commander"
+    }
+  ],
+  "placeIds": [
+    "place:aquileia"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:aquileia-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 452,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 452,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Attilas Heer nahm Aquileia ein. Das spätere Leben um den Bischofssitz lässt sich auch nach der Plünderung verfolgen.",
+      "en": "Attila’s army captured Aquileia. Settlement around the episcopal complex continued after the sack."
+    }
+  }
+}

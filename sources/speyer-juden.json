@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:speyer-juden",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Schpira – Jüdisches Speyer",
+  "sourceType": "website",
+  "creators": [
+    "Stadt Speyer"
+  ],
+  "url": "https://www.speyer.de/de/kultur/unesco-welterbe-schum/juedisches-speyer/",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

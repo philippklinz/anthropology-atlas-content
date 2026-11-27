@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:florentine",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Digital Florentine Codex",
+  "sourceType": "archive",
+  "creators": [
+    "Getty Research Institute and Biblioteca Medicea Laurenziana"
+  ],
+  "url": "https://florentinecodex.getty.edu/en/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

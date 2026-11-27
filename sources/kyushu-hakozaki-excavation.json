@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kyushu-hakozaki-excavation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "箱崎遺跡　箱崎キャンパス発掘調査報告5（箱崎キャンパス地区 元寇防塁 調査総括報告書）",
+  "sourceType": "book",
+  "creators": [
+    "Kyushu University"
+  ],
+  "url": "https://www.kyushu-u.ac.jp/f/53268/122718_1_hakozaki_campus_genkoborui_report.pdf",
+  "language": "ja",
+  "accessedAt": "2026-11-27",
+  "published": "2023"
+}

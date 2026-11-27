@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-goryeo-celadon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Goryeo Celadon",
+  "sourceType": "article",
+  "creators": [
+    "Soyoung Lee, Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/essays/goryeo-celadon",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2003"
+}

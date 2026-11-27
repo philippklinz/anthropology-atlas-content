@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:todai-ji-nara",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:imperial-household-shosoin",
+      "role": "supports",
+      "locator": "Foundation, imperial seal and new repositories. Illustrated objects include the five-stringed lute, go board and the List of the Nation’s Rare Treasures."
+    },
+    {
+      "sourceId": "source:tokyo-museum-shosoin",
+      "role": "supports",
+      "locator": "Chapter 1, Emperor Shōmu’s Treasures, especially no. 4, the donation list. Text on Kōmyō’s gift on the forty-ninth day, the 650 items and the prayer for rebirth."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tōdai-ji in Nara",
+    "en": "Tōdai-ji, Nara"
+  }
+}

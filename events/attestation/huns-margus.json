@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:huns-margus",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sinor-huns",
+      "role": "supports",
+      "locator": "The Cambridge History of Early Inner Asia, ch. 7. In the section on negotiations after Rua’s death, Sinor identifies Plintha, the quaestor Epigenes and Hunnic representatives as the negotiators near Margus."
+    },
+    {
+      "sourceId": "source:danube-gold",
+      "role": "supports",
+      "locator": "pp. 296–297 and n. 6. Priscus on the increase from 350 to 700 pounds and probable date 434. Discussion of fugitive claims in later agreements."
+    },
+    {
+      "sourceId": "source:morley-east",
+      "role": "supports",
+      "locator": "pp. 69–71, esp. nn. 107–114. Treaty of Margus dated to 435, conditions for Hunnic merchants, extradition of fugitives, and annual payment."
+    },
+    {
+      "sourceId": "source:margum-site",
+      "role": "supports",
+      "locator": "Opening topographical description and fig. 1. Margum near the confluence of the Morava and Danube at Orašje, Dubravica. Distinction from the fort opposite."
+    },
+    {
+      "sourceId": "source:madgearu-dating",
+      "role": "supports",
+      "locator": "Peuce 8, p. 177 and n. 37. Compares the usual date of 435 with Constantin Zuckerman’s winter 439/440 based on the quaestorship of Epigenes."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Der Vertrag bei Margus",
+    "en": "The agreement near Margus"
+  },
+  "participants": [
+    {
+      "entityId": "person:plinthas-envoy",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:margus-near-dubravica"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:margus-near-dubravica-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 434,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 440,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Unterhändler vereinbarten Zahlungen, Handel und die Auslieferung Geflohener. Der Punkt bezeichnet die antike Stadt als Orientierung für die Verhandlungen in ihrer Nähe.",
+      "en": "Negotiators agreed on payments, trading and the return of fugitives. The point identifies the ancient town near the reported meeting place."
+    }
+  }
+}

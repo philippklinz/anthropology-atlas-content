@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:milwright-dome-rock-mosaics",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Dome of the Rock and its Umayyad Mosaic Inscriptions",
+  "sourceType": "book",
+  "creators": [
+    "Marcus Milwright, Edinburgh University Press"
+  ],
+  "url": "https://www.jstor.org/stable/10.3366/j.ctvggx3rh",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2016"
+}

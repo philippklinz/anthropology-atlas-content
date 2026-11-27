@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:hagia-sophia-conversion-1453",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hagia-sophia-met",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Nika fire, dedication on 27 December 537, architects, vault, 558 collapse, 562 rebuilding and decoration. Closing paragraphs on conversion under Mehmed II in 1453 and subsequent Ottoman additions."
+    },
+    {
+      "sourceId": "source:fatih-ayasofya",
+      "role": "supports",
+      "locator": "Building history, from the conversion of the patriarchal cathedral under Mehmed II in 1453 to the successive Ottoman minarets."
+    },
+    {
+      "sourceId": "source:met-byzantium-periods",
+      "role": "supports",
+      "locator": "Opening discussion of Rhomaioi and the capital; “The Latin Occupation of Constantinople” and “Late Byzantium” on 1204, 1261, Nicaea and Trebizond."
+    },
+    {
+      "sourceId": "source:maclagan-city-constantinople",
+      "role": "supports",
+      "locator": "Discussion of the orientation of St Sophia and the position of the mihrab and pulpit in the converted mosque."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Die Hagia Sophia wird zur Moschee",
+    "en": "Hagia Sophia is converted into a mosque"
+  },
+  "participants": [
+    {
+      "entityId": "person:mehmed-ii",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:hagia-sophia-constantinople"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:hagia-sophia-constantinople-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1453,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1453,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Nach der Einnahme Konstantinopels ließ Mehmed II. 1453 die bisherige Kathedrale als Moschee einrichten. Der Punkt zeigt das erhaltene Gebäude.",
+      "en": "After capturing Constantinople, Mehmed II had the former cathedral converted into a mosque in 1453. The point marks the surviving building."
+    }
+  },
+  "note": {
+    "de": "Nach der osmanischen Einnahme Konstantinopels wurde die Hagia Sophia zur Moschee.",
+    "en": "After the Ottoman conquest of Constantinople, Hagia Sophia became a mosque."
+  }
+}

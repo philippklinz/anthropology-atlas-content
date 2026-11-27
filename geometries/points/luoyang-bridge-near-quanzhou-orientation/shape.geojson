@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:luoyang-bridge-near-quanzhou-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.6761,
+      24.9544
+    ]
+  }
+}

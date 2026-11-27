@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:friday-mosque-isfahan-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      51.6853,
+      32.6697
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iranica-naqsh-e-rostam",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "NAQŠ-E ROSTAM",
+  "sourceType": "article",
+  "creators": [
+    "Encyclopaedia Iranica"
+  ],
+  "url": "https://www.iranicaonline.org/articles/naqs-e-rostam/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:skuldelev-two-construction",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "First three paragraphs, covering crew, oak, tentative origin in the Dublin area around 1042, and 60 oars."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Eiche für Skuldelev 2",
+    "en": "An oak for Skuldelev 2"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:skuldelev-two-longship",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:medieval-dublin"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:medieval-dublin-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1042,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1042,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Baum für die Maststütze wurde im Mai oder Juni 1042 gefällt. Das Schiff wurde damals oder bald darauf in Ostirland gebaut, wahrscheinlich im Raum Dublin. Die Karte zeigt die Region der vermuteten Werft.",
+      "en": "The oak for the keelson was felled in May or June 1042. The ship was built then or soon afterwards in eastern Ireland, probably around Dublin. The map locates the likely region of the yard."
+    }
+  }
+}

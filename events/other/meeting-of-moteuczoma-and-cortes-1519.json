@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:meeting-of-moteuczoma-and-cortes-1519",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:meeting-locality",
+      "role": "supports",
+      "locator": "Opening paragraph on the commemorative plaque at Pino Suárez and República de El Salvador, the comparison of possible locations and the concluding identification of the southern approach to Tenochtitlan, 8 November 1519."
+    },
+    {
+      "sourceId": "source:nahua-welcome",
+      "role": "supports",
+      "locator": "Book XII, chapter 16. Opening place-names, garlands and necklaces, Moteuczoma’s welcome, Marina interpreting the answer, and the list of the lords accompanying Moteuczoma. This English excerpt presents the later Nahua account."
+    },
+    {
+      "sourceId": "source:cortes-welcome",
+      "role": "supports",
+      "locator": "Second letter to Charles, excerpt pp. 85–89. Bridge and removable beams; attendants prevent physical contact; later speech in the lodging as reported to Charles."
+    },
+    {
+      "sourceId": "source:cortes-second-print",
+      "role": "supports",
+      "locator": "Bibliographic note Segunda Carta. The letter is dated 30 October 1520 in Segura de la Frontera; first printed at Seville in 1522."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Moteuczoma II. und Cortés am südlichen Zugang",
+    "en": "Moteuczoma II and Cortés on the southern approach"
+  },
+  "participants": [
+    {
+      "entityId": "person:moteuczoma-ii",
+      "role": "participant"
+    },
+    {
+      "entityId": "person:hernan-cortes",
+      "role": "participant"
+    },
+    {
+      "entityId": "person:malintzin",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:tenochtitlan-southern-approach"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tenochtitlan-southern-approach-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1519,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1519,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Moteuczoma II. empfing Cortés am südlichen Zugang zur Inselstadt. Der spätere Nahuatl-Bericht nennt die Beteiligten, auch Malintzin als Dolmetscherin. Die Markierung zeigt den ungefähren Ort.",
+      "en": "Moteuczoma II received Cortés on the southern approach to the island city. The later Nahuatl account names members of the party including Malintzin, who interpreted. The marker gives the approximate locality."
+    }
+  },
+  "note": {
+    "de": "Moteuczoma und Cortés begegneten einander am Zugang zu Tenochtitlan. Malintzin vermittelte sprachlich.",
+    "en": "Moteuczoma and Cortés met on the approach to Tenochtitlan. Malintzin interpreted."
+  }
+}

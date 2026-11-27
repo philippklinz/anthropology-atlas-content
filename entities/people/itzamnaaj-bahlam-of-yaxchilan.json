@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:itzamnaaj-bahlam-of-yaxchilan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lintel-twenty-four",
+      "role": "supports",
+      "locator": "Catalogue date 723–726; inscription, 709 rite, Itzamnaaj Bahlam and Lady K’ab’al Xook, rope, torch, vessel, pigmented stone, and the lintels of Structure 23. The chapter uses only the CE year because published day correlations vary."
+    },
+    {
+      "sourceId": "source:carved-container",
+      "role": "supports",
+      "locator": "Discussion and fig. 10: Lady K’ab’al Xook with the cord on Lintel 24; small woven basket by her knees."
+    },
+    {
+      "sourceId": "source:maya-script",
+      "role": "supports",
+      "locator": "The basics of a beautiful script, logograms and syllabograms; Lintel 24 from Yaxchilan."
+    },
+    {
+      "sourceId": "source:yaxchilan-site",
+      "role": "supports",
+      "locator": "Dirección and Acceso: archaeological site in Ocosingo municipality on the Usumacinta River, reached from Frontera Corozal."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Itzamnaaj Bahlam von Yaxchilán",
+    "en": "Itzamnaaj Bahlam of Yaxchilan"
+  }
+}

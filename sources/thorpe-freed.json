@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:thorpe-freed",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Diplomatarium Anglicum aevi Saxonici, Manumissions",
+  "sourceType": "book",
+  "creators": [
+    "Benjamin Thorpe (editor and translator), Internet Medieval Sourcebook, Fordham University"
+  ],
+  "url": "https://sourcebooks.web.fordham.edu/source/angsax-manumissiondocuments.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1865"
+}

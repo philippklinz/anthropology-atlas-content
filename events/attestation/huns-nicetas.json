@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:huns-nicetas",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:leo-nicetas",
+      "role": "supports",
+      "locator": "Letter 159, preface and sections II–V, VIII and closing date. Adeodatus delivers the inquiry, return of captives, the bishop’s marriage ruling and its requested circulation, 21 March 458."
+    },
+    {
+      "sourceId": "source:aquileia-border",
+      "role": "supports",
+      "locator": "Bonetto and Tiussi, city history on pp. 16–17. The sack in 452, its impact and continuing settlement around the episcopal complex. Photographs and plans of the river port."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Brief für den Bischof von Aquileia",
+    "en": "A letter for the bishop of Aquileia"
+  },
+  "participants": [
+    {
+      "entityId": "person:nicetas-of-aquileia",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:aquileia"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:aquileia-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 458,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 458,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Leo beantwortete Nicetas’ Fragen nach Familien, die eine Gefangenschaft getrennt hatte. Auf der Karte steht Aquileia als Bischofssitz des Adressaten.",
+      "en": "Leo answered Nicetas’s questions about families separated by captivity. Aquileia marks the episcopal seat of the recipient."
+    }
+  }
+}

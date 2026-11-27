@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:cambridge-discarded-history-genizah",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Discarded History: The Genizah of Medieval Cairo. Exhibition Guide and Translations",
+  "sourceType": "catalog",
+  "creators": [
+    "Cambridge University Library"
+  ],
+  "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/797679ff-5635-4f4b-ba41-7c2e2edf50c8/content",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

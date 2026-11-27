@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:nuremberg",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golden-bull-bohemia",
+      "role": "supports",
+      "locator": "AT-OeStA/HHStA UR AUR 9228. Dates and places, regest, extent and seal description: only the Nuremberg part of this copy bears a golden seal of 66.6–67.2 mm in diameter."
+    },
+    {
+      "sourceId": "source:golden-bull-ghi",
+      "role": "supports",
+      "locator": "Introduction and chs. 1–4. Seven electors, meeting at Frankfurt, voting, confirmation of electors’ rights and precedence."
+    },
+    {
+      "sourceId": "source:golden-bull-chapters",
+      "role": "supports",
+      "locator": "Panel Die Goldene Bulle. Chapters 1–23 at Nuremberg and 24–31 at Metz in 1356, name from the gold seal, surviving original copies."
+    },
+    {
+      "sourceId": "source:nuremberg-geo",
+      "role": "supports",
+      "locator": "GeonameId 2861650, town centre coordinates 49.45421 N, 11.07752 E."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Nürnberg",
+    "en": "Nuremberg"
+  }
+}

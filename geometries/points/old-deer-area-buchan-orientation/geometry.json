@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:old-deer-area-buchan-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:deer-gospel",
+      "role": "supports",
+      "locator": "Introduction and Physical Description. Tenth-century Gospel text, Gaelic additions on ff. 3–5, the Latin brieve on f. 40, and the 155 × 110 mm parchment codex."
+    },
+    {
+      "sourceId": "source:deer-gift",
+      "role": "supports",
+      "locator": "In Ì Chaluim Chille, pp. 383–415. Discussion of Bishop Cormac and Book of Deer no. III, notes 53–54. Gartnait and Éte’s grant, the pledge, and dating between April 1131 and April 1132."
+    },
+    {
+      "sourceId": "source:deer-location",
+      "role": "supports",
+      "locator": "Opening paragraphs and the 2022 excavation. The team proposes a site about 80 metres from the later Deer Abbey near Mintlaw. The map gives the district rather than pinpointing the grant or place of writing."
+    },
+    {
+      "sourceId": "source:deer-location",
+      "role": "derivation",
+      "locator": "Proposed early monastery near Deer Abbey/Mintlaw. District orientation, not an identified signing or writing room."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: University of Southampton.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://www.southampton.ac.uk/news/2023/11/deer-monastery.page"
+  }
+}

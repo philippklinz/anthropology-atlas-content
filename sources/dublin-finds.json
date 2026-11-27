@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:dublin-finds",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Viking collections",
+  "sourceType": "catalog",
+  "creators": [
+    "National Museum of Ireland"
+  ],
+  "url": "https://source.museum.ie/en-ie/collections-research/irish-antiquities-division-collections/collections-list-(1)/viking",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:teutons-golden-bull",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:golden-bull-bohemia",
+      "role": "supports",
+      "locator": "AT-OeStA/HHStA UR AUR 9228. Dates and places, regest, extent and seal description: only the Nuremberg part of this copy bears a golden seal of 66.6–67.2 mm in diameter."
+    },
+    {
+      "sourceId": "source:golden-bull-ghi",
+      "role": "supports",
+      "locator": "Introduction and chs. 1–4. Seven electors, meeting at Frankfurt, voting, confirmation of electors’ rights and precedence."
+    },
+    {
+      "sourceId": "source:golden-bull-chapters",
+      "role": "supports",
+      "locator": "Panel Die Goldene Bulle. Chapters 1–23 at Nuremberg and 24–31 at Metz in 1356, name from the gold seal, surviving original copies."
+    },
+    {
+      "sourceId": "source:nuremberg-geo",
+      "role": "supports",
+      "locator": "GeonameId 2861650, town centre coordinates 49.45421 N, 11.07752 E."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Das Königswahlgesetz in Nürnberg",
+    "en": "Issuing the electoral law at Nuremberg"
+  },
+  "participants": [
+    {
+      "entityId": "person:emperor-charles-iv",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:golden-bull-1356",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:nuremberg"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:nuremberg-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1356,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1356,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Karl IV. erlässt die ersten 23 Kapitel der Goldenen Bulle. Sie bestimmen Frankfurt am Main als Wahlort. Der Punkt zeigt die Stadt der Ausfertigung.",
+      "en": "Charles IV issues the first 23 chapters of the Golden Bull. They designate Frankfurt am Main for elections. The point marks the issuing town."
+    }
+  }
+}

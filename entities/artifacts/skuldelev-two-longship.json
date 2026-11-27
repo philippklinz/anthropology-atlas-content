@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:skuldelev-two-longship",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "First three paragraphs, covering crew, oak, tentative origin in the Dublin area around 1042, and 60 oars."
+    },
+    {
+      "sourceId": "source:skuldelev-channel-location",
+      "role": "supports",
+      "locator": "Printed p. 229, Skuldelev samples. Geographic position of the Peberrenden blocking, 55°48′ N, 12°4′ E, and the narrow channel giving access to Roskilde."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Langschiff Skuldelev 2",
+    "en": "Skuldelev 2 longship"
+  }
+}

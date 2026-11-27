@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bonn-workshops",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karakorum",
+  "sourceType": "website",
+  "creators": [
+    "University of Bonn, Institute of Archaeology and Cultural Anthropology"
+  ],
+  "url": "https://www.iak.uni-bonn.de/de/institut/abteilungen/vor-und-fruehgeschichtliche-archaeologie/projekte-1/karakorum",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

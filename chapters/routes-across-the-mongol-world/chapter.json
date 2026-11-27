@@ -1,0 +1,479 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:routes-across-the-mongol-world",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bonn-workshops",
+      "role": "supports",
+      "locator": "City-centre excavations, figs. 3–7. Wooden anvil bases with bronze dust, scrap bronze, the silver coin of 1237/38 from Karakorum’s mint, gravel, paving and trade activities."
+    },
+    {
+      "sourceId": "source:karakorum-survey",
+      "role": "supports",
+      "locator": "Introduction, Historical background and city access discussion at fig. 7. Location on the Orkhon, residence under Ögödei, Rubruck’s visit in 1254, east-gate roads and dense settlement outside the walls. Published online 2021."
+    },
+    {
+      "sourceId": "source:orkhon-coordinate",
+      "role": "supports",
+      "locator": "Coordinate table in the site documentation, row 3 (“The ruins of Karakorum city”). Point within the ancient urban site, distinct from modern Kharkhorin and Erdene Zuu."
+    },
+    {
+      "sourceId": "source:rubruck-account",
+      "role": "supports",
+      "locator": "Paragraph beginning “A certain woman from Metz” (Paquette, her family and the Parisian goldsmith); “The Khan’s palace at Karakorum” (the silver tree, bellows, trumpet and servers); “Description of Karakorum” (grain and livestock at the gates). Translation published in 1900."
+    },
+    {
+      "sourceId": "source:columbia-artisans",
+      "role": "supports",
+      "locator": "Section on artisans, especially the final paragraph on recruitment for construction under Ögödei at Karakorum and under Khubilai at Shangdu and Daidu."
+    },
+    {
+      "sourceId": "source:xanadu-site",
+      "role": "supports",
+      "locator": "Brief synthesis and Integrity, property 1389. Liu Bingzhong’s design in 1256; the Palace City, Imperial City, Outer City, seasonal camps, hunting areas, the Tiefan’gan canal and the later summer capital."
+    },
+    {
+      "sourceId": "source:national-archives-khubilai",
+      "role": "supports",
+      "locator": "“Official letter from Mongol Empire to Japan”, National Archives of Japan 184-0216. Letters transmitted to Goryeo in 1266 and the context of the first expedition."
+    },
+    {
+      "sourceId": "source:aks-goryeo",
+      "role": "supports",
+      "locator": "Chapter on Goryeo, discussion following the suppression of the Sambyeolcho. Mobilisation of engineers and workers and requisition of timber and ships for the expeditions to Japan."
+    },
+    {
+      "sourceId": "source:happo-port",
+      "role": "supports",
+      "locator": "정의 and 내용. The historic Happo district around modern Masan in Changwon; its role in the expeditions of the late Goryeo period."
+    },
+    {
+      "sourceId": "source:seokdu-warehouse",
+      "role": "supports",
+      "locator": "Summary and 내용 on Happo’s Goryeo-era tax warehouse and the earlier Na-po port in the Masan coastal area."
+    },
+    {
+      "sourceId": "source:bunka-bunei",
+      "role": "supports",
+      "locator": "Section 1, chronology table for Bun’ei 11. Departure from Happo in the tenth lunar month and arrival in northern Kyushu later that month."
+    },
+    {
+      "sourceId": "source:masan-coordinate",
+      "role": "supports",
+      "locator": "SSC-masa, Linked codes, PSMSL station 2044 (35.1975, 128.5764). Modern harbour reference for Masan Bay, rounded to bay scale."
+    },
+    {
+      "sourceId": "source:khalili-buddha",
+      "role": "supports",
+      "locator": "Islamic Art, MSS 727, folio 34a. Artwork Details, Other Notes and “The Jami‘ al-Tawarikh”. Tabriz, 714 AH (1314–15), Arabic manuscript divided between two collections, Ghazan’s commission and Öljeytü’s expansion."
+    },
+    {
+      "sourceId": "source:iranica-foundation",
+      "role": "supports",
+      "locator": "Article, especially the endowment deed of 1309 and its appendices; annual Arabic and Persian copies of six works, quality of paper, collation, binding and boxes. Location in the eastern suburb of Tabriz."
+    },
+    {
+      "sourceId": "source:blair-compendium",
+      "role": "supports",
+      "locator": "Iranian Studies 50, pp. 819–842, abstract. Early Arabic illustrated manuscript fragments in Edinburgh (Or. ms. 20) and the Khalili Collections (MSS 727), dated 714 AH/1314–15."
+    }
+  ],
+  "labels": {
+    "de": "Mongolen – Ein Silberschmied in Karakorum, ein Buchmaler in Täbris",
+    "en": "Mongols – A silversmith in Karakorum, a book painter in Tabriz"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:mongols-karakorum",
+    "event:mongols-rubruck",
+    "event:mongols-shangdu",
+    "event:mongols-happo",
+    "event:mongols-tabriz",
+    "artifact:karakorum-silver-coin-1237",
+    "person:william-of-rubruck",
+    "person:guillaume-boucher-karakorum",
+    "artifact:karakorum-silver-tree"
+  ],
+  "steps": [
+    {
+      "id": "karakorum",
+      "textAnchor": "karakorum",
+      "labels": {
+        "de": "1237/38 · Eine Münze vom Werkstattboden",
+        "en": "1237/38 · A coin from a workshop floor"
+      },
+      "summary": {
+        "de": "Die Prägung der Silbermünze lässt sich auf 1237/38 datieren. Sie nennt Karakorum als Prägestätte und lag in der Nutzungsschicht einer Schmiede.",
+        "en": "The silver coin names Karakorum as its mint and dates to 1237/38. Excavators found it in a workshop occupation layer."
+      },
+      "state": {
+        "camera": {
+          "longitude": 102.845,
+          "latitude": 47.211,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1237,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1238,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "rubruck",
+      "textAnchor": "rubruck",
+      "labels": {
+        "de": "1254 · Wilhelm von Rubruk im Palast",
+        "en": "1254 · William of Rubruck at the palace"
+      },
+      "summary": {
+        "de": "Wilhelm beschrieb 1254 die Stadt und einen vom Pariser Goldschmied Guillaume Boucher geschaffenen Silberbaum. Die Karte zeigt das Stadtgebiet.",
+        "en": "In 1254 William described the city and a silver tree constructed by the Parisian goldsmith Guillaume Boucher. The map locates the ancient city."
+      },
+      "state": {
+        "camera": {
+          "longitude": 102.845,
+          "latitude": 47.211,
+          "metersPerPixel": 850,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1254,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1254,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "shangdu",
+      "textAnchor": "shangdu",
+      "labels": {
+        "de": "1256 · Die Anlage von Shangdu",
+        "en": "1256 · Laying out Shangdu"
+      },
+      "summary": {
+        "de": "Liu Bingzhong entwarf eine Residenz für Kubilai. Im späteren Sommerlager des Hofes blieben sowohl feste Mauern als auch Flächen für Zeltlager erkennbar.",
+        "en": "Liu Bingzhong designed a residence for Khubilai. The site of the later summer capital preserves the wall lines and space allotted to encampments."
+      },
+      "state": {
+        "camera": {
+          "longitude": 116.18513,
+          "latitude": 42.358,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1256,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1256,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "happo",
+      "textAnchor": "happo",
+      "labels": {
+        "de": "1274 · Schiffe laufen aus Goryeo aus",
+        "en": "1274 · The fleet leaves Goryeo"
+      },
+      "summary": {
+        "de": "Von Happo liefen Schiffe mit Menschen aus Goryeo und dem Yuan-Reich nach Japan aus. Der Kartenausschnitt zeigt die heutige Bucht von Masan. Der genaue Anlegeplatz ist ungewiss.",
+        "en": "Ships from Happo carried Yuan and Goryeo forces to Japan. The map locates the modern harbour at Masan Bay. The precise embarkation point is uncertain."
+      },
+      "state": {
+        "camera": {
+          "longitude": 128.58,
+          "latitude": 35.2,
+          "metersPerPixel": 1100,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1274,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1274,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "tabriz",
+      "textAnchor": "tabriz",
+      "labels": {
+        "de": "1314/15 · Ein Blatt aus der Weltgeschichte",
+        "en": "1314–15 · A page of world history"
+      },
+      "summary": {
+        "de": "Eine arabische Abschrift aus Täbris ist auf 714 der Hidschra, entsprechend 1314/15, datiert. Der Punkt bezeichnet Raschid ad-Dins Stiftung im Osten der Stadt.",
+        "en": "An Arabic copy from Tabriz is dated to 714 AH or 1314–15 CE. The point marks Rashid al-Din’s foundation in the east of the city."
+      },
+      "state": {
+        "camera": {
+          "longitude": 46.32944,
+          "latitude": 38.07917,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1314,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1315,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Bronzestaub in Karakorum, Schiffbauer in Goryeo und die Stiftung eines Wesirs in Täbris zeigen, von wessen Arbeit mongolische Höfe lebten. In Happo beginnt der zweite Blick auf die Ereignisse von 1274.",
+      "en": "Bronze dust in Karakorum, shipwrights in Goryeo and a vizier’s foundation in Tabriz reveal the work that sustained Mongol courts. The voyage from Happo offers another perspective on 1274."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "mongols",
+        "labels": {
+          "de": "Mongolen",
+          "en": "Mongols"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "inner-asia",
+        "labels": {
+          "de": "Innerasien",
+          "en": "Inner Asia"
+        }
+      },
+      {
+        "id": "iranian-plateau",
+        "labels": {
+          "de": "Iranisches Hochland",
+          "en": "Iranian Plateau"
+        }
+      },
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 87.45472,
+      "latitude": 41.2055,
+      "metersPerPixel": 21526,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1237,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1237,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1315,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1315,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:jami-al-tawarikh-arabic-714",
+    "artifact:karakorum-silver-coin-1237",
+    "artifact:karakorum-silver-tree",
+    "event:mongols-happo",
+    "event:mongols-karakorum",
+    "event:mongols-rubruck",
+    "event:mongols-shangdu",
+    "event:mongols-tabriz",
+    "geometry:happo-masan-bay-orientation",
+    "geometry:karakorum-in-the-orkhon-valley-orientation",
+    "geometry:rab-e-rashidi-tabriz-orientation",
+    "geometry:shangdu-xanadu-orientation",
+    "person:guillaume-boucher-karakorum",
+    "person:kublai-khan",
+    "person:liu-bingzhong",
+    "person:rashid-al-din-fadlallah",
+    "person:william-of-rubruck",
+    "place:happo-masan-bay",
+    "place:karakorum-in-the-orkhon-valley",
+    "place:rab-e-rashidi-tabriz",
+    "place:shangdu-xanadu",
+    "polity:goryeo",
+    "polity:yuan-dynasty",
+    "source:aks-goryeo",
+    "source:blair-compendium",
+    "source:bonn-workshops",
+    "source:bunka-bunei",
+    "source:columbia-artisans",
+    "source:happo-port",
+    "source:iranica-foundation",
+    "source:iranica-rashid-world-history-illustrations",
+    "source:kaesong-heritage-map",
+    "source:karakorum-survey",
+    "source:khalili-buddha",
+    "source:masan-coordinate",
+    "source:national-archives-khubilai",
+    "source:nmk-goryeo-glory",
+    "source:nmk-lion-incense-burner",
+    "source:orkhon-coordinate",
+    "source:rubruck-account",
+    "source:seokdu-warehouse",
+    "source:wikidata-place-coordinates",
+    "source:xanadu-site"
+  ]
+}

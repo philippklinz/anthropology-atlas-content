@@ -1,0 +1,385 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:cities-and-records-in-medieval-china",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:luoyang-bridge-quanzhou",
+      "role": "supports",
+      "locator": "Description of the Wan’an ferry and construction in 1053–1059, pointed piers and stone transport at high tide. Final paragraph on Cai Xiang’s temple."
+    },
+    {
+      "sourceId": "source:quanzhou-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1561rev-009 (Luoyang Bridge) and 1561rev-012 (Jiuri Mountain Wind-Praying Inscriptions)."
+    },
+    {
+      "sourceId": "source:meng-yuanlao-dongjing",
+      "role": "supports",
+      "locator": "序 (preface), arrival in 崇寧癸未 and flight after the war. 卷之四, 食店 (book IV, Restaurants), orders, bowls and wages. National Library of China, NLC892-411999008778-118945."
+    },
+    {
+      "sourceId": "source:alimov-meng-yuanlao",
+      "role": "supports",
+      "locator": "Kunstkamera 4 (30), pp. 6–15, especially pp. 6–8 on the preface, Meng’s arrival and his flight from Kaifeng in 1127. English abstract."
+    },
+    {
+      "sourceId": "source:jiuri-wind-inscriptions",
+      "role": "supports",
+      "locator": "Description of ten Southern Song inscriptions, 1174–1266. Paragraphs on the winter send-offs, the summer receptions and officials of the maritime trade office."
+    },
+    {
+      "sourceId": "source:quanzhou-maritime-office",
+      "role": "supports",
+      "locator": "Opening description and foundation of the Quanzhou office for maritime trade in 1087."
+    },
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    },
+    {
+      "sourceId": "source:fan-li-sinan-port",
+      "role": "supports",
+      "locator": "Archaeological Research in Asia 23, article 100195. Comparison of Fuzhou, Hangzhou and Ningbo by composition and form of the ceramic assemblages, and conclusion."
+    },
+    {
+      "sourceId": "source:grand-canal-ningbo-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1443bis-021, Ningbo Sanjiangkou river confluence."
+    },
+    {
+      "sourceId": "source:todd-sinan-cargo-tags",
+      "role": "supports",
+      "locator": "Photograph, 7 May 2015, Sinan Shipwreck Gallery, National Museum of Korea. Commons file history, author, CC0 1.0 dedication and Flickr licence review. The temple name 東福寺 is legible on the middle-right and right-hand tags."
+    }
+  ],
+  "labels": {
+    "de": "Chinesen – Eine Brücke für Quanzhou, zwanzig Schalen für Kaifeng",
+    "en": "Chinese – A bridge for Quanzhou, twenty bowls for Kaifeng"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:chinese-luoyang",
+    "event:chinese-kaifeng",
+    "event:chinese-jiuri",
+    "event:chinese-qingyuan",
+    "asset:sinan-tofukuji-cargo-tags",
+    "person:cai-xiang",
+    "person:meng-yuanlao",
+    "artifact:jiuri-wind-prayer-inscriptions",
+    "artifact:sinan-merchant-ship"
+  ],
+  "steps": [
+    {
+      "id": "luoyang",
+      "textAnchor": "luoyang",
+      "labels": {
+        "de": "1059 · Eine Brücke ersetzt die Fähre von Wan’an",
+        "en": "1059 · A bridge replaces the Wan’an ferry"
+      },
+      "summary": {
+        "de": "Die Granitbrücke über den Luoyang ersetzt die Fährpassage. Cai Xiang leitet den Bau, bei dem die Gezeiten helfen, die schweren Balken auf die Pfeiler zu setzen.",
+        "en": "A granite bridge takes the place of the ferry. Cai Xiang oversees work in which the changing tide helps position heavy beams on the piers."
+      },
+      "state": {
+        "camera": {
+          "longitude": 118.67611,
+          "latitude": 24.95444,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1059,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1059,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "kaifeng",
+      "textAnchor": "kaifeng",
+      "labels": {
+        "de": "1103 · Meng Yuanlao kommt nach Kaifeng",
+        "en": "1103 · Meng Yuanlao arrives in Kaifeng"
+      },
+      "summary": {
+        "de": "Meng kommt mit seiner Familie in die östliche Hauptstadt. Später erinnert er sich an die Speisehäuser und an die Kellner, die jede Schale dem richtigen Gast bringen mussten.",
+        "en": "Meng comes with his family to the Eastern Capital. His later account remembers the restaurants and the servers who had to deliver every bowl to the right guest."
+      },
+      "state": {
+        "camera": {
+          "longitude": 114.34028,
+          "latitude": 34.79361,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1103,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1103,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "jiuri",
+      "textAnchor": "jiuri",
+      "labels": {
+        "de": "1174 · Das älteste erhaltene Windgebet am Jiuri-Berg",
+        "en": "1174 · The earliest surviving wind-prayer inscription"
+      },
+      "summary": {
+        "de": "Eine Inschrift hält das Gebet für günstige Winde fest. Spätere Inschriften auf demselben Berg verzeichnen die saisonale Ausfahrt und Heimkehr von Schiffen.",
+        "en": "An inscription records prayers for favourable winds. Later inscriptions on the same mountain mark the seasonal departures and returns of trading ships."
+      },
+      "state": {
+        "camera": {
+          "longitude": 118.52925,
+          "latitude": 24.95236,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1174,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1174,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "qingyuan",
+      "textAnchor": "qingyuan",
+      "labels": {
+        "de": "1323 · Der wahrscheinliche Abfahrtshafen des Sinan-Schiffs",
+        "en": "1323 · The likely departure port of the Sinan ship"
+      },
+      "summary": {
+        "de": "Ein beschriftetes Gewicht und die Zusammensetzung der keramischen Ladung weisen auf Qingyuan, das heutige Ningbo. Der Kartenpunkt am Zusammenfluss steht für den Hafenbereich. Der genaue Liegeplatz ist unbekannt.",
+        "en": "An inscribed weight and the mix of pottery in the cargo point to Qingyuan, present-day Ningbo. The confluence stands for the port area. The exact berth is unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": 121.55722,
+          "latitude": 29.87472,
+          "metersPerPixel": 1300,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1323,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1323,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:sinan-tofukuji-cargo-tags"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Eine Brücke bei Quanzhou, die Erinnerungen eines Restaurantgasts und Gebete für günstigen Wind führen vom Song-Reich zu einem Handelsschiff der Yuan-Zeit. Wo legte es mit seinen Schalen und Münzen ab?",
+      "en": "A bridge near Quanzhou, the memories of a restaurant customer and prayers for sailing weather take us from Song cities to a Yuan merchant ship. Where did it load its bowls and coins?"
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "chinese",
+        "labels": {
+          "de": "Chinesen",
+          "en": "Chinese"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 117.94875,
+      "latitude": 29.87298,
+      "metersPerPixel": 5563,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1059,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1059,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1323,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1323,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:jiuri-wind-prayer-inscriptions",
+    "artifact:sinan-bronze-weight",
+    "artifact:sinan-merchant-ship",
+    "artifact:sinan-wooden-cargo-tags",
+    "asset:sinan-tofukuji-cargo-tags",
+    "event:chinese-jiuri",
+    "event:chinese-kaifeng",
+    "event:chinese-luoyang",
+    "event:chinese-qingyuan",
+    "geometry:kaifeng-eastern-capital-of-the-northern-song-orientation",
+    "geometry:luoyang-bridge-near-quanzhou-orientation",
+    "geometry:mount-jiuri-near-quanzhou-orientation",
+    "geometry:qingyuan-present-day-ningbo-orientation",
+    "person:cai-xiang",
+    "person:meng-yuanlao",
+    "place:kaifeng-eastern-capital-of-the-northern-song",
+    "place:luoyang-bridge-near-quanzhou",
+    "place:mount-jiuri-near-quanzhou",
+    "place:qingyuan-present-day-ningbo",
+    "source:alimov-meng-yuanlao",
+    "source:fan-li-sinan-port",
+    "source:grand-canal-ningbo-map",
+    "source:jiuri-wind-inscriptions",
+    "source:kim-sinan-boxes",
+    "source:luoyang-bridge-quanzhou",
+    "source:meng-yuanlao-dongjing",
+    "source:quanzhou-heritage-map",
+    "source:quanzhou-maritime-office",
+    "source:sinan-museum-collection",
+    "source:todd-sinan-cargo-tags",
+    "source:wikidata-place-coordinates"
+  ]
+}

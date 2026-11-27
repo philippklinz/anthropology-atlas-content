@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:frankfurt-grain-and-bread",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Capitulary of Frankfort: The Price of Staples",
+  "sourceType": "archive",
+  "creators": [
+    "Fordham University, Internet Medieval Sourcebook"
+  ],
+  "url": "https://sourcebooks.fordham.edu/source/794capit-frankfort.asp",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

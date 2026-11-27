@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:vikings-newfoundland",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Nature 601, pp. 388–391. Three worked pieces of wood, the metal-tool cuts and Norse depositional context, Table 1 and Fig. 2 on the radiocarbon signal and counting rings to the surviving outside edge. Published online in 2021."
+    },
+    {
+      "sourceId": "source:parks-indigenous",
+      "role": "supports",
+      "locator": "First two paragraphs. Archaeological evidence of Indigenous use over six millennia and Dorset camps on the south shore more than two centuries before the Norse."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Holzarbeit in Neufundland",
+    "en": "Woodworking in Newfoundland"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:lanse-aux-meadows-three-timbers",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:lanse-aux-meadows-newfoundland"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:lanse-aux-meadows-newfoundland-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1021,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1021,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Nachweisbar wurden drei Bäume im Jahr 1021 gefällt. Bearbeitungsspuren und Fundkontext verbinden die Hölzer mit der nordischen Siedlung an einer bereits lange von indigenen Gemeinschaften genutzten Bucht.",
+      "en": "Three trees were demonstrably felled in 1021. Tool marks and archaeological context connect the worked wood with the Norse site on a bay long used by Indigenous communities."
+    }
+  }
+}

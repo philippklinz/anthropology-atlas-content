@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mwnf-konya-karatay-madrasa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Karatay Madrasa",
+  "sourceType": "article",
+  "creators": [
+    "Yekta Demiralp, Museum With No Frontiers"
+  ],
+  "url": "https://islamicart.museumwnf.org/database_item.php?id=monuments%3BISL%3Btr%3BMon01%3B7%3Ben",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:microsoft-conquerors-kb271891",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "AoE II Expansion: The Conquerors: List of New Features (Q271891)",
+  "sourceType": "archive",
+  "creators": [
+    "Microsoft Knowledge Base, preserved by the KB Archive"
+  ],
+  "url": "https://jeffpar.github.io/kbarchive/kb/271/Q271891/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2000"
+}

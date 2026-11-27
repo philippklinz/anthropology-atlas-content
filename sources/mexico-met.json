@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:mexico-met",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Mexico, 1400–1600 A.D.",
+  "sourceType": "website",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://artistproject.metmuseum.org/toah/ht/08/canm.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

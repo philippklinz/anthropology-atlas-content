@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-sasanian-empire",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Sasanian Empire (224–651 A.D.)",
+  "sourceType": "article",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/essays/the-sasanian-empire-224-651-a-d",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:deer-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Archaeologists discover long-lost Scottish monastery",
+  "sourceType": "website",
+  "creators": [
+    "University of Southampton"
+  ],
+  "url": "https://www.southampton.ac.uk/news/2023/11/deer-monastery.page",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2023"
+}

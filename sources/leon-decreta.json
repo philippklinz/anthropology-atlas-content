@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:leon-decreta",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Versión española de los Decreta de León de 1188",
+  "sourceType": "archive",
+  "creators": [
+    "José M.ª Fernández Catón (editor and translator); Ministerio de Cultura"
+  ],
+  "url": "https://www.cultura.gob.es/dam/jcr%3A5e01f9da-8205-47ee-8053-2c3a68e198ef/decreta-leon-version-espanola.pdf",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

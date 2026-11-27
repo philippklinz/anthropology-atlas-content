@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:huitzilopochco",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Huitzilopochco: Desarrollo del asentamiento",
+  "sourceType": "catalog",
+  "creators": [
+    "Norma Rodriguez, Museo Nacional de las Intervenciones, INAH"
+  ],
+  "url": "https://intervenciones.inah.gob.mx/index.php?a=churubusco&c=presentacion",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

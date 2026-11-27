@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:koreans-gaegyeong",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nmk-goryeo-glory",
+      "role": "supports",
+      "locator": "Opening paragraph: Song embassy to Gaegyeong in June 1123, Xu Jing’s stay, presentation to Huizong, the loss of the illustrations."
+    },
+    {
+      "sourceId": "source:nmk-lion-incense-burner",
+      "role": "supports",
+      "locator": "Section on the Celadon Incense Burner with Lion Cover, National Treasure 60, 26.3 cm, and Xu Jing’s account. Photograph and description of the path of the smoke."
+    },
+    {
+      "sourceId": "source:kaesong-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, 1278rev-001: Manwoldae Palace and Kaesong Chomsongdae."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Xu Jing besucht Goryeos Hauptstadt",
+    "en": "Xu Jing visits the capital of Goryeo"
+  },
+  "participants": [
+    {
+      "entityId": "person:xu-jing",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "polity:goryeo",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:gaegyeong-palace-district-in-present-day-kaesong"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:gaegyeong-palace-district-in-present-day-kaesong-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1123,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1123,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Gesandte reist nach Gaegyeong und beschreibt später ein löwenförmiges Räuchergefäß. Die Palastanlage Manwoldae verortet die Hauptstadt. Wo er das Gefäß sah, ist unbekannt.",
+      "en": "The envoy comes to Gaegyeong and later describes a lion incense burner. The Manwoldae palace site locates the capital. Where he saw the burner is unknown."
+    }
+  }
+}

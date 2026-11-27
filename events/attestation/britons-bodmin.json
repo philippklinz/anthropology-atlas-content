@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:britons-bodmin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thorpe-freed",
+      "role": "supports",
+      "locator": "Printed p. 627, entry beginning Her kyð on þissere bec. Old English text and translation: Ongynethel and Gythiccael, half a pound, four pence, two officials, church door and altar, named witnesses."
+    },
+    {
+      "sourceId": "source:bodmin-gospels",
+      "role": "supports",
+      "locator": "Scope and Content, post-Gospel additions: 51 records of manumission in Latin and Old English, marginal and blank-leaf entries. The catalogue’s broad dating should be read with Pracy’s discussion of individual hands and names."
+    },
+    {
+      "sourceId": "source:pracy-manumissions",
+      "role": "supports",
+      "locator": "The Haskins Society Journal 31, pp. 1 and 9, especially notes 40–43. Competing datings for entries sharing the name Maccos, around 1000 or late in the eleventh century."
+    },
+    {
+      "sourceId": "source:petroc-site",
+      "role": "supports",
+      "locator": "National Heritage List for England 1355166, Location and Details, grid SX 07313 67033. The standing church is later than the entry and is used to locate Bodmin only."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ongynethel und Gythiccael werden freigelassen",
+    "en": "Ongynethel and Gythiccael obtain their freedom"
+  },
+  "participants": [
+    {
+      "entityId": "person:ongynethel-of-bodmin",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:gythiccael-of-bodmin",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:bodmin-gospels",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:bodmin-cornwall"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:bodmin-cornwall-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 975,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1100,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Eine altenglische Notiz nennt den Kauf an der Kirchentür und die Freilassung am Altar. Die Zuordnung des Zeugen Maccos lässt einen weiten Datierungsspielraum. Der Punkt bezeichnet Bodmin.",
+      "en": "An Old English entry records a purchase at the church door and a manumission at the altar. The identification of the witness Maccos leaves a wide dating window. The point locates Bodmin."
+    }
+  }
+}

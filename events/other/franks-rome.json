@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:franks-rome",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:royal-frankish-annals-early-entries",
+      "role": "supports",
+      "locator": "Entries for 753–754 (papal visit), 768 and 771 (division and death of Carloman); entry headed 801, first sentence, on Christmas Day 800 at St Peter’s."
+    },
+    {
+      "sourceId": "source:einhard-life-of-charlemagne",
+      "role": "supports",
+      "locator": "Vita Karoli Magni, ch. 26 (columns and marble), 28 (imperial title and reported reluctance), 30–31 (death, choice of burial place and burial)."
+    }
+  ],
+  "eventType": "other",
+  "labels": {
+    "de": "Eine Kaiserkrönung in der alten Peterskirche",
+    "en": "An imperial coronation in Old St Peter’s"
+  },
+  "participants": [
+    {
+      "entityId": "person:charlemagne",
+      "role": "participant"
+    },
+    {
+      "entityId": "person:pope-leo-iii",
+      "role": "participant"
+    }
+  ],
+  "placeIds": [
+    "place:rome"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:rome-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 800,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 800,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Am Weihnachtstag 800 setzte Leo III. Karl in der Peterskirche die Krone auf. Der Punkt dient zur Orientierung im damaligen Rom.",
+      "en": "On Christmas Day in 800 Leo III placed a crown on Charles in St Peter’s. The point locates the event at the scale of Rome."
+    }
+  },
+  "note": {
+    "de": "In der Peterskirche krönte Papst Leo III. Karl zum Kaiser.",
+    "en": "Pope Leo III crowned Charles emperor at St Peter’s."
+  }
+}

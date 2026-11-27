@@ -1,0 +1,401 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:kings-and-households-in-england",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:brady-languages",
+      "role": "supports",
+      "locator": "Introduction, opening discussion of Bede, Ecclesiastical History I.1, British and English, and the changing languages of Britain."
+    },
+    {
+      "sourceId": "source:moore-bede",
+      "role": "supports",
+      "locator": "Introduction and description of f. 128v, lines 1–4: Bede completed the History in 731; early copy and three lines of Northumbrian verse in the main scribe’s hand."
+    },
+    {
+      "sourceId": "source:caedmon-bede",
+      "role": "supports",
+      "locator": "Book IV, chapter 24, opening narrative and verses: the feast, animals at Whitby, the dream, the Latin rendering of the English hymn."
+    },
+    {
+      "sourceId": "source:jarrow-site",
+      "role": "supports",
+      "locator": "National Heritage List for England 1002978, Location, National Grid Reference NZ 33870 65184."
+    },
+    {
+      "sourceId": "source:bodmin-gospels",
+      "role": "supports",
+      "locator": "Scope and Content, post-Gospel additions: 51 records of manumission in Latin and Old English, marginal and blank-leaf entries. The catalogue’s broad dating should be read with Pracy’s discussion of individual hands and names."
+    },
+    {
+      "sourceId": "source:thorpe-freed",
+      "role": "supports",
+      "locator": "Printed p. 627, entry beginning Her kyð on þissere bec. Old English text and translation: Ongynethel and Gythiccael, half a pound, four pence, two officials, church door and altar, named witnesses."
+    },
+    {
+      "sourceId": "source:pracy-manumissions",
+      "role": "supports",
+      "locator": "The Haskins Society Journal 31, pp. 1 and 9, especially notes 40–43. Competing datings for entries sharing the name Maccos, around 1000 or late in the eleventh century."
+    },
+    {
+      "sourceId": "source:petroc-site",
+      "role": "supports",
+      "locator": "National Heritage List for England 1355166, Location and Details, grid SX 07313 67033. The standing church is later than the entry and is used to locate Bodmin only."
+    },
+    {
+      "sourceId": "source:dunwich-domesday",
+      "role": "supports",
+      "locator": "Latin palaeography, Lesson One, E 31/1/3, folios 311v–312, text lines 1–11 and English translation. Land, burgesses, men described as French and the gift of 60,000 herrings."
+    },
+    {
+      "sourceId": "source:dunwich-shore",
+      "role": "supports",
+      "locator": "Location, map and History. The later friary stood at the western edge of the medieval town. The Domesday section gives 236 burgesses and the land already lost to coastal erosion."
+    },
+    {
+      "sourceId": "source:henry-proclamation",
+      "role": "supports",
+      "locator": "Edition and comparison of the Huntingdonshire and Oxfordshire texts; address to clergy and laity, majority of councillors, open sealed writ to be kept locally and final dating at London."
+    },
+    {
+      "sourceId": "source:burton-proclamation",
+      "role": "supports",
+      "locator": "Chapter on the reform period, printed pp. 38–40, especially p. 39 nn. 1–2 and p. 40 n. 2. The 18 October letter, English and French witnesses, Burton annalist’s Latin version and a payment of 50s to Robert of Fulham on 7 November for work in English and French."
+    },
+    {
+      "sourceId": "source:london-getty",
+      "role": "supports",
+      "locator": "Coordinates and historical-geography note for the medieval City. A town-level reference only."
+    }
+  ],
+  "labels": {
+    "de": "Briten – Ein Lied, eine Freilassung und 60.000 Heringe",
+    "en": "Britons – A song, a manumission and 60,000 herrings"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:britons-jarrow",
+    "event:britons-bodmin",
+    "event:britons-domesday",
+    "event:britons-london",
+    "person:bede-of-jarrow",
+    "artifact:bede-ecclesiastical-history",
+    "person:ongynethel-of-bodmin",
+    "person:gythiccael-of-bodmin"
+  ],
+  "steps": [
+    {
+      "id": "jarrow",
+      "textAnchor": "jarrow",
+      "labels": {
+        "de": "731 · Beda schließt seine Kirchengeschichte ab",
+        "en": "731 · Bede completes his history"
+      },
+      "summary": {
+        "de": "Der Mönch beendet in Wearmouth-Jarrow seine lateinische Geschichte. Die Karte zeigt den Klosterstandort Jarrow. Eine frühe Abschrift bewahrt Cædmons Lied zusätzlich in altenglischer Sprache.",
+        "en": "Bede completes his Latin history at Wearmouth-Jarrow. The map marks the Jarrow monastery site. An early copy also preserves Cædmon’s hymn in Old English."
+      },
+      "state": {
+        "camera": {
+          "longitude": -1.4723,
+          "latitude": 54.9801,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 731,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 731,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "bodmin",
+      "textAnchor": "bodmin",
+      "labels": {
+        "de": "Um 1000 oder später im 11. Jahrhundert · Ongynethel und Gythiccael werden freigelassen",
+        "en": "Around 1000 or later in the eleventh century · Ongynethel and Gythiccael obtain their freedom"
+      },
+      "summary": {
+        "de": "Eine altenglische Notiz nennt den Kauf an der Kirchentür und die Freilassung am Altar. Die Zuordnung des Zeugen Maccos lässt einen weiten Datierungsspielraum. Der Punkt bezeichnet Bodmin.",
+        "en": "An Old English entry records a purchase at the church door and a manumission at the altar. The identification of the witness Maccos leaves a wide dating window. The point locates Bodmin."
+      },
+      "state": {
+        "camera": {
+          "longitude": -4.7174,
+          "latitude": 50.4721,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 975,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1100,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "domesday",
+      "textAnchor": "domesday",
+      "labels": {
+        "de": "1086 · Dunwich wird für das Domesday Book erfasst",
+        "en": "1086 · Dunwich is recorded in Domesday Book"
+      },
+      "summary": {
+        "de": "Der Eintrag für das Gut nennt Landverluste an das Meer, einen Wechsel der Grundherrschaft und eine Gabe in Heringen. Der Punkt liegt an der heutigen Küste beim größtenteils untergegangenen Ort.",
+        "en": "The entry describes coastal erosion, a change of lordship and a gift of herrings. The point is on the modern shore beside the largely submerged medieval town."
+      },
+      "state": {
+        "camera": {
+          "longitude": 1.627,
+          "latitude": 52.278,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1086,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1086,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "london",
+      "textAnchor": "london",
+      "labels": {
+        "de": "18. Oktober 1258 · Heinrichs III. Schreiben an die Grafschaften",
+        "en": "18 October 1258 · Henry III’s letter to the shires"
+      },
+      "summary": {
+        "de": "Ein in London ausgestelltes Schreiben verpflichtet den König auf die Beschlüsse seiner Räte. Zwei englische Fassungen lassen die Adressaten erkennen.",
+        "en": "A writ issued in London commits the king to his councillors’ decisions. The addressees can still be discerned in two English versions."
+      },
+      "state": {
+        "camera": {
+          "longitude": -0.0937,
+          "latitude": 51.5141,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1258,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1258,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Beda überliefert ein Lied aus Whitby, in Bodmin gewinnt eine Familie ihre Freiheit, und für Dunwich zählt ein Schreiber Heringe. In vier Quellen begegnen dir die Menschen und die Sprachen des mittelalterlichen England.",
+      "en": "Bede preserves a song from Whitby, a family gains its freedom in Bodmin, and Dunwich owes a gift in herrings. Four records take us among the people and languages of medieval England."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "britons",
+        "labels": {
+          "de": "Briten",
+          "en": "Britons"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "british-isles",
+        "labels": {
+          "de": "Britische und irische Inseln",
+          "en": "Britain and Ireland"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -1.5452,
+      "latitude": 52.7261,
+      "metersPerPixel": 2548,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 731,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 731,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1258,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1258,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:bede-ecclesiastical-history",
+    "artifact:bodmin-gospels",
+    "artifact:henry-iii-proclamation-1258",
+    "artifact:little-domesday-book",
+    "event:britons-bodmin",
+    "event:britons-domesday",
+    "event:britons-jarrow",
+    "event:britons-london",
+    "geometry:bodmin-cornwall-orientation",
+    "geometry:dunwich-suffolk-orientation",
+    "geometry:london-orientation",
+    "geometry:st-pauls-monastery-jarrow-orientation",
+    "person:bede-of-jarrow",
+    "person:gythiccael-of-bodmin",
+    "person:henry-iii-of-england",
+    "person:ongynethel-of-bodmin",
+    "person:robert-malet-of-dunwich",
+    "place:bodmin-cornwall",
+    "place:dunwich-suffolk",
+    "place:london",
+    "place:st-pauls-monastery-jarrow",
+    "source:bodmin-gospels",
+    "source:brady-languages",
+    "source:burton-proclamation",
+    "source:caedmon-bede",
+    "source:dunwich-domesday",
+    "source:dunwich-shore",
+    "source:henry-proclamation",
+    "source:jarrow-site",
+    "source:london-getty",
+    "source:moore-bede",
+    "source:petroc-site",
+    "source:pracy-manumissions",
+    "source:thorpe-freed"
+  ]
+}

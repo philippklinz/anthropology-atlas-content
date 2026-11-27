@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:skuldelev-ship-study",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Skuldelev Ships I. Chapter 5.2, Skuldelev 2",
+  "sourceType": "book",
+  "creators": [
+    "Ole Crumlin-Pedersen and Olaf Olsen (editors), Viking Ship Museum, Roskilde"
+  ],
+  "url": "https://www.vikingeskibsmuseet.dk/frontend/Dokumenter/Skuldelev2_b.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2002"
+}

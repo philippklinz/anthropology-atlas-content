@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rudiger-1084",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Charter of Bishop Rudiger of Speyer (1084)",
+  "sourceType": "archive",
+  "creators": [
+    "University of Texas at Austin, Department of History"
+  ],
+  "url": "https://laits.utexas.edu/bodian/me-bisopSpeyers.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

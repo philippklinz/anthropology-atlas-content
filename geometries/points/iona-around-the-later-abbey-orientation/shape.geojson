@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:iona-around-the-later-abbey-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.39,
+      56.33
+    ]
+  }
+}

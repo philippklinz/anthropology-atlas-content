@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:palenque-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pre-Hispanic City and National Park of Palenque",
+  "sourceType": "catalog",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/411/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

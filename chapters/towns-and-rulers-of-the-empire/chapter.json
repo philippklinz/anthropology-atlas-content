@@ -1,0 +1,475 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:towns-and-rulers-of-the-empire",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:hls-teutonen",
+      "role": "supports",
+      "locator": "Opening paragraph, including the ancient group’s campaign and defeat near Aquae Sextiae in 102 BCE."
+    },
+    {
+      "sourceId": "source:haferkamp-reich",
+      "role": "supports",
+      "locator": "Sections 1 and 2. Carolingian and Ottonian imperial title, geographic extent, development of the imperial designation and the problem of territorial authority."
+    },
+    {
+      "sourceId": "source:rudiger-1084",
+      "role": "supports",
+      "locator": "Translated charter, preamble and clauses 1–7. Residential wall, annual payment of three and a half pounds, harbour trade, cemetery, visiting Jews, judicial jurisdiction."
+    },
+    {
+      "sourceId": "source:speyer-juden",
+      "role": "supports",
+      "locator": "Opening account of the 1084 settlement and the section Erste Pogrome, Kreuzzüge und die Pest. Attack of 1096 and the intervention of Bishop Johann."
+    },
+    {
+      "sourceId": "source:regensburg-bridge",
+      "role": "supports",
+      "locator": "Timeline on pp. 16–17, especially completion by 1146 and the 1182 privileges governing access, duties and maintenance."
+    },
+    {
+      "sourceId": "source:ritscher-herbord",
+      "role": "supports",
+      "locator": "Chapter III.1.b, Tätigkeitsbereich des Brückenmeisters, pp. 22–23 and notes 62–65. Petition of the citizens and Herbord, exemptions from toll, twelve-foot exclusion zone, divided fines, bishop and duke."
+    },
+    {
+      "sourceId": "source:naumburg-founders",
+      "role": "supports",
+      "locator": "West choir overview, captions for Thimo von Kistritz and his seven villages, Hermann and Reglindis, Ekkehard II and Uta; caption dating of figures c. 1245–1250."
+    },
+    {
+      "sourceId": "source:naumburg-uta",
+      "role": "supports",
+      "locator": "Uta among the twelve founders; anonymous sculptor, western choir completed around 1250 and later reception of Uta’s image."
+    },
+    {
+      "sourceId": "source:naumburg-coordinates",
+      "role": "supports",
+      "locator": "Geographical data, property 1470rev; N51° 9′ 17.3″ and E11° 48′ 14.4″."
+    },
+    {
+      "sourceId": "source:golden-bull-bohemia",
+      "role": "supports",
+      "locator": "AT-OeStA/HHStA UR AUR 9228. Dates and places, regest, extent and seal description: only the Nuremberg part of this copy bears a golden seal of 66.6–67.2 mm in diameter."
+    },
+    {
+      "sourceId": "source:golden-bull-ghi",
+      "role": "supports",
+      "locator": "Introduction and chs. 1–4. Seven electors, meeting at Frankfurt, voting, confirmation of electors’ rights and precedence."
+    },
+    {
+      "sourceId": "source:golden-bull-chapters",
+      "role": "supports",
+      "locator": "Panel Die Goldene Bulle. Chapters 1–23 at Nuremberg and 24–31 at Metz in 1356, name from the gold seal, surviving original copies."
+    },
+    {
+      "sourceId": "source:schlotheuber-languages",
+      "role": "supports",
+      "locator": "pp. 365–366, especially n. 46 quoting ch. 31. Languages for lay electoral heirs, age requirements, Latin and the interpretation of the Slavic language as Czech."
+    },
+    {
+      "sourceId": "source:golden-bull-henderson",
+      "role": "supports",
+      "locator": "Ch. 31, two final paragraphs. Early language instruction for the four lay electoral families and the choice between sending children away and engaging experienced teachers at home."
+    },
+    {
+      "sourceId": "source:nuremberg-geo",
+      "role": "supports",
+      "locator": "GeonameId 2861650, town centre coordinates 49.45421 N, 11.07752 E."
+    },
+    {
+      "sourceId": "source:metz-geo",
+      "role": "supports",
+      "locator": "GeonameId 2994160, town centre coordinates 49.11911 N, 6.17269 E."
+    }
+  ],
+  "labels": {
+    "de": "Teutonen – Wer durfte auf der Regensburger Brücke Geld verlangen?",
+    "en": "Teutons – Who could charge a fee on the bridge at Regensburg?"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:teutons-speyer",
+    "event:teutons-regensburg",
+    "event:teutons-naumburg",
+    "event:teutons-golden-bull",
+    "event:teutons-metz",
+    "person:rudiger-huzmann-of-speyer",
+    "community:jewish-community-of-medieval-speyer",
+    "person:herbord-of-regensburg",
+    "person:frederick-i-barbarossa"
+  ],
+  "steps": [
+    {
+      "id": "speyer",
+      "textAnchor": "speyer",
+      "labels": {
+        "de": "1084 · Rüdigers Rechte für die jüdische Gemeinde",
+        "en": "1084 · Rüdiger grants rights to the Jewish community"
+      },
+      "summary": {
+        "de": "Bischof Rüdiger regelt Handel, Begräbnis und Gerichtsbarkeit für jüdische Familien. Der Stadtpunkt liegt am Rhein und verzeichnet den Geltungsort des Privilegs.",
+        "en": "Bishop Rüdiger grants trading, burial and judicial rights to Jewish families in Speyer. The city marker identifies where the grant applied."
+      },
+      "state": {
+        "camera": {
+          "longitude": 8.4336,
+          "latitude": 49.3166,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1084,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1084,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "regensburg",
+      "textAnchor": "regensburg",
+      "labels": {
+        "de": "26. September 1182 · Herbords Brücke wird vor Pflichtzöllen geschützt",
+        "en": "26 September 1182 · Herbord’s bridge is protected from compulsory tolls"
+      },
+      "summary": {
+        "de": "Auf Bitten der Bürger und des Brückenmeisters sichert Friedrich I. den freien Übergang über die Donau und freie Zufahrten zu. Freiwillige Beiträge zum Unterhalt bleiben möglich.",
+        "en": "At the request of the citizens and the bridge master, Frederick I guarantees passage across the Danube without compulsory toll and clear approaches. Voluntary contributions can support maintenance."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.0973,
+          "latitude": 49.0218,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1182,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1182,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "naumburg",
+      "textAnchor": "naumburg",
+      "labels": {
+        "de": "Um 1250 · Die Stifter werden in Stein sichtbar",
+        "en": "Around 1250 · The founders are commemorated in stone"
+      },
+      "summary": {
+        "de": "Im Naumburger Westchor erinnern zwölf Figuren an Wohltäter, die rund zwei Jahrhunderte vorher lebten. Die Station datiert die Arbeit der Bildhauer.",
+        "en": "Twelve figures in the west choir at Naumburg commemorate benefactors who lived some two centuries earlier. The station dates the sculptors’ work."
+      },
+      "state": {
+        "camera": {
+          "longitude": 11.804,
+          "latitude": 51.1548,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1245,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1250,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "golden-bull",
+      "textAnchor": "golden-bull",
+      "labels": {
+        "de": "10. Januar 1356 · Das Königswahlgesetz in Nürnberg",
+        "en": "10 January 1356 · Issuing the electoral law at Nuremberg"
+      },
+      "summary": {
+        "de": "Karl IV. erlässt die ersten 23 Kapitel der Goldenen Bulle. Sie bestimmen Frankfurt am Main als Wahlort. Der Punkt zeigt die Stadt der Ausfertigung.",
+        "en": "Charles IV issues the first 23 chapters of the Golden Bull. They designate Frankfurt am Main for elections. The point marks the issuing town."
+      },
+      "state": {
+        "camera": {
+          "longitude": 11.0775,
+          "latitude": 49.4542,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1356,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1356,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "metz",
+      "textAnchor": "metz",
+      "labels": {
+        "de": "25. Dezember 1356 · Die Metzer Bestimmung über Sprachen",
+        "en": "25 December 1356 · The Metz provision on languages"
+      },
+      "summary": {
+        "de": "Die Schlusskapitel der Goldenen Bulle entstehen in Metz. Kapitel 31 regelt die sprachliche Erziehung der Erben der vier weltlichen Kurfürsten.",
+        "en": "The final chapters of the Golden Bull are issued at Metz. Chapter 31 deals with language education for the heirs of the four lay electors."
+      },
+      "state": {
+        "camera": {
+          "longitude": 6.1727,
+          "latitude": 49.1191,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1356,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1356,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Jüdische Familien in Speyer, ein Brückenmeister in Regensburg und zwei Frauen in einem Domchor zeigen, wer im mittelalterlichen Reich Rechte besaß und wessen Namen erhalten blieben.",
+      "en": "Jewish families in Speyer, a bridge master in Regensburg and two women in a cathedral choir reveal who could claim rights in the medieval Empire and whose names survived."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "teutons",
+        "labels": {
+          "de": "Teutonen",
+          "en": "Teutons"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-europe",
+        "labels": {
+          "de": "Mitteleuropa",
+          "en": "Central Europe"
+        }
+      },
+      {
+        "id": "western-europe",
+        "labels": {
+          "de": "Westeuropa",
+          "en": "Western Europe"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 9.135,
+      "latitude": 50.0883,
+      "metersPerPixel": 1322,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1084,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1084,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1356,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1356,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:golden-bull-1356",
+    "artifact:naumburg-west-choir-figures",
+    "community:jewish-community-of-medieval-speyer",
+    "event:teutons-golden-bull",
+    "event:teutons-metz",
+    "event:teutons-naumburg",
+    "event:teutons-regensburg",
+    "event:teutons-speyer",
+    "geometry:metz-orientation",
+    "geometry:naumburg-cathedral-orientation",
+    "geometry:nuremberg-orientation",
+    "geometry:speyer-orientation",
+    "geometry:stone-bridge-regensburg-orientation",
+    "person:emperor-charles-iv",
+    "person:frederick-i-barbarossa",
+    "person:herbord-of-regensburg",
+    "person:reglindis-of-meissen",
+    "person:rudiger-huzmann-of-speyer",
+    "person:uta-of-ballenstedt",
+    "place:metz",
+    "place:naumburg-cathedral",
+    "place:nuremberg",
+    "place:speyer",
+    "place:stone-bridge-regensburg",
+    "source:golden-bull-bohemia",
+    "source:golden-bull-chapters",
+    "source:golden-bull-ghi",
+    "source:golden-bull-henderson",
+    "source:haferkamp-reich",
+    "source:hls-teutonen",
+    "source:metz-geo",
+    "source:naumburg-coordinates",
+    "source:naumburg-founders",
+    "source:naumburg-uta",
+    "source:nuremberg-geo",
+    "source:regensburg-bridge",
+    "source:ritscher-herbord",
+    "source:rudiger-1084",
+    "source:schlotheuber-languages",
+    "source:speyer-juden",
+    "source:wikidata-place-coordinates"
+  ]
+}

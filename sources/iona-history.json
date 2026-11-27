@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iona-history",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Iona Abbey and Nunnery: History and stories",
+  "sourceType": "website",
+  "creators": [
+    "Historic Environment Scotland"
+  ],
+  "url": "https://www.historicenvironment.scot/visit/all/iona-abbey-and-nunnery/history-and-stories/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:met-open-access-image-rights",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Open Access at The Met",
+  "sourceType": "website",
+  "creators": [
+    "The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/hubs/open-access",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

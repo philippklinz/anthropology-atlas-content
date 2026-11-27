@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:luoyang-bridge-near-quanzhou",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:luoyang-bridge-quanzhou",
+      "role": "supports",
+      "locator": "Description of the Wan’an ferry and construction in 1053–1059, pointed piers and stone transport at high tide. Final paragraph on Cai Xiang’s temple."
+    },
+    {
+      "sourceId": "source:quanzhou-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1561rev-009 (Luoyang Bridge) and 1561rev-012 (Jiuri Mountain Wind-Praying Inscriptions)."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Luoyang-Brücke bei Quanzhou",
+    "en": "Luoyang Bridge near Quanzhou"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:maximinus-envoy-449",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:priscus-embassy",
+      "role": "supports",
+      "locator": "Fr. 8 in Fragmenta Historicorum Graecorum. Naissus and the five deserters, monoxyles and the storm, Bleda’s wife and thanksgiving gifts, encounter with the former merchant at the residence."
+    },
+    {
+      "sourceId": "source:laes-zercon",
+      "role": "supports",
+      "locator": "p. 31 and n. 5, on Priscus as secretary to Maximinus in summer 449, the sequence of known towns and unnamed villages and the unknown location of Attila’s wooden palace."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Der Gesandte Maximinus",
+    "en": "Maximinus the envoy"
+  }
+}

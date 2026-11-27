@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iberian-crowns",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Spain: A Country Study",
+  "sourceType": "book",
+  "creators": [
+    "Federal Research Division, Library of Congress"
+  ],
+  "url": "https://tile.loc.gov/storage-services/public/gdcmassbookdig/spaincountrystud00sols_0/spaincountrystud00sols_0.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

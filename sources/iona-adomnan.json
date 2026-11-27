@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iona-adomnan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Life of Columba, written by Adamnan: manuscript description",
+  "sourceType": "archive",
+  "creators": [
+    "Corpus of Electronic Texts, University College Cork"
+  ],
+  "url": "https://celt.ucc.ie/published/L201040/header.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

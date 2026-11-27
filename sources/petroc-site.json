@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:petroc-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Church of St Petroc, Bodmin",
+  "sourceType": "catalog",
+  "creators": [
+    "Historic England"
+  ],
+  "url": "https://historicengland.org.uk/listing/the-list/list-entry/1355166?section=overview",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

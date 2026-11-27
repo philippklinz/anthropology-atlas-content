@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:joya-de-ceren-el-salvador-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.3692,
+      13.8275
+    ]
+  }
+}

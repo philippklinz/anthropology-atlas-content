@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:golden-bull-ghi",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Golden Bull (1356)",
+  "sourceType": "book",
+  "creators": [
+    "German Historical Institute, German History in Documents and Images"
+  ],
+  "url": "https://germanhistorydocs.org/en/from-the-reformations-to-the-thirty-years-war-1500-1648/ghdi:document-3739",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,1182 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:eighteen-worlds-of-age-of-empires-ii",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:microsoft-age-of-kings-1999",
+      "role": "supports",
+      "locator": "18 October 1999, opening paragraphs. The original game offers thirteen civilizations. Used for the history of the game."
+    },
+    {
+      "sourceId": "source:microsoft-ensemble-age-of-kings-roster",
+      "role": "supports",
+      "locator": "Expansions → Age of Kings, Civilizations · 13, and The Conquerors, Civilizations · 5. Names used in the game interface."
+    },
+    {
+      "sourceId": "source:microsoft-conquerors-kb271891",
+      "role": "supports",
+      "locator": "Article Q271891, 22 October 2000, Summary and Additional Information. Names of the five civilizations added to the original thirteen."
+    },
+    {
+      "sourceId": "source:ensemble-conquerors-player-manual",
+      "role": "supports",
+      "locator": "Chapter I, Getting Started, “What’s new”, item “Civilizations”. Lists Aztecs, Huns, Koreans, Mayans and Spanish."
+    },
+    {
+      "sourceId": "source:priscus-embassy",
+      "role": "supports",
+      "locator": "Fr. 8 in Fragmenta Historicorum Graecorum. Naissus and the five deserters, monoxyles and the storm, Bleda’s wife and thanksgiving gifts, encounter with the former merchant at the residence."
+    },
+    {
+      "sourceId": "source:laes-zercon",
+      "role": "supports",
+      "locator": "p. 31 and n. 5, on Priscus as secretary to Maximinus in summer 449, the sequence of known towns and unnamed villages and the unknown location of Attila’s wooden palace."
+    },
+    {
+      "sourceId": "source:skidmore-palenque",
+      "role": "supports",
+      "locator": "Sections Lady Sak K’uk’ and K’inich Janaab Pakal I, fig. 112, the Oval Palace Tablet, and the entry specifying Long Count 9.9.2.4.8 (615), birth in 603, accession aged twelve and the debated regency."
+    },
+    {
+      "sourceId": "source:palace-cast",
+      "role": "supports",
+      "locator": "Object description: oval tablet, House E, Sak K’uk’ offering a royal headdress to her son; nineteenth-century cast from the original."
+    },
+    {
+      "sourceId": "source:palenque-site",
+      "role": "supports",
+      "locator": "World Heritage property 411. Location line for Palenque in Chiapas and coordinates 17°28′59.988″ N, 92°2′60″ W; an orientation for the site."
+    },
+    {
+      "sourceId": "source:frankfurt-grain-and-bread",
+      "role": "supports",
+      "locator": "Ch. 4 in the translation of Cave and Coulson, p. 130. Separate prices for ordinary grain and the king’s stocks, numbers and weight of loaves, and the final provision on unfree dependants."
+    },
+    {
+      "sourceId": "source:frankfurt-capitulary-bk28",
+      "role": "supports",
+      "locator": "Date and editions, Boretius, no. 28, pp. 73–78; ch. 4, grain and baked bread at Frankfurt in 794."
+    },
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "First three paragraphs, covering crew, oak, tentative origin in the Dublin area around 1042, and 60 oars."
+    },
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    },
+    {
+      "sourceId": "source:kim-sinan-boxes",
+      "role": "supports",
+      "locator": "Dendrochronologia 31, pp. 266–272. Abstract, species identification and matching of 21 boxes to western Japanese cedar chronologies."
+    },
+    {
+      "sourceId": "source:hagia-sophia-met",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Nika fire, dedication on 27 December 537, architects, vault, 558 collapse, 562 rebuilding and decoration. Closing paragraphs on conversion under Mehmed II in 1453 and subsequent Ottoman additions."
+    },
+    {
+      "sourceId": "source:fatih-ayasofya",
+      "role": "supports",
+      "locator": "Building history, from the conversion of the patriarchal cathedral under Mehmed II in 1453 to the successive Ottoman minarets."
+    },
+    {
+      "sourceId": "source:met-byzantium-periods",
+      "role": "supports",
+      "locator": "Opening discussion of Rhomaioi and the capital; “The Latin Occupation of Constantinople” and “Late Byzantium” on 1204, 1261, Nicaea and Trebizond."
+    },
+    {
+      "sourceId": "source:meeting-locality",
+      "role": "supports",
+      "locator": "Opening paragraph on the commemorative plaque at Pino Suárez and República de El Salvador, the comparison of possible locations and the concluding identification of the southern approach to Tenochtitlan, 8 November 1519."
+    },
+    {
+      "sourceId": "source:nahua-welcome",
+      "role": "supports",
+      "locator": "Book XII, chapter 16. Opening place-names, garlands and necklaces, Moteuczoma’s welcome, Marina interpreting the answer, and the list of the lords accompanying Moteuczoma. This English excerpt presents the later Nahua account."
+    },
+    {
+      "sourceId": "source:cortes-welcome",
+      "role": "supports",
+      "locator": "Second letter to Charles, excerpt pp. 85–89. Bridge and removable beams; attendants prevent physical contact; later speech in the lodging as reported to Charles."
+    },
+    {
+      "sourceId": "source:fan-li-sinan-port",
+      "role": "supports",
+      "locator": "Archaeological Research in Asia 23, article 100195. Comparison of Fuzhou, Hangzhou and Ningbo by composition and form of the ceramic assemblages, and conclusion."
+    },
+    {
+      "sourceId": "source:grand-canal-ningbo-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1443bis-021, Ningbo Sanjiangkou river confluence."
+    },
+    {
+      "sourceId": "source:cortes-second-print",
+      "role": "supports",
+      "locator": "Bibliographic note Segunda Carta. The letter is dated 30 October 1520 in Segura de la Frontera; first printed at Seville in 1522."
+    },
+    {
+      "sourceId": "source:ceren-date",
+      "role": "supports",
+      "locator": "Subsection Loma Caldera Eruption, cites McKee’s radiocarbon estimate at Cerén at 95% probability, AD 610–671. This dates a single eruption, not a decades-long volcanic episode."
+    },
+    {
+      "sourceId": "source:ceren-plants",
+      "role": "supports",
+      "locator": "Site setting and methodology, figs. 1–5 and discussion of Household 1. Wattle-and-daub buildings and thatch, dental plaster casts, manioc between Structures 6 and 11, field cultivation south of the village, fixed hearth and vessel contents in Structure 11."
+    },
+    {
+      "sourceId": "source:ceren-site",
+      "role": "supports",
+      "locator": "Brief Synthesis and map coordinates, dossier 675, 13°49′39″ N, 89°22′9″ W. Seventh-century farming settlement preserved beneath the Loma Caldera eruption."
+    }
+  ],
+  "labels": {
+    "de": "Die historischen Welten von Age of Empires II",
+    "en": "The historical worlds of Age of Empires II"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:huns-naissus",
+    "event:mayans-pakal",
+    "event:franks-frankfurt",
+    "event:skuldelev-two-construction",
+    "event:koreans-sinan",
+    "event:hagia-sophia-conversion-1453",
+    "event:meeting-of-moteuczoma-and-cortes-1519",
+    "asset:skuldelev-two-original-timbers"
+  ],
+  "steps": [
+    {
+      "id": "naissus",
+      "textAnchor": "naissus",
+      "labels": {
+        "de": "449 · Priskos in der verwüsteten Stadt",
+        "en": "449 · Priscus in the damaged city"
+      },
+      "summary": {
+        "de": "Priskos kam durch Naissus. In der Nähe übergab ein römischer Befehlshaber der Gesandtschaft fünf Männer. Der Punkt markiert die Stadt. Attilas spätere Residenz ist räumlich ungewiss.",
+        "en": "Priscus passed through Naissus. Nearby a Roman commander handed five men to his embassy. The map locates the town. The residence reached later in the journey cannot be securely placed."
+      },
+      "state": {
+        "camera": {
+          "longitude": 21.8963,
+          "latitude": 43.3194,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 449,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 449,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "palenque",
+      "textAnchor": "palenque",
+      "labels": {
+        "de": "615 · Pakal empfängt den Königsschmuck",
+        "en": "615 · Pakal receives the royal headdress"
+      },
+      "summary": {
+        "de": "615 trat der zwölfjährige Pakal in Palenque die Herrschaft an. Eine Tafel im Palast zeigt seine Mutter Sak K’uk’ bei der Übergabe des Kopfschmucks.",
+        "en": "Twelve-year-old Pakal acceded at Palenque in 615. In the palace, a tablet portrays his mother Sak K’uk’ offering him the royal headdress."
+      },
+      "state": {
+        "camera": {
+          "longitude": -92.05,
+          "latitude": 17.48333,
+          "metersPerPixel": 680,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 615,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 615,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "frankfurt",
+      "textAnchor": "frankfurt",
+      "labels": {
+        "de": "794 · Wie viel Brot für einen Denar?",
+        "en": "794 · How much bread for one denarius?"
+      },
+      "summary": {
+        "de": "In Frankfurt erließ die Versammlung Regeln für Getreide und Brot. Die Zahlen geben die Vorschrift wieder. Einen tatsächlichen Einkauf überliefern sie uns nicht.",
+        "en": "The assembly at Frankfurt set rates for grain and bread. These figures come from the ordinance. An individual purchase would require further evidence."
+      },
+      "state": {
+        "camera": {
+          "longitude": 8.68,
+          "latitude": 50.11,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 794,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 794,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:frankfurt-bread-prices-794"
+    },
+    {
+      "id": "dublin",
+      "textAnchor": "dublin",
+      "labels": {
+        "de": "1042 · Eine Eiche für Skuldelev 2",
+        "en": "1042 · An oak for Skuldelev 2"
+      },
+      "summary": {
+        "de": "Der Baum für die Maststütze wurde im Mai oder Juni 1042 gefällt. Das Schiff wurde damals oder bald darauf in Ostirland gebaut, wahrscheinlich im Raum Dublin. Die Karte zeigt die Region der vermuteten Werft.",
+        "en": "The oak for the keelson was felled in May or June 1042. The ship was built then or soon afterwards in eastern Ireland, probably around Dublin. The map locates the likely region of the yard."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1042,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1042,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:skuldelev-two-original-timbers"
+    },
+    {
+      "id": "sinan",
+      "textAnchor": "sinan",
+      "labels": {
+        "de": "1323 · Ein Handelsschiff zwischen drei Küsten",
+        "en": "1323 · A trading ship between three coasts"
+      },
+      "summary": {
+        "de": "Qingyuan war der Ausgangshafen. Das Wrack liegt bei Sinan. Die Tempelgemeinschaft in Kyoto ist als Empfänger auf einem Etikett bezeugt.",
+        "en": "Qingyuan was the port of departure. The wreck lies off Sinan. A cargo tag names a temple community at Kyoto as a recipient."
+      },
+      "state": {
+        "camera": {
+          "longitude": 126.25,
+          "latitude": 32.55,
+          "metersPerPixel": 4600,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1323,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1323,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:sinan-tofukuji-cargo-tags"
+    },
+    {
+      "id": "constantinople",
+      "textAnchor": "constantinople",
+      "labels": {
+        "de": "1453 · Die bisherige Kathedrale wird zur Moschee",
+        "en": "1453 · The former cathedral becomes a mosque"
+      },
+      "summary": {
+        "de": "1453 ließ Mehmed II. die Hagia Sophia als Moschee einrichten. Der Bau der alten Kathedrale blieb an seinem Platz.",
+        "en": "In 1453 Mehmed II had Hagia Sophia converted into a mosque. The fabric of the old cathedral remained in place."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.98017,
+          "latitude": 41.00858,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1453,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1453,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "tenochtitlan",
+      "textAnchor": "tenochtitlan",
+      "labels": {
+        "de": "1519 · Moteuczoma II. und Cortés am südlichen Zugang",
+        "en": "1519 · Moteuczoma II and Cortés on the southern approach"
+      },
+      "summary": {
+        "de": "Zwei Berichte über die Begegnung führen an den südlichen Zugang zur Inselstadt. Der Punkt bezeichnet die Gegend des Damms.",
+        "en": "Two accounts of the encounter lead to the southern approach to the island city. The point marks the general area of the causeway."
+      },
+      "state": {
+        "camera": {
+          "longitude": -99.133,
+          "latitude": 19.428,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1519,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1519,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "recordIds": [
+    "artifact:alfonso-x-book-of-games",
+    "artifact:ayer-popol-wuj-manuscript",
+    "artifact:bede-ecclesiastical-history",
+    "artifact:bodmin-gospels",
+    "artifact:book-of-deer",
+    "artifact:florentine-codex",
+    "artifact:fountain-of-the-lions-granada",
+    "artifact:frankfurt-capitulary-794",
+    "artifact:fustat-synagogue-inventory-1080",
+    "artifact:girona-synagogue-sale-deed",
+    "artifact:golden-bull-1356",
+    "artifact:grandes-chroniques-pippin-and-childeric",
+    "artifact:henry-iii-proclamation-1258",
+    "artifact:jami-al-tawarikh-arabic-714",
+    "artifact:jikji-heungdeoksa-print",
+    "artifact:jiuri-wind-prayer-inscriptions",
+    "artifact:karakorum-silver-coin-1237",
+    "artifact:karakorum-silver-tree",
+    "artifact:lanse-aux-meadows-three-timbers",
+    "artifact:large-jelling-stone",
+    "artifact:lichfield-gospels",
+    "artifact:little-domesday-book",
+    "artifact:naumburg-west-choir-figures",
+    "artifact:nishapur-sabz-pushan-turquoise-bowl",
+    "artifact:oseberg-ship",
+    "artifact:oseberg-sleighs",
+    "artifact:rawda-nilometer",
+    "artifact:san-vitale-imperial-panels",
+    "artifact:sinan-bronze-weight",
+    "artifact:sinan-merchant-ship",
+    "artifact:sinan-wooden-cargo-tags",
+    "artifact:skuldelev-two-longship",
+    "artifact:tenochtitlan-temple-dedication-plaque",
+    "artifact:yenikapi-wreck-twelve",
+    "asset:frankfurt-bread-prices-794",
+    "asset:grandes-chroniques-dynastic-change",
+    "asset:nishapur-sabz-pushan-turquoise-bowl",
+    "asset:popol-wuj-opening-page",
+    "asset:sinan-tofukuji-cargo-tags",
+    "asset:skuldelev-two-original-timbers",
+    "asset:strasbourg-oaths-folio",
+    "community:alans-in-the-west",
+    "community:forces-of-alaric-ii-at-poitiers",
+    "community:households-of-ceren",
+    "community:huitzilopochco-residents",
+    "community:jewish-community-of-girona",
+    "community:jewish-community-of-medieval-speyer",
+    "community:pippin-and-his-sons-at-saint-denis",
+    "community:refugees-and-fritigerns-coalition",
+    "community:sadang-ri-potters",
+    "community:vandals-in-the-fifth-century",
+    "community:wulfilas-refugees",
+    "event:adrianople-378",
+    "event:aztecs-huitzilopochco",
+    "event:aztecs-temple-dedication",
+    "event:aztecs-tlatelolco-manuscript",
+    "event:battle-near-poitiers-507",
+    "event:britons-bodmin",
+    "event:britons-domesday",
+    "event:britons-jarrow",
+    "event:britons-london",
+    "event:byzantines-hagia-sophia-537",
+    "event:byzantines-ravenna",
+    "event:byzantines-yenikapi",
+    "event:carthage-taken-439",
+    "event:celts-deer",
+    "event:celts-iona",
+    "event:celts-llandeilo",
+    "event:chinese-jiuri",
+    "event:chinese-kaifeng",
+    "event:chinese-luoyang",
+    "event:chinese-qingyuan",
+    "event:franks-aachen",
+    "event:franks-frankfurt",
+    "event:franks-rome",
+    "event:franks-strasbourg",
+    "event:geiseric-crossing-429",
+    "event:hagia-sophia-conversion-1453",
+    "event:huns-aquileia",
+    "event:huns-margus",
+    "event:huns-naissus",
+    "event:huns-nicetas",
+    "event:japanese-hakozaki",
+    "event:japanese-nara",
+    "event:japanese-tofukuji",
+    "event:japanese-tsuchimikado",
+    "event:koreans-gaegyeong",
+    "event:koreans-heungdeoksa",
+    "event:koreans-sadang",
+    "event:koreans-sinan",
+    "event:lower-danube-crossing-376",
+    "event:mayans-ceren",
+    "event:mayans-chichicastenango",
+    "event:mayans-pakal",
+    "event:mayans-yaxchilan",
+    "event:meeting-of-moteuczoma-and-cortes-1519",
+    "event:mongols-happo",
+    "event:mongols-karakorum",
+    "event:mongols-rubruck",
+    "event:mongols-shangdu",
+    "event:mongols-tabriz",
+    "event:persians-isfahan",
+    "event:persians-naqsh-e-rostam",
+    "event:persians-nishapur",
+    "event:persians-tabriz",
+    "event:rhine-crossing-405-406",
+    "event:saracens-baghdad",
+    "event:saracens-fustat",
+    "event:saracens-jerusalem",
+    "event:saracens-rawda",
+    "event:skuldelev-two-construction",
+    "event:spanish-girona-sale",
+    "event:spanish-granada-lions",
+    "event:spanish-leon-1188",
+    "event:spanish-seville-games",
+    "event:stephen-anoints-pippin-and-sons-754",
+    "event:teutons-golden-bull",
+    "event:teutons-metz",
+    "event:teutons-naumburg",
+    "event:teutons-regensburg",
+    "event:teutons-speyer",
+    "event:turks-bursa",
+    "event:turks-divrigi",
+    "event:turks-konya",
+    "event:vikings-jelling",
+    "event:vikings-newfoundland",
+    "event:vikings-oseberg",
+    "event:vikings-peberrenden",
+    "event:wulfila-crossing-into-moesia",
+    "geometry:aquileia-orientation",
+    "geometry:ben-ezra-synagogue-fustat-orientation",
+    "geometry:bodmin-cornwall-orientation",
+    "geometry:carthage-orientation",
+    "geometry:college-of-santa-cruz-tlatelolco-orientation",
+    "geometry:court-of-the-lions-alhambra-granada-orientation",
+    "geometry:dome-of-the-rock-jerusalem-orientation",
+    "geometry:dunwich-suffolk-orientation",
+    "geometry:durostorum-orientation",
+    "geometry:frankfurt-am-main-orientation",
+    "geometry:friday-mosque-isfahan-orientation",
+    "geometry:gaegyeong-palace-district-in-present-day-kaesong-orientation",
+    "geometry:gangjin-kiln-area-near-sadang-ri-orientation",
+    "geometry:great-mosque-and-hospital-divrigi-orientation",
+    "geometry:hadrianopolis-edirne-orientation",
+    "geometry:hagia-sophia-constantinople-orientation",
+    "geometry:hakozaki-shrine-hakata-bay-orientation",
+    "geometry:happo-masan-bay-orientation",
+    "geometry:heungdeoksa-monastery-near-cheongju-orientation",
+    "geometry:huitzilopochco-modern-churubusco-orientation",
+    "geometry:iona-around-the-later-abbey-orientation",
+    "geometry:jelling-rune-stones-orientation",
+    "geometry:jewish-quarter-of-girona-orientation",
+    "geometry:joya-de-ceren-el-salvador-orientation",
+    "geometry:kaba-ye-zardost-naqsh-e-rostam-orientation",
+    "geometry:kaifeng-eastern-capital-of-the-northern-song-orientation",
+    "geometry:karakorum-in-the-orkhon-valley-orientation",
+    "geometry:karatay-madrasa-konya-orientation",
+    "geometry:koza-han-bursa-orientation",
+    "geometry:lanse-aux-meadows-newfoundland-orientation",
+    "geometry:leon-orientation",
+    "geometry:llandeilo-fawr-area-wales-orientation",
+    "geometry:london-orientation",
+    "geometry:luoyang-bridge-near-quanzhou-orientation",
+    "geometry:margus-near-dubravica-orientation",
+    "geometry:medieval-dublin-orientation",
+    "geometry:medieval-nishapur-orientation",
+    "geometry:metz-orientation",
+    "geometry:mount-jiuri-near-quanzhou-orientation",
+    "geometry:naissus-modern-nis-orientation",
+    "geometry:naumburg-cathedral-orientation",
+    "geometry:nicopolis-ad-istrum-orientation",
+    "geometry:nilometer-rawda-island-orientation",
+    "geometry:nuremberg-orientation",
+    "geometry:old-deer-area-buchan-orientation",
+    "geometry:oseberg-burial-mound-orientation",
+    "geometry:palatine-chapel-aachen-orientation",
+    "geometry:palenque-chiapas-orientation",
+    "geometry:peberrenden-near-skuldelev-roskilde-fjord-orientation",
+    "geometry:poitiers-pictavis-orientation",
+    "geometry:qingyuan-present-day-ningbo-orientation",
+    "geometry:rab-e-rashidi-tabriz-orientation",
+    "geometry:rome-orientation",
+    "geometry:saint-denis-basilica-orientation",
+    "geometry:san-vitale-ravenna-orientation",
+    "geometry:santo-tomas-chichicastenango-guatemala-orientation",
+    "geometry:seville-orientation",
+    "geometry:shangdu-xanadu-orientation",
+    "geometry:sinan-wreck-site-between-imjado-and-jeungdo-orientation",
+    "geometry:speyer-orientation",
+    "geometry:st-pauls-monastery-jarrow-orientation",
+    "geometry:stone-bridge-regensburg-orientation",
+    "geometry:strasbourg-orientation",
+    "geometry:templo-mayor-tenochtitlan-orientation",
+    "geometry:tenochtitlan-southern-approach-orientation",
+    "geometry:theodosian-harbour-yenikap-orientation",
+    "geometry:todai-ji-nara-orientation",
+    "geometry:tofuku-ji-kyoto-orientation",
+    "geometry:tsuchimikado-residence-heian-kyo-orientation",
+    "geometry:west-bank-of-the-tigris-baghdad-orientation",
+    "geometry:yaxchilan-on-the-usumacinta-orientation",
+    "organization:hakozaki-shrine",
+    "organization:tofuku-ji-temple",
+    "person:abd-al-malik-ibn-marwan",
+    "person:abu-jafar-al-mansur",
+    "person:ahmet-shah-of-divrigi",
+    "person:alaric-ii",
+    "person:alfonso-ix-of-leon",
+    "person:anthemios-of-tralles",
+    "person:attila-the-hun",
+    "person:bayezid-ii",
+    "person:bede-of-jarrow",
+    "person:cai-xiang",
+    "person:charlemagne",
+    "person:charles-the-bald",
+    "person:cingal-of-the-lichfield-gospels",
+    "person:clovis-i",
+    "person:columba-of-iona",
+    "person:cormac-bishop-of-dunkeld",
+    "person:emperor-charles-iv",
+    "person:empress-komyo",
+    "person:ete-of-buchan",
+    "person:francisco-ximenez",
+    "person:frederick-i-barbarossa",
+    "person:fritigern",
+    "person:fujiwara-no-shoshi",
+    "person:gartnait-son-of-cainnech",
+    "person:geiseric",
+    "person:gelhi-of-the-lichfield-gospels",
+    "person:gorm-the-old",
+    "person:guillaume-boucher-karakorum",
+    "person:gythiccael-of-bodmin",
+    "person:harald-bluetooth",
+    "person:henry-iii-of-england",
+    "person:herbord-of-regensburg",
+    "person:hernan-cortes",
+    "person:isidoros-of-miletos",
+    "person:itzamnaaj-bahlam-of-yaxchilan",
+    "person:jalal-al-din-karatay",
+    "person:justinian-i",
+    "person:kabal-xook-of-yaxchilan",
+    "person:kinich-janaab-pakal",
+    "person:kublai-khan",
+    "person:liu-bingzhong",
+    "person:louis-the-german",
+    "person:malintzin",
+    "person:maximian-of-ravenna",
+    "person:maximinus-envoy-449",
+    "person:mehmed-ii",
+    "person:meng-yuanlao",
+    "person:moteuczoma-ii",
+    "person:murasaki-shikibu",
+    "person:myodeok",
+    "person:nicetas-of-aquileia",
+    "person:ongynethel-of-bodmin",
+    "person:pippin-iii",
+    "person:plinthas-envoy",
+    "person:pope-leo-iii",
+    "person:pope-stephen-ii",
+    "person:priscus-of-panium",
+    "person:rashid-al-din-fadlallah",
+    "person:reglindis-of-meissen",
+    "person:robert-malet-of-dunwich",
+    "person:rudiger-huzmann-of-speyer",
+    "person:sak-kuk-of-palenque",
+    "person:shapur-i",
+    "person:taj-al-mulk",
+    "person:theodora-i",
+    "person:thyra-of-jelling",
+    "person:turan-melek-of-divrigi",
+    "person:uta-of-ballenstedt",
+    "person:valens-emperor",
+    "person:william-of-rubruck",
+    "person:wulfila",
+    "person:xu-jing",
+    "place:aquileia",
+    "place:ben-ezra-synagogue-fustat",
+    "place:bodmin-cornwall",
+    "place:carthage",
+    "place:college-of-santa-cruz-tlatelolco",
+    "place:court-of-the-lions-alhambra-granada",
+    "place:dome-of-the-rock-jerusalem",
+    "place:dunwich-suffolk",
+    "place:frankfurt-am-main",
+    "place:friday-mosque-isfahan",
+    "place:gaegyeong-palace-district-in-present-day-kaesong",
+    "place:gangjin-kiln-area-near-sadang-ri",
+    "place:great-mosque-and-hospital-divrigi",
+    "place:hadrianopolis-edirne",
+    "place:hagia-sophia-constantinople",
+    "place:hakozaki-shrine-hakata-bay",
+    "place:happo-masan-bay",
+    "place:heungdeoksa-monastery-near-cheongju",
+    "place:huitzilopochco-modern-churubusco",
+    "place:iona-around-the-later-abbey",
+    "place:jelling-rune-stones",
+    "place:jewish-quarter-of-girona",
+    "place:joya-de-ceren-el-salvador",
+    "place:kaba-ye-zardost-naqsh-e-rostam",
+    "place:kaifeng-eastern-capital-of-the-northern-song",
+    "place:karakorum-in-the-orkhon-valley",
+    "place:karatay-madrasa-konya",
+    "place:koza-han-bursa",
+    "place:lanse-aux-meadows-newfoundland",
+    "place:leon",
+    "place:llandeilo-fawr-area-wales",
+    "place:london",
+    "place:luoyang-bridge-near-quanzhou",
+    "place:margus-near-dubravica",
+    "place:medieval-dublin",
+    "place:medieval-nishapur",
+    "place:metz",
+    "place:mount-jiuri-near-quanzhou",
+    "place:naissus-modern-nis",
+    "place:naumburg-cathedral",
+    "place:nicopolis-ad-istrum",
+    "place:nilometer-rawda-island",
+    "place:nuremberg",
+    "place:old-deer-area-buchan",
+    "place:oseberg-burial-mound",
+    "place:palatine-chapel-aachen",
+    "place:palenque-chiapas",
+    "place:peberrenden-near-skuldelev-roskilde-fjord",
+    "place:poitiers-pictavis",
+    "place:qingyuan-present-day-ningbo",
+    "place:rab-e-rashidi-tabriz",
+    "place:rome",
+    "place:saint-denis-basilica",
+    "place:san-vitale-ravenna",
+    "place:santo-tomas-chichicastenango-guatemala",
+    "place:seville",
+    "place:shangdu-xanadu",
+    "place:sinan-wreck-site-between-imjado-and-jeungdo",
+    "place:speyer",
+    "place:st-pauls-monastery-jarrow",
+    "place:stone-bridge-regensburg",
+    "place:strasbourg",
+    "place:templo-mayor-tenochtitlan",
+    "place:tenochtitlan-southern-approach",
+    "place:theodosian-harbour-yenikap",
+    "place:todai-ji-nara",
+    "place:tofuku-ji-kyoto",
+    "place:tsuchimikado-residence-heian-kyo",
+    "place:west-bank-of-the-tigris-baghdad",
+    "place:yaxchilan-on-the-usumacinta",
+    "polity:goryeo",
+    "polity:yuan-dynasty",
+    "source:aks-goryeo",
+    "source:alfonso-games",
+    "source:alimov-meng-yuanlao",
+    "source:ammianus-res-gestae-31",
+    "source:aquileia-border",
+    "source:aquileia-unesco",
+    "source:archnet-round-city-baghdad",
+    "source:artem-clovis-parents-saint-denis",
+    "source:auxentius-life-of-wulfila",
+    "source:babaie-isfahan-mosques",
+    "source:blair-compendium",
+    "source:bnf-jikji-printing",
+    "source:bnf-strasbourg-oaths",
+    "source:bodmin-gospels",
+    "source:bonn-workshops",
+    "source:brady-languages",
+    "source:bruckner-san-vitale-sanctuary",
+    "source:bunka-bunei",
+    "source:bursa-koza-han-silk-bazaar",
+    "source:burton-proclamation",
+    "source:caedmon-bede",
+    "source:cambridge-anatolia-under-mongols",
+    "source:cambridge-discarded-history-genizah",
+    "source:carved-container",
+    "source:casiopeia-skuldelev-two-photo",
+    "source:ceren-date",
+    "source:ceren-plants",
+    "source:ceren-site",
+    "source:cheongju-museum-metal-type",
+    "source:christenson",
+    "source:cmn-history-saint-denis-basilica",
+    "source:cmn-saint-denis-site-coordinate",
+    "source:coflein-teilo",
+    "source:columbia-artisans",
+    "source:commons-strasbourg-oaths-extract",
+    "source:conlan-mongol-scrolls",
+    "source:cortes-second-print",
+    "source:cortes-welcome",
+    "source:costambeys-innes-maclean-carolingian-kingship",
+    "source:danube-gold",
+    "source:dedication-plaque",
+    "source:deer-gift",
+    "source:deer-gospel",
+    "source:deer-legal-notes",
+    "source:deer-location",
+    "source:donner-muhammad-and-believers",
+    "source:dublin-finds",
+    "source:dublin-waters",
+    "source:dunwich-domesday",
+    "source:dunwich-shore",
+    "source:egypt-monuments-historic-cairo",
+    "source:egypt-monuments-rawda-nilometer",
+    "source:einhard-life-of-charlemagne",
+    "source:ensemble-conquerors-player-manual",
+    "source:fafinski-jerome-rhine-2025",
+    "source:fan-li-sinan-port",
+    "source:fatih-ayasofya",
+    "source:florentine",
+    "source:frankfurt-capitulary-bk28",
+    "source:frankfurt-grain-and-bread",
+    "source:games-display",
+    "source:genomes-huns",
+    "source:getty-scribes",
+    "source:girona-parchment",
+    "source:girona-site",
+    "source:golden-bull-bohemia",
+    "source:golden-bull-chapters",
+    "source:golden-bull-ghi",
+    "source:golden-bull-henderson",
+    "source:granada-court",
+    "source:granada-lions",
+    "source:granada-poem",
+    "source:grand-canal-ningbo-map",
+    "source:gregory-tours-histories-ii-37",
+    "source:haferkamp-reich",
+    "source:hagia-sophia-met",
+    "source:happo-port",
+    "source:hedeman-royal-image-folio-107",
+    "source:heidrich-attigny-judgment",
+    "source:henry-proclamation",
+    "source:hls-teutonen",
+    "source:huitzilopochco",
+    "source:hydatius-prosper-africa",
+    "source:iberian-crowns",
+    "source:imperial-household-shosoin",
+    "source:initiale-f107r-monastic-habit",
+    "source:initiale-f107r-pippins-coronation",
+    "source:initiale-grandes-chroniques-ms782",
+    "source:iona-adomnan",
+    "source:iona-designation",
+    "source:iona-history",
+    "source:iranica-foundation",
+    "source:iranica-inscriptions-ancient-iran",
+    "source:iranica-naqsh-e-rostam",
+    "source:iranica-rashid-world-history-illustrations",
+    "source:iranica-sasanian-deportations",
+    "source:iranica-women-preislamic-persia",
+    "source:istanbul-world-heritage-maps",
+    "source:jarrow-site",
+    "source:jelling-location",
+    "source:jelling-pair",
+    "source:jelling-stone",
+    "source:jiuri-wind-inscriptions",
+    "source:juarez-dappe",
+    "source:kaesong-heritage-map",
+    "source:karakorum-survey",
+    "source:kelsey-carthage-1979",
+    "source:khalili-buddha",
+    "source:kim-sinan-boxes",
+    "source:konya-karatay-tile-museum",
+    "source:krause-slocum-wulfila",
+    "source:kuelzer-harbour-theodosius-yenikapi",
+    "source:kyoto-tsuchimikado-residence",
+    "source:kyushu-hakozaki-excavation",
+    "source:laes-zercon",
+    "source:leo-nicetas",
+    "source:leon-decreta",
+    "source:leveniotis-kalafikis-marcianople-2024",
+    "source:lichfield-gospels",
+    "source:lintel-twenty-four",
+    "source:london-getty",
+    "source:luoyang-bridge-quanzhou",
+    "source:maclagan-city-constantinople",
+    "source:madgearu-dating",
+    "source:margum-location",
+    "source:margum-site",
+    "source:masan-coordinate",
+    "source:mathisen-campus-vogladensis-2012",
+    "source:maya-script",
+    "source:meeting-locality",
+    "source:mendoza",
+    "source:meng-yuanlao-dongjing",
+    "source:met-byzantium-periods",
+    "source:met-city-of-nishapur",
+    "source:met-dome-rock-jerusalem",
+    "source:met-genji-transmission",
+    "source:met-goryeo-celadon",
+    "source:met-nishapur-bowl-image-record",
+    "source:met-nishapur-sabz-pushan-bowl",
+    "source:met-open-access-image-rights",
+    "source:met-san-vitale-dress",
+    "source:met-sasanian-empire",
+    "source:met-silks-ottoman-turkey",
+    "source:metz-geo",
+    "source:mexico-met",
+    "source:micheau-baghdad-imperial-foundation",
+    "source:microsoft-age-of-kings-1999",
+    "source:microsoft-conquerors-kb271891",
+    "source:microsoft-ensemble-age-of-kings-roster",
+    "source:miller-oxford-gothic-grammar",
+    "source:milwright-dome-rock-mosaics",
+    "source:moore-bede",
+    "source:morley-east",
+    "source:muehlbacher-pippin-verberie-752",
+    "source:mwnf-divrigi-mosque-hospital",
+    "source:mwnf-konya-karatay-madrasa",
+    "source:nahua-welcome",
+    "source:naissus-location",
+    "source:naming-welsh",
+    "source:national-archives-khubilai",
+    "source:naumburg-coordinates",
+    "source:naumburg-founders",
+    "source:naumburg-uta",
+    "source:newberry-popol",
+    "source:newfoundland-location",
+    "source:newfoundland-wood",
+    "source:nmk-celadon-roof-tile",
+    "source:nmk-goryeo-glory",
+    "source:nmk-lion-incense-burner",
+    "source:nmk-sadang-ri-kiln",
+    "source:nuremberg-geo",
+    "source:obrien-origins-royal-anointing",
+    "source:orkhon-coordinate",
+    "source:oseberg-location",
+    "source:oseberg-ship",
+    "source:oseberg-sleighs",
+    "source:oxford-yenikapi-harbour-location",
+    "source:ozsait-kocabas-yenikapi-twelve",
+    "source:palace-cast",
+    "source:palenque-site",
+    "source:parks-indigenous",
+    "source:petroc-site",
+    "source:pigafetta-stanley",
+    "source:pleiades-ancient-places",
+    "source:popol-edition",
+    "source:popol-wuj-opening-facsimile",
+    "source:posen-letter-students-father",
+    "source:possidius-life-augustine",
+    "source:pracy-manumissions",
+    "source:priscus-embassy",
+    "source:quanzhou-heritage-map",
+    "source:quanzhou-maritime-office",
+    "source:regensburg-bridge",
+    "source:ritscher-herbord",
+    "source:royal-frankish-annals-early-entries",
+    "source:rpc-carthage-location",
+    "source:rubruck-account",
+    "source:rudiger-1084",
+    "source:saint-denis-excavated-necropolises",
+    "source:saint-denis-royal-abbey-eighth-century",
+    "source:sainte-genevieve-ms782-107r-image",
+    "source:schaeferdiek-germanic-christianities",
+    "source:schaffhausen-galway",
+    "source:schlotheuber-languages",
+    "source:seokdu-warehouse",
+    "source:shozokan-mongol-scrolls",
+    "source:sinan-museum-collection",
+    "source:sinor-huns",
+    "source:skidmore-palenque",
+    "source:skuldelev-channel-location",
+    "source:skuldelev-ship-study",
+    "source:skuldelev-two-museum",
+    "source:speyer-juden",
+    "source:steffens-nithard-folio",
+    "source:steinacher-jerome-rhine-2025",
+    "source:szafranowski-council-agde-er903",
+    "source:templo-site",
+    "source:thorpe-freed",
+    "source:three-narratives",
+    "source:todd-sinan-cargo-tags",
+    "source:tokyo-museum-shosoin",
+    "source:tsuchimikado-nihon-rekishi-map",
+    "source:ulb-nithard-transmission",
+    "source:unesco-aachen-cathedral",
+    "source:unesco-divrigi-mosque-hospital-map",
+    "source:unesco-isfahan-friday-mosque-map",
+    "source:unesco-ravenna-monuments-map",
+    "source:usno-calendars",
+    "source:viking-word",
+    "source:wallace-hadrill-fredegar-fourth-book",
+    "source:watts-saracen-romance",
+    "source:welsh-reader",
+    "source:whelan-vandal-africa-timeline",
+    "source:wikidata-place-coordinates",
+    "source:wilkinson-nishapur-buildings",
+    "source:xanadu-site",
+    "source:ximenez-ms",
+    "source:yaxchilan-site",
+    "source:zosimus-new-history-5"
+  ],
+  "initialState": {
+    "camera": {
+      "longitude": 20,
+      "latitude": 34,
+      "metersPerPixel": 53000,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 260,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 260,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1715,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1715,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "discovery": {
+    "summary": {
+      "de": "Die 18 Völker aus The Age of Kings und The Conquerors. Lesewege verbinden ein irisches Schiffsholz, die Fracht von Sinan und die Begegnung am Zugang zu Tenochtitlan.",
+      "en": "The 18 civilizations of The Age of Kings and The Conquerors. Reading paths connect Irish ship timber, the cargo from Sinan and a meeting on the approach to Tenochtitlan."
+    },
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      },
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      },
+      {
+        "id": "postclassic-mesoamerica",
+        "labels": {
+          "de": "Mesoamerikanische Postklassik",
+          "en": "Postclassic Mesoamerica"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "british-isles",
+        "labels": {
+          "de": "Britische und irische Inseln",
+          "en": "Britain and Ireland"
+        }
+      },
+      {
+        "id": "east-asia",
+        "labels": {
+          "de": "Ostasien",
+          "en": "East Asia"
+        }
+      },
+      {
+        "id": "mesoamerica",
+        "labels": {
+          "de": "Mesoamerika",
+          "en": "Mesoamerica"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "id": "reading-guides",
+        "labels": {
+          "de": "Lesewege",
+          "en": "Reading guides"
+        }
+      },
+      {
+        "id": "age-of-empires-ii",
+        "labels": {
+          "de": "Age of Empires II",
+          "en": "Age of Empires II"
+        }
+      }
+    ]
+  }
+}

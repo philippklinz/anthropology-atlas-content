@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:coflein-teilo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "St Teilo’s Church Llandeilo, NPRN 100867",
+  "sourceType": "catalog",
+  "creators": [
+    "Royal Commission on the Ancient and Historical Monuments of Wales"
+  ],
+  "url": "https://coflein.gov.uk/en/sites/100867",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

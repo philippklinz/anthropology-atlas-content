@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:ben-ezra-synagogue-fustat-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.231,
+      30.0058
+    ]
+  }
+}

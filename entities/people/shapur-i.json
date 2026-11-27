@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:shapur-i",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iranica-inscriptions-ancient-iran",
+      "role": "supports",
+      "locator": "The Sasanian period, Naqš-e Rostam, in particular the trilingual inscription of Shapur I on the Kaʿba-ye Zardošt and its campaign narrative."
+    },
+    {
+      "sourceId": "source:iranica-naqsh-e-rostam",
+      "role": "supports",
+      "locator": "Site description and section on the Kaʿba-ye Zardošt, the Achaemenid tower facing the royal tombs."
+    },
+    {
+      "sourceId": "source:iranica-sasanian-deportations",
+      "role": "supports",
+      "locator": "Paragraphs on Šāpūr I, Valerian’s capture in 260 and the three versions of the inscription on resettlement."
+    },
+    {
+      "sourceId": "source:iranica-women-preislamic-persia",
+      "role": "supports",
+      "locator": "Sasanian dynasty, Shapur’s inscription listing royal women and daily offerings for the sacred fires."
+    },
+    {
+      "sourceId": "source:met-sasanian-empire",
+      "role": "supports",
+      "locator": "Shapur I and his wars with Rome. Final paragraphs on the seventh-century Arab conquests and the end of the dynasty."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Schapur I.",
+    "en": "Shapur I"
+  }
+}

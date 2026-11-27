@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ulb-nithard-transmission",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "La conservation du texte des Serments",
+  "sourceType": "article",
+  "creators": [
+    "Université libre de Bruxelles, Histoire du français"
+  ],
+  "url": "https://histolf.ulb.be/index.php/brunot-les-serments-de-strasbourg/la-conservation-du-texte-des-serments",
+  "language": "fr",
+  "accessedAt": "2026-11-27"
+}

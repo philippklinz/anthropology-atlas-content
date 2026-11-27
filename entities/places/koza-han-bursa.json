@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:koza-han-bursa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-koza-han-silk-bazaar",
+      "role": "supports",
+      "locator": "Building history: opening on 30 September 1491, Bayezid II, Abdülûlâ bin Pulad Shah, financing of charitable buildings in Istanbul, warehouses, stable and courtyard."
+    },
+    {
+      "sourceId": "source:met-silks-ottoman-turkey",
+      "role": "supports",
+      "locator": "Opening discussion of Bursa’s markets for Iranian raw silk, the international trade and the growth of local production."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Koza Han, Bursa",
+    "en": "Koza Han, Bursa"
+  }
+}

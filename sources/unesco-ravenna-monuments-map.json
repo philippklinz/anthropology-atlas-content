@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:unesco-ravenna-monuments-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Early Christian Monuments of Ravenna — Maps",
+  "sourceType": "dataset",
+  "creators": [
+    "UNESCO World Heritage Centre"
+  ],
+  "url": "https://whc.unesco.org/en/list/788/maps/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

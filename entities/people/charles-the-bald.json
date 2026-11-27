@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:charles-the-bald",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bnf-strasbourg-oaths",
+      "role": "supports",
+      "locator": "Notice FRBNF12067726, notes on the four oaths on 14 February 842, languages of the two kings and of their followers, and shelfmark Latin 9768."
+    },
+    {
+      "sourceId": "source:ulb-nithard-transmission",
+      "role": "supports",
+      "locator": "Paragraphs on the surviving manuscripts of Nithard and Paris, Latin 9768, fol. 13r–v."
+    },
+    {
+      "sourceId": "source:steffens-nithard-folio",
+      "role": "supports",
+      "locator": "Plate and commentary headed Paris, Bibliothèque Nationale, Ms. lat. 9768, fols. 13r and 13v. Text and translation: reciprocal obligations and the condition under which followers withhold support."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Karl der Kahle",
+    "en": "Charles the Bald"
+  }
+}

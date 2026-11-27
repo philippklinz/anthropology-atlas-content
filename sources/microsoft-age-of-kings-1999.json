@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:microsoft-age-of-kings-1999",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Microsoft Age of Empires II: The Age of Kings catapults onto store shelves",
+  "sourceType": "website",
+  "creators": [
+    "Microsoft"
+  ],
+  "url": "https://news.microsoft.com/source/1999/10/18/microsoft-age-of-empires-ii-the-age-of-kings-catapults-onto-store-shelves/",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1999"
+}

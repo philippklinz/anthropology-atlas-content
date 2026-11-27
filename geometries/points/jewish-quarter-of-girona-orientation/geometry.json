@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:jewish-quarter-of-girona-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:girona-parchment",
+      "role": "supports",
+      "locator": "Collection MHJ035. 10 July 1492, leaders of Girona’s Jewish community, cathedral canons, sale for 300 lliures made under Ferdinand’s expulsion order. Latin parchment in Girona Municipal Archive; related deeds sewn into a 3.6-metre roll of eleven documents."
+    },
+    {
+      "sourceId": "source:girona-site",
+      "role": "supports",
+      "locator": "Opening paragraphs: the last medieval synagogue of Girona was built in 1435 on the site now occupied by the museum and used until 1492."
+    },
+    {
+      "sourceId": "source:iberian-crowns",
+      "role": "supports",
+      "locator": "Chapter 1, Historical Setting, Ferdinand and Isabella. The personal union and the continuing separate political institutions in Castile, Aragon, Catalonia and Valencia."
+    },
+    {
+      "sourceId": "source:wikidata-place-coordinates",
+      "role": "derivation",
+      "locator": "Q11910916, coordinate location (P625). General orientation at the named site."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Wikidata contributors",
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Wikidata contributors, Q11910916 (P625), CC0. Orientation point rounded by Anthropology Atlas contributors.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://www.wikidata.org/wiki/Q11910916"
+  }
+}

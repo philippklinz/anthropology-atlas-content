@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:oseberg-burial-mound",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:oseberg-sleighs",
+      "role": "supports",
+      "locator": "Opening account of the burial and the four sleighs, followed by “Carvings and ornamentation”. The museum distinguishes three richly carved sleighs and discusses their use before burial."
+    },
+    {
+      "sourceId": "source:viking-word",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Chronicle and the Irish annals, Old Norse víking/víkingr and the raiding voyages underlying one sense of the term."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Grabhügel von Oseberg",
+    "en": "Oseberg burial mound"
+  }
+}

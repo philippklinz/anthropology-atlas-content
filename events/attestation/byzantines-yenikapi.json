@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:byzantines-yenikapi",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ozsait-kocabas-yenikapi-twelve",
+      "role": "supports",
+      "locator": "Introduction, Figures 1 and 2, Table 1, “General characteristics” and reconstruction. Site plan, location of cargo and crew items, cherries and coin, calibrated timber dates, reconstructed dimensions."
+    },
+    {
+      "sourceId": "source:kuelzer-harbour-theodosius-yenikapi",
+      "role": "supports",
+      "locator": "The Byzantine Harbours of Constantinople, Fig. 9 and accompanying text and note 141 on YK 12 and the proposed season of sinking."
+    },
+    {
+      "sourceId": "source:oxford-yenikapi-harbour-location",
+      "role": "supports",
+      "locator": "Shipwrecks Database, entry 997: site-level coordinates 41.00447° N, 28.95249° E for Yenikapı. The point locates the excavation area, not the individual hull."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Küstenschiff im Theodosiushafen",
+    "en": "A coastal trader in the Theodosian harbour"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:yenikapi-wreck-twelve",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:theodosian-harbour-yenikap"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:theodosian-harbour-yenikap-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 801,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 900,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Münze und Amphoren stützen die Datierung des Wracks YK 12 ins neunte Jahrhundert. Der Punkt markiert das Ausgrabungsgebiet im Hafen.",
+      "en": "A coin and amphoras support a ninth-century date for wreck YK 12. The point identifies the harbour excavation area."
+    }
+  }
+}

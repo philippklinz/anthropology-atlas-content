@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:qingyuan-present-day-ningbo-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.5572,
+      29.8747
+    ]
+  }
+}

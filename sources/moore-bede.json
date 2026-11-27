@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:moore-bede",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Cambridge, University Library, MS Kk.5.16 (the Moore Bede)",
+  "sourceType": "catalog",
+  "creators": [
+    "Cambridge University Library"
+  ],
+  "url": "https://medieval.lib.cam.ac.uk/catalogue/University%20Library/MS-KK-00005-00016",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

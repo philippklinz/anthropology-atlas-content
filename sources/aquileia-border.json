@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:aquileia-border",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Aquileia: A Border City",
+  "sourceType": "book",
+  "creators": [
+    "Fondazione Aquileia, contributions by Jacopo Bonetto and Cristiano Tiussi"
+  ],
+  "url": "https://www.fondazioneaquileia.it/files/allegati/aquileia_a_border_city_eng.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

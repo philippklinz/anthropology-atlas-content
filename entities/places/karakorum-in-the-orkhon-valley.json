@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:karakorum-in-the-orkhon-valley",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bonn-workshops",
+      "role": "supports",
+      "locator": "City-centre excavations, figs. 3–7. Wooden anvil bases with bronze dust, scrap bronze, the silver coin of 1237/38 from Karakorum’s mint, gravel, paving and trade activities."
+    },
+    {
+      "sourceId": "source:karakorum-survey",
+      "role": "supports",
+      "locator": "Introduction, Historical background and city access discussion at fig. 7. Location on the Orkhon, residence under Ögödei, Rubruck’s visit in 1254, east-gate roads and dense settlement outside the walls. Published online 2021."
+    },
+    {
+      "sourceId": "source:columbia-artisans",
+      "role": "supports",
+      "locator": "Section on artisans, especially the final paragraph on recruitment for construction under Ögödei at Karakorum and under Khubilai at Shangdu and Daidu."
+    },
+    {
+      "sourceId": "source:rubruck-account",
+      "role": "supports",
+      "locator": "Paragraph beginning “A certain woman from Metz” (Paquette, her family and the Parisian goldsmith); “The Khan’s palace at Karakorum” (the silver tree, bellows, trumpet and servers); “Description of Karakorum” (grain and livestock at the gates). Translation published in 1900."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Karakorum im Orchontal",
+    "en": "Karakorum in the Orkhon valley"
+  }
+}

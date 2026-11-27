@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:tsuchimikado-nihon-rekishi-map",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "土御門殿跡 [270000201500]",
+  "sourceType": "dataset",
+  "creators": [
+    "Center for Open Data in the Humanities, Research Organization of Information and Systems"
+  ],
+  "url": "https://geoshape.ex.nii.ac.jp/nrct-poi/resource/27/270000201500.html",
+  "language": "ja",
+  "accessedAt": "2026-11-27"
+}

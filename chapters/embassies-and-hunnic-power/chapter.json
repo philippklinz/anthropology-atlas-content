@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:embassies-and-hunnic-power",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:margum-site",
+      "role": "supports",
+      "locator": "Opening topographical description and fig. 1. Margum near the confluence of the Morava and Danube at Orašje, Dubravica. Distinction from the fort opposite."
+    },
+    {
+      "sourceId": "source:danube-gold",
+      "role": "supports",
+      "locator": "pp. 296–297 and n. 6. Priscus on the increase from 350 to 700 pounds and probable date 434. Discussion of fugitive claims in later agreements."
+    },
+    {
+      "sourceId": "source:morley-east",
+      "role": "supports",
+      "locator": "pp. 69–71, esp. nn. 107–114. Treaty of Margus dated to 435, conditions for Hunnic merchants, extradition of fugitives, and annual payment."
+    },
+    {
+      "sourceId": "source:madgearu-dating",
+      "role": "supports",
+      "locator": "Peuce 8, p. 177 and n. 37. Compares the usual date of 435 with Constantin Zuckerman’s winter 439/440 based on the quaestorship of Epigenes."
+    },
+    {
+      "sourceId": "source:sinor-huns",
+      "role": "supports",
+      "locator": "The Cambridge History of Early Inner Asia, ch. 7. In the section on negotiations after Rua’s death, Sinor identifies Plintha, the quaestor Epigenes and Hunnic representatives as the negotiators near Margus."
+    },
+    {
+      "sourceId": "source:margum-location",
+      "role": "supports",
+      "locator": "Site 20967, Location. Georeference of the ancient town, also identified as Pleiades 207267."
+    },
+    {
+      "sourceId": "source:ammianus-res-gestae-31",
+      "role": "supports",
+      "locator": "31.3.8–31.4.13. The Tervingi ask Valens for admission at the lower Danube."
+    },
+    {
+      "sourceId": "source:priscus-embassy",
+      "role": "supports",
+      "locator": "Fr. 8 in Fragmenta Historicorum Graecorum. Naissus and the five deserters, monoxyles and the storm, Bleda’s wife and thanksgiving gifts, encounter with the former merchant at the residence."
+    },
+    {
+      "sourceId": "source:laes-zercon",
+      "role": "supports",
+      "locator": "p. 31 and n. 5, on Priscus as secretary to Maximinus in summer 449, the sequence of known towns and unnamed villages and the unknown location of Attila’s wooden palace."
+    },
+    {
+      "sourceId": "source:naissus-location",
+      "role": "supports",
+      "locator": "Site 2076, Location and Identifiers (Pleiades 207303). Representative point for the ancient town."
+    },
+    {
+      "sourceId": "source:aquileia-border",
+      "role": "supports",
+      "locator": "Bonetto and Tiussi, city history on pp. 16–17. The sack in 452, its impact and continuing settlement around the episcopal complex. Photographs and plans of the river port."
+    },
+    {
+      "sourceId": "source:aquileia-unesco",
+      "role": "supports",
+      "locator": "Brief synthesis and property 825quater. Role of Mediterranean trade routes and the river port, surviving quays and warehouses, coordinate of the archaeological area."
+    },
+    {
+      "sourceId": "source:leo-nicetas",
+      "role": "supports",
+      "locator": "Letter 159, preface and sections II–V, VIII and closing date. Adeodatus delivers the inquiry, return of captives, the bishop’s marriage ruling and its requested circulation, 21 March 458."
+    },
+    {
+      "sourceId": "source:genomes-huns",
+      "role": "supports",
+      "locator": "PNAS 122, e2418485122, abstract and Discussion. Distinctive connections of some individuals, diverse backgrounds, and limits of population-wide inference."
+    }
+  ],
+  "labels": {
+    "de": "Hunnen – Wer durfte über die Donau? Unterwegs zu Attila",
+    "en": "Huns – Who could cross the Danube? A journey to Attila"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:huns-margus",
+    "event:huns-naissus",
+    "event:huns-aquileia",
+    "event:huns-nicetas",
+    "person:plinthas-envoy",
+    "person:priscus-of-panium",
+    "person:maximinus-envoy-449",
+    "person:attila-the-hun"
+  ],
+  "steps": [
+    {
+      "id": "margus",
+      "textAnchor": "margus",
+      "labels": {
+        "de": "434/435 oder Winter 439/440 · Der Vertrag bei Margus",
+        "en": "434/435 or winter 439/440 · The agreement near Margus"
+      },
+      "summary": {
+        "de": "Die Unterhändler vereinbarten Zahlungen, Handel und die Auslieferung Geflohener. Der Punkt bezeichnet die antike Stadt als Orientierung für die Verhandlungen in ihrer Nähe.",
+        "en": "Negotiators agreed on payments, trading and the return of fugitives. The point identifies the ancient town near the reported meeting place."
+      },
+      "state": {
+        "camera": {
+          "longitude": 21.0501,
+          "latitude": 44.708,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 434,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 440,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "naissus",
+      "textAnchor": "naissus",
+      "labels": {
+        "de": "449 · Priskos in der verwüsteten Stadt",
+        "en": "449 · Priscus in the damaged city"
+      },
+      "summary": {
+        "de": "Priskos kam durch Naissus. In der Nähe übergab ein römischer Befehlshaber der Gesandtschaft fünf Männer. Der Punkt markiert die Stadt. Attilas spätere Residenz ist räumlich ungewiss.",
+        "en": "Priscus passed through Naissus. Nearby a Roman commander handed five men to his embassy. The map locates the town. The residence reached later in the journey cannot be securely placed."
+      },
+      "state": {
+        "camera": {
+          "longitude": 21.8963,
+          "latitude": 43.3194,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 449,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 449,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "aquileia",
+      "textAnchor": "aquileia",
+      "labels": {
+        "de": "452 · Die Plünderung der Hafenstadt",
+        "en": "452 · The sack of the port city"
+      },
+      "summary": {
+        "de": "Attilas Heer nahm Aquileia ein. Das spätere Leben um den Bischofssitz lässt sich auch nach der Plünderung verfolgen.",
+        "en": "Attila’s army captured Aquileia. Settlement around the episcopal complex continued after the sack."
+      },
+      "state": {
+        "camera": {
+          "longitude": 13.3675,
+          "latitude": 45.7683,
+          "metersPerPixel": 1000,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 452,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 452,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "nicetas",
+      "textAnchor": "nicetas",
+      "labels": {
+        "de": "458 · Ein Brief für den Bischof von Aquileia",
+        "en": "458 · A letter for the bishop of Aquileia"
+      },
+      "summary": {
+        "de": "Leo beantwortete Nicetas’ Fragen nach Familien, die eine Gefangenschaft getrennt hatte. Auf der Karte steht Aquileia als Bischofssitz des Adressaten.",
+        "en": "Leo answered Nicetas’s questions about families separated by captivity. Aquileia marks the episcopal seat of the recipient."
+      },
+      "state": {
+        "camera": {
+          "longitude": 13.3675,
+          "latitude": 45.7683,
+          "metersPerPixel": 900,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 458,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 458,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Ein Abkommen bei Margus regelt Goldzahlungen und die Auslieferung von Flüchtlingen. Der Bericht des Priskos und eine Anfrage aus Aquileia erzählen, was eine Gefangenschaft für eine Familie bedeuten konnte.",
+      "en": "A treaty near Margus regulated gold payments and the surrender of fugitives. Priscus’s journey and a request from Aquileia show what captivity could mean for a family."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "the-conquerors",
+        "labels": {
+          "de": "The Conquerors (2000)",
+          "en": "The Conquerors (2000)"
+        }
+      },
+      {
+        "id": "huns",
+        "labels": {
+          "de": "Hunnen",
+          "en": "Huns"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "late-antiquity",
+        "labels": {
+          "de": "Spätantike",
+          "en": "Late Antiquity"
+        },
+        "description": {
+          "de": "Die Kapitel zur Völkerwanderung führen durch die spätrömische Welt. Die Funde an der unteren Weichsel reichen in die römische Kaiserzeit zurück und gehören zur Vorgeschichte der Reihe.",
+          "en": "These chapters follow the Migration Period in the late Roman world. Evidence on the lower Vistula goes back to the Roman Imperial period and introduces the earlier history of the series."
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "central-europe",
+        "labels": {
+          "de": "Mitteleuropa",
+          "en": "Central Europe"
+        }
+      },
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 17.6319,
+      "latitude": 44.54385,
+      "metersPerPixel": 2114,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 434,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 434,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 458,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 458,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "event:huns-aquileia",
+    "event:huns-margus",
+    "event:huns-naissus",
+    "event:huns-nicetas",
+    "geometry:aquileia-orientation",
+    "geometry:margus-near-dubravica-orientation",
+    "geometry:naissus-modern-nis-orientation",
+    "person:attila-the-hun",
+    "person:maximinus-envoy-449",
+    "person:nicetas-of-aquileia",
+    "person:plinthas-envoy",
+    "person:priscus-of-panium",
+    "place:aquileia",
+    "place:margus-near-dubravica",
+    "place:naissus-modern-nis",
+    "source:ammianus-res-gestae-31",
+    "source:aquileia-border",
+    "source:aquileia-unesco",
+    "source:danube-gold",
+    "source:genomes-huns",
+    "source:laes-zercon",
+    "source:leo-nicetas",
+    "source:madgearu-dating",
+    "source:margum-location",
+    "source:margum-site",
+    "source:morley-east",
+    "source:naissus-location",
+    "source:priscus-embassy",
+    "source:sinor-huns"
+  ]
+}

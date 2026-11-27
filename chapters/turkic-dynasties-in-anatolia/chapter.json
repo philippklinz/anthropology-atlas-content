@@ -1,0 +1,387 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:turkic-dynasties-in-anatolia",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mwnf-divrigi-mosque-hospital",
+      "role": "supports",
+      "locator": "Date of Monument, Description and How Monument was dated. Separate patrons and portals, foundation AH 626, minbar dated AH 638, signatures and carving."
+    },
+    {
+      "sourceId": "source:unesco-divrigi-mosque-hospital-map",
+      "role": "supports",
+      "locator": "Map and geographical references for World Heritage property 358, the adjoining great mosque and hospital."
+    },
+    {
+      "sourceId": "source:mwnf-konya-karatay-madrasa",
+      "role": "supports",
+      "locator": "Patron, date of construction AH 649 as stated in the 1253 foundation deed, and description of the tiled court, pool, dome and gates."
+    },
+    {
+      "sourceId": "source:konya-karatay-tile-museum",
+      "role": "supports",
+      "locator": "Müze Hakkında, Karatay’s patronage and studies of hadith and Quranic commentary. Yol Tarifi gives the museum location."
+    },
+    {
+      "sourceId": "source:cambridge-anatolia-under-mongols",
+      "role": "supports",
+      "locator": "The Cambridge History of Turkey, chapter 3. The Seljuks of Rum and Mongol power after Kösedağ."
+    },
+    {
+      "sourceId": "source:hagia-sophia-met",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Nika fire, dedication on 27 December 537, architects, vault, 558 collapse, 562 rebuilding and decoration. Closing paragraphs on conversion under Mehmed II in 1453 and subsequent Ottoman additions."
+    },
+    {
+      "sourceId": "source:fatih-ayasofya",
+      "role": "supports",
+      "locator": "Building history, from the conversion of the patriarchal cathedral under Mehmed II in 1453 to the successive Ottoman minarets."
+    },
+    {
+      "sourceId": "source:istanbul-world-heritage-maps",
+      "role": "supports",
+      "locator": "Sultanahmet Urban Archaeological Component Area, component 356bis-001, Istanbul historic peninsula. The atlas places the church within the mapped area."
+    },
+    {
+      "sourceId": "source:maclagan-city-constantinople",
+      "role": "supports",
+      "locator": "Discussion of the orientation of St Sophia and the position of the mihrab and pulpit in the converted mosque."
+    },
+    {
+      "sourceId": "source:bursa-koza-han-silk-bazaar",
+      "role": "supports",
+      "locator": "Building history: opening on 30 September 1491, Bayezid II, Abdülûlâ bin Pulad Shah, financing of charitable buildings in Istanbul, warehouses, stable and courtyard."
+    },
+    {
+      "sourceId": "source:met-silks-ottoman-turkey",
+      "role": "supports",
+      "locator": "Opening discussion of Bursa’s markets for Iranian raw silk, the international trade and the growth of local production."
+    }
+  ],
+  "labels": {
+    "de": "Türken – Eine Stifterin in Divriği und die Händler von Bursa",
+    "en": "Turks – A hospital patron at Divriği and the traders of Bursa"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:turks-divrigi",
+    "event:turks-konya",
+    "event:hagia-sophia-conversion-1453",
+    "event:turks-bursa",
+    "person:turan-melek-of-divrigi",
+    "person:ahmet-shah-of-divrigi",
+    "person:jalal-al-din-karatay",
+    "person:mehmed-ii"
+  ],
+  "steps": [
+    {
+      "id": "divrigi",
+      "textAnchor": "divrigi",
+      "labels": {
+        "de": "1228/29, Jahr 626 der Hidschra · Zwei Stifter am selben Hang",
+        "en": "1228–29, year 626 of the Hijra · Two patrons on one hillside"
+      },
+      "summary": {
+        "de": "Zwei Bauinschriften trennen die Aufträge innerhalb einer Herrscherfamilie. Ahmet Schah stiftete die große Moschee. Turan Melek gab das benachbarte Hospital in Auftrag.",
+        "en": "Two inscriptions distinguish the commissions of members of the same ruling family. Ahmet Shah endowed the great mosque, while Turan Melek commissioned the adjoining hospital."
+      },
+      "state": {
+        "camera": {
+          "longitude": 38.12183,
+          "latitude": 39.37127,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1228,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1229,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "konya",
+      "textAnchor": "konya",
+      "labels": {
+        "de": "1251/52, Jahr 649 der Hidschra · Karatays Stiftung für Unterricht",
+        "en": "1251–52, year 649 of the Hijra · Karatay’s foundation for teaching"
+      },
+      "summary": {
+        "de": "Die Stiftungsurkunde nennt 649 der Hidschra als Baujahr der Medrese. Im erhaltenen Bau zeigen Kuppel, Wasserbecken und mosaizierte Fliesen, wie der Unterrichtsort eingerichtet war.",
+        "en": "The endowment deed dates the madrasa’s construction to AH 649. Its dome, pool and mosaic tiles preserve the arrangement of the place of learning."
+      },
+      "state": {
+        "camera": {
+          "longitude": 32.4929,
+          "latitude": 37.87503,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1251,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1252,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "hagia-sophia-1453",
+      "textAnchor": "hagia-sophia-1453",
+      "labels": {
+        "de": "1453 · Mehmeds Moschee und die Gebetsrichtung",
+        "en": "1453 · Mehmed’s mosque and its prayer direction"
+      },
+      "summary": {
+        "de": "Mehmed II. ließ die Hagia Sophia zur Moschee einrichten. Ihre Apsis und die Gebetsrichtung nach Mekka geben dem Innenraum leicht unterschiedliche Achsen.",
+        "en": "Mehmed II had Hagia Sophia converted into a mosque. The apse and the direction of prayer towards Mecca give its interior two slightly different axes."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.98017,
+          "latitude": 41.00858,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1453,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1453,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "bursa",
+      "textAnchor": "bursa",
+      "labels": {
+        "de": "1491 · Die Eröffnung des Koza Han",
+        "en": "1491 · The opening of the Koza Han"
+      },
+      "summary": {
+        "de": "Bayezid II. ließ in Bursa eine Handelsherberge errichten. Ihre Einnahmen versorgten Moscheen und Schulen in Istanbul. Im Hof und in den Magazinen arbeiteten Menschen des Seidenhandels.",
+        "en": "Bayezid II commissioned a trading inn in Bursa to generate revenue for mosques and schools in Istanbul. The courtyard and warehouses accommodated people who made their living from silk."
+      },
+      "state": {
+        "camera": {
+          "longitude": 29.06361,
+          "latitude": 40.18444,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1491,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1491,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Die Stifterin eines Hospitals ließ ihren Namen über dessen Eingang schreiben. Von Divriği führt der Weg in den Hof einer Schule in Konya, zur umgewandelten Hagia Sophia in Konstantinopel und zu den Seidenhändlern von Bursa.",
+      "en": "A patron had her name carved over her hospital entrance. From Divriği, the chapter turns to a school courtyard at Konya, the first Ottoman worshippers at Hagia Sophia and a trading inn in Bursa."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "turks",
+        "labels": {
+          "de": "Türken",
+          "en": "Turks"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "anatolia",
+        "labels": {
+          "de": "Anatolien",
+          "en": "Anatolia"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 33.551,
+      "latitude": 39.44181,
+      "metersPerPixel": 2456,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 1228,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1228,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1491,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1491,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "event:hagia-sophia-conversion-1453",
+    "event:turks-bursa",
+    "event:turks-divrigi",
+    "event:turks-konya",
+    "geometry:great-mosque-and-hospital-divrigi-orientation",
+    "geometry:hagia-sophia-constantinople-orientation",
+    "geometry:karatay-madrasa-konya-orientation",
+    "geometry:koza-han-bursa-orientation",
+    "person:ahmet-shah-of-divrigi",
+    "person:bayezid-ii",
+    "person:jalal-al-din-karatay",
+    "person:mehmed-ii",
+    "person:turan-melek-of-divrigi",
+    "place:great-mosque-and-hospital-divrigi",
+    "place:hagia-sophia-constantinople",
+    "place:karatay-madrasa-konya",
+    "place:koza-han-bursa",
+    "source:bursa-koza-han-silk-bazaar",
+    "source:cambridge-anatolia-under-mongols",
+    "source:fatih-ayasofya",
+    "source:hagia-sophia-met",
+    "source:istanbul-world-heritage-maps",
+    "source:konya-karatay-tile-museum",
+    "source:maclagan-city-constantinople",
+    "source:met-byzantium-periods",
+    "source:met-silks-ottoman-turkey",
+    "source:mwnf-divrigi-mosque-hospital",
+    "source:mwnf-konya-karatay-madrasa",
+    "source:unesco-divrigi-mosque-hospital-map",
+    "source:wikidata-place-coordinates"
+  ]
+}

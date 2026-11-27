@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:franks-frankfurt",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:frankfurt-grain-and-bread",
+      "role": "supports",
+      "locator": "Ch. 4 in the translation of Cave and Coulson, p. 130. Separate prices for ordinary grain and the king’s stocks, numbers and weight of loaves, and the final provision on unfree dependants."
+    },
+    {
+      "sourceId": "source:frankfurt-capitulary-bk28",
+      "role": "supports",
+      "locator": "Date and editions, Boretius, no. 28, pp. 73–78; ch. 4, grain and baked bread at Frankfurt in 794."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Wie viel Brot für einen Denar?",
+    "en": "How much bread for one denarius?"
+  },
+  "participants": [
+    {
+      "entityId": "person:charlemagne",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:frankfurt-capitulary-794",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:frankfurt-am-main"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:frankfurt-am-main-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 794,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 794,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "In Frankfurt erließ die Versammlung Regeln für Getreide und Brot. Die Zahlen geben die Vorschrift wieder. Einen tatsächlichen Einkauf überliefern sie uns nicht.",
+      "en": "The assembly at Frankfurt set rates for grain and bread. These figures come from the ordinance. An individual purchase would require further evidence."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:oseberg-ship",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "A Brief Introduction to the Oseberg Ship",
+  "sourceType": "catalog",
+  "creators": [
+    "Museum of the Viking Age, University of Oslo"
+  ],
+  "url": "https://www.vikingtidsmuseet.no/english/news/brief-intro-the-oseberg-ship.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

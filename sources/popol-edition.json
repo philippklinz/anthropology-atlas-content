@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:popol-edition",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Purpose of the Edition",
+  "sourceType": "website",
+  "creators": [
+    "Popol Wuj online facsimile project, Universidad Mesoamericana, Ohio State University Libraries, Newberry Library"
+  ],
+  "url": "https://library.osu.edu/projects/popolwuj/pdfs/Purpose_edition.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

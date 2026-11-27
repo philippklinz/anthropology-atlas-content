@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:viking-word",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Vikings (780–1100)",
+  "sourceType": "article",
+  "creators": [
+    "Department of Medieval Art and The Cloisters, The Metropolitan Museum of Art"
+  ],
+  "url": "https://www.metmuseum.org/essays/the-vikings-780-1100",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

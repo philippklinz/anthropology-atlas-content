@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:fustat-synagogue-inventory-1080",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:cambridge-discarded-history-genizah",
+      "role": "supports",
+      "locator": "Synagogue, item 3, inventory dated 1080, T-S 20.47. Schoolroom, item 2, letter T-S Ar.53.65, separately dated to the eleventh or twelfth century."
+    },
+    {
+      "sourceId": "source:posen-letter-students-father",
+      "role": "supports",
+      "locator": "Translated letter and catalogue data for T-S Ar.53.65, including the note about the child’s writing board."
+    },
+    {
+      "sourceId": "source:egypt-monuments-historic-cairo",
+      "role": "supports",
+      "locator": "Account of the foundation of the Fatimid city in 969 in relation to the older settlements."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Synagogeninventar von Fustat, T-S 20.47",
+    "en": "Fustat synagogue inventory, T-S 20.47"
+  }
+}

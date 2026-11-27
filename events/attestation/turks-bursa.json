@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:turks-bursa",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bursa-koza-han-silk-bazaar",
+      "role": "supports",
+      "locator": "Building history: opening on 30 September 1491, Bayezid II, Abdülûlâ bin Pulad Shah, financing of charitable buildings in Istanbul, warehouses, stable and courtyard."
+    },
+    {
+      "sourceId": "source:met-silks-ottoman-turkey",
+      "role": "supports",
+      "locator": "Opening discussion of Bursa’s markets for Iranian raw silk, the international trade and the growth of local production."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Die Eröffnung des Koza Han",
+    "en": "The opening of the Koza Han"
+  },
+  "participants": [
+    {
+      "entityId": "person:bayezid-ii",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:koza-han-bursa"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:koza-han-bursa-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1491,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1491,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Bayezid II. ließ in Bursa eine Handelsherberge errichten. Ihre Einnahmen versorgten Moscheen und Schulen in Istanbul. Im Hof und in den Magazinen arbeiteten Menschen des Seidenhandels.",
+      "en": "Bayezid II commissioned a trading inn in Bursa to generate revenue for mosques and schools in Istanbul. The courtyard and warehouses accommodated people who made their living from silk."
+    }
+  }
+}

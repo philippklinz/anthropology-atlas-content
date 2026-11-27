@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:mount-jiuri-near-quanzhou-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.5293,
+      24.9524
+    ]
+  }
+}

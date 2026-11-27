@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:imperial-household-shosoin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Shosoin Repository",
+  "sourceType": "website",
+  "creators": [
+    "Imperial Household Agency"
+  ],
+  "url": "https://www.kunaicho.go.jp/en/learn/institution/shisetsu/kyoto/shosoin01.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

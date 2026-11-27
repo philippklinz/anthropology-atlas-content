@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:popol-wuj-opening-facsimile",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Popol vuh.jpg (first page of the Popol Vuh manuscript)",
+  "sourceType": "catalog",
+  "creators": [
+    "Francisco Ximénez (transcription and translation); Wikimedia Commons (image record)"
+  ],
+  "url": "https://commons.wikimedia.org/wiki/File:Popol_vuh.jpg",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:golden-bull-chapters",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Gedächtnis der Zukunft: Die Goldene Bulle",
+  "sourceType": "website",
+  "creators": [
+    "Deutsche UNESCO-Kommission"
+  ],
+  "url": "https://www.unesco.de/assets/dokumente/Kultur/04_MoW/Weltdokumentenerbe_Plakate_2023.pdf",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

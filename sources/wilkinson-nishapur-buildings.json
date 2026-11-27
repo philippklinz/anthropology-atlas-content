@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:wilkinson-nishapur-buildings",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Nishapur: Some Early Islamic Buildings and Their Decoration",
+  "sourceType": "book",
+  "creators": [
+    "Charles K. Wilkinson"
+  ],
+  "url": "https://www.metmuseum.org/met-publications/nishapur-some-early-islamic-buildings-and-their-decoration",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1986"
+}

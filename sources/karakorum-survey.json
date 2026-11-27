@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:karakorum-survey",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Mapping Karakorum, the capital of the Mongol Empire",
+  "sourceType": "article",
+  "creators": [
+    "Jan Bemmann, Sven Linzen, Susanne Reichert and Lkh. Munkhbayar"
+  ],
+  "url": "https://www.cambridge.org/core/journals/antiquity/article/mapping-karakorum-the-capital-of-the-mongol-empire/6E86EC9807E3354074D101D1AA15056F",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2021"
+}

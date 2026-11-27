@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:taj-al-mulk",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:babaie-isfahan-mosques",
+      "role": "supports",
+      "locator": "Masjed-e jāmeʿ, paragraphs on the separate north and south domes, their patrons, inscription date and disputed original function of the north dome."
+    },
+    {
+      "sourceId": "source:unesco-isfahan-friday-mosque-map",
+      "role": "supports",
+      "locator": "World Heritage property 1397, map and geographic reference for the mosque as a whole."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Tadsch al-Mulk",
+    "en": "Taj al-Mulk"
+  }
+}

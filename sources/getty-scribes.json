@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:getty-scribes",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Creating the Digital Florentine Codex/Códice Florentino Digital",
+  "sourceType": "article",
+  "creators": [
+    "Kim Richter and Alicia Maria Houtrouw, Getty Research Institute"
+  ],
+  "url": "https://www.getty.edu/research/tools/vocabularies/00000_richter_houtrouw_digital_flo_co_20241024.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

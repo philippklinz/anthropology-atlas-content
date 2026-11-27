@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bodmin-gospels",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Add MS 9381, The Bodmin Gospels or St Petroc Gospels",
+  "sourceType": "catalog",
+  "creators": [
+    "British Library"
+  ],
+  "url": "https://searcharchives.bl.uk/catalog/032-002737386",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mayans-yaxchilan",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lintel-twenty-four",
+      "role": "supports",
+      "locator": "Catalogue date 723–726; inscription, 709 rite, Itzamnaaj Bahlam and Lady K’ab’al Xook, rope, torch, vessel, pigmented stone, and the lintels of Structure 23. The chapter uses only the CE year because published day correlations vary."
+    },
+    {
+      "sourceId": "source:carved-container",
+      "role": "supports",
+      "locator": "Discussion and fig. 10: Lady K’ab’al Xook with the cord on Lintel 24; small woven basket by her knees."
+    },
+    {
+      "sourceId": "source:maya-script",
+      "role": "supports",
+      "locator": "The basics of a beautiful script, logograms and syllabograms; Lintel 24 from Yaxchilan."
+    },
+    {
+      "sourceId": "source:yaxchilan-site",
+      "role": "supports",
+      "locator": "Dirección and Acceso: archaeological site in Ocosingo municipality on the Usumacinta River, reached from Frontera Corozal."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "K’ab’al Xook im Bild und in der Inschrift",
+    "en": "K’ab’al Xook in image and inscription"
+  },
+  "participants": [
+    {
+      "entityId": "person:kabal-xook-of-yaxchilan",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:itzamnaaj-bahlam-of-yaxchilan",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:yaxchilan-on-the-usumacinta"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:yaxchilan-on-the-usumacinta-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 709,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 709,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Türsturz von Gebäude 23 erinnert an ein Ritual von 709. Der erhaltene Stein wurde erst etwa 723–726 bearbeitet.",
+      "en": "A lintel from Structure 23 recalls a ritual held in 709. The stone was carved later, around 723–726."
+    }
+  }
+}

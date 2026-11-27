@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:blair-compendium",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Illustrating History: Rashid al-Din and his Compendium of Chronicles",
+  "sourceType": "article",
+  "creators": [
+    "Sheila Blair"
+  ],
+  "url": "https://www.cambridge.org/core/journals/iranian-studies/article/abs/illustrating-history-rashid-aldin-and-his-compendium-of-chronicles/6B712773BF192A4CD310327D0CBAC449",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2017"
+}

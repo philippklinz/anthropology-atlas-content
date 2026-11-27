@@ -3,6 +3,7 @@
   "defaultLanguage": "de",
   "defaultRecordLicense": "GPL-2.0",
   "packageIds": [
+    "package:age-of-kings-and-the-conquerors",
     "package:alaric-rome-and-aquitaine",
     "package:childeric-at-tournai",
     "package:clovis-and-his-bishops",

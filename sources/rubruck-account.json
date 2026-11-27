@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:rubruck-account",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Journey of William of Rubruck to the Eastern Parts of the World, 1253–55",
+  "sourceType": "book",
+  "creators": [
+    "William of Rubruck, translation by William Woodville Rockhill, University of Washington Silk Road Seattle"
+  ],
+  "url": "https://depts.washington.edu/silkroad/texts/rubruck.html",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "1900"
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:japanese-tofukuji",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Journal of Korean Art and Archaeology 5, pp. 105–108, site coordinates on p. 105, table 1 for quantities, fig. 3 for cargo tags and fig. 4 for the Qingyuan weight. pp. 107–108 discuss Hakata, Tōfuku-ji, Hakozaki and the possible rebuilding fund."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Tōfuku-ji steht auf Ladungszetteln",
+    "en": "Tōfuku-ji is named on cargo tags"
+  },
+  "participants": [
+    {
+      "entityId": "organization:tofuku-ji-temple",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:tofuku-ji-kyoto"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tofuku-ji-kyoto-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1323,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1323,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Holztäfelchen aus dem Sinan-Wrack nennen dieses Kloster in Kyoto. Sie verbinden eine Kundschaft an Land mit einer 1323 verschifften Ladung. Ein Beitrag zum Wiederaufbau nach dem Brand ist möglich.",
+      "en": "Wooden tags from the Sinan wreck name this Kyoto monastery. They link a customer ashore to cargo shipped in 1323. The venture may have helped to finance rebuilding after a fire."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:kyoto-tsuchimikado-residence",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Site of the Tsuchimikado Residence",
+  "sourceType": "website",
+  "creators": [
+    "Japan Tourism Agency"
+  ],
+  "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00823.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:speyer",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:rudiger-1084",
+      "role": "supports",
+      "locator": "Translated charter, preamble and clauses 1–7. Residential wall, annual payment of three and a half pounds, harbour trade, cemetery, visiting Jews, judicial jurisdiction."
+    },
+    {
+      "sourceId": "source:speyer-juden",
+      "role": "supports",
+      "locator": "Opening account of the 1084 settlement and the section Erste Pogrome, Kreuzzüge und die Pest. Attack of 1096 and the intervention of Bishop Johann."
+    },
+    {
+      "sourceId": "source:hls-teutonen",
+      "role": "supports",
+      "locator": "Opening paragraph, including the ancient group’s campaign and defeat near Aquae Sextiae in 102 BCE."
+    },
+    {
+      "sourceId": "source:haferkamp-reich",
+      "role": "supports",
+      "locator": "Sections 1 and 2. Carolingian and Ottonian imperial title, geographic extent, development of the imperial designation and the problem of territorial authority."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Speyer",
+    "en": "Speyer"
+  }
+}

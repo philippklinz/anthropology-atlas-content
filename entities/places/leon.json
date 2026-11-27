@@ -1,0 +1,20 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:leon",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:leon-decreta",
+      "role": "supports",
+      "locator": "Editorial introduction on the sixteenth-century copies of the Latin text; heading and articles I (chosen citizens), V (houses, vineyards and avenues for complaint) and VIII (officers entitled to seize goods, working cattle and field labourers)."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "León",
+    "en": "León"
+  }
+}

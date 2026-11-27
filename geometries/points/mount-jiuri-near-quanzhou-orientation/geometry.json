@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:mount-jiuri-near-quanzhou-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:jiuri-wind-inscriptions",
+      "role": "supports",
+      "locator": "Description of ten Southern Song inscriptions, 1174–1266. Paragraphs on the winter send-offs, the summer receptions and officials of the maritime trade office."
+    },
+    {
+      "sourceId": "source:quanzhou-maritime-office",
+      "role": "supports",
+      "locator": "Opening description and foundation of the Quanzhou office for maritime trade in 1087."
+    },
+    {
+      "sourceId": "source:quanzhou-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1561rev-009 (Luoyang Bridge) and 1561rev-012 (Jiuri Mountain Wind-Praying Inscriptions)."
+    },
+    {
+      "sourceId": "source:quanzhou-heritage-map",
+      "role": "derivation",
+      "locator": "Geographical data, 1561rev-012 Jiuri Mountain Wind-Praying Inscriptions."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: UNESCO World Heritage Centre.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://whc.unesco.org/en/list/1561/maps/"
+  }
+}

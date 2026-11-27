@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:happo-masan-bay-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.58,
+      35.2
+    ]
+  }
+}

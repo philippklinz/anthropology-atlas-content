@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:dunwich-suffolk-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.627,
+      52.278
+    ]
+  }
+}

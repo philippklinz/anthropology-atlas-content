@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:karakorum-in-the-orkhon-valley-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      102.845,
+      47.211
+    ]
+  }
+}

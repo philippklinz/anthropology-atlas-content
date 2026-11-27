@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:byzantines-ravenna",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bruckner-san-vitale-sanctuary",
+      "role": "supports",
+      "locator": "Article 743, discussion around Figure 7, imperial panels at San Vitale. Opposing positions of the figures, plate, chalice, consecration by Maximian in 547 and limits of identification by inscription."
+    },
+    {
+      "sourceId": "source:met-san-vitale-dress",
+      "role": "supports",
+      "locator": "Theodora and Justinian panels, particularly embroidered Three Magi along the hem, purple garments, ceremonial vessels and retinues."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Maximians Name im Mosaik",
+    "en": "Maximian’s name in mosaic"
+  },
+  "participants": [
+    {
+      "entityId": "person:maximian-of-ravenna",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:theodora-i",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:san-vitale-imperial-panels",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:san-vitale-ravenna"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:san-vitale-ravenna-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 547,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 547,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Maximian weihte San Vitale. Im Altarraum begleiten sein Name und sein Bild Justinian. Gegenüber bringt Theodora einen Kelch.",
+      "en": "Maximian consecrated San Vitale. In its sanctuary, his name and image accompany Justinian. Theodora carries a chalice on the opposite wall."
+    }
+  }
+}

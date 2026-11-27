@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:nahua-welcome",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Mexica Accounts of Moctezuma Meeting Cortés",
+  "sourceType": "archive",
+  "creators": [
+    "Nahua authors of the Florentine Codex, Book XII; American Historical Association, Nancy Fitch (resource editor)"
+  ],
+  "url": "https://www.historians.org/resource/mexica-accounts-of-moctezuma-meeting-cortes/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

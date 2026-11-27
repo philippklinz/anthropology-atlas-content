@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:games-display",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Libro del axedrez, dados e tablas, exposición permanente",
+  "sourceType": "catalog",
+  "creators": [
+    "Real Biblioteca del Monasterio de El Escorial, Patrimonio Nacional"
+  ],
+  "url": "https://rbme.patrimonionacional.es/s/rbme-expo/page/cod15",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

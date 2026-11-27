@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:mayans-pakal",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skidmore-palenque",
+      "role": "supports",
+      "locator": "Sections Lady Sak K’uk’ and K’inich Janaab Pakal I, fig. 112, the Oval Palace Tablet, and the entry specifying Long Count 9.9.2.4.8 (615), birth in 603, accession aged twelve and the debated regency."
+    },
+    {
+      "sourceId": "source:palace-cast",
+      "role": "supports",
+      "locator": "Object description: oval tablet, House E, Sak K’uk’ offering a royal headdress to her son; nineteenth-century cast from the original."
+    },
+    {
+      "sourceId": "source:palenque-site",
+      "role": "supports",
+      "locator": "World Heritage property 411. Location line for Palenque in Chiapas and coordinates 17°28′59.988″ N, 92°2′60″ W; an orientation for the site."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Pakal empfängt den Königsschmuck",
+    "en": "Pakal receives the royal headdress"
+  },
+  "participants": [
+    {
+      "entityId": "person:kinich-janaab-pakal",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:sak-kuk-of-palenque",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:palenque-chiapas"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:palenque-chiapas-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 615,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 615,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "615 trat der zwölfjährige Pakal in Palenque die Herrschaft an. Eine Tafel im Palast zeigt seine Mutter Sak K’uk’ bei der Übergabe des Kopfschmucks.",
+      "en": "Twelve-year-old Pakal acceded at Palenque in 615. In the palace, a tablet portrays his mother Sak K’uk’ offering him the royal headdress."
+    }
+  }
+}

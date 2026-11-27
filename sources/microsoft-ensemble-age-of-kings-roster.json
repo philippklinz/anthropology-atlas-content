@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:microsoft-ensemble-age-of-kings-roster",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Age of Empires II Encyclopedia, expansions and original civilization roster",
+  "sourceType": "website",
+  "creators": [
+    "Team Respawn"
+  ],
+  "url": "https://www.teamrespawn.net/aoe2/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:tsuchimikado-residence-heian-kyo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-genji-transmission",
+      "role": "supports",
+      "locator": "Chapter One, “Heian Court Culture and the Transmission of the Tale”, pp. 88–89. Shōshi’s son, the diary, transcription, Michinaga’s supplies and the draft."
+    },
+    {
+      "sourceId": "source:kyoto-tsuchimikado-residence",
+      "role": "supports",
+      "locator": "Kyoto Gyoen National Garden, interpretation of Michinaga’s residence, Shōshi and the births of the later emperors Go-Ichijō and Go-Suzaku."
+    },
+    {
+      "sourceId": "source:tsuchimikado-nihon-rekishi-map",
+      "role": "supports",
+      "locator": "Basic information, record 270000201500 (Tsuchimikado residence site), coordinates."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Tsuchimikado-Residenz, Heian-kyō",
+    "en": "Tsuchimikado residence, Heian-kyō"
+  }
+}

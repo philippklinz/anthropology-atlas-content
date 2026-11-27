@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:japanese-tsuchimikado",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-genji-transmission",
+      "role": "supports",
+      "locator": "Chapter One, “Heian Court Culture and the Transmission of the Tale”, pp. 88–89. Shōshi’s son, the diary, transcription, Michinaga’s supplies and the draft."
+    },
+    {
+      "sourceId": "source:kyoto-tsuchimikado-residence",
+      "role": "supports",
+      "locator": "Kyoto Gyoen National Garden, interpretation of Michinaga’s residence, Shōshi and the births of the later emperors Go-Ichijō and Go-Suzaku."
+    },
+    {
+      "sourceId": "source:tsuchimikado-nihon-rekishi-map",
+      "role": "supports",
+      "locator": "Basic information, record 270000201500 (Tsuchimikado residence site), coordinates."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Shōshis Sohn und Murasakis Handschrift",
+    "en": "Shōshi’s son and Murasaki’s manuscript"
+  },
+  "participants": [
+    {
+      "entityId": "person:fujiwara-no-shoshi",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:murasaki-shikibu",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:tsuchimikado-residence-heian-kyo"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:tsuchimikado-residence-heian-kyo-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1008,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1008,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Als Shōshi im Haus ihres Vaters einen Sohn bekommt, arbeitet Murasaki an einer Abschrift ihrer Erzählung. Ihr Tagebuch berichtet, was mit einem Entwurf geschieht.",
+      "en": "While Shōshi is at her father’s house for the birth of a son, Murasaki oversees a copy of her tale. Her diary records what becomes of one draft."
+    }
+  }
+}

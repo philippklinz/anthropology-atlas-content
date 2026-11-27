@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:aztecs-temple-dedication",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:dedication-plaque",
+      "role": "supports",
+      "locator": "Curator’s object description, the numeral and reed for 1487, the two rulers Tízoc and Ahuítzotl making blood offerings, the bundle between them and the probable ceremonial-square display."
+    },
+    {
+      "sourceId": "source:templo-site",
+      "role": "supports",
+      "locator": "Archaeological zone, Guatemala 60, Centro Histórico, and Datos generales, site of the principal building of ancient Tenochtitlan."
+    },
+    {
+      "sourceId": "source:mexico-met",
+      "role": "supports",
+      "locator": "Overview; Key Events, ca. 1427 and ca. 1431. Tenochtitlan’s alliance with Texcoco and Tlacopan, Azcapotzalco, indirect rule, tribute and Tlaxcala’s autonomy. Earlier enlargements of the main temple."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Acht Rohr am Großen Tempel",
+    "en": "Eight Reed at the Great Temple"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:tenochtitlan-temple-dedication-plaque",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:templo-mayor-tenochtitlan"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:templo-mayor-tenochtitlan-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1487,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1487,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Am Ausbau des Großen Tempels erinnert die Gedenktafel an Tízoc und Ahuítzotl. Das Jahr Acht Rohr entspricht hier 1487. Die Karte zeigt den Zeremonialbezirk.",
+      "en": "A commemorative plaque associates Tízoc and Ahuítzotl with the enlargement of the Great Temple. Eight Reed corresponds here to 1487. The point marks the ceremonial precinct."
+    }
+  }
+}

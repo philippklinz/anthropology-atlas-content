@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:sadang-ri-potters",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:nmk-sadang-ri-kiln",
+      "role": "supports",
+      "locator": "Exhibition introduction, 1964 discovery of celadon tiles, 1964–1977 excavations, kiln structures, equipment, court supply and over 100,000 finds."
+    },
+    {
+      "sourceId": "source:met-goryeo-celadon",
+      "role": "supports",
+      "locator": "Paragraphs on glaze, Gangjin and Buan, the flowering of production in the twelfth century and the technique of clay inlay."
+    },
+    {
+      "sourceId": "source:nmk-celadon-roof-tile",
+      "role": "supports",
+      "locator": "Accession Jeung2344. Goryosa account of the Yangijeong pavilion in 1157, distinguished from the surviving comparison tile."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Töpfer von Sadang-ri",
+    "en": "Potters of Sadang-ri"
+  }
+}

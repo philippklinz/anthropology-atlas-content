@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:malintzin",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:meeting-locality",
+      "role": "supports",
+      "locator": "Opening paragraph on the commemorative plaque at Pino Suárez and República de El Salvador, the comparison of possible locations and the concluding identification of the southern approach to Tenochtitlan, 8 November 1519."
+    },
+    {
+      "sourceId": "source:nahua-welcome",
+      "role": "supports",
+      "locator": "Book XII, chapter 16. Opening place-names, garlands and necklaces, Moteuczoma’s welcome, Marina interpreting the answer, and the list of the lords accompanying Moteuczoma. This English excerpt presents the later Nahua account."
+    },
+    {
+      "sourceId": "source:cortes-welcome",
+      "role": "supports",
+      "locator": "Second letter to Charles, excerpt pp. 85–89. Bridge and removable beams; attendants prevent physical contact; later speech in the lodging as reported to Charles."
+    },
+    {
+      "sourceId": "source:cortes-second-print",
+      "role": "supports",
+      "locator": "Bibliographic note Segunda Carta. The letter is dated 30 October 1520 in Segura de la Frontera; first printed at Seville in 1522."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Malintzin (Marina)",
+    "en": "Malintzin (Marina)"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:maya-writers-and-cities",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:skidmore-palenque",
+      "role": "supports",
+      "locator": "Sections Lady Sak K’uk’ and K’inich Janaab Pakal I, fig. 112, the Oval Palace Tablet, and the entry specifying Long Count 9.9.2.4.8 (615), birth in 603, accession aged twelve and the debated regency."
+    },
+    {
+      "sourceId": "source:palace-cast",
+      "role": "supports",
+      "locator": "Object description: oval tablet, House E, Sak K’uk’ offering a royal headdress to her son; nineteenth-century cast from the original."
+    },
+    {
+      "sourceId": "source:palenque-site",
+      "role": "supports",
+      "locator": "World Heritage property 411. Location line for Palenque in Chiapas and coordinates 17°28′59.988″ N, 92°2′60″ W; an orientation for the site."
+    },
+    {
+      "sourceId": "source:ceren-plants",
+      "role": "supports",
+      "locator": "Site setting and methodology, figs. 1–5 and discussion of Household 1. Wattle-and-daub buildings and thatch, dental plaster casts, manioc between Structures 6 and 11, field cultivation south of the village, fixed hearth and vessel contents in Structure 11."
+    },
+    {
+      "sourceId": "source:ceren-date",
+      "role": "supports",
+      "locator": "Subsection Loma Caldera Eruption, cites McKee’s radiocarbon estimate at Cerén at 95% probability, AD 610–671. This dates a single eruption, not a decades-long volcanic episode."
+    },
+    {
+      "sourceId": "source:ceren-site",
+      "role": "supports",
+      "locator": "Brief Synthesis and map coordinates, dossier 675, 13°49′39″ N, 89°22′9″ W. Seventh-century farming settlement preserved beneath the Loma Caldera eruption."
+    },
+    {
+      "sourceId": "source:lintel-twenty-four",
+      "role": "supports",
+      "locator": "Catalogue date 723–726; inscription, 709 rite, Itzamnaaj Bahlam and Lady K’ab’al Xook, rope, torch, vessel, pigmented stone, and the lintels of Structure 23. The chapter uses only the CE year because published day correlations vary."
+    },
+    {
+      "sourceId": "source:carved-container",
+      "role": "supports",
+      "locator": "Discussion and fig. 10: Lady K’ab’al Xook with the cord on Lintel 24; small woven basket by her knees."
+    },
+    {
+      "sourceId": "source:maya-script",
+      "role": "supports",
+      "locator": "The basics of a beautiful script, logograms and syllabograms; Lintel 24 from Yaxchilan."
+    },
+    {
+      "sourceId": "source:yaxchilan-site",
+      "role": "supports",
+      "locator": "Dirección and Acceso: archaeological site in Ocosingo municipality on the Usumacinta River, reached from Frontera Corozal."
+    },
+    {
+      "sourceId": "source:ximenez-ms",
+      "role": "supports",
+      "locator": "Ayer MS 1515, volume 1. Summary identifies Ximénez as parish priest in Santo Tomás Chichicastenango; final 56 leaves contain the K’iche’ text and his Spanish translation. Catalogue suggests c. 1700–1703."
+    },
+    {
+      "sourceId": "source:newberry-popol",
+      "role": "supports",
+      "locator": "What is the Popol Vuh? Identifies the work as K’iche’, possible sixteenth-century exemplar in Latin characters, two-column translation. The research guide gives the wider transcription window 1700–1715."
+    },
+    {
+      "sourceId": "source:christenson",
+      "role": "supports",
+      "locator": "Passage on the creation of humanity from yellow and white maize ground by Xmucane, notes 470–475."
+    },
+    {
+      "sourceId": "source:popol-edition",
+      "role": "supports",
+      "locator": "Project statement, second and final paragraphs: K’iche’, Spanish and English interface and collaboration with the Guatemalan Academy of Mayan Languages."
+    },
+    {
+      "sourceId": "source:popol-wuj-opening-facsimile",
+      "role": "supports",
+      "locator": "File description, original 1,223 × 1,750 reproduction, file history dated 17 April 2012, and licensing as a public-domain scan."
+    }
+  ],
+  "labels": {
+    "de": "Maya – Eine Krone, ein Küchengarten und ein Buch der K’iche’",
+    "en": "Mayans – A royal headdress, a kitchen garden and a K’iche’ book"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:mayans-pakal",
+    "event:mayans-ceren",
+    "event:mayans-yaxchilan",
+    "event:mayans-chichicastenango",
+    "asset:popol-wuj-opening-page",
+    "person:kinich-janaab-pakal",
+    "person:sak-kuk-of-palenque",
+    "community:households-of-ceren",
+    "person:kabal-xook-of-yaxchilan"
+  ],
+  "steps": [
+    {
+      "id": "pakal",
+      "textAnchor": "pakal",
+      "labels": {
+        "de": "615 · Pakal empfängt den Königsschmuck",
+        "en": "615 · Pakal receives the royal headdress"
+      },
+      "summary": {
+        "de": "615 trat der zwölfjährige Pakal in Palenque die Herrschaft an. Eine Tafel im Palast zeigt seine Mutter Sak K’uk’ bei der Übergabe des Kopfschmucks.",
+        "en": "Twelve-year-old Pakal acceded at Palenque in 615. In the palace, a tablet portrays his mother Sak K’uk’ offering him the royal headdress."
+      },
+      "state": {
+        "camera": {
+          "longitude": -92.05,
+          "latitude": 17.48333,
+          "metersPerPixel": 680,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 615,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 615,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "ceren",
+      "textAnchor": "ceren",
+      "labels": {
+        "de": "Zwischen 610 und 671 · Asche bewahrt einen Küchengarten",
+        "en": "Between 610 and 671 · Ash preserves a kitchen garden"
+      },
+      "summary": {
+        "de": "Der Ausbruch begrub Häuser und Gärten. Radiokarbondaten für dieses einzelne Ereignis ergeben ein wahrscheinliches Zeitfenster von 610 bis 671.",
+        "en": "An eruption buried houses and gardens. Radiocarbon dating places the single event within a probable window of 610–671."
+      },
+      "state": {
+        "camera": {
+          "longitude": -89.36917,
+          "latitude": 13.8275,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 610,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 671,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "yaxchilan",
+      "textAnchor": "yaxchilan",
+      "labels": {
+        "de": "709 · K’ab’al Xook im Bild und in der Inschrift",
+        "en": "709 · K’ab’al Xook in image and inscription"
+      },
+      "summary": {
+        "de": "Der Türsturz von Gebäude 23 erinnert an ein Ritual von 709. Der erhaltene Stein wurde erst etwa 723–726 bearbeitet.",
+        "en": "A lintel from Structure 23 recalls a ritual held in 709. The stone was carved later, around 723–726."
+      },
+      "state": {
+        "camera": {
+          "longitude": -90.967,
+          "latitude": 16.897,
+          "metersPerPixel": 500,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 709,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 709,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "chichicastenango",
+      "textAnchor": "chichicastenango",
+      "labels": {
+        "de": "Anfang des 18. Jahrhunderts · Francisco Ximénez schreibt eine K’iche’-Erzählung ab",
+        "en": "Early eighteenth century · Francisco Ximénez transcribes a K’iche’ text"
+      },
+      "summary": {
+        "de": "Die Abschrift des Popol Wuj wird ungefähr an den Anfang des 18. Jahrhunderts datiert. Der Sammlungskatalog schlägt 1700–1703 vor, der Forschungsführer der Bibliothek lässt einen Zeitraum bis 1715 offen.",
+        "en": "The copy of the Popol Wuj dates to the early eighteenth century. The collection catalogue suggests 1700–1703; the library’s research guide extends the possible window to 1715."
+      },
+      "state": {
+        "camera": {
+          "longitude": -91.111,
+          "latitude": 14.943,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1700,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1715,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:popol-wuj-opening-page"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "In Palenque und Yaxchilán erzählen Steine von zwei Frauen. In Cerén zeichnete Vulkanasche einen Hausgarten ab. Ein Manuskript in zwei Spalten bewahrt die Schöpfungsgeschichte der K’iche’.",
+      "en": "Stone monuments at Palenque and Yaxchilan name two women. Ash took the shape of a kitchen garden at Cerén. A manuscript in facing columns preserves a K’iche’ creation account."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "the-conquerors",
+        "labels": {
+          "de": "The Conquerors (2000)",
+          "en": "The Conquerors (2000)"
+        }
+      },
+      {
+        "id": "mayans",
+        "labels": {
+          "de": "Maya",
+          "en": "Mayans"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "classic-mesoamerica",
+        "labels": {
+          "de": "Mesoamerikanische Klassik",
+          "en": "Classic Mesoamerica"
+        }
+      },
+      {
+        "id": "early-modern",
+        "labels": {
+          "de": "Frühe Neuzeit",
+          "en": "Early modern period"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "mesoamerica",
+        "labels": {
+          "de": "Mesoamerika",
+          "en": "Mesoamerica"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -90.70959,
+      "latitude": 15.65541,
+      "metersPerPixel": 2067,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 610,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 610,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1715,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1715,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:ayer-popol-wuj-manuscript",
+    "asset:popol-wuj-opening-page",
+    "community:households-of-ceren",
+    "event:mayans-ceren",
+    "event:mayans-chichicastenango",
+    "event:mayans-pakal",
+    "event:mayans-yaxchilan",
+    "geometry:joya-de-ceren-el-salvador-orientation",
+    "geometry:palenque-chiapas-orientation",
+    "geometry:santo-tomas-chichicastenango-guatemala-orientation",
+    "geometry:yaxchilan-on-the-usumacinta-orientation",
+    "person:francisco-ximenez",
+    "person:itzamnaaj-bahlam-of-yaxchilan",
+    "person:kabal-xook-of-yaxchilan",
+    "person:kinich-janaab-pakal",
+    "person:sak-kuk-of-palenque",
+    "place:joya-de-ceren-el-salvador",
+    "place:palenque-chiapas",
+    "place:santo-tomas-chichicastenango-guatemala",
+    "place:yaxchilan-on-the-usumacinta",
+    "source:carved-container",
+    "source:ceren-date",
+    "source:ceren-plants",
+    "source:ceren-site",
+    "source:christenson",
+    "source:lintel-twenty-four",
+    "source:maya-script",
+    "source:newberry-popol",
+    "source:palace-cast",
+    "source:palenque-site",
+    "source:popol-edition",
+    "source:popol-wuj-opening-facsimile",
+    "source:skidmore-palenque",
+    "source:wikidata-place-coordinates",
+    "source:ximenez-ms",
+    "source:yaxchilan-site"
+  ]
+}

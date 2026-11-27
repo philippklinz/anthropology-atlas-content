@@ -2,7 +2,7 @@
 
 Die Donau auf der Karte ist ein schmaler Strich. Für Menschen, die 376 an ihrem Nordufer warteten, war sie ein breiter Fluss. Am anderen Ufer lagen römische Provinzen mit Äckern, Städten und Getreidespeichern. Wer durfte hinüber? Wer würde die Menschen bis zur ersten eigenen Ernte ernähren? Die Antworten auf diese Fragen helfen zu verstehen, weshalb aus einem Einlassgesuch ein jahrelanger Krieg werden konnte.
 
-## Untere Donau
+## Untere Donau {#lower-danube}
 
 Die Angriffe der Hunnen hatten politische Bündnisse nördlich des Schwarzen Meeres erschüttert. Ein Teil der Terwingen bat Kaiser Valens um Aufnahme. Andere trafen eigene Entscheidungen. Römische Amtsträger befürworteten das Gesuch auch deshalb, weil sie Soldaten für das kaiserliche Heer gewinnen wollten. Boote und Flöße setzten Menschen über. Die Angabe „376“ bezeichnet viele Überfahrten. Die Karte zeigt mit dem heutigen Silistra einen Ort am unteren Donaulauf. Welche Familien von welcher Uferstelle aus übersetzten, lässt sich aus den Berichten kaum ermitteln.
 

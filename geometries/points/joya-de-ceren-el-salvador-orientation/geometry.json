@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:joya-de-ceren-el-salvador-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:ceren-date",
+      "role": "supports",
+      "locator": "Subsection Loma Caldera Eruption, cites McKee’s radiocarbon estimate at Cerén at 95% probability, AD 610–671. This dates a single eruption, not a decades-long volcanic episode."
+    },
+    {
+      "sourceId": "source:ceren-plants",
+      "role": "supports",
+      "locator": "Site setting and methodology, figs. 1–5 and discussion of Household 1. Wattle-and-daub buildings and thatch, dental plaster casts, manioc between Structures 6 and 11, field cultivation south of the village, fixed hearth and vessel contents in Structure 11."
+    },
+    {
+      "sourceId": "source:ceren-site",
+      "role": "supports",
+      "locator": "Brief Synthesis and map coordinates, dossier 675, 13°49′39″ N, 89°22′9″ W. Seventh-century farming settlement preserved beneath the Loma Caldera eruption."
+    },
+    {
+      "sourceId": "source:ceren-site",
+      "role": "derivation",
+      "locator": "UNESCO dossier 675 map, 13°49′39″ N, 89°22′9″ W."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: UNESCO World Heritage Centre.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://whc.unesco.org/en/list/675/"
+  }
+}

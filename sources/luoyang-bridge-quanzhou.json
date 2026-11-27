@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:luoyang-bridge-quanzhou",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Luoyang Bridge",
+  "sourceType": "website",
+  "creators": [
+    "Quanzhou Municipal People's Government"
+  ],
+  "url": "https://www.quanzhou.gov.cn/gastronomy/en/about/unesco-heritage/202412/t20241228_3124009.htm",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2024"
+}

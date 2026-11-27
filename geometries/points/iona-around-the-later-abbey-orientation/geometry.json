@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:iona-around-the-later-abbey-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iona-history",
+      "role": "supports",
+      "locator": "“The birthplace of Christianity in Scotland” and “Columba’s monastery”. Foundation tradition of 563, timber-building evidence, the later church and the eighth- and ninth-century crosses."
+    },
+    {
+      "sourceId": "source:iona-adomnan",
+      "role": "supports",
+      "locator": "Source Description, Primary Manuscripts no. 1. Schaffhausen Stadtbibliothek, Generalia 1, colophon p. 136a, the two-column copy and the likely date before 713."
+    },
+    {
+      "sourceId": "source:schaffhausen-galway",
+      "role": "supports",
+      "locator": "Origin and Provenance. Dorbbéne’s prayer on p. 136 and the partly erased Reichenau ex-libris at the foot of p. 1."
+    },
+    {
+      "sourceId": "source:iona-designation",
+      "role": "derivation",
+      "locator": "Designation LB12310, national grid NM 28683 24515; rounded to island-site scale."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: Historic Environment Scotland.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://portal.historicenvironment.scot/designation/LB12310"
+  }
+}

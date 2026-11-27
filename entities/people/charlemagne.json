@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "person:charlemagne",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:frankfurt-grain-and-bread",
+      "role": "supports",
+      "locator": "Ch. 4 in the translation of Cave and Coulson, p. 130. Separate prices for ordinary grain and the king’s stocks, numbers and weight of loaves, and the final provision on unfree dependants."
+    },
+    {
+      "sourceId": "source:frankfurt-capitulary-bk28",
+      "role": "supports",
+      "locator": "Date and editions, Boretius, no. 28, pp. 73–78; ch. 4, grain and baked bread at Frankfurt in 794."
+    },
+    {
+      "sourceId": "source:royal-frankish-annals-early-entries",
+      "role": "supports",
+      "locator": "Entries for 753–754 (papal visit), 768 and 771 (division and death of Carloman); entry headed 801, first sentence, on Christmas Day 800 at St Peter’s."
+    },
+    {
+      "sourceId": "source:einhard-life-of-charlemagne",
+      "role": "supports",
+      "locator": "Vita Karoli Magni, ch. 26 (columns and marble), 28 (imperial title and reported reluctance), 30–31 (death, choice of burial place and burial)."
+    },
+    {
+      "sourceId": "source:unesco-aachen-cathedral",
+      "role": "supports",
+      "locator": "Brief synthesis and Description: the octagon, gallery and dome, spolia from Rome and Ravenna and burial in 814. World Heritage property 3, location coordinates."
+    }
+  ],
+  "entityType": "person",
+  "labels": {
+    "de": "Karl der Große",
+    "en": "Charlemagne"
+  }
+}

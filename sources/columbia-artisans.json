@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:columbia-artisans",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Mongols in World History: Support of Artisans",
+  "sourceType": "website",
+  "creators": [
+    "Asia for Educators, Columbia University"
+  ],
+  "url": "https://afe.easia.columbia.edu/mongols/history/history6.htm",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:girona-parchment",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Pergamino de venta de la sinagoga de 1492",
+  "sourceType": "catalog",
+  "creators": [
+    "Museu d’Història dels Jueus, Girona"
+  ],
+  "url": "https://web2.girona.cat/call/esp/colleccio_objectes_fitxa.php?id=9460",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

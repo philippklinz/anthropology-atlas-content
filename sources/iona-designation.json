@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iona-designation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Iona Abbey, listed building LB12310",
+  "sourceType": "catalog",
+  "creators": [
+    "Historic Environment Scotland"
+  ],
+  "url": "https://portal.historicenvironment.scot/designation/LB12310",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

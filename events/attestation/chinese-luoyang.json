@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:chinese-luoyang",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:luoyang-bridge-quanzhou",
+      "role": "supports",
+      "locator": "Description of the Wan’an ferry and construction in 1053–1059, pointed piers and stone transport at high tide. Final paragraph on Cai Xiang’s temple."
+    },
+    {
+      "sourceId": "source:quanzhou-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, component 1561rev-009 (Luoyang Bridge) and 1561rev-012 (Jiuri Mountain Wind-Praying Inscriptions)."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Eine Brücke ersetzt die Fähre von Wan’an",
+    "en": "A bridge replaces the Wan’an ferry"
+  },
+  "participants": [
+    {
+      "entityId": "person:cai-xiang",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:luoyang-bridge-near-quanzhou"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:luoyang-bridge-near-quanzhou-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1059,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1059,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Die Granitbrücke über den Luoyang ersetzt die Fährpassage. Cai Xiang leitet den Bau, bei dem die Gezeiten helfen, die schweren Balken auf die Pfeiler zu setzen.",
+      "en": "A granite bridge takes the place of the ferry. Cai Xiang oversees work in which the changing tide helps position heavy beams on the piers."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:jarrow-site",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "St Paul’s Monastery, Jarrow",
+  "sourceType": "catalog",
+  "creators": [
+    "Historic England"
+  ],
+  "url": "https://historicengland.org.uk/listing/the-list/list-entry/1002978",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

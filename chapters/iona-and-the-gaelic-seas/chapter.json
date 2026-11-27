@@ -1,0 +1,429 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:iona-and-the-gaelic-seas",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:iona-history",
+      "role": "supports",
+      "locator": "“The birthplace of Christianity in Scotland” and “Columba’s monastery”. Foundation tradition of 563, timber-building evidence, the later church and the eighth- and ninth-century crosses."
+    },
+    {
+      "sourceId": "source:iona-designation",
+      "role": "supports",
+      "locator": "Location and national grid reference NM 28683 24515 for the abbey site."
+    },
+    {
+      "sourceId": "source:iona-adomnan",
+      "role": "supports",
+      "locator": "Source Description, Primary Manuscripts no. 1. Schaffhausen Stadtbibliothek, Generalia 1, colophon p. 136a, the two-column copy and the likely date before 713."
+    },
+    {
+      "sourceId": "source:schaffhausen-galway",
+      "role": "supports",
+      "locator": "Origin and Provenance. Dorbbéne’s prayer on p. 136 and the partly erased Reichenau ex-libris at the foot of p. 1."
+    },
+    {
+      "sourceId": "source:naming-welsh",
+      "role": "supports",
+      "locator": "Early Medieval England and its Neighbours 51, e6, pp. 1–3, especially n. 5. Medieval Welsh identities, and Brittonic and Goidelic as modern linguistic terms."
+    },
+    {
+      "sourceId": "source:lichfield-gospels",
+      "role": "supports",
+      "locator": "“Marginalia”, first and second memoranda. Gelhi, Cingal, the horse, the altar of Teilo, the disputed land and the case for Llandeilo Fawr. Eighth-century main text and a mid-ninth-century dating suggested for the first two additions."
+    },
+    {
+      "sourceId": "source:welsh-reader",
+      "role": "supports",
+      "locator": "Section on the Lichfield Gospels. The editor favours the early ninth century for the gift, and identifies Llandeilo Fawr as probable. The station therefore uses the ninth century as a window."
+    },
+    {
+      "sourceId": "source:deer-legal-notes",
+      "role": "supports",
+      "locator": "pp. 85–124, opening comparison with Wales, especially Chad document no. 4. Ris, a land grant, its bounds and dues."
+    },
+    {
+      "sourceId": "source:coflein-teilo",
+      "role": "supports",
+      "locator": "Site Record, grid reference SN6293022236 for the later church at Llandeilo. The identification of the earlier altar is probable."
+    },
+    {
+      "sourceId": "source:dublin-waters",
+      "role": "supports",
+      "locator": "Section 2.1.3, “Viking and Norman Dublin”. The two early settlements south of the river, a pool of the Poddle, and a Liffey crossing. Modern city centre used only to orient the probable building region."
+    },
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "First three paragraphs, covering crew, oak, tentative origin in the Dublin area around 1042, and 60 oars."
+    },
+    {
+      "sourceId": "source:dublin-finds",
+      "role": "supports",
+      "locator": "Paragraphs on High Street and Dublin excavations, especially textile production, spindles, loom weights, yarn and surviving shoes and bags."
+    },
+    {
+      "sourceId": "source:deer-gospel",
+      "role": "supports",
+      "locator": "Introduction and Physical Description. Tenth-century Gospel text, Gaelic additions on ff. 3–5, the Latin brieve on f. 40, and the 155 × 110 mm parchment codex."
+    },
+    {
+      "sourceId": "source:deer-gift",
+      "role": "supports",
+      "locator": "In Ì Chaluim Chille, pp. 383–415. Discussion of Bishop Cormac and Book of Deer no. III, notes 53–54. Gartnait and Éte’s grant, the pledge, and dating between April 1131 and April 1132."
+    },
+    {
+      "sourceId": "source:deer-location",
+      "role": "supports",
+      "locator": "Opening paragraphs and the 2022 excavation. The team proposes a site about 80 metres from the later Deer Abbey near Mintlaw. The map gives the district rather than pinpointing the grant or place of writing."
+    },
+    {
+      "sourceId": "source:casiopeia-skuldelev-two-photo",
+      "role": "supports",
+      "locator": "Description, photograph date (16 February 2004), photographer, original JPG and source licensing section, CC BY-SA 2.0 Germany. The visible timber fragments occupy the foreground metal frame."
+    }
+  ],
+  "labels": {
+    "de": "Kelten – Ein Pferd für ein Buch",
+    "en": "Celts – A horse for a book"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:celts-iona",
+    "event:celts-llandeilo",
+    "event:skuldelev-two-construction",
+    "event:celts-deer",
+    "asset:skuldelev-two-original-timbers",
+    "person:columba-of-iona",
+    "person:gelhi-of-the-lichfield-gospels",
+    "person:cingal-of-the-lichfield-gospels",
+    "artifact:lichfield-gospels"
+  ],
+  "steps": [
+    {
+      "id": "iona",
+      "textAnchor": "iona",
+      "labels": {
+        "de": "563 nach der Überlieferung · Columbas Gemeinschaft auf Iona",
+        "en": "563 in the foundation tradition · Columba’s community on Iona"
+      },
+      "summary": {
+        "de": "Der Überlieferung zufolge kam Columba mit Gefährten aus Irland. Der heutige Kirchenbau ist jünger. Bei der frühen Gemeinschaft sind Spuren von Holzbauten erhalten.",
+        "en": "Tradition puts the arrival of Columba and companions from Ireland in this year. The present church is later. Archaeology has identified timber buildings belonging to the early community."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.39,
+          "latitude": 56.33,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 563,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 563,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "llandeilo",
+      "textAnchor": "llandeilo",
+      "labels": {
+        "de": "9. Jahrhundert · Wie ein Buch an den Altar kam",
+        "en": "9th century · How a book came to the altar"
+      },
+      "summary": {
+        "de": "Gelhi gab sein bestes Pferd für das Buch und schenkte es der Kirche des heiligen Teilo. Andere Einträge sprechen für Llandeilo Fawr als Ort der Schenkung.",
+        "en": "Gelhi bought the book with his best horse and gave it to the church of St Teilo. Other entries favour Llandeilo Fawr as the place of the gift."
+      },
+      "state": {
+        "camera": {
+          "longitude": -3.99,
+          "latitude": 51.88,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 801,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 900,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "dublin",
+      "textAnchor": "dublin",
+      "labels": {
+        "de": "1042 · Eine Eiche für Skuldelev 2",
+        "en": "1042 · An oak for Skuldelev 2"
+      },
+      "summary": {
+        "de": "Der Baum für die Maststütze wurde im Mai oder Juni 1042 gefällt. Das Schiff wurde damals oder bald darauf in Ostirland gebaut, wahrscheinlich im Raum Dublin. Die Karte zeigt die Region der vermuteten Werft.",
+        "en": "The oak for the keelson was felled in May or June 1042. The ship was built then or soon afterwards in eastern Ireland, probably around Dublin. The map locates the likely region of the yard."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1042,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1042,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:skuldelev-two-original-timbers"
+    },
+    {
+      "id": "deer",
+      "textAnchor": "deer",
+      "labels": {
+        "de": "April 1131 bis April 1132 · Éte und Gartnait geben Land",
+        "en": "April 1131 to April 1132 · Éte and Gartnait grant land"
+      },
+      "summary": {
+        "de": "Eine gälische Notiz überliefert ihre Schenkung und eine Sicherheit an Bischof Cormac. Die Karte verortet die Gemeinschaft von Deer, für die der Eintrag bestimmt war.",
+        "en": "A Gaelic note records their grant and a pledge to Bishop Cormac. The map locates the community at Deer that the record concerned."
+      },
+      "state": {
+        "camera": {
+          "longitude": -2.04,
+          "latitude": 57.52,
+          "metersPerPixel": 750,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1131,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1132,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Auf Iona, in Wales und in Buchan bewahrten Bücher Namen und Rechte. In Dublin führt das Holz eines Langschiffs zu den Menschen an der Irischen See.",
+      "en": "Books on Iona, in Wales and in Buchan preserved names and rights. In Dublin the timber of a longship leads to the people who worked around the Irish Sea."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "celts",
+        "labels": {
+          "de": "Kelten",
+          "en": "Celts"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "british-isles",
+        "labels": {
+          "de": "Britische und irische Inseln",
+          "en": "Britain and Ireland"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -4.215,
+      "latitude": 54.7,
+      "metersPerPixel": 3188,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 563,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 563,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1132,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1132,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:book-of-deer",
+    "artifact:lichfield-gospels",
+    "artifact:skuldelev-two-longship",
+    "asset:skuldelev-two-original-timbers",
+    "event:celts-deer",
+    "event:celts-iona",
+    "event:celts-llandeilo",
+    "event:skuldelev-two-construction",
+    "geometry:iona-around-the-later-abbey-orientation",
+    "geometry:llandeilo-fawr-area-wales-orientation",
+    "geometry:medieval-dublin-orientation",
+    "geometry:old-deer-area-buchan-orientation",
+    "person:cingal-of-the-lichfield-gospels",
+    "person:columba-of-iona",
+    "person:cormac-bishop-of-dunkeld",
+    "person:ete-of-buchan",
+    "person:gartnait-son-of-cainnech",
+    "person:gelhi-of-the-lichfield-gospels",
+    "place:iona-around-the-later-abbey",
+    "place:llandeilo-fawr-area-wales",
+    "place:medieval-dublin",
+    "place:old-deer-area-buchan",
+    "source:casiopeia-skuldelev-two-photo",
+    "source:coflein-teilo",
+    "source:deer-gift",
+    "source:deer-gospel",
+    "source:deer-legal-notes",
+    "source:deer-location",
+    "source:dublin-finds",
+    "source:dublin-waters",
+    "source:iona-adomnan",
+    "source:iona-designation",
+    "source:iona-history",
+    "source:lichfield-gospels",
+    "source:naming-welsh",
+    "source:schaffhausen-galway",
+    "source:skuldelev-channel-location",
+    "source:skuldelev-ship-study",
+    "source:skuldelev-two-museum",
+    "source:welsh-reader"
+  ]
+}

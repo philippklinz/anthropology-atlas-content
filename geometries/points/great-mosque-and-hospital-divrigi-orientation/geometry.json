@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:great-mosque-and-hospital-divrigi-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:mwnf-divrigi-mosque-hospital",
+      "role": "supports",
+      "locator": "Date of Monument, Description and How Monument was dated. Separate patrons and portals, foundation AH 626, minbar dated AH 638, signatures and carving."
+    },
+    {
+      "sourceId": "source:unesco-divrigi-mosque-hospital-map",
+      "role": "supports",
+      "locator": "Map and geographical references for World Heritage property 358, the adjoining great mosque and hospital."
+    },
+    {
+      "sourceId": "source:unesco-divrigi-mosque-hospital-map",
+      "role": "derivation",
+      "locator": "Map and geographical references for World Heritage property 358, the adjoining great mosque and hospital."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: UNESCO World Heritage Centre.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://whc.unesco.org/en/list/358/maps/"
+  }
+}

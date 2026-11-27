@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:karatay-madrasa-konya-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      32.4929,
+      37.875
+    ]
+  }
+}

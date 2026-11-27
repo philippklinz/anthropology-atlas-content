@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:jami-al-tawarikh-arabic-714",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:khalili-buddha",
+      "role": "supports",
+      "locator": "Islamic Art, MSS 727, folio 34a. Artwork Details, Other Notes and “The Jami‘ al-Tawarikh”. Tabriz, 714 AH (1314–15), Arabic manuscript divided between two collections, Ghazan’s commission and Öljeytü’s expansion."
+    },
+    {
+      "sourceId": "source:iranica-foundation",
+      "role": "supports",
+      "locator": "Article, especially the endowment deed of 1309 and its appendices; annual Arabic and Persian copies of six works, quality of paper, collation, binding and boxes. Location in the eastern suburb of Tabriz."
+    },
+    {
+      "sourceId": "source:blair-compendium",
+      "role": "supports",
+      "locator": "Iranian Studies 50, pp. 819–842, abstract. Early Arabic illustrated manuscript fragments in Edinburgh (Or. ms. 20) and the Khalili Collections (MSS 727), dated 714 AH/1314–15."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Arabische Abschrift der Weltgeschichte, 714 AH",
+    "en": "Arabic copy of the Compendium of Chronicles, 714 AH"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iranica-sasanian-deportations",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "DEPORTATIONS ii. In the Parthian and Sasanian periods",
+  "sourceType": "article",
+  "creators": [
+    "Encyclopaedia Iranica"
+  ],
+  "url": "https://www.iranicaonline.org/articles/deportations/deportations-ii-in-the-parthian-and-sasanian-periods/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

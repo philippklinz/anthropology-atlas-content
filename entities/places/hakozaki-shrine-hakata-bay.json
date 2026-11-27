@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:hakozaki-shrine-hakata-bay",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:kyushu-hakozaki-excavation",
+      "role": "supports",
+      "locator": "Section 1, モンゴル襲来と元寇防塁: the 1274 fighting at Torikai, written accounts of the fire at Hakozaki and the dating of heat-damaged pottery and burnt soil between the late thirteenth and early fourteenth centuries."
+    },
+    {
+      "sourceId": "source:conlan-mongol-scrolls",
+      "role": "supports",
+      "locator": "Opening discussion, pp. 54–57, on Takezaki Suenaga, his reward claim, the scrolls he commissioned and their later alteration."
+    },
+    {
+      "sourceId": "source:shozokan-mongol-scrolls",
+      "role": "supports",
+      "locator": "SZK002942, description of the two scrolls, the 1274 and 1281 invasions and missing or rearranged portions."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Hakozaki-Schrein an der Hakata-Bucht",
+    "en": "Hakozaki shrine, Hakata Bay"
+  }
+}

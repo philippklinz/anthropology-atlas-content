@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:granada-court",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Patio de los Leones",
+  "sourceType": "catalog",
+  "creators": [
+    "Patronato de la Alhambra y Generalife"
+  ],
+  "url": "https://www.alhambra-patronato.es/edificios-lugares/patio-de-los-leones",
+  "language": "es",
+  "accessedAt": "2026-11-27"
+}

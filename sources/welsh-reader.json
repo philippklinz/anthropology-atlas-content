@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:welsh-reader",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "An Old Welsh Reader",
+  "sourceType": "book",
+  "creators": [
+    "Simon Rodway (editor), Modern Humanities Research Association"
+  ],
+  "url": "https://www.jstor.org/stable/jj.40545258",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2026"
+}

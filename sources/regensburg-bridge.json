@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:regensburg-bridge",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Die Steinerne Brücke",
+  "sourceType": "book",
+  "creators": [
+    "Stadt Regensburg, Welterbekoordination"
+  ],
+  "url": "https://www.regensburg.de/sixcms/media.php/464/FINAL_Welterbetag_Broschuere_2018_K05_zFG2.pdf",
+  "language": "de",
+  "accessedAt": "2026-11-27"
+}

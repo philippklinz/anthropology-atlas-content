@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:london-getty",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "City of London, TGN 7011798",
+  "sourceType": "dataset",
+  "creators": [
+    "Getty Research Institute"
+  ],
+  "url": "https://www.getty.edu/vow/TGNFullDisplay?english=Y&find=7142511&nation=&place=&subjectid=7011798",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

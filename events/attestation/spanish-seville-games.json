@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:spanish-seville-games",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:alfonso-games",
+      "role": "supports",
+      "locator": "Manuscript, complete digitisation; Descripción. Colophon naming Seville and 1283, Arabic sources for games, chess, dice and tables, representations of women, men and the monarch playing."
+    },
+    {
+      "sourceId": "source:games-display",
+      "role": "supports",
+      "locator": "Datos técnicos and Descripción. Castilian text, 97 parchment leaves, tilted boards displaying actual positions, women and men playing and the range of cultural backgrounds shown by the illuminators."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Schach, Würfel und Brettsteine",
+    "en": "Chess, dice and tables"
+  },
+  "participants": [
+    {
+      "entityId": "artifact:alfonso-x-book-of-games",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:seville"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:seville-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1283,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1283,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Der Schlussvermerk nennt Sevilla als Ort, an dem das Buch der Spiele 1283 begonnen und vollendet wurde.",
+      "en": "The colophon identifies Seville as the city where the Book of Games was begun and completed in 1283."
+    }
+  }
+}

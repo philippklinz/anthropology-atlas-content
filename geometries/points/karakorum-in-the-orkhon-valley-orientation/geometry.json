@@ -1,0 +1,49 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "geometry",
+  "id": "geometry:karakorum-in-the-orkhon-valley-orientation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bonn-workshops",
+      "role": "supports",
+      "locator": "City-centre excavations, figs. 3–7. Wooden anvil bases with bronze dust, scrap bronze, the silver coin of 1237/38 from Karakorum’s mint, gravel, paving and trade activities."
+    },
+    {
+      "sourceId": "source:karakorum-survey",
+      "role": "supports",
+      "locator": "Introduction, Historical background and city access discussion at fig. 7. Location on the Orkhon, residence under Ögödei, Rubruck’s visit in 1254, east-gate roads and dense settlement outside the walls. Published online 2021."
+    },
+    {
+      "sourceId": "source:columbia-artisans",
+      "role": "supports",
+      "locator": "Section on artisans, especially the final paragraph on recruitment for construction under Ögödei at Karakorum and under Khubilai at Shangdu and Daidu."
+    },
+    {
+      "sourceId": "source:orkhon-coordinate",
+      "role": "derivation",
+      "locator": "Coordinate table, row 3. Representative point within the ancient city, rounded to site scale."
+    }
+  ],
+  "file": "shape.geojson",
+  "geometryType": "Point",
+  "method": "schematic",
+  "accuracy": {
+    "kind": "unknown"
+  },
+  "processingNote": {
+    "de": "Orientierungspunkt für den im Text bezeichneten Ort. Die Station erläutert die räumliche Zuordnung.",
+    "en": "Orientation point for the named site or locality. The station explains the spatial identification."
+  },
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Anthropology Atlas contributors"
+    ],
+    "attribution": "Schematic point by Anthropology Atlas contributors. Location reference: Government of Mongolia, submitted to UNESCO.",
+    "originNote": "A newly authored orientation point at the named site or locality, rounded for the atlas. The historical sources describe the identification and its limits.",
+    "sourceUrl": "https://whc.unesco.org/uploads/nominations/1081rev.pdf"
+  }
+}

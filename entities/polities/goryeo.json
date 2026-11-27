@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "polity:goryeo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:bunka-bunei",
+      "role": "supports",
+      "locator": "Section 1, chronology table for Bun’ei 11. Departure from Happo in the tenth lunar month and arrival in northern Kyushu later that month."
+    },
+    {
+      "sourceId": "source:happo-port",
+      "role": "supports",
+      "locator": "정의 and 내용. The historic Happo district around modern Masan in Changwon; its role in the expeditions of the late Goryeo period."
+    },
+    {
+      "sourceId": "source:seokdu-warehouse",
+      "role": "supports",
+      "locator": "Summary and 내용 on Happo’s Goryeo-era tax warehouse and the earlier Na-po port in the Masan coastal area."
+    },
+    {
+      "sourceId": "source:aks-goryeo",
+      "role": "supports",
+      "locator": "Chapter on Goryeo, discussion following the suppression of the Sambyeolcho. Mobilisation of engineers and workers and requisition of timber and ships for the expeditions to Japan."
+    },
+    {
+      "sourceId": "source:national-archives-khubilai",
+      "role": "supports",
+      "locator": "“Official letter from Mongol Empire to Japan”, National Archives of Japan 184-0216. Letters transmitted to Goryeo in 1266 and the context of the first expedition."
+    },
+    {
+      "sourceId": "source:nmk-goryeo-glory",
+      "role": "supports",
+      "locator": "Opening paragraph: Song embassy to Gaegyeong in June 1123, Xu Jing’s stay, presentation to Huizong, the loss of the illustrations."
+    },
+    {
+      "sourceId": "source:nmk-lion-incense-burner",
+      "role": "supports",
+      "locator": "Section on the Celadon Incense Burner with Lion Cover, National Treasure 60, 26.3 cm, and Xu Jing’s account. Photograph and description of the path of the smoke."
+    },
+    {
+      "sourceId": "source:kaesong-heritage-map",
+      "role": "supports",
+      "locator": "Geographical data, 1278rev-001: Manwoldae Palace and Kaesong Chomsongdae."
+    }
+  ],
+  "entityType": "polity",
+  "labels": {
+    "de": "Goryeo",
+    "en": "Goryeo"
+  }
+}

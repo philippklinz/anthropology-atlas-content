@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:newfoundland-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "L’Anse aux Meadows National Historic Site of Canada",
+  "sourceType": "dataset",
+  "creators": [
+    "Natural Resources Canada, Canadian Geographical Names Database"
+  ],
+  "url": "https://toponymes.rncan.gc.ca/search-place-names/unique?id=ACPWM",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

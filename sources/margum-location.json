@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:margum-location",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Margum, Dubravica",
+  "sourceType": "dataset",
+  "creators": [
+    "Vici.org Archaeological Atlas"
+  ],
+  "url": "https://vici.org/vici/20967?lang=en",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

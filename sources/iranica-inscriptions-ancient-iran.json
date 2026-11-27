@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:iranica-inscriptions-ancient-iran",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "EPIGRAPHY ii. Greek inscriptions from ancient Iran",
+  "sourceType": "article",
+  "creators": [
+    "Encyclopaedia Iranica"
+  ],
+  "url": "https://www.iranicaonline.org/articles/epigraphy-ii/",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:brady-languages",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Multilingualism in Early Medieval Britain",
+  "sourceType": "book",
+  "creators": [
+    "Lindy Brady"
+  ],
+  "url": "https://assets.cambridge.org/97810094/67896/excerpt/9781009467896_excerpt.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:aztecs-huitzilopochco",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:huitzilopochco",
+      "role": "supports",
+      "locator": "Sections Huitzilopochco and Desarrollo del asentamiento. Southwestern lake shore, fresh and brackish water, chinampas and neighbouring allies; in 1428 Tenochtitlan imposed tribute in goods and labour."
+    },
+    {
+      "sourceId": "source:mexico-met",
+      "role": "supports",
+      "locator": "Overview; Key Events, ca. 1427 and ca. 1431. Tenochtitlan’s alliance with Texcoco and Tlacopan, Azcapotzalco, indirect rule, tribute and Tlaxcala’s autonomy. Earlier enlargements of the main temple."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Abgaben in Gütern und Arbeit",
+    "en": "Tribute in goods and labour"
+  },
+  "participants": [
+    {
+      "entityId": "community:huitzilopochco-residents",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:huitzilopochco-modern-churubusco"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:huitzilopochco-modern-churubusco-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1428,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1428,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "In Huitzilopochco am südwestlichen Seeufer mussten Haushalte Tenochtitlan von 1428 an Güter und Arbeitsleistungen liefern.",
+      "en": "From 1428 the households of Huitzilopochco on the southwestern lake shore owed goods and labour to Tenochtitlan."
+    }
+  }
+}

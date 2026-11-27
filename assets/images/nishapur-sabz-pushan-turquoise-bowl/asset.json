@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "asset",
+  "id": "asset:nishapur-sabz-pushan-turquoise-bowl",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-nishapur-sabz-pushan-bowl",
+      "role": "supports",
+      "locator": "Collection object 449453, accession 38.40.243. The caption identifies this bowl, excavated at Sabz Pushan in Nishapur in 1937. The photograph is marked Public Domain."
+    },
+    {
+      "sourceId": "source:met-nishapur-bowl-image-record",
+      "role": "supports",
+      "locator": "Object 449453, accessionNumber 38.40.243, isPublicDomain true, primaryImageSmall DP370874.jpg."
+    },
+    {
+      "sourceId": "source:met-open-access-image-rights",
+      "role": "supports",
+      "locator": "Open Access at The Met, first two paragraphs. CC0 terms apply to photographs of public-domain artworks that the museum makes available through its Open Access Initiative."
+    }
+  ],
+  "assetType": "image",
+  "file": "nishapur-bowl.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Eine türkis glasierte Schale aus Sabz Puschan in Nischapur",
+    "en": "A turquoise-glazed bowl from Sabz Pushan in Nishapur"
+  },
+  "alt": {
+    "de": "Flache Schale auf kleinem Standfuß vor grauem Grund. Die Außenwand ist dunkelgrün gesprenkelt, die Innenseite heller. Am ausladenden Rand zeigt sich ein schmaler Streifen Türkis.",
+    "en": "A shallow bowl on a small foot against a grey background. The outer wall is mottled dark green and the interior is paler. A narrow band of turquoise follows the flaring rim."
+  },
+  "entityIds": [
+    "artifact:nishapur-sabz-pushan-turquoise-bowl"
+  ],
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "The Metropolitan Museum of Art"
+    ],
+    "attribution": "The Metropolitan Museum of Art, New York · Rogers Fund, 1938 · accession 38.40.243 · photograph DP370874 · CC0 1.0.",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/449453",
+    "originNote": "The unmodified 594 × 625 museum JPEG DP370874.jpg from primaryImageSmall for object 449453. The Met marks this photograph Public Domain and releases it under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/"
+  }
+}

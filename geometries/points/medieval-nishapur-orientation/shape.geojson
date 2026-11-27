@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:medieval-nishapur-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      58.82,
+      36.17
+    ]
+  }
+}

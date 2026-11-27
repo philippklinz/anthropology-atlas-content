@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "community:huitzilopochco-residents",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:huitzilopochco",
+      "role": "supports",
+      "locator": "Sections Huitzilopochco and Desarrollo del asentamiento. Southwestern lake shore, fresh and brackish water, chinampas and neighbouring allies; in 1428 Tenochtitlan imposed tribute in goods and labour."
+    },
+    {
+      "sourceId": "source:mexico-met",
+      "role": "supports",
+      "locator": "Overview; Key Events, ca. 1427 and ca. 1431. Tenochtitlan’s alliance with Texcoco and Tlacopan, Azcapotzalco, indirect rule, tribute and Tlaxcala’s autonomy. Earlier enlargements of the main temple."
+    }
+  ],
+  "entityType": "community",
+  "labels": {
+    "de": "Einwohner von Huitzilopochco",
+    "en": "Residents of Huitzilopochco"
+  }
+}

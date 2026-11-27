@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:lanse-aux-meadows-newfoundland-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -55.533,
+      51.595
+    ]
+  }
+}

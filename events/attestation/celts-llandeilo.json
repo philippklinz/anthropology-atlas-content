@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:celts-llandeilo",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:lichfield-gospels",
+      "role": "supports",
+      "locator": "“Marginalia”, first and second memoranda. Gelhi, Cingal, the horse, the altar of Teilo, the disputed land and the case for Llandeilo Fawr. Eighth-century main text and a mid-ninth-century dating suggested for the first two additions."
+    },
+    {
+      "sourceId": "source:welsh-reader",
+      "role": "supports",
+      "locator": "Section on the Lichfield Gospels. The editor favours the early ninth century for the gift, and identifies Llandeilo Fawr as probable. The station therefore uses the ninth century as a window."
+    },
+    {
+      "sourceId": "source:deer-legal-notes",
+      "role": "supports",
+      "locator": "pp. 85–124, opening comparison with Wales, especially Chad document no. 4. Ris, a land grant, its bounds and dues."
+    },
+    {
+      "sourceId": "source:naming-welsh",
+      "role": "supports",
+      "locator": "Early Medieval England and its Neighbours 51, e6, pp. 1–3, especially n. 5. Medieval Welsh identities, and Brittonic and Goidelic as modern linguistic terms."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Wie ein Buch an den Altar kam",
+    "en": "How a book came to the altar"
+  },
+  "participants": [
+    {
+      "entityId": "person:gelhi-of-the-lichfield-gospels",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:cingal-of-the-lichfield-gospels",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:lichfield-gospels",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:llandeilo-fawr-area-wales"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:llandeilo-fawr-area-wales-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 801,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 900,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Gelhi gab sein bestes Pferd für das Buch und schenkte es der Kirche des heiligen Teilo. Andere Einträge sprechen für Llandeilo Fawr als Ort der Schenkung.",
+      "en": "Gelhi bought the book with his best horse and gave it to the church of St Teilo. Other entries favour Llandeilo Fawr as the place of the gift."
+    }
+  }
+}

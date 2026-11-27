@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:national-archives-khubilai",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Japan and Mongolia: Our History through Archival Records. Chapter 1, The Mongol Invasions",
+  "sourceType": "archive",
+  "creators": [
+    "National Archives of Japan and General Archival Authority of Mongolia"
+  ],
+  "url": "https://www.archives.go.jp/about/activity/international/jp_mn50/english/ch01.html",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

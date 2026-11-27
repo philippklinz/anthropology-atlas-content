@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "id": "geometry:st-pauls-monastery-jarrow-orientation",
+  "properties": {},
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.4723,
+      54.9801
+    ]
+  }
+}

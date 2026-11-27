@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:franks-aachen",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:einhard-life-of-charlemagne",
+      "role": "supports",
+      "locator": "Vita Karoli Magni, ch. 26 (columns and marble), 28 (imperial title and reported reluctance), 30–31 (death, choice of burial place and burial)."
+    },
+    {
+      "sourceId": "source:unesco-aachen-cathedral",
+      "role": "supports",
+      "locator": "Brief synthesis and Description: the octagon, gallery and dome, spolia from Rome and Ravenna and burial in 814. World Heritage property 3, location coordinates."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Ein Grab in der Pfalzkapelle",
+    "en": "A grave in the palace chapel"
+  },
+  "participants": [
+    {
+      "entityId": "person:charlemagne",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:palatine-chapel-aachen"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:palatine-chapel-aachen-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 814,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 814,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "exact"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Karl starb 814 in Aachen und wurde dort in seiner Kirche bestattet. Das Oktogon ist bis heute Teil des Doms.",
+      "en": "Charles died at Aachen in 814 and was buried in his church there. Its octagon forms part of the present cathedral."
+    }
+  }
+}

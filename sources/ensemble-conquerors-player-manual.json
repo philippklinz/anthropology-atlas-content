@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:ensemble-conquerors-player-manual",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Age of Empires II: The Conquerors Expansion, player manual",
+  "sourceType": "book",
+  "creators": [
+    "Ensemble Studios and Microsoft"
+  ],
+  "url": "https://device.report/m/dfcc44241b836c6ff27a5847cc3143380251208c49d8efc417d8ba5624469bb0.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27",
+  "published": "2000"
+}

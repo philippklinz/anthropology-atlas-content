@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:masan-coordinate",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Sea Level Station Catalog: Masan",
+  "sourceType": "dataset",
+  "creators": [
+    "Intergovernmental Oceanographic Commission of UNESCO"
+  ],
+  "url": "https://www.ioc-sealevelmonitoring.org/ssc/stationdetails.php?id=SSC-masa",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

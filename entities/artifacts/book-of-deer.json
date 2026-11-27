@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "artifact:book-of-deer",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:deer-gospel",
+      "role": "supports",
+      "locator": "Introduction and Physical Description. Tenth-century Gospel text, Gaelic additions on ff. 3–5, the Latin brieve on f. 40, and the 155 × 110 mm parchment codex."
+    },
+    {
+      "sourceId": "source:deer-gift",
+      "role": "supports",
+      "locator": "In Ì Chaluim Chille, pp. 383–415. Discussion of Bishop Cormac and Book of Deer no. III, notes 53–54. Gartnait and Éte’s grant, the pledge, and dating between April 1131 and April 1132."
+    },
+    {
+      "sourceId": "source:deer-location",
+      "role": "supports",
+      "locator": "Opening paragraphs and the 2022 excavation. The team proposes a site about 80 metres from the later Deer Abbey near Mintlaw. The map gives the district rather than pinpointing the grant or place of writing."
+    }
+  ],
+  "entityType": "artifact",
+  "labels": {
+    "de": "Book of Deer",
+    "en": "Book of Deer"
+  }
+}

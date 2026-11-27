@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:henry-proclamation",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "The Only English Proclamation of Henry III, 18 October 1258",
+  "sourceType": "book",
+  "creators": [
+    "Alexander John Ellis"
+  ],
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/California_Digital_Library_%28IA_onlyenglishprocl00ellirich%29.pdf",
+  "language": "en",
+  "accessedAt": "2026-11-27"
+}

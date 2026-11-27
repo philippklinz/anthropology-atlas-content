@@ -1,0 +1,471 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:viking-ships-and-settlements",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:viking-word",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Chronicle and the Irish annals, Old Norse víking/víkingr and the raiding voyages underlying one sense of the term."
+    },
+    {
+      "sourceId": "source:oseberg-ship",
+      "role": "supports",
+      "locator": "Hull and rowing holes, the ship built in 820, burial of two women in 834 and the uncertainty over their identities and status."
+    },
+    {
+      "sourceId": "source:oseberg-sleighs",
+      "role": "supports",
+      "locator": "Opening account of the burial and the four sleighs, followed by “Carvings and ornamentation”. The museum distinguishes three richly carved sleighs and discusses their use before burial."
+    },
+    {
+      "sourceId": "source:oseberg-location",
+      "role": "supports",
+      "locator": "Coordinates field, 59.309° N, 10.453° E, locates the mound rather than the present-day collection."
+    },
+    {
+      "sourceId": "source:jelling-stone",
+      "role": "supports",
+      "locator": "The large stone, its decoration, the translated inscription, the dating around 965 and the discussion of earlier Christian objects and Harald Klak’s baptism at Mainz in 826."
+    },
+    {
+      "sourceId": "source:jelling-pair",
+      "role": "supports",
+      "locator": "“Two monuments from Danish history”, sections on Gorm’s memorial to Thyra (c. 950) and Harald’s inscription."
+    },
+    {
+      "sourceId": "source:jelling-location",
+      "role": "supports",
+      "locator": "Geographical data table, property 697bis, N55° 45′ 23″ E9° 25′ 12″."
+    },
+    {
+      "sourceId": "source:newfoundland-wood",
+      "role": "supports",
+      "locator": "Nature 601, pp. 388–391. Three worked pieces of wood, the metal-tool cuts and Norse depositional context, Table 1 and Fig. 2 on the radiocarbon signal and counting rings to the surviving outside edge. Published online in 2021."
+    },
+    {
+      "sourceId": "source:parks-indigenous",
+      "role": "supports",
+      "locator": "First two paragraphs. Archaeological evidence of Indigenous use over six millennia and Dorset camps on the south shore more than two centuries before the Norse."
+    },
+    {
+      "sourceId": "source:newfoundland-location",
+      "role": "supports",
+      "locator": "Official national historic site point ACPWM, 51.5952777 N, 55.5330555 W; used for the site, not individual wood samples."
+    },
+    {
+      "sourceId": "source:skuldelev-ship-study",
+      "role": "supports",
+      "locator": "Chapter 5.2, printed pp. 183–186, especially the keelson’s incomplete 104th ring on p. 184, the repair sequence and the summary on pp. 185–186; fig. 55 compares excavated Dublin ship parts."
+    },
+    {
+      "sourceId": "source:skuldelev-two-museum",
+      "role": "supports",
+      "locator": "First three paragraphs, covering crew, oak, tentative origin in the Dublin area around 1042, and 60 oars."
+    },
+    {
+      "sourceId": "source:dublin-waters",
+      "role": "supports",
+      "locator": "Section 2.1.3, “Viking and Norman Dublin”. The two early settlements south of the river, a pool of the Poddle, and a Liffey crossing. Modern city centre used only to orient the probable building region."
+    },
+    {
+      "sourceId": "source:skuldelev-channel-location",
+      "role": "supports",
+      "locator": "Printed p. 229, Skuldelev samples. Geographic position of the Peberrenden blocking, 55°48′ N, 12°4′ E, and the narrow channel giving access to Roskilde."
+    },
+    {
+      "sourceId": "source:casiopeia-skuldelev-two-photo",
+      "role": "supports",
+      "locator": "Description, photograph date (16 February 2004), photographer, original JPG and source licensing section, CC BY-SA 2.0 Germany. The visible timber fragments occupy the foreground metal frame."
+    }
+  ],
+  "labels": {
+    "de": "Wikinger – Was das Holz der Wikingerschiffe erzählt",
+    "en": "Vikings – What Viking ship timbers remember"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:vikings-oseberg",
+    "event:vikings-jelling",
+    "event:vikings-newfoundland",
+    "event:skuldelev-two-construction",
+    "event:vikings-peberrenden",
+    "asset:skuldelev-two-original-timbers",
+    "artifact:oseberg-ship",
+    "artifact:oseberg-sleighs",
+    "person:harald-bluetooth",
+    "person:thyra-of-jelling"
+  ],
+  "steps": [
+    {
+      "id": "oseberg",
+      "textAnchor": "oseberg",
+      "labels": {
+        "de": "834 · Zwei Frauen im Osebergschiff",
+        "en": "834 · Two women in the Oseberg ship"
+      },
+      "summary": {
+        "de": "Zwei Frauen wurden mit dem schon benutzten Schiff und vier Schlitten beigesetzt. Die Karte zeigt den Grabhügel bei Tønsberg.",
+        "en": "Two women were buried with a ship that had already been in use and four sleighs. The map shows the burial mound near Tønsberg."
+      },
+      "state": {
+        "camera": {
+          "longitude": 10.453,
+          "latitude": 59.309,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 834,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 834,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "jelling",
+      "textAnchor": "jelling",
+      "labels": {
+        "de": "um 965 · Ein König setzt seine Eltern ins Bild",
+        "en": "around 965 · A king commemorates his parents"
+      },
+      "summary": {
+        "de": "Harald Blauzahn ließ Gorm und Thyra nennen und seine Ansprüche in Runen festhalten. Das genaue Jahr der Inschrift ist unbekannt.",
+        "en": "Harald Bluetooth had Gorm and Thyra named and his claims recorded in runes. The exact year of the inscription is unknown."
+      },
+      "state": {
+        "camera": {
+          "longitude": 9.42,
+          "latitude": 55.756,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 960,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 970,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "newfoundland",
+      "textAnchor": "newfoundland",
+      "labels": {
+        "de": "1021 · Holzarbeit in Neufundland",
+        "en": "1021 · Woodworking in Newfoundland"
+      },
+      "summary": {
+        "de": "Nachweisbar wurden drei Bäume im Jahr 1021 gefällt. Bearbeitungsspuren und Fundkontext verbinden die Hölzer mit der nordischen Siedlung an einer bereits lange von indigenen Gemeinschaften genutzten Bucht.",
+        "en": "Three trees were demonstrably felled in 1021. Tool marks and archaeological context connect the worked wood with the Norse site on a bay long used by Indigenous communities."
+      },
+      "state": {
+        "camera": {
+          "longitude": -55.533,
+          "latitude": 51.595,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1021,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1021,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "dublin",
+      "textAnchor": "dublin",
+      "labels": {
+        "de": "1042 · Eine Eiche für Skuldelev 2",
+        "en": "1042 · An oak for Skuldelev 2"
+      },
+      "summary": {
+        "de": "Der Baum für die Maststütze wurde im Mai oder Juni 1042 gefällt. Das Schiff wurde damals oder bald darauf in Ostirland gebaut, wahrscheinlich im Raum Dublin. Die Karte zeigt die Region der vermuteten Werft.",
+        "en": "The oak for the keelson was felled in May or June 1042. The ship was built then or soon afterwards in eastern Ireland, probably around Dublin. The map locates the likely region of the yard."
+      },
+      "state": {
+        "camera": {
+          "longitude": -6.26,
+          "latitude": 53.35,
+          "metersPerPixel": 1200,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1042,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1042,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:skuldelev-two-original-timbers"
+    },
+    {
+      "id": "peberrenden",
+      "textAnchor": "peberrenden",
+      "labels": {
+        "de": "wahrscheinlich in den 1070er-Jahren · Ein Schiff sperrt die Fahrrinne",
+        "en": "probably in the 1070s · A ship blocks the channel"
+      },
+      "summary": {
+        "de": "Nach mehreren Reparaturen wurde Skuldelev 2 wahrscheinlich in den 1070er-Jahren in der zweiten Ausbauphase der Sperre im Roskilde-Fjord versenkt.",
+        "en": "After several repairs Skuldelev 2 was probably sunk in the 1070s, in the second building phase of the barrier in Roskilde Fjord."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.067,
+          "latitude": 55.8,
+          "metersPerPixel": 350,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1070,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1079,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      },
+      "assetId": "asset:skuldelev-two-original-timbers"
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Von den Schlitten im Oseberggrab bis zur Hafensperre bei Skuldelev. Ein Königsstein nennt Namen, drei Bäume in Neufundland liefern ein Kalenderjahr.",
+      "en": "From the sleighs in the Oseberg grave to the barrier at Skuldelev. A royal stone supplies names and three trees in Newfoundland give a calendar year."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "vikings",
+        "labels": {
+          "de": "Wikinger",
+          "en": "Vikings"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "north-atlantic",
+        "labels": {
+          "de": "Nordatlantik",
+          "en": "North Atlantic"
+        }
+      },
+      {
+        "id": "british-isles",
+        "labels": {
+          "de": "Britische und irische Inseln",
+          "en": "Britain and Ireland"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": -21.733,
+      "latitude": 55.452,
+      "metersPerPixel": 13335,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 834,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 834,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1079,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1079,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:lanse-aux-meadows-three-timbers",
+    "artifact:large-jelling-stone",
+    "artifact:oseberg-ship",
+    "artifact:oseberg-sleighs",
+    "artifact:skuldelev-two-longship",
+    "asset:skuldelev-two-original-timbers",
+    "event:skuldelev-two-construction",
+    "event:vikings-jelling",
+    "event:vikings-newfoundland",
+    "event:vikings-oseberg",
+    "event:vikings-peberrenden",
+    "geometry:jelling-rune-stones-orientation",
+    "geometry:lanse-aux-meadows-newfoundland-orientation",
+    "geometry:medieval-dublin-orientation",
+    "geometry:oseberg-burial-mound-orientation",
+    "geometry:peberrenden-near-skuldelev-roskilde-fjord-orientation",
+    "person:gorm-the-old",
+    "person:harald-bluetooth",
+    "person:thyra-of-jelling",
+    "place:jelling-rune-stones",
+    "place:lanse-aux-meadows-newfoundland",
+    "place:medieval-dublin",
+    "place:oseberg-burial-mound",
+    "place:peberrenden-near-skuldelev-roskilde-fjord",
+    "source:casiopeia-skuldelev-two-photo",
+    "source:dublin-waters",
+    "source:jelling-location",
+    "source:jelling-pair",
+    "source:jelling-stone",
+    "source:newfoundland-location",
+    "source:newfoundland-wood",
+    "source:oseberg-location",
+    "source:oseberg-ship",
+    "source:oseberg-sleighs",
+    "source:parks-indigenous",
+    "source:skuldelev-channel-location",
+    "source:skuldelev-ship-study",
+    "source:skuldelev-two-museum",
+    "source:viking-word"
+  ]
+}

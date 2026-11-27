@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "source",
+  "id": "source:bnf-strasbourg-oaths",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [],
+  "title": "Serments de Strasbourg, notice de titre textuel",
+  "sourceType": "catalog",
+  "creators": [
+    "Bibliothèque nationale de France"
+  ],
+  "url": "https://catalogue.bnf.fr/ark:/12148/cb120677260",
+  "language": "fr",
+  "accessedAt": "2026-11-27"
+}

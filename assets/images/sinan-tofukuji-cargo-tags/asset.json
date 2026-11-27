@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "0.1.0",
+  "editorial": {
+    "status": "draft"
+  },
+  "kind": "asset",
+  "id": "asset:sinan-tofukuji-cargo-tags",
+  "sourceRefs": [
+    {
+      "sourceId": "source:todd-sinan-cargo-tags",
+      "role": "derivation",
+      "locator": "Gary Todd, 7 May 2015, Sinan Shipwreck Gallery, National Museum of Korea, image and CC0 1.0 terms."
+    },
+    {
+      "sourceId": "source:sinan-museum-collection",
+      "role": "supports",
+      "locator": "Lee Taehee, pp. 106–108 and fig. 3, use of the wooden cargo tags, date and temple names."
+    }
+  ],
+  "assetType": "image",
+  "file": "sinan-tofukuji-cargo-tags.jpg",
+  "mediaType": "image/jpeg",
+  "labels": {
+    "de": "Der Name Tōfuku-ji auf Ladungszetteln vom Sinan-Schiff",
+    "en": "Tōfuku-ji’s name on cargo tags from the Sinan ship"
+  },
+  "alt": {
+    "de": "Schmale Holzbrettchen auf einer hellen Fläche. Auf mehreren steht Schrift in schwarzer Tinte. Rechts der Mitte und ganz rechts lassen sich die drei Zeichen 東福寺 für Tōfuku-ji lesen.",
+    "en": "Narrow wooden tags on a pale surface, several bearing black ink. The characters 東福寺 for Tōfuku-ji can be read on a tag right of centre and another at the far right."
+  },
+  "entityIds": [
+    "artifact:sinan-wooden-cargo-tags"
+  ],
+  "rights": {
+    "license": "CC0-1.0",
+    "creators": [
+      "Gary Todd"
+    ],
+    "attribution": "Gary Todd, Sinan Shipwreck Gallery, National Museum of Korea, Seoul, 7 May 2015. CC0 1.0, via Wikimedia Commons.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wood_Slips_(17607210519).jpg",
+    "originNote": "Resized to 1,600 pixels wide and re-encoded as JPEG. Framing preserved. Creative Commons CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/."
+  }
+}

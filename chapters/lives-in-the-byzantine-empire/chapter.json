@@ -1,0 +1,388 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "chapter",
+  "id": "chapter:lives-in-the-byzantine-empire",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:met-byzantium-periods",
+      "role": "supports",
+      "locator": "Opening discussion of Rhomaioi and the capital; “The Latin Occupation of Constantinople” and “Late Byzantium” on 1204, 1261, Nicaea and Trebizond."
+    },
+    {
+      "sourceId": "source:hagia-sophia-met",
+      "role": "supports",
+      "locator": "Opening paragraphs on the Nika fire, dedication on 27 December 537, architects, vault, 558 collapse, 562 rebuilding and decoration. Closing paragraphs on conversion under Mehmed II in 1453 and subsequent Ottoman additions."
+    },
+    {
+      "sourceId": "source:istanbul-world-heritage-maps",
+      "role": "supports",
+      "locator": "Sultanahmet Urban Archaeological Component Area, component 356bis-001, Istanbul historic peninsula. The atlas places the church within the mapped area."
+    },
+    {
+      "sourceId": "source:bruckner-san-vitale-sanctuary",
+      "role": "supports",
+      "locator": "Article 743, discussion around Figure 7, imperial panels at San Vitale. Opposing positions of the figures, plate, chalice, consecration by Maximian in 547 and limits of identification by inscription."
+    },
+    {
+      "sourceId": "source:met-san-vitale-dress",
+      "role": "supports",
+      "locator": "Theodora and Justinian panels, particularly embroidered Three Magi along the hem, purple garments, ceremonial vessels and retinues."
+    },
+    {
+      "sourceId": "source:unesco-ravenna-monuments-map",
+      "role": "supports",
+      "locator": "Component 788-002, Church of St. Vitale. Coordinate table and adopted map at 1:1500."
+    },
+    {
+      "sourceId": "source:ozsait-kocabas-yenikapi-twelve",
+      "role": "supports",
+      "locator": "Introduction, Figures 1 and 2, Table 1, “General characteristics” and reconstruction. Site plan, location of cargo and crew items, cherries and coin, calibrated timber dates, reconstructed dimensions."
+    },
+    {
+      "sourceId": "source:kuelzer-harbour-theodosius-yenikapi",
+      "role": "supports",
+      "locator": "The Byzantine Harbours of Constantinople, Fig. 9 and accompanying text and note 141 on YK 12 and the proposed season of sinking."
+    },
+    {
+      "sourceId": "source:oxford-yenikapi-harbour-location",
+      "role": "supports",
+      "locator": "Shipwrecks Database, entry 997: site-level coordinates 41.00447° N, 28.95249° E for Yenikapı. The point locates the excavation area, not the individual hull."
+    },
+    {
+      "sourceId": "source:fatih-ayasofya",
+      "role": "supports",
+      "locator": "Building history, from the conversion of the patriarchal cathedral under Mehmed II in 1453 to the successive Ottoman minarets."
+    }
+  ],
+  "labels": {
+    "de": "Byzantiner – Eine Kuppel, zwei Herrscherbilder und ein Korb Kirschkerne",
+    "en": "Byzantines – A dome, two imperial portraits and a basket of cherry stones"
+  },
+  "textFiles": {
+    "de": "de.md",
+    "en": "en.md"
+  },
+  "focusIds": [
+    "event:byzantines-hagia-sophia-537",
+    "event:byzantines-ravenna",
+    "event:byzantines-yenikapi",
+    "event:hagia-sophia-conversion-1453",
+    "person:justinian-i",
+    "person:anthemios-of-tralles",
+    "person:isidoros-of-miletos",
+    "person:maximian-of-ravenna"
+  ],
+  "steps": [
+    {
+      "id": "hagia-sophia-537",
+      "textAnchor": "hagia-sophia-537",
+      "labels": {
+        "de": "537 · Weihe der Hagia Sophia",
+        "en": "537 · Dedication of Hagia Sophia"
+      },
+      "summary": {
+        "de": "Justinians Neubau wurde am 27. Dezember geweiht. Die erste Kuppel stürzte 558 ein.",
+        "en": "Justinian’s new church was dedicated on 27 December. Its first dome collapsed in 558."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.98017,
+          "latitude": 41.00858,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 537,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 537,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "ravenna",
+      "textAnchor": "ravenna",
+      "labels": {
+        "de": "547 · Maximians Name im Mosaik",
+        "en": "547 · Maximian’s name in mosaic"
+      },
+      "summary": {
+        "de": "Maximian weihte San Vitale. Im Altarraum begleiten sein Name und sein Bild Justinian. Gegenüber bringt Theodora einen Kelch.",
+        "en": "Maximian consecrated San Vitale. In its sanctuary, his name and image accompany Justinian. Theodora carries a chalice on the opposite wall."
+      },
+      "state": {
+        "camera": {
+          "longitude": 12.19639,
+          "latitude": 44.42059,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 547,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 547,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "yenikapi",
+      "textAnchor": "yenikapi",
+      "labels": {
+        "de": "9. Jahrhundert · Ein Küstenschiff im Theodosiushafen",
+        "en": "9th century · A coastal trader in the Theodosian harbour"
+      },
+      "summary": {
+        "de": "Münze und Amphoren stützen die Datierung des Wracks YK 12 ins neunte Jahrhundert. Der Punkt markiert das Ausgrabungsgebiet im Hafen.",
+        "en": "A coin and amphoras support a ninth-century date for wreck YK 12. The point identifies the harbour excavation area."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.95249,
+          "latitude": 41.00447,
+          "metersPerPixel": 650,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 801,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 900,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "uncertain"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    },
+    {
+      "id": "hagia-sophia-1453",
+      "textAnchor": "hagia-sophia-1453",
+      "labels": {
+        "de": "1453 · Die bisherige Kathedrale wird zur Moschee",
+        "en": "1453 · The former cathedral becomes a mosque"
+      },
+      "summary": {
+        "de": "1453 ließ Mehmed II. die Hagia Sophia als Moschee einrichten. Der Bau der alten Kathedrale blieb an seinem Platz.",
+        "en": "In 1453 Mehmed II had Hagia Sophia converted into a mosque. The fabric of the old cathedral remained in place."
+      },
+      "state": {
+        "camera": {
+          "longitude": 28.98017,
+          "latitude": 41.00858,
+          "metersPerPixel": 450,
+          "bearing": 0,
+          "pitch": 0
+        },
+        "time": {
+          "kind": "instant",
+          "at": {
+            "earliest": {
+              "year": 1453,
+              "month": 1,
+              "day": 1
+            },
+            "latest": {
+              "year": 1453,
+              "month": 12,
+              "day": 31
+            },
+            "precision": "year",
+            "qualifier": "exact"
+          }
+        },
+        "layers": [
+          "events",
+          "attested-at",
+          "located-at",
+          "controls"
+        ]
+      }
+    }
+  ],
+  "discovery": {
+    "summary": {
+      "de": "Unter der Kuppel der Hagia Sophia, vor den Mosaiken von Ravenna und an Bord eines Küstenschiffs begegnen uns Menschen des östlichen Römischen Reichs. Nach 1453 ändert eine Kathedrale ihre Bestimmung.",
+      "en": "A dome in Constantinople, two mosaics at Ravenna and a coastal ship bring the people of the eastern Roman Empire into view. In 1453 their cathedral acquired a new use."
+    },
+    "topics": [
+      {
+        "id": "aoe2-classics",
+        "labels": {
+          "de": "Age of Empires II · Die 18 Klassiker",
+          "en": "Age of Empires II · The 18 classics"
+        }
+      },
+      {
+        "id": "age-of-kings",
+        "labels": {
+          "de": "The Age of Kings (1999)",
+          "en": "The Age of Kings (1999)"
+        }
+      },
+      {
+        "id": "byzantines",
+        "labels": {
+          "de": "Byzantiner",
+          "en": "Byzantines"
+        }
+      }
+    ],
+    "periods": [
+      {
+        "id": "medieval",
+        "labels": {
+          "de": "Mittelalter",
+          "en": "Middle Ages"
+        }
+      }
+    ],
+    "regions": [
+      {
+        "id": "eastern-mediterranean",
+        "labels": {
+          "de": "Östliches Mittelmeer",
+          "en": "Eastern Mediterranean"
+        }
+      },
+      {
+        "id": "italy",
+        "labels": {
+          "de": "Italien",
+          "en": "Italy"
+        }
+      }
+    ]
+  },
+  "initialState": {
+    "camera": {
+      "longitude": 20.58828,
+      "latitude": 42.71253,
+      "metersPerPixel": 4290,
+      "bearing": 0,
+      "pitch": 0
+    },
+    "time": {
+      "kind": "interval",
+      "start": {
+        "earliest": {
+          "year": 537,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 537,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "end": {
+        "earliest": {
+          "year": 1453,
+          "month": 1,
+          "day": 1
+        },
+        "latest": {
+          "year": 1453,
+          "month": 12,
+          "day": 31
+        },
+        "precision": "year",
+        "qualifier": "exact"
+      },
+      "endMeaning": "ended"
+    },
+    "layers": [
+      "events",
+      "attested-at",
+      "located-at",
+      "controls"
+    ]
+  },
+  "recordIds": [
+    "artifact:san-vitale-imperial-panels",
+    "artifact:yenikapi-wreck-twelve",
+    "event:byzantines-hagia-sophia-537",
+    "event:byzantines-ravenna",
+    "event:byzantines-yenikapi",
+    "event:hagia-sophia-conversion-1453",
+    "geometry:hagia-sophia-constantinople-orientation",
+    "geometry:san-vitale-ravenna-orientation",
+    "geometry:theodosian-harbour-yenikap-orientation",
+    "person:anthemios-of-tralles",
+    "person:isidoros-of-miletos",
+    "person:justinian-i",
+    "person:maximian-of-ravenna",
+    "person:mehmed-ii",
+    "person:theodora-i",
+    "place:hagia-sophia-constantinople",
+    "place:san-vitale-ravenna",
+    "place:theodosian-harbour-yenikap",
+    "source:bruckner-san-vitale-sanctuary",
+    "source:fatih-ayasofya",
+    "source:hagia-sophia-met",
+    "source:istanbul-world-heritage-maps",
+    "source:kuelzer-harbour-theodosius-yenikapi",
+    "source:maclagan-city-constantinople",
+    "source:met-byzantium-periods",
+    "source:met-san-vitale-dress",
+    "source:oxford-yenikapi-harbour-location",
+    "source:ozsait-kocabas-yenikapi-twelve",
+    "source:unesco-ravenna-monuments-map"
+  ]
+}

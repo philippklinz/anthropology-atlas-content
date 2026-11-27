@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "event",
+  "id": "event:celts-deer",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:deer-gospel",
+      "role": "supports",
+      "locator": "Introduction and Physical Description. Tenth-century Gospel text, Gaelic additions on ff. 3–5, the Latin brieve on f. 40, and the 155 × 110 mm parchment codex."
+    },
+    {
+      "sourceId": "source:deer-gift",
+      "role": "supports",
+      "locator": "In Ì Chaluim Chille, pp. 383–415. Discussion of Bishop Cormac and Book of Deer no. III, notes 53–54. Gartnait and Éte’s grant, the pledge, and dating between April 1131 and April 1132."
+    },
+    {
+      "sourceId": "source:deer-location",
+      "role": "supports",
+      "locator": "Opening paragraphs and the 2022 excavation. The team proposes a site about 80 metres from the later Deer Abbey near Mintlaw. The map gives the district rather than pinpointing the grant or place of writing."
+    }
+  ],
+  "eventType": "attestation",
+  "labels": {
+    "de": "Éte und Gartnait geben Land",
+    "en": "Éte and Gartnait grant land"
+  },
+  "participants": [
+    {
+      "entityId": "person:ete-of-buchan",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:gartnait-son-of-cainnech",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "person:cormac-bishop-of-dunkeld",
+      "role": "attested-entity"
+    },
+    {
+      "entityId": "artifact:book-of-deer",
+      "role": "attested-entity"
+    }
+  ],
+  "placeIds": [
+    "place:old-deer-area-buchan"
+  ],
+  "spatial": [
+    {
+      "geometryId": "geometry:old-deer-area-buchan-orientation",
+      "role": "location"
+    }
+  ],
+  "time": {
+    "kind": "instant",
+    "at": {
+      "earliest": {
+        "year": 1131,
+        "month": 1,
+        "day": 1
+      },
+      "latest": {
+        "year": 1132,
+        "month": 12,
+        "day": 31
+      },
+      "precision": "year",
+      "qualifier": "uncertain"
+    }
+  },
+  "epistemic": {
+    "status": "attested",
+    "note": {
+      "de": "Eine gälische Notiz überliefert ihre Schenkung und eine Sicherheit an Bischof Cormac. Die Karte verortet die Gemeinschaft von Deer, für die der Eintrag bestimmt war.",
+      "en": "A Gaelic note records their grant and a pledge to Bishop Cormac. The map locates the community at Deer that the record concerned."
+    }
+  }
+}

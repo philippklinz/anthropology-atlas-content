@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "0.1.0",
+  "kind": "entity",
+  "id": "place:bodmin-cornwall",
+  "editorial": {
+    "status": "draft"
+  },
+  "sourceRefs": [
+    {
+      "sourceId": "source:thorpe-freed",
+      "role": "supports",
+      "locator": "Printed p. 627, entry beginning Her kyð on þissere bec. Old English text and translation: Ongynethel and Gythiccael, half a pound, four pence, two officials, church door and altar, named witnesses."
+    },
+    {
+      "sourceId": "source:bodmin-gospels",
+      "role": "supports",
+      "locator": "Scope and Content, post-Gospel additions: 51 records of manumission in Latin and Old English, marginal and blank-leaf entries. The catalogue’s broad dating should be read with Pracy’s discussion of individual hands and names."
+    },
+    {
+      "sourceId": "source:pracy-manumissions",
+      "role": "supports",
+      "locator": "The Haskins Society Journal 31, pp. 1 and 9, especially notes 40–43. Competing datings for entries sharing the name Maccos, around 1000 or late in the eleventh century."
+    },
+    {
+      "sourceId": "source:petroc-site",
+      "role": "supports",
+      "locator": "National Heritage List for England 1355166, Location and Details, grid SX 07313 67033. The standing church is later than the entry and is used to locate Bodmin only."
+    }
+  ],
+  "entityType": "place",
+  "labels": {
+    "de": "Bodmin in Cornwall",
+    "en": "Bodmin, Cornwall"
+  }
+}
