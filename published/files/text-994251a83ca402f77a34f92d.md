@@ -1,0 +1,29 @@
+# Eine Krone, ein Küchengarten und ein Buch der K’iche’
+
+Zwischen zwei Gebäuden im heutigen El Salvador lag unter der Vulkanasche ein leerer Hohlraum. Ein Ausgrabungsteam füllte solche Hohlräume mit Gips. Zum Vorschein kam die Form längst vergangener Pflanzen. Weiter nördlich haben sich in den Städten Palenque und Yaxchilán die Namen von Angehörigen zweier Königsfamilien in Stein erhalten. Die Familien am Rand ihrer Küchengärten kannten einander ebenfalls mit Namen. Wer heute über sie schreiben will, muss mit sehr unterschiedlichen Hinterlassenschaften arbeiten. Auch „Maya“ umfasst viele Gemeinschaften mit verschiedenen Sprachen und eigenen politischen Geschichten.
+
+## Wie eine Mutter ihrem Sohn die Herrschaft reichte {#pakal}
+
+K’inich Janaab Pakal war zwölf Jahre alt, als er 615 in Palenque die Herrschaft antrat. Auf einer ovalen Tafel im Haus E des Palastes sitzt er seiner Mutter gegenüber. Sak K’uk’ hält ihm den königlichen Kopfschmuck hin. Die Übergabe lässt sich durch eine bemerkenswert genaue Angabe ergänzen. Die Inschriften Palenques verzeichnen Pakals Regierungsantritt als eine bestimmte Folge von Tagen in der Langen Zählung, einem Kalender, der die verstrichenen Tage in größeren Einheiten zählt. Auch Geburts- und Sterbedaten sind erhalten. Aus zwei dieser Angaben lässt sich errechnen, wie jung der künftige König war.
+
+Das Bild wirft eine Frage auf, die das Datum allein offenlässt. Welche Stellung nahm die Frau ein, von der der Junge das Zeichen der Herrschaft empfing? In der Forschung wurde erwogen, dass seine Mutter während der vorangegangenen Krise die Regentschaft geführt habe. Auf der Tafel ist ihre Bedeutung für den Herrschaftsantritt deutlich. Um zu erfahren, welche Entscheidungen sie in den Jahren davor und danach selbst traf, bräuchten wir weitere Zeugnisse. Der heute online zugängliche Londoner Abguss entstand im 19. Jahrhundert. Die Szene gehört nach Palenque.
+
+## Zwischen Küche und Vorratshaus {#ceren}
+
+Im selben Jahrhundert begrub eine Eruption der Loma Caldera das Dorf, das wir als Joya de Cerén kennen. Für den Ausbruch ergibt eine Auswertung der Radiokarbondaten ein wahrscheinliches Zeitfenster von 610 bis 671. In der Asche liegen Reste von Häusern aus Flechtwerk und Lehm mit grasgedeckten Dächern. Zum ersten der ausgegrabenen Haushalte gehörte mehr als ein Gebäude. Neben einem Vorratshaus und einer Küche lagen Anbauflächen. Im Küchengebäude 11 fanden sich Mais, Bohnen, Kürbis und Chilischoten in Gefäßen sowie eine feste Herdstelle.
+
+Mais lässt sich an Kolben erkennen. Wurzelpflanzen stellen die Archäologie vor ein anderes Problem. Wenn das organische Gewebe eines von Asche umschlossenen Manioks vergeht, kann seine Form im vulkanischen Material erhalten bleiben. Die Ausgräber untersuchten solche Hohlräume mit einer kleinen optischen Sonde und gossen sie mit Dentalgips aus. So konnten sie die Abdrücke von Stängeln und Speicherwurzeln im Garten einem bestimmten Haushalt zuordnen. Südlich des Dorfes fanden sie Maniok auch auf größeren Feldern. Wer nur die Vorratsgefäße aus der Küche zählen würde, bekäme ein ganz anderes Bild von dem, was diese Menschen zu essen hatten. Die Namen derer, die dort pflanzten und kochten, sind unbekannt.
+
+## Ein Türsturz erinnert an ein früheres Ereignis {#yaxchilan}
+
+Am Ufer des Usumacinta ließ die Königsfamilie von Yaxchilán eine Frau bei einer rituellen Handlung darstellen. Auf Türsturz 24 von Gebäude 23 kniet K’ab’al Xook. Ihr Mann Itzamnaaj Bahlam hält eine brennende Fackel. Sie zieht eine Schnur durch ihre Zunge, vor ihr steht ein geflochtener Behälter. Noch an der erhaltenen Skulptur lassen sich Spuren farbiger Bemalung erkennen. Über einem Eingang angebracht, verlangte das Bild von einem Besucher eine Bewegung, die eine frontale Museumsaufnahme kaum vermittelt. Um die Unterseite zu betrachten, musste man aufschauen.
+
+Hier sind zwei Zeiten überliefert. Die Schrift datiert die Handlung in das Jahr 709. Der Stein wurde nach der Datierung des British Museum erst zwischen 723 und 726 bearbeitet. Die Königsfamilie ließ eine bereits zurückliegende Handlung an einem Ort sichtbar machen, den Menschen weiterhin betraten. Wer die Frau identifizieren möchte, ist auf lesbare Zeichen angewiesen. In der Maya-Schrift können Zeichen ganze Wörter oder Silben wiedergeben. Muster der Kleidung, Körperhaltung und Fackel helfen, das Bild zu verstehen. Die Namenslesung erschließt etwas, das die Kleidung allein kaum verraten würde.
+
+## Das Buch in zwei Spalten {#chichicastenango}
+
+Um 1700 schrieb der Dominikaner Francisco Ximénez in Santo Tomás Chichicastenango eine Fassung des **Popol Wuj** ab. Der Text gehört zur Überlieferung der K’iche’ im Hochland des heutigen Guatemala. Links und rechts stehen K’iche’ in lateinischen Buchstaben und Ximénez’ spanische Übersetzung. Die Vorgeschichte der erhaltenen Handschrift führt wahrscheinlich zu einer älteren Niederschrift im 16. Jahrhundert. Wie vieles mündlich vorgetragen wurde und wie ein früheres Schriftstück aussah, lässt sich aus Ximénez’ Seiten nur teilweise erschließen. Auch die Datierung seiner eigenen Abschrift schwankt um einige Jahre.
+
+In einer der Schöpfungserzählungen mahlt Xmucane gelben und weißen Mais. Aus dem Mais entsteht das Fleisch der ersten Menschen. Wer gerade aus der Küche von Cerén kommt, erkennt dieselbe Nutzpflanze wieder. Welche Bedeutung sie dort tausend Jahre früher in einer Erzählung hatte, verraten die ausgegrabenen Körner nicht. Das Buch lässt sich heute auch in einer Ausgabe mit Erläuterungen auf K’iche’ lesen, an der die guatemaltekische Akademie der Maya-Sprachen mitwirkte. Eine weitere Werkstatt für indigene Sprachen findet sich im Kapitel über [die Nahua-Gelehrten von Tlatelolco](chapter:life-in-the-mexica-capital#tlatelolco-manuscript).
+
+[Weitere Wege durch historische Quellen](chapter:reading-history-through-objects)
